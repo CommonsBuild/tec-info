@@ -37,22 +37,7 @@
 * [Momentum Builds: Gravitons, Hatch DAOs, Indigenomics & Dandelions](https://medium.com/token-engineering-commons/the-tec-builds-momentum-gravitons-hatch-daos-indigenomics-and-dandelions-87c3e43d8ee0)
   > The Gravity Working Group is a collective that aims to bring people together and promote resilience in decentralized organizations by training its members in non-violent communication, understanding and analyzing conflict and techniques to manage it. To do this, Gravity needs Gravitons!
 
-### Bonding Curves
-
-* [Crowdfunding the Commons – Abbey Titcomb](https://blog.usejournal.com/crowdfunding-the-commons-d590238d8c3c) - Last week at ETHDenver, we built a proof-of-concept interface for launching curve bonded crowdfunding campaigns for social impact causes and organizations.
-  > 🌱 Curve-bonded crowdfunding\
-  > [...]\
-  > Our project at ETHDenver was based upon a augmented bonding curve designed by Michael Zargham at BlockScience. The curve models a Token Pool (a Reserve of bonded DAI and a Supply of tokens) and a Funding Pool (floating supply of DAI available for use) that work together to create a self-sustaining and governing system for funding “labor” within a commons — aka any socially beneficial behavior which has positive impact on the commons as a shared resource. This “labor” could be defined as anything from trail maintenance in a National Park to contributing code to a free and open-source software project. We’ll be diving into Zargham’s design in a secondary article (coming soon!), and focusing on the key principles of the design here.
-* [Rewriting the Story of Human Collaboration (Or, an Introduction to Token Bonding & Curation Markets)](https://blog.goodaudience.com/rewriting-the-story-of-human-collaboration-c33a8a4cd5b8)
-  > Token bonding curves, acting as automatic market makers, provide a useful alternative to the ICO as a token generation model.
-  > 
-  > So how does this work in the real world? Here is an early stage, relatively simple example, where we’ll conveniently leave out many of the problems that complicate the use of bonding curves, TCRs and curation markets — more on those later.
-* [Deep Dive: Augmented Bonding Curves – Abbey Titcomb](https://medium.com/commonsstack/deep-dive-augmented-bonding-curves-b5ca4fad4436)
-  > This article is a deeper technical primer into the system design of the Augmented Bonding Curve used for the Commons Stack based off of Michael Zargham’s complex system research at BlockScience. For brevity, this article will assume a preliminary knowledge of bonding curves (if you need a refresh or an introduction, check out Slava Balasanov’s deep dive into bonding curves, Jeff Emmett’s simple introduction, and our first article on the topic here). The beginning of the article focuses on the overall design of the system and the second half will dive deeper into the equations and simulations that define how it all works.
-
-![](https://miro.medium.com/max/2000/1*-sGUaU4ouzUNCZA3DM0Y3Q.jpeg)
-
-### Working Groups
+### [TEC Working Groups](https://www.notion.so/Working-Groups-e9854f7464904977aeb6bc445a69eee0)
 #### Gravity
 
 * [Gravity - Role Design](https://forum.tecommons.org/t/gravity-role-design/174)
@@ -62,7 +47,7 @@
   > b) As a collective, to take decisions on the implementation of graduated sanctions.\
   > c) As both a collective and individuals, to commit to the practice of preventing, contextualizing and resolving disputes by regular attendance in our community practice.
 
-### Hatch
+#### Hatch
 * [Hatch TL;DR for potential hatchers](https://docs.google.com/document/d/1Ji2vV5c_PCXt2q0G-1wTddyOaUp5ESKWht2UKcoE7S0/edit?pli=1)
   > The Hatch is the critical initial phase of the Token Engineering Commons (TEC). The purpose of this document is to guide you through the steps of the Hatch and what happens to liquidity that is deposited. There’s a couple key variables to be aware of in the Hatch, the numeric values of these variables will be chosen by the community (your economy, your choice) but the overarching principles are very important to understand.
 * [TEC Hatch Dashboard](https://tec-hatch-demo.herokuapp.com/app)
@@ -74,6 +59,8 @@
   > - Educate the Hatchers so they feel comfortable contributing to the TEC Hatch
   > - Educate the Proposals so they feel comfortable proposing to the TEC via the forum before the Hatch
   > - Make sure that the objectives, principles and intentions from the TEC are transmitted and clearly communicated.
+
+
 
 ## Commons Stack
 
@@ -130,9 +117,25 @@
   > See if You Can Save the Future with cadCAD, RadicalxChange & the Commons Stack TL;DR: Why did we do this? The Simulator serves several purposes: To introduce the audience to the importance of the commons and the inspiring RadicalxChange movement in bringing about more equitable futures. To demonstrate how to parameterize and model a Cyber-Physical Commons in an entertaining and
 
 
+### Bonding Curves
+
+* [Crowdfunding the Commons – Abbey Titcomb](https://blog.usejournal.com/crowdfunding-the-commons-d590238d8c3c) - Last week at ETHDenver, we built a proof-of-concept interface for launching curve bonded crowdfunding campaigns for social impact causes and organizations.
+  > 🌱 Curve-bonded crowdfunding\
+  > [...]\
+  > Our project at ETHDenver was based upon a augmented bonding curve designed by Michael Zargham at BlockScience. The curve models a Token Pool (a Reserve of bonded DAI and a Supply of tokens) and a Funding Pool (floating supply of DAI available for use) that work together to create a self-sustaining and governing system for funding “labor” within a commons — aka any socially beneficial behavior which has positive impact on the commons as a shared resource. This “labor” could be defined as anything from trail maintenance in a National Park to contributing code to a free and open-source software project. We’ll be diving into Zargham’s design in a secondary article (coming soon!), and focusing on the key principles of the design here.
+* [Rewriting the Story of Human Collaboration (Or, an Introduction to Token Bonding & Curation Markets)](https://blog.goodaudience.com/rewriting-the-story-of-human-collaboration-c33a8a4cd5b8)
+  > Token bonding curves, acting as automatic market makers, provide a useful alternative to the ICO as a token generation model.
+  > 
+  > So how does this work in the real world? Here is an early stage, relatively simple example, where we’ll conveniently leave out many of the problems that complicate the use of bonding curves, TCRs and curation markets — more on those later.
+* [Deep Dive: Augmented Bonding Curves – Abbey Titcomb](https://medium.com/commonsstack/deep-dive-augmented-bonding-curves-b5ca4fad4436)
+  > This article is a deeper technical primer into the system design of the Augmented Bonding Curve used for the Commons Stack based off of Michael Zargham’s complex system research at BlockScience. For brevity, this article will assume a preliminary knowledge of bonding curves (if you need a refresh or an introduction, check out Slava Balasanov’s deep dive into bonding curves, Jeff Emmett’s simple introduction, and our first article on the topic here). The beginning of the article focuses on the overall design of the system and the second half will dive deeper into the equations and simulations that define how it all works.
+
+![](https://miro.medium.com/max/2000/1*-sGUaU4ouzUNCZA3DM0Y3Q.jpeg)
+
+
 ### Token Engineering Community
 
-The TECommons is an outgrowth of the Token Engineering Community, which was born of the Commons Stack.
+The TECommons is an outgrowth of the Token Engineering Community, which came out of the Commons Stack.
 
 * [Welcome to the Token Engineering community!](https://tokenengineeringcommunity.github.io/website/docs/getting-started-welcome/)
   > **So what is "token engineering?"**\
