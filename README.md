@@ -57,6 +57,7 @@
 * [Momentum Builds: Gravitons, Hatch DAOs, Indigenomics & Dandelions](https://medium.com/token-engineering-commons/the-tec-builds-momentum-gravitons-hatch-daos-indigenomics-and-dandelions-87c3e43d8ee0)
   > The Gravity Working Group is a collective that aims to bring people together and promote resilience in decentralized organizations by training its members in non-violent communication, understanding and analyzing conflict and techniques to manage it. To do this, Gravity needs Gravitons!
 
+
 ### TEC Forum
 
 * [Welcome to the TEC Category](https://forum.tecommons.org/t/welcome-to-the-tec-category/96)
@@ -185,8 +186,12 @@ TEC Community Stewards meet every Wednesday at 7pm CET on Discord. Tamara @Tam21
 
 ## Commons Stack
 
-[Twitter](https://twitter.com/commonsstack) – [Medium](https://medium.com/commonsstack) – [Telegram](https://t.me/joinchat/HGrjjRS2PoowbH1ODuefuA) – [Riot Chat](https://riot.im/app/#/group/+commons-stack:matrix.org) – [GitHub](https://github.com/commons-stack)
+[Website](https://commonsstack.org/) - [Twitter](https://twitter.com/commonsstack) – [Medium](https://medium.com/commonsstack) – [Telegram](https://t.me/joinchat/HGrjjRS2PoowbH1ODuefuA) – [Riot Chat](https://riot.im/app/#/group/+commons-stack:matrix.org) – [GitHub](https://github.com/commons-stack)
 
+![](https://i.imgur.com/U1qbj4l.png)
+
+* [Commons Stack - About](https://commonsstack.org/) 
+  > We want to create a world where public goods are valued fairly for the benefits they deliver. Our current economic system frequently exploits the environment, and undervalues open-source software, open research, and other altruistic efforts addressing the collective needs of our society. We aim to change this. 
 * [The Trusted Seed of the Commons Stack](https://medium.com/commonsstack/the-trusted-seed-of-the-commons-stack-13d7e37f2de)
   > To get involved, all you need to do is apply to join the Trusted Seed. 🌱 In the near term, you can earn reputation in the Trusted Seed by contributing time or funds to the build of the Commons Stack. 🌿 In the medium term, you will be able to participate in decision making in the Commons Stack, and be invited to join in the community launch of various Commons efforts! 🌳
 * [Commons Stack – Apply](https://commonsstack.org/apply)
@@ -218,6 +223,7 @@ TEC Community Stewards meet every Wednesday at 7pm CET on Discord. Tamara @Tam21
 
 * [Automating Ostrom for Effective DAO Management](https://medium.com/commonsstack/automating-ostrom-for-effective-dao-management-cfe7a7aea138)
   > Designing Cyber-Physical Commons to be ‘Ostrom Compliant’ This article is part of a series explaining the cyber-physical commons architecture that is being built out by the Commons Stack. Few people have contributed as much to our knowledge of the sustainable management of the commons as Elinor Ostrom. Winning the 2009 Nobel Prize in Economics for her work, Ostrom’s 8 principles for commons
+  > ![](https://i.imgur.com/Rm6C3pK.png)
 * [Conviction Voting](https://medium.com/commonsstack/conviction-voting-f6f83a5d392a)
   > From ad-hoc voting to continuous voting This story was originally published on Giveth on May 29, 2019. You can find it here. “There are only two hard things in Computer Science: cache invalidation and naming things.” -Phil Karlton Abstract Conviction Voting is a coordination module that allows communities governing a shared resource to choose priorities in a decentralized way. This
 * [Architecting the Cyber-Physical Commons](https://medium.com/commonsstack/architecting-the-cyber-physical-commons-a294d88b5415)
@@ -238,9 +244,11 @@ TEC Community Stewards meet every Wednesday at 7pm CET on Discord. Tamara @Tam21
   > See if You Can Save the Future with cadCAD, RadicalxChange & the Commons Stack TL;DR: Why did we do this? The Simulator serves several purposes: To introduce the audience to the importance of the commons and the inspiring RadicalxChange movement in bringing about more equitable futures. To demonstrate how to parameterize and model a Cyber-Physical Commons in an entertaining and
 
 
-## Token Engineering Community
+## [Token Engineering Community](https://tokenengineeringcommunity.github.io/website/)
 
 The TECommons is an outgrowth of the Token Engineering Community, which came out of the Commons Stack.
+
+![](https://i.imgur.com/0kS38bT.png)
 
 * [Welcome to the Token Engineering community!](https://tokenengineeringcommunity.github.io/website/docs/getting-started-welcome/)
   > **So what is "token engineering?"**\
@@ -252,7 +260,12 @@ The TECommons is an outgrowth of the Token Engineering Community, which came out
   * [Token Engineering 101](https://tokenengineeringcommunity.github.io/website/docs/library-te-101)
   * [TE Book](https://tokenengineeringcommunity.github.io/website/docs/library-te-book)
     > "[A Hitchhiker's Guide to Token Engineering](http://tokengenie.org/)“ is a crowdsourced and crowdfunded book and [online content repo](https://github.com/Freeelio/TE-Book) for token designers, entrepreneurs and applied researchers to get the hang of Token Engineering. The book aims at giving the full account of experience with an end-to-end tool chain: from co-designing the digital ecosystem through [games](https://medium.com/freeelio-studios/le-grand-jeu-met-token-engineering-and-it-was-love-at-first-sight-e7a85c6d9444), to mapping the territory, to not mistaking the map for the territory. It's full of cautious tales, as well as the soothing layout of a tool chain that will assist you in [designing](https://github.com/villeeloranta/ecosystem-design-toolkit), [modeling, simulating](https://cadcad.org/), [securely deploying](https://openzeppelin.com/), [governing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2725415), and [upgrading](https://medium.com/block-science/computer-aided-governance-cag-a-revolution-in-automated-decision-support-systems-9faa009e57a2) a token economy - building on the multidisciplinary foundations of cryptoeconomics. This is going to be a hell of a ride. So, [grab your towel](https://github.com/Freeelio/TE-Book/wiki).
+* [Trans-disciplinary Navigation: Deep Thoughts by the Token Engineering Community](https://medium.com/token-engineering-commons/trans-disciplinary-navigation-deep-thoughts-by-the-token-engineering-community-8fc507160383)
+  > [**Towards Robust and Resilient Economies and Communities**](https://medium.com/token-engineering-commons/towards-robust-and-resilient-economies-and-communities-8effcc5bc20d) is a collaborative piece by [@JessicaZartler](https://twitter.com/JessicaZartler) and a few other thought provokers and builders in the [Token Engineering Community](https://tokenengineeringcommunity.github.io/website/). If you are looking for a concise distillation of why token engineering & why a commons & why the two fit together so elegantly, this resource loaded quick-dive is for you.
+  > 
+  > From regenerative stewardship & Gravitons to [cyber-physical commons](https://medium.com/commonsstack/architecting-the-cyber-physical-commons-a294d88b5415) & resilient tokenized infrastructure, find out more about how the TEC is weaving [**Ostrom’s principles into the DAO framework**](https://medium.com/commonsstack/automating-ostrom-for-effective-dao-management-cfe7a7aea138), employing subject matter experts to explore boundaries, conflict management and other processes to keep our Commons healthy for the long haul👇
 
+![](https://i.imgur.com/jEmEiw4.png)
 
 ### Bonding Curves
 
@@ -272,6 +285,8 @@ The TECommons is an outgrowth of the Token Engineering Community, which came out
 ## Giveth
 
 [GitHub](https://github.com/giveth) • [Blog](https://medium.com/giveth/) • [Twitter](https://twitter.com/givethio) • [Reddit](https://reddit.com/r/giveth) • [Youtube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ) • [Wiki](https://wiki.giveth.io/) • [FAQ](https://giveth.io/faq/)
+
+![](https://i.imgur.com/OUX6WrN.png)
 
 [Giveth](https://giveth.io/) - The Future of Giving • [Projects](https://giveth.io/projects)
 
