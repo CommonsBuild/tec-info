@@ -17,7 +17,7 @@
       - [Comms](#comms)
       - [Soft gov](#soft-gov)
       - [Legal](#legal)
-      - [Gravity](#gravity)
+      - [Gravity WG - Conflict Management](#gravity-wg---conflict-management)
       - [Community Stewards WG](#community-stewards-wg)
   - [Commons Stack](#commons-stack)
     - [Commons Stack Blog Posts](#commons-stack-blog-posts)
@@ -159,7 +159,7 @@ Hatcher Outreach is making sure everyone knows how to join and collaborate, spec
   > To research other legal strategies or pertinent smart contracts that similar projects are doing\
   > Mapping/identifying the common must-have docs for TE activities (TEbook, TEacademy) prior to the launch to ensure consistency/coherency
 
-#### Gravity
+#### Gravity WG - Conflict Management
 
 Conflict management (Gravity) 1 is going to help us to be in harmony! We are humans and chaos is our nature so it’s great to have a support system always in place. @Juankbell
 
@@ -169,6 +169,7 @@ Conflict management (Gravity) 1 is going to help us to be in harmony! We are hum
   > a) As individuals, to promote dialogue within the organization and manage conflicts addressed through ADR (Alternative Dispute Resolution),\
   > b) As a collective, to take decisions on the implementation of graduated sanctions.\
   > c) As both a collective and individuals, to commit to the practice of preventing, contextualizing and resolving disputes by regular attendance in our community practice.
+* [TECommons/Gravity](https://github.com/TECommons/graviton-training)
 
 #### Community Stewards WG
 
