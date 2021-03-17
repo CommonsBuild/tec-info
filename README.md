@@ -270,17 +270,21 @@ The TECommons is an outgrowth of the Token Engineering Community, which came out
 ### Bonding Curves
 
 * [Crowdfunding the Commons – Abbey Titcomb](https://blog.usejournal.com/crowdfunding-the-commons-d590238d8c3c) - Last week at ETHDenver, we built a proof-of-concept interface for launching curve bonded crowdfunding campaigns for social impact causes and organizations.
-> 🌱 Curve-bonded crowdfunding\
-> [...]\
-> Our project at ETHDenver was based upon a augmented bonding curve designed by Michael Zargham at BlockScience. The curve models a Token Pool (a Reserve of bonded DAI and a Supply of tokens) and a Funding Pool (floating supply of DAI available for use) that work together to create a self-sustaining and governing system for funding “labor” within a commons — aka any socially beneficial behavior which has positive impact on the commons as a shared resource. This “labor” could be defined as anything from trail maintenance in a National Park to contributing code to a free and open-source software project. We’ll be diving into Zargham’s design in a secondary article (coming soon!), and focusing on the key principles of the design here.
+  > 🌱 Curve-bonded crowdfunding\
+  > [...]\
+  > Our project at ETHDenver was based upon a augmented bonding curve designed by Michael Zargham at BlockScience. The curve models a Token Pool (a Reserve of bonded DAI and a Supply of tokens) and a Funding Pool (floating supply of DAI available for use) that work together to create a self-sustaining and governing system for funding “labor” within a commons — aka any socially beneficial behavior which has positive impact on the commons as a shared resource. This “labor” could be defined as anything from trail maintenance in a National Park to contributing code to a free and open-source software project. We’ll be diving into Zargham’s design in a secondary article (coming soon!), and focusing on the key principles of the design here.
 * [Rewriting the Story of Human Collaboration (Or, an Introduction to Token Bonding & Curation Markets)](https://blog.goodaudience.com/rewriting-the-story-of-human-collaboration-c33a8a4cd5b8)
-> Token bonding curves, acting as automatic market makers, provide a useful alternative to the ICO as a token generation model.
-> 
-> So how does this work in the real world? Here is an early stage, relatively simple example, where we’ll conveniently leave out many of the problems that complicate the use of bonding curves, TCRs and curation markets — more on those later.
+  > Token bonding curves, acting as automatic market makers, provide a useful alternative to the ICO as a token generation model.
+  > 
+  > So how does this work in the real world? Here is an early stage, relatively simple example, where we’ll conveniently leave out many of the problems that complicate the use of bonding curves, TCRs and curation markets — more on those later.
 * [Deep Dive: Augmented Bonding Curves – Abbey Titcomb](https://medium.com/commonsstack/deep-dive-augmented-bonding-curves-b5ca4fad4436)
-> This article is a deeper technical primer into the system design of the Augmented Bonding Curve used for the Commons Stack based off of Michael Zargham’s complex system research at BlockScience. For brevity, this article will assume a preliminary knowledge of bonding curves (if you need a refresh or an introduction, check out Slava Balasanov’s deep dive into bonding curves, Jeff Emmett’s simple introduction, and our first article on the topic here). The beginning of the article focuses on the overall design of the system and the second half will dive deeper into the equations and simulations that define how it all works.
+  > This article is a deeper technical primer into the system design of the Augmented Bonding Curve used for the Commons Stack based off of Michael Zargham’s complex system research at BlockScience. For brevity, this article will assume a preliminary knowledge of bonding curves (if you need a refresh or an introduction, check out Slava Balasanov’s deep dive into bonding curves, Jeff Emmett’s simple introduction, and our first article on the topic here). The beginning of the article focuses on the overall design of the system and the second half will dive deeper into the equations and simulations that define how it all works.
 
 ![](https://miro.medium.com/max/2000/1*-sGUaU4ouzUNCZA3DM0Y3Q.jpeg)
+
+* [Simon de la Rouviere: Bonding Curves, Curation Markets, Token Curated Registries… and Ar‪t‬](https://epicenter.tv/episodes/282/) - Epicenter Podcast
+  > We're joined by Simon de la Rouviere, an independent researcher and blogger. In recent months, Simon's research has focused on Token Curated Registries (or TCRs), and the economics of curation markets.
+
 
 ## Giveth
 
@@ -317,6 +321,7 @@ The TECommons is an outgrowth of the Token Engineering Community, which came out
 
 * [The Commons Stack: Scaling the Commons to Re-Prioritize People and the Planet](https://medium.com/giveth/the-commons-stack-scaling-the-commons-to-re-prioritize-people-and-the-planet-fdc076aec4eb) - Kris Decoodt 
 > It’s first good to establish: why are the commons important? We have some really big issues on the horizon that we can only solve together: climate change, resource depletion, open source incentivization — these are all public goods that are prone to the free-rider problem. This problem applies just as much to the extraction of environmental resources as well as the funding of writing open code. It’s a coordination problem that underlies some of the biggest problems we face. Ostrom and others have suggested that we need larger-scale coordination mechanisms for making rules to determine how we use and allocate existing resources. We have some of these coordination tools already, but our current approaches are flawed. Our current global coordination mechanisms — both markets and states — are dealing with quite some challenges. We have one-dimensional economies that optimize for profit and exclude people and the environment from their calculations.
+* [Griff Green: Giveth – Creating the New Economic Model of Givin‪g‬](https://epicenter.tv/episodes/284/) - Epicenter Podcast
 * [How Blockchain Economies align incentives around the Commons](https://medium.com/giveth/blockchain-economies-and-the-commons-cdb67dd1a163) 
 > There are a lot of ways to measure the progress of the blockchain space, and by many metrics, the space is barreling forward at an incredible speed.
 > 
@@ -338,4 +343,3 @@ The TECommons is an outgrowth of the Token Engineering Community, which came out
   > - Decentralized governance layer - Conviction Voting
   > - Accountability layer - Giveth Proposal Engine
   > - Monitoring layer - Commons Dashboard
-
