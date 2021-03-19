@@ -76,10 +76,22 @@
 
 > We have six very active working groups building the commons. Below is a description of each working group and the Discourse/Telegram/Discord handles for the community stewards who are leading the groups if you have any questions: - [How to Join & Contribute?](https://forum.tecommons.org/t/5-how-to-join-contribute/98)
 
-Weekly sync calls Thursday at 8pm CET\
+Weekly sync calls Thursday 7pm CET
 [☎ TEC Call Agenda & Notes](https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit?pli=1#heading=h.n46dvs12vn1a)
 
 NEW MEMBERS NEED TO JOIN [TE PRAISE CHANNEL](http://t.me/tepraise) - Please join and say hi or post an emoji to receive Praise which turns into TEC tokens :D
+
+#### Community Stewards WG
+
+TEC Community Stewards meet every Wednesday at 7pm CET on Discord. Tamara @Tam2140
+
+* [Community Stewards WG manifesto](https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA/edit) 
+  * **Steward support**. To allow community stewards to gather and discuss what we are feeling in the community and any issues or blockers they may be experiencing themselves or within their WG. This weekly space allows raised problems to be solved in a group setting with the benefit of collective intelligence.
+  * **Nurture Community**. Nurturing the overall culture/growth of the TEC community 
+  * **Planning**. To plan and coordinate interdependent activities across multiple WG.
+  * **Shared vision**. To ensure all Stewards are aware of the other WG priorities and activities and are focused on our shared roadmap.
+  * **Maintain knowledge**. To maintain an active group of community stewards who are well versed in how the TEC functions and are ready to pitch in to help advance TEC goals.
+  * **Vision and Values**. Maintain alignment with the TEC mission vision and values.
 
 #### Hatcher Outreach WG
 
@@ -169,27 +181,19 @@ Conflict management (Gravity) 1 is going to help us to be in harmony! We are hum
   > b) As a collective, to take decisions on the implementation of graduated sanctions.\
   > c) As both a collective and individuals, to commit to the practice of preventing, contextualizing and resolving disputes by regular attendance in our community practice.
 * [TECommons/Gravity](https://github.com/TECommons/graviton-training)
+* [Gravity WG Call Notes](https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit)
 
-#### Community Stewards WG
-
-TEC Community Stewards meet every Wednesday at 7pm CET on Discord. Tamara @Tam2140
-
-* [Community Stewards WG manifesto](https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA/edit) 
-  * **Steward support**. To allow community stewards to gather and discuss what we are feeling in the community and any issues or blockers they may be experiencing themselves or within their WG. This weekly space allows raised problems to be solved in a group setting with the benefit of collective intelligence.
-  * **Nurture Community**. Nurturing the overall culture/growth of the TEC community 
-  * **Planning**. To plan and coordinate interdependent activities across multiple WG.
-  * **Shared vision**. To ensure all Stewards are aware of the other WG priorities and activities and are focused on our shared roadmap.
-  * **Maintain knowledge**. To maintain an active group of community stewards who are well versed in how the TEC functions and are ready to pitch in to help advance TEC goals.
-  * **Vision and Values**. Maintain alignment with the TEC mission vision and values.
 
 ## Commons Stack
 
-[Website](https://commonsstack.org/) - [Twitter](https://twitter.com/commonsstack) – [Medium](https://medium.com/commonsstack) – [Telegram](https://t.me/joinchat/HGrjjRS2PoowbH1ODuefuA) – [Riot Chat](https://riot.im/app/#/group/+commons-stack:matrix.org) – [GitHub](https://github.com/commons-stack)
+[Website](https://commonsstack.org/) - [Twitter](https://twitter.com/commonsstack) – [Medium](https://medium.com/commonsstack) – [Telegram](https://t.me/joinchat/HGrjjRS2PoowbH1ODuefuA) – [Riot Chat](https://riot.im/app/#/group/+commons-stack:matrix.org) – [GitHub](https://github.com/commons-stack) – [FAQ](https://commonsstack.org/resources#faq)
 
 ![](https://i.imgur.com/U1qbj4l.png)
 
 * [Commons Stack - About](https://commonsstack.org/) 
   > We want to create a world where public goods are valued fairly for the benefits they deliver. Our current economic system frequently exploits the environment, and undervalues open-source software, open research, and other altruistic efforts addressing the collective needs of our society. We aim to change this. 
+* [The Commons Stack: Scaling the Commons to Re-Prioritize People and the Planet](https://medium.com/commonsstack/the-commons-stack-scaling-the-commons-to-re-prioritize-people-and-the-planet-e1293123831d) - Kris Decoodt 
+  > It’s first good to establish: why are the commons important? We have some really big issues on the horizon that we can only solve together: climate change, resource depletion, open source incentivization — these are all public goods that are prone to the free-rider problem. This problem applies just as much to the extraction of environmental resources as well as the funding of writing open code. It’s a coordination problem that underlies some of the biggest problems we face. Ostrom and others have suggested that we need larger-scale coordination mechanisms for making rules to determine how we use and allocate existing resources. We have some of these coordination tools already, but our current approaches are flawed. Our current global coordination mechanisms — both markets and states — are dealing with quite some challenges. We have one-dimensional economies that optimize for profit and exclude people and the environment from their calculations.
 * [The Trusted Seed of the Commons Stack](https://medium.com/commonsstack/the-trusted-seed-of-the-commons-stack-13d7e37f2de)
   > To get involved, all you need to do is apply to join the Trusted Seed. 🌱 In the near term, you can earn reputation in the Trusted Seed by contributing time or funds to the build of the Commons Stack. 🌿 In the medium term, you will be able to participate in decision making in the Commons Stack, and be invited to join in the community launch of various Commons efforts! 🌳
 * [Commons Stack – Apply](https://commonsstack.org/apply)
@@ -317,8 +321,6 @@ The TECommons is an outgrowth of the Token Engineering Community, which came out
 
 ### Commons Stack on Giveth
 
-* [The Commons Stack: Scaling the Commons to Re-Prioritize People and the Planet](https://medium.com/giveth/the-commons-stack-scaling-the-commons-to-re-prioritize-people-and-the-planet-fdc076aec4eb) - Kris Decoodt 
-  > It’s first good to establish: why are the commons important? We have some really big issues on the horizon that we can only solve together: climate change, resource depletion, open source incentivization — these are all public goods that are prone to the free-rider problem. This problem applies just as much to the extraction of environmental resources as well as the funding of writing open code. It’s a coordination problem that underlies some of the biggest problems we face. Ostrom and others have suggested that we need larger-scale coordination mechanisms for making rules to determine how we use and allocate existing resources. We have some of these coordination tools already, but our current approaches are flawed. Our current global coordination mechanisms — both markets and states — are dealing with quite some challenges. We have one-dimensional economies that optimize for profit and exclude people and the environment from their calculations.
 * [Griff Green: Giveth – Creating the New Economic Model of Givin‪g‬](https://epicenter.tv/episodes/284/) - Epicenter Podcast
 * [How Blockchain Economies align incentives around the Commons](https://medium.com/giveth/blockchain-economies-and-the-commons-cdb67dd1a163) 
   > There are a lot of ways to measure the progress of the blockchain space, and by many metrics, the space is barreling forward at an incredible speed.
