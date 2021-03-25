@@ -10,19 +10,24 @@
   - [TEC Blog Posts](#tec-blog-posts)
   - [TEC Forum](#tec-forum)
   - [TEC Working Groups](#tec-working-groups)
+    - [Community Stewards WG](#community-stewards-wg)
     - [Hatcher Outreach WG](#hatcher-outreach-wg)
     - [Garden Swarm WG](#garden-swarm-wg)
     - [Comms WG](#comms-wg)
     - [Soft gov WG](#soft-gov-wg)
     - [Legal WG](#legal-wg)
     - [Gravity WG - Conflict Management](#gravity-wg---conflict-management)
-    - [Community Stewards WG](#community-stewards-wg)
-- [Commons Stack](#commons-stack)
-  - [Commons Stack Blog Posts](#commons-stack-blog-posts)
-- [Token Engineering Community](#token-engineering-community)
-  - [Bonding Curves](#bonding-curves)
-- [Giveth](#giveth)
-  - [Commons Stack on Giveth](#commons-stack-on-giveth)
+- [TEC Ecosystem](#tec-ecosystem)
+  - [Token Engineering Community](#token-engineering-community)
+    - [TE Ecosystem](#te-ecosystem)
+  - [Commons Stack](#commons-stack)
+    - [Commons Stack Blog Posts](#commons-stack-blog-posts)
+  - [Giveth](#giveth)
+    - [Commons Stack on Giveth](#commons-stack-on-giveth)
+  - [Source Cred](#source-cred)
+  - [Block Science](#block-science)
+  - [cadCAD](#cadcad)
+  - [1Hive](#1hive)
 
 
 ## Token Engineering Commons
@@ -183,8 +188,69 @@ Conflict management (Gravity) 1 is going to help us to be in harmony! We are hum
 * [TECommons/Gravity](https://github.com/TECommons/graviton-training)
 * [Gravity WG Call Notes](https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit)
 
+## TEC Ecosystem
 
-## Commons Stack
+### Token Engineering Community
+
+[Website](https://tokenengineeringcommunity.github.io/website/) • [Twitter](https://twitter.com/tokengineering) • [TEGG](https://tegg.io) • [TEGG Twitter](https://twitter.com/tegg_io) • [YouTube](https://www.youtube.com/channel/UCDmzlpzOlaTALYV0hAwT0Tg) • [Discord](https://discord.gg/gHvksh8) • [Telegram](https://t.me/TokenEngineering) • [GitHub](https://github.com/tokenengineeringcommunity) • [Blog](https://tokenengineeringcommunity.github.io/website/blog)
+
+Token Engineering Commons is focused on the cultural development of Token Engineering.
+
+![](https://i.imgur.com/0kS38bT.png)
+
+* [Welcome to the Token Engineering community!](https://tokenengineeringcommunity.github.io/website/docs/getting-started-welcome/)
+  > **So what is "token engineering?"**\
+  > Token engineering is a crossdisciplinary field that draws from established practices in systems, electrical, robotics & controls engineering, and more. It also draws from fields as diverse as Behavioural & Ecological Economics, Operations Research, AI & Optimization, as explored by Shermin Voshmgir & Michael Zargham in this paper on the Foundations of Cryptoeconomic Systems. It is a methodology that goes all the way from ideation to design, modeling, simulation, testing, deployment, and maintentance. It's the process of building cryptoeconomic systems that work, and keep working. Just like other public infrastructure like bridges and power grids, our future economic systems also need to be rigorously designed to be reliable under widely varying conditions. The goal of token engineering is to design and create tokeneconomic systems that are robust against exploits, unintended consequences and cascade failures, in order to protect and empower users.
+* [TokenEngineering Academy](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome)
+  > The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: contact@tokenengineering.net.
+* [Introduction to TokenEngineering](https://docs.google.com/document/d/1lxjitvzklAuDy00176Fzwmr-sP_GRJmSCxZmzareMK8/edit) (Reading List++)
+* [Welcome to the Token Engineering library!](https://tokenengineeringcommunity.github.io/website/docs/library-welcome) - This is a growing list of resources and applications of token engineering technology, that you can learn from & contribute to!
+* [Token Engineering 101](https://tokenengineeringcommunity.github.io/website/docs/library-te-101)
+* [TE Book](https://tokenengineeringcommunity.github.io/website/docs/library-te-book)
+  > "[A Hitchhiker's Guide to Token Engineering](http://tokengenie.org/)“ is a crowdsourced and crowdfunded book and [online content repo](https://github.com/Freeelio/TE-Book) for token designers, entrepreneurs and applied researchers to get the hang of Token Engineering. The book aims at giving the full account of experience with an end-to-end tool chain: from co-designing the digital ecosystem through [games](https://medium.com/freeelio-studios/le-grand-jeu-met-token-engineering-and-it-was-love-at-first-sight-e7a85c6d9444), to mapping the territory, to not mistaking the map for the territory. It's full of cautious tales, as well as the soothing layout of a tool chain that will assist you in [designing](https://github.com/villeeloranta/ecosystem-design-toolkit), [modeling, simulating](https://cadcad.org/), [securely deploying](https://openzeppelin.com/), [governing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2725415), and [upgrading](https://medium.com/block-science/computer-aided-governance-cag-a-revolution-in-automated-decision-support-systems-9faa009e57a2) a token economy - building on the multidisciplinary foundations of cryptoeconomics. This is going to be a hell of a ride. So, [grab your towel](https://github.com/Freeelio/TE-Book/wiki).
+* [Trans-disciplinary Navigation: Deep Thoughts by the Token Engineering Community](https://medium.com/token-engineering-commons/trans-disciplinary-navigation-deep-thoughts-by-the-token-engineering-community-8fc507160383)
+  > [**Towards Robust and Resilient Economies and Communities**](https://medium.com/token-engineering-commons/towards-robust-and-resilient-economies-and-communities-8effcc5bc20d) is a collaborative piece by [@JessicaZartler](https://twitter.com/JessicaZartler) and a few other thought provokers and builders in the [Token Engineering Community](https://tokenengineeringcommunity.github.io/website/). If you are looking for a concise distillation of why token engineering & why a commons & why the two fit together so elegantly, this resource loaded quick-dive is for you.
+  > 
+  > From regenerative stewardship & Gravitons to [cyber-physical commons](https://medium.com/commonsstack/architecting-the-cyber-physical-commons-a294d88b5415) & resilient tokenized infrastructure, find out more about how the TEC is weaving [**Ostrom’s principles into the DAO framework**](https://medium.com/commonsstack/automating-ostrom-for-effective-dao-management-cfe7a7aea138), employing subject matter experts to explore boundaries, conflict management and other processes to keep our Commons healthy for the long haul👇
+
+![](https://i.imgur.com/jEmEiw4.png)
+
+#### TE Ecosystem
+
+* [BlockScience](https://block.science/) – Complex systems engineering
+  > Our focus is to design and build data-driven decision systems for new and legacy businesses leveraging engineering methodologies and academic-grade tools.
+* [cadCAD](https://cadcad.org/) – Complex systems modeling toolkit
+  > An open-source Python package that assists in the processes of designing, testing and validating complex systems through simulation.
+* [cadCAD Edu](https://cadcad.education/) – cadCAD Online Education
+  > Our mission is to grow the adoption of cadCAD as the leading open-source Web 3 modeling tool by creating beginner-friendly online courses.
+* [Commons Stack](https://commonsstack.org/) – Realigning incentives around public goods
+  > A design and engineering group creating systems that incentivize the creation and maintenance of public goods.
+* [TEGG](https://tegg.io/) Token Engineering Global Gathering
+  > TEGG is the global gathering of cryptoeconomic researchers and practitioners. Our aim is to establish a body of theory, practice, tools and a sense of responsibility for building successful and sustainable blockchain token economies.
+* [Ocean Protocol](https://oceanprotocol.com/) – A New Data Economy
+  > Ocean Protocol is kickstarting a Data Economy by breaking down data silos and equalizing access to data for all.
+* [ZIP](https://zip.outlierventures.io/) One credit you use across all blockchains, with no price volatility.
+  > Zip works across blockchain networks, so you can build on Ethereum today, and Fetch.AI tomorrow, or both at the same time. One credit, all blockchains.
+* [WU Vienna](https://www.wu.ac.at/cryptoeconomics) A research institute for crypto-economics
+  > Tokens can develop into the “killer applications” of blockchain, but these applications are still at an early stage. We are developing a taxonomy for tokens - from a business, technological and legal point of view. as well as modeling, forecasting and evaluation tools.
+* [SourceCred](https://sourcecred.io/) A tool for communities to measure and reward value creation
+  > SourceCred allows communities to create and curate contribution networks. These networks represent how contributions are connected to other contributions, to members of the community, and to the community’s values.
+* [AraCred](https://aracred.github.io/website/) Recognize and reward community contributions
+  > A framework to help communities measure, recognize, and reward value creation. AraCred intends to empower communities to collaborate in a way that is positive-sum.
+* [MetaGame](https://metagame.wtf/) – A MMORPG for real life
+  > MetaGame is an open-source framework for autonomous humans and decentralized organizations, to coordinate in creation and exchange of value with the least friction and most fun possible.
+* [Giveth](https://www.https//giveth.io/) – Building the Future of Giving
+  > We are a community focused on making the world a better place through the use of blockchain technology.We created the Giveth Galaxy to foster a larger network of organizations that will help us Build the Future of Giving we envision.
+* [Grassroots Economics](https://www.grassrootseconomics.org/) – Creating sustainable community currencies
+  > Through community currencies people have a way to exchange goods and services and incubate new businesses.
+* [1Hive](https://www.1hive.org/) – Exploring novel ways to create, organize, and grow communities
+  > 1Hive is a community of builders driven by a desire to improve how humans collaborate online. We are explorers and pioneers blazing a trail towards a future of work which is more global, open, transparent, and fair.
+* [Curve Labs](https://www.curvelabs.eu/) – Architecting distributed solutions for the future economy
+  > Curve Labs is a team of design interventionists who research and implement tokeneconomic building blocks to create proofs of concept.
+* [Freeelio](https://www.freeel.io/) – Everyone will have access to < free > electricity
+  > A multi-dimensional & multi-disciplinary research collective of autonomous peers, forming a novel type of organization connected through purpose and the internet
+
+### Commons Stack
 
 [Website](https://commonsstack.org/) - [Twitter](https://twitter.com/commonsstack) – [Medium](https://medium.com/commonsstack) – [Telegram](https://t.me/joinchat/HGrjjRS2PoowbH1ODuefuA) – [Riot Chat](https://riot.im/app/#/group/+commons-stack:matrix.org) – [GitHub](https://github.com/commons-stack) – [FAQ](https://commonsstack.org/resources#faq)
 
@@ -220,8 +286,12 @@ Conflict management (Gravity) 1 is going to help us to be in harmony! We are hum
   > Our primary goal is to enable sustainable funding for any nonprofit cause. In the near term, we will focus on enabling economies that can create sustainable funding for the development of open-source infrastructure and open research projects within the blockchain space. To achieve this we will provide a toolkit for communities to create novel, cause-focused economies that we call Commons. 
   >
   > To build a successful Commons, or any other socio-economic system, a community must consider both the technical and cultural requirements. The Commons Stack mission is to make it easy for cause-focused communities to meet and excel at these requirements so that they can launch a healthy Commons.
+* [The Commons Stack. Realigning Incentives Towards Public Goods. Case Study](https://www.researchgate.net/publication/347390484_The_Commons_Stack_Realigning_Incentives_Towards_Public_Goods_Case_Study) Felix Fritsch
+  > This is a preliminary Case Study of the Commons Stack, a philathropic framework developed for Blockchain communities that makes use of bonding curves and introduces conviction voting.
+  - DOI: 10.13140/RG.2.2.12931.73767
+* [Building the TE Commons](https://docs.google.com/presentation/d/1o7eKSrn-ABZmqQ_AsK13rbF_8a0SyWIKUWrod-cc9OA/edit#slide=id.p) Griff Green
 
-### Commons Stack Blog Posts
+#### Commons Stack Blog Posts
 
 * [Automating Ostrom for Effective DAO Management](https://medium.com/commonsstack/automating-ostrom-for-effective-dao-management-cfe7a7aea138)
   > Designing Cyber-Physical Commons to be ‘Ostrom Compliant’ This article is part of a series explaining the cyber-physical commons architecture that is being built out by the Commons Stack. Few people have contributed as much to our knowledge of the sustainable management of the commons as Elinor Ostrom. Winning the 2009 Nobel Prize in Economics for her work, Ostrom’s 8 principles for commons
@@ -246,49 +316,7 @@ Conflict management (Gravity) 1 is going to help us to be in harmony! We are hum
   > See if You Can Save the Future with cadCAD, RadicalxChange & the Commons Stack TL;DR: Why did we do this? The Simulator serves several purposes: To introduce the audience to the importance of the commons and the inspiring RadicalxChange movement in bringing about more equitable futures. To demonstrate how to parameterize and model a Cyber-Physical Commons in an entertaining and
 
 
-## [Token Engineering Community](https://tokenengineeringcommunity.github.io/website/)
-
-The TECommons is an outgrowth of the Token Engineering Community, which came out of the Commons Stack.
-
-![](https://i.imgur.com/0kS38bT.png)
-
-* [Welcome to the Token Engineering community!](https://tokenengineeringcommunity.github.io/website/docs/getting-started-welcome/)
-  > **So what is "token engineering?"**\
-  > Token engineering is a crossdisciplinary field that draws from established practices in systems, electrical, robotics & controls engineering, and more. It also draws from fields as diverse as Behavioural & Ecological Economics, Operations Research, AI & Optimization, as explored by Shermin Voshmgir & Michael Zargham in this paper on the Foundations of Cryptoeconomic Systems. It is a methodology that goes all the way from ideation to design, modeling, simulation, testing, deployment, and maintentance. It's the process of building cryptoeconomic systems that work, and keep working. Just like other public infrastructure like bridges and power grids, our future economic systems also need to be rigorously designed to be reliable under widely varying conditions. The goal of token engineering is to design and create tokeneconomic systems that are robust against exploits, unintended consequences and cascade failures, in order to protect and empower users.
-* [TokenEngineering Academy](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome)
-  > The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: contact@tokenengineering.net.
-* [Introduction to TokenEngineering](https://docs.google.com/document/d/1lxjitvzklAuDy00176Fzwmr-sP_GRJmSCxZmzareMK8/edit) (Reading List++)
-* [Welcome to the Token Engineering library!](https://tokenengineeringcommunity.github.io/website/docs/library-welcome) - This is a growing list of resources and applications of token engineering technology, that you can learn from & contribute to!
-* [Token Engineering 101](https://tokenengineeringcommunity.github.io/website/docs/library-te-101)
-* [TE Book](https://tokenengineeringcommunity.github.io/website/docs/library-te-book)
-  > "[A Hitchhiker's Guide to Token Engineering](http://tokengenie.org/)“ is a crowdsourced and crowdfunded book and [online content repo](https://github.com/Freeelio/TE-Book) for token designers, entrepreneurs and applied researchers to get the hang of Token Engineering. The book aims at giving the full account of experience with an end-to-end tool chain: from co-designing the digital ecosystem through [games](https://medium.com/freeelio-studios/le-grand-jeu-met-token-engineering-and-it-was-love-at-first-sight-e7a85c6d9444), to mapping the territory, to not mistaking the map for the territory. It's full of cautious tales, as well as the soothing layout of a tool chain that will assist you in [designing](https://github.com/villeeloranta/ecosystem-design-toolkit), [modeling, simulating](https://cadcad.org/), [securely deploying](https://openzeppelin.com/), [governing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2725415), and [upgrading](https://medium.com/block-science/computer-aided-governance-cag-a-revolution-in-automated-decision-support-systems-9faa009e57a2) a token economy - building on the multidisciplinary foundations of cryptoeconomics. This is going to be a hell of a ride. So, [grab your towel](https://github.com/Freeelio/TE-Book/wiki).
-* [Trans-disciplinary Navigation: Deep Thoughts by the Token Engineering Community](https://medium.com/token-engineering-commons/trans-disciplinary-navigation-deep-thoughts-by-the-token-engineering-community-8fc507160383)
-  > [**Towards Robust and Resilient Economies and Communities**](https://medium.com/token-engineering-commons/towards-robust-and-resilient-economies-and-communities-8effcc5bc20d) is a collaborative piece by [@JessicaZartler](https://twitter.com/JessicaZartler) and a few other thought provokers and builders in the [Token Engineering Community](https://tokenengineeringcommunity.github.io/website/). If you are looking for a concise distillation of why token engineering & why a commons & why the two fit together so elegantly, this resource loaded quick-dive is for you.
-  > 
-  > From regenerative stewardship & Gravitons to [cyber-physical commons](https://medium.com/commonsstack/architecting-the-cyber-physical-commons-a294d88b5415) & resilient tokenized infrastructure, find out more about how the TEC is weaving [**Ostrom’s principles into the DAO framework**](https://medium.com/commonsstack/automating-ostrom-for-effective-dao-management-cfe7a7aea138), employing subject matter experts to explore boundaries, conflict management and other processes to keep our Commons healthy for the long haul👇
-
-![](https://i.imgur.com/jEmEiw4.png)
-
-### Bonding Curves
-
-* [Crowdfunding the Commons – Abbey Titcomb](https://blog.usejournal.com/crowdfunding-the-commons-d590238d8c3c) - Last week at ETHDenver, we built a proof-of-concept interface for launching curve bonded crowdfunding campaigns for social impact causes and organizations.
-  > 🌱 Curve-bonded crowdfunding\
-  > [...]\
-  > Our project at ETHDenver was based upon a augmented bonding curve designed by Michael Zargham at BlockScience. The curve models a Token Pool (a Reserve of bonded DAI and a Supply of tokens) and a Funding Pool (floating supply of DAI available for use) that work together to create a self-sustaining and governing system for funding “labor” within a commons — aka any socially beneficial behavior which has positive impact on the commons as a shared resource. This “labor” could be defined as anything from trail maintenance in a National Park to contributing code to a free and open-source software project. We’ll be diving into Zargham’s design in a secondary article (coming soon!), and focusing on the key principles of the design here.
-* [Rewriting the Story of Human Collaboration (Or, an Introduction to Token Bonding & Curation Markets)](https://blog.goodaudience.com/rewriting-the-story-of-human-collaboration-c33a8a4cd5b8)
-  > Token bonding curves, acting as automatic market makers, provide a useful alternative to the ICO as a token generation model.
-  > 
-  > So how does this work in the real world? Here is an early stage, relatively simple example, where we’ll conveniently leave out many of the problems that complicate the use of bonding curves, TCRs and curation markets — more on those later.
-* [Deep Dive: Augmented Bonding Curves – Abbey Titcomb](https://medium.com/commonsstack/deep-dive-augmented-bonding-curves-b5ca4fad4436)
-  > This article is a deeper technical primer into the system design of the Augmented Bonding Curve used for the Commons Stack based off of Michael Zargham’s complex system research at BlockScience. For brevity, this article will assume a preliminary knowledge of bonding curves (if you need a refresh or an introduction, check out Slava Balasanov’s deep dive into bonding curves, Jeff Emmett’s simple introduction, and our first article on the topic here). The beginning of the article focuses on the overall design of the system and the second half will dive deeper into the equations and simulations that define how it all works.
-
-![](https://miro.medium.com/max/2000/1*-sGUaU4ouzUNCZA3DM0Y3Q.jpeg)
-
-* [Simon de la Rouviere: Bonding Curves, Curation Markets, Token Curated Registries… and Ar‪t‬](https://epicenter.tv/episodes/282/) - Epicenter Podcast
-  > We're joined by Simon de la Rouviere, an independent researcher and blogger. In recent months, Simon's research has focused on Token Curated Registries (or TCRs), and the economics of curation markets.
-
-
-## Giveth
+### Giveth
 
 [GitHub](https://github.com/giveth) • [Blog](https://medium.com/giveth/) • [Twitter](https://twitter.com/givethio) • [Reddit](https://reddit.com/r/giveth) • [Youtube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ) • [Wiki](https://wiki.giveth.io/) • [FAQ](https://giveth.io/faq/)
 
@@ -319,7 +347,7 @@ The TECommons is an outgrowth of the Token Engineering Community, which came out
     >
     > The philosophy of social_coding is this: the best way to develop tools for building a DAC is to build a community of altruistic developers. The best way to build a community of altruistic developers is to give them a space where they can play, and try and get they to build whatever they want. Over time the tools should sort themselves out.
 
-### Commons Stack on Giveth
+#### Commons Stack on Giveth
 
 * [Griff Green: Giveth – Creating the New Economic Model of Givin‪g‬](https://epicenter.tv/episodes/284/) - Epicenter Podcast
 * [How Blockchain Economies align incentives around the Commons](https://medium.com/giveth/blockchain-economies-and-the-commons-cdb67dd1a163) 
@@ -343,3 +371,31 @@ The TECommons is an outgrowth of the Token Engineering Community, which came out
   > - Decentralized governance layer - Conviction Voting
   > - Accountability layer - Giveth Proposal Engine
   > - Monitoring layer - Commons Dashboard
+
+### Source Cred
+
+[Website](https://sourcecred.io) • [Docs](https://sourcecred.io/docs) • [Twitter](https://twitter.com/sourcecred) • [GitHub](https://github.com/sourcecred) • [Forum](https://discourse.sourcecred.io/) • [Discord](https://sourcecred.io/discord) • [Explorer](http://cred.sourcecred.io/)
+
+> SourceCred (in the most basic sense) is a technology that makes the labor of individuals more visible and rewardable as they work together in a project or community. The goal of SourceCred is to use this technology to make rewarding labor as nuanced as human contribution often is. We hope to be one piece in the puzzle of a healthier future where systems serve community members, where financial maximization isn’t the end-all be-all goal, and where wealth actually flows to those who are creating the value in our world. - [sourcecred.io/docs](https://sourcecred.io/docs)
+
+### Block Science
+[Website](https://block.science) • [Blog](https://medium.com/block-science) • [Youtube](https://www.youtube.com/channel/UCPePNv3dJN--aKhFGOa0Rjg) • [Twitter](https://twitter.com/block_science) • [cadCAD](http://cadcad.org/)
+
+> BlockScience ® is an engineering, R&D, and analytics firm specializing in complex systems. Our focus is to design and build data-driven decision systems for new and legacy businesses leveraging engineering methodologies and academic-grade tools.
+> 
+> With deep expertise in Operations Research, AI/Data Science, and Blockchain, we are able to provide quantitative consulting to technology enabled businesses. Our work includes pre-launch design and evaluation of economic business and ecosystem models based on simulation and analysis. We also provide post launch monitoring and maintenance via reporting, analytics, and decision support software. - [block.science](https://block.science)
+
+### cadCAD
+[Website](https://cadcad.org) • [Twitter](https://twitter.com/cadcad_org) • [Telegram](https://t.me/joinchat/BehTglN4UOLe83MpgBelzw) • [GitHub](https://github.com/BlockScience/cadCAD) • [Forum](http://community.cadcad.org/)
+
+An open-source Python package that assists in the processes of designing, testing and validating complex systems through simulation.
+
+cadCAD was created as an internal tool at BlockScience – an engineering, R&D and analytics firm specializing in complex systems design and validation
+
+### 1Hive
+
+[Website](https://1hive.org) • [Wiki](https://wiki.1hive.org/) • [Forum](https://forum.1hive.org/) 
+
+> 1Hive is a community that builds and experiments with decentralized applications and protocols. At the center of these experiments is an effort to build a sustainable and thriving economy around a currency called Honey, which is used to influence the direction of the community. Anyone can buy honey or earn it by contributing to 1Hive and can use it, among other things, to vote on funding proposals and protocol changes with a weight that is equal to the Honey they hold.
+> 
+> 1Hive isn’t a company, there is no core team, and there has never been a crowd sale to raise funds to operate. Instead 1Hive has been issuing and distributing Honey to contributors for over a year. - [wiki](https://wiki.1hive.org/)
