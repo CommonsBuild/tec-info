@@ -1,6 +1,6 @@
 # Token Engineering Commons – INFO
 
-[Website](https://tokenengineeringcommunity.github.io/website/) – [Forum](https://forum.tecommons.org/) – [Discord](https://discord.gg/N6cydb3) – [Medium](https://medium.com/token-engineering-commons) – [Youtube](https://www.youtube.com/c/tokenengineering) – [GitHub](https://github.com/TECommons) – [Twitter](https://twitter.com/tecmns) – [Telegram](https://t.me/tecommons) – [Wiki](https://www.notion.so/TEC-Wiki-0460a521d72940ecad401ae1571b87fb) – [Calendar](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin&pli=1) – [Working Groups](https://www.notion.so/Working-Groups-e9854f7464904977aeb6bc445a69eee0) – [TEC Handbook](https://token-engineering-commons.gitbook.io/tec-handbook/) (GitBook) – [TEC Coordination Workspace](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322) (ZenHub)
+[Website](https://tecommons.org/) – [Forum](https://forum.tecommons.org/) – [Discord](https://discord.gg/N6cydb3) – [Medium](https://medium.com/token-engineering-commons) – [Youtube](https://www.youtube.com/c/tokenengineering) – [GitHub](https://github.com/TECommons) – [Twitter](https://twitter.com/tecmns) – [Telegram](https://t.me/tecommons) – [Wiki](https://www.notion.so/TEC-Wiki-0460a521d72940ecad401ae1571b87fb) – [Calendar](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin&pli=1) – [Working Groups](https://www.notion.so/Working-Groups-e9854f7464904977aeb6bc445a69eee0) – [TEC Handbook](https://token-engineering-commons.gitbook.io/tec-handbook/) (GitBook) – [TEC Coordination Workspace](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322) (ZenHub)
 
 ![](https://i.imgur.com/4IaKG2c.png)
 
@@ -192,7 +192,7 @@ Conflict management (Gravity) 1 is going to help us to be in harmony! We are hum
 
 ### Token Engineering Community
 
-[Website](https://tokenengineeringcommunity.github.io/website/) • [Twitter](https://twitter.com/tokengineering) • [TEGG](https://tegg.io) • [TEGG Twitter](https://twitter.com/tegg_io) • [YouTube](https://www.youtube.com/channel/UCDmzlpzOlaTALYV0hAwT0Tg) • [Discord](https://discord.gg/gHvksh8) • [Telegram](https://t.me/TokenEngineering) • [GitHub](https://github.com/tokenengineeringcommunity) • [Blog](https://tokenengineeringcommunity.github.io/website/blog)
+[Website](https://tokenengineeringcommunity.github.io/website/) • [Twitter](https://twitter.com/tokengineering) • [TEGG](https://tegg.io) • [TEGG Twitter](https://twitter.com/tegg_io) • [YouTube](https://www.youtube.com/channel/UCDmzlpzOlaTALYV0hAwT0Tg) • [Discord](https://discord.gg/gHvksh8) • [Telegram](https://t.me/TokenEngineering) • [GitHub](https://github.com/tokenengineeringcommunity) • [Blog](https://tokenengineeringcommunity.github.io/website/blog) • [Calendar](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin&pli=1)
 
 Token Engineering Commons is focused on the cultural development of Token Engineering.
 
@@ -213,7 +213,7 @@ Token Engineering Commons is focused on the cultural development of Token Engine
   > 
   > From regenerative stewardship & Gravitons to [cyber-physical commons](https://medium.com/commonsstack/architecting-the-cyber-physical-commons-a294d88b5415) & resilient tokenized infrastructure, find out more about how the TEC is weaving [**Ostrom’s principles into the DAO framework**](https://medium.com/commonsstack/automating-ostrom-for-effective-dao-management-cfe7a7aea138), employing subject matter experts to explore boundaries, conflict management and other processes to keep our Commons healthy for the long haul👇
 
-![](https://i.imgur.com/jEmEiw4.png)
+![](https://i.imgur.com/XFxU8tx.jpg)
 
 #### TE Ecosystem
 
