@@ -1,6 +1,6 @@
 # Token Engineering Commons – INFO
 
-[Website](https://tecommons.org/) – [Forum](https://forum.tecommons.org/) – [Discord](https://discord.gg/N6cydb3) – [Medium](https://medium.com/token-engineering-commons) – [Youtube](https://www.youtube.com/c/tokenengineering) – [GitHub](https://github.com/TECommons) – [Twitter](https://twitter.com/tecmns) – [Telegram](https://t.me/tecommons) – [Wiki](https://www.notion.so/TEC-Wiki-0460a521d72940ecad401ae1571b87fb) – [Working Groups](https://www.notion.so/Working-Groups-e9854f7464904977aeb6bc445a69eee0) – [TEC Handbook](https://token-engineering-commons.gitbook.io/tec-handbook/) (GitBook) – [TEC Coordination Workspace](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322) (ZenHub) – [Calendar](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin&pli=1) ([April](TE_Cal_April-2021.pdf))
+[Website](https://tecommons.org/) – [Forum](https://forum.tecommons.org/) – [Discord](https://discord.gg/N6cydb3) – [Medium](https://medium.com/token-engineering-commons) – [Youtube](https://www.youtube.com/c/tokenengineering) – [GitHub](https://github.com/TECommons) – [Twitter](https://twitter.com/tecmns) – [Telegram](https://t.me/tecommons) – [Wiki](https://www.notion.so/TEC-Wiki-0460a521d72940ecad401ae1571b87fb) – [Working Groups](https://www.notion.so/Working-Groups-e9854f7464904977aeb6bc445a69eee0) – [TEC Handbook](https://token-engineering-commons.gitbook.io/tec-handbook/) (GitBook) – [TEC Coordination Workspace](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322) (ZenHub) – [Calendar](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin&pli=1) ([April](2021-04_TokenEngineering_EDT.pdf))
 
 ![](https://i.imgur.com/4IaKG2c.png)
 
@@ -118,7 +118,7 @@ Hatcher Outreach is making sure everyone knows how to join and collaborate, spec
   > - Make sure that the objectives, principles and intentions from the TEC are transmitted and clearly communicated.
 * [How to Become a Hatcher](https://docs.google.com/document/d/1tsEPNb-gLEh9FKOGLBPt0prfWrOwjmnnjtPdCpy8lxo/edit)
   > A Hatcher is a founding member of the TEC DAO. As a hatcher, you will be a key member of our community who will have governance rights in the newly launched TEC DAO. It is you, the Hatchers, that will decide on the parameters  by which the DAO will be created - Your Economy, Your Choice!
-* [TECommons/coordination] • [#418](https://github.com/TECommons/coordination/issues/418) • [#419](https://github.com/TECommons/coordination/issues/419)
+* [TECommons/coordination] – [#418](https://github.com/TECommons/coordination/issues/418) – [#419](https://github.com/TECommons/coordination/issues/419)
 * [Hatcher Outreach FAQ](https://docs.google.com/document/d/16UI-EfD4qcwBaAv3Eexlv01SOK7oiDt4gkVT5rEY6X4/edit#) (Updated)
 * What are the implications of becoming a Hatcher?
   > By becoming a Hatcher you will play a significant role in shaping the economy of the Token Engineering Commons. In order to launch the commons, Hatchers will need to make key decisions regarding the parameters of the Hatch DAO and how the Commons Upgrade will occur. Hatchers will provide funding for the initialization of the Augmented Bonding Curve and will have significant influence on the direction of the TEC once the Hatch process is over.  
@@ -192,7 +192,7 @@ Conflict management (Gravity) 1 is going to help us to be in harmony! We are hum
 
 ### Token Engineering Community
 
-[Website](https://tokenengineeringcommunity.github.io/website/) • [Twitter](https://twitter.com/tokengineering) • [TEGG](https://tegg.io) • [TEGG Twitter](https://twitter.com/tegg_io) • [YouTube](https://www.youtube.com/channel/UCDmzlpzOlaTALYV0hAwT0Tg) • [Discord](https://discord.gg/gHvksh8) • [Telegram](https://t.me/TokenEngineering) • [GitHub](https://github.com/tokenengineeringcommunity) • [Blog](https://tokenengineeringcommunity.github.io/website/blog) • [Calendar](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin&pli=1)
+[Website](https://tokenengineeringcommunity.github.io/website/) – [Twitter](https://twitter.com/tokengineering) – [TEGG](https://tegg.io) – [TEGG Twitter](https://twitter.com/tegg_io) – [YouTube](https://www.youtube.com/channel/UCDmzlpzOlaTALYV0hAwT0Tg) – [Discord](https://discord.gg/gHvksh8) – [Telegram](https://t.me/TokenEngineering) – [GitHub](https://github.com/tokenengineeringcommunity) – [Blog](https://tokenengineeringcommunity.github.io/website/blog) – [Calendar](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin&pli=1)
 
 Token Engineering Commons is focused on the cultural development of Token Engineering.
 
@@ -318,11 +318,11 @@ Token Engineering Commons is focused on the cultural development of Token Engine
 
 ### Giveth
 
-[GitHub](https://github.com/giveth) • [Blog](https://medium.com/giveth/) • [Twitter](https://twitter.com/givethio) • [Reddit](https://reddit.com/r/giveth) • [Youtube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ) • [Wiki](https://wiki.giveth.io/) • [FAQ](https://giveth.io/faq/)
+[GitHub](https://github.com/giveth) – [Blog](https://medium.com/giveth/) – [Twitter](https://twitter.com/givethio) – [Reddit](https://reddit.com/r/giveth) – [Youtube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ) – [Wiki](https://wiki.giveth.io/) – [FAQ](https://giveth.io/faq/)
 
 ![](https://i.imgur.com/OUX6WrN.png)
 
-[Giveth](https://giveth.io/) - The Future of Giving • [Projects](https://giveth.io/projects)
+[Giveth](https://giveth.io/) - The Future of Giving – [Projects](https://giveth.io/projects)
 
 * [About](https://giveth.io/about)
   > Our mission is to connect people, ideas, and resources to facilitate and incentivize social impact. We are not content with the current non-profit industry, and we are committed to developing a better, decentralized alternative. Solidarity not charity.
@@ -374,19 +374,19 @@ Token Engineering Commons is focused on the cultural development of Token Engine
 
 ### Source Cred
 
-[Website](https://sourcecred.io) • [Docs](https://sourcecred.io/docs) • [Twitter](https://twitter.com/sourcecred) • [GitHub](https://github.com/sourcecred) • [Forum](https://discourse.sourcecred.io/) • [Discord](https://sourcecred.io/discord) • [Explorer](http://cred.sourcecred.io/)
+[Website](https://sourcecred.io) – [Docs](https://sourcecred.io/docs) – [Twitter](https://twitter.com/sourcecred) – [GitHub](https://github.com/sourcecred) – [Forum](https://discourse.sourcecred.io/) – [Discord](https://sourcecred.io/discord) – [Explorer](http://cred.sourcecred.io/)
 
 > SourceCred (in the most basic sense) is a technology that makes the labor of individuals more visible and rewardable as they work together in a project or community. The goal of SourceCred is to use this technology to make rewarding labor as nuanced as human contribution often is. We hope to be one piece in the puzzle of a healthier future where systems serve community members, where financial maximization isn’t the end-all be-all goal, and where wealth actually flows to those who are creating the value in our world. - [sourcecred.io/docs](https://sourcecred.io/docs)
 
 ### Block Science
-[Website](https://block.science) • [Blog](https://medium.com/block-science) • [Youtube](https://www.youtube.com/channel/UCPePNv3dJN--aKhFGOa0Rjg) • [Twitter](https://twitter.com/block_science) • [cadCAD](http://cadcad.org/)
+[Website](https://block.science) – [Blog](https://medium.com/block-science) – [Youtube](https://www.youtube.com/channel/UCPePNv3dJN--aKhFGOa0Rjg) – [Twitter](https://twitter.com/block_science) – [cadCAD](http://cadcad.org/)
 
 > BlockScience ® is an engineering, R&D, and analytics firm specializing in complex systems. Our focus is to design and build data-driven decision systems for new and legacy businesses leveraging engineering methodologies and academic-grade tools.
 > 
 > With deep expertise in Operations Research, AI/Data Science, and Blockchain, we are able to provide quantitative consulting to technology enabled businesses. Our work includes pre-launch design and evaluation of economic business and ecosystem models based on simulation and analysis. We also provide post launch monitoring and maintenance via reporting, analytics, and decision support software. - [block.science](https://block.science)
 
 ### cadCAD
-[Website](https://cadcad.org) • [Twitter](https://twitter.com/cadcad_org) • [Telegram](https://t.me/joinchat/BehTglN4UOLe83MpgBelzw) • [GitHub](https://github.com/BlockScience/cadCAD) • [Forum](http://community.cadcad.org/)
+[Website](https://cadcad.org) – [Twitter](https://twitter.com/cadcad_org) – [Telegram](https://t.me/joinchat/BehTglN4UOLe83MpgBelzw) – [GitHub](https://github.com/BlockScience/cadCAD) – [Forum](http://community.cadcad.org/)
 
 An open-source Python package that assists in the processes of designing, testing and validating complex systems through simulation.
 
@@ -394,7 +394,7 @@ cadCAD was created as an internal tool at BlockScience – an engineering, R&D a
 
 ### 1Hive
 
-[Website](https://1hive.org) • [Wiki](https://wiki.1hive.org/) • [Forum](https://forum.1hive.org/) 
+[Website](https://1hive.org) – [Wiki](https://wiki.1hive.org/) – [Forum](https://forum.1hive.org/) 
 
 > 1Hive is a community that builds and experiments with decentralized applications and protocols. At the center of these experiments is an effort to build a sustainable and thriving economy around a currency called Honey, which is used to influence the direction of the community. Anyone can buy honey or earn it by contributing to 1Hive and can use it, among other things, to vote on funding proposals and protocol changes with a weight that is equal to the Honey they hold.
 > 
