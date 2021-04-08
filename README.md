@@ -1,6 +1,6 @@
 # Token Engineering Commons – INFO
 
-[Website](https://tecommons.org/) – [Forum](https://forum.tecommons.org/) – [Discord](https://discord.gg/N6cydb3) – [Medium](https://medium.com/token-engineering-commons) – [Youtube](https://www.youtube.com/c/tokenengineering) – [GitHub](https://github.com/TECommons) – [Twitter](https://twitter.com/tecmns) – [Telegram](https://t.me/tecommons) – [Wiki](https://www.notion.so/TEC-Wiki-0460a521d72940ecad401ae1571b87fb) – [Working Groups](https://www.notion.so/Working-Groups-e9854f7464904977aeb6bc445a69eee0) – [TEC Handbook](https://token-engineering-commons.gitbook.io/tec-handbook/) (GitBook) – [TEC Coordination Workspace](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322) (ZenHub) – [Calendar](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin&pli=1) ([April](2021-04_TokenEngineering_EDT.pdf))
+[Website](https://tecommons.org/) – [Forum](https://forum.tecommons.org/) – [Discord](https://discord.gg/N6cydb3) – [Medium](https://medium.com/token-engineering-commons) – [Youtube](https://www.youtube.com/c/tokenengineering) – [GitHub](https://github.com/TECommons) – [Twitter](https://twitter.com/tecmns) – [Telegram](https://t.me/tecommons) – [Wiki](https://www.notion.so/TEC-Wiki-0460a521d72940ecad401ae1571b87fb) – [Working Groups](https://www.notion.so/Working-Groups-e9854f7464904977aeb6bc445a69eee0) – [TEC Handbook](https://token-engineering-commons.gitbook.io/tec-handbook/) (GitBook) - [Glossary](https://token-engineering-commons.gitbook.io/tec-handbook/glossary) – [TEC Coordination Workspace](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322) (ZenHub) – [Calendar](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin&pli=1) ([April](2021-04_TokenEngineering_EDT.pdf))
 
 ![](https://i.imgur.com/4IaKG2c.png)
 
@@ -118,7 +118,7 @@ Hatcher Outreach is making sure everyone knows how to join and collaborate, spec
   > - Make sure that the objectives, principles and intentions from the TEC are transmitted and clearly communicated.
 * [How to Become a Hatcher](https://docs.google.com/document/d/1tsEPNb-gLEh9FKOGLBPt0prfWrOwjmnnjtPdCpy8lxo/edit)
   > A Hatcher is a founding member of the TEC DAO. As a hatcher, you will be a key member of our community who will have governance rights in the newly launched TEC DAO. It is you, the Hatchers, that will decide on the parameters  by which the DAO will be created - Your Economy, Your Choice!
-* [TECommons/coordination] – [#418](https://github.com/TECommons/coordination/issues/418) – [#419](https://github.com/TECommons/coordination/issues/419)
+* [TECommons/coordination] – [#418](https://github.com/CommonsBuild/coordination/issues/418) – [#419](https://github.com/CommonsBuild/coordination/issues/419)
 * [Hatcher Outreach FAQ](https://docs.google.com/document/d/16UI-EfD4qcwBaAv3Eexlv01SOK7oiDt4gkVT5rEY6X4/edit#) (Updated)
 * What are the implications of becoming a Hatcher?
   > By becoming a Hatcher you will play a significant role in shaping the economy of the Token Engineering Commons. In order to launch the commons, Hatchers will need to make key decisions regarding the parameters of the Hatch DAO and how the Commons Upgrade will occur. Hatchers will provide funding for the initialization of the Augmented Bonding Curve and will have significant influence on the direction of the TEC once the Hatch process is over.  
@@ -131,7 +131,7 @@ Hatcher Outreach is making sure everyone knows how to join and collaborate, spec
   * **How much are the annual membership dues, and what if I can’t afford to pay it?**
     > The annual membership dues are 450 DAI (minimum), and [scholarships are available](https://beta.giveth.io/campaigns/5feb2ca1dae3134bd0166dd6) to anyone in the TEC community that asks for one. Whether scholarships will be available in future years has not yet been decided though it will not be required to maintain membership in the Trusted Seed or to participate in the TEC. It is only required to participate in its initialization.
 * [TEC Visual Brainstorming Miro](https://miro.com/app/board/o9J_krl8Cv0=/)
-* [TEC Visual: Beautiful Stock and Flow Diagram of the DAO #64](https://github.com/TECommons/coordination/issues/64)
+* [TEC Visual: Beautiful Stock and Flow Diagram of the DAO #64](https://github.com/CommonsBuild/coordination/issues/64)
 
 #### Garden Swarm WG
 ...taking care of the software implementation, making sure that the tech will be ready and sturdy for the launch through a series of tests @sem
@@ -185,7 +185,7 @@ Conflict management (Gravity) 1 is going to help us to be in harmony! We are hum
   > a) As individuals, to promote dialogue within the organization and manage conflicts addressed through ADR (Alternative Dispute Resolution),\
   > b) As a collective, to take decisions on the implementation of graduated sanctions.\
   > c) As both a collective and individuals, to commit to the practice of preventing, contextualizing and resolving disputes by regular attendance in our community practice.
-* [TECommons/Gravity](https://github.com/TECommons/graviton-training)
+* [TECommons/Gravity](https://github.com/CommonsBuild/graviton-training)
 * [Gravity WG Call Notes](https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit)
 
 ## TEC Ecosystem
