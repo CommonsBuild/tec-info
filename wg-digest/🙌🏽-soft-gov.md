@@ -126,7 +126,6 @@ Sowing Ecological, Equitable and Decentralized Societies
 - [TEC Working Groups - constitution](https://docs.google.com/document/d/1tP5B-VGv9yDvDPJidKFVqH9aeg8bQe3yeAlInxevYbQ/edit) gdocs
 - [Gravity Manifesto](https://docs.google.com/document/d/1yrEcPoOW8Q1qDE-YWWF0MhXlcvpiMk0jmdQx25nfZ6k/edit) gdocs
 - [TEC Gravity OPEN CALL](https://docs.google.com/spreadsheets/d/1PhvCZJFkk_j63Q8Aszay2DAn2qg39x6zJDSLlj924TY/edit#gid=0)
-- [Contributor tracking TEC](https://docs.google.com/spreadsheets/d/1DRSPA9RwuTM4UCtFLF7UYq-ORZxItmy9y7XROmiXpbM/edit) Sheets
 - [TEC_Curate (Outreach Proposals and Hatchers) Sheets](https://docs.google.com/spreadsheets/d/1RJK8gPqUoRfehX9e60sTCMAM_R1rI2CuiV1r-i3wAXQ/edit) Sheets
 - [TEC Praise Quantification](https://docs.google.com/spreadsheets/d/1qvmwwlUHnQWYc2JQRoE1Qo_IKx6a4CI9ehWIMvkiqFc/edit) Sheets
 - [TECommons_atTMG1-Oct2020](https://docs.google.com/spreadsheets/d/1ro8zBzMQu2jWb3u8KqC2cC2lH-frH8-s4HdTGXaMj9E/edit?usp=sharing) Sheets
@@ -1101,13 +1100,6 @@ SOFT GOV MIRO BOARD
 MANIFESTO
 [https://docs.google.com/document/d/1QXn7tW2OHB8-XsqMMK8iG7zKI7ar5S_UTHC5ivDsGBw/edit](https://docs.google.com/document/d/1QXn7tW2OHB8-XsqMMK8iG7zKI7ar5S_UTHC5ivDsGBw/edit)
 Look forward to seeing you all there - have a beautiful day! 🌈
-
-
-<h3>santigs#9769  <img src="https://cdn.discordapp.com/avatars/434632218246381569/ecb10317edc17d2e273d2404cc6f6a52.png" width="25" height="25" /></h3>
-
-_08-Dec-20 01:32 PM_:	
-
-[onboarding tracking TEC](https://docs.google.com/spreadsheets/d/1DRSPA9RwuTM4UCtFLF7UYq-ORZxItmy9y7XROmiXpbM/edit)
 
 
 <h3>GraceRachmany#9780  <img src="https://cdn.discordapp.com/avatars/519634011908341760/c599ceae790b944e0dca6259b445526e.png" width="25" height="25" /></h3>
