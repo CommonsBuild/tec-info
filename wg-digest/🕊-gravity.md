@@ -9,9 +9,7 @@
 - [The MEMEnomics Group](http://www.memenomics.com/). Uncovering the Values of a Regenerative Future
 - [Negotiation Insights Series](http://www.negotiatingtheimpossible.com/) by Prof. Deepak Malhotra
 - [RSA ANIMATE: The Divided Brain](http://www.youtube.com/watch?v=dFs9WO2B8uI)
-- [https://app.poap.xyz/admin/events](https://app.poap.xyz/admin/events)
 - [Aragon Agreements](https://aragon.org/agreements)
-- [Gravity Conflict Typeform](https://belljuancarlos.typeform.com/to/iYuhEqKY)
 - [Conflict Resolution: Towards Problem Solving – John Burton](https://core.ac.uk/download/pdf/51092982.pdf)
 - [Taleb, Antifragile.](https://drive.google.com/file/d/1KiuG5ye52VikNqPPBCvm2D0AxvcJBNrm/view?usp=sharing)
 - [BATNA Basics: Boost Your Power at the Bargaining Table](https://drive.google.com/file/d/1ZHMyDW-RDgCDc6tkJjOqBdJ096RRerqq/view?usp=sharing) Harvard Law
@@ -25,7 +23,6 @@
 - [Using Spiral Dynamics to understand development](https://medium.com/@jthowlett/using-spiral-dynamics-to-understand-development-930098e8f092)
 - [Miro – Soft Governance and Culture](https://miro.com/app/board/o9J_kkC0kIM=/)
 - [Restorative Justice Circles](https://oscr.umich.edu/article/restorative-justice-circles)
-- [POAP Gallery – Gravity training for the TEC - NVC & Spiral Dynamics](https://poap.gallery/event/699)
 - [Your Complete Nonviolent Communication Guide [2020 Update]](https://positivepsychology.com/non-violent-communication/)
 - [The little book of conglict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf)
 - [Dealing with Anger Effectively](https://satsang.arshavidya.org/wp-content/uploads/media/hhpsds/pdf/dealing_anger_effectively.pdf)
@@ -54,6 +51,7 @@
 
 ## WG Related
 
+- [Gravity Conflict Typeform](https://belljuancarlos.typeform.com/to/iYuhEqKY)
 - [Graviton Training](https://forum.tecommons.org/t/graviton-training/217)
 - [Gravity Onboarding](https://forum.tecommons.org/t/gravity-onboarding/175)
 - [Gravity Role Design](https://forum.tecommons.org/t/gravity-role-design/174)
@@ -62,6 +60,8 @@
   - [Conflict Mgmt Role Design #130](https://github.com/CommonsBuild/coordination/issues/130)
   - ["Gravity" - Conflict Management Wg #72](https://github.com/CommonsBuild/coordination/issues/72)
 - [Gravity WG Related Docs](https://drive.google.com/drive/u/0/folders/1yxxquMQAc8WPMs3kU7U5v70zXv_kSbiz) Google Drive
+- [https://app.poap.xyz/admin/events](https://app.poap.xyz/admin/events)
+- [POAP Gallery – Gravity training for the TEC - NVC & Spiral Dynamics](https://poap.gallery/event/699)
 
 ### Docs
 
