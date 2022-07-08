@@ -6,7 +6,7 @@ Token Engineering Commons
 
 ━━WORKING GROUP TEXT━━ / 📡｜comms
 
-The COMMS working group supports the TEC narrative, which may evolve over time, but should remain consistent across all the community platforms. You can find our weekly agenda here: https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit
+The COMMS working group supports the TEC narrative, which may evolve over time, but should remain consistent across all the community platforms. You can find our weekly agenda here: https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 ## After 19-Mar-21 12:00 AM
 
@@ -90,57 +90,46 @@ https://discord.gg/tjhx4rw2WK
 https://discord.gg/uM4ZWDjNfK
 https://discord.tecommons.org
 https://discordapp.com/channels/810180621930070088/810180622479917063/930532655911534633
-https://docs.google.com/document/d/11YScqIT9B2k-eqzmiNz-kKDzjc-Cm0rcLYrh9GB4Jbk/edit?usp=sharing
-https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#
-https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit#
-https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing
-https://docs.google.com/document/d/18PKsdmm59GfQdqflpTIgO4aL-174xJIKQL2Gf__8aUw/edit?usp=sharing
-https://docs.google.com/document/d/18RlOZf_DhV149eZ-KPArBF0iFnwsi9SSLiMOg-vD0CU/edit?usp=sharing
-https://docs.google.com/document/d/1BB6aysQCMWZjugZONNtPoCzQ6QFhHwXrdDgqsLR6Xyw/edit
-https://docs.google.com/document/d/1BB6aysQCMWZjugZONNtPoCzQ6QFhHwXrdDgqsLR6Xyw/edit?usp=sharing
-https://docs.google.com/document/d/1FfP97LbkLJLLTv1cSZtKENjnJbQqZI9FwsDUQ58UNwU/edit?usp=sharing
-https://docs.google.com/document/d/1Jri1kbnFhPq2F8tPoeLJjV__Gr3cxykiMLZddDNn97Y/edit
+https://docs.google.com/document/d/11YScqIT9B2k-eqzmiNz-kKDzjc-Cm0rcLYrh9GB4Jbk
+https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
+https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg
+https://docs.google.com/document/d/18PKsdmm59GfQdqflpTIgO4aL-174xJIKQL2Gf__8aUw
+https://docs.google.com/document/d/18RlOZf_DhV149eZ-KPArBF0iFnwsi9SSLiMOg-vD0CU
+https://docs.google.com/document/d/1BB6aysQCMWZjugZONNtPoCzQ6QFhHwXrdDgqsLR6Xyw
+https://docs.google.com/document/d/1FfP97LbkLJLLTv1cSZtKENjnJbQqZI9FwsDUQ58UNwU
+https://docs.google.com/document/d/1Jri1kbnFhPq2F8tPoeLJjV__Gr3cxykiMLZddDNn97Y
 https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
-https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit
-https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit#
-https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit?usp=sharing
-https://docs.google.com/document/d/1YvzrtMnfTOEr-e5wi8nsBmmgcyyxFki5RxvMKBC4nx4/edit#
-https://docs.google.com/document/d/1ct8K4AMqiHJHkF9NfkK03EaVacoLnecUJrDfkarhJXY/edit?usp=sharing
-https://docs.google.com/document/d/1e6G4nlMG12JGMuc36AB-Ygr4w1dZ4EJ0Nx27QssqnRE/edit?usp=sharing
-https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ/edit#
-https://docs.google.com/document/d/1mACB0Fm1sM3RjtjP7gWsPmKTaixrxdUGf5Q8s-nrMVE/edit?usp=sharing
-https://docs.google.com/document/d/1mOMZI0D3MHZcT6TJpnThHdbKx0HT7_9itj3GBxk_l_Y/edit?usp=sharing
-https://docs.google.com/document/d/1q9LKFWqGdlMJU45sXJRZGCzepgsYnrwWGkq5g61oALU/edit
-https://docs.google.com/document/d/1qDOoe8S5s20RBOfYoRa9JSU6JsbDhMAeWrKo2t_ajWI/edit#heading=h.7i3aryz8mgzx
-https://docs.google.com/document/d/1szjf_eTnUBXd9x7tlzKsVXtQE5tAULbNmIzN0FEGexI/edit
-https://docs.google.com/document/d/1t_APam3hlSG6plz94qnXIEkYRCJETXc5iUNnNRTKUaM/edit
-https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/edit#
-https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0/edit?usp=sharing
-https://docs.google.com/document/d/1wdLEpfVIpcm6w1PdglyY0V2R_6s5E-lIiuWuUoyXIvo/edit?usp=sharing
-https://docs.google.com/document/d/1yp1lHM3Ksx3OoBCaHF6uktNN186rGT22S0GfD_u3qoE/edit#
-https://docs.google.com/presentation/d/1-w43yn84Wh4Bh5R9hd7TCl0OKlYp1iZMJb6PSsvZwWg/edit?usp=sharing
-https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit?usp=sharing
-https://docs.google.com/presentation/d/1fLJvPOvibcCUpJ9ES44_cdoX5Hb7LpDaloGWz5FbUEM/edit#slide=id.gec41538503_0_399
-https://docs.google.com/presentation/d/1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg/edit
-https://docs.google.com/presentation/d/1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg/edit#slide=id.gc2cf9d50a5_1_3
+https://docs.google.com/document/d/1YvzrtMnfTOEr-e5wi8nsBmmgcyyxFki5RxvMKBC4nx4
+https://docs.google.com/document/d/1ct8K4AMqiHJHkF9NfkK03EaVacoLnecUJrDfkarhJXY
+https://docs.google.com/document/d/1e6G4nlMG12JGMuc36AB-Ygr4w1dZ4EJ0Nx27QssqnRE
+https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ
+https://docs.google.com/document/d/1mACB0Fm1sM3RjtjP7gWsPmKTaixrxdUGf5Q8s-nrMVE
+https://docs.google.com/document/d/1mOMZI0D3MHZcT6TJpnThHdbKx0HT7_9itj3GBxk_l_Y
+https://docs.google.com/document/d/1q9LKFWqGdlMJU45sXJRZGCzepgsYnrwWGkq5g61oALU
+https://docs.google.com/document/d/1qDOoe8S5s20RBOfYoRa9JSU6JsbDhMAeWrKo2t_ajWI7i3aryz8mgzx
+https://docs.google.com/document/d/1szjf_eTnUBXd9x7tlzKsVXtQE5tAULbNmIzN0FEGexI
+https://docs.google.com/document/d/1t_APam3hlSG6plz94qnXIEkYRCJETXc5iUNnNRTKUaM
+https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0
+https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0
+https://docs.google.com/document/d/1wdLEpfVIpcm6w1PdglyY0V2R_6s5E-lIiuWuUoyXIvo
+https://docs.google.com/document/d/1yp1lHM3Ksx3OoBCaHF6uktNN186rGT22S0GfD_u3qoE
+https://docs.google.com/presentation/d/1-w43yn84Wh4Bh5R9hd7TCl0OKlYp1iZMJb6PSsvZwWg
+https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y
+https://docs.google.com/presentation/d/1fLJvPOvibcCUpJ9ES44_cdoX5Hb7LpDaloGWz5FbUEM
+https://docs.google.com/presentation/d/1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg
 https://docs.google.com/presentation/d/e/2PACX-1vQm_v90bEp-g04GoADuIAvbpEqwT6tatSXZOgYKGkhTQFjsLCZdqsJidYZdDPvLR4_muj1pyI7EsKdi/pub?start=false&loop=false&delayms=60000&slide=id.gccce72c6aa_1_28
-https://docs.google.com/spreadsheets/d/14CMvoPS0wrjKHMmwFi7isSKb4g7C5Q6xCmr-Es5fn5Q/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/16IDgIyPcfwJGG-zmXeMAenYbePQVHkc2P6WCwKEZgpk/edit#gid=0
-https://docs.google.com/spreadsheets/d/1FJqAsNbZHfQzU5pkNqMrAs-kCatEPYDHa0RTdnZkHgs/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1JJ3YoHmWYyOH8RZs1jT8VDFyQJHt35kJw92tT7YPXvI/edit#gid=2058060970
-https://docs.google.com/spreadsheets/d/1JJ3YoHmWYyOH8RZs1jT8VDFyQJHt35kJw92tT7YPXvI/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1P9DQkB-tvyGIaVaNR4Bdfkg3mhwDwDmMm66WwF3dcBw/edit#gid=0
-https://docs.google.com/spreadsheets/d/1QJnratmpodDOuTY-21Lgr6wHr8AK4BOBa-cBI37rHNo/edit?ts=601004ae#gid=450032996
-https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit#gid=1316217722
-https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit#gid=282267238
-https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit#gid=968908618
-https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1_2UeAcGB1FR7wZrVRR8rjRDRBmPxCaU-SQkPsvcX6rU/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1gRSltEjFYdl5fhBvc-_KH-au2_dtsLbrzWqEiZh5emk/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/edit#gid=0
+https://docs.google.com/spreadsheets/d/14CMvoPS0wrjKHMmwFi7isSKb4g7C5Q6xCmr-Es5fn5Q
+https://docs.google.com/spreadsheets/d/16IDgIyPcfwJGG-zmXeMAenYbePQVHkc2P6WCwKEZgpk
+https://docs.google.com/spreadsheets/d/1FJqAsNbZHfQzU5pkNqMrAs-kCatEPYDHa0RTdnZkHgs
+https://docs.google.com/spreadsheets/d/1JJ3YoHmWYyOH8RZs1jT8VDFyQJHt35kJw92tT7YPXvI
+https://docs.google.com/spreadsheets/d/1P9DQkB-tvyGIaVaNR4Bdfkg3mhwDwDmMm66WwF3dcBw
+https://docs.google.com/spreadsheets/d/1QJnratmpodDOuTY-21Lgr6wHr8AK4BOBa-cBI37rHNots=601004ae#gid=450032996
+https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU
+https://docs.google.com/spreadsheets/d/1_2UeAcGB1FR7wZrVRR8rjRDRBmPxCaU-SQkPsvcX6rU
+https://docs.google.com/spreadsheets/d/1gRSltEjFYdl5fhBvc-_KH-au2_dtsLbrzWqEiZh5emk
+https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0
 https://drive.google.com/drive/folders/1ifU8y880MJ6CglHAU9mKt_gsj5vREC9i
-https://drive.google.com/drive/folders/1ifU8y880MJ6CglHAU9mKt_gsj5vREC9i)
-https://drive.google.com/file/d/1Esk-pVXi0h3pDwa2kn7neodARAYcciOz/view?usp=sharing
+https://drive.google.com/file/d/1Esk-pVXi0h3pDwa2kn7neodARAYcciOz/view?
 https://drive.google.com/file/d/1v8CR2jbVJ7x80K33cM52HPmh5Xq58ND_/view?usp=drivesdk
 https://dxdao.eth.link/#/worker-compensation
 https://elements.envato.com
@@ -161,7 +150,6 @@ https://forum.tecommons.org/t/adding-tec-to-the-optimism-ecosystem-via-velodrome
 https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327?u=chuygarcia92
 https://forum.tecommons.org/t/commons-upgrade-decision-making-process/682
 https://forum.tecommons.org/t/comms-t-e-a-m-dao-funding-proposal/865
-https://forum.tecommons.org/t/comms-t-e-a-m-dao-funding-proposal/865/7?u=chuygarcia92
 https://forum.tecommons.org/t/comms-working-group/162/2?u=chuygarcia92
 https://forum.tecommons.org/t/design-your-economy-make-your-choice/366
 https://forum.tecommons.org/t/hatch-swag-look-feel-vote/436?u=chuygarcia92
@@ -209,11 +197,11 @@ https://giveth.io/project/help-save-rebeca
 https://gov.gitcoin.co/t/the-internet-of-jobs-is-here/9340
 https://gov.gitcoin.co/t/you-are-invited-to-come-party-with-the-token-engineering-commons-dao/7784
 https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/BJ6JtQku_
-https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/BJ6JtQku_/edit
+https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/BJ6JtQku_
 https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/ByL8m2yo_
-https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/HJXIJ0zdY/edit
-https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/Syk3A-IKq/edit
-https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/ryGSpsDfY/edit
+https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/HJXIJ0zdY
+https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/Syk3A-IKq
+https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/ryGSpsDfY
 https://hackmd.io/ClferPvPSeKzRwrGQPoLgA
 https://hackmd.io/SBKMAE56QruvHr1ZRUangw
 https://hackmd.io/SBKMAE56QruvHr1ZRUangw?both
@@ -221,61 +209,10 @@ https://hackmd.io/SBKMAE56QruvHr1ZRUangw?view
 https://hatch-demo.netlify.app
 https://hatch-demo.netlify.app/#/home
 https://howsociable.com/blog/best-time-to-post-on-twitter
-https://i.scdn.co/image/ab6761610000e5eb99df5d3330d1db32fc7ac531
-https://i.scdn.co/image/ab67616d0000b2733faf680c98eed3f0a6ecb61d
-https://i.scdn.co/image/ab67616d0000b273426bfab23640567c68eec699
-https://i.scdn.co/image/ab67616d0000b2739a74860d7918c8e38c5220cf
-https://i.scdn.co/image/ab67616d0000b2739eb0f82cc0719c0fdde9a465
-https://i.scdn.co/image/ab67616d0000b273b1b7449ff107b8f8272fd006
-https://i.scdn.co/image/ab67616d0000b273e9694894ffb038b142b748be
-https://i.scdn.co/image/ab67616d0000b273f10c402b3a69d929d0dadc44
-https://i.scdn.co/image/ab67616d0000b273f496cfaa57dd0d3930992034
-https://i.scdn.co/image/ab67706c0000bebb3666f59b23040c24e761eb08
-https://i.scdn.co/image/ab67706c0000bebbca4847409cf74ad7a9e91142
-https://imgflip.com/i/54l0iv
-https://imgflip.com/i/58pamu
 https://itunes.apple
 https://jaipaul.bronze.ai
 https://lexfridman.com/author/lex-fridman
 https://lexfridman.com/podcast
-https://lh3.googleusercontent.com/2St-Q7_GOUGHl_xCWh8PkUMHh0mLOMUCbzqtG8eFjXFQ50vCvjJAcDfbEeh0St5a1QYwurKYFL62jQ=w1200-h630-p
-https://lh3.googleusercontent.com/BGw94Lk4ZQXA8JCco9UNkZ3hek4VYR_2jxw5hJy5eDUHzUK-775wnBjFuO7CxkXrY1uAvsUEL9COuA=w1200-h630-p
-https://lh3.googleusercontent.com/CHPSVpL8cnpMUA7KMXJGxg3C2ZHVI2CZxeXAAkpC2PoTH0KC9RCjlOvm5olFvW48CpWgpeoOSIx_Ig=w1200-h630-p
-https://lh3.googleusercontent.com/CzddP7eAJHW584VaM3FoKKFS_-etSzC4enKV1H02wxYTxkEjPmzKheNqo-nY2IkeP1ggW7-iTMYzMQ=w1200-h630-p
-https://lh3.googleusercontent.com/Ven04-q-aRPmiO3RR0M0Sf2D_L-deGiY9P5-EvpGEvmUsnALd2oeLHfY-UDf7SXs4hFn-QMcdFWcrw=w1200-h630-p
-https://lh3.googleusercontent.com/XSbu0l9-cxYht0VhK9ol0jXjdnc244_KHPYqDh9xbvxt1lwlr-uQp3_Ksw5MNsBkI62zExEqTeGq5g=w1200-h630-p
-https://lh3.googleusercontent.com/YYkxklFmPOpxs5ObDZG3-Q1iPQ_Kt7paY6OXMwqZWvyLUik7z7XxjZLC7WNn-pC1JbgcTgEuDxwGjg=w1200-h630-p
-https://lh3.googleusercontent.com/vaIb549HGvJnrwTGMMLYo_o7cdd3jr3RdI4a0oAOk1D7lkuMiOCR6wIX59nei_HASHcc9ND3CSU=w1200-h630-p
-https://lh3.googleusercontent.com/y1Sua5bUUdNPOxoH_x85sA-3cjHQa50iN4Q3EyoX1dRyfINfgmS8mZsiORVfOsAQ-78ioKaoAN9L6A=w1200-h630-p
-https://lh4.googleusercontent.com/88WOcMFSK5E3bYZI-16qFecr4p_15AakQFHcyL7g2XETYecTkHrjqQfelT6RHJYpgkAk7g3FqHLFJg=w1200-h630-p
-https://lh4.googleusercontent.com/9K9pbHRp5MZPjJjb_hC940_IBGWCJvUAabPAHjU8x0IGiPwRuqX63GGTNhPcCeqavOlxfwvkWxMWcA=w1200-h630-p
-https://lh4.googleusercontent.com/Iqg5WWvPA1NaxxtMACfTBC8makZkqRuEgdM8pEYqlF1YB4-YYd6yZhrs2T2PG9ZhNHsE356V_yHY2A=w1200-h630-p
-https://lh4.googleusercontent.com/MDvU5040gieQCy-2V8AqmR3FhQWqkYjESZ_J8uX4oMFhIzbEywSLnu4jDSZuy1ChTPbJSBgvMtVM9Q=w1200-h630-p
-https://lh4.googleusercontent.com/WGl_OEZ1v8nv_ilOmoJxPGDPOcg1uzGnK4GIT8v8H1Ln4KAe1bATcrRjxjbG6yQq5RDUWdY0K6OR-A=w1200-h630-p
-https://lh4.googleusercontent.com/WVPl1yw4fgYTAkVMmK3niqrRlh3qvzR4OoEpZjObWudmstFFFTRDkQAVq8dHUleM1cDVEaubkat3hw=w1200-h630-p
-https://lh4.googleusercontent.com/XMfLxAIyCdV7_6-K09UvIABwgummAWZR6n07VcyCy8qUrCEZWVlyXmdI3fdUJGyz0hvFapePE6DmIA=w1200-h630-p
-https://lh4.googleusercontent.com/mlgmepPnBIFyod1RwW1lWwYIyEeyIPa6sWQ31q5PZ3vPTN03F5Nb2O8Gx1uwrRZpUpDouAl92CH3uw=w1200-h630-p
-https://lh4.googleusercontent.com/qCG_cyKCTBJ4dV_ecN8rDP0UkA-iN_xnXQwjRgfM0OS_f1_cVpEd4yHeZdRyge_HX0xsgNAy8nqZsA=w1200-h630-p
-https://lh5.googleusercontent.com/1ARl823ugqo14cZXc8zSh7qbATZZU1PfhhX2sskJgurL4Se7OaPoaa-c-mTuV4oLu30=w1200-h630-p
-https://lh5.googleusercontent.com/C1DuQRvPXIB1z-ijMRuQpqceBF-XyNg4RhPBpqk4AzXbFOPTm_z2u7f5WfJEXipqCv9lwmokJqsgRg=w1200-h630-p
-https://lh5.googleusercontent.com/GTC76m7HKsydhaaS1sIkgfGoMZ0DLmhvI76qnBhp23h2bQXWQNGgG_9mPyhhlXRECBJGHWVcTsL7xg=w1200-h630-p
-https://lh5.googleusercontent.com/JLwAisEVmlNzL-4J2EDEJZq8l7JRfclGR9awtMXq6p59k7XzzTj5HNuY4iFpz82s38P0_9e7kbSejg=w1200-h630-p
-https://lh5.googleusercontent.com/KZtgkas60S7dUdgbnv9Aiw9wbDe7TL_dhmuCHaLDgBV_DpMEr_uQ2IiRaQ_BRyVcyKNoR1ij9gOtAQ=w1200-h630-p
-https://lh5.googleusercontent.com/LtmW9DjKDJVSAB0bybEy8cixRTasJPQF-rqL4rbrSsMuZWc8p7LPwmayQSPtvzUqXcAbhiLI1QV_hg=w1200-h630-p
-https://lh5.googleusercontent.com/Sckh5hQifI1522VE-fbTeQUrlf8yho8cTR1ux0qe4KZizdzSOvDpcMzrRrmjCZKJc2-cvn1gDqRSkA=w1200-h630-p
-https://lh5.googleusercontent.com/eBoZRSYf2OC03t3vY87XlcDm0NJzZ67fr7Oc7VKVI3_AUok0oHJsXnF3jgKYPW6YYKcDIyBFhbHMhg=w1200-h630-p
-https://lh5.googleusercontent.com/q037nZ8hrwO__PxNHDnc-qizeWSV6AXljMEbA8GSRs6HLMAj276RovpUluZM8yf_Aw6oabMBli7zzQ=w1200-h630-p
-https://lh5.googleusercontent.com/staNtGTSCKlj61z7cnvrUgBuv9gUjlyPlNFsy6sKpGKloTldRpit4_vtHQckpDK27LyY50HOZnjXEA=w1200-h630-p
-https://lh5.googleusercontent.com/vTMFndKMjsFw8yN1fT5hUqfyFQlVh06WLpdeIyvJvZYz1yJ_lR7MsMCjag3NPPctNeK2S5G6KzvuIQ=w1200-h630-p
-https://lh6.googleusercontent.com/-_j5GuPdllaJOfHOkJzmOQEolGXVPQFVulgPfD1-yPd1IGV7HDzj5L38TldI9PUjxDCtFUplqH49vQ=w1200-h630-p
-https://lh6.googleusercontent.com/5qnfcdBFX5HeYwYUYhJoAlA0SJYAM8reshCoyFW2zF6wvHayFClfpL9Ox70_s9KZGp3SQHpaoJOvPA=w1200-h630-p
-https://lh6.googleusercontent.com/Czv7Kl7fJ_zL8u0BMPJtJZIzdTERKTUsT6Ldi5bAsKIlFUJGPIDysFFE1sFw-UST0A4xow86dAHZ1w=w1200-h630-p
-https://lh6.googleusercontent.com/IMM_Gj7Zve5suoUA2c1dpxuK8dQPhgWgGZ73P_u1vnLwLffcOr1KcX1lspqD2NxHZymbSGfGSIF3CA=w1200-h630-p
-https://lh6.googleusercontent.com/RcGsBzT9DrIACu_mg3qgVeAhl6vhq7dJIr_I6FIhFxpC6Akr2oisSMk-z5yE9Phw8U9Cs6EgcreJiQ=w1200-h630-p
-https://lh6.googleusercontent.com/SFEzloxhglB4kDIfjzrwi-PIQkMFEhDkgeHroQEWBEctI3DMBq-W4g98oXRcI5Q4Mja-H2_AqP6-Iw=w1200-h630-p
-https://lh6.googleusercontent.com/XrQjDooRNAlTqyOXaDWE-ReVgUUrgsshV1zrsBVWDHoXqv1OpfZYXhU_UMnGiDyNSfpVOwHIeLbmKw=w1200-h630-p
-https://lh6.googleusercontent.com/_CCxb0iaqS-YQrwEcL1rbJAxYPmNk33WmCnUVNmKglaLripmoUueHkOfOqYcs0Vx-xg=w1200-h630-p
-https://lh6.googleusercontent.com/wyHs67aYjsD6VNp_gbFQyuXwXrvGhO5l16wN5NzylRkJRPF_ZdHH1gFkXZUJi9wOUaeNlrQ1J-4B2w=w1200-h630-p
 https://madeon.lnk.to/GoodFaith
 https://medium.com/@jeffemmett/whats-in-a-hatch-bc9246ca4dd3
 https://medium.com/@molochmystics/molochv3-8eb732cd0930
@@ -284,12 +221,6 @@ https://medium.com/the-ethereum-name-service/you-can-now-manage-ens-names-with-g
 https://medium.com/token-engineering-commons
 https://medium.com/token-engineering-commons/graviton-training-season-2-8f9817cf404d
 https://medium.com/token-engineering-commons/kicking-off-the-token-engineering-commons-be6a253cba81
-https://miro.com/app/board/o9J_kjDw5AE=
-https://miro.medium.com/max/1200/1
-https://miro.medium.com/max/2400/1
-https://miro.medium.com/max/566/1
-https://miro.medium.com/max/892/1
-https://miro.medium.com/max/910/0
 https://mirror.xyz/0x0966262125B5E01B5D77B862830a341419BC2872/y-aaFWpbogZt5jWGqu6sVlOG-fKh0p-5V6l2o01yyy0
 https://mirror.xyz/jhennyart.eth/PtcrNpQENnI5zagEl6WNR8GPO25z8Ae5OyIOL1pu6lQ
 https://misterhorse.com/products-for-after-effects
@@ -408,7 +339,7 @@ https://vimeo.com/user124534874
 https://wiki.aragon.one
 https://www.airtable.com/templates/featured/exp3FNmOkdHZvprXB/content-calendar
 https://www.bankofcanada.ca/2021/11/staff-working-paper-2021-60/?utm_source=alert&utm_medium=email&utm_campaign=SWP211126-3
-https://www.canva.com/design/DAE6mW5UGHY/eK1LjpwPu34CpH864Od16w/edit?utm_content=DAE6mW5UGHY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#5
+https://www.canva.com/design/DAE6mW5UGHY/eK1LjpwPu34CpH864Od16wutm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#5
 https://www.colorhexa.com/defb48
 https://www.dancarlin.com/hardcore-history-56-kings-of-kings
 https://www.digitalax.xyz/homepage
@@ -545,18 +476,18 @@ Contribute to TECommons/content-distribution development by creating an account 
 
 markop
 
-[@JessicaZartler @natesuits @Tam2140 Tagging you here for comments/edits on Ivys article above.](about:blank#)
+[@JessicaZartler @natesuits @Tam2140 Tagging you here for comments(about:blank#)
 
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
 _23-Mar-21 02:03 AM_:
-Resending the article - hope someone can review/edit so we can publish this week
+Resending the article - hope someone can review
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
 @JessicaZartler @natesuits @Tam2140 @griff (💜, 💜)
 
-[https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/edit#](https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/edit#)
+[https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0
 
 cc: @Zeptimus @Juankbell
 
@@ -617,7 +548,7 @@ I can do that.
 
 _23-Mar-21 01:01 PM_:
 
-[https://docs.google.com/document/d/1wdLEpfVIpcm6w1PdglyY0V2R_6s5E-lIiuWuUoyXIvo/edit?usp=sharing](https://docs.google.com/document/d/1wdLEpfVIpcm6w1PdglyY0V2R_6s5E-lIiuWuUoyXIvo/edit?usp=sharing)
+[https://docs.google.com/document/d/1wdLEpfVIpcm6w1PdglyY0V2R_6s5E-lIiuWuUoyXIvousp=sharing](https://docs.google.com/document/d/1wdLEpfVIpcm6w1PdglyY0V2R_6s5E-lIiuWuUoyXIvo
 
 TEC Content Distribution Process Proposal Document
 
@@ -684,7 +615,7 @@ Hey @markop @liviade I drafted the tweet for the Mission, Vision, Values stateme
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit#gid=968908618](https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit#gid=968908618)
+[https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU
 
 TEC Twitter Content Planning
 
@@ -745,7 +676,7 @@ Twitter
 
 _29-Mar-21 04:56 AM_:
 
-@iviangita I just noticed NEW instructions in the Twitter schedule sheet [https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit#gid=282267238](https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit#gid=282267238)
+@iviangita I just noticed NEW instructions in the Twitter schedule sheet [https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fUgoogle.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU
 
 TEC Twitter Content Planning
 
@@ -1046,7 +977,7 @@ Hi everyone
 
 AGENDA & CALL NOTES
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 MIRO BOARD Link:
 
@@ -1054,7 +985,7 @@ MIRO BOARD Link:
 
 Password: TokenEngineering MANIFESTO (Open for revision)
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 (edited)
 
@@ -1167,7 +1098,7 @@ Anything to add? Bounced this idea off @Vyvy-vi for a feasibility check. It&#39;
 
 _06-Apr-21 12:46 PM_:
 
-[https://docs.google.com/document/d/1Jri1kbnFhPq2F8tPoeLJjV__Gr3cxykiMLZddDNn97Y/edit](https://docs.google.com/document/d/1Jri1kbnFhPq2F8tPoeLJjV__Gr3cxykiMLZddDNn97Y/edit)
+[https://docs.google.com/document/d/1Jri1kbnFhPq2F8tPoeLJjV__Gr3cxykiMLZddDNn97Ydocs.google.com/document/d/1Jri1kbnFhPq2F8tPoeLJjV__Gr3cxykiMLZddDNn97Y
 
 Content Production & Distribution Process Proposal
 
@@ -1317,7 +1248,7 @@ Pinned a message.
 
 _09-Apr-21 11:24 AM_:
 
-Content Production & Distribution Process Proposal [https://docs.google.com/document/d/1Jri1kbnFhPq2F8tPoeLJjV__Gr3cxykiMLZddDNn97Y/edit](https://docs.google.com/document/d/1Jri1kbnFhPq2F8tPoeLJjV__Gr3cxykiMLZddDNn97Y/edit)
+Content Production & Distribution Process Proposal [https://docs.google.com/document/d/1Jri1kbnFhPq2F8tPoeLJjV__Gr3cxykiMLZddDNn97Y1Jri1kbnFhPq2F8tPoeLJjV__Gr3cxykiMLZddDNn97Y
 
 Content Production & Distribution Process Proposal
 
@@ -1403,11 +1334,11 @@ Hi everyone
 
 AGENDA & CALL NOTES
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 MANIFESTO
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 MIRO BOARD Link:
 
@@ -1811,7 +1742,7 @@ _20-Apr-21 12:05 PM_:
 
 _20-Apr-21 12:06 PM_:
 
-@mitch (🍔, 🍔) yes!! here is it: [https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit?usp=sharing](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit?usp=sharing)
+@mitch (🍔, 🍔) yes!! here is it: [https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwd/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 TEC Comms Working Group_Weekly Sync Notes
 
@@ -1981,7 +1912,7 @@ Project Management and Software Development with GitHub | ZenHub
 
 _23-Apr-21 12:52 PM_:
 
-[https://docs.google.com/document/d/18RlOZf_DhV149eZ-KPArBF0iFnwsi9SSLiMOg-vD0CU/edit?usp=sharing](https://docs.google.com/document/d/18RlOZf_DhV149eZ-KPArBF0iFnwsi9SSLiMOg-vD0CU/edit?usp=sharing)
+[https://docs.google.com/document/d/18RlOZf_DhV149eZ-KPArBF0iFnwsi9SSLiMOg-vD0CUusp=sharing](https://docs.google.com/document/d/18RlOZf_DhV149eZ-KPArBF0iFnwsi9SSLiMOg-vD0CU
 
 SEO Project Brief
 
@@ -2023,7 +1954,7 @@ No, its all good! I will catch up with all of you during the week. If there is a
 
 _26-Apr-21 12:56 PM_:
 
-Going over our Keyword Bank today!: [https://docs.google.com/spreadsheets/d/1_2UeAcGB1FR7wZrVRR8rjRDRBmPxCaU-SQkPsvcX6rU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1_2UeAcGB1FR7wZrVRR8rjRDRBmPxCaU-SQkPsvcX6rU/edit?usp=sharing)
+Going over our Keyword Bank today!: [https://docs.google.com/spreadsheets/d/1_2UeAcGB1FR7wZrVRR8rjRDRBmPxCaU-SQkPsvcX6rUspreadsheets/d/1_2UeAcGB1FR7wZrVRR8rjRDRBmPxCaU-SQkPsvcX6rU
 
 Keywords Research
 
@@ -2057,11 +1988,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -2126,7 +2057,7 @@ Andy G · Album · 2021 · 10 songs.
 
 _27-Apr-21 12:16 PM_:
 
-[https://docs.google.com/spreadsheets/d/1P9DQkB-tvyGIaVaNR4Bdfkg3mhwDwDmMm66WwF3dcBw/edit#gid=0](https://docs.google.com/spreadsheets/d/1P9DQkB-tvyGIaVaNR4Bdfkg3mhwDwDmMm66WwF3dcBw/edit#gid=0)
+[https://docs.google.com/spreadsheets/d/1P9DQkB-tvyGIaVaNR4Bdfkg3mhwDwDmMm66WwF3dcBw(https://docs.google.com/spreadsheets/d/1P9DQkB-tvyGIaVaNR4Bdfkg3mhwDwDmMm66WwF3dcBw
 
 TEC.SEO <-- Copied from the original XLS
 
@@ -2138,7 +2069,7 @@ Sheet1 Keywords Too general,Average monthly search volume Token engineering,100 
 
 _27-Apr-21 12:26 PM_:
 
-[https://docs.google.com/document/d/1ct8K4AMqiHJHkF9NfkK03EaVacoLnecUJrDfkarhJXY/edit?usp=sharing](https://docs.google.com/document/d/1ct8K4AMqiHJHkF9NfkK03EaVacoLnecUJrDfkarhJXY/edit?usp=sharing)
+[https://docs.google.com/document/d/1ct8K4AMqiHJHkF9NfkK03EaVacoLnecUJrDfkarhJXYusp=sharing](https://docs.google.com/document/d/1ct8K4AMqiHJHkF9NfkK03EaVacoLnecUJrDfkarhJXY
 
 Google Docs - create and edit documents online, for free.
 
@@ -2198,7 +2129,7 @@ person · Playlist · 144 songs · 0 likes
 
 _28-Apr-21 05:05 PM_:
 
-[https://docs.google.com/document/d/11YScqIT9B2k-eqzmiNz-kKDzjc-Cm0rcLYrh9GB4Jbk/edit?usp=sharing](https://docs.google.com/document/d/11YScqIT9B2k-eqzmiNz-kKDzjc-Cm0rcLYrh9GB4Jbk/edit?usp=sharing)
+[https://docs.google.com/document/d/11YScqIT9B2k-eqzmiNz-kKDzjc-Cm0rcLYrh9GB4Jbkusp=sharing](https://docs.google.com/document/d/11YScqIT9B2k-eqzmiNz-kKDzjc-Cm0rcLYrh9GB4Jbk
 
 Hatch Communications Roadmap
 
@@ -2210,7 +2141,7 @@ Hatch Communications Roadmap May 4th
 
 _28-Apr-21 05:36 PM_:
 
-[https://docs.google.com/document/d/1qDOoe8S5s20RBOfYoRa9JSU6JsbDhMAeWrKo2t_ajWI/edit#heading=h.7i3aryz8mgzx](https://docs.google.com/document/d/1qDOoe8S5s20RBOfYoRa9JSU6JsbDhMAeWrKo2t_ajWI/edit#heading=h.7i3aryz8mgzx)
+[https://docs.google.com/document/d/1qDOoe8S5s20RBOfYoRa9JSU6JsbDhMAeWrKo2t_ajWI7i3aryz8mgzx](https://docs.google.com/document/d/1qDOoe8S5s20RBOfYoRa9JSU6JsbDhMAeWrKo2t_ajWI
 
 What’s in a Hatch?
 
@@ -2262,7 +2193,7 @@ Hey everyone, glossary hack session tomorrow at 3pm EST! if you wanna join and t
 
 _30-Apr-21 11:18 AM_:
 
-[https://docs.google.com/spreadsheets/d/1QJnratmpodDOuTY-21Lgr6wHr8AK4BOBa-cBI37rHNo/edit?ts=601004ae#gid=450032996](https://docs.google.com/spreadsheets/d/1QJnratmpodDOuTY-21Lgr6wHr8AK4BOBa-cBI37rHNo/edit?ts=601004ae#gid=450032996)
+[https://docs.google.com/spreadsheets/d/1QJnratmpodDOuTY-21Lgr6wHr8AK4BOBa-cBI37rHNots=601004ae#gid=450032996](https://docs.google.com/spreadsheets/d/1QJnratmpodDOuTY-21Lgr6wHr8AK4BOBa-cBI37rHNo
 
 CS Twitter Planning
 
@@ -2270,7 +2201,7 @@ May Monday,Tuesday,Wednesday ,Thursday ,Friday,Saturday,Sunday May 3-9,This case
 
 [https://lh5.googleusercontent.com/JLwAisEVmlNzL-4J2EDEJZq8l7JRfclGR9awtMXq6p59k7XzzTj5HNuY4iFpz82s38P0_9e7kbSejg=w1200-h630-p](https://lh5.googleusercontent.com/JLwAisEVmlNzL-4J2EDEJZq8l7JRfclGR9awtMXq6p59k7XzzTj5HNuY4iFpz82s38P0_9e7kbSejg=w1200-h630-p)
 
-[https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit#gid=1316217722](https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit#gid=1316217722)
+[https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU
 
 TEC Twitter Content Planning
 
@@ -2314,7 +2245,7 @@ Good morning Chuy and Nate. Catch you later in the week.
 
 _03-May-21 03:39 PM_:
 
-[https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fUusp=sharing](https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU
 
 TEC Twitter Content Planning
 
@@ -2370,11 +2301,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -2530,7 +2461,7 @@ thanks @mitch (🍔, 🍔) this will work for the new video
 
 _05-May-21 10:30 AM_:
 
-[https://docs.google.com/document/d/1yp1lHM3Ksx3OoBCaHF6uktNN186rGT22S0GfD_u3qoE/edit#](https://docs.google.com/document/d/1yp1lHM3Ksx3OoBCaHF6uktNN186rGT22S0GfD_u3qoE/edit#) draft ready for review - hoping for a quick review then off to the forum, this one is past due!
+[https://docs.google.com/document/d/1yp1lHM3Ksx3OoBCaHF6uktNN186rGT22S0GfD_u3qoEdocs.google.com/document/d/1yp1lHM3Ksx3OoBCaHF6uktNN186rGT22S0GfD_u3qoEreview - hoping for a quick review then off to the forum, this one is past due!
 
 Design your Economy; Make your Choice.
 
@@ -2542,7 +2473,7 @@ Have you checked out the Hatch Dashboard yet!? It’s super exciting and your fe
 
 mitch (🍔, 🍔)
 
-[https://docs.google.com/document/d/1yp1lHM3Ksx3OoBCaHF6uktNN186rGT22S0GfD_u3qoE/edit#](https://docs.google.com/document/d/1yp1lHM3Ksx3OoBCaHF6uktNN186rGT22S0GfD_u3qoE/edit#)
+[https://docs.google.com/document/d/1yp1lHM3Ksx3OoBCaHF6uktNN186rGT22S0GfD_u3qoEdocs.google.com/document/d/1yp1lHM3Ksx3OoBCaHF6uktNN186rGT22S0GfD_u3qoE
 
 draft ready for review - hoping for a quick review then off to the forum, this one is past due!
 
@@ -2658,11 +2589,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -2736,7 +2667,7 @@ _11-May-21 12:22 PM_:
 
 _11-May-21 12:32 PM_:
 
-[https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/BJ6JtQku_/edit](https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/BJ6JtQku_/edit)
+[https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/BJ6JtQku_@1sBtuDmrRBG360k8-EXf2A/BJ6JtQku_
 
 ![https://hackmd.io/favicon.png](https://hackmd.io/favicon.png)
 
@@ -2898,7 +2829,7 @@ I wrote a rough proposal for the hatch site text, could use as a jumping off poi
 
 _17-May-21 12:12 PM_:
 
-[https://docs.google.com/document/d/1t_APam3hlSG6plz94qnXIEkYRCJETXc5iUNnNRTKUaM/edit](https://docs.google.com/document/d/1t_APam3hlSG6plz94qnXIEkYRCJETXc5iUNnNRTKUaM/edit)
+[https://docs.google.com/document/d/1t_APam3hlSG6plz94qnXIEkYRCJETXc5iUNnNRTKUaMdocs.google.com/document/d/1t_APam3hlSG6plz94qnXIEkYRCJETXc5iUNnNRTKUaM
 
 Google Docs - create and edit documents online, for free.
 
@@ -2908,7 +2839,7 @@ Create a new document and edit with others at the same time -- from your compute
 
 Zeptimus
 
-[https://docs.google.com/document/d/1t_APam3hlSG6plz94qnXIEkYRCJETXc5iUNnNRTKUaM/edit](https://docs.google.com/document/d/1t_APam3hlSG6plz94qnXIEkYRCJETXc5iUNnNRTKUaM/edit)
+[https://docs.google.com/document/d/1t_APam3hlSG6plz94qnXIEkYRCJETXc5iUNnNRTKUaMdocs.google.com/document/d/1t_APam3hlSG6plz94qnXIEkYRCJETXc5iUNnNRTKUaM
 
 <h3>Lauren <img src="https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png" width=25 height=25></h3>
 
@@ -2978,11 +2909,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -3002,7 +2933,7 @@ Tuesday, 6pm CET
 
 _18-May-21 12:12 PM_:
 
-**Twitter Content Planning** If you have a request to post a tweet from our official TEC Twitter channel please use the sheet below to submit your requests. [https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit?usp=sharing)
+**Twitter Content Planning** If you have a request to post a tweet from our official TEC Twitter channel please use the sheet below to submit your requests. [https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fUgoogle.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU
 
 TEC Twitter Content Planning
 
@@ -3062,7 +2993,7 @@ Hatch front end text: [https://hackmd.io/SBKMAE56QruvHr1ZRUangw?both](https://ha
 
 Zeptimus
 
-[https://docs.google.com/document/d/1t_APam3hlSG6plz94qnXIEkYRCJETXc5iUNnNRTKUaM/edit](https://docs.google.com/document/d/1t_APam3hlSG6plz94qnXIEkYRCJETXc5iUNnNRTKUaM/edit)
+[https://docs.google.com/document/d/1t_APam3hlSG6plz94qnXIEkYRCJETXc5iUNnNRTKUaMdocs.google.com/document/d/1t_APam3hlSG6plz94qnXIEkYRCJETXc5iUNnNRTKUaM
 
 <h3>Lauren <img src="https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png" width=25 height=25></h3>
 
@@ -3217,11 +3148,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -3320,7 +3251,7 @@ Anything to add? The onboarding journey had bad metrics. There were some steps t
 
 _26-May-21 05:42 AM_:
 
-Dropped the hatch outreach campaign doc in #🐣｜tec-hatch but would love comms eyes on it too .... [https://docs.google.com/document/d/1YvzrtMnfTOEr-e5wi8nsBmmgcyyxFki5RxvMKBC4nx4/edit#](https://docs.google.com/document/d/1YvzrtMnfTOEr-e5wi8nsBmmgcyyxFki5RxvMKBC4nx4/edit#)
+Dropped the hatch outreach campaign doc in #🐣｜tec-hatch but would love comms eyes on it too .... [https://docs.google.com/document/d/1YvzrtMnfTOEr-e5wi8nsBmmgcyyxFki5RxvMKBC4nx4/docs.google.com/document/d/1YvzrtMnfTOEr-e5wi8nsBmmgcyyxFki5RxvMKBC4nx4
 
 Outreach messages
 
@@ -3332,7 +3263,7 @@ Hatch Outreach Campaign Goals 1 Files 1 Cases 1 Steps 2 Message: Personal “pre
 
 _28-May-21 04:09 PM_:
 
-[https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/edit#gid=0](https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/edit#gid=0) <- access document
+[https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0(https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0<- access document
 
 Access Document
 
@@ -3350,7 +3281,7 @@ _28-May-21 04:12 PM_:
 
 Juankbell
 
-[https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/edit#gid=0](https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/edit#gid=0)
+[https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0(https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0
 
 <- access document
 
@@ -3364,7 +3295,7 @@ I have access to Github so I added a small "x" in that row for my name.
 
 _31-May-21 10:11 AM_:
 
-[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing)
+[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrgusp=sharing](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg
 
 TEC Twitter Sync
 
@@ -3394,7 +3325,7 @@ TEC Hatch
 
 _31-May-21 12:37 PM_:
 
-[https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit#gid=968908618](https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit#gid=968908618)
+[https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU
 
 TEC Twitter Content Planning
 
@@ -3476,11 +3407,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -3647,7 +3578,7 @@ Pinned a message.
 
 _07-Jun-21 10:01 AM_:
 
-[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing)
+[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrgusp=sharing](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg
 
 TEC Twitter Sync
 
@@ -3733,11 +3664,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -3813,7 +3744,7 @@ TEC Branding assets. Logo, Mockups, Avatars, Banners, Graphics and other. - Comm
 
 _08-Jun-21 12:23 PM_:
 
-[https://docs.google.com/presentation/d/1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg/edit](https://docs.google.com/presentation/d/1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg/edit)
+[https://docs.google.com/presentation/d/1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg(https://docs.google.com/presentation/d/1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg
 
 Graphics
 
@@ -4170,7 +4101,7 @@ I'm wondering, which one is the current Medium account active under TEC- [https:
 
 _14-Jun-21 10:00 AM_:
 
-[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing)
+[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrgusp=sharing](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg
 
 TEC Twitter Sync
 
@@ -4282,11 +4213,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -4326,7 +4257,7 @@ woah :O This would be awesome!
 
 _17-Jun-21 01:02 PM_:
 
-[https://docs.google.com/document/d/18PKsdmm59GfQdqflpTIgO4aL-174xJIKQL2Gf__8aUw/edit?usp=sharing](https://docs.google.com/document/d/18PKsdmm59GfQdqflpTIgO4aL-174xJIKQL2Gf__8aUw/edit?usp=sharing)
+[https://docs.google.com/document/d/18PKsdmm59GfQdqflpTIgO4aL-174xJIKQL2Gf__8aUwusp=sharing](https://docs.google.com/document/d/18PKsdmm59GfQdqflpTIgO4aL-174xJIKQL2Gf__8aUw
 
 TEC Scouts - Agenda.
 
@@ -4424,7 +4355,7 @@ thanks @phacker! we just started including R10 in out twitter planning but we'll
 
 _21-Jun-21 10:00 AM_:
 
-[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit#](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit#)
+[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrgdocs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg
 
 TEC Twitter Sync
 
@@ -4464,11 +4395,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -4614,7 +4545,7 @@ Hey comms team! me and @Ekeneodigwe are putting together a mini GitCoin Grants R
 
 _28-Jun-21 10:14 AM_:
 
-Twitter sync agenda: [https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit#](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit#)
+Twitter sync agenda: [https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg
 
 TEC Twitter Sync
 
@@ -4642,11 +4573,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -4684,7 +4615,7 @@ Internet keeps cutting out here due to storms. We have two but they both seem if
 
 _05-Jul-21 10:01 AM_:
 
-[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing)
+[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrgusp=sharing](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg
 
 TEC Twitter Sync
 
@@ -4742,11 +4673,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -4893,7 +4824,7 @@ oh sorry Tam2140 I missed your question somehow.
 
 _12-Jul-21 12:02 PM_:
 
-[https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fUusp=sharing](https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU
 
 TEC Twitter Content Planning
 
@@ -4951,11 +4882,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -5094,11 +5025,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -5130,7 +5061,7 @@ Rodrigo Galindo Gómez · Playlist · 86 songs · 12 likes
 
 _09-Aug-21 11:23 AM_:
 
-[https://docs.google.com/document/d/1FfP97LbkLJLLTv1cSZtKENjnJbQqZI9FwsDUQ58UNwU/edit?usp=sharing](https://docs.google.com/document/d/1FfP97LbkLJLLTv1cSZtKENjnJbQqZI9FwsDUQ58UNwU/edit?usp=sharing)
+[https://docs.google.com/document/d/1FfP97LbkLJLLTv1cSZtKENjnJbQqZI9FwsDUQ58UNwUusp=sharing](https://docs.google.com/document/d/1FfP97LbkLJLLTv1cSZtKENjnJbQqZI9FwsDUQ58UNwU
 
 Hatch Campaign Calendar - Day by Day
 
@@ -5174,11 +5105,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -5277,11 +5208,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -5329,7 +5260,7 @@ A few people also asked me what's gonna happen to their IHT and TECH after the H
 
 _17-Aug-21 01:44 PM_:
 
-Hey team! I quickly made this very basic post-Hatch comms plan spreadsheet, hopefully it can help us get a bit organized somehow and have an overview of the Hatch-related comms plan for the following weeks. Feel free to add the topics you think should be covered and play around with it. [https://docs.google.com/spreadsheets/d/1FJqAsNbZHfQzU5pkNqMrAs-kCatEPYDHa0RTdnZkHgs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1FJqAsNbZHfQzU5pkNqMrAs-kCatEPYDHa0RTdnZkHgs/edit?usp=sharing) cc: @chuygarcia.eth (edited)
+Hey team! I quickly made this very basic post-Hatch comms plan spreadsheet, hopefully it can help us get a bit organized somehow and have an overview of the Hatch-related comms plan for the following weeks. Feel free to add the topics you think should be covered and play around with it. [https://docs.google.com/spreadsheets/d/1FJqAsNbZHfQzU5pkNqMrAs-kCatEPYDHa0RTdnZkHgsusp=sharing](https://docs.google.com/spreadsheets/d/1FJqAsNbZHfQzU5pkNqMrAs-kCatEPYDHa0RTdnZkHgs
 
 Post-Hatch Comms Plan
 
@@ -5351,7 +5282,7 @@ Note if you claim just one planet you automatically get entered in the next roun
 
 _23-Aug-21 11:06 AM_:
 
-[https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fUusp=sharing](https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU
 
 TEC Twitter Content Planning
 
@@ -5363,7 +5294,7 @@ Weekly plan Week 1 (Aug 15-21),Week 2 (Aug 22-28),Week 3 (Aug 29-Sep 4),Week 4 (
 
 _23-Aug-21 11:18 AM_:
 
-[https://docs.google.com/document/d/1BB6aysQCMWZjugZONNtPoCzQ6QFhHwXrdDgqsLR6Xyw/edit?usp=sharing](https://docs.google.com/document/d/1BB6aysQCMWZjugZONNtPoCzQ6QFhHwXrdDgqsLR6Xyw/edit?usp=sharing)
+[https://docs.google.com/document/d/1BB6aysQCMWZjugZONNtPoCzQ6QFhHwXrdDgqsLR6Xywusp=sharing](https://docs.google.com/document/d/1BB6aysQCMWZjugZONNtPoCzQ6QFhHwXrdDgqsLR6Xyw
 
 Parameters Tweet Campaign
 
@@ -5436,11 +5367,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -5460,7 +5391,7 @@ Tuesday, 6pm CET
 
 _24-Aug-21 12:06 PM_:
 
-Work for today's Communications WG weekly sync: 'DYK re: Parameters' Tweet Campaign aka #TECparams Tweet Campaign: [https://docs.google.com/document/d/1BB6aysQCMWZjugZONNtPoCzQ6QFhHwXrdDgqsLR6Xyw/edit](https://docs.google.com/document/d/1BB6aysQCMWZjugZONNtPoCzQ6QFhHwXrdDgqsLR6Xyw/edit)
+Work for today's Communications WG weekly sync: 'DYK re: Parameters' Tweet Campaign aka #TECparams Tweet Campaign: [https://docs.google.com/document/d/1BB6aysQCMWZjugZONNtPoCzQ6QFhHwXrdDgqsLR6Xyw1BB6aysQCMWZjugZONNtPoCzQ6QFhHwXrdDgqsLR6Xyw
 
 Parameters Tweet Campaign
 
@@ -5593,11 +5524,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -5702,11 +5633,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -5768,7 +5699,7 @@ I believe starting rate was 4000$ plus perf.pay
 
 _08-Sep-21 05:38 PM_:
 
-[https://docs.google.com/presentation/d/1fLJvPOvibcCUpJ9ES44_cdoX5Hb7LpDaloGWz5FbUEM/edit#slide=id.gec41538503_0_399](https://docs.google.com/presentation/d/1fLJvPOvibcCUpJ9ES44_cdoX5Hb7LpDaloGWz5FbUEM/edit#slide=id.gec41538503_0_399)
+[https://docs.google.com/presentation/d/1fLJvPOvibcCUpJ9ES44_cdoX5Hb7LpDaloGWz5FbUEM1fLJvPOvibcCUpJ9ES44_cdoX5Hb7LpDaloGWz5FbUEM
 
 DAOs - The new frontier in Coordination - DRAFT
 
@@ -5790,7 +5721,7 @@ See posts, photos and more on Facebook.
 
 _09-Sep-21 11:52 AM_:
 
-[https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/ryGSpsDfY/edit](https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/ryGSpsDfY/edit)
+[https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/ryGSpsDfY@1sBtuDmrRBG360k8-EXf2A/ryGSpsDfY
 
 ![https://hackmd.io/favicon.png](https://hackmd.io/favicon.png)
 
@@ -5818,11 +5749,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -6025,11 +5956,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -6079,11 +6010,11 @@ _21-Sep-21 12:10 PM_:
 
 _21-Sep-21 12:30 PM_:
 
-If anyone wants access to the data from Twitter Analytics over the last week I have linked the 2 relevant spreadsheets into a single doc for ease of access. It can be found here [https://docs.google.com/document/d/1e6G4nlMG12JGMuc36AB-Ygr4w1dZ4EJ0Nx27QssqnRE/edit?usp=sharing](https://docs.google.com/document/d/1e6G4nlMG12JGMuc36AB-Ygr4w1dZ4EJ0Nx27QssqnRE/edit?usp=sharing) There are 2 spreadsheets, analysis by day and analysis by tweet. (edited)
+If anyone wants access to the data from Twitter Analytics over the last week I have linked the 2 relevant spreadsheets into a single doc for ease of access. It can be found here [https://docs.google.com/document/d/1e6G4nlMG12JGMuc36AB-Ygr4w1dZ4EJ0Nx27QssqnREdocs.google.com/document/d/1e6G4nlMG12JGMuc36AB-Ygr4w1dZ4EJ0Nx27QssqnREare 2 spreadsheets, analysis by day and analysis by tweet. (edited)
 
 David’s Analytics Corner
 
-David’s Analytics CornerPer Day:[https://docs.google.com/spreadsheets/d/14CMvoPS0wrjKHMmwFi7isSKb4g7C5Q6xCmr-Es5fn5Q/edit?usp=sharing](https://docs.google.com/spreadsheets/d/14CMvoPS0wrjKHMmwFi7isSKb4g7C5Q6xCmr-Es5fn5Q/edit?usp=sharing) [https://docs.google.com/spreadsheets/d/1gRSltEjFYdl5fhBvc-_KH-au2_dtsLbrzWqEiZh5emk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1gRSltEjFYdl5fhBvc-_KH-au2_dtsLbrzWqEiZh5emk/edit?usp=sharing)
+David’s Analytics CornerPer Day:[https://docs.google.com/spreadsheets/d/14CMvoPS0wrjKHMmwFi7isSKb4g7C5Q6xCmr-Es5fn5Qspreadsheets/d/14CMvoPS0wrjKHMmwFi7isSKb4g7C5Q6xCmr-Es5fn5Qgoogle.com/spreadsheets/d/1gRSltEjFYdl5fhBvc-_KH-au2_dtsLbrzWqEiZh5emkdocs.google.com/spreadsheets/d/1gRSltEjFYdl5fhBvc-_KH-au2_dtsLbrzWqEiZh5emk
 
 [https://lh5.googleusercontent.com/LtmW9DjKDJVSAB0bybEy8cixRTasJPQF-rqL4rbrSsMuZWc8p7LPwmayQSPtvzUqXcAbhiLI1QV_hg=w1200-h630-p](https://lh5.googleusercontent.com/LtmW9DjKDJVSAB0bybEy8cixRTasJPQF-rqL4rbrSsMuZWc8p7LPwmayQSPtvzUqXcAbhiLI1QV_hg=w1200-h630-p)
 
@@ -6275,7 +6206,7 @@ Yeah me too! I'm glad you like it.
 
 _25-Sep-21 04:01 PM_:
 
-[https://docs.google.com/document/d/1mOMZI0D3MHZcT6TJpnThHdbKx0HT7_9itj3GBxk_l_Y/edit?usp=sharing](https://docs.google.com/document/d/1mOMZI0D3MHZcT6TJpnThHdbKx0HT7_9itj3GBxk_l_Y/edit?usp=sharing)
+[https://docs.google.com/document/d/1mOMZI0D3MHZcT6TJpnThHdbKx0HT7_9itj3GBxk_l_Yusp=sharing](https://docs.google.com/document/d/1mOMZI0D3MHZcT6TJpnThHdbKx0HT7_9itj3GBxk_l_Y
 
 Hubspot Meeting Agenda Document
 
@@ -6287,7 +6218,7 @@ Hubspot Meeting Agenda Document SATURDAY, September 25, 2021 Attendees: AGENDA: 
 
 natesuits
 
-[https://docs.google.com/document/d/1mOMZI0D3MHZcT6TJpnThHdbKx0HT7_9itj3GBxk_l_Y/edit?usp=sharing](https://docs.google.com/document/d/1mOMZI0D3MHZcT6TJpnThHdbKx0HT7_9itj3GBxk_l_Y/edit?usp=sharing)
+[https://docs.google.com/document/d/1mOMZI0D3MHZcT6TJpnThHdbKx0HT7_9itj3GBxk_l_Yusp=sharing](https://docs.google.com/document/d/1mOMZI0D3MHZcT6TJpnThHdbKx0HT7_9itj3GBxk_l_Y
 
 <h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
@@ -6409,11 +6340,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -6614,7 +6545,7 @@ Welcome to to T.E.C. Comms Katie
 
 _04-Oct-21 11:01 AM_:
 
-[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing)
+[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrgusp=sharing](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg
 
 TEC Twitter Sync
 
@@ -6729,11 +6660,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -6908,11 +6839,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -6976,7 +6907,7 @@ El Mató a un Policía Motorizado · Album · 2021 · 8 songs.
 
 _18-Oct-21 11:02 AM_:
 
-[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing)
+[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrgusp=sharing](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg
 
 TEC Twitter Sync
 
@@ -7023,11 +6954,11 @@ Hi everyone
 
 **AGENDA & CALL NOTES**
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwdocs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit#)
+[https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yIdocs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
 
 **MIRO BOARD**
 
@@ -7128,7 +7059,7 @@ This document had the first branding brainstorm. It can be useful for the discus
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg/edit#slide=id.gc2cf9d50a5_1_3](https://docs.google.com/presentation/d/1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg/edit#slide=id.gc2cf9d50a5_1_3)
+[https://docs.google.com/presentation/d/1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg
 
 Graphics
 
@@ -7148,7 +7079,7 @@ Juankbell
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg/edit#slide=id.gc2cf9d50a5_1_3](https://docs.google.com/presentation/d/1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg/edit#slide=id.gc2cf9d50a5_1_3)
+[https://docs.google.com/presentation/d/1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg
 
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
@@ -7183,7 +7114,7 @@ Rumfoords | Metaverse Agency
 
 _19-Oct-21 02:47 PM_:
 
-Hey Comms I came across an incredible document about "How to Dao" with very detailed info. It is 88 pages long. [https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ/edit#](https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ/edit#)
+Hey Comms I came across an incredible document about "How to Dao" with very detailed info. It is 88 pages long. [https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ
 
 How to DAO course notes (Sep-Oct 2021)
 
@@ -7205,7 +7136,7 @@ David D. | TEC
 
 [Hey Comms I came across an incredible document about "How to Dao" with very detailed info. It is 88 pages long.](about:blank#)
 
-[https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ/edit#](https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ/edit#)
+[https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQdocs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -7239,7 +7170,7 @@ For a month.
 
 _25-Oct-21 11:02 AM_:
 
-[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing)
+[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrgusp=sharing](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg
 
 TEC Twitter Sync
 
@@ -7718,7 +7649,7 @@ Here is the ongoing vote:
 
 And this is an example of a thread that Giveth is publishing this morning as a means of telling their story and making their case:
 
-[https://docs.google.com/document/d/1szjf_eTnUBXd9x7tlzKsVXtQE5tAULbNmIzN0FEGexI/edit](https://docs.google.com/document/d/1szjf_eTnUBXd9x7tlzKsVXtQE5tAULbNmIzN0FEGexI/edit)
+[https://docs.google.com/document/d/1szjf_eTnUBXd9x7tlzKsVXtQE5tAULbNmIzN0FEGexIdocs.google.com/document/d/1szjf_eTnUBXd9x7tlzKsVXtQE5tAULbNmIzN0FEGexI
 
 Optimism Giveth RetroPGF Tweet Thread
 
@@ -8236,7 +8167,7 @@ Thanks for publishing this on our TEC Medium page. It makes a great addition!
 
 _12-Nov-21 12:27 PM_:
 
-Hey gang I tried to put together a little 5 meme PR thread for the newer Rewards Workgroup. [https://docs.google.com/document/d/1mACB0Fm1sM3RjtjP7gWsPmKTaixrxdUGf5Q8s-nrMVE/edit?usp=sharing](https://docs.google.com/document/d/1mACB0Fm1sM3RjtjP7gWsPmKTaixrxdUGf5Q8s-nrMVE/edit?usp=sharing) (edited)
+Hey gang I tried to put together a little 5 meme PR thread for the newer Rewards Workgroup. [https://docs.google.com/document/d/1mACB0Fm1sM3RjtjP7gWsPmKTaixrxdUGf5Q8s-nrMVEusp=sharing](https://docs.google.com/document/d/1mACB0Fm1sM3RjtjP7gWsPmKTaixrxdUGf5Q8s-nrMVE
 
 rewards meme thread
 
@@ -8262,7 +8193,7 @@ Or maybe I should just turn it over to you because I don't want to interfere wit
 
 _13-Nov-21 09:30 AM_:
 
-It might be worth adding TEC here, [https://docs.google.com/spreadsheets/d/16IDgIyPcfwJGG-zmXeMAenYbePQVHkc2P6WCwKEZgpk/edit#gid=0](https://docs.google.com/spreadsheets/d/16IDgIyPcfwJGG-zmXeMAenYbePQVHkc2P6WCwKEZgpk/edit#gid=0) this article is linked in an investors guide to DAOs [https://blockworks.co/the-investors-guide-to-daos/](https://blockworks.co/the-investors-guide-to-daos/)
+It might be worth adding TEC here, [https://docs.google.com/spreadsheets/d/16IDgIyPcfwJGG-zmXeMAenYbePQVHkc2P6WCwKEZgpk16IDgIyPcfwJGG-zmXeMAenYbePQVHkc2P6WCwKEZgpkguide to DAOs [https://blockworks.co/the-investors-guide-to-daos/](https://blockworks.co/the-investors-guide-to-daos/)
 
 [Jason Yanowitz](https://blockworks.co/author/jasonblockworksgroup-io/)
 
@@ -8461,7 +8392,7 @@ The Parties & debates Calendar: bit.ly/3nGcAXh
 
 _23-Nov-21 12:33 PM_:
 
-Discord partnership: [https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/HJXIJ0zdY/edit](https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/HJXIJ0zdY/edit)
+Discord partnership: [https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/HJXIJ0zdYio/@1sBtuDmrRBG360k8-EXf2A/HJXIJ0zdY
 
 ![https://hackmd.io/favicon.png](https://hackmd.io/favicon.png)
 
@@ -8747,7 +8678,7 @@ Is there any interest in building a community on Instagram? I could help there i
 
 _29-Nov-21 12:10 PM_:
 
-[https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit#gid=968908618](https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit#gid=968908618) Twitter planning spreadsheet
+[https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU
 
 TEC Twitter Content Planning
 
@@ -8759,7 +8690,7 @@ Weekly plan x,Week 1 (Aug 15-21),Week 2 (Aug 22-28),Week 3 (Aug 29-Sep 4),Week 4
 
 _29-Nov-21 12:17 PM_:
 
-[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg/edit?usp=sharing)
+[https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrgusp=sharing](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg
 
 TEC Twitter Sync
 
@@ -8889,7 +8820,7 @@ Got it on my calendar…excited for the call
 
 _30-Nov-21 12:17 PM_:
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit?usp=sharing](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit?usp=sharing)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwusp=sharing](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 TEC Comms Working Group_Weekly Sync Notes
 
@@ -8901,7 +8832,7 @@ TEC COMMS WG - NOTES & AGENDA Comms Steward: @chuygarcia92 Working Group Manifes
 
 _30-Nov-21 04:16 PM_:
 
-1Hive Gardens will be live on xDai and Polygon this week with the new "Create a Garden" interface for setting up a DAO - it'd be great if TEC could help share! This guide has our communication calendar with suggestions for sharing: @chuygarcia.eth [https://docs.google.com/document/d/1q9LKFWqGdlMJU45sXJRZGCzepgsYnrwWGkq5g61oALU/edit](https://docs.google.com/document/d/1q9LKFWqGdlMJU45sXJRZGCzepgsYnrwWGkq5g61oALU/edit)
+1Hive Gardens will be live on xDai and Polygon this week with the new "Create a Garden" interface for setting up a DAO - it'd be great if TEC could help share! This guide has our communication calendar with suggestions for sharing: @chuygarcia.eth [https://docs.google.com/document/d/1q9LKFWqGdlMJU45sXJRZGCzepgsYnrwWGkq5g61oALU1q9LKFWqGdlMJU45sXJRZGCzepgsYnrwWGkq5g61oALU
 
 Gardens Launch Announcement Timeline & Partner Resources
 
@@ -8949,7 +8880,7 @@ paul2
 
 [1Hive Gardens will be live on xDai and Polygon this week with the new "Create a Garden" interface for setting up a DAO - it'd be great if TEC could help share! This guide has our communication calendar with suggestions for sharing: @chuygarcia.eth](about:blank#)
 
-[https://docs.google.com/document/d/1q9LKFWqGdlMJU45sXJRZGCzepgsYnrwWGkq5g61oALU/edit](https://docs.google.com/document/d/1q9LKFWqGdlMJU45sXJRZGCzepgsYnrwWGkq5g61oALU/edit)
+[https://docs.google.com/document/d/1q9LKFWqGdlMJU45sXJRZGCzepgsYnrwWGkq5g61oALUdocs.google.com/document/d/1q9LKFWqGdlMJU45sXJRZGCzepgsYnrwWGkq5g61oALU
 
 <h3>satchel | PST <img src="https://cdn.discordapp.com/avatars/876908960563724288/a447a7b7ca6efdf93abd451512d95202.png" width=25 height=25></h3>
 
@@ -9584,7 +9515,7 @@ voter's pamphlet feedback is greatly appreciated
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit?usp=sharing](https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Yusp=sharing](https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y
 
 Commons Upgrade Proposal
 
@@ -9637,7 +9568,7 @@ it's live! I updated the links for the vote and the voters pamphlet in the Twitt
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit?usp=sharing](https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Yusp=sharing](https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y
 
 Commons Upgrade Proposal
 
@@ -10068,7 +9999,7 @@ _24-Jan-22 11:45 AM_:
 
 _24-Jan-22 05:50 PM_:
 
-[https://docs.google.com/spreadsheets/d/1JJ3YoHmWYyOH8RZs1jT8VDFyQJHt35kJw92tT7YPXvI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1JJ3YoHmWYyOH8RZs1jT8VDFyQJHt35kJw92tT7YPXvI/edit?usp=sharing) Here is the doc we created today in the Comms call
+[https://docs.google.com/spreadsheets/d/1JJ3YoHmWYyOH8RZs1jT8VDFyQJHt35kJw92tT7YPXvIusp=sharing](https://docs.google.com/spreadsheets/d/1JJ3YoHmWYyOH8RZs1jT8VDFyQJHt35kJw92tT7YPXvI
 
 TEC COMMS High Level Security And Messaging Outline
 
@@ -10146,7 +10077,7 @@ who is the responsible? I want to praise you!
 
 _25-Jan-22 05:51 PM_:
 
-it's mostly the MVV xD [https://docs.google.com/presentation/d/1-w43yn84Wh4Bh5R9hd7TCl0OKlYp1iZMJb6PSsvZwWg/edit?usp=sharing](https://docs.google.com/presentation/d/1-w43yn84Wh4Bh5R9hd7TCl0OKlYp1iZMJb6PSsvZwWg/edit?usp=sharing)
+it's mostly the MVV xD [https://docs.google.com/presentation/d/1-w43yn84Wh4Bh5R9hd7TCl0OKlYp1iZMJb6PSsvZwWgpresentation/d/1-w43yn84Wh4Bh5R9hd7TCl0OKlYp1iZMJb6PSsvZwWg
 
 TEC_PressKit
 
@@ -10389,7 +10320,7 @@ JessicaZartler
 
 _05-Feb-22 05:17 PM_:
 
-Yes, this mail was not ideal but it was a way to 'get started', after a long time. Because of the timing, I think everyone felt it had to be about the newly minted token, and I know I've been trying for a long time to get it out, there we some roadblocks that seemed to come up until now. I did talk about what you mentioned, even as we were making it, but there was a lot of Git R Dun in the room during that initial call and a lot of education to be done along with it, so I had to kind of make a judgment call in terms of what we could get done on that day. As it was, it was easily 4-6 hours of continuous work that day to get it out. We don't have all the bugs or initial conditions ironed out yet, either, but the basic template is there, and a lot more people know how to use the tool better than before, so on balance it's a win for us. We also got a lot of steam behind other content creation standards, etc. during that call, and subsequently, so we're headed in a good direction with that. We need more Content Creation Calendaring and production regularity and other standards to be in the hands of an already-hardworking group, so this will also take time to establish, and all of this was on the table during and since that Initial Email setup conference, including security protocols and narrative creation missing pieces we're already planning workshops and working group efforts for very soon. We've done a lot in a short time, and have planning documents like this one that came out of this as well: [https://docs.google.com/spreadsheets/d/1JJ3YoHmWYyOH8RZs1jT8VDFyQJHt35kJw92tT7YPXvI/edit#gid=2058060970](https://docs.google.com/spreadsheets/d/1JJ3YoHmWYyOH8RZs1jT8VDFyQJHt35kJw92tT7YPXvI/edit#gid=2058060970)
+Yes, this mail was not ideal but it was a way to 'get started', after a long time. Because of the timing, I think everyone felt it had to be about the newly minted token, and I know I've been trying for a long time to get it out, there we some roadblocks that seemed to come up until now. I did talk about what you mentioned, even as we were making it, but there was a lot of Git R Dun in the room during that initial call and a lot of education to be done along with it, so I had to kind of make a judgment call in terms of what we could get done on that day. As it was, it was easily 4-6 hours of continuous work that day to get it out. We don't have all the bugs or initial conditions ironed out yet, either, but the basic template is there, and a lot more people know how to use the tool better than before, so on balance it's a win for us. We also got a lot of steam behind other content creation standards, etc. during that call, and subsequently, so we're headed in a good direction with that. We need more Content Creation Calendaring and production regularity and other standards to be in the hands of an already-hardworking group, so this will also take time to establish, and all of this was on the table during and since that Initial Email setup conference, including security protocols and narrative creation missing pieces we're already planning workshops and working group efforts for very soon. We've done a lot in a short time, and have planning documents like this one that came out of this as well: [https://docs.google.com/spreadsheets/d/1JJ3YoHmWYyOH8RZs1jT8VDFyQJHt35kJw92tT7YPXvI1JJ3YoHmWYyOH8RZs1jT8VDFyQJHt35kJw92tT7YPXvI
 
 TEC COMMS High Level Security And Messaging Outline
 
@@ -11572,7 +11503,7 @@ Task is now done! @chuygarcia.eth @AnaTech
 
 _11-Apr-22 11:36 AM_:
 
-[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit?usp=sharing](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit?usp=sharing)
+[https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahwusp=sharing](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 TEC Comms Working Group_Weekly Sync Notes
 
@@ -11584,7 +11515,7 @@ TEC COMMS WG - NOTES & AGENDA Comms Steward: @chuygarcia92 Working Group Manifes
 
 _11-Apr-22 11:37 AM_:
 
-[https://www.canva.com/design/DAE6mW5UGHY/eK1LjpwPu34CpH864Od16w/edit?utm_content=DAE6mW5UGHY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#5](https://www.canva.com/design/DAE6mW5UGHY/eK1LjpwPu34CpH864Od16w/edit?utm_content=DAE6mW5UGHY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#5)
+[https://www.canva.com/design/DAE6mW5UGHY/eK1LjpwPu34CpH864Od16wutm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#5](https://www.canva.com/design/DAE6mW5UGHY/eK1LjpwPu34CpH864Od16wutm_medium=link2&utm_source=sharebutton#5)
 
 <h3>Dework BOT <img src="https://cdn.discordapp.com/avatars/914215932405096459/afae5bbf9a795f934928fc8d782c8692.png" width=25 height=25></h3>
 
@@ -11817,7 +11748,7 @@ Since Luke introduced the 1hive radio channel I’ve been sort of brainstorming 
 
 _03-May-22 12:11 PM_:
 
-Here are the agenda notes for today's call: [https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit#](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit#)
+Here are the agenda notes for today's call: [https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 TEC Comms Working Group_Weekly Sync Notes
 
@@ -12209,7 +12140,7 @@ Hey everyone. Just wondering with pinned posts in Working Groups, which now seem
 
 _14-Jun-22 12:33 PM_:
 
-[https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/Syk3A-IKq/edit](https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/Syk3A-IKq/edit)
+[https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/Syk3A-IKq@1sBtuDmrRBG360k8-EXf2A/Syk3A-IKq
 
 ![https://hackmd.io/images/media/HackMD-og.jpg](https://hackmd.io/images/media/HackMD-og.jpg)
 
@@ -12217,7 +12148,7 @@ _14-Jun-22 12:33 PM_:
 
 _14-Jun-22 12:43 PM_:
 
-[https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0/edit?usp=sharing](https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0/edit?usp=sharing)
+[https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0usp=sharing](https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0
 
 New TEC Twitter bio
 

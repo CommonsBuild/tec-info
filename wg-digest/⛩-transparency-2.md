@@ -6,7 +6,7 @@ Token Engineering Commons
 
 ━━WORKING GROUP TEXT━━ / 🕵｜transparency
 
-We help promote transparency, openness and mutual monitoring as the high-level ideal that we're moving towards in the TEC. The way that we get there is by empowering people to share this experience with the Transparency Audits and making information available to everyone. Weekly sync agenda: https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit
+We help promote transparency, openness and mutual monitoring as the high-level ideal that we're moving towards in the TEC. The way that we get there is by empowering people to share this experience with the Transparency Audits and making information available to everyone. Weekly sync agenda: https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/
 
 ## After 19-Mar-21 12:00 AM
 
@@ -24,43 +24,33 @@ https://discord.gg/CRSKAJtFMH,Ivy\
 https://discord.gg/uM4ZWD\
 https://discord.gg/uM4ZWDjNfK\
 https://discord.gg/ZKdnJCuG\
-https://docs.google.com/document/d/\
-https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/edit\
-https://docs.google.com/document/d/17ArOa1BikAk20Czf1vbmZjT_ll0OQSc9rUrdFm9SAGc/edit\
-https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit\
-https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit#heading=h.4qr126s3qfr1\
-https://docs.google.com/document/d/19FIBc67b5f0EGFF6hpHChyks6110Sr8lCJfCk2feLJg/edit\
-https://docs.google.com/document/d/1DQwEJUYvKiwm6LaiGRM1P7YB48528WeBCsmZ39QB5VA/edit\
-https://docs.google.com/document/d/1el7GdOZwqTTTYb3Es-tzR6e9uNb_KRTe1t7MGQ9JTPY/edit?usp=sharing\
-https://docs.google.com/document/d/1hnwSQn4vxboxazraX2qPwa25bBBrvk3TpXsSDkXhqCM/edit\
-https://docs.google.com/document/d/1IgG94l6cCO3d0Zrfsi6ucUEp99A96P_s2uOTQhmB-Tc/edit?usp=sharing\
-https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit\
-https://docs.google.com/document/d/1K1TaHVeU-y3tzJ-BZ78d7Keib1gA9d4pn8t-IRND7ps/edit\
-https://docs.google.com/document/d/1lHhu8o6CZ-Zgudipv5oGbzwlAsIZ_m1jhAZod7pP28U/edit\
-https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/edit?usp=sharing\
-https://docs.google.com/document/d/1uBhtYLvx5PIGzYoEDa1HYxxmc9W3pPpP_cXxXfn1IgA/edit?usp=sharing\
-https://docs.google.com/document/d/1uD_vSW9maxXEORamevLRWUdIoh2w_i_oq9Jg5B7Nsrs/edit\
-https://docs.google.com/document/d/1XtNQ2pqUzRHjVjQ2WV-uhoE2sNt3UQYRQPLf3--9-FY/edit\
-https://docs.google.com/document/d/1XtNQ2pqUzRHjVjQ2WV-uhoE2sNt3UQYRQPLf3--9-FY/edit#heading=h.aod8lnygucng\
-https://docs.google.com/document/d/1ynTswJ_synyrSqUt7DdG0ztaPO54aZsjNKvKl2nBE_A/edit?usp=sharing\
-https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit\
-https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit?usp=sharing\
-https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit#\
-https://docs.google.com/presentation/d/18DGuSTsLgU2C2iNNcvoo2-27uL2Tcb1jfMaMGa9Zeyc/edit#slide=id.gf57579e5b1_2_75\
-https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/edit#gid=31849465\
-https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0\
-https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=1043289581\
-https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=1165012068\
-https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=1992649538\
-https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/edit#gid=1484400937\
-https://docs.google.com/spreadsheets/d/1kiZEeCxml49AuhRT_TAq-fdnXp1XeDs71eTa-uxKeK0/edit?usp=sharing\
-https://docs.google.com/spreadsheets/d/1kiZEeCxml49AuhRT_TAq-fdnXp1XeDs71eTa-uxKeK0/edit#gid=579293777\
-https://docs.google.com/spreadsheets/d/1nu5Xx4N40RpUvh7dtJB94SUMYSpMs-U6iFiOBPXOLoA/edit?usp=sharing\
-https://docs.google.com/spreadsheets/d/1w42k9GfciiSM6r7FzeC9JiCo2eiq4xTJJfxLGa2MBw4/edit?usp=sharing\
-https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/edit?usp=sharing\
-https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/edit#gid=0\
-https://docs.google.com/spreadsheets/d/1Wwio-Ysqn_mzbPw7hEIz5jg3zZJGlrLATBGHR6bImhI/edit#gid=1484400937\
-https://docs.google.com/spreadsheets/d/1yPuReLbzUdb-xWhsKNr_aiK4YwpT6UtgiRw1ItmsxjU/edit?usp=sharing\
+https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/
+https://docs.google.com/document/d/17ArOa1BikAk20Czf1vbmZjT_ll0OQSc9rUrdFm9SAGc/
+https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/
+https://docs.google.com/document/d/19FIBc67b5f0EGFF6hpHChyks6110Sr8lCJfCk2feLJg/
+https://docs.google.com/document/d/1DQwEJUYvKiwm6LaiGRM1P7YB48528WeBCsmZ39QB5VA/
+https://docs.google.com/document/d/1el7GdOZwqTTTYb3Es-tzR6e9uNb_KRTe1t7MGQ9JTPY/
+https://docs.google.com/document/d/1hnwSQn4vxboxazraX2qPwa25bBBrvk3TpXsSDkXhqCM/
+https://docs.google.com/document/d/1IgG94l6cCO3d0Zrfsi6ucUEp99A96P_s2uOTQhmB-Tc/
+https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/
+https://docs.google.com/document/d/1K1TaHVeU-y3tzJ-BZ78d7Keib1gA9d4pn8t-IRND7ps/
+https://docs.google.com/document/d/1lHhu8o6CZ-Zgudipv5oGbzwlAsIZ_m1jhAZod7pP28U/
+https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/
+https://docs.google.com/document/d/1uBhtYLvx5PIGzYoEDa1HYxxmc9W3pPpP_cXxXfn1IgA/
+https://docs.google.com/document/d/1uD_vSW9maxXEORamevLRWUdIoh2w_i_oq9Jg5B7Nsrs/
+https://docs.google.com/document/d/1XtNQ2pqUzRHjVjQ2WV-uhoE2sNt3UQYRQPLf3--9-FY/
+https://docs.google.com/document/d/1ynTswJ_synyrSqUt7DdG0ztaPO54aZsjNKvKl2nBE_A/
+https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/
+https://docs.google.com/presentation/d/18DGuSTsLgU2C2iNNcvoo2-27uL2Tcb1jfMaMGa9Zeyc/
+https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/
+https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/
+https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/
+https://docs.google.com/spreadsheets/d/1kiZEeCxml49AuhRT_TAq-fdnXp1XeDs71eTa-uxKeK0/
+https://docs.google.com/spreadsheets/d/1nu5Xx4N40RpUvh7dtJB94SUMYSpMs-U6iFiOBPXOLoA/
+https://docs.google.com/spreadsheets/d/1w42k9GfciiSM6r7FzeC9JiCo2eiq4xTJJfxLGa2MBw4/
+https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/
+https://docs.google.com/spreadsheets/d/1Wwio-Ysqn_mzbPw7hEIz5jg3zZJGlrLATBGHR6bImhI/
+https://docs.google.com/spreadsheets/d/1yPuReLbzUdb-xWhsKNr_aiK4YwpT6UtgiRw1ItmsxjU/
 https://download.pawa.im/prod/810180621930070088/28f60fdd-d2d7-4391-8d20-561097901f0a.mp3\
 https://dune.xyz/api/screenshot?url=https://dune.xyz/hildobby/ENS-Airdrop\
 https://dune.xyz/hildobby/ENS-Airdrop\
@@ -134,7 +124,7 @@ _24-Mar-21 04:47 AM_:
 
 @Zeptimus should I go ahead and accept edits from Tam and Mitch? Or do you want us to go through them together during the call later?
 
-[https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/edit?usp=sharing](https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/edit?usp=sharing)
+[https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/
 
 Transparency in DAOs
 
@@ -195,7 +185,7 @@ A nifty script that can pipe out audio from a discord voice channel to your loca
 
 _05-Apr-21 09:34 AM_:
 
-[https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0](https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0)
+[https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/
 
 TEC soft gov decision tracking
 
@@ -276,7 +266,7 @@ Learn more
 
 _07-Apr-21 10:40 AM_:
 
-[https://docs.google.com/spreadsheets/d/1nu5Xx4N40RpUvh7dtJB94SUMYSpMs-U6iFiOBPXOLoA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1nu5Xx4N40RpUvh7dtJB94SUMYSpMs-U6iFiOBPXOLoA/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1nu5Xx4N40RpUvh7dtJB94SUMYSpMs-U6iFiOBPXOLoA/
 
 TE Commons Videos Database
 
@@ -352,11 +342,11 @@ Welcome to the Transparency WG!
 
 ️ We are the working group that proactively reinforces transparency and mutual monitoring across the TEC! To know more about us, here’s our manifesto:
 
-[https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit](https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit)
+[https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/
 
 We gather every two weeks on Mondays at 3pm CET. Check out our agenda and notes:
 
-[https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit](https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit)
+[https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/
 
 And, you can find us in the TEC Forum:
 
@@ -421,7 +411,7 @@ Any volunteers to record our meetings? Please write your names in the "April" ta
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
 
-[https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/edit#gid=31849465](https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/edit#gid=31849465)
+[https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/
 
 (edited)
 
@@ -453,11 +443,11 @@ On the Transparency Voice Channel:
 
 **AGENDA & NOTES**
 
-[https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit](https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit)
+[https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit#heading=h.4qr126s3qfr1](https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit#heading=h.4qr126s3qfr1)
+[https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/
 
 Look forward to seeing you all there - have a beautiful day!
 
@@ -498,7 +488,7 @@ Looks good to me! Thanks @Vyvy-vi
 
 _26-Apr-21 09:30 AM_:
 
-[https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/edit](https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/edit)
+[https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/
 
 youtube descriptions
 
@@ -655,11 +645,11 @@ On the Transparency Voice Channel:
 
 **AGENDA & NOTES**
 
-[https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit](https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit)
+[https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit#heading=h.4qr126s3qfr1](https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit#heading=h.4qr126s3qfr1)
+[https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/
 
 Look forward to seeing you all there - have a beautiful day!
 
@@ -709,11 +699,11 @@ On the Transparency Voice Channel:
 
 **AGENDA & NOTES**
 
-[https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit](https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit)
+[https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit#heading=h.4qr126s3qfr1](https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit#heading=h.4qr126s3qfr1)
+[https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/
 
 Look forward to seeing you all there - have a beautiful day!
 
@@ -797,7 +787,7 @@ Sorry, for the inconvenience everyone
 
 _17-May-21 09:17 AM_:
 
-[https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/edit#gid=0](https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/edit#gid=0)
+[https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/
 
 Acess Document
 
@@ -809,7 +799,7 @@ Sheet1 Name Platform,Medium,Twitter,Hubspot,Google,Discord,Forum,Telegram,YouTub
 
 _17-May-21 09:35 AM_:
 
-[https://docs.google.com/spreadsheets/d/1w42k9GfciiSM6r7FzeC9JiCo2eiq4xTJJfxLGa2MBw4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1w42k9GfciiSM6r7FzeC9JiCo2eiq4xTJJfxLGa2MBw4/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1w42k9GfciiSM6r7FzeC9JiCo2eiq4xTJJfxLGa2MBw4/
 
 CS and TEC member usernames, Twitter, Telegram, Discord, Forum
 
@@ -847,11 +837,11 @@ On the Transparency Voice Channel:
 
 **AGENDA & NOTES**
 
-[https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit](https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit)
+[https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit#heading=h.4qr126s3qfr1](https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit#heading=h.4qr126s3qfr1)
+[https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/
 
 Look forward to seeing you all there - have a beautiful day!
 
@@ -875,7 +865,7 @@ _24-May-21 08:59 AM_:
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
 
-[https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/edit](https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/edit)
+[https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/
 
 youtube descriptions
 
@@ -887,7 +877,7 @@ Softgov This is the Softgov Working Group! Some of our main goals are: Research 
 
 Zeptimus
 
-[https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/edit#gid=0](https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/edit#gid=0)
+[https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -954,7 +944,7 @@ It's not fixed yet :P
 
 _04-Jun-21 11:11 AM_:
 
-[https://docs.google.com/document/d/1hnwSQn4vxboxazraX2qPwa25bBBrvk3TpXsSDkXhqCM/edit](https://docs.google.com/document/d/1hnwSQn4vxboxazraX2qPwa25bBBrvk3TpXsSDkXhqCM/edit)
+[https://docs.google.com/document/d/1hnwSQn4vxboxazraX2qPwa25bBBrvk3TpXsSDkXhqCM/
 
 Google Docs - create and edit documents online, for free.
 
@@ -990,11 +980,11 @@ On the Transparency Voice Channel:
 
 **AGENDA & NOTES**
 
-[https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit](https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit)
+[https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/
 
 **MANIFESTO**
 
-[https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit#heading=h.4qr126s3qfr1](https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit#heading=h.4qr126s3qfr1)
+[https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/
 
 Look forward to seeing you all there - have a beautiful day!
 
@@ -1100,7 +1090,7 @@ What i think we could do on transparency it's add to Gitbook our processes to ma
 
 _05-Jul-21 09:23 AM_:
 
-[https://docs.google.com/document/d/1DQwEJUYvKiwm6LaiGRM1P7YB48528WeBCsmZ39QB5VA/edit](https://docs.google.com/document/d/1DQwEJUYvKiwm6LaiGRM1P7YB48528WeBCsmZ39QB5VA/edit)
+[https://docs.google.com/document/d/1DQwEJUYvKiwm6LaiGRM1P7YB48528WeBCsmZ39QB5VA/
 
 Using JAM link as TEC credentials manager
 
@@ -1112,7 +1102,7 @@ Using Dashlane as TEC credentials manager Until now we were using Keybase for sh
 
 _05-Jul-21 09:44 AM_:
 
-[https://docs.google.com/document/d/1hnwSQn4vxboxazraX2qPwa25bBBrvk3TpXsSDkXhqCM/edit](https://docs.google.com/document/d/1hnwSQn4vxboxazraX2qPwa25bBBrvk3TpXsSDkXhqCM/edit)
+[https://docs.google.com/document/d/1hnwSQn4vxboxazraX2qPwa25bBBrvk3TpXsSDkXhqCM/
 
 TEC Platform - Code of Conduct
 
@@ -1128,7 +1118,7 @@ Code of conduct for platforms The objective of this document is to be aware of w
 
 Zeptimus
 
-[https://docs.google.com/document/d/1DQwEJUYvKiwm6LaiGRM1P7YB48528WeBCsmZ39QB5VA/edit](https://docs.google.com/document/d/1DQwEJUYvKiwm6LaiGRM1P7YB48528WeBCsmZ39QB5VA/edit)
+[https://docs.google.com/document/d/1DQwEJUYvKiwm6LaiGRM1P7YB48528WeBCsmZ39QB5VA/
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -1244,7 +1234,7 @@ Does this log automatically update from somewhere or are they entered manually?
 
 _18-Aug-21 09:14 AM_:
 
-[https://docs.google.com/document/d/1el7GdOZwqTTTYb3Es-tzR6e9uNb_KRTe1t7MGQ9JTPY/edit?usp=sharing](https://docs.google.com/document/d/1el7GdOZwqTTTYb3Es-tzR6e9uNb_KRTe1t7MGQ9JTPY/edit?usp=sharing)
+[https://docs.google.com/document/d/1el7GdOZwqTTTYb3Es-tzR6e9uNb_KRTe1t7MGQ9JTPY/
 
 Discord Roles
 
@@ -1315,7 +1305,7 @@ i would appreciate a chance to discuss a few points privately or otherwise whene
 
 _06-Sep-21 08:02 AM_:
 
-[https://docs.google.com/document/d/1XtNQ2pqUzRHjVjQ2WV-uhoE2sNt3UQYRQPLf3--9-FY/edit](https://docs.google.com/document/d/1XtNQ2pqUzRHjVjQ2WV-uhoE2sNt3UQYRQPLf3--9-FY/edit)
+[https://docs.google.com/document/d/1XtNQ2pqUzRHjVjQ2WV-uhoE2sNt3UQYRQPLf3--9-FY/
 
 Voting
 
@@ -1348,7 +1338,7 @@ Hey @gene - my DMs are open, feel free to drop a line.
 
 _15-Sep-21 10:02 AM_:
 
-[https://docs.google.com/document/d/1XtNQ2pqUzRHjVjQ2WV-uhoE2sNt3UQYRQPLf3--9-FY/edit#heading=h.aod8lnygucng](https://docs.google.com/document/d/1XtNQ2pqUzRHjVjQ2WV-uhoE2sNt3UQYRQPLf3--9-FY/edit#heading=h.aod8lnygucng)
+[https://docs.google.com/document/d/1XtNQ2pqUzRHjVjQ2WV-uhoE2sNt3UQYRQPLf3--9-FY/
 
 Voting
 
@@ -1427,7 +1417,7 @@ We need more action here! haha
 
 _11-Oct-21 09:26 AM_:
 
-[https://docs.google.com/document/d/17ArOa1BikAk20Czf1vbmZjT_ll0OQSc9rUrdFm9SAGc/edit](https://docs.google.com/document/d/17ArOa1BikAk20Czf1vbmZjT_ll0OQSc9rUrdFm9SAGc/edit)
+[https://docs.google.com/document/d/17ArOa1BikAk20Czf1vbmZjT_ll0OQSc9rUrdFm9SAGc/
 
 TEC Discord Server Newcomer Audit
 
@@ -1439,7 +1429,7 @@ TEC Discord Server Newcomer Audit Once TEC tokens become more freely available a
 
 _11-Oct-21 09:41 AM_:
 
-[https://docs.google.com/presentation/d/18DGuSTsLgU2C2iNNcvoo2-27uL2Tcb1jfMaMGa9Zeyc/edit#slide=id.gf57579e5b1_2_75](https://docs.google.com/presentation/d/18DGuSTsLgU2C2iNNcvoo2-27uL2Tcb1jfMaMGa9Zeyc/edit#slide=id.gf57579e5b1_2_75)
+[https://docs.google.com/presentation/d/18DGuSTsLgU2C2iNNcvoo2-27uL2Tcb1jfMaMGa9Zeyc/
 
 Bankless DAOData Presentation (Oct 8th)
 
@@ -1613,7 +1603,7 @@ but thanks u so much letting me know
 
 _08-Nov-21 11:04 AM_:
 
-[https://docs.google.com/document/d/19FIBc67b5f0EGFF6hpHChyks6110Sr8lCJfCk2feLJg/edit](https://docs.google.com/document/d/19FIBc67b5f0EGFF6hpHChyks6110Sr8lCJfCk2feLJg/edit)
+[https://docs.google.com/document/d/19FIBc67b5f0EGFF6hpHChyks6110Sr8lCJfCk2feLJg/
 
 TEC Offboarding Credentials
 
@@ -1677,7 +1667,7 @@ _08-Nov-21 01:41 PM_:
 
 _10-Nov-21 08:02 AM_:
 
-[https://docs.google.com/document/d/1IgG94l6cCO3d0Zrfsi6ucUEp99A96P_s2uOTQhmB-Tc/edit?usp=sharing](https://docs.google.com/document/d/1IgG94l6cCO3d0Zrfsi6ucUEp99A96P_s2uOTQhmB-Tc/edit?usp=sharing)
+[https://docs.google.com/document/d/1IgG94l6cCO3d0Zrfsi6ucUEp99A96P_s2uOTQhmB-Tc/
 
 Transparency Audit Report
 
@@ -1707,7 +1697,7 @@ _11-Nov-21 01:19 PM_:
 
 _12-Nov-21 03:50 PM_:
 
-hey @Zeptimus @iviangita we need to update this decision tracking list - is this something transparency could take on? Should be a good task for onboarding contributors too [https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0](https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0) (edited)
+hey @Zeptimus @iviangita we need to update this decision tracking list - is this something transparency could take on? Should be a good task for onboarding contributors too [https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/
 
 TEC soft gov decision tracking
 
@@ -1857,7 +1847,7 @@ The intention of this Working Group is to nurture, grow and guide the TEC commun
 
 _20-Dec-21 11:30 AM_:
 
-[https://docs.google.com/document/d/1K1TaHVeU-y3tzJ-BZ78d7Keib1gA9d4pn8t-IRND7ps/edit](https://docs.google.com/document/d/1K1TaHVeU-y3tzJ-BZ78d7Keib1gA9d4pn8t-IRND7ps/edit)
+[https://docs.google.com/document/d/1K1TaHVeU-y3tzJ-BZ78d7Keib1gA9d4pn8t-IRND7ps/
 
 Transparency of funding flows
 
@@ -1970,7 +1960,7 @@ thanks tam
 
 _13-Jan-22 09:35 AM_:
 
-[https://docs.google.com/document/d/1uD_vSW9maxXEORamevLRWUdIoh2w_i_oq9Jg5B7Nsrs/edit](https://docs.google.com/document/d/1uD_vSW9maxXEORamevLRWUdIoh2w_i_oq9Jg5B7Nsrs/edit)
+[https://docs.google.com/document/d/1uD_vSW9maxXEORamevLRWUdIoh2w_i_oq9Jg5B7Nsrs/
 
 Credentials management
 
@@ -1982,7 +1972,7 @@ How to get access to TEC platforms DM the Credential Curators or fill out this T
 
 _13-Jan-22 09:40 AM_:
 
-[https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/
 
 Access Document
 
@@ -2000,7 +1990,7 @@ _13-Jan-22 11:25 AM_:
 
 _17-Jan-22 11:02 AM_:
 
-[https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit](https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit)
+[https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/
 
 TEC Transparency WG Agenda and Notes
 
@@ -2026,7 +2016,7 @@ and say hi or post an emoji to receive Praise which turns into TEC tokens) Agend
 
 _17-Jan-22 11:12 AM_:
 
-[https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=1165012068](https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=1165012068)
+[https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/
 
 TEC soft gov decision tracking
 
@@ -2193,7 +2183,7 @@ _02-Feb-22 11:08 AM_:
 
 _02-Feb-22 11:16 AM_:
 
-[https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=1043289581](https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=1043289581)
+[https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/
 
 TEC soft gov decision tracking
 
@@ -2205,7 +2195,7 @@ Single choice proposal title ,date,yes votes,neutral votes,block votes,result,St
 
 _02-Feb-22 11:39 AM_:
 
-Audit masterfile: [https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit?usp=sharing](https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit?usp=sharing)
+Audit masterfile: [https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/
 
 TEC Transparency Audit (Feb-Apr 2022)
 
@@ -2261,7 +2251,7 @@ _07-Feb-22 11:40 AM_:
 
 _07-Feb-22 01:09 PM_:
 
-Hello all @Zeptimus @iviangita @acidlazzer @Tam2140 @Juankbell @natesuits . As discussed before a new document has been created for those who are working on the latest Transparency WG proposal. The document requires a wallet address in order to receive compensation. Each individual has their own sheet in order to track weekly activities. The document is rather self-explanatory but if there any questions or I have missed someone please feel free to reach out to @Ratio13 . Since we are now in the 2nd week of February I am asking that all members please fill in their respective wallet and information for the past week. The document is here: [https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/edit#gid=1484400937](https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/edit#gid=1484400937)
+Hello all @Zeptimus @iviangita @acidlazzer @Tam2140 @Juankbell @natesuits . As discussed before a new document has been created for those who are working on the latest Transparency WG proposal. The document requires a wallet address in order to receive compensation. Each individual has their own sheet in order to track weekly activities. The document is rather self-explanatory but if there any questions or I have missed someone please feel free to reach out to @Ratio13 . Since we are now in the 2nd week of February I am asking that all members please fill in their respective wallet and information for the past week. The document is here: [https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/
 
 TWG_Proposal_Activity
 
@@ -2297,7 +2287,7 @@ Ratio13
 
 [Hello all @Zeptimus @iviangita @acidlazzer @Tam2140 @Juankbell @natesuits . As discussed before a new document has been created for those who are working on the latest Transparency WG proposal. The document requires a wallet address in order to receive compensation. Each individual has their own sheet in order to track weekly activities. The document is rather self-explanatory but if there any questions or I have missed someone please feel free to reach out to @Ratio13 . Since we are now in the 2nd week of February I am asking that all members please fill in their respective wallet and information for the past week. The document is here:](about:blank#)
 
-[https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/edit#gid=1484400937](https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/edit#gid=1484400937)
+[https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/
 
 <h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
@@ -2345,7 +2335,7 @@ Oh ok! Thank you ❤️
 
 _14-Feb-22 11:04 AM_:
 
-[https://docs.google.com/document/d/1lHhu8o6CZ-Zgudipv5oGbzwlAsIZ_m1jhAZod7pP28U/edit](https://docs.google.com/document/d/1lHhu8o6CZ-Zgudipv5oGbzwlAsIZ_m1jhAZod7pP28U/edit)
+[https://docs.google.com/document/d/1lHhu8o6CZ-Zgudipv5oGbzwlAsIZ_m1jhAZod7pP28U/
 
 borrador
 
@@ -2359,7 +2349,7 @@ iviangita
 
 [Audit masterfile:](about:blank#)
 
-[https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit?usp=sharing](https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit?usp=sharing)
+[https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -2379,7 +2369,7 @@ Pinned a message.
 
 _21-Feb-22 11:06 AM_:
 
-[https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/edit#gid=1484400937](https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/edit#gid=1484400937)
+[https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/
 
 TWG_Proposal_Activity
 
@@ -2403,7 +2393,7 @@ As we come closer to the Commons Upgrade, we think this is the best time to revi
 
 _21-Feb-22 11:26 AM_:
 
-[https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit](https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit)
+[https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/
 
 TEC Transparency Audit (Jan-March 2022)
 
@@ -2457,7 +2447,7 @@ those are some reports from the MakerDAO SES Unit
 
 Edu - TEC Steward.
 
-[https://docs.google.com/presentation/d/18DGuSTsLgU2C2iNNcvoo2-27uL2Tcb1jfMaMGa9Zeyc/edit#slide=id.gf57579e5b1_2_75](https://docs.google.com/presentation/d/18DGuSTsLgU2C2iNNcvoo2-27uL2Tcb1jfMaMGa9Zeyc/edit#slide=id.gf57579e5b1_2_75)
+[https://docs.google.com/presentation/d/18DGuSTsLgU2C2iNNcvoo2-27uL2Tcb1jfMaMGa9Zeyc/
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -2477,7 +2467,7 @@ _28-Feb-22 01:04 PM_:
 
 this is great!
 
-@Ratio13 We need a tab for @enti here [https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/edit#gid=1484400937](https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/edit#gid=1484400937)
+@Ratio13 We need a tab for @enti here [https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/
 
 TWG_Proposal_Activity
 
@@ -2513,7 +2503,7 @@ Zeptimus
 
 [@Ratio13 We need a tab for @enti here](about:blank#)
 
-[https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/edit#gid=1484400937](https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/edit#gid=1484400937)
+[https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/
 
 <h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
@@ -2539,7 +2529,7 @@ Zeptimus
 
 [@Ratio13 We need a tab for @enti here](about:blank#)
 
-[https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/edit#gid=1484400937](https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/edit#gid=1484400937)
+[https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/
 
 <h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
@@ -3393,7 +3383,7 @@ Interesting about bystander tendencies: [https://youtu.be/7dLZj69zE5o](https://y
 
 _10-Apr-22 05:05 PM_:
 
-Here is the link to the Voting Results Q1/2022 spreadsheet. Whomever is compiling the documents may want to make a copy for the Audit Report. There is a high likelihood it will get deleted from my docs in due time. [https://docs.google.com/spreadsheets/d/1yPuReLbzUdb-xWhsKNr_aiK4YwpT6UtgiRw1ItmsxjU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1yPuReLbzUdb-xWhsKNr_aiK4YwpT6UtgiRw1ItmsxjU/edit?usp=sharing) (edited)
+Here is the link to the Voting Results Q1/2022 spreadsheet. Whomever is compiling the documents may want to make a copy for the Audit Report. There is a high likelihood it will get deleted from my docs in due time. [https://docs.google.com/spreadsheets/d/1yPuReLbzUdb-xWhsKNr_aiK4YwpT6UtgiRw1ItmsxjU/
 
 Voting Results - Q1/2022
 
@@ -3409,7 +3399,7 @@ Ranked Choice Proposal title ,Proposer,Date closed,Choices,Vote %,Support TEC,To
 
 _12-Apr-22 10:03 AM_:
 
-Left a comment here [https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit#](https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit#) pertaining to my section of the audit.
+Left a comment here [https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/
 
 TEC Transparency Audit (Jan-March 2022)
 
@@ -3423,7 +3413,7 @@ Ratio13
 
 [Left a comment here](about:blank#)
 
-[https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit#](https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit#)
+[https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/
 
 pertaining to my section of the audit.
 
@@ -3451,7 +3441,7 @@ Ratio13
 
 [Here is the link to the Voting Results Q1/2022 spreadsheet. Whomever is compiling the documents may want to make a copy for the Audit Report. There is a high likelihood it will get deleted from my docs in due time.](about:blank#)
 
-[https://docs.google.com/spreadsheets/d/1yPuReLbzUdb-xWhsKNr_aiK4YwpT6UtgiRw1ItmsxjU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1yPuReLbzUdb-xWhsKNr_aiK4YwpT6UtgiRw1ItmsxjU/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1yPuReLbzUdb-xWhsKNr_aiK4YwpT6UtgiRw1ItmsxjU/
 
 (edited)
 
@@ -3624,7 +3614,7 @@ _02-May-22 01:01 PM_:
 
 _09-May-22 11:21 AM_:
 
-[https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=1992649538](https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=1992649538)
+[https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/
 
 TEC Decision tracking
 
@@ -3654,7 +3644,7 @@ Thanks for the sync!
 
 _12-May-22 10:13 AM_:
 
-@enti @bear100 @acidlazzer @bear100 @EFRA [https://docs.google.com/spreadsheets/d/1Wwio-Ysqn_mzbPw7hEIz5jg3zZJGlrLATBGHR6bImhI/edit#gid=1484400937](https://docs.google.com/spreadsheets/d/1Wwio-Ysqn_mzbPw7hEIz5jg3zZJGlrLATBGHR6bImhI/edit#gid=1484400937)
+@enti @bear100 @acidlazzer @bear100 @EFRA [https://docs.google.com/spreadsheets/d/1Wwio-Ysqn_mzbPw7hEIz5jg3zZJGlrLATBGHR6bImhI/
 
 2.TWG_Proposal_Activity
 
@@ -3670,7 +3660,7 @@ Ratio13
 
 [Left a comment here](about:blank#)
 
-[https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit#](https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit#)
+[https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/
 
 pertaining to my section of the audit.
 
@@ -3733,7 +3723,7 @@ okay. send the meeting link to #deleted-channel team.
 
 Anak 13-May-22 07:22 PM
 
-Just so no one get wrong message. I am not trying to be rude. I am just giving feedback. This number [https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit#](https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/edit#) TEC balance is wrong. can anyone explain this please? (edited)
+Just so no one get wrong message. I am not trying to be rude. I am just giving feedback. This number [https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/
 
 ![https://cdn.discordapp.com/attachments/810180622634844207/974813872424894495/unknown.png](https://cdn.discordapp.com/attachments/810180622634844207/974813872424894495/unknown.png)
 
@@ -3793,7 +3783,7 @@ Period: January 01 - March 31 of 2022 Presented: 28 april 2022 Contributors: Zep
 
 _16-May-22 11:20 AM_:
 
-[https://docs.google.com/document/d/1uBhtYLvx5PIGzYoEDa1HYxxmc9W3pPpP_cXxXfn1IgA/edit?usp=sharing](https://docs.google.com/document/d/1uBhtYLvx5PIGzYoEDa1HYxxmc9W3pPpP_cXxXfn1IgA/edit?usp=sharing)
+[https://docs.google.com/document/d/1uBhtYLvx5PIGzYoEDa1HYxxmc9W3pPpP_cXxXfn1IgA/
 
 update TEC Community Covenant
 
@@ -3937,7 +3927,7 @@ I tried to write my hours but it is not reflected in the principal sheet, I did 
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
 
-[https://docs.google.com/spreadsheets/d/1Wwio-Ysqn_mzbPw7hEIz5jg3zZJGlrLATBGHR6bImhI/edit#gid=1484400937](https://docs.google.com/spreadsheets/d/1Wwio-Ysqn_mzbPw7hEIz5jg3zZJGlrLATBGHR6bImhI/edit#gid=1484400937)
+[https://docs.google.com/spreadsheets/d/1Wwio-Ysqn_mzbPw7hEIz5jg3zZJGlrLATBGHR6bImhI/
 
 2.TWG_Proposal_Activity
 
@@ -3953,7 +3943,7 @@ acidlazzer
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
 
-[https://docs.google.com/spreadsheets/d/1Wwio-Ysqn_mzbPw7hEIz5jg3zZJGlrLATBGHR6bImhI/edit#gid=1484400937](https://docs.google.com/spreadsheets/d/1Wwio-Ysqn_mzbPw7hEIz5jg3zZJGlrLATBGHR6bImhI/edit#gid=1484400937)
+[https://docs.google.com/spreadsheets/d/1Wwio-Ysqn_mzbPw7hEIz5jg3zZJGlrLATBGHR6bImhI/
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -4000,7 +3990,7 @@ I was just about to reach out, thanks for letting me know!
 
 _06-Jun-22 11:42 AM_:
 
-[https://docs.google.com/document/d/1ynTswJ_synyrSqUt7DdG0ztaPO54aZsjNKvKl2nBE_A/edit?usp=sharing](https://docs.google.com/document/d/1ynTswJ_synyrSqUt7DdG0ztaPO54aZsjNKvKl2nBE_A/edit?usp=sharing)
+[https://docs.google.com/document/d/1ynTswJ_synyrSqUt7DdG0ztaPO54aZsjNKvKl2nBE_A/
 
 TEC Transparency Audit (Apr - June 2022)
 
@@ -4182,7 +4172,7 @@ hey yall, i'm figuring out some of the minor details like adding a fixed column 
 
 but the mastersheet formulas actually work pretty nicely
 
-[https://docs.google.com/spreadsheets/d/1kiZEeCxml49AuhRT_TAq-fdnXp1XeDs71eTa-uxKeK0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1kiZEeCxml49AuhRT_TAq-fdnXp1XeDs71eTa-uxKeK0/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1kiZEeCxml49AuhRT_TAq-fdnXp1XeDs71eTa-uxKeK0/
 
 TEC Balances - Master Sheet
 
@@ -4255,7 +4245,7 @@ awesome @rex lets chat it tomorrow
 
 _27-Jun-22 11:34 AM_:
 
-[https://docs.google.com/spreadsheets/d/1kiZEeCxml49AuhRT_TAq-fdnXp1XeDs71eTa-uxKeK0/edit#gid=579293777](https://docs.google.com/spreadsheets/d/1kiZEeCxml49AuhRT_TAq-fdnXp1XeDs71eTa-uxKeK0/edit#gid=579293777)
+[https://docs.google.com/spreadsheets/d/1kiZEeCxml49AuhRT_TAq-fdnXp1XeDs71eTa-uxKeK0/
 
 Master Sheet - TEC Balances
 

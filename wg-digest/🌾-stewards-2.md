@@ -6,7 +6,7 @@ Token Engineering Commons
 
 ━━WORKING GROUP TEXT━━ / 🌾｜stewards
 
-The main objectives of the Community Stewards WG are to provide visibility across all of the separate work streams such that all Stewards walk forward together in lockstep to reach our high level TEC goals. Our weekly meetings are a place to check-in on the temperature of the community, to resolve blockers, to raise questions that affect the Stewards or the members of our community and to solve them with collective intelligence. We are agile in our planning and follow a 2-week Sprint cadence. Weekly sync agenda: https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit
+The main objectives of the Community Stewards WG are to provide visibility across all of the separate work streams such that all Stewards walk forward together in lockstep to reach our high level TEC goals. Our weekly meetings are a place to check-in on the temperature of the community, to resolve blockers, to raise questions that affect the Stewards or the members of our community and to solve them with collective intelligence. We are agile in our planning and follow a 2-week Sprint cadence. Weekly sync agenda: https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 ## After 19-Mar-21 12:00 AM
 
@@ -98,90 +98,57 @@ https://discord.gg/tjhx4rw2WK
 https://discord.gg/uM4ZWDjNfK
 https://discord.tecommons.org/
 https://discuss.ens.domains/t/ens-dao-delegate-applications/815/103
-https://doc-0o-40-docs.googleusercontent.com/docs/securesc/befqlm8cfku05aeer7bd3fqdegoavpu7/q7m672pkm5l2biujbdt3mm6tsi4g0iej/1619123700000/07498719293782368178/07498719293782368178/1kQ_iLepl4G40tSP51SLZjL60LQvbnHxw?e=view&authuser=1&nonce=6np7gmliq667s&user=07498719293782368178&hash=bgqm4rups7esf78cqjnbt5lk366i35p7
-https://docs.googl
-https://docs.googl/
-https://docs.google.com/document/d/
-https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/edit
-https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/edit?usp=sharing
-https://docs.google.com/document/d/12piML3DM6vKN_AeHPbLGlVuNBN60UGxa3x3Oiq9UiEI/edit
-https://docs.google.com/document/d/19CgtAf9pVzUApcduzprwE_1M2lsaNG6wvSBUHEmEKJs/edit
-https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit#
-https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing
-https://docs.google.com/document/d/1Df96GptjepEDRJCK4bI6BCnr0KfQNaPpVsMLCCb6qwY/edit#
-https://docs.google.com/document/d/1FuyhHAEcYJ6lGzs9F-KQa472h2wql_une73qBVZxR4E/edit#
-https://docs.google.com/document/d/1HQzKlRUvUUoIsV_ZNh4FY9Tgz-qiXuPDOyei3_aDIwc/edit
-https://docs.google.com/document/d/1OFfh2OJjR4B7wiXVCklsT-Bjq_8clBW1WWommLTvkSc/edit
-https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit
-https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#
-https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#heading=h.407hcd41f1x1
-https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#heading=h.5ejmjxc5fte
-https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#heading=h.ljn8yyrl26h5
-https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit?usp=sharing
-https://docs.google.com/document/d/1R4Hl_7NEqDouhlE7cX_5Xylj2hhgpex3Iclo1rmY1FM/edit#
-https://docs.google.com/document/d/1R8yLfht6GvGHr8VDvyZ-sVP1s54rPLY4MtXPBOqHtO0/edit#
-https://docs.google.com/document/d/1RXP15heml2DRd0zVXLUkBAQ9upt1fI-wrkZkqprb99w/edit
-https://docs.google.com/document/d/1RpHCuXykoVk2nqHfk5uBwdZg7nOaZdJ-QfSAU4rBR9M/edit?usp=sharing
-https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit
-https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#
-https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#heading=h.23sk6ifoe59g
-https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#heading=h.8qp81d7cxnsn
-https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#heading=h.gejlkfgcpfqb
-https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#heading=h.o4v7xehincw0
-https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#heading=h.q3cq159x07p7
-https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit?userstoinvite=chuygarcia92@gmail.com&actionButton=1
-https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit?usp=sharing
-https://docs.google.com/document/d/1U56cG2uAN2zPpDVEdDwVqlxjSFQMJ2KhDyrbCvdWvcc/edit?usp=sharing
-https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit
+https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A
+https://docs.google.com/document/d/12piML3DM6vKN_AeHPbLGlVuNBN60UGxa3x3Oiq9UiEI
+https://docs.google.com/document/d/19CgtAf9pVzUApcduzprwE_1M2lsaNG6wvSBUHEmEKJs
+https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs
+https://docs.google.com/document/d/1Df96GptjepEDRJCK4bI6BCnr0KfQNaPpVsMLCCb6qwY
+https://docs.google.com/document/d/1FuyhHAEcYJ6lGzs9F-KQa472h2wql_une73qBVZxR4E
+https://docs.google.com/document/d/1HQzKlRUvUUoIsV_ZNh4FY9Tgz-qiXuPDOyei3_aDIwc
+https://docs.google.com/document/d/1OFfh2OJjR4B7wiXVCklsT-Bjq_8clBW1WWommLTvkSc
+https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
+https://docs.google.com/document/d/1R4Hl_7NEqDouhlE7cX_5Xylj2hhgpex3Iclo1rmY1FM
+https://docs.google.com/document/d/1R8yLfht6GvGHr8VDvyZ-sVP1s54rPLY4MtXPBOqHtO0
+https://docs.google.com/document/d/1RXP15heml2DRd0zVXLUkBAQ9upt1fI-wrkZkqprb99w
+https://docs.google.com/document/d/1RpHCuXykoVk2nqHfk5uBwdZg7nOaZdJ-QfSAU4rBR9M
+https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
+https://docs.google.com/document/d/1U56cG2uAN2zPpDVEdDwVqlxjSFQMJ2KhDyrbCvdWvcc
+https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
-https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit
-https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#
-https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#heading=h.4fcjit7vj9q1
-https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#heading=h.qnjtgfvx6fdc
-https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#heading=h.vdmf7cmcd2y5
-https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ
-https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit?usp=sharing
-https://docs.google.com/document/d/1YVNzha6ulDEEA22iZrw-OtwbVN1eIgT-6Sv1_6f0fAQ/edit
-https://docs.google.com/document/d/1YoxsMvRQ7znuSzN0ad5J09RDrqsEak8boPZMHTSyC7U/edit
-https://docs.google.com/document/d/1YsukZdnwmejmx8h_-qjq_NGr8i5vk46qEeH0eF2cCVo/edit#
-https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA/edit
-https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA/edit#
-https://docs.google.com/document/d/1diintDuutf-OK9u0noyleaKS7BfkoF2UUuCrHhmwYNQ/edit#heading=h.y1g4fl643n7q
-https://docs.google.com/document/d/1dj65yfX5BRmW_zg9HeETy2p3bs60RjhpQ-JOzVqARaM/edit
-https://docs.google.com/document/d/1g9vycoqIZkg83KyRM-7wMeCN-QxZTSfO-Ofq8o7U9pQ/edit?usp=sharing
-https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit#
-https://docs.google.com/document/d/1hkbt8R8BlHWsLd5OHHqZ-hMmH8dmkDAoY9c7J2ZtRc0/edit
-https://docs.google.com/document/d/1nDvaIcGvl7GFFnQLSxAdwVUvHilx4JWTdiXjJVCu2jY/edit#
-https://docs.google.com/document/d/1ojm_J87TUa6DuUKXUf5seooG_Pr3a_7QSTHnmODmp-Y/edit?usp=sharing
-https://docs.google.com/document/d/1rRMaE7E-VKviyv8zXBYhIabwm4QFf_2zZG03XHPNrXM/edit
-https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/edit#
-https://docs.google.com/document/d/1uAbihCPiVAEMerkmVwP77TMXENkKUmiIx5pSyZMLw8o/edit#
-https://docs.google.com/document/d/1uNK5X6g44JYYR94d6yx0MhYAbmSGoxVpsdh-ZXcKyXI/edit
-https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0/edit?usp=sharing
-https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit
-https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#
-https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#heading=h.36a0sxtqi7zf
-https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit?usp=sharing
-https://docs.google.com/document/d/1yzR1o6sP9Gtjnh6VJA-DbsD9WGHxP4i5hjy6TS14a_s/edit
-https://docs.google.com/forms/d/1E6E-G7LMRBjsfju_jbVnUfI5FSQp2EmvxxRF0Qkua58/edit
-https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit#slide=id.g10a24d77ef3_5_0
-https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit?usp=sharing
-https://docs.google.com/presentation/d/1itLeveA9vXmaN9hXVVELZ_i4oFklr8RZpSxE1E1Vhqc/edit#slide=id.g1090e4ecc01_0_33
-https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/edit#gid=1759937111
-https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/edit#gid=1759937111)
-https://docs.google.com/spreadsheets/d/12XdtMMmp4ONaKQUiwrrZfQd1O48gDXNMxt7Wf3QFofI/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0
-https://docs.google.com/spreadsheets/d/1L5AlTXSSJm0WNlB2rpoKOOKTEdW1ayf4NeUb7jYRJIg/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1QSZT4bGfIV48FqSl3ykrpDoS_5PZdwSCgqxNALrMBoY/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1Ud5yubetILtzOOcE7xqxefG0SodvXi0Xv6RgH-pTT70/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1Xs_mL8BVPh2OD8u18UVXQ49vIyLS0Cdb_zRximqc96I/edit#gid=1364289517
-https://docs.google.com/spreadsheets/d/1XtuE4D_UzK61AyeymsTHYCQf_25piyAfqeOUh97QiO8/edit#gid=0
-https://docs.google.com/spreadsheets/d/1XtuE4D_UzK61AyeymsTHYCQf_25piyAfqeOUh97QiO8/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1fZzSpKUr2adYssHhYxDkcJS0IycJ0OYdKDKFUjJIs2A/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1ldBplIrHG8nWBxAa8pTgxX2OxTBx976ia51MC1ZhVXc/edit#gid=1086530873
-https://docs.google.com/spreadsheets/d/1p5cmCkY5ys1uR8pqyilAz1-ByTtNY6wUjN5Kqac9vME/edit#gid=0
-https://docs.google.com/spreadsheets/d/1qvmwwlUHnQWYc2JQRoE1Qo_IKx6a4CI9ehWIMvkiqFc/edit#gid=90487977
+https://docs.google.com/document/d/1YVNzha6ulDEEA22iZrw-OtwbVN1eIgT-6Sv1_6f0fAQ
+https://docs.google.com/document/d/1YoxsMvRQ7znuSzN0ad5J09RDrqsEak8boPZMHTSyC7U
+https://docs.google.com/document/d/1YsukZdnwmejmx8h_-qjq_NGr8i5vk46qEeH0eF2cCVo
+https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA
+https://docs.google.com/document/d/1diintDuutf-OK9u0noyleaKS7BfkoF2UUuCrHhmwYNQ
+https://docs.google.com/document/d/1dj65yfX5BRmW_zg9HeETy2p3bs60RjhpQ-JOzVqARaM
+https://docs.google.com/document/d/1g9vycoqIZkg83KyRM-7wMeCN-QxZTSfO-Ofq8o7U9pQ
+https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4
+https://docs.google.com/document/d/1hkbt8R8BlHWsLd5OHHqZ-hMmH8dmkDAoY9c7J2ZtRc0
+https://docs.google.com/document/d/1nDvaIcGvl7GFFnQLSxAdwVUvHilx4JWTdiXjJVCu2jY
+https://docs.google.com/document/d/1ojm_J87TUa6DuUKXUf5seooG_Pr3a_7QSTHnmODmp-Y
+https://docs.google.com/document/d/1rRMaE7E-VKviyv8zXBYhIabwm4QFf_2zZG03XHPNrXM
+https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0
+https://docs.google.com/document/d/1uAbihCPiVAEMerkmVwP77TMXENkKUmiIx5pSyZMLw8o
+https://docs.google.com/document/d/1uNK5X6g44JYYR94d6yx0MhYAbmSGoxVpsdh-ZXcKyXI
+https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0
+https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
+https://docs.google.com/document/d/1yzR1o6sP9Gtjnh6VJA-DbsD9WGHxP4i5hjy6TS14a_s
+https://docs.google.com/forms/d/1E6E-G7LMRBjsfju_jbVnUfI5FSQp2EmvxxRF0Qkua58
+https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y
+https://docs.google.com/presentation/d/1itLeveA9vXmaN9hXVVELZ_i4oFklr8RZpSxE1E1Vhqc
+https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
+https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs
+https://docs.google.com/spreadsheets/d/12XdtMMmp4ONaKQUiwrrZfQd1O48gDXNMxt7Wf3QFofI
+https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY
+https://docs.google.com/spreadsheets/d/1L5AlTXSSJm0WNlB2rpoKOOKTEdW1ayf4NeUb7jYRJIg
+https://docs.google.com/spreadsheets/d/1QSZT4bGfIV48FqSl3ykrpDoS_5PZdwSCgqxNALrMBoY
+https://docs.google.com/spreadsheets/d/1Ud5yubetILtzOOcE7xqxefG0SodvXi0Xv6RgH-pTT70
+https://docs.google.com/spreadsheets/d/1Xs_mL8BVPh2OD8u18UVXQ49vIyLS0Cdb_zRximqc96I
+https://docs.google.com/spreadsheets/d/1XtuE4D_UzK61AyeymsTHYCQf_25piyAfqeOUh97QiO8
+https://docs.google.com/spreadsheets/d/1fZzSpKUr2adYssHhYxDkcJS0IycJ0OYdKDKFUjJIs2A
+https://docs.google.com/spreadsheets/d/1ldBplIrHG8nWBxAa8pTgxX2OxTBx976ia51MC1ZhVXc
+https://docs.google.com/spreadsheets/d/1p5cmCkY5ys1uR8pqyilAz1-ByTtNY6wUjN5Kqac9vME
+https://docs.google.com/spreadsheets/d/1qvmwwlUHnQWYc2JQRoE1Qo_IKx6a4CI9ehWIMvkiqFc
 https://doodle.com/poll/2fke55r7dr9bice4?utm_source=poll&utm_medium=link
 https://doodle.com/poll/fkufvrrc4t9f9pua
 https://doodle.com/poll/idqduua9xz5eagn7
@@ -195,8 +162,6 @@ https://dune.xyz/tecommons/TECommons
 https://esp.ethereum.foundation/
 https://ethcc.io/
 https://file.coffee/u/V1GBsAQaPMvykR.mov
-https://for
-https://for/
 https://forms.gle/PDK6toRMG9vXNRAf9
 https://forum.1hive.org/t/celeste-a-brief-primer/1483
 https://forum.1hive.org/t/deployment-of-honey-pot-and-celeste-contracts/2690
@@ -279,57 +244,6 @@ https://hatch.tecommons.org/
 https://hydra.bot/
 https://images.typeform.com/images/FYUps4mFKPYK/image/default
 https://imgflip.com/i/5du7tl
-https://lh3.googleusercontent.com/0V6CyptXqxSLee7KUNRzgYy4w4SKx4kBOQmz3DxEqdEAtpxdQRve9Tfq4lMdW02cjY9AUKdM7OfK5A=w1200-h630-p
-https://lh3.googleusercontent.com/D5r1K4qUMQmnnbVrbq528KmGJ4QmhYwn_XVNJXWfpU7hsUsW9aDNE-1girdcPQk9kzcqn6SKUVVjyQ=w1200-h630-p
-https://lh3.googleusercontent.com/Hqgm7o4lHxFfXX9K90TCKPOI9QePNhkZc64yEC4BNqGzIitnFgdwWLhaZtShm-WleGGPYadbUpD14Q=w1200-h630-p
-https://lh3.googleusercontent.com/J9MwhV10fEDd2DcRrfWfFIaq8Et4EDCj5PjwBpgILiRkRxXk0fpDVHKRTqa2mMbSP1gy8AmuquLnfA=w1200-h630-p
-https://lh3.googleusercontent.com/JK8fWHorurW-wKKuFA2nZ43ZA7KHT88kGWB8jUvadVFxEVtH8t_o6JIcVqxPxpvKFwSxeLgSNRWiJw=w1200-h630-p
-https://lh3.googleusercontent.com/Ven04-q-aRPmiO3RR0M0Sf2D_L-deGiY9P5-EvpGEvmUsnALd2oeLHfY-UDf7SXs4hFn-QMcdFWcrw=w1200-h630-p
-https://lh3.googleusercontent.com/vaIb549HGvJnrwTGMMLYo_o7cdd3jr3RdI4a0oAOk1D7lkuMiOCR6wIX59nei_HASHcc9ND3CSU=w1200-h630-p
-https://lh3.googleusercontent.com/vmUUSoFrfaaNDToePogCkB7jm99OqnXeJPPKm89bVqXMM23YxNtBpYwmszo8WopiFC3tzzRPhnftrw=w1200-h630-p
-https://lh3.googleusercontent.com/x5u26pkz-X26ASl8EJV52zyP-mCxFEvjgeitxwJnYLGK0OuHWBUTDNibrH6bkazat2kIHtp8iEu5nQ=w1200-h630-p
-https://lh3.googleusercontent.com/y1Sua5bUUdNPOxoH_x85sA-3cjHQa50iN4Q3EyoX1dRyfINfgmS8mZsiORVfOsAQ-78ioKaoAN9L6A=w1200-h630-p
-https://lh3.googleusercontent.com/yUaFtqkjq2bFNcsqsHB6pZNbqreJ1M078dpRJEGt0tLImK_IaNP5eyhyCybIL08Y7HU2ve9aGm9_2A=w1200-h630-p
-https://lh4.googleusercontent.com/7eox4XK2Mep3L_e3DcjBkuSqJVRM-6PJIRHCXWzTXcciML2x5OC2So_0bY47dr1yw4_oUz3UTOyHAA=w1200-h630-p
-https://lh4.googleusercontent.com/FMO1SnFXSJNEEPjHddcknb7tejl5tJN2lOEAdODyF9unfBFImz9dufw8CWjrqxl_-OtroV4C8k7JUg=w1200-h630-p
-https://lh4.googleusercontent.com/LMJJ13kK_t8lTEgqsvcGchNIMPlCEEhApn-euCpAAHHV0Ir7OQu0CgWQU5oqcE7LLJd3pWQ1M5SzOw=w1200-h630-p
-https://lh4.googleusercontent.com/LgF1pdIl_ErkABjNSBkTE5sdHgwFTbVbSS4BqtPOW2CNzdsaNYO7mp5bzdjT4Q6sufF5DNdZ5CscoQ=w1200-h630-p
-https://lh4.googleusercontent.com/SW6hFsWUjKp8jJlA6wldAQLOYn9IDiLiIwFdPceniKyuCilPm1Vme3F6MS5j1ziPS3L3OpbQFbg=w1200-h630-p
-https://lh4.googleusercontent.com/UpfMJ6goMsR2oAXi8UXUxtDFuzj6eCCDrlT0gWY_2dfG7TL90XjK4vgiBeL7R-U814NSZ5naw0XxNw=w1200-h630-p
-https://lh4.googleusercontent.com/VgC48ah3Ms5LqFtzfmXi4VvY_tjiLXEQBMrcAme_u9ykXqwMNjOJlD39q_i7VBpH46pZieTWDnEjcQ=w1200-h630-p
-https://lh4.googleusercontent.com/W4Xr660Ot0PkLNfwPKPjVdUrZDCdoycYajDp5xnSd6Jml4cnjQ1N7N-i9ubXSIOwqwhBVW0QoqqrNA=w1200-h630-p
-https://lh4.googleusercontent.com/jFY5eGEkHp_h26RV0iQQrOdmXkx59ByWHGgvACDWKiyufYhCkIvzPF7gYF8imkxhstIaWXLV-QkYgA=w1200-h630-p
-https://lh4.googleusercontent.com/maXVao12qA1DIi-EtoiIAe1Tlx6sdMAXbMgMvHeGxPa6JrUlyvm9AJtwYPSSTNThmrv5D9pUicDy0g=w1200-h630-p
-https://lh4.googleusercontent.com/rYIAz6ScVV6o-2hTX449JB7KY59PM-I8q1gGkOjeVUWMYb2Ey75_fo2DrEZKB2EqxzEPs3Y7C4hTAQ=w1200-h630-p
-https://lh4.googleusercontent.com/sJjapfJ6OAAifwC2QAohwchYDqeud94ys2FaPcELr0xqfYzsXAZXwbOv3UgofKgmids04JLx31388g=w1200-h630-p
-https://lh5.googleusercontent.com/5NMGeLm9y5LOnMqF-HsT9QArl_pBrMQ72Nblpgwoqqym-uu5T7e0Eu-7GMWeMfwKvSTIPyGQibMJMQ=w1200-h630-p
-https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p
-https://lh5.googleusercontent.com/GCCcsp8Kp5_LlZhTw63JUPEyH7FW68gBL9dM79nTYCN1cjvVpFM28uSb-TGG66VgbeyispUyLo4Hmw=w1200-h630-p
-https://lh5.googleusercontent.com/JU90dxVcFVT3JOlp6OyRJ5pXa3zxcj7ImSeXHh9UVcPKVL0g_jS57WiSIfIKOzrwMCxyH4UB7MBd0A=w1200-h630-p
-https://lh5.googleusercontent.com/OeRZaR0sMYosYGFisR8njvQpLnXtSRE_FYdUON2fJpyG_kyYct7Gwd9qGdMIyrz8sqwFGgd7tGXU2Q=w1200-h630-p
-https://lh5.googleusercontent.com/UsP8-pr0QROrdF1P4Qk3oRcvntttaKEH5al-SXAw8tA6Z9yVK_CKczDNwHeW54g51p3AyKE_nRht7A=w1200-h630-p
-https://lh5.googleusercontent.com/_pAimcjiuj2HrVD15Owy4yb5ltDkjEbTcyZ81ofe09giabZQeKYi21XK0yiN1nm4uS89CgBqUJeicA=w1200-h630-p
-https://lh5.googleusercontent.com/hBKMc_onrcHFab745J9zKUKSD9tnfkPRnz1DRhwKOV96_BO0OaZW7Ev94ozgMs5SqwNQUqdHFcOLAg=w1200-h630-p
-https://lh5.googleusercontent.com/vTMFndKMjsFw8yN1fT5hUqfyFQlVh06WLpdeIyvJvZYz1yJ_lR7MsMCjag3NPPctNeK2S5G6KzvuIQ=w1200-h630-p
-https://lh5.googleusercontent.com/xGeg0Y3P61blpfbliut80cQ7YUDFbCFVY_HK7b39PF0smSEUPE9zDwlZy3LQKi0tSAXjkEvFyuaNZQ=w1200-h630-p
-https://lh6.googleusercontent.com/1yIAVk7zG2dMgueiTUMjqrk_1dheQSGP7QOTdOoAFSm1K74yVTmpELQvZaPXQNhQ_uxXMy1i7YBtKw=w1200-h630-p
-https://lh6.googleusercontent.com/8tC1avOV-P-1plX94PRn8kHuVPCleUt8PsCxCUgf-PjRqE2DcrUzxtVSANrDjKf8NsOfLTRGCYtQ1Q=w1200-h630-p
-https://lh6.googleusercontent.com/BvO6M6hYTyI29METVqt7IbSLquu51ZaoDbDq6hX1H8brCnV2gyITm5jsDjRwZA65HzIlaWb5l8wxrQ=w1200-h630-p
-https://lh6.googleusercontent.com/EF4M5U_OiOfyIdoruFlGPLoGy1FTi4xNtM8qxS3-Mv6DMggDNOBMiSrdj-yv9CFz0k_jV1e0sF62pQ=w1200-h630-p
-https://lh6.googleusercontent.com/GgHVEcz6MYKh9T9wQsX5ltESgzN2I7c3RT3cIeMRA7iimAfqDlTV5WpPxCdiAanpBJF-fmSg7AMthg=w1200-h630-p
-https://lh6.googleusercontent.com/JJdrsV2WnoVb4xcOknE1hCVlKIIF1xExyGcoJdrvtV7XSIEz8zz1HjOqzPf66ijHVZjUauU8fXXx6w=w1200-h630-p
-https://lh6.googleusercontent.com/Jzd3FEAV1D_hbr1pfOwxSuPXr1M5UeohigMuCW8iuTMI2WhYQ9Dl-3EzcIg1gB_kCZfKFmNa5Q5nIw=w1200-h630-p
-https://lh6.googleusercontent.com/Kc2XmWRCRpipEcwbFPMgvAIwuMeOrtlHdpulvK4p8nw22Cy0vBfDyK36_vVgXFij_KF2yyfCow167Q=w1200-h630-p
-https://lh6.googleusercontent.com/MPpgUfujLJdaYZKl38J4U96NzZGN3SRcBYXfEJRwbiA02vlHM9NYWIhE9tX_Kk8SQNesObz6K1pHPA=w1200-h630-p
-https://lh6.googleusercontent.com/Of9jadHTCWUjWT1M3evOfKSDV1sD_EESgh_rLTz-pS0fkaz77vpXB25VjyNcnci3-0jKP4n8hns8bQ=w1200-h630-p
-https://lh6.googleusercontent.com/SFEzloxhglB4kDIfjzrwi-PIQkMFEhDkgeHroQEWBEctI3DMBq-W4g98oXRcI5Q4Mja-H2_AqP6-Iw=w1200-h630-p
-https://lh6.googleusercontent.com/T_7w4BlRYp83LXD80QjNrB2drZ20LU8TOV4jcsIy6U8buVG9eVlmFj9rB98fC8ZjjDx24rZXQapHbg=w1200-h630-p
-https://lh6.googleusercontent.com/hnOmsfzBtCkam0rYwZRR5FpsSQdNAVQ6NP26LHNPeVk7NjhHnu7sbmkyjl9KrqWDDfD-1fbiiepaQg=w1200-h630-p
-https://lh6.googleusercontent.com/jZSN0vqMmyvEdqSAOPNiSTi324mN8EV_fMk7v34YCQCpCd94Ji7BQH5D8FKvy-NMj0MRd41lvyvSvA=w1200-h630-p
-https://lh6.googleusercontent.com/k2BEhadQueydDgoWhnA1bczzCLpbROZY_OhtVL07-Izb6kEvEgglZjNVZVEPzmkL_vc=w1200-h630-p
-https://lh6.googleusercontent.com/kpxZc7dUkipJBOF_UuBq5D1jrflIxRch7yOcprO2VWvKuZYWvVH9guEeIFyqHc-0JeRievArZsIOnw=w1200-h630-p
-https://lh6.googleusercontent.com/yXXEpvh0uHGpYLrCjxQo_RJxIGwKBjVoDxcFOw16xYY4LKbpNWPezJOSwnubzef4xilhxvJd0uiyrg=w1200-h630-p
-https://media.tenor.co/images/15948d35489ad867f532befcc48a7c29/raw
 https://medium.com/@skueong/the-art-of-community-seven-principles-for-belonging-book-notes-4997cd637a58
 https://medium.com/token-engineering-commons/the-cultural-impacts-of-our-commons-upgrade-proposals-943034e0026b
 https://meet.google.com/vzb-iphq-wbk?authuser=1
@@ -345,8 +259,6 @@ https://miro.com/app/board/uXjVO63ZPGE=/
 https://miro.com/app/board/uXjVO63ZPGE=/?share_link_id=939089662572
 https://miro.com/app/board/uXjVOUUZNNk=/?utm_source=notification&utm_medium=email&utm_campaign=daily-updates&utm_content=go-to-board
 https://miro.com/miroverse/liberating-structures-menu-and-principles/
-https://miro.medium.com/max/1136/1
-https://miro.medium.com/max/259/1
 https://newsletter.banklesshq.com/p/how-daos-should-approach-treasury
 https://octave.gg/
 https://opengraph.githubassets.com/23a4499e60aeed6473f94fdffdffb11448178ebf7073154bc5ae33ea1aacd8b2/1Hive/gardens/issues/500
@@ -456,7 +368,7 @@ https://youtu.be/x2gf-UUiEL0
 
 _19-Mar-21 05:12 AM_:
 
-Good morning all !! There is no better way to end the week than setting our focus for the next two weeks of work. Our Sprint Planning is today! Take the time to create, refine and update the issues in our Sprint Board. Label issues "Next Sprint" for them to be considered for inclusion into Sprint 6. [https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322) [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#)
+Good morning all !! There is no better way to end the week than setting our focus for the next two weeks of work. Our Sprint Planning is today! Take the time to create, refine and update the issues in our Sprint Board. Label issues "Next Sprint" for them to be considered for inclusion into Sprint 6. [https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322) [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 ZenHub
 
@@ -484,7 +396,7 @@ One of our goals for this upcoming Sprint ...
 
 Call for help! Ask for volunteers to help Transparency WG record TEC meetings. Have them reach out to Zeptimus and sign up! (
 
-[https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/edit#gid=1759937111)](https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/edit#gid=1759937111))
+[https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs
 
 TEC Call Recorders
 
@@ -545,7 +457,7 @@ Hi Stewards! We're sharing again the Transparency article that @Zeptimus @Juankb
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-[https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/edit#](https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/edit#)
+[https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0
 
 Transparency in DAOs
 
@@ -571,7 +483,7 @@ iviangita
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-[https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/edit#](https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/edit#)
+[https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -605,7 +517,7 @@ _23-Mar-21 06:02 PM_:
 
 _24-Mar-21 12:15 PM_:
 
-Happy Wednesday Stewards! See you at 7pm CET. Here's our Agenda.... [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#)
+Happy Wednesday Stewards! See you at 7pm CET. Here's our Agenda.... [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -651,7 +563,7 @@ Thanks so much for the edits Tam!!! Here's the clean copy for the 2nd round
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-[https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/edit#](https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/edit#)
+[https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0
 
 Transparency in DAOs
 
@@ -663,7 +575,7 @@ Hi Stewards! Just a gentle reminder to update your sections in the Weekly Sync a
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
 
-[https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit#](https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit#)
+[https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4
 
 <img src="https://twemoji.maxcdn.com/2/72x72/260e.png" width=50 height=50>
 
@@ -819,7 +731,7 @@ Hello Stewards, it's that time again! Hope you can update your sections in the W
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
 
-[https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit#](https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit#)
+[https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4
 
 <img src="https://twemoji.maxcdn.com/2/72x72/260e.png" width=50 height=50>
 
@@ -847,7 +759,7 @@ iviangita
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
 
-[https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit#](https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit#)
+[https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -859,7 +771,7 @@ _01-Apr-21 03:50 AM_:
 
 _01-Apr-21 12:00 PM_:
 
-Are you ready to .... Retro!? [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit)
+Are you ready to .... Retro!? [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -897,7 +809,7 @@ it!? See you at Sprint Planning in 15 minutes.
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f98b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f41d.png" width=50 height=50>
 
-[https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#heading=h.ljn8yyrl26h5](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#heading=h.ljn8yyrl26h5)
+[https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 ![https://cdn.discordapp.com/attachments/810180622634844206/827569687293984839/Screen_Shot_2021-04-02_at_5.35.09_PM.png](https://cdn.discordapp.com/attachments/810180622634844206/827569687293984839/Screen_Shot_2021-04-02_at_5.35.09_PM.png)
 
@@ -1018,7 +930,7 @@ Hey Stewards! You ready for our weekly sync!? See you in 10 minutes!
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50>
 
-[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit)
+[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -1089,7 +1001,7 @@ Hi @Stewards! Just a gentle reminder to update your sections in the Community Ca
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
 
-[https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit#](https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit#)
+[https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4
 
 <img src="https://twemoji.maxcdn.com/2/72x72/260e.png" width=50 height=50>
 
@@ -1251,7 +1163,7 @@ Next week, we'll start using the deck that @markop is working on
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
 
-[https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit#](https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit#)
+[https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4
 
 <img src="https://twemoji.maxcdn.com/2/72x72/260e.png" width=50 height=50>
 
@@ -1277,7 +1189,7 @@ If you have any social, political or any other type of problems within the TEC c
 
 _15-Apr-21 12:02 PM_:
 
-Ready to RETRO ... [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit)
+Ready to RETRO ... [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -1324,7 +1236,7 @@ Pinned a message.
 
 _20-Apr-21 12:10 PM_:
 
-Stewards, please review the draft blurbs for each WG which will be posted on our YT channel [https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/edit](https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/edit)
+Stewards, please review the draft blurbs for each WG which will be posted on our YT channel [https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A
 
 youtube descriptions
 
@@ -1363,7 +1275,7 @@ markop
 
 [Stewards, please review the draft blurbs for each WG which will be posted on our YT channel](about:blank#)
 
-[https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/edit](https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/edit)
+[https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1427,7 +1339,7 @@ Hello @Stewards ! Marko has finished creating the deck template for the Communit
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -1443,7 +1355,7 @@ iviangita
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -1464,7 +1376,7 @@ I've also prepared the old agenda document in case the deck won't get completed
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit#](https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit#)
+[https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4
 
 <img src="https://twemoji.maxcdn.com/2/72x72/260e.png" width=50 height=50>
 
@@ -1702,7 +1614,7 @@ Voted until my votes ran out!
 
 _27-Apr-21 02:07 AM_:
 
-@Stewards Anything you want to add to the agenda for todays Comms call? Add here [https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw/edit)
+@Stewards Anything you want to add to the agenda for todays Comms call? Add here [https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
 
 TEC Comms Working Group_Weekly Sync Notes
 
@@ -1717,7 +1629,7 @@ Hi @Stewards ! Just an advance reminder to update your slides in the Community C
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -1763,7 +1675,7 @@ Stewards Call Reminder BOT 28-Apr-21 12:09 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -1912,7 +1824,7 @@ Hello @Stewards ! Hope you can update your slides in the agenda for the Communit
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -1960,7 +1872,7 @@ Discord Automation Tools for TEC's discord server. - Vyvy-vi/TEC-Discord-Automat
 
 _29-Apr-21 10:34 AM_:
 
-hey everyone, we are having the MVV polishing session in 15 min! [https://docs.google.com/document/d/1R8yLfht6GvGHr8VDvyZ-sVP1s54rPLY4MtXPBOqHtO0/edit#](https://docs.google.com/document/d/1R8yLfht6GvGHr8VDvyZ-sVP1s54rPLY4MtXPBOqHtO0/edit#)
+hey everyone, we are having the MVV polishing session in 15 min! [https://docs.google.com/document/d/1R8yLfht6GvGHr8VDvyZ-sVP1s54rPLY4MtXPBOqHtO0
 
 Ostrom’s Principles and the TEC
 
@@ -1972,7 +1884,7 @@ MVV Runoff Polishing Session Vision The Token Engineering Commons will support t
 
 _30-Apr-21 08:03 AM_:
 
-Sprint Planning in 4 few hours, @Stewards. See you there! [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#)
+Sprint Planning in 4 few hours, @Stewards. See you there! [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 ![https://cdn.discordapp.com/attachments/810180622634844206/837660540528492544/plancomestogether.gif](https://cdn.discordapp.com/attachments/810180622634844206/837660540528492544/plancomestogether.gif)
 
@@ -2054,7 +1966,7 @@ Stewards Call Reminder BOT 05-May-21 12:06 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -2066,7 +1978,7 @@ Wednesday, 7pm CET
 
 _05-May-21 01:02 PM_:
 
-Come one come all Stewards!!! Agenda drop: [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit)
+Come one come all Stewards!!! Agenda drop: [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -2126,7 +2038,7 @@ Historically, economic design has always been done with a top down approach, whe
 
 _05-May-21 01:48 PM_:
 
-[https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/edit](https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/edit)
+[https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A
 
 youtube descriptions
 
@@ -2158,7 +2070,7 @@ _05-May-21 03:00 PM_:
 
 voilà
 
-[https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/edit?usp=sharing](https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/edit?usp=sharing)
+[https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A
 
 youtube descriptions
 
@@ -2194,7 +2106,7 @@ Hello @Stewards ! Hope you can update your slides in the agenda for the Communit
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -2240,7 +2152,7 @@ Stewards Call Reminder BOT 12-May-21 12:47 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -2342,7 +2254,7 @@ Hope you can update your slides in the agenda for the Community Call later. Plea
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -2392,7 +2304,7 @@ Project Management and Software Development with GitHub | ZenHub
 
 _13-May-21 12:02 PM_:
 
-[https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#heading=h.36a0sxtqi7zf](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#heading=h.36a0sxtqi7zf)
+[https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -2413,7 +2325,7 @@ in 30 minutes!! Have you tagged the issues that you want to being into this spri
 
 The Planning will be followed by our session to review together the top vote Hatch Params. See you there!
 
-[https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#)
+[https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -2445,7 +2357,7 @@ thanks @griff (💜, 💜) for sharing this and pushing the tech side. Let's hav
 
 _19-May-21 12:03 PM_:
 
-We will be doing a working session to build the Launch Checklist in the Stewards WG today!! See you soon! [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#heading=h.4fcjit7vj9q1](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#heading=h.4fcjit7vj9q1)
+We will be doing a working session to build the Launch Checklist in the Stewards WG today!! See you soon! [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -2473,7 +2385,7 @@ Stewards Call Reminder BOT 19-May-21 12:46 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -2500,7 +2412,7 @@ Hey @Stewards ! Hope you can update your slides in the agenda for the Community 
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -2512,7 +2424,7 @@ I have to celebrate you baby! Please jump in the Discord TEC Praise channel and 
 
 _20-May-21 06:07 AM_:
 
-Hi @Stewards! I would like to gather your input on topics for next week's blog post. Please share your thoughts by Friday here: [https://docs.google.com/document/d/1YsukZdnwmejmx8h_-qjq_NGr8i5vk46qEeH0eF2cCVo/edit#](https://docs.google.com/document/d/1YsukZdnwmejmx8h_-qjq_NGr8i5vk46qEeH0eF2cCVo/edit#) Thank you!
+Hi @Stewards! I would like to gather your input on topics for next week's blog post. Please share your thoughts by Friday here: [https://docs.google.com/document/d/1YsukZdnwmejmx8h_-qjq_NGr8i5vk46qEeH0eF2cCVo
 
 TEC Stewards’ News for Blog Post
 
@@ -2535,7 +2447,7 @@ Stewards Call Reminder BOT 26-May-21 01:05 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -2550,7 +2462,7 @@ Hey @Stewards ! It's that time again! Please update your slides in the agenda fo
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -2565,7 +2477,7 @@ Retrospect in our Sprint Retrospective .... happening now!
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
 
-[https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#heading=h.36a0sxtqi7zf](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#heading=h.36a0sxtqi7zf)
+[https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -2577,7 +2489,7 @@ TEC Sprint Retrospective Scrum Theory : Scrum is founded on empiricism and lean 
 
 _28-May-21 10:54 AM_:
 
-Sprint 11 planning happening in 1 hour! Here's our agenda! [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#heading=h.407hcd41f1x1](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#heading=h.407hcd41f1x1)
+Sprint 11 planning happening in 1 hour! Here's our agenda! [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -2753,7 +2665,7 @@ Stewards Call Reminder BOT 02-Jun-21 02:26 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -2787,7 +2699,7 @@ I guess. (The message might have been sent, but the webhook took some time to re
 _03-Jun-21 06:56 AM_:
 Hello @Stewards ! Just a gentle reminder to update your slides in the Community Call agenda:
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 ALSO, we have a Praise Quant Session on Saturday 10am EST/4pm CET. We need 3 quantifiers - let me know who wants to volunteer
 
@@ -3185,7 +3097,7 @@ Stewards Call Reminder BOT 09-Jun-21 12:43 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -3197,7 +3109,7 @@ Wednesday, 7pm CET
 
 _09-Jun-21 01:03 PM_:
 
-Agenda for our meeting now : [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit)
+Agenda for our meeting now : [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -3246,7 +3158,7 @@ Yes, the overflow of information is real! @Tam2140 had a great suggestion to sta
 
 This is the tracking sheet with most of the decisions made so far, only the token log ones aren't there yet
 
-[https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0](https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0)
+[https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY
 
 TEC soft gov decision tracking
 
@@ -3273,7 +3185,7 @@ Hello @Stewards ! Just a gentle reminder again to update your slides in the Comm
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -3293,7 +3205,7 @@ Sign up using your Office 365, Slack, Google or Facebook accounts.
 
 ![https://miro.com/static/images/share/miro.png?00002](https://miro.com/static/images/share/miro.png?00002)
 
-[https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#)
+[https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -3454,7 +3366,7 @@ hey @Stewards , Octopus put up this great tutorial for how to categorize the pra
 
 and here is the spreadsheet
 
-[https://docs.google.com/spreadsheets/d/1ldBplIrHG8nWBxAa8pTgxX2OxTBx976ia51MC1ZhVXc/edit#gid=1086530873](https://docs.google.com/spreadsheets/d/1ldBplIrHG8nWBxAa8pTgxX2OxTBx976ia51MC1ZhVXc/edit#gid=1086530873)
+[https://docs.google.com/spreadsheets/d/1ldBplIrHG8nWBxAa8pTgxX2OxTBx976ia51MC1ZhVXc
 
 I'm gonna start working on it now and hang out in soft gov if anyone wants to join
 
@@ -3486,7 +3398,7 @@ Stewards Call Reminder BOT 16-Jun-21 12:36 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -3498,7 +3410,7 @@ Wednesday, 7pm CET
 
 _16-Jun-21 01:19 PM_:
 
-[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit)
+[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -3535,7 +3447,7 @@ Hello @Stewards ! Just a gentle reminder to update your slides in the Community 
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -3557,7 +3469,7 @@ it recorded 2 praises this whole 2 week period
 
 _19-Jun-21 08:04 AM_:
 
-[https://docs.google.com/spreadsheets/d/1qvmwwlUHnQWYc2JQRoE1Qo_IKx6a4CI9ehWIMvkiqFc/edit#gid=90487977](https://docs.google.com/spreadsheets/d/1qvmwwlUHnQWYc2JQRoE1Qo_IKx6a4CI9ehWIMvkiqFc/edit#gid=90487977)
+[https://docs.google.com/spreadsheets/d/1qvmwwlUHnQWYc2JQRoE1Qo_IKx6a4CI9ehWIMvkiqFc
 
 TEC Praise Quantification
 
@@ -3651,7 +3563,7 @@ Stewards Call Reminder BOT 23-Jun-21 12:27 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -3692,7 +3604,7 @@ Hey @Stewards ! It's that time again! Hope you update your slides in the agenda 
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -3720,7 +3632,7 @@ Sign up using your Office 365, Slack, Google or Facebook accounts.
 
 _25-Jun-21 05:02 AM_:
 
-Agenda for our Sprint Planning today! [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#heading=h.407hcd41f1x1](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#heading=h.407hcd41f1x1)
+Agenda for our Sprint Planning today! [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 ![https://cdn.discordapp.com/attachments/810180622634844206/857908493499629568/they-entered-a-sprint-planning.jpeg](https://cdn.discordapp.com/attachments/810180622634844206/857908493499629568/they-entered-a-sprint-planning.jpeg)
 
@@ -3823,7 +3735,7 @@ Stewards Call Reminder BOT 30-Jun-21 12:17 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -3872,7 +3784,7 @@ If france let me in, i can sleep on foot
 
 _30-Jun-21 01:48 PM_:
 
-Paris spreadsheet: [https://docs.google.com/spreadsheets/d/1fZzSpKUr2adYssHhYxDkcJS0IycJ0OYdKDKFUjJIs2A/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1fZzSpKUr2adYssHhYxDkcJS0IycJ0OYdKDKFUjJIs2A/edit?usp=sharing)
+Paris spreadsheet: [https://docs.google.com/spreadsheets/d/1fZzSpKUr2adYssHhYxDkcJS0IycJ0OYdKDKFUjJIs2A
 
 Paris Logistics for TEC
 
@@ -3899,7 +3811,7 @@ Hello @Stewards ! Just a gentle reminder to update your slides in the Community 
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -3913,7 +3825,7 @@ chuygarcia.eth
 
 [Paris spreadsheet:](about:blank#)
 
-[https://docs.google.com/spreadsheets/d/1fZzSpKUr2adYssHhYxDkcJS0IycJ0OYdKDKFUjJIs2A/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1fZzSpKUr2adYssHhYxDkcJS0IycJ0OYdKDKFUjJIs2A/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1fZzSpKUr2adYssHhYxDkcJS0IycJ0OYdKDKFUjJIs2A
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -4027,7 +3939,7 @@ Oleeeeeee
 
 _06-Jul-21 12:23 PM_:
 
-@Stewards A couple of Parameters will be on our todo list to decide on during the hatch. The details are here: [https://docs.google.com/document/d/1nDvaIcGvl7GFFnQLSxAdwVUvHilx4JWTdiXjJVCu2jY/edit#](https://docs.google.com/document/d/1nDvaIcGvl7GFFnQLSxAdwVUvHilx4JWTdiXjJVCu2jY/edit#) I want to post this to the forum as a proposal for first advice process.. then voting... but would love to get your feed back too! The Params that hide in the Advanced Area that I would love for the Stewards to define the DEFAULTS for are: Transferability Token Name Proposal Deposit Challenge Deposit Settlement Period
+@Stewards A couple of Parameters will be on our todo list to decide on during the hatch. The details are here: [https://docs.google.com/document/d/1nDvaIcGvl7GFFnQLSxAdwVUvHilx4JWTdiXjJVCu2jY
 
 The Power of Defaults in the Commons Configuration Dashboard
 
@@ -4041,7 +3953,7 @@ Stewards Call Reminder BOT 07-Jul-21 12:40 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -4053,7 +3965,7 @@ Wednesday, 7pm CET
 
 _07-Jul-21 01:02 PM_:
 
-Agenda for our Stewards call now! [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit)
+Agenda for our Stewards call now! [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -4091,7 +4003,7 @@ Hatch timeline (it might look something like this, pending green light from Comm
 
 _07-Jul-21 01:48 PM_:
 
-[https://docs.google.com/spreadsheets/d/1Xs_mL8BVPh2OD8u18UVXQ49vIyLS0Cdb_zRximqc96I/edit#gid=1364289517](https://docs.google.com/spreadsheets/d/1Xs_mL8BVPh2OD8u18UVXQ49vIyLS0Cdb_zRximqc96I/edit#gid=1364289517)
+[https://docs.google.com/spreadsheets/d/1Xs_mL8BVPh2OD8u18UVXQ49vIyLS0Cdb_zRximqc96I
 
 Audit of TEC Praise Quantification
 
@@ -4120,7 +4032,7 @@ Hey @Stewards ! It's that time again! Hope you update your slides in the agenda 
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -4756,7 +4668,7 @@ On not telling lies. 27% of people is not 5% of people.
 
 _08-Jul-21 04:23 PM_:
 
-@Stewards we will be hosting TE parties tomorrow to dish praise, this document will be the list of TE that will be dished praise, if anyone wants to help by adding the reason for dishing praise, it would be much appreciated [https://docs.google.com/spreadsheets/d/1XtuE4D_UzK61AyeymsTHYCQf_25piyAfqeOUh97QiO8/edit#gid=0](https://docs.google.com/spreadsheets/d/1XtuE4D_UzK61AyeymsTHYCQf_25piyAfqeOUh97QiO8/edit#gid=0)
+@Stewards we will be hosting TE parties tomorrow to dish praise, this document will be the list of TE that will be dished praise, if anyone wants to help by adding the reason for dishing praise, it would be much appreciated [https://docs.google.com/spreadsheets/d/1XtuE4D_UzK61AyeymsTHYCQf_25piyAfqeOUh97QiO8
 
 TE for Praise Party.
 
@@ -4770,7 +4682,7 @@ Edu - TEC Steward.
 
 [@Stewards we will be hosting TE parties tomorrow to dish praise, this document will be the list of TE that will be dished praise, if anyone wants to help by adding the reason for dishing praise, it would be much appreciated](about:blank#)
 
-[https://docs.google.com/spreadsheets/d/1XtuE4D_UzK61AyeymsTHYCQf_25piyAfqeOUh97QiO8/edit#gid=0](https://docs.google.com/spreadsheets/d/1XtuE4D_UzK61AyeymsTHYCQf_25piyAfqeOUh97QiO8/edit#gid=0)
+[https://docs.google.com/spreadsheets/d/1XtuE4D_UzK61AyeymsTHYCQf_25piyAfqeOUh97QiO8
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
@@ -4833,7 +4745,7 @@ Deadline is sunday afternoon Europe time! We are doing our last praise quant Sun
 
 _09-Jul-21 01:38 PM_:
 
-[https://docs.google.com/spreadsheets/d/1XtuE4D_UzK61AyeymsTHYCQf_25piyAfqeOUh97QiO8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1XtuE4D_UzK61AyeymsTHYCQf_25piyAfqeOUh97QiO8/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1XtuE4D_UzK61AyeymsTHYCQf_25piyAfqeOUh97QiO8
 
 TE for Praise Party.
 
@@ -5112,7 +5024,7 @@ Stewards Call Reminder BOT 14-Jul-21 12:34 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -5139,7 +5051,7 @@ Hello @Stewards ! Just a gentle reminder to update your slides in the Community 
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -5192,7 +5104,7 @@ Stewards Call Reminder BOT 21-Jul-21 12:34 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -5207,7 +5119,7 @@ Hey @Stewards ! Just a gentle reminder to update your slides in the agenda for t
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -5297,7 +5209,7 @@ Stewards Call Reminder BOT 28-Jul-21 12:35 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -5395,7 +5307,7 @@ Hello @Stewards ! It's that time again! Hope you update your slides in the agend
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -5434,7 +5346,7 @@ Stewards Call Reminder BOT 04-Aug-21 12:37 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -5446,7 +5358,7 @@ Wednesday, 7pm CET
 
 _04-Aug-21 01:01 PM_:
 
-[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit)
+[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -5487,7 +5399,7 @@ Hey @Stewards ! Just a gentle reminder to update your slides in the agenda for t
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -5565,7 +5477,7 @@ Stewards Call Reminder BOT 11-Aug-21 12:33 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -5600,7 +5512,7 @@ Hello @Stewards! It's that time again! Please update your slides in the agenda f
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -5705,7 +5617,7 @@ Stewards Call Reminder BOT 18-Aug-21 12:33 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -5720,7 +5632,7 @@ Hey @Stewards ! Just a gentle reminder to update your slides in the agenda for t
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -5732,7 +5644,7 @@ COMMUNITY CALL 45 Weekly updates from the TEC AUGUST 19 tecommons.org General Vo
 
 _19-Aug-21 12:02 PM_:
 
-Hey @Stewards ! Ready for our Retrospective!? Here's our agenda: [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#)
+Hey @Stewards ! Ready for our Retrospective!? Here's our agenda: [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -5807,7 +5719,7 @@ Stewards Call Reminder BOT 25-Aug-21 12:33 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -5880,7 +5792,7 @@ Hello @Stewards! It's that time again! Please update your slides in the agenda f
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -5937,7 +5849,7 @@ Stewards Call Reminder BOT 01-Sep-21 12:33 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -5980,7 +5892,7 @@ Hey @Stewards ! Just a gentle reminder to update your slides in the agenda for t
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -5992,7 +5904,7 @@ COMMUNITY CALL 47 Weekly updates from the TEC SEPTEMBER 2 tecommons.org General 
 
 _02-Sep-21 08:37 AM_:
 
-Hey @Stewards A group of our lovely new TEC members and myself have taken on the role of reviewing the TEC agreements in our handbook. We have quite a few suggestions and many questions! Could you each have a look over the agreements that fall under your WG? If you like a suggestion, please give that suggestion a thumbs up. And if you can answer the question, then we can go from there. Thank you! [https://docs.google.com/document/d/1diintDuutf-OK9u0noyleaKS7BfkoF2UUuCrHhmwYNQ/edit#heading=h.y1g4fl643n7q](https://docs.google.com/document/d/1diintDuutf-OK9u0noyleaKS7BfkoF2UUuCrHhmwYNQ/edit#heading=h.y1g4fl643n7q)
+Hey @Stewards A group of our lovely new TEC members and myself have taken on the role of reviewing the TEC agreements in our handbook. We have quite a few suggestions and many questions! Could you each have a look over the agreements that fall under your WG? If you like a suggestion, please give that suggestion a thumbs up. And if you can answer the question, then we can go from there. Thank you! [https://docs.google.com/document/d/1diintDuutf-OK9u0noyleaKS7BfkoF2UUuCrHhmwYNQ
 
 TEC Agreements Task
 
@@ -6022,7 +5934,7 @@ Hey @Tam2140 I've updated my TEC Agreements issue. It will need to be moved to n
 
 _03-Sep-21 12:09 PM_:
 
-Sprint Planning happening now ... [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#heading=h.407hcd41f1x1](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#heading=h.407hcd41f1x1)
+Sprint Planning happening now ... [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -6168,7 +6080,7 @@ We hope to talk about it tomorrow at Stewards and share with you now for advice 
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-[https://docs.google.com/document/d/1g9vycoqIZkg83KyRM-7wMeCN-QxZTSfO-Ofq8o7U9pQ/edit?usp=sharing](https://docs.google.com/document/d/1g9vycoqIZkg83KyRM-7wMeCN-QxZTSfO-Ofq8o7U9pQ/edit?usp=sharing)
+[https://docs.google.com/document/d/1g9vycoqIZkg83KyRM-7wMeCN-QxZTSfO-Ofq8o7U9pQ
 
 Communitas WG Manifesto v.0.1
 
@@ -6233,7 +6145,7 @@ Stewards Call Reminder BOT 08-Sep-21 12:33 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -6260,7 +6172,7 @@ Hey @Stewards ! Just a gentle reminder to update your slides in the agenda for t
 
 ️
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -6286,7 +6198,7 @@ With Google's free online calendar, it’s easy to keep track of life’s import
 
 _09-Sep-21 01:42 PM_:
 
-hey everyone, I made this guide with all our decision making tools and practices and how to use them [https://docs.google.com/document/d/1R4Hl_7NEqDouhlE7cX_5Xylj2hhgpex3Iclo1rmY1FM/edit#](https://docs.google.com/document/d/1R4Hl_7NEqDouhlE7cX_5Xylj2hhgpex3Iclo1rmY1FM/edit#)
+hey everyone, I made this guide with all our decision making tools and practices and how to use them [https://docs.google.com/document/d/1R4Hl_7NEqDouhlE7cX_5Xylj2hhgpex3Iclo1rmY1FM
 
 Use of Polycentric Governance in the TEC
 
@@ -6419,7 +6331,7 @@ Stewards Call Reminder BOT 15-Sep-21 12:29 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -6431,7 +6343,7 @@ Wednesday, 7pm CET
 
 _15-Sep-21 01:02 PM_:
 
-Hello @Stewards ! Agenda for our weekly! [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit)
+Hello @Stewards ! Agenda for our weekly! [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -6460,7 +6372,7 @@ Hey @Stewards ! Just a gentle reminder to update your slides in the agenda for t
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -6498,7 +6410,7 @@ Scalable, secure, cross-device and enterprise-ready team collaboration whiteboar
 
 _17-Sep-21 11:49 AM_:
 
-Starting our Sprint Planning for Sprint 18 in about 10 miniutes! Calling all WG leads (@Stewards and anyone that wants to hop in). Agenda: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#) (edited)
+Starting our Sprint Planning for Sprint 18 in about 10 miniutes! Calling all WG leads (@Stewards and anyone that wants to hop in). Agenda: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -6559,7 +6471,7 @@ It would be great to have you all there
 
 _21-Sep-21 12:34 PM_:
 
-Can I ask who else added to ths WG Funding Food for Thought doc! I want to praise you! Thank you so much! [https://docs.google.com/document/d/1rRMaE7E-VKviyv8zXBYhIabwm4QFf_2zZG03XHPNrXM/edit](https://docs.google.com/document/d/1rRMaE7E-VKviyv8zXBYhIabwm4QFf_2zZG03XHPNrXM/edit)
+Can I ask who else added to ths WG Funding Food for Thought doc! I want to praise you! Thank you so much! [https://docs.google.com/document/d/1rRMaE7E-VKviyv8zXBYhIabwm4QFf_2zZG03XHPNrXM
 
 WG funding food for thought
 
@@ -6609,7 +6521,7 @@ Hey @mitch (🍔, 🍔) hold your ears so I can tell the rest of the @Stewards t
 
 _22-Sep-21 09:34 AM_:
 
-@Stewards --> Reminder that tomorrow's inaugural council meeting will be exclusively about funding models for Working Groups. I've finished a first draft for the Stewards WG though it's really more **thoughts and ideas on paper** than an actual proposal. I am looking forward to any and all comments... it's a work in progress! [https://docs.google.com/document/d/1Df96GptjepEDRJCK4bI6BCnr0KfQNaPpVsMLCCb6qwY/edit#](https://docs.google.com/document/d/1Df96GptjepEDRJCK4bI6BCnr0KfQNaPpVsMLCCb6qwY/edit#)
+@Stewards --> Reminder that tomorrow's inaugural council meeting will be exclusively about funding models for Working Groups. I've finished a first draft for the Stewards WG though it's really more **thoughts and ideas on paper** than an actual proposal. I am looking forward to any and all comments... it's a work in progress! [https://docs.google.com/document/d/1Df96GptjepEDRJCK4bI6BCnr0KfQNaPpVsMLCCb6qwY
 
 Steward WG Funding
 
@@ -6627,7 +6539,7 @@ Stewards Call Reminder BOT 22-Sep-21 12:33 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -6639,7 +6551,7 @@ Wednesday, 7pm CET
 
 _22-Sep-21 03:33 PM_:
 
-@griff (💜, 💜) @knobsDAO @Tam2140 This is the draft for the proposal [https://docs.google.com/document/d/1HQzKlRUvUUoIsV_ZNh4FY9Tgz-qiXuPDOyei3_aDIwc/edit](https://docs.google.com/document/d/1HQzKlRUvUUoIsV_ZNh4FY9Tgz-qiXuPDOyei3_aDIwc/edit) please doble check the addresses (edited)
+@griff (💜, 💜) @knobsDAO @Tam2140 This is the draft for the proposal [https://docs.google.com/document/d/1HQzKlRUvUUoIsV_ZNh4FY9Tgz-qiXuPDOyei3_aDIwc
 
 Zep-Tam Hatch DAO proposals
 
@@ -6659,7 +6571,7 @@ Zeptimus
 
 [@griff (💜, 💜) @knobsDAO @Tam2140 This is the draft for the proposal](about:blank#)
 
-[https://docs.google.com/document/d/1HQzKlRUvUUoIsV_ZNh4FY9Tgz-qiXuPDOyei3_aDIwc/edit](https://docs.google.com/document/d/1HQzKlRUvUUoIsV_ZNh4FY9Tgz-qiXuPDOyei3_aDIwc/edit)
+[https://docs.google.com/document/d/1HQzKlRUvUUoIsV_ZNh4FY9Tgz-qiXuPDOyei3_aDIwc
 
 please doble check the addresses  (edited)
 
@@ -6678,7 +6590,7 @@ Hey @Stewards ! Just a gentle reminder to update your slides in the agenda for t
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -6690,7 +6602,7 @@ COMMUNITY CALL 50 Weekly updates from the TEC SEPTEMBER 23 tecommons.org General
 
 _23-Sep-21 12:02 PM_:
 
-Stewards' Council! Come one, come all. [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit?userstoinvite=chuygarcia92@gmail.com&actionButton=1](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit?userstoinvite=chuygarcia92@gmail.com&actionButton=1)
+Stewards' Council! Come one, come all. [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
 
@@ -6768,7 +6680,7 @@ Stewards Call Reminder BOT 29-Sep-21 12:32 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -6857,7 +6769,7 @@ Oh hi Tam, thanks for clarifying for me here. I want to acknowledge that the not
 
 _30-Sep-21 02:39 AM_:
 
-Hey @Stewards ! Just a gentle reminder to update your slides in the agenda for the Community Call later. Let me know if you need help! [https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+Hey @Stewards ! Just a gentle reminder to update your slides in the agenda for the Community Call later. Let me know if you need help! [https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -6869,7 +6781,7 @@ COMMUNITY CALL 51 Weekly updates from the TEC SEPTEMBER 30 tecommons.org General
 
 _30-Sep-21 12:03 PM_:
 
-Calling all @Stewards to the Sprint Retrospective! [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#)
+Calling all @Stewards to the Sprint Retrospective! [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -7136,7 +7048,7 @@ hey @Stewards could you kindly update this board of what kind of help is needed 
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-[https://docs.google.com/document/d/1hkbt8R8BlHWsLd5OHHqZ-hMmH8dmkDAoY9c7J2ZtRc0/edit](https://docs.google.com/document/d/1hkbt8R8BlHWsLd5OHHqZ-hMmH8dmkDAoY9c7J2ZtRc0/edit)
+[https://docs.google.com/document/d/1hkbt8R8BlHWsLd5OHHqZ-hMmH8dmkDAoY9c7J2ZtRc0
 
 TEC Working Groups Wishlist for New Contributors
 
@@ -7162,7 +7074,7 @@ en el canal de recording
 
 _06-Oct-21 12:16 PM_:
 
-Calling all @Stewards !! We're going to kick off our weekly today a little different than ususal. We'll be reading the MVV and then passing around to each to share their own understanding / interpretation in their own words. Here's our agenda. See you in an hour! [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#)
+Calling all @Stewards !! We're going to kick off our weekly today a little different than ususal. We'll be reading the MVV and then passing around to each to share their own understanding / interpretation in their own words. Here's our agenda. See you in an hour! [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -7218,7 +7130,7 @@ Stewards Call Reminder BOT 06-Oct-21 12:30 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -7245,7 +7157,7 @@ Hey @Stewards! Sending a gentle reminder to update your slides in the agenda for
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -7279,7 +7191,7 @@ We are announcing new beta features within GitHub Issues to connect your plannin
 
 _07-Oct-21 12:00 PM_:
 
-Calling all @Stewards to our second ever Council! Agenda here: [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#heading=h.8qp81d7cxnsn](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#heading=h.8qp81d7cxnsn)
+Calling all @Stewards to our second ever Council! Agenda here: [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
 
@@ -7325,7 +7237,7 @@ Found it
 
 _08-Oct-21 02:04 PM_:
 
-[https://docs.google.com/document/d/1RXP15heml2DRd0zVXLUkBAQ9upt1fI-wrkZkqprb99w/edit](https://docs.google.com/document/d/1RXP15heml2DRd0zVXLUkBAQ9upt1fI-wrkZkqprb99w/edit)
+[https://docs.google.com/document/d/1RXP15heml2DRd0zVXLUkBAQ9upt1fI-wrkZkqprb99w
 
 TEC session on proposing an initial buy-in
 
@@ -7416,7 +7328,7 @@ Also! The Mint/Burn TECH vote cannot be executed because the TEC Hatch DAO's Vot
 
 _12-Oct-21 09:23 AM_:
 
-@mitch (🍔, 🍔) @griff (💜, 💜) @Juankbell @Zeptimus - [https://docs.google.com/document/d/1RXP15heml2DRd0zVXLUkBAQ9upt1fI-wrkZkqprb99w/edit](https://docs.google.com/document/d/1RXP15heml2DRd0zVXLUkBAQ9upt1fI-wrkZkqprb99w/edit)
+@mitch (🍔, 🍔) @griff (💜, 💜) @Juankbell @Zeptimus - [https://docs.google.com/document/d/1RXP15heml2DRd0zVXLUkBAQ9upt1fI-wrkZkqprb99w
 
 TEC session on proposing an initial buy-in
 
@@ -7478,7 +7390,7 @@ Stewards Call Reminder BOT 13-Oct-21 12:32 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -7541,7 +7453,7 @@ Oh wait... This is something I can vote on, right? Loading now.
 
 _13-Oct-21 02:44 PM_:
 
-hey @natesuits and others interested, here's the spreadsheet we worked on last night regarding the buy-in math! GL! [https://docs.google.com/spreadsheets/d/12XdtMMmp4ONaKQUiwrrZfQd1O48gDXNMxt7Wf3QFofI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/12XdtMMmp4ONaKQUiwrrZfQd1O48gDXNMxt7Wf3QFofI/edit?usp=sharing)
+hey @natesuits and others interested, here's the spreadsheet we worked on last night regarding the buy-in math! GL! [https://docs.google.com/spreadsheets/d/12XdtMMmp4ONaKQUiwrrZfQd1O48gDXNMxt7Wf3QFofI
 
 Buy-in Proposal math
 
@@ -7588,7 +7500,7 @@ Hello @Stewards! Kindly update your slides in the agenda for the Community Call 
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -7739,7 +7651,7 @@ ALOYSIOUS
 
 _16-Oct-21 03:31 AM_:
 
-gm @ALOYSIOUS ! New working groups form rather organically. There is no formal proposal needed and we have a checklist (thanks to @Vyvy-vi and @freshelle) that anyone can use to launch a new WG. It can use some refinement but it does contain the pieces of work to be done for a smoother integration of the new WG. [https://docs.google.com/document/d/19CgtAf9pVzUApcduzprwE_1M2lsaNG6wvSBUHEmEKJs/edit](https://docs.google.com/document/d/19CgtAf9pVzUApcduzprwE_1M2lsaNG6wvSBUHEmEKJs/edit) Nominations for new Stewards have come from within the Stewards WG. So a Steward would make a nomination and then the nomination would be confirmed by another Steward. The nomination can also be blocked. I'm dropping the Stewards WG manifesto here. [https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA/edit#](https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA/edit#)
+gm @ALOYSIOUS ! New working groups form rather organically. There is no formal proposal needed and we have a checklist (thanks to @Vyvy-vi and @freshelle) that anyone can use to launch a new WG. It can use some refinement but it does contain the pieces of work to be done for a smoother integration of the new WG. [https://docs.google.com/document/d/19CgtAf9pVzUApcduzprwE_1M2lsaNG6wvSBUHEmEKJs
 
 Checklist for Creating a New Working Groups (TEC)
 
@@ -7766,7 +7678,7 @@ _17-Oct-21 09:42 AM_:
 
 ) We need to pump out this proposal ASAP for advice and ratification
 
-[https://docs.google.com/document/d/1yzR1o6sP9Gtjnh6VJA-DbsD9WGHxP4i5hjy6TS14a_s/edit](https://docs.google.com/document/d/1yzR1o6sP9Gtjnh6VJA-DbsD9WGHxP4i5hjy6TS14a_s/edit)
+[https://docs.google.com/document/d/1yzR1o6sP9Gtjnh6VJA-DbsD9WGHxP4i5hjy6TS14a_s
 
 (edited)
 
@@ -7817,7 +7729,7 @@ i wont go bed until i finish my part today
 
 _18-Oct-21 05:56 PM_:
 
-@mitch (🍔, 🍔) [https://docs.google.com/document/d/1FuyhHAEcYJ6lGzs9F-KQa472h2wql_une73qBVZxR4E/edit#](https://docs.google.com/document/d/1FuyhHAEcYJ6lGzs9F-KQa472h2wql_une73qBVZxR4E/edit#) all your suggestion were included let me know if it looks better now
+@mitch (🍔, 🍔) [https://docs.google.com/document/d/1FuyhHAEcYJ6lGzs9F-KQa472h2wql_une73qBVZxR4E
 
 With this proposal we propose with this first buy to split those fu...
 
@@ -7871,7 +7783,7 @@ Stewards Call Reminder BOT 20-Oct-21 12:33 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -7906,7 +7818,7 @@ Hi @Stewards! Just a gentle reminder to update your slides in the agenda for the
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -7970,7 +7882,7 @@ Stewards Call Reminder BOT 27-Oct-21 12:06 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -7991,7 +7903,7 @@ Hi @Stewards! Just a gentle reminder to update your slides in the agenda for the
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -8091,7 +8003,7 @@ Happy Sprint Planning day, @Stewards! Today, Sprint 21!
 
 Our agenda!
 
-[https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#)
+[https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 (edited)
 
@@ -8615,7 +8527,7 @@ solsista
 
 _03-Nov-21 04:29 AM_:
 
-Thanks for these insights, @solsista. The original time commitments does indeed feel low and agree there is a difference between those Stewards that are more involved in day-to-day versus those leading more autonomous WGs like 0mega. These ideas are being fleshed out in the Stewards WG funding proposal. For example, WG Coordination Leads (WGCL) have min of 10 hours/wk expected as they are expected to particiapte in our coordination events. Most actually spend multiples of that. I welcome any thought or comments you want to drop in here as we think about how to fund the efforts of Stewards and the coordination efforts made. There are still some pieces to be better thought through. [https://docs.google.com/document/d/1Df96GptjepEDRJCK4bI6BCnr0KfQNaPpVsMLCCb6qwY/edit#](https://docs.google.com/document/d/1Df96GptjepEDRJCK4bI6BCnr0KfQNaPpVsMLCCb6qwY/edit#)
+Thanks for these insights, @solsista. The original time commitments does indeed feel low and agree there is a difference between those Stewards that are more involved in day-to-day versus those leading more autonomous WGs like 0mega. These ideas are being fleshed out in the Stewards WG funding proposal. For example, WG Coordination Leads (WGCL) have min of 10 hours/wk expected as they are expected to particiapte in our coordination events. Most actually spend multiples of that. I welcome any thought or comments you want to drop in here as we think about how to fund the efforts of Stewards and the coordination efforts made. There are still some pieces to be better thought through. [https://docs.google.com/document/d/1Df96GptjepEDRJCK4bI6BCnr0KfQNaPpVsMLCCb6qwY
 
 Steward WG Funding
 
@@ -8689,7 +8601,7 @@ thanks for sharing tam
 
 _03-Nov-21 10:49 AM_:
 
-Calling all @Stewards ! Please come to today's Stewards weekly if you can. Instead of starting with a temperature check, we will be starting with a discussion about the nomination options for the initial buy-in multisig. @griff (💜, 💜) has volunteered to mediate the session and we will hopefully have as many Stewards as can come for that 15-20 minute period. Thank you! Here's our agenda: [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#)
+Calling all @Stewards ! Please come to today's Stewards weekly if you can. Instead of starting with a temperature check, we will be starting with a discussion about the nomination options for the initial buy-in multisig. @griff (💜, 💜) has volunteered to mediate the session and we will hopefully have as many Stewards as can come for that 15-20 minute period. Thank you! Here's our agenda: [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -8744,7 +8656,7 @@ Stewards Call Reminder BOT 03-Nov-21 12:06 PM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -8805,7 +8717,7 @@ Hey @Stewards, it's that time again! Kindly update your slides in the agenda for
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -8817,7 +8729,7 @@ COMMUNITY CALL 56 Weekly updates from the TEC NOVEMBER 4 tecommons.org General V
 
 _04-Nov-21 01:03 PM_:
 
-Also - @Stewards it's time for our Council! [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#)
+Also - @Stewards it's time for our Council! [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
 
@@ -8895,7 +8807,7 @@ Tam2140
 
 [Also - @Stewards it's time for our Council!](about:blank#)
 
-[https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#)
+[https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -8907,7 +8819,7 @@ can we pin this? super relevant topics
 
 _05-Nov-21 06:39 AM_:
 
-The main objective of the Community Stewards WG is to provide visibility across all of the separate work streams such that all Stewards walk forward together in lockstep to reach our high level TEC goals. Our weekly meetings are a place to check-in on the temperature of the community, to resolve blockers, to raise questions that affect the Stewards or the members of our community and to solve them with the collective intelligence. We follow a Scrum framework and have a 2-week Sprint cadence. WG Lead: @Tam2140 Discussions happen on #stewards channel All calls happen on #stewards voice channel Weekly call: Tuesday at 7pm CET Council call: Every other Thursday at 6pm CET Sprint Retrospective: Every other Thursday at 6pm CET Sprint Planning: Every other Friday at 6pm CET Stewards Manifesto [https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA/edit](https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA/edit) Stewards Agenda [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit) Stewards Council Agenda [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#) Sprint Board [https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322) (edited)
+The main objective of the Community Stewards WG is to provide visibility across all of the separate work streams such that all Stewards walk forward together in lockstep to reach our high level TEC goals. Our weekly meetings are a place to check-in on the temperature of the community, to resolve blockers, to raise questions that affect the Stewards or the members of our community and to solve them with the collective intelligence. We follow a Scrum framework and have a 2-week Sprint cadence. WG Lead: @Tam2140 Discussions happen on #stewards channel All calls happen on #stewards voice channel Weekly call: Tuesday at 7pm CET Council call: Every other Thursday at 6pm CET Sprint Retrospective: Every other Thursday at 6pm CET Sprint Planning: Every other Friday at 6pm CET Stewards Manifesto [https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA
 
 Community Stewards Working Group Manifesto
 
@@ -9003,7 +8915,7 @@ Stewards Call Reminder BOT 10-Nov-21 11:06 AM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -9034,7 +8946,7 @@ Hello @Stewards, just a gentle reminder to update your slides in the agenda for 
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -9070,7 +8982,7 @@ Thanks for the heads-up! @Edu - TEC Steward. is also going to miss it today! We 
 
 _11-Nov-21 12:06 PM_:
 
-Retro agenda: [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#heading=h.36a0sxtqi7zf](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#heading=h.36a0sxtqi7zf)
+Retro agenda: [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -9126,7 +9038,7 @@ yeah! enjoy ur holidays buddy make pictures with the colombian crew
 
 _12-Nov-21 11:56 AM_:
 
-Got to hand it to @Lauren and her prescience in "feeling 22"! Can you feel it!? **Sprint 22** planning happening in 5 minutes. Calling all @Stewards! [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#)
+Got to hand it to @Lauren and her prescience in "feeling 22"! Can you feel it!? **Sprint 22** planning happening in 5 minutes. Calling all @Stewards! [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -9154,7 +9066,7 @@ Tam2140
 
 [Got to hand it to @Lauren and her prescience in "feeling 22"! Can you feel it!? **Sprint 22** planning happening in 5 minutes. Calling all @Stewards!](about:blank#)
 
-[https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#)
+[https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 <h3>Lauren <img src="https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png" width=25 height=25></h3>
 
@@ -9299,7 +9211,7 @@ Yeah, very cool! We tested it our for Communitas yesterday. It does not yet supp
 
 _17-Nov-21 06:22 AM_:
 
-Hello @Stewards can I ask that you have a look at the Communitas WG funding proposal before we post it on the Forum (today!). It's the top half of this document, you can ignore the drafting section on the bottom!! [https://docs.google.com/document/d/1uAbihCPiVAEMerkmVwP77TMXENkKUmiIx5pSyZMLw8o/edit#](https://docs.google.com/document/d/1uAbihCPiVAEMerkmVwP77TMXENkKUmiIx5pSyZMLw8o/edit#)
+Hello @Stewards can I ask that you have a look at the Communitas WG funding proposal before we post it on the Forum (today!). It's the top half of this document, you can ignore the drafting section on the bottom!! [https://docs.google.com/document/d/1uAbihCPiVAEMerkmVwP77TMXENkKUmiIx5pSyZMLw8o
 
 Communitas WG Funding
 
@@ -9323,7 +9235,7 @@ Stewards Call Reminder BOT 17-Nov-21 11:06 AM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -9410,7 +9322,7 @@ Thanks for hopping in!
 
 _18-Nov-21 07:10 AM_:
 
-Hello all @Stewards and all interested folk! This is a draft of the Steward WG funding proposal that I hope to post to the forum tonight or tomorrow after getting a round of advice process from this WG. Please do help us make this the best proposal it can be! [https://docs.google.com/document/d/1OFfh2OJjR4B7wiXVCklsT-Bjq_8clBW1WWommLTvkSc/edit](https://docs.google.com/document/d/1OFfh2OJjR4B7wiXVCklsT-Bjq_8clBW1WWommLTvkSc/edit)
+Hello all @Stewards and all interested folk! This is a draft of the Steward WG funding proposal that I hope to post to the forum tonight or tomorrow after getting a round of advice process from this WG. Please do help us make this the best proposal it can be! [https://docs.google.com/document/d/1OFfh2OJjR4B7wiXVCklsT-Bjq_8clBW1WWommLTvkSc
 
 Final draft for Forum: Stewards WG funding
 
@@ -9427,7 +9339,7 @@ Original thinking can be found in the drafting doc Steward WG Funding Key inform
 _18-Nov-21 10:26 AM_:
 Hello @Stewards, Looking forward to a great discussion in the Council today on "Funding, parameters, runway and other expectations"
 
-[https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#heading=h.23sk6ifoe59g](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#heading=h.23sk6ifoe59g)
+[https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 Thanks @natesuits for dropping in such good insight already! Anyone else? Have at it! I added some bullets to help guide the discussion. LFG!
 
@@ -9524,7 +9436,7 @@ Stewards Call Reminder BOT 24-Nov-21 11:06 AM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -9539,7 +9451,7 @@ Hey @Stewards, it's that time again! Kindly update your slides in the agenda for
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -9555,7 +9467,7 @@ iviangita
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9571,7 +9483,7 @@ thanks Ivy! happy you're back hope you had an amazing time off!
 
 _25-Nov-21 12:04 PM_:
 
-Calling all @Stewards for a moment of celebration and reflection in our Sprint Retrospective! [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit)
+Calling all @Stewards for a moment of celebration and reflection in our Sprint Retrospective! [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -9742,7 +9654,7 @@ Stewards Call Reminder BOT 01-Dec-21 11:06 AM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -9773,7 +9685,7 @@ Please fill out you availability in this doodle poll and let's set one up for ne
 
 _01-Dec-21 12:02 PM_:
 
-@Stewards please have a look over the updated Stewards' WG Manifesto and leave any comments you may have. It is still considered in draft but hope to have it final by the end of next week. [https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA/edit#](https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA/edit#)
+@Stewards please have a look over the updated Stewards' WG Manifesto and leave any comments you may have. It is still considered in draft but hope to have it final by the end of next week. [https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA
 
 Community Stewards Working Group Manifesto
 
@@ -9801,7 +9713,7 @@ Hmm I was thinking we could use the Council hour tomorrow. We had a topic to del
 
 _01-Dec-21 12:38 PM_:
 
-We received 9 answers to the community call survey, no steward participated, including myself, is this something we would like to give our opinion too? [https://docs.google.com/forms/d/1E6E-G7LMRBjsfju_jbVnUfI5FSQp2EmvxxRF0Qkua58/edit](https://docs.google.com/forms/d/1E6E-G7LMRBjsfju_jbVnUfI5FSQp2EmvxxRF0Qkua58/edit) If not we should close it and take the existing feedback, if we think its important maybe leave it open for a couple more days and implement changes for the next community call
+We received 9 answers to the community call survey, no steward participated, including myself, is this something we would like to give our opinion too? [https://docs.google.com/forms/d/1E6E-G7LMRBjsfju_jbVnUfI5FSQp2EmvxxRF0Qkua58
 
 Community Calls Survey
 
@@ -9976,7 +9888,7 @@ Yay!
 
 _02-Dec-21 12:03 PM_:
 
-@Stewards Council agenda: [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#)
+@Stewards Council agenda: [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
 
@@ -10073,7 +9985,7 @@ Stewards Call Reminder BOT 08-Dec-21 11:06 AM
 
 **TEC Stewards Weekly Call**
 
-TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit&sa=D&source=calendar&usd=2&usg=AOvVaw30m1QQElvkqA3zvqkV4EMJ) Call in Stewards Discord Voice channel: [https://discord.gg/bkx7DAgTN6](https://discord.gg/bkx7DAgTN6)
+TEC Community Stewards [Agenda & Notes](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Time:
 
@@ -10106,7 +10018,7 @@ Hey @Stewards just a gentle reminder to update your slides in the agenda for the
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -10132,7 +10044,7 @@ _09-Dec-21 12:03 PM_:
 
 ok, Livia. Thanks for the heads up!
 
-Calling all @Stewards and anyone else interested to our Sprint Retrospective! [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit)
+Calling all @Stewards and anyone else interested to our Sprint Retrospective! [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -10168,7 +10080,7 @@ Project Management and Software Development with GitHub | ZenHub
 
 _10-Dec-21 12:03 PM_:
 
-Calling all @Stewards to the best day of all, Sprint Planning! [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#)
+Calling all @Stewards to the best day of all, Sprint Planning! [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -10249,7 +10161,7 @@ just putting it out there in case it has any importance going forward, the token
 
 _15-Dec-21 01:22 PM_:
 
-[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit)
+[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -10294,7 +10206,7 @@ Hey @Stewards, it's that time again! Kindly update your slides in the agenda for
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -10318,7 +10230,7 @@ I’m sorry! I would have made this shorter but I ran out of time! (A phrase att
 
 _16-Dec-21 12:03 PM_:
 
-Calling all @Stewards to the Council! Agenda: [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#)
+Calling all @Stewards to the Council! Agenda: [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
 
@@ -10496,7 +10408,7 @@ This is the story of one small community in the rural Philippines that turned to
 _23-Dec-21 12:00 PM_:
 Sprint Retro agenda!
 
-[https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit)
+[https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 Calling all @Stewards and anyone else that wants to hop in
 
@@ -10748,7 +10660,7 @@ DAOhaus is a no code platform for Moloch DAOs.
 
 _29-Dec-21 01:28 PM_:
 
-[https://docs.google.com/spreadsheets/d/1L5AlTXSSJm0WNlB2rpoKOOKTEdW1ayf4NeUb7jYRJIg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1L5AlTXSSJm0WNlB2rpoKOOKTEdW1ayf4NeUb7jYRJIg/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1L5AlTXSSJm0WNlB2rpoKOOKTEdW1ayf4NeUb7jYRJIg
 
 Commons Upgrade Proposals (WIP)
 
@@ -10760,7 +10672,7 @@ Sheet1 Proposal Title,Module #1 TOKEN FREEZE & TOKEN THAW,Module #2 AUGMENTED BO
 
 _29-Dec-21 01:34 PM_:
 
-[https://docs.google.com/document/d/1YVNzha6ulDEEA22iZrw-OtwbVN1eIgT-6Sv1_6f0fAQ/edit](https://docs.google.com/document/d/1YVNzha6ulDEEA22iZrw-OtwbVN1eIgT-6Sv1_6f0fAQ/edit)
+[https://docs.google.com/document/d/1YVNzha6ulDEEA22iZrw-OtwbVN1eIgT-6Sv1_6f0fAQ
 
 Proposal panfl.
 
@@ -10768,7 +10680,7 @@ Proposal panfl.
 
 _29-Dec-21 01:46 PM_:
 
-[https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit?usp=sharing](https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y
 
 Commons Upgrade Proposal
 
@@ -10784,7 +10696,7 @@ Commons Upgrade Proposal
 
 natesuits
 
-[https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit?usp=sharing](https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y
 
 <h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
@@ -10799,7 +10711,7 @@ Hey @Stewards, just a gentle reminder to update your slides in the agenda for th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -11000,7 +10912,7 @@ Yes! But we need one person for each debate... it doesnt have to be the same per
 
 _05-Jan-22 01:01 PM_:
 
-Agenda for our weekly is ready! See ya'll @Stewards now! [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#)
+Agenda for our weekly is ready! See ya'll @Stewards now! [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -11030,7 +10942,7 @@ Check in & temperature check on the community Commons Upgrade & expectation for 
 
 _05-Jan-22 01:19 PM_:
 
-Voter pamphlet: [https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit#slide=id.g10a24d77ef3_5_0](https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit#slide=id.g10a24d77ef3_5_0)
+Voter pamphlet: [https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y
 
 Commons Upgrade Proposal
 
@@ -11074,7 +10986,7 @@ Since people are putting up $ for proposal deposit, challenge deposit etc... and
 
 _05-Jan-22 01:57 PM_:
 
-[https://docs.google.com/spreadsheets/d/1Ud5yubetILtzOOcE7xqxefG0SodvXi0Xv6RgH-pTT70/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Ud5yubetILtzOOcE7xqxefG0SodvXi0Xv6RgH-pTT70/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1Ud5yubetILtzOOcE7xqxefG0SodvXi0Xv6RgH-pTT70
 
 TEC Debate Reps
 
@@ -11148,7 +11060,7 @@ Hey @Stewards, it's that time again! Kindly update your slides in the agenda for
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -11208,7 +11120,7 @@ Scalable, secure, cross-device and enterprise-ready team collaboration whiteboar
 
 _06-Jan-22 01:00 PM_:
 
-[https://docs.google.com/spreadsheets/d/1p5cmCkY5ys1uR8pqyilAz1-ByTtNY6wUjN5Kqac9vME/edit#gid=0](https://docs.google.com/spreadsheets/d/1p5cmCkY5ys1uR8pqyilAz1-ByTtNY6wUjN5Kqac9vME/edit#gid=0)
+[https://docs.google.com/spreadsheets/d/1p5cmCkY5ys1uR8pqyilAz1-ByTtNY6wUjN5Kqac9vME
 
 Timeline for Launch
 
@@ -11241,7 +11153,7 @@ working on it! should be able to share tomorrow
 
 _07-Jan-22 12:09 PM_:
 
-Here we go @Stewards ---> Sprint 25 Planning [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit)
+Here we go @Stewards ---> Sprint 25 Planning [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -11339,7 +11251,7 @@ Real-time meetings by Google. Using your browser, share your video, desktop, and
 
 _12-Jan-22 01:32 PM_:
 
-[https://docs.google.com/spreadsheets/d/1p5cmCkY5ys1uR8pqyilAz1-ByTtNY6wUjN5Kqac9vME/edit#gid=0](https://docs.google.com/spreadsheets/d/1p5cmCkY5ys1uR8pqyilAz1-ByTtNY6wUjN5Kqac9vME/edit#gid=0)
+[https://docs.google.com/spreadsheets/d/1p5cmCkY5ys1uR8pqyilAz1-ByTtNY6wUjN5Kqac9vME
 
 Timeline for Launch
 
@@ -11379,7 +11291,7 @@ Twitter
 
 _12-Jan-22 02:08 PM_:
 
-@Stewards and everyone! The Council's topic for open discussion tmorrow is going to be: **Importance of TEC culture** Here is the Agenda: [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#heading=h.gejlkfgcpfqb](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#heading=h.gejlkfgcpfqb) Thurs., Jan 13 at 7pm CET (Note the change from the usual 6pm timeslot) This call, like all our calls, are open to everyone in the community. Please feel free to join if you want to share your perspective or just listen in. (edited)
+@Stewards and everyone! The Council's topic for open discussion tmorrow is going to be: **Importance of TEC culture** Here is the Agenda: [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
 
@@ -11460,7 +11372,7 @@ Thank you @Jeremy&TheGospelOfChange!
 
 _19-Jan-22 01:03 PM_:
 
-Stewards agenda, @Stewards , and anyone who would like to join! [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit)
+Stewards agenda, @Stewards , and anyone who would like to join! [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -11519,7 +11431,7 @@ Hey @Stewards, just a gentle reminder to update your slides in the agenda for th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -11535,7 +11447,7 @@ COMMUNITY CALL 66 Weekly updates from the TEC JANUARY 20 tecommons.org General V
 
 _20-Jan-22 12:00 PM_:
 
-Ready to Retrospective, @Stewards !? [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#)
+Ready to Retrospective, @Stewards !? [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -11591,7 +11503,7 @@ Gardens
 
 _21-Jan-22 12:06 PM_:
 
-Calling all @Stewards for Sprint planning! Agenda: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#)
+Calling all @Stewards for Sprint planning! Agenda: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -11711,7 +11623,7 @@ Check in & temperature check on the community Upcoming TEA X TEC Intro to TE, ne
 
 _27-Jan-22 12:01 PM_:
 
-@Stewards Council agenda, folks!! [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#)
+@Stewards Council agenda, folks!! [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
 
@@ -11884,7 +11796,7 @@ ok, we will have someone there!
 
 For our @Stewards call today, the agenda:
 
-[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#)
+[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -11944,7 +11856,7 @@ Hey @Stewards, just a gentle reminder to update your slides in the agenda for th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -11960,7 +11872,7 @@ COMMUNITY CALL 67 Weekly updates from the TEC FEBRUARY 3 tecommons.org General V
 
 _03-Feb-22 10:17 AM_:
 
-For our Retrospective today, @Stewards : [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#) (Praise to @iviangita for always having this ready for us!)
+For our Retrospective today, @Stewards : [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -12052,7 +11964,7 @@ Hi @Letty as it turns out it was nothing quite so nefarious at all. That tweet w
 
 _04-Feb-22 10:22 AM_:
 
-Are ya'll @Stewards ready for another Sprint Planning!? Agenda: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#)
+Are ya'll @Stewards ready for another Sprint Planning!? Agenda: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 ![https://cdn.discordapp.com/attachments/810180622634844206/939179238966312980/sprint_planning.gif](https://cdn.discordapp.com/attachments/810180622634844206/939179238966312980/sprint_planning.gif)
 
@@ -12176,7 +12088,7 @@ Agenda for our weekly, @Stewards
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50>
 
-[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit)
+[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -12331,7 +12243,7 @@ Hey @Stewards, it's that time again! Kindly update your slides in the agenda for
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -12343,7 +12255,7 @@ COMMUNITY CALL 69 Weekly updates from the TEC FEBRUARY 10 tecommons.org General 
 
 _10-Feb-22 10:05 AM_:
 
-**Power dynamics** is the subject for the @Stewards Council today. All are invited. Here is the agenda: [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#heading=h.o4v7xehincw0](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#heading=h.o4v7xehincw0)
+**Power dynamics** is the subject for the @Stewards Council today. All are invited. Here is the agenda: [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
 
@@ -12494,7 +12406,7 @@ Hey @Stewards, just a gentle reminder to update your slides in the agenda for th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -12506,7 +12418,7 @@ COMMUNITY CALL 70 Weekly updates from the TEC FEBRUARY 17 tecommons.org General 
 
 _18-Feb-22 12:26 PM_:
 
-[https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit?usp=sharing](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit?usp=sharing)
+[https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -12540,7 +12452,7 @@ TEC Source is here to provide easy access to active and archived documents withi
 
 _23-Feb-22 01:25 PM_:
 
-[https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit?usp=sharing](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit?usp=sharing)
+[https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
 
@@ -12649,11 +12561,11 @@ I'm trying to build a bridge between DAOs and Liberating Structures community, b
 
 I've been working on some onboarding docs for both directions. web3 meet LS
 
-[https://docs.google.com/document/d/12piML3DM6vKN_AeHPbLGlVuNBN60UGxa3x3Oiq9UiEI/edit](https://docs.google.com/document/d/12piML3DM6vKN_AeHPbLGlVuNBN60UGxa3x3Oiq9UiEI/edit)
+[https://docs.google.com/document/d/12piML3DM6vKN_AeHPbLGlVuNBN60UGxa3x3Oiq9UiEI
 
 LS meet web3
 
-[https://docs.google.com/document/d/1YoxsMvRQ7znuSzN0ad5J09RDrqsEak8boPZMHTSyC7U/edit](https://docs.google.com/document/d/1YoxsMvRQ7znuSzN0ad5J09RDrqsEak8boPZMHTSyC7U/edit)
+[https://docs.google.com/document/d/1YoxsMvRQ7znuSzN0ad5J09RDrqsEak8boPZMHTSyC7U
 
 What I Need From You: Come to the event! Help me get the word out! Advice and counsel! Feedback on these docs: what is least clear? How can I green pill these facilitation nerds? This feels like an really really really important thing for me to be doing. Which kind of stresses me out, as I want to get things "right" (the very first time lol
 
@@ -12695,11 +12607,11 @@ Jeremy&TheGospelOfChange
 
 I've been working on some onboarding docs for both directions. web3 meet LS
 
-[https://docs.google.com/document/d/12piML3DM6vKN_AeHPbLGlVuNBN60UGxa3x3Oiq9UiEI/edit](https://docs.google.com/document/d/12piML3DM6vKN_AeHPbLGlVuNBN60UGxa3x3Oiq9UiEI/edit)
+[https://docs.google.com/document/d/12piML3DM6vKN_AeHPbLGlVuNBN60UGxa3x3Oiq9UiEI
 
 LS meet web3
 
-[https://docs.google.com/document/d/1YoxsMvRQ7znuSzN0ad5J09RDrqsEak8boPZMHTSyC7U/edit](https://docs.google.com/document/d/1YoxsMvRQ7znuSzN0ad5J09RDrqsEak8boPZMHTSyC7U/edit)
+[https://docs.google.com/document/d/1YoxsMvRQ7znuSzN0ad5J09RDrqsEak8boPZMHTSyC7U
 
 What I Need From You: Come to the event! Help me get the word out! Advice and counsel! Feedback on these docs: what is least clear? How can I green pill these facilitation nerds? This feels like an really really really important thing for me to be doing. Which kind of stresses me out, as I want to get things "right" (the very first time lol
 
@@ -12743,11 +12655,11 @@ Jeremy&TheGospelOfChange
 
 I've been working on some onboarding docs for both directions. web3 meet LS
 
-[https://docs.google.com/document/d/12piML3DM6vKN_AeHPbLGlVuNBN60UGxa3x3Oiq9UiEI/edit](https://docs.google.com/document/d/12piML3DM6vKN_AeHPbLGlVuNBN60UGxa3x3Oiq9UiEI/edit)
+[https://docs.google.com/document/d/12piML3DM6vKN_AeHPbLGlVuNBN60UGxa3x3Oiq9UiEI
 
 LS meet web3
 
-[https://docs.google.com/document/d/1YoxsMvRQ7znuSzN0ad5J09RDrqsEak8boPZMHTSyC7U/edit](https://docs.google.com/document/d/1YoxsMvRQ7znuSzN0ad5J09RDrqsEak8boPZMHTSyC7U/edit)
+[https://docs.google.com/document/d/1YoxsMvRQ7znuSzN0ad5J09RDrqsEak8boPZMHTSyC7U
 
 What I Need From You: Come to the event! Help me get the word out! Advice and counsel! Feedback on these docs: what is least clear? How can I green pill these facilitation nerds? This feels like an really really really important thing for me to be doing. Which kind of stresses me out, as I want to get things "right" (the very first time lol
 
@@ -12813,7 +12725,7 @@ Stewards monthly compensation thread
 _02-Mar-22 12:47 PM_:
 For our @Stewards weekly call today, here is the agenda:
 
-[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit)
+[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 ✨
 
@@ -12876,7 +12788,7 @@ Hey @Stewards, it's that time again! Kindly update your slides in the agenda for
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -12888,7 +12800,7 @@ COMMUNITY CALL 72 Weekly updates from the TEC MARCH 3 tecommons.org General Voic
 
 _03-Mar-22 12:02 PM_:
 
-Woo woo time to Retrospective! See ya'll there, @Stewards! Here's the agenda: [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#)
+Woo woo time to Retrospective! See ya'll there, @Stewards! Here's the agenda: [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -12918,7 +12830,7 @@ _03-Mar-22 01:00 PM_:
 
 _04-Mar-22 12:04 PM_:
 
-Are you ready for Sprint Planning, @Stewards !? [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit)
+Are you ready for Sprint Planning, @Stewards !? [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -12946,7 +12858,7 @@ Project Management and Software Development with GitHub | ZenHub
 
 _07-Mar-22 03:20 PM_:
 
-In our Communitas call today, we agreed that it made sense to share this document with Stewards and even ping a few of you who might be particularly interested ( @liviade, @Zeptimus, @griff (💜, 💜), @chuygarcia.eth, @natesuits, @Juankbell, @akrtws (TE Academy) ). This doc started as a plan for Communitas but the first half of it evolved into a bigger exploration of how the TEC relates to it people over time. This bigger frame is intentionally ambitious - not a concrete plan so much as a framework that can serve as catalyst for conversation, and then--if it makes sense-- turned into actual plans. I recommend commenting directly in the document as a first step in the conversation. Here it is: [https://docs.google.com/document/d/1U56cG2uAN2zPpDVEdDwVqlxjSFQMJ2KhDyrbCvdWvcc/edit?usp=sharing](https://docs.google.com/document/d/1U56cG2uAN2zPpDVEdDwVqlxjSFQMJ2KhDyrbCvdWvcc/edit?usp=sharing) (edited)
+In our Communitas call today, we agreed that it made sense to share this document with Stewards and even ping a few of you who might be particularly interested ( @liviade, @Zeptimus, @griff (💜, 💜), @chuygarcia.eth, @natesuits, @Juankbell, @akrtws (TE Academy) ). This doc started as a plan for Communitas but the first half of it evolved into a bigger exploration of how the TEC relates to it people over time. This bigger frame is intentionally ambitious - not a concrete plan so much as a framework that can serve as catalyst for conversation, and then--if it makes sense-- turned into actual plans. I recommend commenting directly in the document as a first step in the conversation. Here it is: [https://docs.google.com/document/d/1U56cG2uAN2zPpDVEdDwVqlxjSFQMJ2KhDyrbCvdWvcc
 
 The TEC and Its People
 
@@ -13097,7 +13009,7 @@ Hey @Stewards, just a gentle reminder to update your slides in the agenda for th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -13177,7 +13089,7 @@ Gideonro
 
 [In our Communitas call today, we agreed that it made sense to share this document with Stewards and even ping a few of you who might be particularly interested ( @liviade, @Zeptimus, @griff (💜, 💜), @chuygarcia.eth, @natesuits, @Juankbell, @akrtws (TE Academy) ). This doc started as a plan for Communitas but the first half of it evolved into a bigger exploration of how the TEC relates to it people over time. This bigger frame is intentionally ambitious - not a concrete plan so much as a framework that can serve as catalyst for conversation, and then--if it makes sense-- turned into actual plans. I recommend commenting directly in the document as a first step in the conversation. Here it is:](about:blank#)
 
-[https://docs.google.com/document/d/1U56cG2uAN2zPpDVEdDwVqlxjSFQMJ2KhDyrbCvdWvcc/edit?usp=sharing](https://docs.google.com/document/d/1U56cG2uAN2zPpDVEdDwVqlxjSFQMJ2KhDyrbCvdWvcc/edit?usp=sharing)
+[https://docs.google.com/document/d/1U56cG2uAN2zPpDVEdDwVqlxjSFQMJ2KhDyrbCvdWvcc
 
 (edited)
 
@@ -13257,7 +13169,7 @@ enti
 
 _11-Mar-22 02:37 PM_:
 
-[https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#)
+[https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
 
@@ -13348,7 +13260,7 @@ Hey @Stewards, it's that time again! Kindly update your slides in the agenda for
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -13431,7 +13343,7 @@ Appreciate the offer.
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50>
 
-Happy-o-meter when you find out it's time to do Sprint Planning in the TEC! Let's do this, @Stewards @Mert Ozd @Mount Manu !! Agenda : [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit)
+Happy-o-meter when you find out it's time to do Sprint Planning in the TEC! Let's do this, @Stewards @Mert Ozd @Mount Manu !! Agenda : [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 ![https://cdn.discordapp.com/attachments/810180622634844206/954422916504748113/happy.jpeg](https://cdn.discordapp.com/attachments/810180622634844206/954422916504748113/happy.jpeg)
 
@@ -13606,7 +13518,7 @@ Hey @Stewards, just a gentle reminder to update your slides in the agenda for th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -13618,7 +13530,7 @@ COMMUNITY CALL 75 Weekly updates from the TEC MARCH 24 tecommons.org General Voi
 
 _24-Mar-22 01:05 PM_:
 
-Agenda for our @Stewards Council: [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit) (edited)
+Agenda for our @Stewards Council: [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
 
@@ -13744,7 +13656,7 @@ Hey @Stewards, it's that time again! Kindly update your slides in the agenda for
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -13756,7 +13668,7 @@ COMMUNITY CALL 76 Weekly updates from the TEC MARCH 31 tecommons.org General Voi
 
 _31-Mar-22 12:01 PM_:
 
-Hey @Stewards, here's the Retro Agenda! [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#)
+Hey @Stewards, here's the Retro Agenda! [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -13804,7 +13716,7 @@ Yes ! It should be gnosis chain
 
 _01-Apr-22 12:00 PM_:
 
-Happy Sprint Planning @Stewards @Mount Manu @Mert Ozd and anyone that would like to join! About to get started, here is our agenda: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#)
+Happy Sprint Planning @Stewards @Mount Manu @Mert Ozd and anyone that would like to join! About to get started, here is our agenda: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -13834,7 +13746,7 @@ Tam2140
 
 [Happy Sprint Planning @Stewards @Mount Manu @Mert Ozd and anyone that would like to join! About to get started, here is our agenda:](about:blank#)
 
-[https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#)
+[https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
@@ -13914,7 +13826,7 @@ Hey @Stewards, just a gentle reminder to update your slides in the agenda for th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -13940,7 +13852,7 @@ Thanks @enti! I'm all-in for CV, but I also would like to see a greater diversit
 
 _12-Apr-22 07:18 AM_:
 
-Calling all @Stewards for our weekly today! Feel free to add anything to the agenda, here: [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#)
+Calling all @Stewards for our weekly today! Feel free to add anything to the agenda, here: [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -14011,7 +13923,7 @@ Hey @Stewards, it's that time again! Kindly update your slides in the agenda for
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -14023,7 +13935,7 @@ COMMUNITY CALL 78 Weekly updates from the TEC APRIL 14 tecommons.org General Voi
 
 _14-Apr-22 11:53 AM_:
 
-@Mount Manu @Mert Ozd @Stewards and any one else that would like to participate in the Sprint Retrospective. T minus 10 minutes. Here is the agenda: [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#heading=h.36a0sxtqi7zf](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#heading=h.36a0sxtqi7zf)
+@Mount Manu @Mert Ozd @Stewards and any one else that would like to participate in the Sprint Retrospective. T minus 10 minutes. Here is the agenda: [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -14053,7 +13965,7 @@ _14-Apr-22 03:05 PM_:
 
 _15-Apr-22 12:03 PM_:
 
-A gentle reminder to all Stewards @chuygarcia.eth @Zeptimus @liviade @solsista @Edu - TEC Steward. @mitch (🍔, 🍔) @natesuits @Juankbell @ygg_anderson @Lauren @Vyvy-vi @iviangita @griff (💜, 💜) : we're having our Sprint Planning call right now! Here are the agenda notes: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#heading=h.5ejmjxc5fte](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#heading=h.5ejmjxc5fte)
+A gentle reminder to all Stewards @chuygarcia.eth @Zeptimus @liviade @solsista @Edu - TEC Steward. @mitch (🍔, 🍔) @natesuits @Juankbell @ygg_anderson @Lauren @Vyvy-vi @iviangita @griff (💜, 💜) : we're having our Sprint Planning call right now! Here are the agenda notes: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -14169,7 +14081,7 @@ Hey @Stewards, just a gentle reminder to update your slides in the agenda for th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -14185,7 +14097,7 @@ COMMUNITY CALL 79 Weekly updates from the TEC APRIL 21 tecommons.org General Voi
 
 _26-Apr-22 01:01 PM_:
 
-Ready for our @Stewards weekly!? Here's the agenda: [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#heading=h.vdmf7cmcd2y5](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#heading=h.vdmf7cmcd2y5)
+Ready for our @Stewards weekly!? Here's the agenda: [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -14239,7 +14151,7 @@ Hey @Stewards, it's that time again! Kindly update your slides on the agenda for
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -14346,7 +14258,7 @@ Yep!
 
 _29-Apr-22 12:03 PM_:
 
-All the @Stewards and @Mert Ozd ready for Sprint Planning!? Open to anyone that enjoys planning out our next two weeks! Here is the agenda: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#)
+All the @Stewards and @Mert Ozd ready for Sprint Planning!? Open to anyone that enjoys planning out our next two weeks! Here is the agenda: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -14474,7 +14386,7 @@ We will bring it up in the Stewards call today and get back to you, @pat.zip (TE
 
 _03-May-22 12:59 PM_:
 
-Calling all @Stewards and community to join the Stewards weekly. Here is our agenda for today: [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#)
+Calling all @Stewards and community to join the Stewards weekly. Here is our agenda for today: [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -14520,11 +14432,11 @@ yes, thank you!!
 
 _05-May-22 06:10 AM_:
 
-Hey @Edu - TEC Steward. @natesuits - @Juankbell is looking for the latest deck to use for the Intro to TE today. Is there a newer version than this one? This one looks outdated to me! [https://docs.google.com/presentation/d/1itLeveA9vXmaN9hXVVELZ_i4oFklr8RZpSxE1E1Vhqc/edit#slide=id.g1090e4ecc01_0_33](https://docs.google.com/presentation/d/1itLeveA9vXmaN9hXVVELZ_i4oFklr8RZpSxE1E1Vhqc/edit#slide=id.g1090e4ecc01_0_33)
+Hey @Edu - TEC Steward. @natesuits - @Juankbell is looking for the latest deck to use for the Intro to TE today. Is there a newer version than this one? This one looks outdated to me! [https://docs.google.com/presentation/d/1itLeveA9vXmaN9hXVVELZ_i4oFklr8RZpSxE1E1Vhqc
 
 TEC Overview
 
-Speaker notes: [https://docs.google.com/document/d/1dj65yfX5BRmW_zg9HeETy2p3bs60RjhpQ-JOzVqARaM/edit](https://docs.google.com/document/d/1dj65yfX5BRmW_zg9HeETy2p3bs60RjhpQ-JOzVqARaM/edit) Presenting the TEC Advancing Token Engineering
+Speaker notes: [https://docs.google.com/document/d/1dj65yfX5BRmW_zg9HeETy2p3bs60RjhpQ-JOzVqARaM
 
 [https://lh5.googleusercontent.com/JU90dxVcFVT3JOlp6OyRJ5pXa3zxcj7ImSeXHh9UVcPKVL0g_jS57WiSIfIKOzrwMCxyH4UB7MBd0A=w1200-h630-p](https://lh5.googleusercontent.com/JU90dxVcFVT3JOlp6OyRJ5pXa3zxcj7ImSeXHh9UVcPKVL0g_jS57WiSIfIKOzrwMCxyH4UB7MBd0A=w1200-h630-p)
 
@@ -14534,7 +14446,7 @@ Tam2140
 
 [Hey @Edu - TEC Steward. @natesuits - @Juankbell is looking for the latest deck to use for the Intro to TE today. Is there a newer version than this one? This one looks outdated to me!](about:blank#)
 
-[https://docs.google.com/presentation/d/1itLeveA9vXmaN9hXVVELZ_i4oFklr8RZpSxE1E1Vhqc/edit#slide=id.g1090e4ecc01_0_33](https://docs.google.com/presentation/d/1itLeveA9vXmaN9hXVVELZ_i4oFklr8RZpSxE1E1Vhqc/edit#slide=id.g1090e4ecc01_0_33)
+[https://docs.google.com/presentation/d/1itLeveA9vXmaN9hXVVELZ_i4oFklr8RZpSxE1E1Vhqc
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -14546,7 +14458,7 @@ I use the orientation call deck! (edited)
 
 _05-May-22 12:01 PM_:
 
-Council agenda, @Stewards [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#heading=h.q3cq159x07p7](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#heading=h.q3cq159x07p7) (edited)
+Council agenda, @Stewards [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
 
@@ -14584,7 +14496,7 @@ Hope you enjoy this half vacation, @mitch (🍔, 🍔)!
 
 _10-May-22 01:01 PM_:
 
-@Stewards agenda for our weekly: [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#)
+@Stewards agenda for our weekly: [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -14639,7 +14551,7 @@ _10-May-22 02:51 PM_:
 
 <img src="https://twemoji.maxcdn.com/2/72x72/26a1.png" width=50 height=50>
 
-Asking all @Stewards for advice process on this Stewards WG proposal for May - June (3 months). I hope to post to the forum by Thursday and add to Gardens on Monday-ish. [https://docs.google.com/document/d/1uNK5X6g44JYYR94d6yx0MhYAbmSGoxVpsdh-ZXcKyXI/edit](https://docs.google.com/document/d/1uNK5X6g44JYYR94d6yx0MhYAbmSGoxVpsdh-ZXcKyXI/edit) Please pay special attention to "additional info to add" because that is where we propose to be paid in TEC.
+Asking all @Stewards for advice process on this Stewards WG proposal for May - June (3 months). I hope to post to the forum by Thursday and add to Gardens on Monday-ish. [https://docs.google.com/document/d/1uNK5X6g44JYYR94d6yx0MhYAbmSGoxVpsdh-ZXcKyXI
 
 May 2022 : Stewards WG funding
 
@@ -14664,7 +14576,7 @@ Hey @Stewards, just a gentle reminder to update your slides in the agenda for th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -14688,7 +14600,7 @@ The first 3-month funding covered Feb, Mar and April. This is a proposal for fun
 
 _12-May-22 12:02 PM_:
 
-Calling all @Stewards @Mount Manu @Mert Ozd other community members to the Sprint Retrospective!!! [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#heading=h.36a0sxtqi7zf](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#heading=h.36a0sxtqi7zf)
+Calling all @Stewards @Mount Manu @Mert Ozd other community members to the Sprint Retrospective!!! [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -14740,7 +14652,7 @@ oh.
 
 _13-May-22 12:03 PM_:
 
-Calling all @Stewards for Sprint Planning #35. The agenda: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#heading=h.407hcd41f1x1](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#heading=h.407hcd41f1x1)
+Calling all @Stewards for Sprint Planning #35. The agenda: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -14868,7 +14780,7 @@ _17-May-22 12:59 PM_:
 
 Safe travels!
 
-Yodeling all @Stewards and community to the Stewards weekly. Agenda here, [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit)
+Yodeling all @Stewards and community to the Stewards weekly. Agenda here, [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -14890,7 +14802,7 @@ Check in & temperature check on the community Check: any votes on Gardens or Tao
 
 _19-May-22 12:01 PM_:
 
-Welcome all @Stewards and community to the Stewards Council! Agenda today: Sampo & Financial health. [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#)
+Welcome all @Stewards and community to the Stewards Council! Agenda today: Sampo & Financial health. [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
 
@@ -14913,7 +14825,7 @@ Hey @Stewards, just a gentle reminder to update your slides in the agenda for th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -14935,7 +14847,7 @@ TEC Operating Funding
 
 _19-May-22 01:07 PM_:
 
-Here is the document detailing the presentation today. More specific project plans are ramping up but I would like to get feedback on this framing of the overall problem: [https://docs.google.com/document/d/1RpHCuXykoVk2nqHfk5uBwdZg7nOaZdJ-QfSAU4rBR9M/edit?usp=sharing](https://docs.google.com/document/d/1RpHCuXykoVk2nqHfk5uBwdZg7nOaZdJ-QfSAU4rBR9M/edit?usp=sharing)
+Here is the document detailing the presentation today. More specific project plans are ramping up but I would like to get feedback on this framing of the overall problem: [https://docs.google.com/document/d/1RpHCuXykoVk2nqHfk5uBwdZg7nOaZdJ-QfSAU4rBR9M
 
 Sampo Strategy
 
@@ -14965,7 +14877,7 @@ Amazon's global career site
 
 _24-May-22 01:00 PM_:
 
-Agenda for our weekly @Stewards call! [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#)
+Agenda for our weekly @Stewards call! [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -15036,7 +14948,7 @@ hey @Stewards I'm really sorry I forgot to post this yesterday. Any feedback is 
 
 !!
 
-[https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0/edit?usp=sharing](https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0/edit?usp=sharing)
+[https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0
 
 New TEC Twitter bio
 
@@ -15051,7 +14963,7 @@ Hey @Stewards, it's that time again! Kindly update your slides on the agenda for
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -15063,7 +14975,7 @@ COMMUNITY CALL 84 Weekly updates from the TEC May 26th tecommons.org General Voi
 
 _26-May-22 11:55 AM_:
 
-Sprint Retrospective agenda: [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#) Calling all @Stewards and all that wish to join in the introspection! Why do we do a Retrospective at the end of every Sprint? **Because Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials.**
+Sprint Retrospective agenda: [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -15091,7 +15003,7 @@ chuygarcia.eth
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
 
-[https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0/edit?usp=sharing](https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0/edit?usp=sharing)
+[https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -15103,7 +15015,7 @@ I took a quick crack at it, @chuygarcia.eth.
 
 _27-May-22 11:49 AM_:
 
-Here comes Sprint 36, @Stewards !! Agenda is here: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit#) Hey @Zeptimus - I may be about 15 minutes late to this call! Can you hold the fort while everyone updates their issues in the beginning of the call!? (edited)
+Here comes Sprint 36, @Stewards !! Agenda is here: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -15141,7 +15053,7 @@ Tam2140
 
 [Sprint Retrospective agenda:](about:blank#)
 
-[https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#)
+[https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 Calling all @Stewards and all that wish to join in the introspection! Why do we do a Retrospective at the end of every Sprint?
 
@@ -15181,7 +15093,7 @@ cool - i'm adding it to the ideas board in sampo clarity
 
 _31-May-22 12:54 PM_:
 
-The agenda for our @Stewards weekly call in 7 minutes: [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#)
+The agenda for our @Stewards weekly call in 7 minutes: [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -15203,7 +15115,7 @@ May 31Attendees: Agenda:
 
 _31-May-22 01:34 PM_:
 
-Here's a link to the Message to Token Holders. Any comments very welcomed! (@natesuits - maybe just add your thoughts here) [https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing](https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing)
+Here's a link to the Message to Token Holders. Any comments very welcomed! (@natesuits - maybe just add your thoughts here) [https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs
 
 Message to TEC Token Holders
 
@@ -15218,7 +15130,7 @@ Hey @Stewards, just a gentle reminder to update your slides in the agenda for th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -15234,7 +15146,7 @@ COMMUNITY CALL 85 Weekly updates from the TEC June 2nd tecommons.org General Voi
 
 _02-Jun-22 11:52 AM_:
 
-In just a few more minutes we will have our bi-weekly @Stewards council! All are welcome to join and I hope as many @Stewards as can join today! Agenda: [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#)
+In just a few more minutes we will have our bi-weekly @Stewards council! All are welcome to join and I hope as many @Stewards as can join today! Agenda: [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 ![https://cdn.discordapp.com/attachments/810180622634844206/981948318546554940/stewards_council.jpeg](https://cdn.discordapp.com/attachments/810180622634844206/981948318546554940/stewards_council.jpeg)
 
@@ -15256,7 +15168,7 @@ This is a discussion group that meets every other Thursday (alternating with the
 
 _02-Jun-22 12:00 PM_:
 
-Here is the first draft of the message to token holders, based on people's feedback from tuesday. it's still somewhat wordy and rough, but want to get a quick round of feedback before proceeding further: [https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing](https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing)
+Here is the first draft of the message to token holders, based on people's feedback from tuesday. it's still somewhat wordy and rough, but want to get a quick round of feedback before proceeding further: [https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs
 
 Message to TEC Token Holders
 
@@ -15370,7 +15282,7 @@ Gideonro
 
 [Here is the first draft of the message to token holders, based on people's feedback from tuesday. it's still somewhat wordy and rough, but want to get a quick round of feedback before proceeding further:](about:blank#)
 
-[https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing](https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing)
+[https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -15388,15 +15300,15 @@ Tam2140
 
 [The main objective of the Community Stewards WG is to provide visibility across all of the separate work streams such that all Stewards walk forward together in lockstep to reach our high level TEC goals. Our weekly meetings are a place to check-in on the temperature of the community, to resolve blockers, to raise questions that affect the Stewards or the members of our community and to solve them with the collective intelligence. We follow a Scrum framework and have a 2-week Sprint cadence. WG Lead: @Tam2140 Discussions happen on #stewards channel All calls happen on #stewards voice channel Weekly call: Tuesday at 7pm CET Council call: Every other Thursday at 6pm CET Sprint Retrospective: Every other Thursday at 6pm CET Sprint Planning: Every other Friday at 6pm CET Stewards Manifesto](about:blank#)
 
-[https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA/edit](https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA/edit)
+[https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA
 
 Stewards Agenda
 
-[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit)
+[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 Stewards Council Agenda
 
-[https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#)
+[https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 Sprint Board
 
@@ -15497,7 +15409,7 @@ _06-Jun-22 10:11 AM_:
 
 _07-Jun-22 01:01 PM_:
 
-Agenda for the @Stewards weekly - [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#)
+Agenda for the @Stewards weekly - [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -15534,7 +15446,7 @@ Hey @Stewards, it's that time again! Kindly update your slides on the agenda for
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -15552,7 +15464,7 @@ Gideonro
 
 _09-Jun-22 07:52 AM_:
 
-Hey Gideon, you can check the WG multisigs in this sheet [https://docs.google.com/spreadsheets/d/1QSZT4bGfIV48FqSl3ykrpDoS_5PZdwSCgqxNALrMBoY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1QSZT4bGfIV48FqSl3ykrpDoS_5PZdwSCgqxNALrMBoY/edit?usp=sharing) In relation to this topic, we will be adding this info in Dune and the addresses will be monitored. So, we encourage contributors to use another address (different from their Hatch address) to receive their payments from the TEC. The information in the blockchain is traceable, which is great, but it’s also important to protect your privacy as an individual. cc: @Zeptimus
+Hey Gideon, you can check the WG multisigs in this sheet [https://docs.google.com/spreadsheets/d/1QSZT4bGfIV48FqSl3ykrpDoS_5PZdwSCgqxNALrMBoY
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
 
@@ -15583,7 +15495,7 @@ Gardens
 
 _09-Jun-22 12:01 PM_:
 
-Everyone ready to Sprint Retro!? @Stewards, here is the Agenda: [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit)
+Everyone ready to Sprint Retro!? @Stewards, here is the Agenda: [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -15627,7 +15539,7 @@ hey stewizards I unfortunately have some lengthier than expected errands to run 
 
 _10-Jun-22 11:46 AM_:
 
-Sprint Planning happening in 15. Calling all @Stewards! [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit)
+Sprint Planning happening in 15. Calling all @Stewards! [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -15816,7 +15728,7 @@ Love shown!
 
 _14-Jun-22 10:12 AM_:
 
-For today's weekly, @Stewards, the agenda! Please feel free to add anything you want to raise today. [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#)
+For today's weekly, @Stewards, the agenda! Please feel free to add anything you want to raise today. [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -15892,7 +15804,7 @@ Hey @Stewards, just a gentle reminder to update your slides in the agenda for th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -15904,7 +15816,7 @@ COMMUNITY CALL 87 Weekly updates from the TEC June 16th tecommons.org General Vo
 
 _16-Jun-22 11:58 AM_:
 
-Today's @Stewards Council agenda, folk. Hope you can make it! [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#)
+Today's @Stewards Council agenda, folk. Hope you can make it! [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
 
@@ -15961,7 +15873,7 @@ Hey @Stewards I'd like to share the preliminary report from the polis we took in
 
 _20-Jun-22 12:18 PM_:
 
-I will post the Update to TEC Token Holders in the forum later today and @Edu - TEC Steward. will begin notifying Hatchers with DMs starting tomorrow. Here's the link: [https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit#](https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit#) @Tam2140 and I talked and we're recommending that this note come from all of the @Stewards. Let me know, ASAP, if you are not comfortable with this path. It's going up end of day today. Tks
+I will post the Update to TEC Token Holders in the forum later today and @Edu - TEC Steward. will begin notifying Hatchers with DMs starting tomorrow. Here's the link: [https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs
 
 Message to TEC Token Holders
 
@@ -15975,7 +15887,7 @@ Gideonro
 
 [I will post the Update to TEC Token Holders in the forum later today and @Edu - TEC Steward. will begin notifying Hatchers with DMs starting tomorrow. Here's the link:](about:blank#)
 
-[https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit#](https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit#)
+[https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs
 
 @Tam2140 and I talked and we're recommending that this note come from all of the @Stewards. Let me know, ASAP, if you are not comfortable with this path. It's going up end of day today. Tks
 
@@ -16019,7 +15931,7 @@ hey just fyi there's a small typo here
 
 _21-Jun-22 12:55 PM_:
 
-Five minutes to our @Stewards call! Feel free to add anything you need to the agenda, [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#)
+Five minutes to our @Stewards call! Feel free to add anything you need to the agenda, [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -16067,7 +15979,7 @@ Blockchain ecosystem analytics by and for the community. Explore and share data 
 
 _23-Jun-22 04:33 AM_:
 
-Hey @Stewards, it's that time again! Kindly update your slides on the agenda for the Community Call later. If you need help, please let me know [https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+Hey @Stewards, it's that time again! Kindly update your slides on the agenda for the Community Call later. If you need help, please let me know [https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -16110,7 +16022,7 @@ I think they have had a record response - so lots of other projects drawing the 
 
 _23-Jun-22 11:57 AM_:
 
-Almost time for the Sprint Retrospective, @Stewards! Here is our agenda: [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#heading=h.36a0sxtqi7zf](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit#heading=h.36a0sxtqi7zf)
+Almost time for the Sprint Retrospective, @Stewards! Here is our agenda: [https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
@@ -16152,7 +16064,7 @@ Hello @Stewards I would like to let everyone know that I am stepping down as co-
 
 _24-Jun-22 11:59 AM_:
 
-Calling all @Stewards and community that wants to hop onto the most exciting event we have... Sprint Planning! Agenda: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit)
+Calling all @Stewards and community that wants to hop onto the most exciting event we have... Sprint Planning! Agenda: [https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0
 
 TEC Sprint Planning
 
@@ -16174,7 +16086,7 @@ Trying something new! Check with each WG what issues they can open that can be l
 
 _24-Jun-22 01:18 PM_:
 
-hey @Stewards would love your thoughts/advice here. [https://docs.google.com/document/d/1ojm_J87TUa6DuUKXUf5seooG_Pr3a_7QSTHnmODmp-Y/edit?usp=sharing](https://docs.google.com/document/d/1ojm_J87TUa6DuUKXUf5seooG_Pr3a_7QSTHnmODmp-Y/edit?usp=sharing)
+hey @Stewards would love your thoughts/advice here. [https://docs.google.com/document/d/1ojm_J87TUa6DuUKXUf5seooG_Pr3a_7QSTHnmODmp-Y
 
 Reputation in the TEC
 
@@ -16202,7 +16114,7 @@ Project Management and Software Development with GitHub | ZenHub
 
 _28-Jun-22 12:05 PM_:
 
-Happy Tuesday all! Today's @Stewards weekly will be facilitated by @Edu - TEC Steward.! Thank you @Edu - TEC Steward.!! (I must be a parent-teacher thingy at the time of our weekly and so I won't be there today). Please add to the agenda anything you wish to raise: [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#heading=h.qnjtgfvx6fdc](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit#heading=h.qnjtgfvx6fdc) (edited)
+Happy Tuesday all! Today's @Stewards weekly will be facilitated by @Edu - TEC Steward.! Thank you @Edu - TEC Steward.!! (I must be a parent-teacher thingy at the time of our weekly and so I won't be there today). Please add to the agenda anything you wish to raise: [https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -16231,7 +16143,7 @@ _28-Jun-22 01:05 PM_:
 
 _30-Jun-22 02:22 AM_:
 
-Hey @Stewards, just a gentle reminder to update your slides in the agenda for the Community Call later. If you need help, please let me know [https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing)
+Hey @Stewards, just a gentle reminder to update your slides in the agenda for the Community Call later. If you need help, please let me know [https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE
 
 TEC Community Call Updates
 
@@ -16243,7 +16155,7 @@ COMMUNITY CALL 89 Weekly updates from the TEC June 30th tecommons.org General Vo
 
 _30-Jun-22 11:57 AM_:
 
-Looking forward to our @Stewards Council coming up two minutes. The agenda: [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#](https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit#)
+Looking forward to our @Stewards Council coming up two minutes. The agenda: [https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
 
@@ -16295,7 +16207,7 @@ Thank you, @iviangita, for all that you've managed to do as a Steward in the TEC
 
 _05-Jul-22 12:47 PM_:
 
-[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit?usp=sharing](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit?usp=sharing)
+[https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
 
 TEC Community Stewards Weekly Agenda
 
@@ -16345,7 +16257,7 @@ _07-Jul-22 12:02 PM_:
 
 Its time for Sprint Retrospective, @Stewards! Here is the Agenda document:
 
-[https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit?usp=sharing](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc/edit?usp=sharing)
+[https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc
 
 TEC Sprint Retrospective Agenda
 
