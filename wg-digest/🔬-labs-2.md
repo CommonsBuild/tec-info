@@ -12,237 +12,414 @@ The lab is an initiative that was started in order to provide a collaborative le
 
 ## Links
 
-http://educ.jmu.edu/~strawbem/Sample_Report.pdf
-http://t.me/CommonsStack
-http://www.screencast.com/users/LaurenBajin
-https://api.thegraph.com/subgraphs/name/commonsbuild/convert/graphql
-https://apipheny.io/author/meeladapipheny/
-https://apipheny.io/discord-api-google-sheets/
-https://app.pluralsight.com/paths/skill/core-python
-https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/958
-https://autocode.com/guides/how-to-build-a-discord-bot/#introduction
-https://blockscout.com/xdai/mainnet/address/0x74AdE20C12067e2F9457C037809a73F35694f99f/contracts
-https://blockscout.com/xdai/mainnet/api-docs
-https://bondingcurve.herokuapp.com/app
-https://butterfly.claims/
-https://calendar.google.com/event?action=TEMPLATE&tmeid=MzU3Nm10ZWVzZWU2Mm1pZGNjbTQ1MzFoNmYgY2xheW1pbmcuc3BhY2VAbQ&tmsrc=clayming.space%2540gmail.com
-https://calendar.google.com/event?action=TEMPLATE&tmeid=MzU3Nm10ZWVzZWU2Mm1pZGNjbTQ1MzFoNmYgY2xheW1pbmcuc3BhY2VAbQ&tmsrc=clayming.space%40gmail.com
-https://capturetheether.com/
-https://ccl.northwestern.edu/netlogo/models/Fireflies
-https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
-https://clusteringpraise.herokuapp.com/app
-https://coal-beanie-b1e.notion.site/8f3491ddb30c4787a117bfae4a0a80a2?v=d292e0fe28304951af88a4cf83db9e1c&p=01bec238808d4ae3ba33b03ef32f214d
-https://coal-beanie-b1e.notion.site/8f3491ddb30c4787a117bfae4a0a80a2?v=d292e0fe28304951af88a4cf83db9e1c&p=6c643532881c4050a7843e1f489190eb
-https://coal-beanie-b1e.notion.site/Session-4-6c643532881c4050a7843e1f489190eb
-https://code.visualstudio.com/Download
-https://code.visualstudio.com/download
-https://community-cdn-digitalocean-com.global.ssl.fastly.net/variants/8NXxuVoW5uhzL38tpU4U5Qxx/035575f2985fe451d86e717d73691e533a1a00545d7230900ed786341dc3c882
-https://config.tecommons.org/
-https://consensys.net/academy/bootcamp/
-https://courses.consensys.net/users/sign_in
-https://cryptocriticscorner.com/2022/05/04/episode-71---terra-luna-and-algorithmic-stablecoins/(opens
-https://cryptozombies.io/en/lesson/1
-https://cryptozombies.io/en/lesson/1/chapter/1
-https://d1fdloi71mui9q.cloudfront.net/z1yPOWoQnCZ1XyjauQ8Q_UNU8nQz8OpIoW7y1
-https://dabeaz.com/courses.html
-https://deepworkstudio.typeform.com/to/oN7DVaTS
-https://dev.dns.xyz/#/shokunin
-https://discord.com/channels/701149241107808327/771811616072794192/870672845099900939
-https://discord.com/developers
-https://discord.com/developers/
-https://discord.com/developers/applications
-https://discord.com/events/810180621930070088/954387850206543892
-https://discord.com/events/810180621930070088/964895208133243010
-https://discord.gg/4WyBDZX5
-https://discord.gg/D47b54Yj
-https://discord.gg/DDr5kYU
-https://discord.gg/DN4WpnWpfb
-https://discord.gg/E7CeyQmngE
-https://discord.gg/Hu6HFku8
-https://discord.gg/KGGrZ9YnPw?event=977314044551757874
-https://discord.gg/MNqSrR9vst
-https://discord.gg/NaKjG7pc
-https://discord.gg/YhdTwDJ2hv
-https://discord.gg/cj6vUdmt
-https://discord.gg/hp7NWgRc
-https://discord.gg/hp7NWgRc)
-https://discord.gg/m5kdEsPsht
-https://discord.gg/y7gFW4UCHk
-https://discord.gg/ywcJrWmr
-https://discord.gg/ywcJrWmr)
-https://discord.js.org/#/docs/collection/main/class/Collection
-https://discord.js.org/#/docs/main/stable/class/Guild
-https://discordjs.guide/#before-you-begin
-https://discordjs.guide/creating-your-bot/#creating-the-main-file
-https://discordjs.guide/creating-your-bot/creating-commands.html#command-deployment-script
-https://docs.conda.io/en/latest/miniconda.html
-https://docs.google.com/document/d/135ZH2AByCU7cmXbG501Cu4Xl8LgMcJiHpb_-XzhNlzY/edit
-https://docs.google.com/document/d/135ZH2AByCU7cmXbG501Cu4Xl8LgMcJiHpb_-XzhNlzY/edit?usp=sharing
-https://docs.google.com/document/d/17BX2uA7scrtWIYUl1lon7A0Cz1MzpA4AJTvOKZ7lETk/edit
-https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit#
-https://docs.google.com/document/d/1GNwLeHJ90si1IgsHklzcWG3Ma81mPjrdA7mbIZ5iBi0/edit#
-https://docs.google.com/document/d/1QiVfjtFDW1ahehdVXFV4Dauo5k_QM77FOUHS9CWmu7k/edit
-https://docs.google.com/document/d/1WtmK_p5LqLdsFewhcS1qqMjLzHi2DykTqU6v4FZqQLA/edit
-https://docs.google.com/document/d/1_TQmxNPcUnvVj3Slb23lwAcYjl0B7DkQEZfrXzDGIsk/edit#
-https://docs.google.com/document/d/1_p5f6Cwywfx3yL4IhLFKuydXG8ty1H_6lCT_F02ugGg/edit
-https://docs.google.com/document/d/1gSvGsBnHeo4AgOK83ijsE7K2M0-wL3VPEy-m-kzxVcM/edit
-https://docs.google.com/document/d/1ljUhQxgpFjgmHtdwz4MyaO6Sdrh-ldRDf9BwY1naOVg/edit?usp=sharing
-https://docs.google.com/document/d/1tG0bOYM304zMOIIK9eyLebCrKDOwWqz00fGYxbjqgkE/edit?usp=sharing
-https://docs.google.com/document/d/1uYW6vKdCkxWnMjjfo982xwO150tVaE6EiJ676B_6W1A/edit?usp=sharing
-https://docs.google.com/document/d/1x6V7Faa3GZeAgv6fs4fM_P_5DFsGIE4pqnioxg1aMKE/edit
-https://docs.google.com/presentation/d/1rRsTHVzC6In5aGbOFj9-xNN1bcw-s_nJ0v6iQNokRJA/edit#slide=id.p
-https://docs.google.com/spreadsheets/d/1ldBplIrHG8nWBxAa8pTgxX2OxTBx976ia51MC1ZhVXc/edit#gid=1031871078
-https://docs.google.com/spreadsheets/d/1qvmwwlUHnQWYc2JQRoE1Qo_IKx6a4CI9ehWIMvkiqFc/edit#gid=1510055853
-https://docs.google.com/spreadsheets/d/1qvmwwlUHnQWYc2JQRoE1Qo_IKx6a4CI9ehWIMvkiqFc/edit#gid=1582481479
-https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
-https://docs.primedao.io/primedao/call-for-contributors
-https://docs.primedao.io/primedao/tokenomics/prime-utility
-https://drive.google.com/drive/folders/1kgiZs207bz3ZznKi5-eYHbIKHttAbCzT?usp=sharing
-https://dune.com/tecommons/TECommons
-https://eips.ethereum.org/EIPS/eip-712
-https://eips.ethereum.org/erc
-https://ethereum.org/en/developers/learning-tools/
-https://etherscan.io/tokens
-https://fishshell.com/
-https://forum.1hive.org/t/cryptozombies-lesson-1-soon-to-be-a-tec-lab/
-https://forum.1hive.org/t/cryptozombies-lesson-1-soon-to-be-a-tec-lab/4581?u=metaverde
-https://forum.metagame.wtf/t/rfc-skill-discovery-discord-mini-game/607
-https://forum.tecommon
-https://forum.tecommon/
-https://forum.tecommons.org/
-https://forum.tecommons.org/t/cadcad-education-working-groups/433
-https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90
-https://forum.tecommons.org/t/labs-working-group/410
-https://forum.tecommons.org/t/praise-quantification-update-and-proposals/144
-https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/47?u=chuygarcia92
-https://forum.tecommons.org/t/tec-labs-fall-semester/577
-https://forum.tecommons.org/t/universal-python-library-for-te-models/443https://ghuntley.com
-https://ghuntley.com/
-https://github.com/BeccaLyria/discord-bot/
-https://github.com/CommonsBuild/IH-intervention
-https://github.com/CommonsBuild/IH-intervention/issues/7
-https://github.com/CommonsBuild/commons-config-proposals/issues
-https://github.com/CommonsBuild/commons-config-proposals/issues/44
-https://github.com/CommonsBuild/labs-medium-scraper
-https://github.com/CommonsBuild/praise-quantification
-https://github.com/CommonsBuild/praiseanalysis
-https://github.com/CommonsBuild/proposal-inverter
-https://github.com/CommonsSwarm/hatch-template
-https://github.com/CommonsSwarm/hatch-template/issues/4
-https://github.com/CommonsSwarm/migration-tools
-https://github.com/CommonsSwarm/tec-convert
-https://github.com/ConsenSys-Academy/Blockchain-Developer-Bootcamp
-https://github.com/MetaFam/skill-bot
-https://github.com/TECommons/Praise-Quantification
-https://github.com/TokenEngineeringCommunity/intro-to-bonding-curves
-https://github.com/Vyvy-vi/quiz-bot
-https://github.com/andrewpenland/praiseanalysis/blob/main/praise-distribution-comparison.ipynb
-https://github.com/austintgriffith/scaffold-eth
-https://github.com/junegunn/fzf
-https://github.com/longtailfinancial/alexandra
-https://github.com/longtailfinancial/hatch-template/blob/master/README.md
-https://github.com/metaverde/scaffold-eth-challenges/tree/stakerfinal
-https://github.com/nvm-sh/nvm
-https://github.com/pyenv/pyenv
-https://github.com/saunic/discord-bot
-https://github.com/saunic/discord-bot/tree/master
-https://github.com/scaffold-eth/scaffold-eth
-https://github.com/scaffold-eth/scaffold-eth-challenges
-https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-0-simple-nft
-https://github.com/scaffold-eth/scaffold-eth/pull/679
-https://github.com/scaffold-eth/scaffold-eth/tree/simple-nft-example
-https://github.com/wting/autojump
-https://hackmd.io/34vxVwJsTS-xgfYWSorxgg
-https://hackmd.io/34vxVwJsTS-xgfYWSorxgg?both
-https://hackmd.io/HTrPYtZdS1q3uiSg1gFbTw?view
-https://hackmd.io/sHhp-CoUTf2SeZy6vJ8EcA?view#Glossary
-https://hackmd.io/t3VzO6jwSx-AcKyJiopmrw
-https://hackmd.io/xToPTTCUT6OzhEH9rzxFGw
-https://hackmd.io/xToPTTCUT6OzhEH9rzxFGw?view
-https://hardhat.org/
-https://holoviews.org/
-https://holoviews.org/)
-https://ignorant-trick.surge.sh/
-https://images.typeform.com/images/FYUps4mFKPYK/image/default
-https://lettucemeet.com/l/Ax42J
-https://lh3.googleusercontent.com/Hqgm7o4lHxFfXX9K90TCKPOI9QePNhkZc64yEC4BNqGzIitnFgdwWLhaZtShm-WleGGPYadbUpD14Q=w1200-h630-p
-https://lh3.googleusercontent.com/djaU9OjfkY-vLo4B0TNPT2GUYkqZkbhpal3j0auM0DJZiCH_Q-vy8N2Ah3KyAAvewW44H-rli_QPaqx437HWDK0sqAWwA4wTHwG-=s2500
-https://lh3.googleusercontent.com/o8QGI0FLcOKYUp47IE4IXTXoxTqlm5ZgItEwuLtbGzOKh38Ukld4tbN9X6e4_H_-k7j1tnGvVo_nKA=w1200-h630-p
-https://lh3.googleusercontent.com/p0abDF5oGRFt_Tu7OZCO8OcGKO9WT2evEnfMxBht43DNf7PZIQoG38OCbHwCEpTURNSd-cO3forsSA=w1200-h630-p
-https://lh3.googleusercontent.com/rLiT0SferKSbR9pC6wojX7cuhJ1rGi73RLnZnIdA9F-_2i2Y0Wblp8P83x9FogmPogLnsQM80I_zZg=w1200-h630-p
-https://lh3.googleusercontent.com/w9LAGRGNE5TsLPjODUoaQKkI8ms82FU_F_nUQ1-XGtEz975GFu8dH0r80LOP4W_GlU2p-wAw4utnIQ=w1200-h630-p
-https://lh4.googleusercontent.com/R1t8phmsd17YUvuiz5ZtAVETCCHLbvIUgObRIxn72eK7c_ZBBPFr8phuUv-GfaiFheOKuk8IOni8Ew=w1200-h630-p
-https://lh5.googleusercontent.com/-YQeZqiH14zlMqRxtSI6xgH-nwAxHH4L0OYl2MtXYTZjeZVvcbVX6fgsLF1zisx620CCUFZVO7zvrQ=w1200-h630-p
-https://lh5.googleusercontent.com/9CqRyeAwh-tNsqS-n7b1u6kOh-BH083E9NZ0OsUo-tv9whL8PSsoeMRkDzUWsDCMofisuQaXQgQszA=w1200-h630-p
-https://lh5.googleusercontent.com/R69ugj8nlHMCERNA4lrbyx-tWE_hV1v6NVZlrsbzG9Uycd1th7-w3oNGJg9VeRv93MB36AshSfE6Dg=w1200-h630-p
-https://lh5.googleusercontent.com/_njWqWsFdT8MPz316XzDY6zUDtYngd9mxHe2RqIMV4ZDKq5NP3qsgZvOCPG2hK86FDlq4os4qeSaEg=w1200-h630-p
-https://lh5.googleusercontent.com/dDLw2a8MNfeBj0oL0SaNKg55DcB1tjY03PyvdSEMmUPkPCx7bfl8vRbDI5p5dPfCkYDAdgYeaud4qQ=w1200-h630-p
-https://lh5.googleusercontent.com/tSsc4btG-l4pFo7isv-Ql2z0ixFopDK-qXd0mKNaEFv5FR17637vGxqOhAEVXoH3H2f_HTsT-QW09w=w1200-h630-p
-https://lh6.googleusercontent.com/Kc2XmWRCRpipEcwbFPMgvAIwuMeOrtlHdpulvK4p8nw22Cy0vBfDyK36_vVgXFij_KF2yyfCow167Q=w1200-h630-p
-https://lh6.googleusercontent.com/Z33Nx0_Pren1y_gpFpr1g86k1oovAhou6oR2EZ3xQ-I19j0Ey2vQf8JRLTFr25PDrEegNwA8eZo8Lw=w1200-h630-p
-https://linktr.ee/longtailfinancial
-https://m.twitch.tv/thedaoist_
-https://machinations.io/
-https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme
-https://medium.com/block-science
-https://medium.com/block-science/what-does-it-take-to-optimize-a-complex-system-eabb296b829d
-https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c
-https://medium.com/primedao/exploring-dao2dao-collaboration-mechanisms-c37218a17a21
-https://medium.com/primedao/its-time-for-dao-to-dao-coordination-8791ec78545f
-https://miro.com/app/board/o9J_lJ-ea0E=/
-https://miro.com/app/board/uXjVOaSkwNQ=/
-https://miro.com/welcomeonboard/05SaZmuGO2u3hI8QjUznD9IurFiKfpS8iAbnHIqb95RebKXkkuYGnS7YQizBVfgM
-https://miro.com/welcomeonboard/bWxOQmU4M1RQOUluOFR1YVlKbEpuMncyVk5HaU5KNVowcmJ2QUZSd3c4TFB2bHlmZ1hRSEJ6Zm9ZS0JjaDBjanwzMDc0NDU3MzU0NTc3MDc4ODQ3
-https://miro.medium.com/max/1024/0
-https://miro.medium.com/max/1153/1
-https://miro.medium.com/max/1200/1
-https://miro.medium.com/max/552/1
-https://miro.medium.com/max/700/0
-https://miro.medium.com/max/733/1
-https://mobile.twitter.com/etherscan/status/1196316292480815104
-https://ncase.me/fireflies/
-https://ncase.me/loopy/v1.1/
-https://nodejs.dev/download/
-https://nodejs.org/en/
-https://nodejs.org/en/download/
-https://oceanview.pfeg.noaa.gov/CVTEMP/
-https://opengraph.githubassets.com/0177792437af146f7b5abed7f36a1e3171075d120cf4f0dbda467575e2180408/ConsenSys-Academy/Blockchain-Developer-Bootcamp
-https://opengraph.githubassets.com/0239c76ad35a30466528f2810b8025a02226c87f3d512bb1c0f5616468276f49/CommonsBuild/commons-config-proposals
-https://opengraph.githubassets.com/14defb2b41bf348675ac3ac38b791379f6db0cb7a757bae2654ce0d3ea89f016/longtailfinancial/alexandra
-https://opengraph.githubassets.com/17229e40b1c8841d7806768d764c92173d65c9a1cb3b917d0f4dab5c7d2fc9c0/scaffold-eth/scaffold-eth-challenges
-https://opengraph.githubassets.com/1c9c6072a9d436bd0e79c01e50a004127acf77413c08c433fef8e9572060d83b/Vyvy-vi/quiz-bot
-https://opengraph.githubassets.com/2f425a9ec3cc3845270a9f0240c108f4bad5db52cd0a8b74550242e5146c9b00/CommonsBuild/praiseanalysis
-https://opengraph.githubassets.com/33224f2f92963adf3cd2eabd475a319ca605fe7cf34b4d888ca4097370aa584f/nvm-sh/nvm
-https://opengraph.githubassets.com/343361341329da78534aebe084ee53c850fcd5a1e82024c8bcfd629a3a257034/CommonsBuild/praise-quantification
-https://opengraph.githubassets.com/36466de8b247c78786698ba2b93eff39361bd2a5796c1aca56e8ef7cf0ce7342/CommonsSwarm/tec-convert
-https://opengraph.githubassets.com/37e88d2f384fd42f7be455b42d6584a5b6936732e3c010cd0809680199334e17/scaffold-eth/scaffold-eth-challenges
-https://opengraph.githubassets.com/3b10c6c220970c5a6bddf0092233758f1f7e0e1a2c7d46d76c78505a3dba5d55/CommonsBuild/proposal-inverter
-https://opengraph.githubassets.com/3b6bb05fc8743c92409faa220df8723fefba09dfcf0f56c4ff01be656afdcdc6/scaffold-eth/scaffold-eth-challenges
-https://opengraph.githubassets.com/3e90cb18d167544f889414718797f6ba0ef40aac3780764f00254dce83784f86/TokenEngineeringCommunity/intro-to-bonding-curves
-https://opengraph.githubassets.com/478b51e4ff49267a95b572013c7268b411043792159372faecc424947f63b794/saunic/discord-bot
-https://opengraph.githubassets.com/5183bc36700c13b521ba4d351dcda56ea90d3c040e45b520a0537cc380645274/CommonsBuild/labs-medium-scraper
-https://opengraph.githubassets.com/5bc58066bac464b16c4b4dc014be209bea1a290472d0bceb5a7d6a5cfb5143d7/CommonsBuild/commons-config-proposals/issues/44
-https://opengraph.githubassets.com/87f745e26699b842ca1a5db04db291f070c7d5496abb700130716bbc606cec0f/scaffold-eth/scaffold-eth-challenges
-https://opengraph.githubassets.com/97fca0e36679eee438a3f87b49a19150d70b20c6bd1cd24516823807bd3b39b8/scaffold-eth/scaffold-eth-challenges
-https://opengraph.githubassets.com/9eeb27901cc119beb568484bb49b19972c5f7238767f523daa97faf2c84f1481/wting/autojump
-https://opengraph.githubassets.com/ab621179814238c769243f394173ea5315cf1c5ac6c36a17a4027bdb187cad20/CommonsBuild/IH-intervention/issues/7
-https://opengraph.githubassets.com/b8d512a27b2524c0f59e3d413b7be9e3cb7504dd9867591dae1e576d68d59031/andrewpenland/praiseanalysis
-https://opengraph.githubassets.com/cdbf0c75fe6437ee75ac88d523509cdbccfe1e9365dc58fa227909d8d845c840/CommonsBuild/IH-intervention
-https://opengraph.githubassets.com/e14b22180803b2e76d6cb06edb65c58bb0299675b32590b02537db9c904e6a26/nvm-sh/nvm
-https://opengraph.githubassets.com/ef4e671f634ff6d109230112cb512d8aa9845f68c41a5126e992c7efa8bd9439/MetaFam/skill-bot
-https://opengraph.githubassets.com/f4aee464e7ec4e9b8932abeab2e7240f28cbf7ed3dbea0d9414f4dc377e0373b/CommonsBuild/proposal-inverter
-https://opengraph.githubassets.com/fac17727ebef13558fd72890538a9f2549bdd6f3b5664043b854a603b79b4bdf/scaffold-eth/scaffold-eth/pull/679
-https://opensea.io/collection/space-punks-club
-https://praisedistributions.herokuapp.com/app
-https://pythondiscord.com/pages/resources/
-https://raspy-market.surge.sh/
-https://repository-images.githubusercontent.com/13807606/6ecaf000-3f27-11eb-9d7b-68c540f91d33
-https://repository-images.githubusercontent.com/259354262/b4cf0600-ad99-11eb-9c65-8d56e5148da3
-https://repository-images.githubusercontent.com/268330394/e0199f00-2a5e-11eb-9ee4-b2f646054a47
-https://revealjs.com/
-https://solidity-by-example.org/
-https://speedrunethereum.com/
-https://stermi.medium.com/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-8882808dd905
+- [Romeo and Juliet, a Dynamical Love Affair](http://educ.jmu.edu/~strawbem/Sample_Report.pdf)
+  > We model the oscillating emotions felt by Romeo and his fair Juliet as they feed on each others passion and indifference in turn. We model this emotional situation using simple, linear differential equations in the style of Strogatz [1, 2]. Using geometric and computational approaches, we observe that this situation results in the never ending cycle of ardor and indifference.
+- [Commons Stack](http://t.me/CommonsStack)
+  > You can view and join @CommonsStack right away.
+- [LaurenBajin's Items](http://www.screencast.com/users/LaurenBajin)
+  > Free online storage and sharing with Screencast.com. 2 GB of storage and 2 GB of bandwidth per month for free. We won't compress, alter or take ownership of your content.
+- [The GraphiQL](https://api.thegraph.com/subgraphs/name/commonsbuild/convert/graphql)
+- [Apipheny Team, Author at Apipheny](https://apipheny.io/author/meeladapipheny/)
+  > Tutorial showing you how to make a PUT, PATCH, or DELETE request with Apipheny.
+- [Discord To Google Sheets - How To Integrate [API Tutorial] - Apipheny](https://apipheny.io/discord-api-google-sheets/)
+  > Step-by-step tutorial for beginners showing you how to import data from Discord into Google Sheets easily using the Discord API.
+- [Sign In - Pluralsight](https://app.pluralsight.com/paths/skill/core-python)
+- [ZenHub](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/958)
+  > Project Management and Software Development with GitHub - ZenHub
+- [How to build a discord bot](https://autocode.com/guides/how-to-build-a-discord-bot/#introduction)
+- [Contract 0x74AdE20C12067e2F9457C037809a73F35694f99f - Gnosis Chain Explorer](https://blockscout.com/xdai/mainnet/address/0x74AdE20C12067e2F9457C037809a73F35694f99f/contracts)
+  > View the account balance, transactions, and other data for 0x74AdE20C12067e2F9457C037809a73F35694f99f on the (Gnosis)
+- [API for the Gnosis Chain - BlockScout](https://blockscout.com/xdai/mainnet/api-docs)
+  > API endpoints for the Gnosis Chain
+- [Augmented Bonding Curve](https://bondingcurve.herokuapp.com/app)
+  > Made with 🐍, ❤️, Fast and Panel .
+- [Ethereum App](https://butterfly.claims/)
+  > Web site created using ð scaffold-eth
+- [Google Calendar - Sign in to Access & Edit Your Schedule](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzU3Nm10ZWVzZWU2Mm1pZGNjbTQ1MzFoNmYgY2xheW1pbmcuc3BhY2VAbQ&tmsrc=clayming.space%2540gmail.com)
+- [Google Calendar - Sign in to Access & Edit Your Schedule](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzU3Nm10ZWVzZWU2Mm1pZGNjbTQ1MzFoNmYgY2xheW1pbmcuc3BhY2VAbQ&tmsrc=clayming.space%40gmail.com)
+- [Capture the Ether - the game of Ethereum smart contract security](https://capturetheether.com/)
+  > Capture the Ether is a game in which you hack Ethereum smart contracts to learn about security.
+- [NetLogo Models Library: Fireflies](https://ccl.northwestern.edu/netlogo/models/Fireflies)
+  > (back to the library)
+- [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
+  > Fast, reliable, and secure dependency management.
+- [Praise Analysis](https://clusteringpraise.herokuapp.com/app)
+- [Notion](https://coal-beanie-b1e.notion.site/8f3491ddb30c4787a117bfae4a0a80a2?v=d292e0fe28304951af88a4cf83db9e1c&p=01bec238808d4ae3ba33b03ef32f214d)
+  > The page you are looking for cannot be found! Please ask the owner of the page for an updated link.
+- [Notion](https://coal-beanie-b1e.notion.site/8f3491ddb30c4787a117bfae4a0a80a2?v=d292e0fe28304951af88a4cf83db9e1c&p=6c643532881c4050a7843e1f489190eb)
+  > The page you are looking for cannot be found! Please ask the owner of the page for an updated link.
+- [Notion](https://coal-beanie-b1e.notion.site/Session-4-6c643532881c4050a7843e1f489190eb)
+  > The page you are looking for cannot be found! Please ask the owner of the page for an updated link.
+- [Download Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/Download)
+  > Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows. Download Visual Studio Code to experience a redefined code editor, optimized for building and debugging modern web and cloud applications.
+- [](https://community-cdn-digitalocean-com.global.ssl.fastly.net/variants/8NXxuVoW5uhzL38tpU4U5Qxx/035575f2985fe451d86e717d73691e533a1a00545d7230900ed786341dc3c882)
+- [Commons Config Dashboard](https://config.tecommons.org/)
+  > Design a Commons and propose it to the TEC community.
+- [ConsenSys Academy Courses Bootcamp - ConsenSys](https://consensys.net/academy/bootcamp/)
+  > ConsenSys Academy Courses Bootcamp - ConsenSys
+- [ConsenSys Academy](https://courses.consensys.net/users/sign_in)
+- [Page not found – Crypto Critics' Corner](https://cryptocriticscorner.com/2022/05/04/episode-71---terra-luna-and-algorithmic-stablecoins/(opens)
+  > It looks like nothing was found at this location. Maybe try a search?
+- [#1 Solidity Tutorial & Ethereum Blockchain Programming Course - CryptoZombies](https://cryptozombies.io/en/lesson/1)
+  > CryptoZombies is The Most Popular, Interactive Solidity Tutorial That Will Help You Learn Blockchain Programming on Ethereum by Building Your Own Fun Game with Zombies â Master Blockchain Development with Web3, Infura, Metamask & Ethereum Smart Contracts and Become a Blockchain Developer in Record Time!
+- [Dabeaz Courses](https://dabeaz.com/courses.html)
+  > Hands-on advanced programming and computer science courses for people who want to learn. Taught in-person by David Beazley , a computer scientist who likes to code and teach.
+- [Skill System Tester Application](https://deepworkstudio.typeform.com/to/oN7DVaTS)
+  > Turn data collection into an experience with Typeform. Create beautiful online forms, surveys, quizzes, and so much more. Try it for FREE.
+- [dns.xyz](https://dev.dns.xyz/#/shokunin)
+- [Discord - A New Way to Chat with Friends & Communities](https://discord.com/channels/701149241107808327/771811616072794192/870672845099900939)
+  > Discord is the easiest way to communicate over voice, video, and text. Chat, hang out, and stay close with your friends and communities.
+- [Discord Developer Portal â API Docs for Bots and Developers](https://discord.com/developers)
+  > Integrate your service with Discord â whether it's a bot or a game or whatever your wildest imagination can come up with.
+- [Discord - A New Way to Chat with Friends & Communities](https://discord.com/events/810180621930070088/954387850206543892)
+  > Discord is the easiest way to communicate over voice, video, and text. Chat, hang out, and stay close with your friends and communities.
+- [Discord - A New Way to Chat with Friends & Communities](https://discord.com/events/810180621930070088/964895208133243010)
+  > Discord is the easiest way to communicate over voice, video, and text. Chat, hang out, and stay close with your friends and communities.
+- [Join the PrimeDAO Discord Server!](https://discord.gg/DN4WpnWpfb)
+  > Check out the PrimeDAO community on Discord - hang out with 2,786 other members and enjoy free voice and text chat.
+- [Join the Longtail Financial Discord Server!](https://discord.gg/E7CeyQmngE)
+  > Check out the Longtail Financial community on Discord - hang out with 341 other members and enjoy free voice and text chat.
+- [Join the Tokenomics DAO Discord Server!](https://discord.gg/KGGrZ9YnPw?event=977314044551757874)
+  > Check out the Tokenomics DAO community on Discord - hang out with 1,174 other members and enjoy free voice and text chat.
+- [Join the Longtail Financial Discord Server!](https://discord.gg/m5kdEsPsht)
+  > Check out the Longtail Financial community on Discord - hang out with 341 other members and enjoy free voice and text chat.
+- [Join the 1Hive ð¯ Discord Server!](https://discord.gg/YhdTwDJ2hv)
+  > Check out the 1Hive ð¯ community on Discord - hang out with 9,938 other members and enjoy free voice and text chat.
+- [Discord.js - Class: Collection](https://discord.js.org/#/docs/collection/main/class/Collection)
+  > Discord.js is a powerful node.js module that allows you to interact with the Discord API very easily. It takes a much more object-oriented approach than most other JS Discord libraries, making your bot's code significantly tidier and easier to comprehend.
+- [Discord.js - Class: Guild](https://discord.js.org/#/docs/main/stable/class/Guild)
+  > Discord.js is a powerful node.js module that allows you to interact with the Discord API very easily. It takes a much more object-oriented approach than most other JS Discord libraries, making your bot's code significantly tidier and easier to comprehend.
+- [discord.js Guide](https://discordjs.guide/#before-you-begin)
+  > Imagine a guide... that explores the many possibilities for your discord.js bot.
+- [Miniconda — Conda documentation](https://docs.conda.io/en/latest/miniconda.html)
+  > Miniconda is a free minimal installer for conda. It is a small, bootstrap version of Anaconda that includes only conda, Python, the packages they depend on, and a small number of other useful packages, including pip, zlib and a few others. Use the conda install command to install 720+ additional conda packages from the Anaconda repository.
+- [Downloading and installing Node.js and npm - npm Docs](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+  > Documentation for the npm registry, website, and command-line interface
+- [Contributor Guide - PrimeDAO](https://docs.primedao.io/primedao/call-for-contributors)
+  > Earn Rewards and Co-ownership by contributing to PrimeDAO 🤝
+- [PRIME token 🤖 - PrimeDAO](https://docs.primedao.io/primedao/tokenomics/prime-utility)
+  > PRIME functions as a utility and reward token in Prime, alternatively referred to as a work token.
+- [Samurai Public Materials – Google Диск](https://drive.google.com/drive/folders/1kgiZs207bz3ZznKi5-eYHbIKHttAbCzT?usp=sharing)
+- [Dune](https://dune.com/tecommons/TECommons)
+  > Blockchain ecosystem analytics by and for the community. Explore and share data from Ethereum, xDai, Polygon, Optimism, BSC and Solana for free.
+- [EIP-712: Ethereum typed structured data hashing and signing](https://eips.ethereum.org/EIPS/eip-712)
+  > Signing data is a solved problem if all we care about are bytestrings. Unfortunately in the real world we care about complex meaningful messages. Hashing structured data is non-trivial and errors result in loss of the security properties of the system.
+- [ERC - Ethereum Improvement Proposals](https://eips.ethereum.org/erc)
+  > Ethereum Improvement Proposals (EIPs) describe standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
+- [Developer learning tools - ethereum.org](https://ethereum.org/en/developers/learning-tools/)
+  > Web-based coding tools and interactive learning experiences to help you experiment with Ethereum development.
+- [Attention Required! - Cloudflare](https://etherscan.io/tokens)
+  > Please stand by, while we are checking your browser...
+- [fish shell](https://fishshell.com/)
+  > A smart and user-friendly command line shell
+- [CryptoZombies Lesson 1/ Soon to be a TEC lab!](https://forum.1hive.org/t/cryptozombies-lesson-1-soon-to-be-a-tec-lab/)
+  > 1Hive Discord server invite. CryptoZombies is still the most functional, self-contained solid Solidity course, for free, on the internet. I’ve paid for courses that taught me less and did not work as advertised, requiring extra downloads and changes to install software, for example. Anyway… Before I go any further, as I’m writing this the back and next buttons at the CryptoZombies site seem to not be working. I’ve been changing pages in the address bar. Lesson one deals with just one contra...
+- [CryptoZombies Lesson 1/ Soon to be a TEC lab!](https://forum.1hive.org/t/cryptozombies-lesson-1-soon-to-be-a-tec-lab/4581?u=metaverde)
+  > 1Hive Discord server invite. CryptoZombies is still the most functional, self-contained solid Solidity course, for free, on the internet. I’ve paid for courses that taught me less and did not work as advertised, requiring extra downloads and changes to install software, for example. Anyway… Before I go any further, as I’m writing this the back and next buttons at the CryptoZombies site seem to not be working. I’ve been changing pages in the address bar. Lesson one deals with just one contra...
+- [RFC: Skill Discovery Discord Mini-game](https://forum.metagame.wtf/t/rfc-skill-discovery-discord-mini-game/607)
+  > This is a Request For Comments for a project that would allow MetaGame to organically create a skill-tree for players. A skill-tree represents knowledge and interests of any given player. Plus relationships between these skills and subjects. This topic has been discussed extensively in the past, for example here. When displayed as a graph, the tree could be used for example used in the following ways: One player view: shows the skills and interests of the player Two players view: show the pl...
+- [Geoffrey Huntley](https://ghuntley.com/)
+  > I work remotely from a van that is slowly working its way around Australia. Follow me for the intersection of remote work, camping & #vanlife.
+- [Hardhat - Ethereum development environment for professionals by Nomic Foundation](https://hardhat.org/)
+  > Hardhat is an Ethereum development environment. Compile your contracts and run them on a development network. Get Solidity stack traces, console.log and more.
+- [Installation â HoloViews v1.15.0](https://holoviews.org/)
+  > Stop plotting your data - annotate your data and let it visualize itself.
+- [Ethereum App](https://ignorant-trick.surge.sh/)
+  > Web site created using 🏗 scaffold-eth
+- [](https://images.typeform.com/images/FYUps4mFKPYK/image/default)
+- [LettuceMeet - Easy Group Scheduling](https://lettucemeet.com/l/Ax42J)
+  > The easiest way to schedule group meetings.
+- [@longtailfinancial - Linktree](https://linktr.ee/longtailfinancial)
+  > Linktree. Make your link do more.
+- [thedaoist_ - Twitch](https://m.twitch.tv/thedaoist_)
+  > Tales from the frontlines of decentralized governance
+- [Machinations.io](https://machinations.io/)
+  > The browser-based platform to Design, Prototype & Handoff game systems.
+- [2077 theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme)
+  > Extension for Visual Studio Code - Cyberpunk 2077 inspired theme
+- [BlockScience – Medium](https://medium.com/block-science)
+  > The Scientific Method & Robust Engineering Design applied to Complex Systems.
+- [What Does it Take to Optimize a Complex System?](https://medium.com/block-science/what-does-it-take-to-optimize-a-complex-system-eabb296b829d)
+  > Using Systems Engineering and cadCAD to Manage Difficult Trade-Offs
+- [Retroactive Public Goods Funding](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c)
+  > Note: The Optimism team has long been in search of a solution on how to sustainably fund public goods, and we now have the structure of our…
+- [Exploring DAO2DAO Collaboration Mechanisms](https://medium.com/primedao/exploring-dao2dao-collaboration-mechanisms-c37218a17a21)
+  > Implementable Tools to Extend DAO Interaction Patterns in D2D Research Phase 2
+- [It’s Time For DAO-to-DAO Coordination](https://medium.com/primedao/its-time-for-dao-to-dao-coordination-8791ec78545f)
+  > PrimeDAO to Develop and Dogfood D2D
+- [cadCAD in Context](https://miro.com/app/board/o9J_lJ-ea0E=/)
+- [Cherry G](https://miro.com/app/board/uXjVOaSkwNQ=/)
+  > Baits project
+- [Fireflies](https://ncase.me/fireflies/)
+  > a small simulation of small fireflies
+- [LOOPY!](https://ncase.me/loopy/v1.1/)
+  > a tool for thinking in systems
+- [Download Node.js](https://nodejs.dev/download/)
+  > Come get me!
+- [Node.js](https://nodejs.org/en/)
+  > Node.jsÂ® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Download - Node.js](https://nodejs.org/en/download/)
+  > Node.jsÂ® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [CVTEMP](https://oceanview.pfeg.noaa.gov/CVTEMP/)
+  > This website is the public interface for modeled and observed water temperature and flow data for the Sacramento River associated with Shasta Reservoir, Shasta and Keswick Dam operations, and meteorological conditions. A primary input and assumption of the models is based on the operational conditions forecasted for Shasta and Keswick reservoirs generated by USBR. These forecasts are updated over time and composed of different scenarios of hydrological (dry or wet) and meteorological (warm or cool) conditions. Model outputs from each scenario are displayed.
+- [Access denied](https://opensea.io/collection/space-punks-club)
+  > You do not have access to opensea.io.
+- [Praise Analysis](https://praisedistributions.herokuapp.com/app)
+- [Python Discord - Resources](https://pythondiscord.com/pages/resources/)
+  > We're a large, friendly community focused around the Python programming language. Our community is open to those who wish to learn the language, as well as those looking to help others.
+- [Vendomatic](https://raspy-market.surge.sh/)
+  > Web site created using 🏗 scaffold-eth
+- [The HTML presentation framework - reveal.js](https://revealjs.com/)
+  > Documentation and demos for the open source reveal.js HTML presentation framework.
+- [Solidity by Example](https://solidity-by-example.org/)
+- [Speed Run Ethereum](https://speedrunethereum.com/)
+  > Created using 🏗 scaffold-eth
+- [How to create an ERC20 Token and a Solidity Vendor Contract to sell/buy your own token](https://stermi.medium.com/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-8882808dd905)
+  > In the previous scaffold-eth challenge, we have created a Staker dApp. In this challenge, we are going to create a Token Vendor contract.
+- [Skill Forest - NFT SupaGroup](https://t.me/NFTsSkillForest)
+  > You can view and join @NFTsSkillForest right away.
+- [What is the Hosted Service? - The Graph Docs](https://thegraph.com/docs/en/hosted-service/what-is-hosted-service/)
+  > Browse the latest developer documentation including API reference, articles, and sample code
+- [](https://thegraph.com/hosted-service/subgraph/commonsbuild/convert)
+- [Bonding](https://tokenengineeringcommunity.github.io/intro-to-bonding-curves/#/)
+- [Application Error](https://tokenengineeringtest.herokuapp.com/)
+- [Ethereum App](https://trite-ring.surge.sh/)
+  > Web site created using 🏗 scaffold-eth
+- [Join our Cloud HD Video Meeting](https://us02web.zoom.us/j/6985323627?pwd=YmxXaWNrdk1uSmV5bUFsaTJEWEtNZz09)
+- [Against overuse of the Gini coefficient](https://vitalik.ca/general/2021/07/29/gini.html)
+  > Special thanks to Barnabe Monnot and Tina Zhen for feedback and review
+- [Vendomatic](https://wide-glove.surge.sh/)
+  > Created using 🏗 the mighty mighty Scaffold-Eth
+- [cadCAD Edu](https://www.cadcad.education/)
+- [cadCAD Bootcamp (Beginner Level)](https://www.cadcad.education/course/bootcamp)
+  > The most comprehensive beginner course on the web. If you're new to cadCAD, your journey starts here. Find out how to enjoy FREE ACCESS on the course landing page.
+- [cadCAD Edu](https://www.cadcad.education/path-player?courseid=cadcad-hacks&unit=6063781a6809f13407612623Unit)
+- [Learn to Code - for Free - Codecademy](https://www.codecademy.com/)
+  > Learn the technical skills to get the job you want. Join over 50 million people choosing Codecademy to start a new career (or advance in their current one).
+- [DigitalOcean eBook: How To Code in Python - DigitalOcean](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python?refcode=4d2af78748bd&utm_campaign=pythonebook&utm_medium=ebook&utm_source=ebook)
+  > The free How To Code in Python eBook can be used as an Open Educational Resource and an alternative to a textbook in the classroom, as well as be made availaâ¦
+- [7 Best Solidity IDE - Dunebook](https://www.dunebook.com/7-best-solidity-ide/)
+  > Solidity can be defined as a high-level programming language for executing smart contracts. It is an object-oriented software. It is built to target the Ethereum...
+- [Author: <span>Olanrewaju Olakunle</span> - Dunebook](https://www.dunebook.com/author/kunle/)
+  > This article focuses on giving you some of the best free and paid Ghost themes around today. As a minimalistic content publishing framework, Ghost is...
+- [ETHDenver 2022](https://www.ethdenver.com/)
+  > THE LARGEST AND LONGEST RUNNING ETH EVENT IN THE WORLD. ETHDenver is a member-owned Community Innovation Festival. With the genesis of SporkDAO in June of 2021, ETHDenver is the first event based DAO in the world. The ETHDenver #BUIDLATHON is about bringing diverse creativity around a common purpose
+- [How to Install Node.js and npm on Windows](https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows-2/)
+  > In this article, you'll learn how to work with JavaScript in the backend using Node on Windows. When you start working with JavaScript and discover that you can not only work with it in the frontend but also in the backend, a new world of possibilities seems to open up
+- [Login • Instagram](https://www.instagram.com/coffeebreak_yt/)
+  > Welcome back to Instagram. Sign in to check out what your friends, family & interests have been capturing & sharing around the world.
+- [We use cookies to give you the best browsing experience.](https://www.kiwico.com/Veritasium50)
+  > Kids' hands-on activities - including arts, crafts, science - delivered monthly to your door with all materials included. Developed by parents, reviewed by experts, tested by kids....
+- [Loom - Free Screen & Video Recording Software](https://www.loom.com/share/5dc0102417104fbabf0737cc237b3cba)
+  > Use Loom to record quick videos of your screen and cam. Explain anything clearly and easily – and skip the meeting. An essential tool for hybrid workplaces.
+- [Loom - Free Screen & Video Recording Software](https://www.loom.com/share/c6bf59a8da604824abe44a663457adf2)
+  > Use Loom to record quick videos of your screen and cam. Explain anything clearly and easily – and skip the meeting. An essential tool for hybrid workplaces.
+- [](https://www.nasa.gov/sites/default/files/atoms/files/nasa_tp_20205003644_interactive2.pdf)
+- [Olympus - The future decentralized reserve currency](https://www.olympusdao.finance/)
+  > Olympus is building OHM, a community-owned, decentralized and censorship-resistant reserve currency that is deeply liquid, asset-backed, and used widely across Web3.
+- [Home - Open Source Ecology](https://www.opensourceecology.org/)
+  > We’re developing open source industrial machines that can be made for a fraction of commercial costs, and sharing our designs online for free. The goal of Open Source Ecology is to create an open source economy – an efficient economy which increases innovation by open collaboration.
+- [Build Better Tech Skills for Individuals - Pluralsight](https://www.pluralsight.com/offer/2021/free-april-individual)
+  > Pluralsight helps learners gain the technology skills needed to master the latest in software development, IT ops, AI & machine learning, security, and more.
+- [2021-05-07_11-13-39](https://www.screencast.com/t/jLd8mGyr8i1T)
+  > Shared from Screencast.com
+- [My Pedal Powered Adventure - An hommage to Piccard’s Epic Voyage](https://www.sunetrike.com/solar-impulse/my-pedal-powered-journey/)
+  > In a salute to the 1000 solution milestone of the Solar Impulse Foundation, This story is a bit of an hommage to the immensely inspiring 2010 TED talk by Captain Bertrand Piccard titled ‘My Solar-Powered Adventure’.
+- [Twitch](https://www.twitch.tv/ygg_anderson)
+  > Twitch is the world's leading video platform and community for gamers.
+- [Referring skills requirements to competency definitions - Talent Marketplace Signaling Community Group](https://www.w3.org/community/talent-signal/wiki/Referring_skills_requirements_to_competency_definitions)
+  > Discussion : see maillist for June 2019 , thread on Example of how to refer skills requirements to competency definitions (continues in July and August ).
+- [Web3 University - Your Guide to Blockchain Development](https://www.web3.university/)
+  > The comprehensive educational resource on blockchain development with the most useful tutorials across the web3 ecosystem. Partnering with a16z, Alchemy, Polygon, Pantera, Chainshot, Offchain Labs, and many more.
+- [web3con 2022 by Developer DAO](https://www.web3con.dev/)
+  > web3con is the premier conference to help developers of all skill levels collaborate, learn, and vibe together.
+
+### Youtube
+- [Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
+  > The Token Engineering Commons is building the tools for safe digital economies that protect and support public goods. To·ken En·gi·neer·ing /ˈtōkən/ /enjəˈniriNG/ 1. An emerging engineering discipline focused on holistic systems design and the theory, practice and tools used to design and verify tokenized ecosystems i.e. cyptoeconomic systems and their simulation using tools like cadCAD. 2. A discipline of responsibility; adhering to the highest principles of ethical conduct (from ethical engineering) 3. A community pushing forward the field of token engineering in theory and practice. (See more Modeling Crypto Protocols as Complex Systems, TE Process) Com·mons/ˈkämənz/ 1. Resources that groups of people (communities, organizations) create and manage for individual and collective benefit. These resources are held collectively, not owned privately (see Fractal Ownership, Wiki and Automating Ostrom)
+- [Crypto Critics' Corner](https://www.youtube.com/channel/UCfPQrqsmYFFRK0NKLEr27Bg)
+  > Bennett Tomlin and Cas Piancey have a weekly discussion where they try to provide a critical take on both current events in the crypto space and historical events that still have ramifications today
+- [Coffeezilla](https://www.youtube.com/channel/UCFQMnBA3CS502aghlcr0_aw)
+  > This account is owned by Twitter usr: @coffeebreak_yt I uncover scams, fraudsters and fake gurus that are preying on desperate people with deceptive advertising. If you have to ask... it’s probably too good to be true. TWITTER: @coffeebreak_yt INSTA: @coffeebreak_yt
+- [Billy From the Blockchain](https://www.youtube.com/channel/UCG7xOPskU9HsAJs5ywImd1Q)
+  > This is a channel to help friends and family learn about crytpo
+- [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
+  > An element of truth - videos about science, education, and anything else I find interesting.
+- [UCLA modeling class](https://www.youtube.com/channel/UCJj16pQYwvXxfUJGQ_BMXeA)
+  > Share your videos with friends, family, and the world
+- [Amaze Lab](https://www.youtube.com/channel/UCKXEESjIEsKmGzws3fDKwFA)
+  > The weird, the wondrous, the wildly fascinating -- Amaze Lab brings the most extraordinary science, space, and emerging tech stories to you.
+- [Sad Birds Gaming](https://www.youtube.com/channel/UCpV5xOAT_EvfCcehL-W3s-Q)
+  > Share your videos with friends, family, and the world
+- [cadCAD](https://www.youtube.com/channel/UCQ6UUADq9AczXv0RmzpgBHw)
+  > cadCAD is an open-source Python package that assists in the processes of designing, testing and validating complex systems through simulation. With the support of Block.Science, CommonsStack.org and the Token Engineering Community, a stand alone open-sourced community was launched on July 31, 2020 to explore developing the tools and applications from which value can be created around this technology. On this channel, we document the community developments and related topics around the modeling and simulation of complex systems.
+- [coin demo via Remix - Deploy and verify contract for starters](https://www.youtube.com/watch?v=2nhXBAXHUT4&list=PLOrdl19FvoiO0zJmewwVkG8Jg-bJlABod&index=19&t=5s)
+  > Learn how to make an ERC 20 Token and deploy using remixI feel like it's the next step after crypto zombies
+- [W1 TE Services (LT-TE) Working Groups Kick Off](https://www.youtube.com/watch?v=DwEbpwgeWVg)
+  > TEC Services Kickoff1. State-of-the-project update - [https://www.notion.so/WG-Ecosystem-mapping-573376778d604c00b3e3a5a2b22c0128#116a87ae665c419fae2b36be...
+- [Deploying a Coin to test net via VS Code and Hardhat](https://www.youtube.com/watch?v=hXYEVVkybA8&list=PLOrdl19FvoiO0zJmewwVkG8Jg-bJlABod&index=18&t=30s)
+  > VS Code: https://code.visualstudio.com/downloadNode JS: https://nodejs.org/en/Getting NPM Setup: https://docs.npmjs.com/downloading-and-installing-node-js-an...
+- [Right Clicking All The NFTs](https://www.youtube.com/watch?v=i_VsgT5gfMc)
+  > This will anger all the ape holders Follow Geoffrey at https://ghuntley.comFollow Coffeezilla: ► Twitter: https://twitter.com/coffeebreak_YT► Instagram: htt...
+- [cadCAD Community Call #13: cadCAD Technical Specification & Julia Implementation](https://www.youtube.com/watch?v=l5YfBArovsU&t=4058s)
+  > 🙏 Thank you for watching! Hit 👍 and subscribe 🚩 to support this workCommunity call #13 was hosted by Peter Hacker from the cadCAD community. We heard from...
+- [Why army ants get trapped in ‘death circles’](https://www.youtube.com/watch?v=LEKwQxO4EZU)
+  > Army ants are blind and use pheromones to follow trails of other ants, but if a trail loops they get locked running in an endless circle.
+- [wake up and smell the coffee (Coffeezilla's Outro) - anton pax](https://www.youtube.com/watch?v=nMSQ1yoPT2c&list=PL4qw3AkxFDSNhEgawXD1j6r0iN1072XIB&index=1)
+  > official outro of the internet detective. anton pax prod. gcbeatsCheck out the incredibly talented Anton Pax here: https://soundcloud.com/antonpaxCheck out ...
+- [skills forest 2021 01 28](https://www.youtube.com/watch?v=qsGXqyaR94o&feature=youtu.be)
+  > Master Zargham disseminates his benevolent vision of the skills forest to his army of web3 aeons. A summoning has begun. 🙏 Thank you for watching! Hit 👍 an...
+- [Deep Work Skill System Presentation with Andrej](https://www.youtube.com/watch?v=sl1LpdPdgtU)
+  > Proof of Expertise: Decentralizing Intellectual LegitimacyNarrator: Andrej A gathering assembled on google hangouts to discuss decentralized skill systems an...
+- [The Surprising Secret of Synchronization](https://www.youtube.com/watch?v=t-_VPRCtiUg)
+  > How does order spontaneously arise out of chaos? This video is sponsored by Kiwico — go to https://www.kiwico.com/Veritasium50 for 50% off your first month o...
+- [17.5 Routes to Chaos in Discrete Logistic Function](https://www.youtube.com/watch?v=uFN9a3-zEGI&list=PLXAMIZb_fed5OaByfLnilGXhBI8K4U1Ik&index=60)
+- [Terra, Luna, and Algorithmic Stablecoins - Episode 71](https://www.youtube.com/watch?v=V16U4J65xkM)
+  > In this episode Bennett Tomlin and Cas Piancey discuss the algorithmic stablecoin Terra and the corresponding governance token Luna. Along with some of the ...
+
+### Documentation
+
+- [Proposal Inverter Specification - HackMD](https://hackmd.io/34vxVwJsTS-xgfYWSorxgg)
+- [Fundraising - HackMD](https://hackmd.io/HTrPYtZdS1q3uiSg1gFbTw?view)
+- [Generalized Dynamical Systems - HackMD](https://hackmd.io/sHhp-CoUTf2SeZy6vJ8EcA?view#Glossary)
+- [TE Commons - HackMD](https://hackmd.io/t3VzO6jwSx-AcKyJiopmrw)
+- [Proof of Expertise: Skill Forests - HackMD](https://hackmd.io/xToPTTCUT6OzhEH9rzxFGw?view)
+- [Proof of Expertise: Decentralizing Intellectual Legitimacy](https://docs.google.com/document/d/1_p5f6Cwywfx3yL4IhLFKuydXG8ty1H_6lCT_F02ugGg/)
+  > Proof of Expertise: Decentralizing Intellectual Legitimacy Comms Channel: https://t.me/NFTsSkillForest HACKMD: https://hackmd.io/xToPTTCUT6OzhEH9rzxFGw?view Description: As knowledge becomes valuable through its application, other individuals will need to access that knowledge. As demand for c...
+- [UX HAPPY WALK_PI](https://docs.google.com/document/d/1_TQmxNPcUnvVj3Slb23lwAcYjl0B7DkQEZfrXzDGIsk/)
+  > The CoolLabs case A story on how the proposal inverter could work Alice is a founder researcher at CoolLabs. She wanted to conduct a reward system research that many DAOs may be interested in. She wants to allocate 10.000 USD for this research from his organization. Bob, Rachel and Bartu are fou...
+- [Proposal Inverter - PrimeDAO Proposal 🤖](https://docs.google.com/document/d/135ZH2AByCU7cmXbG501Cu4Xl8LgMcJiHpb_-XzhNlzY/)
+  > This is a template proposal with guidelines on key aspects you might want to include when writing your proposal. Keep in mind it’s ok to bend or break guidelines — if your proposal doesn’t fit this template, don’t feel the need to follow the template. Write down your proposal using this templa...
+- [210910 Governauts - Reward Systems Panel](https://docs.google.com/document/d/17BX2uA7scrtWIYUl1lon7A0Cz1MzpA4AJTvOKZ7lETk/)
+  > Governauts - Reward Systems Panel The Governauts Research Group hosted on the 10th of September a panel session on Rewards System. We collated some summarised and collated the research notes that arouse in this discussion. You can find the recording here and the raw chat references here. Panel: Z...
+- [Gravity Wg Call notes](https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/)
+  > Wednesday 6th of July intro question: what are some of the things you are proud of in your personal life when you look back? Juan: the service we provide and the progress in Gravity since we started it Bianca: my exchange program that gave me the opportunity to get into TEC and now doing the wor...
+- [TEC Labs: Coordinape Overview](https://docs.google.com/document/d/1GNwLeHJ90si1IgsHklzcWG3Ma81mPjrdA7mbIZ5iBi0/)
+  > Coordinape: An overview 🤝 🦍 According to the Gitcoin/Bankless “DAO Report”, Coordinape is establishing itself as one of the primary DAO-native reward allocation systems (replacing grants/salaries), and is being actively used in day-to-day payments by teams like Yearn, GitcoinDAO or mStable. ...
+- [PrimeDAO Proposal Template 🤖](https://docs.google.com/document/d/1gSvGsBnHeo4AgOK83ijsE7K2M0-wL3VPEy-m-kzxVcM/)
+  > This is a template proposal with guidelines on key aspects you might want to include when writing your proposal. Keep in mind it’s ok to bend or break guidelines — if your proposal doesn’t fit this template, don’t feel the need to follow the template. Write down your proposal using this templa...
+- [Twitter Spaces: DAO2DAO Tooling - Exploring the Proposal Inverter](https://docs.google.com/document/d/1ljUhQxgpFjgmHtdwz4MyaO6Sdrh-ldRDf9BwY1naOVg/)
+  > TEC Roundtable Episode 1: DAO2DAO Tooling - Exploring the Proposal Inverter April 5 Pre-Spaces Meeting: Attendees: Agenda: Going over the Format Establish a time on Mondat 11:00 AM PST Clarify terminology. Explore the distribution of funds within the Proposal Inverter Best way to explain time...
+- [Praise System Analysis](https://docs.google.com/document/d/1QiVfjtFDW1ahehdVXFV4Dauo5k_QM77FOUHS9CWmu7k/)
+  > Praise System Research & Analysis 📚 Document Library Hack MD https://hackmd.io/t3VzO6jwSx-AcKyJiopmrw Praise System Analysis Forum Discussion https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/12 Repo https://github.com/CommonsBuild/praiseanalysis TEC Praise Dat...
+- [Theia Protocol One Pager](https://docs.google.com/document/d/1tG0bOYM304zMOIIK9eyLebCrKDOwWqz00fGYxbjqgkE/)
+  > Theia Protocol One Pager The Theia Protocol introduces a new and disruptive model for crowdfunding crypto startups. The principles of Trust, Equal Opportunities and Inclusion are at the heart of the Theia Protocol which is why it will become the de facto standard of fundraising. The crypto i...
+- [TEC Labs Rewards Research Manifesto](https://docs.google.com/document/d/1uYW6vKdCkxWnMjjfo982xwO150tVaE6EiJ676B_6W1A/)
+  > TEC Labs Rewards Research Manifesto YGG Learning from AI research (Reinforcement Learning) - Utilizing well-defined objective functions (quantitative formulations of reward) http://incompleteideas.net/book/bookdraft2017nov5.pdf NVC - Non violent communication 6 Fundamental Human Needs Certainty ...
+- [Klima DAO Research Report](https://docs.google.com/document/d/1WtmK_p5LqLdsFewhcS1qqMjLzHi2DykTqU6v4FZqQLA/)
+  > https://www.olympusdao.finance/ https://miro.medium.com/max/552/1*a0vfatiZxxHB7r5YvWhb6A.gif Key Terms BCT - Base Carbon Tonne IPCC - Intergovernmental Panel on Climate Change (IPCC) On Carbon Credits Two Categories Mitigation Sequestration Two Types of Markets Compliance Mark...
+- [TEC Labs Agenda](https://docs.google.com/document/d/1x6V7Faa3GZeAgv6fs4fM_P_5DFsGIE4pqnioxg1aMKE/)
+  > Friday October 29 Shawn, David, Thomas, Taz, BK, Austin Shawn BK Bought Bitcoin in 2017 when it was super hyped. At the time I was working in manufacturing, not related to crypto. But soon came to Canada to study data analytics. Interested in blockchain as it’s a different culture from other in...
+- [My Monstera Plant_cadCAD Boot Camp](https://docs.google.com/presentation/d/1rRsTHVzC6In5aGbOFj9-xNN1bcw-s_nJ0v6iQNokRJA/)
+  > My Monstera Houseplant Model
+- [Praise to Label](https://docs.google.com/spreadsheets/d/1ldBplIrHG8nWBxAa8pTgxX2OxTBx976ia51MC1ZhVXc/)
+  > praise-tags Category,descriptions,TEC / TE,Keywords TEC1,Comms - article, blog, organized, presentation, graphic(s), design, website, marketing, SEO, social platform,memes?,T,Discord, YouTube, Telegram, Forum, Discourse, Medium, LinkedIn, Website, article, retweeting, blog, organized, presentati...
+- [TEC Praise Quantification](https://docs.google.com/spreadsheets/d/1qvmwwlUHnQWYc2JQRoE1Qo_IKx6a4CI9ehWIMvkiqFc/)
+  > 75% Governance Calc Weight of No Abnormal Intervention,Weight of Praisemaggedon,Total (IH),Total (IH),Total (Tech),Total,IH Rate (TECH/IH),Scalor Factor for IH,Total IH 75% Calc,191,876.95,52.02%,47.98%,-5982.668,5308.661,255,835.93,100.00%,48.1921764,0.88734,9730.727 Handle,75% TEC Equiv,Effect...
+
+### GitHub
+
+- [praiseanalysis/praise-distribution-comparison.ipynb at main · andrewpenland/praiseanalysis](https://github.com/andrewpenland/praiseanalysis/blob/main/praise-distribution-comparison.ipynb)
+  > Analyzing Praise. Contribute to andrewpenland/praiseanalysis development by creating an account on GitHub.
+- [GitHub - scaffold-eth/scaffold-eth: 🏗 forkable Ethereum dev stack focused on fast product iterations](https://github.com/austintgriffith/scaffold-eth)
+  > 🏗 forkable Ethereum dev stack focused on fast product iterations - GitHub - scaffold-eth/scaffold-eth: 🏗 forkable Ethereum dev stack focused on fast product iterations
+- [GitHub - BeccaLyria/discord-bot: A friendly Discord bot.](https://github.com/BeccaLyria/discord-bot/)
+  > A friendly Discord bot. Contribute to BeccaLyria/discord-bot development by creating an account on GitHub.
+- [Issues · CommonsBuild/commons-config-proposals](https://github.com/CommonsBuild/commons-config-proposals/issues)
+  > Contribute to CommonsBuild/commons-config-proposals development by creating an account on GitHub.
+- [Stablebit · Issue #44 · CommonsBuild/commons-config-proposals](https://github.com/CommonsBuild/commons-config-proposals/issues/44)
+  > What is the overall Commons Configuration strategy? Targeting stability and a conviction compromise that is not too short or too long for maximum conviction. Stability all around FORK THIS PROPOSAL...
+- [GitHub - CommonsBuild/IH-intervention](https://github.com/CommonsBuild/IH-intervention)
+  > Contribute to CommonsBuild/IH-intervention development by creating an account on GitHub.
+- [Extend Voting One Week. Deadline for Submissions Thursday July 1st. Deadline for Voting July 8th. · Issue #7 · CommonsBuild/IH-intervention](https://github.com/CommonsBuild/IH-intervention/issues/7)
+  > Extend Voting Impact hours is a huge deal for everyone in this economy. Some incredible proposals have been submitted. Personally, I would like to really take the time to read them all in detail an...
+- [GitHub - CommonsBuild/labs-medium-scraper: Simple Scraper bot for researching on medium.](https://github.com/CommonsBuild/labs-medium-scraper)
+  > Simple Scraper bot for researching on medium. Contribute to CommonsBuild/labs-medium-scraper development by creating an account on GitHub.
+- [GitHub - CommonsBuild/praise-quantification](https://github.com/CommonsBuild/praise-quantification)
+  > Contribute to CommonsBuild/praise-quantification development by creating an account on GitHub.
+- [GitHub - CommonsBuild/praiseanalysis: Analyzing Praise](https://github.com/CommonsBuild/praiseanalysis)
+  > Analyzing Praise. Contribute to CommonsBuild/praiseanalysis development by creating an account on GitHub.
+- [GitHub - CommonsBuild/proposal-inverter: a combination of the delegator and revenue sharing models](https://github.com/CommonsBuild/proposal-inverter)
+  > a combination of the delegator and revenue sharing models - GitHub - CommonsBuild/proposal-inverter: a combination of the delegator and revenue sharing models
+- [GitHub - CommonsSwarm/hatch-template: Hatch Template contract](https://github.com/CommonsSwarm/hatch-template)
+  > Hatch Template contract. Contribute to CommonsSwarm/hatch-template development by creating an account on GitHub.
+- [Problems with running the test · Issue #4 · CommonsSwarm/hatch-template](https://github.com/CommonsSwarm/hatch-template/issues/4)
+  > Hi everyone Today I tried to run the tests. The first one passes, but the following three don&#39;t. I get the output you see below. With debuging I figured out it is caused by the hatchContext.hat...
+- [GitHub - CommonsSwarm/migration-tools](https://github.com/CommonsSwarm/migration-tools)
+  > Contribute to CommonsSwarm/migration-tools development by creating an account on GitHub.
+- [GitHub - CommonsSwarm/tec-convert: Convert between your Aragon tokens](https://github.com/CommonsSwarm/tec-convert)
+  > Convert between your Aragon tokens. Contribute to CommonsSwarm/tec-convert development by creating an account on GitHub.
+- [GitHub - ConsenSys-Academy/Blockchain-Developer-Bootcamp: Open-source version of ConsenSys Academy's Blockchain Developer Bootcamp](https://github.com/ConsenSys-Academy/Blockchain-Developer-Bootcamp)
+  > Open-source version of ConsenSys Academy&#39;s Blockchain Developer Bootcamp - GitHub - ConsenSys-Academy/Blockchain-Developer-Bootcamp: Open-source version of ConsenSys Academy&#39;s Blockchain De...
+- [GitHub - junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)
+  > :cherry_blossom: A command-line fuzzy finder. Contribute to junegunn/fzf development by creating an account on GitHub.
+- [GitHub - longtailfinancial/alexandra: The Discord Bot App that tracks voice channel presence](https://github.com/longtailfinancial/alexandra)
+  > The Discord Bot App that tracks voice channel presence - GitHub - longtailfinancial/alexandra: The Discord Bot App that tracks voice channel presence
+- [hatch-template/README.md at master · longtailfinancial/hatch-template](https://github.com/longtailfinancial/hatch-template/blob/master/README.md)
+  > Hatch Template contract. Contribute to longtailfinancial/hatch-template development by creating an account on GitHub.
+- [GitHub - MetaFam/skill-bot: A Discord bot that helps you discover skills and interests among people in your community](https://github.com/MetaFam/skill-bot)
+  > A Discord bot that helps you discover skills and interests among people in your community - GitHub - MetaFam/skill-bot: A Discord bot that helps you discover skills and interests among people in yo...
+- [GitHub - metaverde/scaffold-eth-challenges at stakerfinal](https://github.com/metaverde/scaffold-eth-challenges/tree/stakerfinal)
+  > Scaffold-Eth 🏗 Challenges repository. Contribute to metaverde/scaffold-eth-challenges development by creating an account on GitHub.
+- [GitHub - nvm-sh/nvm: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions](https://github.com/nvm-sh/nvm)
+  > Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions - GitHub - nvm-sh/nvm: Node Version Manager - POSIX-compliant bash script to manage multiple active nod...
+- [GitHub - pyenv/pyenv: Simple Python version management](https://github.com/pyenv/pyenv)
+  > Simple Python version management. Contribute to pyenv/pyenv development by creating an account on GitHub.
+- [GitHub - saunic/discord-bot](https://github.com/saunic/discord-bot)
+  > Contribute to saunic/discord-bot development by creating an account on GitHub.
+- [GitHub - saunic/discord-bot at master](https://github.com/saunic/discord-bot/tree/master)
+  > Contribute to saunic/discord-bot development by creating an account on GitHub.
+- [GitHub - scaffold-eth/scaffold-eth: 🏗 forkable Ethereum dev stack focused on fast product iterations](https://github.com/scaffold-eth/scaffold-eth)
+  > 🏗 forkable Ethereum dev stack focused on fast product iterations - GitHub - scaffold-eth/scaffold-eth: 🏗 forkable Ethereum dev stack focused on fast product iterations
+- [GitHub - scaffold-eth/scaffold-eth-challenges: Scaffold-Eth 🏗 Challenges repository](https://github.com/scaffold-eth/scaffold-eth-challenges)
+  > Scaffold-Eth 🏗 Challenges repository. Contribute to scaffold-eth/scaffold-eth-challenges development by creating an account on GitHub.
+- [GitHub - scaffold-eth/scaffold-eth-challenges at challenge-0-simple-nft](https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-0-simple-nft)
+  > Scaffold-Eth 🏗 Challenges repository. Contribute to scaffold-eth/scaffold-eth-challenges development by creating an account on GitHub.
+- [Got the nft-store-bonding-curve into pragma 8. by metaverde · Pull Request #679 · scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth/pull/679)
+  > I had to take a few assets off the artwork.json to get the files to all load, but I did get it into pragma 8 and it all seems to be working. I think this is the easiest link to use? metaverde@dacf1...
+- [GitHub - scaffold-eth/scaffold-eth at simple-nft-example](https://github.com/scaffold-eth/scaffold-eth/tree/simple-nft-example)
+  > 🏗 forkable Ethereum dev stack focused on fast product iterations - GitHub - scaffold-eth/scaffold-eth at simple-nft-example
+- [GitHub - CommonsBuild/praise-quantification](https://github.com/TECommons/Praise-Quantification)
+  > Contribute to CommonsBuild/praise-quantification development by creating an account on GitHub.
+- [GitHub - TokenEngineeringCommunity/intro-to-bonding-curves: A Technical Introduction to Bonding Curves, for beginners](https://github.com/TokenEngineeringCommunity/intro-to-bonding-curves)
+  > A Technical Introduction to Bonding Curves, for beginners - GitHub - TokenEngineeringCommunity/intro-to-bonding-curves: A Technical Introduction to Bonding Curves, for beginners
+- [GitHub - Vyvy-vi/quiz-bot](https://github.com/Vyvy-vi/quiz-bot)
+  > Contribute to Vyvy-vi/quiz-bot development by creating an account on GitHub.
+- [GitHub - wting/autojump: A cd command that learns - easily navigate directories from the command line](https://github.com/wting/autojump)
+  > A cd command that learns - easily navigate directories from the command line - GitHub - wting/autojump: A cd command that learns - easily navigate directories from the command line
+
+
+### Notion
+
+- [https://www.notion.so/3a64600d3c0b4f64980aa02c8ded2346](https://www.notion.so/3a64600d3c0b4f64980aa02c8ded2346)
+- [https://www.notion.so/573376778d604c00b3e3a5a2b22c0128](https://www.notion.so/573376778d604c00b3e3a5a2b22c0128)
+- [https://www.notion.so/6061e04f94d24e458195296f3e5dd1ef](https://www.notion.so/6061e04f94d24e458195296f3e5dd1ef)
+- [https://www.notion.so/633e88e53ea94734abe743069dedbc75](https://www.notion.so/633e88e53ea94734abe743069dedbc75)
+- [https://www.notion.so/8f3491ddb30c4787a117bfae4a0a80a2?v=d292e0fe28304951af88a4cf83db9e1c&p=01bec238808d4ae3ba33b03ef32f214d](https://www.notion.so/8f3491ddb30c4787a117bfae4a0a80a2?v=d292e0fe28304951af88a4cf83db9e1c&p=01bec238808d4ae3ba33b03ef32f214d)
+- [https://www.notion.so/b5b6557d2ae94623b75c3b8b45d21d9b](https://www.notion.so/b5b6557d2ae94623b75c3b8b45d21d9b)
+- [https://www.notion.so/Bonding-curves-2b2c609ca5b94f7e9a39cbdfdf24a16a](https://www.notion.so/Bonding-curves-2b2c609ca5b94f7e9a39cbdfdf24a16a)
+- [https://www.notion.so/cadCAD-Onboarding-TL-DR-e0da826e676344ee94d71d39d65d4fc2](https://www.notion.so/cadCAD-Onboarding-TL-DR-e0da826e676344ee94d71d39d65d4fc2)
+- [https://www.notion.so/cadCAD-Study-Group-Series-1-c886edefbcba4ceeb3eb65220556a9cd](https://www.notion.so/cadCAD-Study-Group-Series-1-c886edefbcba4ceeb3eb65220556a9cd)
+- [https://www.notion.so/cadCAD-Study-Group-Series-2-fc49e4523a0047e7a9685f2f0a2d5c94](https://www.notion.so/cadCAD-Study-Group-Series-2-fc49e4523a0047e7a9685f2f0a2d5c94)
+- [https://www.notion.so/cadCAD-Study-Group-Series-c886edefbcba4ceeb3eb65220556a9cd](https://www.notion.so/cadCAD-Study-Group-Series-c886edefbcba4ceeb3eb65220556a9cd)
+- [https://www.notion.so/d3edf05f8ccf48569b134504dd126c8f](https://www.notion.so/d3edf05f8ccf48569b134504dd126c8f)
+- [https://www.notion.so/profiles-motivations-of-the-overlapping-stakeholders-3a64600d3c0b4f64980aa02c8ded2346#1a5d2cfa7ca3411baae9152ff79ecb8d](https://www.notion.so/profiles-motivations-of-the-overlapping-stakeholders-3a64600d3c0b4f64980aa02c8ded2346#1a5d2cfa7ca3411baae9152ff79ecb8d)
+- [https://www.notion.so/Services-marketplace-design-633e88e53ea94734abe743069dedbc75](https://www.notion.so/Services-marketplace-design-633e88e53ea94734abe743069dedbc75)
+- [https://www.notion.so/Session-2-b1e803f0a30440cda02b616f219c696a](https://www.notion.so/Session-2-b1e803f0a30440cda02b616f219c696a)
+- [https://www.notion.so/Session-3-bc47ad80be774b7b84fc3174ce61709a](https://www.notion.so/Session-3-bc47ad80be774b7b84fc3174ce61709a)
+- [https://www.notion.so/Session-3-cadCAD-in-context-ffdaeca90d2a48e88d9414ebf663df73](https://www.notion.so/Session-3-cadCAD-in-context-ffdaeca90d2a48e88d9414ebf663df73)
+- [https://www.notion.so/Session-3-cadCAD-in-context-ffdaeca90d2a48e88d9414ebf663df73#d2b3c8ac8e6d4615a11862ee280f6a44](https://www.notion.so/Session-3-cadCAD-in-context-ffdaeca90d2a48e88d9414ebf663df73#d2b3c8ac8e6d4615a11862ee280f6a44)
+- [https://www.notion.so/Session-4-6c643532881c4050a7843e1f489190eb](https://www.notion.so/Session-4-6c643532881c4050a7843e1f489190eb)
+- [https://www.notion.so/Session-5-01bec238808d4ae3ba33b03ef32f214d](https://www.notion.so/Session-5-01bec238808d4ae3ba33b03ef32f214d)
+- [https://www.notion.so/Skill-Forest-b5b6557d2ae94623b75c3b8b45d21d9b](https://www.notion.so/Skill-Forest-b5b6557d2ae94623b75c3b8b45d21d9b)
+- [https://www.notion.so/Summoning-a-Discord-Bot-Army-TEC-Lab-Series-ed2ab33c86634dbfa09823628a449af3](https://www.notion.so/Summoning-a-Discord-Bot-Army-TEC-Lab-Series-ed2ab33c86634dbfa09823628a449af3)
+- [https://www.notion.so/TE-services-ecosystem-development-d3edf05f8ccf48569b134504dd126c8f](https://www.notion.so/TE-services-ecosystem-development-d3edf05f8ccf48569b134504dd126c8f)
+- [https://www.notion.so/WG-Ecosystem-mapping-573376778d604c00b3e3a5a2b22c0128#116a87ae665c419fae2b36be9b8b499b](https://www.notion.so/WG-Ecosystem-mapping-573376778d604c00b3e3a5a2b22c0128#116a87ae665c419fae2b36be9b8b499b)
+- [https://www.notion.so/WG-kick-off-meeting-a4cef8510d6e49988a1c329744cb3ab7](https://www.notion.so/WG-kick-off-meeting-a4cef8510d6e49988a1c329744cb3ab7)
+- [https://www.notion.so/WG-MVP-6061e04f94d24e458195296f3e5dd1ef](https://www.notion.so/WG-MVP-6061e04f94d24e458195296f3e5dd1ef)
+
+### Twitter
+
 https://t.co/6drFZMosHO
 https://t.co/8hfcbK8O0l
 https://t.co/AqReKCRJa3
@@ -254,106 +431,18 @@ https://t.co/Y0WX4gOc7N
 https://t.co/j0UjieSWjM
 https://t.co/y43b23wNwK
 https://t.co/zx5VsJHpuf
-https://t.me/NFTsSkillForest
-https://thegraph.com/docs/en/hosted-service/what-is-hosted-service/
-https://thegraph.com/hosted-service/subgraph/commonsbuild/convert
-https://tokenengineeringcommunity.github.io/intro-to-bonding-curves/#/
-https://tokenengineeringtest.herokuapp.com/
-https://trite-ring.surge.sh/
-https://twitter.com/0xbluecow
 https://twitter.com/0xbluecow/status/1516928602423574531
-https://twitter.com/ClaymingSpace
 https://twitter.com/ClaymingSpace/status/1456393282762772485?s=20
-https://twitter.com/MelMitchell1
 https://twitter.com/MelMitchell1/status/1408139034430382081
-https://twitter.com/cadcad_org
 https://twitter.com/cadcad_org/status/1445106810927603713?s=20
 https://twitter.com/cadcad_org/status/1455474423310467077
 https://twitter.com/cadcad_org/status/1514166795892105221?s=20&t=iu5QNctvXDoP8bfSxIm_nw
-https://twitter.com/coffeebreak_YT
-https://twitter.com/etherscan
-https://twitter.com/tokengineering
 https://twitter.com/tokengineering/status/1400361191248105472
 https://twitter.com/tokengineering/status/1453045150054326287?s=20
 https://twitter.com/tokengineering/status/1453045692512051202
 https://twitter.com/tokengineering/status/1480892464567357440
-https://twitter.com/ygg_anderson
 https://twitter.com/ygg_anderson/status/1399516470917300225
-https://us02web.zoom.us/j/6985323627?pwd=YmxXaWNrdk1uSmV5bUFsaTJEWEtNZz09
-https://vitalik.ca/general/2021/07/29/gini.html
-https://w
-https://w/
-https://wide-glove.surge.sh/
-https://www.cadcad.education/
-https://www.cadcad.education/course/bootcamp
-https://www.cadcad.education/path-player?courseid=cadcad-hacks&unit=6063781a6809f13407612623Unit
-https://www.codecademy.com/
-https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python?refcode=4d2af78748bd&utm_campaign=pythonebook&utm_medium=ebook&utm_source=ebook
-https://www.dunebook.com/7-best-solidity-ide/
-https://www.dunebook.com/author/kunle/
-https://www.ethdenver.com/
-https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows-2/
-https://www.instagram.com/coffeebreak_yt/
-https://www.kiwico.com/Veritasium50
-https://www.loom.com/share/5dc0102417104fbabf0737cc237b3cba
-https://www.loom.com/share/c6bf59a8da604824abe44a663457adf2
-https://www.nasa.gov/sites/default/files/atoms/files/nasa_tp_20205003644_interactive2.pdf
-https://www.notion.so/3a64600d3c0b4f64980aa02c8ded2346
-https://www.notion.so/573376778d604c00b3e3a5a2b22c0128
-https://www.notion.so/6061e04f94d24e458195296f3e5dd1ef
-https://www.notion.so/633e88e53ea94734abe743069dedbc75
-https://www.notion.so/8f3491ddb30c4787a117bfae4a0a80a2?v=d292e0fe28304951af88a4cf83db9e1c&p=01bec238808d4ae3ba33b03ef32f214d
-https://www.notion.so/Bonding-curves-2b2c609ca5b94f7e9a39cbdfdf24a16a
-https://www.notion.so/Services-marketplace-design-633e88e53ea94734abe743069dedbc75
-https://www.notion.so/Session-2-b1e803f0a30440cda02b616f219c696a
-https://www.notion.so/Session-3-bc47ad80be774b7b84fc3174ce61709a
-https://www.notion.so/Session-3-cadCAD-in-context-ffdaeca90d2a48e88d9414ebf663df73
-https://www.notion.so/Session-3-cadCAD-in-context-ffdaeca90d2a48e88d9414ebf663df73#d2b3c8ac8e6d4615a11862ee280f6a44
-https://www.notion.so/Session-4-6c643532881c4050a7843e1f489190eb
-https://www.notion.so/Session-5-01bec238808d4ae3ba33b03ef32f214d
-https://www.notion.so/Skill-Forest-b5b6557d2ae94623b75c3b8b45d21d9b
-https://www.notion.so/Summoning-a-Discord-Bot-Army-TEC-Lab-Series-ed2ab33c86634dbfa09823628a449af3
-https://www.notion.so/TE-services-ecosystem-development-d3edf05f8ccf48569b134504dd126c8f
-https://www.notion.so/WG-Ecosystem-mapping-573376778d604c00b3e3a5a2b22c0128#116a87ae665c419fae2b36be9b8b499b
-https://www.notion.so/WG-MVP-6061e04f94d24e458195296f3e5dd1ef
-https://www.notion.so/WG-kick-off-meeting-a4cef8510d6e49988a1c329744cb3ab7
-https://www.notion.so/b5b6557d2ae94623b75c3b8b45d21d9b
-https://www.notion.so/cadCAD-Onboarding-TL-DR-e0da826e676344ee94d71d39d65d4fc2
-https://www.notion.so/cadCAD-Study-Group-Series-1-c886edefbcba4ceeb3eb65220556a9cd
-https://www.notion.so/cadCAD-Study-Group-Series-2-fc49e4523a0047e7a9685f2f0a2d5c94
-https://www.notion.so/cadCAD-Study-Group-Series-c886edefbcba4ceeb3eb65220556a9cd
-https://www.notion.so/d3edf05f8ccf48569b134504dd126c8f
-https://www.notion.so/profiles-motivations-of-the-overlapping-stakeholders-3a64600d3c0b4f64980aa02c8ded2346#1a5d2cfa7ca3411baae9152ff79ecb8d
-https://www.olympusdao.finance/
-https://www.opensourceecology.org/
-https://www.pluralsight.com/offer/2021/free-april-individual
-https://www.screencast.com/t/jLd8mGyr8i1T
-https://www.sunetrike.com/solar-impulse/my-pedal-powered-journey/
-https://www.twitch.tv/ygg_anderson
-https://www.w3.org/community/talent-signal/wiki/Referring_skills_requirements_to_competency_definitions
-https://www.web3.university/
-https://www.web3con.dev/
-https://www.youtube.com/channel/UCFQMnBA3CS502aghlcr0_aw
-https://www.youtube.com/channel/UCG7xOPskU9HsAJs5ywImd1Q
-https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
-https://www.youtube.com/channel/UCJj16pQYwvXxfUJGQ_BMXeA
-https://www.youtube.com/channel/UCKXEESjIEsKmGzws3fDKwFA
-https://www.youtube.com/channel/UCQ6UUADq9AczXv0RmzpgBHw
-https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg
-https://www.youtube.com/channel/UCfPQrqsmYFFRK0NKLEr27Bg
-https://www.youtube.com/channel/UCpV5xOAT_EvfCcehL-W3s-Q
-https://www.youtube.com/watch?v=2nhXBAXHUT4&list=PLOrdl19FvoiO0zJmewwVkG8Jg-bJlABod&index=19&t=5s
-https://www.youtube.com/watch?v=DwEbpwgeWVg
-https://www.youtube.com/watch?v=LEKwQxO4EZU
-https://www.youtube.com/watch?v=V16U4J65xkM
-https://www.youtube.com/watch?v=hXYEVVkybA8&list=PLOrdl19FvoiO0zJmewwVkG8Jg-bJlABod&index=18&t=30s
-https://www.youtube.com/watch?v=i_VsgT5gfMc
-https://www.youtube.com/watch?v=l5YfBArovsU&t=4058s
-https://www.youtube.com/watch?v=nMSQ1yoPT2c&list=PL4qw3AkxFDSNhEgawXD1j6r0iN1072XIB&index=1
-https://www.youtube.com/watch?v=qsGXqyaR94o&feature=youtu.be
-https://www.youtube.com/watch?v=uFN9a3-zEGI&list=PLXAMIZb_fed5OaByfLnilGXhBI8K4U1Ik&index=60
-https://youtu.be/sl1LpdPdgtU
-https://youtu.be/t-_VPRCtiUg
+https://twitter.com/etherscan/status/1196316292480815104
 
 ## Chat
 
@@ -439,9 +528,9 @@ _19-Mar-21 12:10 PM_:
 
 [https://consensys.net/academy/bootcamp/](https://consensys.net/academy/bootcamp/)
 
-ConsenSys Academy Courses Bootcamp | ConsenSys
+ConsenSys Academy Courses Bootcamp - ConsenSys
 
-ConsenSys Academy Courses Bootcamp | ConsenSys
+ConsenSys Academy Courses Bootcamp - ConsenSys
 
 ![https://cdn.discordapp.com/avatars/484862180370677761/b430b9edbb6602da725c07f9e6b3d517.png](https://cdn.discordapp.com/avatars/484862180370677761/b430b9edbb6602da725c07f9e6b3d517.png)
 
@@ -707,7 +796,7 @@ _10-Apr-21 03:52 AM_:
 
 If anyone wants to continue forward, after getting a boost from pluralsight, here's a curated list of python resources in all forms- (books, video, courses, problem sites) [https://pythondiscord.com/pages/resources/](https://pythondiscord.com/pages/resources/) (some of the core python devs vouch for the resources here)
 
-Python Discord | Resources
+Python Discord - Resources
 
 We're a large, friendly community focused around the Python programming language. Our community is open to those who wish to learn the language, as well as those looking to help others.
 
@@ -817,7 +906,7 @@ a small simulation of small fireflies
 
 _16-Apr-21 12:27 PM_:
 
-Firefly sync and other similar effects. [https://youtu.be/t-_VPRCtiUg](https://youtu.be/t-_VPRCtiUg)
+Firefly sync and other similar effects. [https://www.youtube.com/watch?v=t-_VPRCtiUg](https://www.youtube.com/watch?v=t-_VPRCtiUg)
 
 [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
 
@@ -891,7 +980,7 @@ _17-Apr-21 04:42 PM_:
 
 Another Python ed gem - free ebook: [https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python?refcode=4d2af78748bd&utm_campaign=pythonebook&utm_medium=ebook&utm_source=ebook](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python?refcode=4d2af78748bd&utm_campaign=pythonebook&utm_medium=ebook&utm_source=ebook)
 
-Free Educational eBook — Learn How To Program in Python 3 | Digital...
+Free Educational eBook — Learn How To Program in Python 3 - Digital...
 
 The free How To Code in Python eBook can be used as an Open Educational Resource and an alternative to a textbook in the classroom, as well as be made available for the wider public through libraries.
 
@@ -1342,7 +1431,7 @@ Hey Labs peeps! Just wanted to quickly shill the cadCAD community call happening
 
 (edited)
 
-Discord | Your Place to Talk and Hang Out
+Discord - Your Place to Talk and Hang Out
 
 Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities.
 
@@ -1712,7 +1801,7 @@ coordination / discussion on discord is encouraged too
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Sign up using your Office 365, Slack, Google or Facebook accounts.
 
@@ -2058,7 +2147,7 @@ A Discord bot that helps you discover skills and interests among people in your 
 
 [https://opengraph.githubassets.com/ef4e671f634ff6d109230112cb512d8aa9845f68c41a5126e992c7efa8bd9439/MetaFam/skill-bot](https://opengraph.githubassets.com/ef4e671f634ff6d109230112cb512d8aa9845f68c41a5126e992c7efa8bd9439/MetaFam/skill-bot)
 
-[https://youtu.be/sl1LpdPdgtU](https://youtu.be/sl1LpdPdgtU)
+[https://www.youtube.com/watch?v=sl1LpdPdgtU](https://www.youtube.com/watch?v=sl1LpdPdgtU)
 
 [Sad Birds Gaming](https://www.youtube.com/channel/UCpV5xOAT_EvfCcehL-W3s-Q)
 
@@ -2544,7 +2633,7 @@ _26-Jun-21 11:20 PM_:
 
 @🐙 octopus They used [https://revealjs.com/](https://revealjs.com/) [https://github.com/TokenEngineeringCommunity/intro-to-bonding-curves](https://github.com/TokenEngineeringCommunity/intro-to-bonding-curves)
 
-The HTML presentation framework | reveal.js
+The HTML presentation framework - reveal.js
 
 Documentation and demos for the open source reveal.js HTML presentation framework.
 
@@ -2670,7 +2759,7 @@ _23-Jul-21 12:31 PM_:
 
 Examples of specifications: [https://eips.ethereum.org/erc](https://eips.ethereum.org/erc)
 
-ERC | Ethereum Improvement Proposals
+ERC - Ethereum Improvement Proposals
 
 Ethereum Improvement Proposals (EIPs) describe standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
 
@@ -3045,7 +3134,7 @@ The Space Punks Club is a collection of 10,000 AI-generated collectibles levitat
 
 [https://lh3.googleusercontent.com/djaU9OjfkY-vLo4B0TNPT2GUYkqZkbhpal3j0auM0DJZiCH_Q-vy8N2Ah3KyAAvewW44H-rli_QPaqx437HWDK0sqAWwA4wTHwG-=s2500](https://lh3.googleusercontent.com/djaU9OjfkY-vLo4B0TNPT2GUYkqZkbhpal3j0auM0DJZiCH_Q-vy8N2Ah3KyAAvewW44H-rli_QPaqx437HWDK0sqAWwA4wTHwG-=s2500)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _24-Aug-21 11:07 AM_:
 
@@ -3081,7 +3170,7 @@ forkable Ethereum dev stack focused on fast product iterations
 
 _24-Aug-21 11:17 AM_:
 
-@David D. | TEC [https://www.youtube.com/watch?v=l5YfBArovsU&t=4058s](https://www.youtube.com/watch?v=l5YfBArovsU&t=4058s)
+@David D. - TEC [https://www.youtube.com/watch?v=l5YfBArovsU&t=4058s](https://www.youtube.com/watch?v=l5YfBArovsU&t=4058s)
 
 [cadCAD](https://www.youtube.com/channel/UCQ6UUADq9AczXv0RmzpgBHw)
 
@@ -3525,7 +3614,7 @@ They have reduced it to the first 1000 holders, but still useful data.
 
 [https://etherscan.io/tokens](https://etherscan.io/tokens)
 
-Token Tracker | Etherscan
+Token Tracker - Etherscan
 
 The list of ERC-20 Tokens and their Prices, Market Capitalizations and the Number of Holders in the Ethereum Blockchain on Etherscan.
 
@@ -3852,7 +3941,7 @@ _27-Sep-21 05:47 AM_:
 
 Hi Guys, I believe that we have a major flaw in our society, the people and organisations that provide the most value to society are not fairly compensated. This is because a large part of what we consider valuable lies outside the realm of profit/money and no bridge exists connecting the two. After all, Public Goods are Inefficient Markets and no method exists to profitably invest in projects providing non-monetary value to society. I have designed a solution that will build a bridge between Nonprofit and For Profit sectors, enabling private investors to fund projects providing non-monetary value profitably and sustainably, without the need for government intermediaries. The Samurai will be a layer 1.5 technology, providing the economic framework for entrepreneurs to build functional markets around public goods as well as creating new business models for existing sectors i.e. Think Twitch but without advertising, where anyone can invest in a content creator and make a profit if that content creator hits X views/followers on the platform. The Samurai Protocol will provide a new paradigm of collaboration between people. Our Ethos is "Making Money by Doing Good". Samurai Materials: [https://drive.google.com/drive/folders/1kgiZs207bz3ZznKi5-eYHbIKHttAbCzT?usp=sharing](https://drive.google.com/drive/folders/1kgiZs207bz3ZznKi5-eYHbIKHttAbCzT?usp=sharing) - I am looking to build a team of token engineers to help realise this vision. Anyone who is interested in contributing to the project in any way, please feel free to DM. All the best, Nikita Steel
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _30-Sep-21 02:49 PM_:
 
@@ -3868,7 +3957,7 @@ Thanks!
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [Please invite me to longtail financial discord server.](about:blank#)
 
@@ -4028,7 +4117,7 @@ _25-Oct-21 06:47 PM_:
 
 I'm planning to host the labs from 19 November through 25 February. Thank you so much @ygg_anderson for inviting me to do this. I'll have support material for CryptoZombies up soon. Atm the next and back buttons aren't working on the site, so I've been changing the chapter number in the address bar. Sigh. Oh. The CryptoZombies site: [https://cryptozombies.io/en/lesson/1](https://cryptozombies.io/en/lesson/1) .
 
-#1 Solidity Tutorial & Ethereum Blockchain Programming Course | Cry...
+#1 Solidity Tutorial & Ethereum Blockchain Programming Course - Cry...
 
 CryptoZombies is The Most Popular, Interactive Solidity Tutorial That Will Help You Learn Blockchain Programming on Ethereum by Building Your Own Fun Game with Zombies — Master Blockchain Development with Web3, Infura, Metamask & Ethereum Smart Contracts and Become a Blockchain Developer in Record Time!
 
@@ -4095,7 +4184,7 @@ _29-Oct-21 12:03 PM_:
 
 Discord's not picking up my Mic. Gonna reboot.
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _29-Oct-21 12:10 PM_:
 
@@ -4181,9 +4270,9 @@ _29-Oct-21 12:50 PM_:
 
 ZenHub
 
-Project Management and Software Development with GitHub | ZenHub
+Project Management and Software Development with GitHub - ZenHub
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _29-Oct-21 02:16 PM_:
 Ok well my curriculum seems defined for the next couple years
@@ -4317,7 +4406,7 @@ Hey everyone, I'm still under the weather and have decided to take this whole we
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _15-Nov-21 12:22 PM_:
 
@@ -4356,7 +4445,7 @@ excellent. I'll do my best to make time to join.
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
 _19-Nov-21 11:38 AM_:
-Thanks @David D. | TEC and @Yashmanso ! Feeling better! Unfortunately I can't make it to the cryptozombies today because I'm in the rewards research block at this time
+Thanks @David D. - TEC and @Yashmanso ! Feeling better! Unfortunately I can't make it to the cryptozombies today because I'm in the rewards research block at this time
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
 
@@ -4368,7 +4457,7 @@ _19-Nov-21 12:00 PM_:
 
 [https://cryptozombies.io/en/lesson/1](https://cryptozombies.io/en/lesson/1)
 
-#1 Solidity Tutorial & Ethereum Blockchain Programming Course | Cry...
+#1 Solidity Tutorial & Ethereum Blockchain Programming Course - Cry...
 
 CryptoZombies is The Most Popular, Interactive Solidity Tutorial That Will Help You Learn Blockchain Programming on Ethereum by Building Your Own Fun Game with Zombies — Master Blockchain Development with Web3, Infura, Metamask & Ethereum Smart Contracts and Become a Blockchain Developer in Record Time!
 
@@ -4378,7 +4467,7 @@ CryptoZombies is The Most Popular, Interactive Solidity Tutorial That Will Help 
 
 ygg_anderson
 
-[Thanks @David D. | TEC and @Yashmanso ! Feeling better! Unfortunately I can't make it to the cryptozombies today because I'm in the rewards research block at this time  cryptozombies is going to be so fun and educational!](about:blank#)
+[Thanks @David D. - TEC and @Yashmanso ! Feeling better! Unfortunately I can't make it to the cryptozombies today because I'm in the rewards research block at this time  cryptozombies is going to be so fun and educational!](about:blank#)
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
 
@@ -4489,7 +4578,7 @@ I'm wondering if the lab shouldn't be an hour earlier for less conflict with oth
 
 [https://cryptozombies.io/en/lesson/1/chapter/1](https://cryptozombies.io/en/lesson/1/chapter/1)
 
-#1 Solidity Tutorial & Ethereum Blockchain Programming Course | Cry...
+#1 Solidity Tutorial & Ethereum Blockchain Programming Course - Cry...
 
 CryptoZombies is The Most Popular, Interactive Solidity Tutorial That Will Help You Learn Blockchain Programming on Ethereum by Building Your Own Fun Game with Zombies — Master Blockchain Development with Web3, Infura, Metamask & Ethereum Smart Contracts and Become a Blockchain Developer in Record Time!
 
@@ -4648,7 +4737,7 @@ did you do a "yarn add all" or "npm install all" when you pull from github, it d
 
 _28-Nov-21 04:24 PM_:
 
-sudo apt-get install libsecret-1-dev fixed me up. Aha! Excellent intel. I think after we rip through a couple of CryptoZombies we'll do your Hardhat deployment then Austin's challenges. I should be good to go with them by then. This is so exciting @billyjitsu @David D. | TEC was so supportive my first few CryptoZombies. It really meant a lot. I'm going to go !praise him now. @Nuggan just super-helpful finding the challenges. You all are really top drawer.
+sudo apt-get install libsecret-1-dev fixed me up. Aha! Excellent intel. I think after we rip through a couple of CryptoZombies we'll do your Hardhat deployment then Austin's challenges. I should be good to go with them by then. This is so exciting @billyjitsu @David D. - TEC was so supportive my first few CryptoZombies. It really meant a lot. I'm going to go !praise him now. @Nuggan just super-helpful finding the challenges. You all are really top drawer.
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
@@ -4995,7 +5084,7 @@ _14-Dec-21 08:26 AM_:
 
 [https://ethereum.org/en/developers/learning-tools/](https://ethereum.org/en/developers/learning-tools/)
 
-Developer learning tools | ethereum.org
+Developer learning tools - ethereum.org
 
 Web-based coding tools and interactive learning experiences to help you experiment with Ethereum development.
 
@@ -5668,7 +5757,7 @@ _28-Jan-22 01:38 PM_:
 
 [https://www.codecademy.com/](https://www.codecademy.com/)
 
-Learn to Code - for Free | Codecademy
+Learn to Code - for Free - Codecademy
 
 Learn the technical skills to get the job you want. Join over 50 million people choosing Codecademy to start a new career (or advance in their current one).
 
@@ -5676,7 +5765,7 @@ Learn the technical skills to get the job you want. Join over 50 million people 
 
 [https://miro.com/app/board/uXjVOaSkwNQ=/](https://miro.com/app/board/uXjVOaSkwNQ=/)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 30M+ users from around the world
 
@@ -5744,7 +5833,7 @@ _11-Feb-22 01:05 PM_:
 
 @MargaritaDave This might be interesting: [https://www.opensourceecology.org/](https://www.opensourceecology.org/)
 
-Home | Open Source Ecology
+Home - Open Source Ecology
 
 We’re developing open source industrial machines that can be made for a fraction of commercial costs, and sharing our designs online for free. The goal of Open Source Ecology is to create an open source economy – an efficient economy which increases innovation by open collaboration.
 
@@ -6281,7 +6370,7 @@ _19-Mar-22 11:34 AM_:
 
 download nodejs - [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
-Download | Node.js
+Download - Node.js
 
 Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
@@ -6515,7 +6604,7 @@ Discord Developer Portal — API Docs for Bots and Developers
 
 Integrate your service with Discord — whether it's a bot or a game or whatever your wildest imagination can come up with.
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _01-Apr-22 12:06 PM_:
 
@@ -7093,7 +7182,7 @@ Hi all labmates! The weekly Friday labs are going on hiatus. We are taking time 
 
 2
 
-<h3>ffstrauf | UTC +11 <img src="https://cdn.discordapp.com/avatars/275681329155407873/fdb09a592b48ed7019680d6f8a8c8f36.png" width=25 height=25></h3>
+<h3>ffstrauf - UTC +11 <img src="https://cdn.discordapp.com/avatars/275681329155407873/fdb09a592b48ed7019680d6f8a8c8f36.png" width=25 height=25></h3>
 
 _24-May-22 07:27 PM_:
 
@@ -7105,7 +7194,7 @@ Hey folks, Flo from Tokenomics DAO here. I just had a chat with @liviade to disc
 
 ![https://cdn.discordapp.com/avatars/275681329155407873/fdb09a592b48ed7019680d6f8a8c8f36.png](https://cdn.discordapp.com/avatars/275681329155407873/fdb09a592b48ed7019680d6f8a8c8f36.png)
 
-ffstrauf | UTC +11
+ffstrauf - UTC +11
 
 [Hey folks, Flo from Tokenomics DAO here. I just had a chat with @liviade to discuss modes of collaboration. We'll have an open discussion on ETH2.0 on Friday. If you're interested, check it out here:](about:blank#)
 

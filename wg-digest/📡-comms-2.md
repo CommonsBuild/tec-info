@@ -12,287 +12,669 @@ The COMMS working group supports the TEC narrative, which may evolve over time, 
 
 ## Links
 
-http://bit.ly/virtualddp
-http://cassetteblog.com/2020/11/va-cassette-blog-10mo-aniversario
-http://instagram.com/madeon
-http://madeon.net
-http://smarturl.it/MadeonYT?IQid=yt
-http://smarturl.it/SGSpot?IQid=SGTMB
-http://smarturl.it/SGTMBPlay?IQid=S
-http://smarturl.it/SGTMCiTunes?IQid=SGTMB
-http://tecommons.org
-http://thehumanexperience.bandcamp.com/releases
-http://www.mana.com.mx/tour
-https://agilethought.com/author/chrisg
-https://agilethought.com/insights/?_sft_category=podcast#resources
-https://airtable.com/appkR0Hw0DR1ACzzw/tblaLOwBKeaoDEUU7/viw6l8zkwz8Q9Noe6?blocks=hide
-https://airtable.com/invite/l?inviteId=invFfAsEi7tcG45vh&inviteToken=4bfa434045fb44fc6b72f3c4abfa73c7538c3be644858d4c91f374368d88fa23&utm_source=email&originApplicationId=appkR0Hw0DR1ACzzw
-https://anchor.fm/theownershipeconomy/episodes/Episode-009---Localized-Democracy-and-Public-Goods-with-Token-Engineering--with-Jeff-Emmett-of-The-Commons-Stack--BlockScience-Labs-e1ggkqo
-https://app.gitbook.com/@suits-nathan/s/tec-source
-https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/what-is-the-tec/mission-vision-and-values
-https://app.hubspot.com/academy/9327973/tracks
-https://app.zenhub.com/workspaces/ending-the-crypto-technocracy-6032a0a8e6b017000e502da9/board?repos=332520994
-https://app.zenhub.com/workspaces/ending-the-crypto-technocracy-6032a0a8e6b017000e502da9/issues/commonsbuild/token-log-hatch-params/169
-https://app.zenhub.com/workspaces/tec-content-production-and-distribution-60549332d7d741001bbea827/issues/commonsbuild/content-distribution/38
-https://app.zenhub.com/workspaces/tec-content-production-and-distribution-60549332d7d741001bbea827/issues/commonsbuild/content-distribution/51
-https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coord
-https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/310
-https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/693
-https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/709
-https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/904
-https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/958
-https://aragon.chat
+- [Cassette Blog 10 mo Anniversary](http://cassetteblog.com/2020/11/va-cassette-blog-10mo-aniversario)
+- [madeon on Instagram](https://instagram.com/madeon)
+- [Madeon](http://madeon.net)
+- [MadeonVEVO](http://smarturl.it/MadeonYT?IQid=yt)
+- [Savage Garden](http://smarturl.it/SGSpot?IQid=SGTMB)
+  > Artist · 4.7M monthly listeners.
+- [Savage Garden To The Moon - Android Apps on Google Play](http://smarturl.it/SGTMBPlay?IQid=S)
+  > Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.
+- [Truly Madly Completely: The Best of Savage Garden by Savage Garden](http://smarturl.it/SGTMCiTunes?IQid=SGTMB)
+  > Album · 2005 · 17 Songs
+- [2030, by Gone Gone Beyond](http://thehumanexperience.bandcamp.com/releases)
+  > 12 track album
+- [Maná - Tour](http://www.mana.com.mx/tour)
+  > © Maná 2022. Todos los derechos reservados.
+- [Chris Groner](https://agilethought.com/author/chrisg)
+  > Copyright 2022 AgileThought, Inc. – Privacy Policy – Terms of Use
+- [Insights](https://agilethought.com/insights/?_sft_category=podcast#resources)
+  > Insights Featured Content Blogs · Brave New World: How to Manage Distributed Teams Amid COVID-19 Uncertainties Read More → Blogs · Alter the System, Alter the Outcome: The Danger of Changing Scrum Read More → Blogs · How to Get QA Involved Early in the Software Development Process Read More → Blogs · ACH Solution […]
+- [Episode 009 - Localized Democracy and Public Goods with Token Engineering, with Jeff Emmett of The Commons Stack / BlockScience Labs by The Ownership Economy](https://anchor.fm/theownershipeconomy/episodes/Episode-009---Localized-Democracy-and-Public-Goods-with-Token-Engineering--with-Jeff-Emmett-of-The-Commons-Stack--BlockScience-Labs-e1ggkqo)
+  > In this episode, Martin & Jahed sit down with Jeff Emmett, who is a prolific researcher at the Commons Stack, Token Engineering Commons, and BlockScience Labs, studying how to build community collaboration tools with blockchains. In the conversation, we cover how new forms of voting mechanisms can help communities make clearer, better decisions, measure and aggregate their own preferences, and execute and measure their impact, so they can ultimately achieve their goals. This episode will be of special interest to people working in impact assessment in NGOs, people building DAO governance tools, and communities looking for new, inclusive forms of democracy to experiment with locally. Here are the show notes: Impact Alpha Bonds Rewriting the story of human collaboration Challenges and Approaches to Scaling the Global Commons Automating Ostrom for Effective DAO Management Conviction Voting What is the Byzantine Generals Problem? Seeing Like a State, by James C. Scott Jeff Emmett on Twitter Token Engineering Commons The Commons Stack
+- [HubSpot - Academy](https://app.hubspot.com/academy/9327973/tracks)
+- [Discord - A New Way to Chat with Friends & Communities](https://aragon.chat)
+  > Discord is the easiest way to communicate over voice, video, and text. Chat, hang out, and stay close with your friends and communities.
+- [WFL](https://bit.ly/WFL-ANDRO)
+  > A.N.D.R.O X VALOP
+- [Pricing for Business | Bitwarden](https://bitwarden.com/pricing/business)
+  > Compare features and plans for individuals, teams and businesses for the open source Bitwarden Password Manager.
+- [403 Forbidden](https://blockworks.co/author/jasonblockworksgroup-io)
+- [403 Forbidden](https://blockworks.co/the-investors-guide-to-daos)
+- [What Is Social Listening & Why Is It Important? [+Expert Tips on How to Implement a Strategy]](https://blog.hubspot.com/service/social-listening)
+  > Learn all about social listening, key tools to help you analyze your social media, and expert tips on implementing a social listening strategy.
+- [Google Calendar - Sign in to Access & Edit Your Schedule](https://calendar.google.com/calendar/embed?src=dtint3ba66v4p2j7nnegefpvvg%40group.calendar.google.com&ctz=Europe%2FParis)
+  > to continue to Google Calendar
+- [Google Calendar - Sign in to Access & Edit Your Schedule](https://calendar.google.com/calendar/u/0/r/eventedit/copy/NXRnam1xZXEydmRiZXZudWJ0cTVkdWZ0ZDBfMjAyMjA0MTVUMTkwMDAwWiA1bWtlcDFhZDFqODYwazZnN2k3ZnI4cGxxMEBn)
+  > to continue to Google Calendar
+- [Google Calendar - Sign in to Access & Edit Your Schedule](https://calendar.google.com/calendar/u/0?cid=ZHRpbnQzYmE2NnY0cDJqN25uZWdlZnB2dmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+  > to continue to Google Calendar
+- [Google Calendar - Sign in to Access & Edit Your Schedule](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNwZnR1N3E0cGJ2M2Vta2EzNWhvdG9lc24gZHRpbnQzYmE2NnY0cDJqN25uZWdlZnB2dmdAZw&tmsrc=dtint3ba66v4p2j7nnegefpvvg%2540group.calendar.google.com)
+  > to continue to Google Calendar
+- [Google Calendar - Sign in to Access & Edit Your Schedule](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNwZnR1N3E0cGJ2M2Vta2EzNWhvdG9lc24gZHRpbnQzYmE2NnY0cDJqN25uZWdlZnB2dmdAZw&tmsrc=dtint3ba66v4p2j7nnegefpvvg%40group.calendar.google.com)
+  > to continue to Google Calendar
+- [](https://cdn.discordapp.com/attachments/810180622479917063/831589024379699263/TEC-OnboardingModuleDRAFT.pdf)
+- [](https://cdn.discordapp.com/attachments/810180622479917063/843881222710493184/TEC_spot01.pdf)
+- [](https://cdn.discordapp.com/attachments/810180622479917063/843882535763443786/TEC_hatchspot02.pdf)
+- [](https://cdn.discordapp.com/attachments/810180622479917063/843942520957566996/TEC_hatchspot03.pdf)
+- [](https://cdn.discordapp.com/attachments/810180622479917063/851580070178848798/TEC_Hatch_2-phases.pdf)
+- [](https://cdn.discordapp.com/attachments/810180622479917063/851580643280420884/TEC_visual_explainer_.pdf)
+- [](https://cdn.discordapp.com/attachments/810180622479917063/902599518787354656/TEC_-_Community_Data.pdf)
+- [](https://cdn.discordapp.com/attachments/810180622479917063/908778302976696320/rewards_meme_thread_FINAL_1.pages)
+- [](https://cdn.discordapp.com/attachments/810180622479917063/914929106502709288/1_pager_dollarcake_1_2.pdf)
+- [Craig](https://craig.chat/home)
+  > The multi-track recording bot for Discord.
+- [– definiciona](https://definiciona.com/author/ax000033de)
+  > Definición y etimología
+- [Significado y definición de procomún, etimología de procomún](https://definiciona.com/procomun)
+  > 1 Definición
+- [Introducing Media DAOs](https://dev.mirror.xyz/WPnZICvS2XbHJQ3u-GrsvYqios3XWmZhQvTKEyUJOGE)
+  > We’ve always said Mirror is a sum of its community. What is Mirror = Who’s on Mirror. Beyond its crypto foundation, we’ve continued to implement features that reinforce a decentralized, collaborative effort. $WRITE RACE gives community members the power to influence how the platform grows. Splits allow creators to route value from their work to other creators, suggesting no idea is an island. While Splits cited multiple voices as responsible for a single work, those citations came from a single individual. One publication, one author.
+- [DXdao | The First Super-Scalable Collective](https://dxdao.eth.link/#/worker-compensation)
+  > DXdao is a decentralized autonomous organization, or DAO, that develops, governs, and grows DeFi products. Spawned in May of 2019, DXdao is a highly scalable collective focused on the DeFi ecosystem.
+- [Attention Required! | Cloudflare](https://elements.envato.com)
+  > Please stand by, while we are checking your browser...
+- [Attention Required! | Cloudflare](https://elements.envato.com/glowing-circular-elements-forming-conical-shaped-f-T3JPTSK)
+  > Please stand by, while we are checking your browser...
+- [EIP: Idea : debtChain](https://ethereum-magicians.org/t/eip-idea-debtchain/9582)
+  > Hello all, Have an idea around, kind of a debtChain ~ EIP/standard or protocol, where we’d incorporate transitive relations in maths, in debt and collection scenarios via building trust in such way: bypassing the middle debtor. – from wikipedia In mathematics, a relation R on a set X is transitive, if for all elements a, b, c in X, whenever R relates a to b and b to c, then R also relates a to c. Each partial order as well as each equivalence relation needs to be transitive. Let’s sa...
+- [Madeon](https://facebook.com/itsmadeon)
+- [Medium sees more employee exits after CEO publishes ‘culture memo’ – TechCrunch](https://flip.it/rbNBPV)
+  > In April, Medium CEO Ev Williams wrote a memo to his staff about the company’s shifting culture in the wake of a challenging year. “A healthy culture brings out the best in people,” he wrote. “They feel psychologically safe voicing their ideas and engaging in debate to find the best answer to any q…
+- [Ideas for 1Hive Radio](https://forum.1hive.org/t/ideas-for-1hive-radio/3783)
+  > Since Luke introduced the 1hive radio channel I’ve been sort of brainstorming around that idea; is something that I’m particularly really interested in, so yep, wrote some stuff: Radio Programming DAOn to Earth with CurlyBracketEffect Crypto news/analysis Church hour Music events *Note: Just collected here some of the stuff that was said on the #1hive-radio channel Distribution channels Live setting: using our stage channel to broadcast live the shows, receiving constant feedback and eng...
+- [Scaffold-Eth Challenges in Labs at 1Hive!](https://forum.1hive.org/t/scaffold-eth-challenges-in-labs-at-1hive/4918)
+  > Check this out! This is the result of completing the Scaffold-Eth Challenge 0: Simple NFT Example. The first challenge, Challenge 0, is to get familiar with Scaffold-Eth and requires no coding that isn’t given in a copyable block with explicit instructions on where to paste it. Iow, it’s a great introduction to using the framework and will get you set up with tools to make learning Ethereum development much more fun. I’m still down to help people with CryptoZombies, but atm I’m upskilling fo...
+- [Tulip Swarm Compensation Stack Upgrade](https://forum.1hive.org/t/tulip-swarm-compensation-stack-upgrade/4272/30)
+  > For further comparison, DXdao’s compensation stack: https://dxdao.eth.link/#/worker-compensation
+- [CCD Parameters](https://forum.tecommons.org/c/defi-legos-and-how-they-work-together/ccd-params/26)
+  > The Commons Configuration Dashboard (CCD) Parameters category is for posts explaining key parameters that you will set to design the economy for the Commons Upgrade. Your economy, Your Choice!
+- [](https://gateway.pinata.cloud/ipfs/QmRtXDfQYfVnNabiqT9jE2YwMpVDgtZD9TEPwsVa5ehe8R)
+- [My New Calling — in Web3](https://gideonro.medium.com/my-new-calling-in-web3-7870814f06ef)
+  > I’m starting a new job, not just in a new organization or industry. I’m moving into a whole new economy — on the blockchain.
+- [Gitcoin - Build and Fund the Open Web Together](https://gitcoin.co)
+  > Connect with the community developing digital public goods, creating financial freedom, and defining the future of the open web.
+- [Token Engineering Commons | Grants](https://gitcoin.co/grants/1155/token-engineering-commons)
+  > GR14 2022.06.08 Hello there! We've been working non-stop at TEC and we're excited for this round of Gitcoin Grants. In this update we will cover some of the proposals we've been funding, tools we've developed and participations we've had this past quarter :) 
+- [Gitcoin Grants Official Matching Pool Fund | Grants](https://gitcoin.co/grants/12/gitcoin-grants-official-matching-pool-fund)
+  > The objective of this grant is to help us Grow & Sustain Open Source with Gitcoin Grants through matching funds which can be used in Quadratic Funding matching pool. Funds in this grant will be added to the matching pool for future rounds, in a 3/6 multisig managed by the Gitcoin DAO. Please check out our Discord and the Public Goods Funding workstream for more details. https://discord.gg/gitcoin
+- [WalletConnect | Grants](https://gitcoin.co/grants/275/walletconnect)
+  > WalletConnect is an open source protocol for connecting decentralized applications to mobile wallets with QR code scanning or deep linking. A user can interact securely with any Dapp from their mobile phone, making WalletConnect wallets a safer choice compared to desktop or browser extension wallets. Currently supported by more than 100 wallets and 300+ dapps. Covering all blockchains and L2s compatible with EVM We are working on v2.0 protocol which will improve not just performance and user experience but also provide multi-chain sessions. Support us to continue building the best Ethereum mobile experience
+- [GitHub - AntonGrushin/JS_DRaSB: This is a JavaScript Node.js Discord bot based on discord.js library that is meant to perform automatic recording of a discord channel and play music/sounds as a soundboard or a playlist bot.](https://github.com/AntonGrushin/JS_DRaSB)
+  > This is a JavaScript Node.js Discord bot based on discord.js library that is meant to perform automatic recording of a discord channel and play music/sounds as a soundboard or a playlist bot. - Git...
+- [Commons Build](https://github.com/CommonsBuild)
+  > Advancing Token Engineering. Commons Build has 48 repositories available. Follow their code on GitHub.
+- [Change the meme for "IH rate is too low" · Issue #144 · CommonsBuild/Token-Log-Hatch-Params](https://github.com/CommonsBuild/Token-Log-Hatch-Params/issues/144)
+  > The current meme is politically charged... while hillarious, we don't need the drama here. @laurenluz meme below is great lets use that.
+- [Hatch Campaigns 🥳 · Issue #24 · CommonsBuild/content-distribution](https://github.com/CommonsBuild/content-distribution/issues/24)
+  > This is the last Sprint before the Hatch Sprint! Woohoo! This issue is to create a strategic comms campaign leading up to and through the end of the Hatch. Here are some off the cuff ideas I want t...
+- [Create a post that explains how to use the Hatch Dashboard and include Hatch Param Parties dates · Issue #26 · CommonsBuild/content-distribution](https://github.com/CommonsBuild/content-distribution/issues/26)
+  > @GriffGreen commented on Fri Apr 16 2021 📋 Anything to add? ⏰ Urgency/Due Date/Blockers? ❓ Why is it important? 🎉 Subtasks [ ] [ ] [ ] 🤼‍ Reviewer @ 🔗 Work doc - inspirational links
+- [Hatch DAO Content for Landing page · Issue #4 · CommonsBuild/content-distribution](https://github.com/CommonsBuild/content-distribution/issues/4#issuecomment-843365602)
+  > Context We want to productize the “Hatch DAO” (it is modifiable and customizable) we should give the Hatch DAO that credit, think of it as a product. Create a dedicated page on the website to promo...
+- [Hatch DAO Content for Landing page · Issue #4 · CommonsBuild/content-distribution](https://github.com/CommonsBuild/content-distribution/issues/4#workspaces/tec-content-production-and-distribution-60549332d7d741001bbea827/board?repos=349409011)
+  > Context We want to productize the “Hatch DAO” (it is modifiable and customizable) we should give the Hatch DAO that credit, think of it as a product. Create a dedicated page on the website to promo...
+- [Discord discord.tecommons.org to a discord invite · Issue #1106 · CommonsBuild/coordination](https://github.com/CommonsBuild/coordination/issues/1106)
+  > 👇🏽 What is this issue about? Give as much detail as you can. Update https://discord.tecommons.org/ to redirect to a discord invite. @Vyvy-vi has some ideas on how to do this with Cloudflare (which ...
+- [Discord bot for WG Weekly meeting announcements · Issue #578 · CommonsBuild/coordination](https://github.com/CommonsBuild/coordination/issues/578#workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?labels=communications%20wg&repos=306706322,349409011)
+  > 📋 Anything to add? Bounced this idea off @Vyvy-vi for a feasibility check. It&#39;s possible to have a discord bot post the WG graphic announcement one hour before the weekly meeting in the WG chan...
+- [Discord bot for WG Weekly meeting announcements · Issue #578 · CommonsBuild/coordination](https://github.com/CommonsBuild/coordination/issues/578#workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?labels=communications%2520wg&repos=306706322,349409011)
+  > 📋 Anything to add? Bounced this idea off @Vyvy-vi for a feasibility check. It&#39;s possible to have a discord bot post the WG graphic announcement one hour before the weekly meeting in the WG chan...
+- [Monitor Discord new members, are people still getting stuck or is it getting better? · Issue #671 · CommonsBuild/coordination](https://github.com/CommonsBuild/coordination/issues/671)
+  > 📋 Anything to add? The onboarding journey had bad metrics. There were some steps taken to improve that (see #499). Are they working? Criteria for success Method to measure what percent of new joine...
+- [Podcast or News update · Issue #8 · CommonsBuild/coordination](https://github.com/CommonsBuild/coordination/issues/8)
+  > 📋 Anything to add? Nate and I, are going to run two pilot episodes for a TEC Podcast, using case studies and narrative that makes the podcast easy to digest. 🎉 Subtasks Create a concept and draft R...
+- [GitHub - CommonsBuild/tec-branding-assets: TEC Branding assets. Logo, Mockups, Avatars, Banners, Graphics and other.](https://github.com/CommonsBuild/tec-branding-assets)
+  > TEC Branding assets. Logo, Mockups, Avatars, Banners, Graphics and other. - GitHub - CommonsBuild/tec-branding-assets: TEC Branding assets. Logo, Mockups, Avatars, Banners, Graphics and other.
+- [GitHub - CommonsBuild/tec-web: The website at https://tecommons.org.](https://github.com/CommonsBuild/tec-web)
+  > The website at https://tecommons.org. Contribute to CommonsBuild/tec-web development by creating an account on GitHub.
+- [GitHub - CommonsBuild/content-distribution](https://github.com/TECommons/content-distribution#workspaces/tec-content-production-and-distribution-60549332d7d741001bbea827/board?repos=349409011)
+  > Contribute to CommonsBuild/content-distribution development by creating an account on GitHub.
+- [Content for Join our Community page on TEC Website · Issue #3 · CommonsBuild/content-distribution](https://github.com/TECommons/content-distribution/issues/3)
+  > We need content for the TEC Website, it is a dedicated page to redirect users to Join our Community. This is where onboarding begins. Related issue in TEC Web repo CommonsBuild/tec-web#8
+- [Labels · CommonsBuild/content-distribution](https://github.com/TECommons/content-distribution/issues/labels#workspaces/tec-content-production-and-distribution-60549332d7d741001bbea827/board?repos=349409011)
+  > Contribute to CommonsBuild/content-distribution development by creating an account on GitHub.
+- [](https://github.com/TECommons/content-distribution/settings/access#workspaces/tec-content-production-and-distribution-60549332d7d741001bbea827/board?repos=349409011)
+- [Issues · Vyvy-vi/TEC-Discord-Automation](https://github.com/Vyvy-vi/TEC-Discord-Automation/issues)
+  > Mono-repo for Discord Automation Tools for TEC's discord server. - Issues · Vyvy-vi/TEC-Discord-Automation
+- [TEC-Discord-Automation/.github/workflows at main · Vyvy-vi/TEC-Discord-Automation](https://github.com/Vyvy-vi/TEC-Discord-Automation/tree/main/.github/workflows)
+  > Mono-repo for Discord Automation Tools for TEC's discord server. - TEC-Discord-Automation/.github/workflows at main · Vyvy-vi/TEC-Discord-Automation
+- [GitHub - chebro/discord-voice-recorder: A nifty script that can pipe out audio from a discord voice channel to your local storage. A discord voice recorder!](https://github.com/chebro/discord-voice-recorder)
+  > A nifty script that can pipe out audio from a discord voice channel to your local storage. A discord voice recorder! - GitHub - chebro/discord-voice-recorder: A nifty script that can pipe out audio...
+- [](https://github.com/orgs/TECommons/teams)
+- [Check out Help Save Rebeca](https://giveth.io/project/help-save-rebeca)
+  > Recently, the lives of Rebecca and her parents, Mihai and Ana-Maria, suffered an unimaginable blo
+- [The **Internet of Jobs** is here](https://gov.gitcoin.co/t/the-internet-of-jobs-is-here/9340)
+  > i’ve been talking a lot about the internet of jobs for a few months, and since doing so i’ve had a few interactions that look like this 👆. What is the internet of jobs? the objective of this post is to articulate the size, scale, & scope of the internet of jobs (IoJ) and produce a canonical reference for this emergent trend. TLDR the internet of jobs (IoJ) is going to happen. is going to happen soon. is how blockchains go mainstream. is a wide open design space. is happeni...
 
-https://bit.ly/3biPrUk
-https://bit.ly/3hiadHn
-https://bit.ly/3uEdIMa
-https://bit.ly/WFL-ANDRO
-https://bitwarden.com/pricing/business
-https://blockworks.co/author/jasonblockworksgroup-io
-https://blockworks.co/the-investors-guide-to-daos
-https://blog.hubspot.com/service/social-listening
-https://calendar.google.com/calendar/embed?src=dtint3ba66v4p2j7nnegefpvvg%2540group.calendar.google.com&ctz=Europe%252FParis
-https://calendar.google.com/calendar/embed?src=dtint3ba66v4p2j7nnegefpvvg%40group.calendar.google.com&ctz=Europe%2FParis
-https://calendar.google.com/calendar/u/0/r/eventedit/copy/NXRnam1xZXEydmRiZXZudWJ0cTVkdWZ0ZDBfMjAyMjA0MTVUMTkwMDAwWiA1bWtlcDFhZDFqODYwazZnN2k3ZnI4cGxxMEBn
-https://calendar.google.com/calendar/u/0?cid=ZHRpbnQzYmE2NnY0cDJqN25uZWdlZnB2dmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
-https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNwZnR1N3E0cGJ2M2Vta2EzNWhvdG9lc24gZHRpbnQzYmE2NnY0cDJqN25uZWdlZnB2dmdAZw&tmsrc=dtint3ba66v4p2j7nnegefpvvg%2540group.calendar.google.com
-https://calendar.google.com/event?action=TEMPLATE&tmeid=NDNwZnR1N3E0cGJ2M2Vta2EzNWhvdG9lc24gZHRpbnQzYmE2NnY0cDJqN25uZWdlZnB2dmdAZw&tmsrc=dtint3ba66v4p2j7nnegefpvvg%40group.calendar.google.com
-https://cdn-images-1.medium.com/max/1200/1
-https://cdn.discordapp.com/attachments/810180622479917063/831589024379699263/TEC-OnboardingModuleDRAFT.pdf
-https://cdn.discordapp.com/attachments/810180622479917063/843881222710493184/TEC_spot01.pdf
-https://cdn.discordapp.com/attachments/810180622479917063/843882535763443786/TEC_hatchspot02.pdf
-https://cdn.discordapp.com/attachments/810180622479917063/843942520957566996/TEC_hatchspot03.pdf
-https://cdn.discordapp.com/attachments/810180622479917063/851580070178848798/TEC_Hatch_2-phases.pdf
-https://cdn.discordapp.com/attachments/810180622479917063/851580643280420884/TEC_visual_explainer_.pdf
-https://cdn.discordapp.com/attachments/810180622479917063/902599518787354656/TEC_-_Community_Data.pdf
-https://cdn.discordapp.com/attachments/810180622479917063/908778302976696320/rewards_meme_thread_FINAL_1.pages
-https://cdn.discordapp.com/attachments/810180622479917063/914929106502709288/1_pager_dollarcake_1_2.pdf
-https://craig.chat/home
-https://definiciona.com/author/ax000033de
-https://definiciona.com/procomun
-https://dev.mirror.xyz/WPnZICvS2XbHJQ3u-GrsvYqios3XWmZhQvTKEyUJOGE
-https://develop--tec-web.netlify.app/join
-https://discord
-https://discord.com/channels/810180621930070088/810180622017757185/831496250921975879
-https://discord.com/channels/810180621930070088/810180622479917063/902572555016224778
-https://discord.com/channels/810180621930070088/810180622479917063/902602537318903839
-https://discord.com/channels/810180621930070088/810180622479917063/905154359648714862
-https://discord.gg/3WU5eCqP
-https://discord.gg/AcMP3x5
-https://discord.gg/BdQT42pa
-https://discord.gg/CnzJYE
-https://discord.gg/NfcWqHW
-https://discord.gg/WfxBFnm9
-https://discord.gg/XFrSu7x5
-https://discord.gg/XQZHwwd4kb
-https://discord.gg/s2JuQCBNS4
-https://discord.gg/tjhx4rw2WK
-https://discord.gg/uM4ZWDjNfK
-https://discord.tecommons.org
-https://discordapp.com/channels/810180621930070088/810180622479917063/930532655911534633
-https://docs.google.com/document/d/11YScqIT9B2k-eqzmiNz-kKDzjc-Cm0rcLYrh9GB4Jbk
-https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI
-https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg
-https://docs.google.com/document/d/18PKsdmm59GfQdqflpTIgO4aL-174xJIKQL2Gf__8aUw
-https://docs.google.com/document/d/18RlOZf_DhV149eZ-KPArBF0iFnwsi9SSLiMOg-vD0CU
-https://docs.google.com/document/d/1BB6aysQCMWZjugZONNtPoCzQ6QFhHwXrdDgqsLR6Xyw
-https://docs.google.com/document/d/1FfP97LbkLJLLTv1cSZtKENjnJbQqZI9FwsDUQ58UNwU
-https://docs.google.com/document/d/1Jri1kbnFhPq2F8tPoeLJjV__Gr3cxykiMLZddDNn97Y
-https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
-https://docs.google.com/document/d/1YvzrtMnfTOEr-e5wi8nsBmmgcyyxFki5RxvMKBC4nx4
-https://docs.google.com/document/d/1ct8K4AMqiHJHkF9NfkK03EaVacoLnecUJrDfkarhJXY
-https://docs.google.com/document/d/1e6G4nlMG12JGMuc36AB-Ygr4w1dZ4EJ0Nx27QssqnRE
-https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ
-https://docs.google.com/document/d/1mACB0Fm1sM3RjtjP7gWsPmKTaixrxdUGf5Q8s-nrMVE
-https://docs.google.com/document/d/1mOMZI0D3MHZcT6TJpnThHdbKx0HT7_9itj3GBxk_l_Y
-https://docs.google.com/document/d/1q9LKFWqGdlMJU45sXJRZGCzepgsYnrwWGkq5g61oALU
-https://docs.google.com/document/d/1qDOoe8S5s20RBOfYoRa9JSU6JsbDhMAeWrKo2t_ajWI7i3aryz8mgzx
-https://docs.google.com/document/d/1szjf_eTnUBXd9x7tlzKsVXtQE5tAULbNmIzN0FEGexI
-https://docs.google.com/document/d/1t_APam3hlSG6plz94qnXIEkYRCJETXc5iUNnNRTKUaM
-https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0
-https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0
-https://docs.google.com/document/d/1wdLEpfVIpcm6w1PdglyY0V2R_6s5E-lIiuWuUoyXIvo
-https://docs.google.com/document/d/1yp1lHM3Ksx3OoBCaHF6uktNN186rGT22S0GfD_u3qoE
-https://docs.google.com/presentation/d/1-w43yn84Wh4Bh5R9hd7TCl0OKlYp1iZMJb6PSsvZwWg
-https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y
-https://docs.google.com/presentation/d/1fLJvPOvibcCUpJ9ES44_cdoX5Hb7LpDaloGWz5FbUEM
-https://docs.google.com/presentation/d/1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg
-https://docs.google.com/presentation/d/e/2PACX-1vQm_v90bEp-g04GoADuIAvbpEqwT6tatSXZOgYKGkhTQFjsLCZdqsJidYZdDPvLR4_muj1pyI7EsKdi/pub?start=false&loop=false&delayms=60000&slide=id.gccce72c6aa_1_28
-https://docs.google.com/spreadsheets/d/14CMvoPS0wrjKHMmwFi7isSKb4g7C5Q6xCmr-Es5fn5Q
-https://docs.google.com/spreadsheets/d/16IDgIyPcfwJGG-zmXeMAenYbePQVHkc2P6WCwKEZgpk
-https://docs.google.com/spreadsheets/d/1FJqAsNbZHfQzU5pkNqMrAs-kCatEPYDHa0RTdnZkHgs
-https://docs.google.com/spreadsheets/d/1JJ3YoHmWYyOH8RZs1jT8VDFyQJHt35kJw92tT7YPXvI
-https://docs.google.com/spreadsheets/d/1P9DQkB-tvyGIaVaNR4Bdfkg3mhwDwDmMm66WwF3dcBw
-https://docs.google.com/spreadsheets/d/1QJnratmpodDOuTY-21Lgr6wHr8AK4BOBa-cBI37rHNots=601004ae#gid=450032996
-https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU
-https://docs.google.com/spreadsheets/d/1_2UeAcGB1FR7wZrVRR8rjRDRBmPxCaU-SQkPsvcX6rU
-https://docs.google.com/spreadsheets/d/1gRSltEjFYdl5fhBvc-_KH-au2_dtsLbrzWqEiZh5emk
-https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0
-https://drive.google.com/drive/folders/1ifU8y880MJ6CglHAU9mKt_gsj5vREC9i
-https://drive.google.com/file/d/1Esk-pVXi0h3pDwa2kn7neodARAYcciOz/view?
-https://drive.google.com/file/d/1v8CR2jbVJ7x80K33cM52HPmh5Xq58ND_/view?usp=drivesdk
-https://dxdao.eth.link/#/worker-compensation
-https://elements.envato.com
-https://elements.envato.com/glowing-circular-elements-forming-conical-shaped-f-T3JPTSK
-https://ethereum-magicians.org/t/eip-idea-debtchain/9582
-https://facebook.com/itsmadeon
-https://flip.it/rbNBPV
-https://fo
-https://forms.gle/PDK6toRMG9vXNRAf9
-https://forum.1hive.org/t/ideas-for-1hive-radio/3783
-https://forum.1hive.org/t/scaffold-eth-challenges-in-labs-at-1hive/4918
-https://forum.1hive.org/t/tulip-swarm-compensation-stack-upgrade/4272/30
-https://forum.tecommons.o
-https://forum.tecommons.org
-https://forum.tecommons.org/)
-https://forum.tecommons.org/c/defi-legos-and-how-they-work-together/ccd-params/26
-https://forum.tecommons.org/t/adding-tec-to-the-optimism-ecosystem-via-velodrome/1053
-https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327?u=chuygarcia92
-https://forum.tecommons.org/t/commons-upgrade-decision-making-process/682
-https://forum.tecommons.org/t/comms-t-e-a-m-dao-funding-proposal/865
-https://forum.tecommons.org/t/comms-working-group/162/2?u=chuygarcia92
-https://forum.tecommons.org/t/design-your-economy-make-your-choice/366
-https://forum.tecommons.org/t/hatch-swag-look-feel-vote/436?u=chuygarcia92
-https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347
-https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347?u=chuygarcia92
-https://forum.tecommons.org/t/how-to-join-contribute/98
-https://forum.tecommons.org/t/how-you-can-hatch-the-tec/328
-https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646
-https://forum.tecommons.org/t/question-how-can-our-tec-twitter-account-accurately-represent-our-community-what-tone-do-we-want-to-portray/596/4
-https://forum.tecommons.org/t/second-graviton-training/607
-https://forum.tecommons.org/t/using-celeste-as-tecommons-arbitrator/409
-https://forum.tecommons.org/t/voting-for-the-final-params-for-the-commons-upgrade/682/8
-https://forum.tecommons.org/t/your-advice-on-the-sampo-strategy/1019
-https://forum.tecommons.org/t/your-advice-on-the-sampo-strategy/1019/2
-https://gateway.pinata.cloud/ipfs/QmRtXDfQYfVnNabiqT9jE2YwMpVDgtZD9TEPwsVa5ehe8R
-https://gideonro.medium.com/my-new-calling-in-web3-7870814f06ef
-https://gitcoin.co
-https://gitcoin.co/grants/1155/token-engineering-commons
-https://gitcoin.co/grants/12/gitcoin-grants-official-matching-pool-fund
-https://gitcoin.co/grants/275/walletconnect
-https://github.com/AntonGrushin/JS_DRaSB
-https://github.com/CommonsBuild
-https://github.com/CommonsBuild/)
-https://github.com/CommonsBuild/Token-Log-Hatch-Params/issues/144
-https://github.com/CommonsBuild/content-distribution/issues/24
-https://github.com/CommonsBuild/content-distribution/issues/26
-https://github.com/CommonsBuild/content-distribution/issues/4#issuecomment-843365602
-https://github.com/CommonsBuild/content-distribution/issues/4#workspaces/tec-content-production-and-distribution-60549332d7d741001bbea827/board?repos=349409011
-https://github.com/CommonsBuild/coordination/issues/1106
-https://github.com/CommonsBuild/coordination/issues/578#workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?labels=communications%20wg&repos=306706322,349409011
-https://github.com/CommonsBuild/coordination/issues/578#workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?labels=communications%2520wg&repos=306706322,349409011
-https://github.com/CommonsBuild/coordination/issues/671
-https://github.com/CommonsBuild/coordination/issues/8
-https://github.com/CommonsBuild/tec-branding-assets
-https://github.com/CommonsBuild/tec-web
-https://github.com/TECommons/content-distribution#workspaces/tec-content-production-and-distribution-60549332d7d741001bbea827/board?repos=349409011
-https://github.com/TECommons/content-distribution/issues/3
-https://github.com/TECommons/content-distribution/issues/labels#workspaces/tec-content-production-and-distribution-60549332d7d741001bbea827/board?repos=349409011
-https://github.com/TECommons/content-distribution/settings/access#workspaces/tec-content-production-and-distribution-60549332d7d741001bbea827/board?repos=349409011
-https://github.com/Vyvy-vi/TEC-Discord-Automation/issues
-https://github.com/Vyvy-vi/TEC-Discord-Automation/tree/main/.github/workflows
-https://github.com/chebro/discord-voice-recorder
-https://github.com/orgs/TECommons/teams
-https://giveth.io/project/help-save-rebeca
-https://gov.gitcoin.co/t/the-internet-of-jobs-is-here/9340
-https://gov.gitcoin.co/t/you-are-invited-to-come-party-with-the-token-engineering-commons-dao/7784
-https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/BJ6JtQku_
-https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/BJ6JtQku_
-https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/ByL8m2yo_
-https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/HJXIJ0zdY
-https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/Syk3A-IKq
-https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/ryGSpsDfY
-https://hackmd.io/ClferPvPSeKzRwrGQPoLgA
-https://hackmd.io/SBKMAE56QruvHr1ZRUangw
-https://hackmd.io/SBKMAE56QruvHr1ZRUangw?both
-https://hackmd.io/SBKMAE56QruvHr1ZRUangw?view
-https://hatch-demo.netlify.app
-https://hatch-demo.netlify.app/#/home
-https://howsociable.com/blog/best-time-to-post-on-twitter
-https://itunes.apple
-https://jaipaul.bronze.ai
-https://lexfridman.com/author/lex-fridman
-https://lexfridman.com/podcast
-https://madeon.lnk.to/GoodFaith
-https://medium.com/@jeffemmett/whats-in-a-hatch-bc9246ca4dd3
-https://medium.com/@molochmystics/molochv3-8eb732cd0930
-https://medium.com/co
-https://medium.com/the-ethereum-name-service/you-can-now-manage-ens-names-with-gnosis-safe-9ddcb7e6c4ac
-https://medium.com/token-engineering-commons
-https://medium.com/token-engineering-commons/graviton-training-season-2-8f9817cf404d
-https://medium.com/token-engineering-commons/kicking-off-the-token-engineering-commons-be6a253cba81
-https://mirror.xyz/0x0966262125B5E01B5D77B862830a341419BC2872/y-aaFWpbogZt5jWGqu6sVlOG-fKh0p-5V6l2o01yyy0
-https://mirror.xyz/jhennyart.eth/PtcrNpQENnI5zagEl6WNR8GPO25z8Ae5OyIOL1pu6lQ
-https://misterhorse.com/products-for-after-effects
-https://mosaic.scdn.co/640/ab67616d0000b273112179621605b07a1f3ff957ab67616d0000b27326df17c3b7ec69320cffd276ab67616d0000b2736936e2bbd6891c52cecceeb6ab67616d0000b273df91f7635e716e39145b8e6d
-https://mosaic.scdn.co/640/ab67616d0000b27321b5ff8678cd6e20a94bfa41ab67616d0000b273a034fb87155c43f4ff760663ab67616d0000b273a3abab2e00993f57bc7e3673ab67616d0000b273aad601b40a12be7a5cdd8ceb
-https://mosaic.scdn.co/640/ab67616d0000b27379553c4dcec1846d3a5c49abab67616d0000b273c61fd7cba6914924fea49ea9ab67616d0000b273cd877891b23a92b1a89e60b5ab67616d0000b273db0917ddd4139153bc1d1a1a
-https://n9.cl/3tbmz
-https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8?si=6xGmX2cuT-aXhOzm3r71Xw&dl_branch=1
-https://open.spotify.com/album/1RacF7aBTmh3uzx5p5dvK4
-https://open.spotify.com/album/2LuigA1xptBHavOFqognNr?si=6yK2_D3tRhinj70DTo7e1w
-https://open.spotify.com/album/2ipnQkuUk9J8tUfuXxzutK?si=60auPlVHTtG1SsEFBLoazQ
-https://open.spotify.com/album/4UvcAGFyfXmydWCFZve1LQ
-https://open.spotify.com/album/5QTe4ln96FBIbCgR0rSjdf?si=FzRARU1lRZqxc5iCIzfiCQ&dl_branch=1
-https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2?si=XVrdWAUOQnC7fbpqGzYIVg&dl_branch=1
-https://open.spotify.com/playlist/1PokaNhUMJaYa1pEMNZarP?si=hXuoRBbZSCauLMCzrCujkg
-https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=08a2938ae6004e4c
-https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=4bbb511d59bf461c
-https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=5b4911659b0748a6
-https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=883e6d7b8c5446d5
-https://open.spotify.com/playlist/3WKRkQoegTfjOmlKq89YVW?si=11388a077b9d4f89
-https://open.spotify.com/playlist/6KY9DI17nZ2fit1zQJPvZH?si=c6dcf0e55b9d4592
-https://open.spotify.com/playlist/70ZDIpQkaKWEmT8yaJANES?si=sCXzxfNoTimeac8PeuyS2A&utm_source=copy-link
-https://open.spotify.com/playlist/7Kg7IecKUhF024wqrW8gq9?si=8205f76d4cd54fdb
-https://open.spotify.com/track/10Sj9At8dFsEabJcQzOSqu?si=RIhoWbrYRx25pvBG6RXeGA
-https://open.spotify.com/track/3YcdqonxnswJXOcYngR8U3?si=hueOZr2nSEK3HTC3szDmhA
-https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh?si=064c6f3dfe1d4b05
-https://opengraph.githubassets.com/279e06364d4a704f6f99843fe6d00815e064269fc31ede698b7ede01fea7dc12/CommonsBuild/coordination/issues/671
-https://opengraph.githubassets.com/2d532d495ad4987a36e3ba4c9f0486ab8f463e6d6fa8dc0209e5d481dca2efeb/CommonsBuild/coordination/issues/8
-https://opengraph.githubassets.com/37ba1c826d0bc19e1723214e81d550b2c60ecf25d39ee3f4e24ac826e5b04799/Vyvy-vi/TEC-Discord-Automation
-https://opengraph.githubassets.com/3b137df7aec6cc240443b117ad6f3678fb26c21a59785a324e0e1a60ee861eb4/CommonsBuild/content-distribution/issues/26
-https://opengraph.githubassets.com/48c75d697b32898ca14f7b196129cf894c4bdb2801d29b417dad1b95971a386a/CommonsBuild/content-distribution/issues/24
-https://opengraph.githubassets.com/78fe583e84c7f5f852d4036755e8cdbc22e0a583e64ee4895be47d837ac9b1c1/CommonsBuild/tec-web
-https://opengraph.githubassets.com/b8b377dffdf4a96da82f31580e27241d4eceeb4b5606f721c4afe9f8a9f9462a/CommonsBuild/content-distribution/issues/4
-https://primedao.substack.com/p/prime-times-9-new-era-of-governance
-https://quadraticvote.co/event?id=2c357972-9b0d-4390-b738-32297b653cf1
-https://rabbithole.gg
-https://repository-images.githubusercontent.com/305978323/c7b48800-204d-11eb-83eb-a0499822faad
-https://s.muz.li/MjA1ZWRmOWJh
-https://snapshot.org/#/jadeprotocol.eth/proposal/0xfdfe80447d10a2a87e5d92eb14aeac2666f1cf4314cc09402ca545683992c8ac
-https://snapshot.org/#/tecommons.eth/proposal/0x0b6cecd6c3066cc947a259d5683bd4f522e9c59c8d625e3baf99bdd0e1b1caa9
-https://snapshot.org/#/tecommons.eth/proposal/0xc26d2b18ff67f6de730a7a6e591885b8c8812f299ec0d3e536db4b5b1ac9000d
-https://soundcloud.com/thehumanexperience
-https://soundcloud.com/thehumanexperience/sets/soul-visions
-https://stromae.lnk.to/santeID
-https://support.discord.com/hc/en-us/articles/115001494012-Discord-Partnership-Requirements
-https://t.co/BjVlviG5Jp
-https://t.co/C1sLEKShBt
-https://t.co/DzsquwlSAI
-https://t.co/ImPD98uljF
-https://t.co/OeVzMkkRaC
-https://t.co/OeVzMkkRaC%E2%80%9C
-https://t.co/UUtJixi7hZ
-https://t.co/Yquj9o6gCA
-https://t.co/ck0dH2878I
-https://t.co/ebEjZKHsbY
-https://t.co/jB6RkbBR8V
-https://t.co/z3E9BXgV0U
-https://t.me/tecommons
-https://tec-discord-oauth2.herokuapp.com
-https://techcrunch.com/author/natasha-mascarenhas
-https://tecommons.medium.com
-https://tecommons.org
-https://tecommons.org/join
-https://tecommons.org/workgroups
-https://token-engineering-commons.gitbook.io/tec-handbook
-https://token-engineering-commons.gitbook.io/tec-handbook/processes/roles
-https://token-engineering-commons.gitbook.io/tec-source
-https://tokenengineeringcommunity.github.io/website/docs/academy-welcome
-https://tokenomicsdao.com
-https://tokenomicsdao.com/)
-https://top.gg/bot/338897906524225538
-https://top.gg/bot/376095684069163008
+- [Best Time to Post on Twitter in 2021: The Definitive Guide](https://howsociable.com/blog/best-time-to-post-on-twitter)
+  > Twitter can boost a companyâs presence if techniques are applied correctly. In this article explores all the ideas and thoughts about the best times to post on Twitter.
+- [Jai Paul x Bronze](https://jaipaul.bronze.ai)
+  > This version of Jasmine by Jai Paul is created using the Bronze AI engine. On each listen, Bronze performs a unique and infinite playback of the piece.
+- [Lex Fridman, Author at Lex Fridman](https://lexfridman.com/author/lex-fridman)
+  > Podcast: Play in new window | Download
+- [Lex Fridman Podcast - Lex Fridman](https://lexfridman.com/podcast)
+  > Conversations about the nature of intelligence, consciousness, love, and power.
+- [Good Faith by Madeon](https://madeon.lnk.to/GoodFaith)
+  > Preview, download or stream Good Faith by Madeon
+- [Medium](https://medium.com/@jeffemmett/whats-in-a-hatch-bc9246ca4dd3)
+- [MolochV3](https://medium.com/@molochmystics/molochv3-8eb732cd0930)
+  > Baal for Guilds
+- [You Can Now Manage ENS Names with Gnosis Safe](https://medium.com/the-ethereum-name-service/you-can-now-manage-ens-names-with-gnosis-safe-9ddcb7e6c4ac)
+  > With Gnosis Safe, forming a DAO with your friends to manage high-value asset is becoming quick and easy.
+- [Proposal Inverter- A next stage in DAO2DAO Coordination](https://mirror.xyz/0x0966262125B5E01B5D77B862830a341419BC2872/y-aaFWpbogZt5jWGqu6sVlOG-fKh0p-5V6l2o01yyy0)
+  > (cover image: https://twitter.com/brianroemmele/status/1491849452289626113 )
+- [The Gu1de - To Help Manage Social Media Platforms by @JHennyArt …](https://mirror.xyz/jhennyart.eth/PtcrNpQENnI5zagEl6WNR8GPO25z8Ae5OyIOL1pu6lQ)
+  > Thank you for reading please follow me on Instagram: \_jhennyart and Twitter: JhennyArt1 and Twitter: Yaa_Mims
+- [Products for After Effects - Mister Horse](https://misterhorse.com/products-for-after-effects)
+  > Learn more about our popular plugins - Animation Composer & Premiere Composer
+- [Linica](https://n9.cl/3tbmz)
+  > Share your videos with friends, family, and the world
+- [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8?si=6xGmX2cuT-aXhOzm3r71Xw&dl_branch=1)
+  > Tim Maia · Album · 2012 · 15 songs.
+- [La Voz de Mi Silencio](https://open.spotify.com/album/1RacF7aBTmh3uzx5p5dvK4)
+  > El Barrio · Album · 2007 · 13 songs.
+- [Barranquilla Vice II Tgg ("The Golden Gate")](https://open.spotify.com/album/2LuigA1xptBHavOFqognNr?si=6yK2_D3tRhinj70DTo7e1w)
+  > Andy G · Album · 2021 · 10 songs.
+- [The Arrow of Time: Soundtrack to "Timelapse of the Future"](https://open.spotify.com/album/2ipnQkuUk9J8tUfuXxzutK?si=60auPlVHTtG1SsEFBLoazQ)
+  > John D. Boswell · Album · 2019 · 14 songs.
+- [Steven Universe The Movie (Original Soundtrack) [Deluxe Version]](https://open.spotify.com/album/4UvcAGFyfXmydWCFZve1LQ)
+  > Steven Universe · Album · 2019 · 46 songs.
+- [Unas Vacaciones Raras](https://open.spotify.com/album/5QTe4ln96FBIbCgR0rSjdf?si=FzRARU1lRZqxc5iCIzfiCQ&dl_branch=1)
+  > El Mató a un Policía Motorizado · Album · 2021 · 8 songs.
+- [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2?si=XVrdWAUOQnC7fbpqGzYIVg&dl_branch=1)
+  > Artist · 582.7K monthly listeners.
+- [Randomise](https://open.spotify.com/playlist/1PokaNhUMJaYa1pEMNZarP?si=hXuoRBbZSCauLMCzrCujkg)
+  > person · Playlist · 144 songs
+- [Playlist Emputada](https://open.spotify.com/playlist/6KY9DI17nZ2fit1zQJPvZH?si=c6dcf0e55b9d4592)
+  > Rodrigo Galindo Gómez · Playlist · 94 songs · 12 likes
+- [Dans](https://open.spotify.com/playlist/70ZDIpQkaKWEmT8yaJANES?si=sCXzxfNoTimeac8PeuyS2A&utm_source=copy-link)
+  > manuelfa92 · Playlist · 48 songs
+- [The Inky abyss of beats](https://open.spotify.com/playlist/7Kg7IecKUhF024wqrW8gq9?si=8205f76d4cd54fdb)
+  > A‎snazzybishlol · Playlist · 38 songs · 3 likes
+- [I'm Not Part Of Me](https://open.spotify.com/track/10Sj9At8dFsEabJcQzOSqu?si=RIhoWbrYRx25pvBG6RXeGA)
+  > Cloud Nothings · Song · 2014
+- [Mi Camino Perfecto](https://open.spotify.com/track/3YcdqonxnswJXOcYngR8U3?si=hueOZr2nSEK3HTC3szDmhA)
+  > El Último Vecino · Song · 2021
+- [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh?si=064c6f3dfe1d4b05)
+  > Piso 21 · Song · 2021
+- [Prime Times #9 - New era of governance, REP minted to contributors, website is now live, seed raise conclusion, Prime Rating Seasons, TEC+Prime](https://primedao.substack.com/p/prime-times-9-new-era-of-governance)
+  > Monthly Newsletter
+- [QuadraticVote.co - EZ QV Tool](https://quadraticvote.co/event?id=2c357972-9b0d-4390-b738-32297b653cf1)
+  > An easy tool to host a quadratic vote - Built by Gitcoin
+- [Home](https://rabbithole.gg)
+  > Earn crypto through discovering and using the latest crypto applications
+- [](https://s.muz.li/MjA1ZWRmOWJh)
+- [Snapshot](https://snapshot.org/#/jadeprotocol.eth/proposal/0xfdfe80447d10a2a87e5d92eb14aeac2666f1cf4314cc09402ca545683992c8ac)
+- [Snapshot](https://snapshot.org/#/tecommons.eth/proposal/0x0b6cecd6c3066cc947a259d5683bd4f522e9c59c8d625e3baf99bdd0e1b1caa9)
+- [Snapshot](https://snapshot.org/#/tecommons.eth/proposal/0xc26d2b18ff67f6de730a7a6e591885b8c8812f299ec0d3e536db4b5b1ac9000d)
+- [The Human Experience](https://soundcloud.com/thehumanexperience)
+  > Thank you so much to each and every one of you for your continued love and support. You mean the world to me. All of my music is available at "name your price" at www.thehumanexperience.bandcamp.com
+- [Rising Appalachia + The Human Experience - Soul Visions](https://soundcloud.com/thehumanexperience/sets/soul-visions)
+  > "Soul Visions" is a collaborative album by The Human Experience and Rising Appalachia. Name Your Price for the album here: http://thehumanexperience.bandcamp.com/releases Rising Appalachia and T
+- [Stromae - Santé](https://stromae.lnk.to/santeID)
+  > Listen to Santé by Stromae.
+- [Security check](https://support.discord.com/hc/en-us/articles/115001494012-Discord-Partnership-Requirements)
+  > Please stand by, while we are checking your browser...
+- [How Panvala Works](https://t.co/BjVlviG5Jp)
+  > Learn how your community can tap into Panvala's endowment, and how Panvala's treasury grows stronger the more we share it.
+- [POAP - Homepage](https://t.co/C1sLEKShBt)
+  > The bookmarks of your life.
+- [DisCO Elements](https://t.co/DzsquwlSAI)
+  > Distributed Cooperative Organisations for radical workplace democracy
+- [Welcome to Gardens: let’s plant the seeds for the public economy](https://t.co/ImPD98uljF)
+  > Our new home for Gardens: https://gardens.1hive.org
+- [Devcon: Hacia Colombia en 2022 [Redux]](https://t.co/OeVzMkkRaC)
+  > Queridos Amigos, A few years ago, we outlined what Devcon was all about in the original version of this post, and spoke to our renewed focus on growing the Ethereum ecosystem. In this updated version, we’re excited to re-announce Devcon 6, and to share details on our site-selection, timing and...
+- [Twitter / ?](https://t.co/OeVzMkkRaC%E2%80%9C)
+  > Looks like this page doesn’t exist. Here’s a picture of a poodle sitting in a chair for your trouble.
+- [Login to Meetup | Meetup](https://t.co/Yquj9o6gCA)
+  > Find groups that host online or in person events and meet people in your local community who share your interests.
+- [JavaScript is not available.](https://t.co/ck0dH2878I)
+  > We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+- [Gitcoin Presents: Conflict Event Marketing](https://t.co/ebEjZKHsbY)
+  > Have you run into conflicts within your DAO and have felt at a loss for how to approach them? Loie & GitcoinDAO presents DAOResolutionaries!This special even...
+- [Join the Future Thinkers Community Discord Server!](https://t.co/jB6RkbBR8V)
+  > Check out the Future Thinkers Community community on Discord - hang out with 1,646 other members and enjoy free voice and text chat.
+- [daoApe #2](https://t.co/z3E9BXgV0U)
+  > Hello.
+- [TE Commons](https://t.me/tecommons)
+  > You can view and join @tecommons right away.
+- [Join TEC's Discord Server](https://tec-discord-oauth2.herokuapp.com)
+  > Come hangout in Token Engineering Commons' Discord Server, introduce yourself and see what is happening in our working groups, join conversations and jump into any of our weekly calls.
+- [Author: <span>Natasha Mascarenhas</span>](https://techcrunch.com/author/natasha-mascarenhas)
+  > Natasha Mascarenhas is a senior reporter at TechCrunch covering early stage startups and venture capital trends. She also tracks the different networks that play into founder success, from loneliness to immigration. Before TechCrunch, Natasha reported on the same beat for Crunchbase News. She also has bylines in the Boston Globe, The San Francisco Chronicle, BostInno, and is proudly from New Jersey.
+- [Tokenomics DAO](https://tokenomicsdao.com)
+  > Exploring tokenomics
+- [Add pawa Discord Bot | The #1 Discord Bot List](https://top.gg/bot/338897906524225538)
+  > Simple audio recording for Discord
+- [Add Audio recorder Discord Bot | The #1 Discord Bot List](https://top.gg/bot/376095684069163008)
+  > Records audio in your voice channel
+- [Cupido - La Pared](https://umusices.lnk.to/ClpID)
+  > Go to Cupido - La Pared.
+- [Aragon – The Fight For Freedom](https://vimeo.com/264579379)
+  > Aragon aims to disintermediate the creation and maintenance of organizational structures using blockchain technology. Directed by: David Franciscus & Bernard…
+- [TEC Interviews_Cut01](https://vimeo.com/548443347/41765bb857)
+  > This is "TEC Interviews_Cut01" by Chuy Garcia on Vimeo, the home for high quality videos and the people who love them.
+- [DAO Essentials - Noob Support.mp4](https://vimeo.com/646402793)
+  > This is "DAO Essentials - Noob Support.mp4" by Peter Jones on Vimeo, the home for high quality videos and the people who love them.
+- [Chuy Garcia](https://vimeo.com/chuygarcia)
+  > Chuy Garcia is a member of Vimeo, the home for high quality videos and the people who love them.
+- [David Franciscus](https://vimeo.com/davidf)
+  > Writer, Director, Producer, Techie. Founder of Protagonist Films. Currently in Cape Town, South Africa working on projects. Mail: david@protagonist.co.za Twitter…
+- [Peter Jones](https://vimeo.com/user124534874)
+  > https://linktr.ee/innov8tor3
+- [Edge IP Restricted | wiki.aragon.one | Cloudflare](https://wiki.aragon.one)
+  > You've requested a page on a website that is part of the Cloudflare network. The host (wiki.aragon.one) resolved to an IP address that the owner of the website does not have access to.
+- [Content Calendar Template - Free to Use | Airtable](https://www.airtable.com/templates/featured/exp3FNmOkdHZvprXB/content-calendar)
+  > Content calendars (often known as editorial calendars) are essential for production teams of all sizes and disciplines. The best content calendars don’t just...
+- [Bitcoin Adoption and Beliefs in Canada](https://www.bankofcanada.ca/2021/11/staff-working-paper-2021-60/?utm_source=alert&utm_medium=email&utm_campaign=SWP211126-3)
+  > Using an economic model as well as survey data from the Bank of Canada, we study what factors influence the adoption of Bitcoin in Canada.
+- [Please Wait... | Cloudflare](https://www.canva.com/design/DAE6mW5UGHY/eK1LjpwPu34CpH864Od16wutm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#5)
+  > Please stand by, while we are checking your browser...
+- [#defb48 hex color](https://www.colorhexa.com/defb48)
+  > #defb48 hex color code information, schemes, description and conversion in RGB, HSL, HSV, CMYK, etc.
+- [Hardcore-History-56-Kings-of-Kings](https://www.dancarlin.com/hardcore-history-56-kings-of-kings)
+  > Hardcore History Episode 56 – Now Available!
+- [DIGITALAX](https://www.digitalax.xyz/homepage)
+  > Open composable machines for dimensional culture unlocked by the most advanced web3 fashion ecosystem.
+- [EthbotBegins-01_052021-r2.pdf](https://www.dropbox.com/s/55kbeey1bsa95ib/EthbotBegins-01_052021-r2.pdf?dl=0)
+  > Shared with Dropbox
+- [Войдите на Facebook](https://www.facebook.com/717213979/posts/10159689456443980/?sfnsn=scwspmo)
+  > Войдите на Facebook, чтобы общаться с друзьями, родственниками и знакомыми.
+- [Войдите на Facebook](https://www.facebook.com/cupidoamorciego)
+  > Войдите на Facebook, чтобы общаться с друзьями, родственниками и знакомыми.
+- [Войдите на Facebook](https://www.facebook.com/stromae)
+  > Войдите на Facebook, чтобы общаться с друзьями, родственниками и знакомыми.
+  > Created with Figma
+- [A New Year's Letter from the President | SQUARE ENIX HOLDINGS](https://www.hd.square-enix.com/eng/news/2022/html/a_new_years_letter_from_the_president_2.html)
+  > I would like to begin by wishing everyone a Happy New Year.
+- [Social Media Management Software | HubSpot](https://www.hubspot.com/products/marketing/social-inbox?hubs_post=blog.hubspot.com/service/social-listening&hubs_post-cta=social%20media%20product)
+  > Social media management software that lets you scale your marketing efforts. Publish, monitor, and report on your success all in one place.
+- [Social Media Management Software | HubSpot](https://www.hubspot.com/products/marketing/social-inbox?hubs_post=blog.hubspot.com/service/social-listening&hubs_post-cta=social%2520media%2520product)
+  > Social media management software that lets you scale your marketing efforts. Publish, monitor, and report on your success all in one place.
+- [Earwig and the Witch (TV Movie 2020) - IMDb](https://www.imdb.com/title/tt12441478)
+  > Earwig and the Witch: Directed by Gorô Miyazaki. With Jazmín Abuín, JB Blanc, Tom Bromhead, Alex Cartañá. An orphan girl, Earwig, is adopted by a witch and comes home to a spooky house filled with mystery and magic.
+- [alaturi_de_rebeca • Instagram](https://www.instagram.com/alaturi_de_rebeca)
+- [biza • Instagram](https://www.instagram.com/biza)
+- [bizarrap • Instagram](https://www.instagram.com/bizarrap)
+- [cupidoamorciego/?hl=es • Instagram](https://www.instagram.com/cupidoamorciego/?hl=es)
+- [evlay_ • Instagram](https://www.instagram.com/evlay_)
+- [gianlyfe • Instagram](https://www.instagram.com/gianlyfe)
+- [javierofracchia • Instagram](https://www.instagram.com/javierofracchia)
+- [lautarofuriolo • Instagram](https://www.instagram.com/lautarofuriolo)
+- [lgante_keloke • Instagram](https://www.instagram.com/lgante_keloke)
+- [stromae • Instagram](https://www.instagram.com/stromae)
+- [Madeon Store](https://www.madeon.store)
+  > madeon
+- [Mind Mapping Software: Mind Maps | MindMeister](https://www.mindmeister.com/map/2145029803?t=AiP70N5AmZ)
+- [Reddit - Dive into anything](https://www.reddit.com/r/AragonProjec)
+- [Reddit - Dive into anything](https://www.reddit.com/r/Entrepreneur/comments/t5q0a4/please_stop_making_these_website_mistakes)
+  > Sorry, for some reason reddit can't be reached.
+- [](https://www.tiktok.com/@stromae)
+- [](https://www.tiktok.com/@stromae?)
+- [YAP DAO](https://www.yapdao.xyz)
+  > YAP DAO is a community that provides public relations and communications support to the DeFi world. It is a service marketplace for non-technical people to get work in a technical field.
+- [Rick Beato](https://www.youtube.com/c/RickBeato)
+  > Everything Music
+
+## TEC
+
+- [You are invited to come party with the Token Engineering Commons DAO !🥳](https://gov.gitcoin.co/t/you-are-invited-to-come-party-with-the-token-engineering-commons-dao/7784)
+  > Hi Folks! I am posting to notify everybody about an invitation to get together with the Token Engineering Commons (TEC) people at a casual meetup. Music, laughter, good vibes and great information exchange is on offer 🙂 The reason for the invite is because TEC is on the verge of starting the hatch, the process of launching their economy and token. TEC wants to give people the chance to ask questions and get all the facts around the hatch. TEC is doing this with a few other co...
+
+- [Token Engineering Commons – Medium](https://medium.com/token-engineering-commons)
+  > The Token Engineering Commons (TEC) is building a world with safe digital socio-economic public infrastructures that are diversely designed and aligned with collective needs.
+- [GRAVITON TRAINING, SEASON 2](https://medium.com/token-engineering-commons/graviton-training-season-2-8f9817cf404d)
+  > “Rather than looking at conflict as a threat, we can see it as providing opportunities to grow and increase our understanding of ourselves…
+- [Kicking off the Token Engineering Commons](https://medium.com/token-engineering-commons/kicking-off-the-token-engineering-commons-be6a253cba81)
+  > The TEC envisions a world with safe digital economies that protect and support public goods
+- [TEC Working Groups Weekly Update - HackMD](https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/ByL8m2yo_)
+  > ----- # TEC Working Groups Weekly Update _______________________________________________________ ##
+- [](https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/HJXIJ0zdY)
+- [Support for TEA TEAM's Proposal for Q3 and Q4 2022 - HackMD](https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/Syk3A-IKq)
+  > # Support for TEA TEAM's Proposal for Q3 and Q4 2022 Hello TEC and TEA Community! As you may know,
+- [Onboarding Videos - HackMD](https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/ryGSpsDfY)
+  > or
+- [Hatching a New Economy - HackMD](https://hackmd.io/SBKMAE56QruvHr1ZRUangw)
+  > or
+- [Hatching a New Economy - HackMD](https://hackmd.io/SBKMAE56QruvHr1ZRUangw?both)
+  > or
+- [Hatching a New Economy - HackMD](https://hackmd.io/SBKMAE56QruvHr1ZRUangw?view)
+  > or
+- [Token Engineering Commons Hatch](https://hatch-demo.netlify.app)
+  > Join the TEC and become part of the movement to advance Token Engineering for the benefit of societies around the globe.
+- [Token Engineering Commons Hatch](https://hatch-demo.netlify.app/#/home)
+  > Join the TEC and become part of the movement to advance Token Engineering for the benefit of societies around the globe.
+- [Token Engineering Commons – Medium](https://tecommons.medium.com)
+  > Read writing from Token Engineering Commons on Medium. @tecmns 🛠️Building tools for safe digital economies that protect & support public goods 🐣 $TEC token hatch coming soon Discord: https://discord.gg/tjhx4rw2WK.
+- [Token Engineering Commons – Sustainable & Ethical Design for Token Ecosystems](https://tecommons.org)
+  > Advancing the field of token engineering in a regenerative way. Stewarding the cultivation of resources to accelerate the creation of robustly engineered models, modular tools, standards and educational opportunities.
+- [Join the Token Engineering Commons!](https://tecommons.org/join)
+  > Advancing the field of token engineering in a regenerative way. Stewarding the cultivation of resources to accelerate the creation of robustly engineered models, modular tools, standards and educational opportunities.
+- [Join the Token Engineering Commons!](https://tecommons.org/workgroups)
+  > Advancing the field of token engineering in a regenerative way. Stewarding the cultivation of resources to accelerate the creation of robustly engineered models, modular tools, standards and educational opportunities.
+- [TEC Handbook - TEC Handbook](https://token-engineering-commons.gitbook.io/tec-handbook)
+  > Welcome to the Token Engineering Commons Handbook!
+- [Roles 🌿 - TEC Handbook](https://token-engineering-commons.gitbook.io/tec-handbook/processes/roles)
+- [Welcome to TEC Source - TEC Source](https://token-engineering-commons.gitbook.io/tec-source)
+  > TEC Source is here to provide easy access to active and archived documents within the TEC. If you are currently working on a document and want to share it here, please notify one of our Stewards!
+- [TokenEngineering Academy | Token Engineering](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome)
+  > About
+
+
+### Ops
+ - [Join the Token Engineering / TE Academy Discord Server!](https://discord.gg/NfcWqHW)
+  > Check out the Token Engineering / TE Academy community on Discord - hang out with 2,830 other members and enjoy free voice and text chat.
+- [Join the 1Hive ð¯ Discord Server!](https://discord.gg/XQZHwwd4kb)
+  > Check out the 1Hive ð¯ community on Discord - hang out with 9,940 other members and enjoy free voice and text chat.
+- [Join TEC's Discord Server](https://discord.tecommons.org)
+  > Come hangout in Token Engineering Commons' Discord Server, introduce yourself and see what is happening in our working groups, join conversations and jump into any of our weekly calls.
+- [Verify it's you - Airtable](https://airtable.com/appkR0Hw0DR1ACzzw/tblaLOwBKeaoDEUU7/viw6l8zkwz8Q9Noe6?blocks=hide)
+  > Our systems have detected unusual traffic from your computer network. Please help us with a quick security check to validate it's you sending this request.
+- [Airtable | Everyone's app platform](https://airtable.com/invite/l?inviteId=invFfAsEi7tcG45vh&inviteToken=4bfa434045fb44fc6b72f3c4abfa73c7538c3be644858d4c91f374368d88fa23&utm_source=email&originApplicationId=appkR0Hw0DR1ACzzw)
+  > Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.
+- [GitBook](https://app.gitbook.com/@suits-nathan/s/tec-source)
+  > GitBook
+- [GitBook](https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/what-is-the-tec/mission-vision-and-values)
+  > GitBook
+- [TEC Onboarding Module (Categories)](https://bit.ly/3biPrUk)
+  > WORKING GROUPS Communication & Collaboration Peacemaking, Guidance & Leadership Engineering & Research Where do your skills and interests match? Select a Working Group Category from the menu to learn more. Public Goods Investment
+- [TEC Onboarding Module (Grid)](https://bit.ly/3hiadHn)
+  > WORKING GROUPS Comms Transparency Parameters Omega Legal Commons Gravity Soft Gov Stewards
+- [TEC Onboarding - WGs Module Feedback](https://bit.ly/3uEdIMa)
+  > Feedback on WG Onboarding Module Existing issues: Hatcher Outreach will be added 0mega (assistance with content needed) Public Goods Investment category link error w/ Categories w/out Categories Framework Content Design Target Audience Characterist... 
+- [Introduction to Token Engineering](https://forms.gle/PDK6toRMG9vXNRAf9)
+  > Great you are interested in Token Engineering! This is the registration form for our upcoming "Introduction to Token Engineering" 60 min session on Thursday, July 14 at 2:00 PM UTC. We co-host these sessions with TE Commons for a 360° overview on the TE Community. The event will be hosted online - if you register here we will follow-up with a calendar invite to the session!
+- [Figma](https://www.figma.com/file/9QEfP0AMhaZnmqrIBiok8k/TEC-Dashboard-User-Flow-Ideas?node-id=0%253A1)
+  > Created with FigJam
+- [Figma](https://www.figma.com/file/9QEfP0AMhaZnmqrIBiok8k/TEC-Dashboard-User-Flow-Ideas?node-id=0%3A1)
+  > Created with FigJam
+- [Figma](https://www.figma.com/file/UvizpnbEqPXa7eR7TqIJcJ/Untitled?node-id=0%253A1)
+  > Created with FigJam
+- [Figma](https://www.figma.com/file/UvizpnbEqPXa7eR7TqIJcJ/Untitled?node-id=0%3A1)
+  > Created with FigJam
+- [Figma](https://www.figma.com/file/x3ryTFn3uOtOn4OhUOfT7h/Ideas-for-TEC-Communitas?node-id=226%253A2)
+  > Created with Figma
+- [Figma](https://www.figma.com/file/x3ryTFn3uOtOn4OhUOfT7h/Ideas-for-TEC-Communitas?node-id=226%3A2)
+
+### Documents
+- [Hatch Communications Roadmap](https://docs.google.com/document/d/11YScqIT9B2k-eqzmiNz-kKDzjc-Cm0rcLYrh9GB4Jbk)
+  > Hatch Communications Roadmap Dates: Final Expected Hatch Date: Don’t know targeting May 31 May 12th - Runoff Param Vote (Week Duration) (TE is important!!!!) May 18th - Param’s Final (Your Econ Your choice) May 20th-27th Final Test Hatch!! (Grassroots/Bottom up Economic Design) ----- UX Fixe...
+- [TEC Comms_Working Group](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI)
+  > TEC COMMUNICATIONS Working Group Manifesto NEXT WEEKLY SYNC/WORK SESSION: Tuesday 9am PST / 6pm CET WHERE: Discord Voice Channel “Comms-TEC https://discord.gg/NfcWqHW CALL NOTES & AGENDA TEC Weekly Sync Calls & Calendar link here Working Groups progress should be shared in the Thursday communit...
+- [TEC Twitter Sync](https://docs.google.com/document/d/1859Mhnv_Nzaa-6AIcX6JTHlXwm7Pi23hsjJwrKQ8vrg)
+  > TEC Twitter Sync Relevant links: https://twitter.com/tecmns TEC Twitter Content Planning Next #TETuesdays is gonna cover #MintTEC Next #TEStars is the TE Academy June 20 Attendees: Acidlazzer, Chuy, Manu Logistics Dework Content Newsletter subscription CTA Gitcoin Grants Round 14 TEC, Propo...
+- [TEC Scouts - Agenda.](https://docs.google.com/document/d/18PKsdmm59GfQdqflpTIgO4aL-174xJIKQL2Gf__8aUw)
+  > TE Scouts Agenda & Notes Wednesdays, 7am PST / 4pm CET Call Agenda Wednesday, July 7th - 8am PST / 5pm CET Attendees: chuygarcia92, lauren, eduardo, nate, mountmanu, whyidwanderer Agenda: Manifesto Link here! Chuy: Add / develop the document with common issues. Add gitbook / FAQ. Entry poi...
+- [SEO Project Brief](https://docs.google.com/document/d/18RlOZf_DhV149eZ-KPArBF0iFnwsi9SSLiMOg-vD0CU)
+  > SEO Project Brief Draft 0.1 Overview 1 Objective 1 Success metrics 1 Reference to SEO work already done or in progress 2 Overview Google search results for “Token Engineering Commons” and “Token Engineering Commons medium” currently result in links that are 1) out of date or 2) badly...
+- [Parameters Twitter Campaign](https://docs.google.com/document/d/1BB6aysQCMWZjugZONNtPoCzQ6QFhHwXrdDgqsLR6Xyw)
+  > CCD Parameters The goal of this Twitter series is to bring the community members’ attention to the CCD parameters and make them simpler & easier to understand. We will tweet one parameter per day so that the readers don’t get overwhelmed and the information will retain longer. PART 1 To...
+- [Hatch Campaign Calendar - Day by Day](https://docs.google.com/document/d/1FfP97LbkLJLLTv1cSZtKENjnJbQqZI9FwsDUQ58UNwU)
+  > Thursday, July 15th Hatch opens Promote TG hatch group for support Friday, July 16th Weekly updates The hatch is open! Saturday, July 17th Hatch Animation Video May not be ready, informative content as plan B. Hatcher Handbook Sunday, July 18th Evergreen Content: “Token Engineering Commons” by...
+- [Content Production & Distribution Process Proposal](https://docs.google.com/document/d/1Jri1kbnFhPq2F8tPoeLJjV__Gr3cxykiMLZddDNn97Y)
+  > Content Production & Distribution Process Proposal Within Governing the Commons, Elinor Ostrom evaluated several different CPR settings that informed her framework for Commons management. The 8 design principles as we’ve come to know them are much more than a framework for governing a Commons;...
+- [TEC Comms Working Group_Weekly Sync Notes](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw)
+  > TEC COMMS WG - NOTES & AGENDA Comms Steward: @chuygarcia92 Working Group Manifesto Check our Content & Distribution Workflow and our github repo. Comms Platforms: ✔️Discord ✔️TEC Medium ✔️TEC Contributors Medium ✔️Twitter ✔️YouTube ✔️Forum / Discourse ✔️We...
+- [Hatch Outreach campaign to vote & about IH that will be lost](https://docs.google.com/document/d/1YvzrtMnfTOEr-e5wi8nsBmmgcyyxFki5RxvMKBC4nx4)
+  > Hatch Outreach Campaign Goals 1 Files 1 Cases 2 Steps 2 Message: Personal “pre-message” 2 Message: Vote! 2 Message: Last day to vote 3 Message: Activate your Membership or LOSE your Impact Hours. 4 Goals Individual touchpoint - personal DM - to (1) those that have Impact Hours and have ...
+- [Google Docs: Sign-in](https://docs.google.com/document/d/1ct8K4AMqiHJHkF9NfkK03EaVacoLnecUJrDfkarhJXY)
+  > to continue to Docs
+- [David’s Analytics Corner](https://docs.google.com/document/d/1e6G4nlMG12JGMuc36AB-Ygr4w1dZ4EJ0Nx27QssqnRE)
+  > David’s Analytics Corner Per Day: https://docs.google.com/spreadsheets/d/14CMvoPS0wrjKHMmwFi7isSKb4g7C5Q6xCmr-Es5fn5Q/edit?usp=sharing https://docs.google.com/spreadsheets/d/1gRSltEjFYdl5fhBvc-_KH-au2_dtsLbrzWqEiZh5emk/edit?usp=sharing
+- [How to DAO course notes (Sep-Oct 2021)](https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ)
+  > How to DAO (DAO: Decentralised Autonomous Organisation) Sep–Oct 2021 A four-week, better-than-free course on the future of co-operation Funded by the DAOhaus UberHaus Lead facilitator Stephen Reid (@daoist321) Best viewed with 'Print layout' off (View > uncheck 'Print layout') Join the...
+- [rewards meme thread](https://docs.google.com/document/d/1mACB0Fm1sM3RjtjP7gWsPmKTaixrxdUGf5Q8s-nrMVE)
+- [Hubspot Meeting Agenda Document](https://docs.google.com/document/d/1mOMZI0D3MHZcT6TJpnThHdbKx0HT7_9itj3GBxk_l_Y)
+  > Hubspot Meeting Agenda Document SATURDAY, September 25, 2021 Attendees: Edu, Durgadas, Nate AGENDA: Identify What we want to use Hubspot for (paid service): Email Blasts (General) Gravity Use-Cases (Marketing) TEC Community Information/Communication (Marketing) DAO2DAO Documentation (Sales) Zap...
+- [Gardens Launch Announcement Timeline & Partner Resources](https://docs.google.com/document/d/1q9LKFWqGdlMJU45sXJRZGCzepgsYnrwWGkq5g61oALU)
+  > Gardens Launch Announcement Timeline & Partner Resources Monday Tuesday Wednesday Thursday Friday Saturday Sunday 22 Gardens Tweet #1 23 Gardens Tweet #2 24 Gardens Tweet #3 25 Thanksgiving In US 26 27 28 29 Gardens Tweet #4 30 Gardens Tweet #5 1 Gardens Tweet #6 Git...
+- [Optimism Giveth RetroPGF Tweet Thread](https://docs.google.com/document/d/1szjf_eTnUBXd9x7tlzKsVXtQE5tAULbNmIzN0FEGexI)
+  > Tweet 1: Giveth has been adding value to Ethereum for 5 years, funded solely by donations. No investments, No Grants.🚫 We've been working to advance Ethereum in pursuit of our ultimate mission: To reward and empower those who give. 💝 Read on to learn more 👇 Tweet 2: Our story starts i...
+- [Ragequit](https://docs.google.com/document/d/1t_APam3hlSG6plz94qnXIEkYRCJETXc5iUNnNRTKUaM)
+  > Ragequit Everyone with CSTK tokens will be able to add funds to the hatch, the funds able to send to the hatch will be limited for the amount of CSTK that the address holds and the CSTK ratio is ___. The DAI sent to the hatch can be redeemable 100% if the process does not reach the minimum goa...
+- [Transparency in DAOs](https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0)
+  > Transparency in DAOs The long term success of a DAO needs more than just technical code. It also needs to foster trust and commitment between its members, and between the members and the DAO. To turn a DAO’s vision into reality, its participants should be genuinely committed and understand t...
+- [New TEC Twitter bio](https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0)
+  > TEC Twitter new bio ideas, drafts and suggestions Current draft: Token Engineering is the future of economic systems design. We’re a Commons DAO that funds projects to advance this nascent field. #MintTEC Current banner draft: Advancing Token Engineering Ethical • Safe • Resilient • Dive...
+- [Expanding Administrative Capacity](https://docs.google.com/document/d/1wdLEpfVIpcm6w1PdglyY0V2R_6s5E-lIiuWuUoyXIvo)
+  > [ ] Create this piece for the External Content Process Expanding Administrative Capacity within a DAO There are a lot of practical obstacles with the Content & Distribution Process as articulated above. While it might suffice for the moment, it doesn’t scale well with the introduction of lets...
+- [Design your Economy; Make your Choice.](https://docs.google.com/document/d/1yp1lHM3Ksx3OoBCaHF6uktNN186rGT22S0GfD_u3qoE)
+  > Have you checked out the Hatch Dashboard yet!? It’s super exciting and your fellow TEC members have been working extremely hard on it! The Dashboard is the tool we’re using to decide our pre-hatch parameters and compare results. It is extremely important to battle-test our parameters so that we...
+- [TEC_PressKit](https://docs.google.com/presentation/d/1-w43yn84Wh4Bh5R9hd7TCl0OKlYp1iZMJb6PSsvZwWg)
+- [Commons Upgrade Voter Pamphlet - TEC Vote](https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y)
+  > Commons Upgrade Voter Pamphlet VOTE ON SNAPSHOT Reading time of approximate 15 min #CollaborativeEconomics
+- [DAOs - The New Coordination Frontier](https://docs.google.com/presentation/d/1fLJvPOvibcCUpJ9ES44_cdoX5Hb7LpDaloGWz5FbUEM)
+  > Ligther Bankless Logo V2 DAOs The New Coordination Frontier Comprehensive Report Curated By ( September 2021 Edition )
+- [Graphics](https://docs.google.com/presentation/d/1zcisOx79Ia5bCwzxQALYR29J4DN-_0ndIBJHo0yE5Dg)
+- [1HiveSwarms](https://docs.google.com/presentation/d/e/2PACX-1vQm_v90bEp-g04GoADuIAvbpEqwT6tatSXZOgYKGkhTQFjsLCZdqsJidYZdDPvLR4_muj1pyI7EsKdi/pub?start=false&loop=false&delayms=60000&slide=id.gccce72c6aa_1_28)
+  > Building Sharing Bug Bounty Flora Celeste Agave Buzz Terra Morphosis Projects in Dev Learning Community Canon 1Hive Swarms Click one to learn more. Luna Fauna Tulip Pollen Honeypot Honeyswap Go to
+- [daily_tweet_activity_metrics_tecmns_20210813_20210910_en](https://docs.google.com/spreadsheets/d/14CMvoPS0wrjKHMmwFi7isSKb4g7C5Q6xCmr-Es5fn5Q)
+  > daily_tweet_activity_metrics_tecmns_20210813_20210910_en Date,Tweets published,impressions,engagements,engagement rate,retweets,replies,likes,user profile clicks,url clicks,hashtag clicks,detail expands,permalink clicks,app opens,app installs,follows,email tweet,dial phone,media views,media enga...
+- [DAO Guide!](https://docs.google.com/spreadsheets/d/16IDgIyPcfwJGG-zmXeMAenYbePQVHkc2P6WCwKEZgpk)
+  > Market research The guide initially started by the daomasters.xyz commnunity. Join us if you are interested in supporting the DAO ecosystem. ,Everyone is welcome to contribute 🚀 Please be kind and factual 🙏 Add your name or wallet address to the <a href="#gid=474277713">contributors tab</a> ...
+- [Post-Hatch Comms Plan](https://docs.google.com/spreadsheets/d/1FJqAsNbZHfQzU5pkNqMrAs-kCatEPYDHa0RTdnZkHgs)
+  > Sheet1 Week 1 (Aug 15-21),Week 2 (Aug 22-28),Week 3 (Aug 29-Sep 4),Week 4 (Sept 5-11) Medium "So you joined the Hatch - now what?" - what is ragequit - what we are working on now (the CCD) - what to expect... helping to design the economy and voting with TECH - what will happen to IHT and TECH ...
+- [TEC COMMS High Level Security And Messaging Outline](https://docs.google.com/spreadsheets/d/1JJ3YoHmWYyOH8RZs1jT8VDFyQJHt35kJw92tT7YPXvI)
+  > Overall Structure T.E.A.M.,PRINCIPLES,CRM TOOLS/ACCESS: Vertical,AWARENESS,CONSIDERATION,PARTICIPATION,RETENTION,ADVOCACY MESSAGE/NARRATIVE: Horizontal,SOCIAL MEDIA,SOCIAL MEDIA,SOCIAL MEDIA,SOCIAL MEDIA,SOCIAL MEDIA VIDEO PRODUCTION,VIDEO PRODUCTION,VIDEO PRODUCTION,VIDEO PRODUCTION,VIDEO PRODU...
+- [TEC.SEO <-- Copied from the original XLS](https://docs.google.com/spreadsheets/d/1P9DQkB-tvyGIaVaNR4Bdfkg3mhwDwDmMm66WwF3dcBw)
+  > Sheet1 Keywords Too general,Average monthly search volume Token engineering,100 - 1,000 **,Blockchain,> > Public Goods,10,000 - 100,000 Decentralized Finance,10,000 - 100,000 DAO,100,000 - 1,000,000 **,Ethereum,> > cadCAD,100 - 1,000 DEFI,100,000 - 1,000,000 Cryptocurrency,1,000,000 - 10,000,000 **
+- [Page Not Found](https://docs.google.com/spreadsheets/d/1QJnratmpodDOuTY-21Lgr6wHr8AK4BOBa-cBI37rHNots=601004ae#gid=450032996)
+  > Web word processing, presentations and spreadsheets
+- [TEC Twitter Content Planning](https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU)
+  > Weekly plan x,Week 1 (Aug 15-21),Week 2 (Aug 22-28),Week 3 (Aug 29-Sep 4),Week 4 (Sept 5-11),Week 5 (Sept 12-18),Week 6 (Sept 19-25),Week 7 (Sept 26 - Oct 2),Week 8 (Oct 3-9),Week 9 (Oct 10-16) Twitter Collaborative Economics,x Claiming SWAGTEC,x Adding TECH to the metamask,x Commons Upgrade,x,x...
+- [Keywords Research](https://docs.google.com/spreadsheets/d/1_2UeAcGB1FR7wZrVRR8rjRDRBmPxCaU-SQkPsvcX6rU)
+  > Sheet1 Keywords Inquiry BRAINSTORM:,Vocabulary we know/we'd like to relate to main content Token Engineering,Commons,Blockchain,Research,Education,Economics ,Governance,Commons Swarm,DAOs cadCAD,Elinor Ostrom,Ethereum,Control Theory,Solidity,Bonding Curve,Futarchy,Governance dApps,Communities Si...
+- [tweet_activity_metrics_tecmns_20210825_20210922_en](https://docs.google.com/spreadsheets/d/1gRSltEjFYdl5fhBvc-_KH-au2_dtsLbrzWqEiZh5emk)
+  > tweet_activity_metrics_tecmns_20210825_20210922_en Tweet id,Tweet permalink,Tweet text,time,impressions,engagements,engagement rate,retweets,replies,likes,user profile clicks,url clicks,hashtag clicks,detail expands,permalink clicks,app opens,app installs,follows,email tweet,dial phone 144012663...
+- [Access Document](https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0)
+  > Sheet1 Explanation: This chart serves as a point of reference for communication and transparency. Its purpose is to facilitate coordination between members of the organization with easy steps to promote cooperation and accountability. How to use this document: Want to contribute in any of the p...
+- [TheDAOist collective media folder - Google Drive](https://drive.google.com/drive/folders/1ifU8y880MJ6CglHAU9mKt_gsj5vREC9i)
+- [TEC.SEO.xlsx](https://drive.google.com/file/d/1Esk-pVXi0h3pDwa2kn7neodARAYcciOz/view?)
+- [e44c97c2-e8ec-4623-a27d-bac8f712f0da.MP4](https://drive.google.com/file/d/1v8CR2jbVJ7x80K33cM52HPmh5Xq58ND_/view?usp=drivesdk)
+
+
+### Tecommons Forum
+- [Adding TEC to the Optimism ecosystem via Velodrome](https://forum.tecommons.org/t/adding-tec-to-the-optimism-ecosystem-via-velodrome/1053)
+  > About an hour or two ago, I finished listening to a Twitter space discussing bootstrapping projects onto Optimism through Velodrome finance. The speakers were kind enough to explain that projects such as ours should be able to readily transition to Optimism, and through their incentivization mechanism, draw significant liquidity to our pair via voting within Velodrome governance. I’m not perfectly clear on every detail, but if someone were willing to review the documentation with me, I’m confide...
+- [Commons Swarm - How are we doing?](https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327?u=chuygarcia92)
+  > Wednesday’s Weekly Commons Update - April 7th Hi TEC! Through this thread we’ll be posting updates every Wednesday from how stuff is doing in the Commons Swarm. The main objective is to build a bridge between the TEC and 1Hive communities through the Commons Swarm, which is a united effort between both. Some of this week’s advances: We announced an Aragon connector for the hatch subgraph. Our beloved @paulo has put special attention in its documentation. 1Hive is migrating!! Due to the im...
+- [Voting for the Final Params for the Commons Upgrade](https://forum.tecommons.org/t/commons-upgrade-decision-making-process/682)
+  > ⭐Updated dates!!! We will keep proposing Parameter Sets until mid-december! Commons Upgrade Decision Making Process You can make Params here: https://config.tecommons.org/ Your submissions will show up here for voting: Tokenlog · Token-weighted backlogs Tokenlog is a token weighted curation tool that allows us to gather continuous feedback on the priority of github issues through the use of Quadratic Voting. The TEC has been using it for crowd decision making - When the whole c...
+- [Comms T.E.A.M. DAO Funding Proposal](https://forum.tecommons.org/t/comms-t-e-a-m-dao-funding-proposal/865)
+  > Proposal title Comms T.E.A.M. DAO Funding Proposal for 5 months TL;DR The Token Engineering Amplify Messengers work as a decentralized agency that provides communications services to projects that help advance Token Engineering. Proposal description The core function of the Comms T.E.A.M. DAO will be to provide services to TEC, but services can be provided to other TE-related projects if the community recognizes its commitment to advance Token Engineering. The Comms T.E.A.M. DAO will be o...
+- [☎️ Comms Working Group](https://forum.tecommons.org/t/comms-working-group/162/2?u=chuygarcia92)
+  > Comms WG - New Manifesto Dear TEC Community, I’m happy to present you our updated manifesto as well as our last roadmap. COMMS WG MANIFESTO COMMS ROADMAP I want to take the opportunity to thank everyone that has supported the Comms WG the past few months, I hope we can serve your needs better for these upcoming exciting times for the TEC.
+- [Design your Economy; Make your Choice](https://forum.tecommons.org/t/design-your-economy-make-your-choice/366)
+  > Have you checked out the Hatch Dashboard yet!? It’s super exciting and your fellow TEC members have been working extremely hard on it! The Dashboard is the tool we’re using to decide our pre-hatch parameters and compare results. It is extremely important to battle-test our parameters so that we do not goof-up our fledgling commons (or create holes in the fabric of space and time). It’s a bit overwhelming at first but let’s take you through it. Prepare yourself for: The Hatch Dashboard: We ha...
+- [Hatch Swag - Look & Feel VOTE!](https://forum.tecommons.org/t/hatch-swag-look-feel-vote/436?u=chuygarcia92)
+  > Hello TEC! As you know, @Tamara, @acidlazzer and I have been working in the swag that hatchers are getting in some more weeks 😉 We wanted to get a general check on POVs from the community based in the following proposals: We’d like to make clear that none of these are final designs, just some tests for look & feel. If you can help us submitting your vote it would be of great help to make newer proposals based in the direction the community is more appealed to. Everyone has 2 votes. L...
+- [How to get wxDAI; A Bridging Story](https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347)
+  > Let us Begin. Hello there fellow TE Commons folk, have you been scratching your head over this wxDAI business? You probably realized by now that it’s KINDA(very) important to get your hands on some wxDAI to participate fully in the Hatch. I’m going to walk through the most basic ways to get wxDAI from most crypto networks. Please read through this whole article before starting anything. What is wxDai? The first thing that will be helpful to understand is where you’re going and what you’re ...
+- [How to get wxDAI; A Bridging Story](https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347?u=chuygarcia92)
+  > Let us Begin. Hello there fellow TE Commons folk, have you been scratching your head over this wxDAI business? You probably realized by now that it’s KINDA(very) important to get your hands on some wxDAI to participate fully in the Hatch. I’m going to walk through the most basic ways to get wxDAI from most crypto networks. Please read through this whole article before starting anything. What is wxDai? The first thing that will be helpful to understand is where you’re going and what you’re ...
+- [🔑 How to Join & Contribute?](https://forum.tecommons.org/t/how-to-join-contribute/98)
+  > How to Join the Token Engineering Commons 👋 Come say hello on our Discord or Telegram channels. Drop in to the new joiners orientation on Wednesday, 7am PST / 18h CET on our community hall channel on Discord. ☎ Join our next Community Call on Thursday, 9am PST / 20h CET on our community hall channel on Discord. 🌐 Feel free to join any of our calls! Add one or more to your calendar. 📰 Connect with us and stay up to date by following the TE...
+- [How YOU can Hatch the TEC!](https://forum.tecommons.org/t/how-you-can-hatch-the-tec/328)
+  > The step-by-step guide to becoming a founding member of the TE Commons First… Check that you even want to bother! Do you want to Advance Token Engineering? Do you want to become a leader at the forefront of crypto-economic design? Do you want to help weigh-in on creating standards, educational opportunities and tooling to make validating token economic designs easy? Do you want to join the ranks of Michael Zargham, Simon de la Rouviere, Trent McConaghy and countless other token engineers to pu...
+- [Outlining the Rewards System Process.. v2!](https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646)
+  > Rewards System Process The purpose of this system is to create a way to record, reward and analyze fairly the work done by contributors to the TEC, creating a manner of providing decentralized updates of the action happening in the Commons. By this system we can gather realtime acknowledgement of contributions, in a decentralized manner. We have multiple systems that are designed to reduce as much as possible the mental overhead and time commitment of quantification and also average out the su...
+- [Question: How can our TEC Twitter account accurately represent our community? What tone do we want to portray?](https://forum.tecommons.org/t/question-how-can-our-tec-twitter-account-accurately-represent-our-community-what-tone-do-we-want-to-portray/596/4)
+  > Hey @blazingthirdeye I agree! 1. That’s an immense amount of pressure. and 2. I’m a bit surprised to hear that; I assumed the Comms WG were stewarding this as a group. Could share a little more about the current responsibilities and roles as they fall? Sounds like you’re stewarding Twitter alone? Absolutely. I wonder if this is a good opportunity to: Put the call out for a small team to work with you for a specified period of time to dive into these questions and bring your shared findings...
+- [Second Graviton training study plan](https://forum.tecommons.org/t/second-graviton-training/607)
+  > Graviton training Study plan (2nd season) Amount of sessions: 10 sessions (With 3-4 workshops) Starting date: 21st September 2021 Ending date: 23rd November 2021 1 session per week Days: Tuesdays Tentative Hour of the call: 8:00 pm CET (after TEC soft gov) Time: 1 to 1:30 hours. Methodology: There is some content that is required to be understood for a full comprehension before each session, that is referred to as pre-learning. Each facilitator will lead a Presentation or a Workshop and ...
+- [Using Celeste as TECommons arbitrator](https://forum.tecommons.org/t/using-celeste-as-tecommons-arbitrator/409)
+  > Using Celeste as TECommons arbitrator Proposal Information Proposal Description: With the Commons Upgrade, we are going to use Disputable Voting and Disputable Conviction Voting. Disputable means that proposals can be challanged meanwhile they are voted. When a challenging happens, an Arbitrator decides if the proposal should be canceled or if it should continue according to what the TEC Community Covenant says. This will convert TEC into a manifesto-based organization. This means we need to...
+- [Voting for the Final Params for the Commons Upgrade](https://forum.tecommons.org/t/voting-for-the-final-params-for-the-commons-upgrade/682/8)
+  > These are great questions!! It’s hard to know the thoughts of the DAO… as its a diverse set of token holders with various opinions… but I’ll tell you what I see from my perspective. I think it’s hard for anyone to say what our objectives are… It’s a DAO decision… The goal is to advance token engineering… people will propose ideas and they will compete for token holder votes via Conviction Voting. Here is the mission statement: Mission, Vision and Values - TEC Handbook We raised 1.5 mil al...
+- [Your advice on the Sampo strategy](https://forum.tecommons.org/t/your-advice-on-the-sampo-strategy/1019)
+  > Provide as much information as possible about your idea. This post grew from the Sampo working group’s high-level strategy document, which you can find below. The plan has gotten initial advice from the working group and was presented at last week’s Steward Council. To broaden feedback from the community, I’m posting it here and including a link at the bottom to a quick, easy survey tool. This tool provides some powerful analysis capabilities that will help us easily find where we do and do no...
+- [Your advice on the Sampo strategy](https://forum.tecommons.org/t/your-advice-on-the-sampo-strategy/1019/2)
+  > What a great proposal! ❤ “Capacity building” is a term from the nonprofit world that is used to describe investments that grow an organization’s ability to financially sustain itself and serve its mission. Yes, we should definitely focus on the kind of work that not only ensures that TEC can sustain itself but also increases our financial capacity. We have created a mechanism for continuous funding in the form of the ABC. But for the funding to be sustainable, predictable and continuo...
+
+
+
+### Youtube
+
+- [Token Engineering Commons](https://www.youtube.com/c/TokenEngineeringCommons)
+  > The Token Engineering Commons is building the tools for safe digital economies that protect and support public goods. To·ken En·gi·neer·ing /ˈtōkən/ /enjəˈniriNG/ 1. An emerging engineering discipline focused on holistic systems design and the theory, practice and tools used to design and verify tokenized ecosystems i.e. cyptoeconomic systems and their simulation using tools like cadCAD. 2. A discipline of responsibility; adhering to the highest principles of ethical conduct (from ethical engineering) 3. A community pushing forward the field of token engineering in theory and practice. (See more Modeling Crypto Protocols as Complex Systems, TE Process) Com·mons/ˈkämənz/ 1. Resources that groups of people (communities, organizations) create and manage for individual and collective benefit. These resources are held collectively, not owned privately (see Fractal Ownership, Wiki and Automating Ostrom)
+- [Economics Design](https://www.youtube.com/channel/UC-o87lCF9HaEuj0R-3VT1yg)
+  > We are looking to design and define Gross Protocol Value. In this channel, we share about 1) the design of economic systems 2) the way to analyse and quantify such economic systems 3) how these protocols work This could be blockchain token-based ecosystem, video game simulated economy or real business world like frequent flyer and credit card points system. The goal is to educate you on the various mechanism behind how digital ecosystems work. More specifically, Economics Design focuses on the design of ecosystems. That means incentive design and governance. All ecosystems (digital, tokenised, non-digital) have similar underlying economics concepts. By understanding these economic concepts, it can help to better design incentives for participants. When we measure these designs, we can improve how the system works. We also design and consult on the economics for projects. Feel free to email us.
+- [NPR Music](https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A)
+  > The official YouTube channel for NPR Music featuring Tiny Desk Concerts, live shows, documentaries and more. Find more at www.npr.org/music
+- [em1994ilyb](https://www.youtube.com/channel/UC6M6oqVg7RMYexGGqczJqug)
+  > Share your videos with friends, family, and the world
+- [Sidecars](https://www.youtube.com/channel/UC8v4hZAIddI_mub3oO1nVNA)
+  > Con más de diez años de carrera y tras tres discos de estudio y uno en directo, Sidecars presentan “Cuestión de gravedad”, un nuevo trabajo que les confirma definitivamente como valedores del mejor rock en español.Para darle forma, Sidecars han vuelto a contar con el productor Nigel Walker (Antonio Vega, Los Rodríguez, Pereza), así como con sus músicos habituales de directo, aprovechando la fuerza, emoción y sentimiento que desatan sobre el escenario. El público se sentirá reconfortado escuchando estas trece canciones hechas con el corazón, capturadas con la cabeza, canciones en las que Sidecars han cuajado su sonido definitivo, un rock and roll con peso eléctrico y toque acústico cuyas raíces enlazan Madrid y EEUU, erigiéndoles como herederos de Los Ronaldos y Los Rodríguez y seguidores estudiosos de leyendas como Tom Petty, The Byrds o del sempiterno acercamiento de los Rolling Stones a las raíces musicales estadounidense.
+- [Porto Franco Records](https://www.youtube.com/channel/UCDmCy85Gipcs0xZj9UvsmIQ)
+  > We make live videos with our favorite musicians from San Francisco Bay Area and sometimes beyond. We also have a record label.
+- [Token Engineering](https://www.youtube.com/channel/UCDmzlpzOlaTALYV0hAwT0Tg)
+  > The Challenge Creating tokenized ecosystems is hard. How do we figure out what we want? How do we manifest that intent with block rewards and other crypto building blocks? How do we simulate and validate the design? How do we anticipate attacks and respond to them? How do we update the protocols? Given that these systems are wildly powerful, how can we better take responsibility for their design & deployment? Mission We'd love to see token ecosystem design become an engineering discipline: Token Engineering (TE). This implies a body of theory, practice, tools and a sense of responsibility. We aim to do this collectively as a community in a decentralized, permissionless, open-source fashion that all can contribute to and all can use. 👉 Support to make TokenEngineering lectures available online! https://cutit.org/8and1 More content: http://tokenengineering.net/ Meet us: https://www.meetup.com/pro/tokenengineering/ Join the discussion: https://twitter.com/tokengineering
+- [StromaeVEVO](https://www.youtube.com/channel/UCFKo78ysxmRhoQ85ySEo_PQ)
+  > Stromae sur Vevo – Clips Officiels, Lyric Vidéos, Concerts Live, Interviews et bien plus…
+- [usbzoso](https://www.youtube.com/channel/UCGhZwUhT8W6zNJAw7HQRZ2w)
+  > Share your videos with friends, family, and the world
+- [Linica](https://www.youtube.com/channel/UCLhAIHTyY6oeoXuTJ3QR3kg)
+  > Share your videos with friends, family, and the world
+- [Aragon](https://www.youtube.com/channel/UCODiU_-FWhr4SVOoBlm-qaQ)
+  > Aragon represents a new chapter in the history of society. Aragon lets you freely organize and collaborate without borders or intermediaries. Create global, bureaucracy-free organizations, companies, and communities. Aragon provides all the necessary tools for human collaboration. Aragon organizations are impossible to censor or shut down, escaping the boundaries of oppression and censorship.
+- [CRUDO MEANS RAW](https://www.youtube.com/channel/UCSwakiffcU6Bwo3pCgCMROg)
+  > CRUDO MEANS RAW MC - Producer from Medellin, Colombia
+- [Ethereum Colombia](https://www.youtube.com/channel/UCWZ7HHeICc4wohpVa-KOGzg)
+  > Share your videos with friends, family, and the world
+- [Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
+  > The Token Engineering Commons is building the tools for safe digital economies that protect and support public goods. To·ken En·gi·neer·ing /ˈtōkən/ /enjəˈniriNG/ 1. An emerging engineering discipline focused on holistic systems design and the theory, practice and tools used to design and verify tokenized ecosystems i.e. cyptoeconomic systems and their simulation using tools like cadCAD. 2. A discipline of responsibility; adhering to the highest principles of ethical conduct (from ethical engineering) 3. A community pushing forward the field of token engineering in theory and practice. (See more Modeling Crypto Protocols as Complex Systems, TE Process) Com·mons/ˈkämənz/ 1. Resources that groups of people (communities, organizations) create and manage for individual and collective benefit. These resources are held collectively, not owned privately (see Fractal Ownership, Wiki and Automating Ostrom)
+- [Bruno Borlone](https://www.youtube.com/channel/UCeXa1gTnJnlCgAPvStwoqcw)
+  > Get Funky! Dj / Remixer / Producer
+- [Amazing Grace](https://www.youtube.com/channel/UCfOfF7MuI8pefG7D9jEtHsQ)
+  > ...prayers, meditations, love letters, devotions, readings... ☆ Wishing you sweet dreaming and miraculous intervention.☽
+- [1Hive](https://www.youtube.com/channel/UCg0yASRY6TmXDryitYvsJOQ)
+  > A community of web3 buidlers. Get involved! http://honeyswap.org/ Discord Server: https://discord.gg/xHXjWkPrtT 1hive Forum: http://forum.1hive.org/ Also, check out some of these sweet applications and experimental products being worked on by 1Hive community members: • HoneyPot: The DAO to create and stake on distribution proposals - http://1hive.org/ • Honey Faucet: Register with BrightID to claim your Honey every 48h - http://faucet.1hive.org/ • Honeyswap: Swap tokens, add supply liquidity and create new pools - http://app.honeyswap.org/ • Honeyswap Analytics: In-depth Honeyswap market data - http://info.honeyswap.org/ • Honeycomb: Stake Honeyswap LP tokens to claim Honey - http://farm.hny/
+- [Joi Ballista](https://www.youtube.com/channel/UCj48QsYpLlo4pIACNDYmjeg)
+  > Artista de Musica Urbana
+- [Giveth](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
+  > Giveth is a completely free, open-source Platform for Decentralized Altruistic Communities, built on the Ethereum Blockchain.
+- [Enry -K](https://www.youtube.com/channel/UCltrhMHu-QZa-tg0wlMyKew)
+  > Share your videos with friends, family, and the world
+- [Bizarrap](https://www.youtube.com/channel/UCmS75G-98QihSusY7NfCZtw)
+  > Productor Musical || Buenos Aires, Argentina
+- [SavageGardenVEVO](https://www.youtube.com/channel/UCocAlqGOU7BqzKc87qx6WUg)
+  > Savage Garden on Vevo - Official Music Videos, Live Performances, Interviews and more...
+- [San Quirama](https://www.youtube.com/channel/UCp1FuU7220L45Rt25w5Kruw)
+  > Music that can be described as a symbiosis between organic subtlety and dynamism. "My intention is to generate spaces of connection where people can awaken their consciousness, memory and bond with Nature, regardless the location." This music reflects the diversity and beauty of nature and seeks to strengthen our ancient connection with Mother Earth.
+- [RoyalLive - Topic](https://www.youtube.com/channel/UCpGbX08E3ld2LMEojOiqUrg)
+  > Share your videos with friends, family, and the world
+- [Senador Música](https://www.youtube.com/channel/UCpepIrjKnhoM4TJhJmWtJ-g)
+  > Canal de Videos de El Barrio, Fondo Flamenco, Ecos del Rocío, Manuel Lombo, Marta Quintero, El Tren de los sueños, Las Carlotas, Álvaro Vizcaíno, Frandiego, Rocío Shayler, Medina Azahara, Paco Candela, Canalete, Manuel Berraquero, Pilar Ortiz, Lubricán y Carlos Kávila.
+- [Madeon](https://www.youtube.com/channel/UCqMDNf3Pn5L7pcNkuSEeO3w)
+  > Madeon https://madeon.lnk.to/LoveYouBack
+- [A.N.D.R.O](https://www.youtube.com/channel/UCrOO8Ajhk_8kkEALM3_0JXA)
+  > Canal Oficial de A.N.D.R.O medicenandromeda@gmail.com Únete al movimiento y conoce más de A.N.D.R.O: Instagram: @andrometizado ATK
+- [Sound Horizons](https://www.youtube.com/channel/UCss3Yps9sSQN18lRZYmUl4w)
+  > If you're looking for songs that are special, unreleased, rare, or B-Sides, you've come to the right place!
+- [Daniel Simões](https://www.youtube.com/channel/UCtrFD8fjMvo8on8L9S2Qlpw)
+  > Share your videos with friends, family, and the world
+- [CupidoVEVO](https://www.youtube.com/channel/UCu8ilNjDADiKjbbSE1tSJjg)
+  > Share your videos with friends, family, and the world
+- [Ugli](https://www.youtube.com/channel/UCuCfLG6qXyLfUxPELKwI_5A)
+  > Share your videos with friends, family, and the world
+- [Fred Again - Topic](https://www.youtube.com/channel/UCvA7ExlBsBUb5XQEYzJC1ww)
+  > Actual Life www.fredagain.com
+- [themanbest](https://www.youtube.com/channel/UCw5qW455t3BAeP7c706Nmbg)
+  > Share your videos with friends, family, and the world
+- [OficialMana](https://www.youtube.com/user/OficialMana/videos?view=0&sort=p&shelf_id=0)
+  > http://www.mana.com.mx/tour
+- [Nathy Peluso](https://www.youtube.com/user/nathypeluso)
+  > Canal Oficial de Nathy Peluso. Suscríbete si quieres estar al tanto de las novedades
+- [Senador Música](https://www.youtube.com/user/senador1983?sub_confirmation=1)
+  > Canal de Videos de El Barrio, Fondo Flamenco, Ecos del Rocío, Manuel Lombo, Marta Quintero, El Tren de los sueños, Las Carlotas, Álvaro Vizcaíno, Frandiego, Rocío Shayler, Medina Azahara, Paco Candela, Canalete, Manuel Berraquero, Pilar Ortiz, Lubricán y Carlos Kávila.
+- [SIDECARS - TODOS MIS MALES (con Dani Martín)](https://www.youtube.com/watch?v=-v8OYDnj2xY)
+- [NATHY PELUSO || BZRP Music Sessions #36](https://www.youtube.com/watch?v=0OkiUUU3Odw)
+  > NATHY PELUSO || BZRP Music Sessions #36Lyrics by: https://www.youtube.com/user/nathypelusoBeat by: https://www.instagram.com/bizarrap Mix by: https://www.i...
+- [Aragon - The fight for freedom](https://www.youtube.com/watch?v=AqjIWmiAidw&t=95s)
+  > We are building Aragon because we believe decentralized organizations can solve the world’s worst problemsCome chat with us at the Aragon Chat, https://arago...
+- [A.N.D.R.O x VALOP - WFL](https://www.youtube.com/watch?v=CJUbo1ckjp8)
+  > A.N.D.R.O x VALOP - WFLhttps://bit.ly/WFL-ANDRO¡Disponible en todas las plataformas digitales! ❤️‍🔥https://onerpm.link/190577904132Instagram: https://www.in...
+- [Savage Garden - To The Moon & Back (Extended Version)](https://www.youtube.com/watch?v=HCm6gRHINqA)
+  > Savage Garden's official music video for 'To The Moon & Back'. Click to listen to Savage Garden on Spotify: http://smarturl.it/SGSpot?IQid=SGTMBAs featured o...
+- [Cupido - La Pared](https://www.youtube.com/watch?v=HWNfFxQjkJc&list=RDKy2FAgwRkio&index=7)
+  > La Pared, ya disponible en tu plataforma digital: https://umusices.lnk.to/ClpIDSigue a Cupido en:Facebook: https://www.facebook.com/cupidoamorciego/Instagram...
+- [Stromae - Santé (Official Music Video)](https://www.youtube.com/watch?v=P3QS83ubhHE&ab_channel=StromaeVEVO)
+  > The official music video for Stromae – SantéListen here : https://stromae.lnk.to/santeID Listen to L'enfer here: https://Stromae.lnk.to/lenferYTMy new album ...
+- [Ep 68: How To Create a Purpose Driven Economy](https://www.youtube.com/watch?v=T-fKpo37ABM)
+  > How can we create a purpose driven Economy?What tools will we be needing?What will these tools look like? Lisa and Griff discuss!Timestamps :Intro : 0:00Over...
+- [Canto Chorado](https://www.youtube.com/watch?v=TtOrGiGVY_8)
+  > Linda canção interpretada pelos Originais do Samba!
+- [W24 Comms WG: Infographics board and memes!](https://www.youtube.com/watch?v=WM3l6HAmDis)
+  > Timecodes:00:00 - Intentions and distractions06:55 - Infographics23:20 - Board33:40 - Memes39:04 - Content distribution process🙏 Thank you for watching! Hit...
+- [TEC Community Call 57: WG updates](https://www.youtube.com/watch?v=YzgaDliouZs)
+  > Timecodes:00:00 - Praise time!21:00 - Agenda23:58 - Stewards29:20 - Gravity31:57 - Common Swarm33:23 - Soft Gov39:04 - 0mega41:52 - Labs45:05 - Comms46:58 - ...
+- [Skinshape - Arrogance is the Death of Men (Full Album)](https://www.youtube.com/watch?v=cQ_cHzU2sM8&t=1101s)
+  > 🔴🎵Follow our playlists ➪ https://fanlink.to/NiceGuysPlaylistTracklist01. Tomorrow 00:0002. Sound Of Your Voice 04:1303. Arrogance Is The Death Of Men 08:16...
+- [Matisyahu - One Day - Spinner (HD)](https://www.youtube.com/watch?v=cXACMQtuuZI)
+- [Lous and The Yakuza: Tiny Desk (Home) Concert](https://www.youtube.com/watch?v=dzgEjZyN9ec)
+  > The Tiny Desk is working from home for the foreseeable future. Introducing NPR Music's Tiny Desk (home) concerts, bringing you performances from across the c...
+- [MerKaBa Meditation According to Drunvalo Melchizedek](https://www.youtube.com/watch?v=ef7mmFvV19g)
+  > MerKaBa comes from a Hebrew word meaning chariot, or vehicle, and can also be defined as the light spirit body.Mer~LightKa~SpiritBa~Body“Mer Ka Ba”Dear One, ...
+- [Limp Bizkit - Live at Vive Latino 2022 (FULL CONCERT)](https://www.youtube.com/watch?v=foFzIYmqb24)
+  > Limp Bizkit performed at Vive Latino in Mexico City on March 19, 2022. The show was live broadcasted on YouTube.Setlist:Out of Style - 00:38Dirty Rotten Bizk...
+- [Mose & Sam Garrett - Om Ganesha](https://www.youtube.com/watch?v=k-bvEyE5oMY)
+  > Stream/Download: https://fanlink.to/om-ganeshaOm Ganesha is an original adaptation created by Sam Garrett and his beautiful partner Mollie Mendoza. It featur...
+- [Madeon - Pop Culture (live mashup)](https://www.youtube.com/watch?v=lTx3G6h2xyA)
+  > This is a little idea i've been playing around with to implement in my set, hope you like it.GOOD FAITH OUT NOW https://madeon.lnk.to/GoodFaithStore : https:...
+- [Molotov - Gimme The Power (Bruno Borlone & Boogie Mike Remix)](https://www.youtube.com/watch?v=nk-0efsKf7w)
+  > Remix exclusivo para el compilado de aniversario número 10 de Cassette Blog.Descarga acá: http://cassetteblog.com/2020/11/va-cassette-blog-10mo-aniversario/
+- [El Barrio - Pa Madrid (Videoclip Oficial)](https://www.youtube.com/watch?v=ot4jhKgf5MY)
+  > Videoclip Oficial de la Canción "Pa Madrid" perteneciente al Álbum "El Barrio - La voz de mi silencio" Editado en el Año 2007.Suscríbete al Canal de Senador ...
+- [Mr Robot Soundtrack Season 1 & Season 2 Best Songs 1](https://www.youtube.com/watch?v=pFdfhg2IP_0)
+  > Mr Robot Soundtrack Season 1 & Season 2 Best Songs 1Mr Robot Soundtrack Season 1 & Season 2 Best Songs 1
+- [Báilame Que Luego Te Vas](https://www.youtube.com/watch?v=pexSHuSlFwI)
+  > Provided to YouTube by ONErpmBáilame Que Luego Te Vas · RoyalLive · Baskiat · Ibraham rios · César BetancourtBáilame Que Luego Te Vas℗ KYA Entertainment Inc....
+- [Ed Masuga - When I Was Young - Porto Franco Files](https://www.youtube.com/watch?v=qFD0kzDotpI)
+  > www.edmasuga.comwww.portofrancofiles.comPFF #013 We recorded this the same day as episode #5 with Seth Augustus at our art parlor / office in July 2011. I'd ...
+- [Pacas de Billetes By Joi Ballista - Andy G (Video Oficial)](https://www.youtube.com/watch?v=qh5ryp788HA)
+  > JOI BALLISTA DE PUERTO RICO SE UNE A ANDY G PARA CREAR ESTE CORRIDO TUMBAO CON TRAP Y QUE MOTIVE A TODOS AQUELLOS QUE SE LAS BUSCAN A DIARIO TRABAJANDO Y LU...
+- [ESMERALDAS (Full album + Lyrics) - CRUDO MEANS RAW](https://www.youtube.com/watch?v=rYemfCVNqtU&t=2518s)
+  > CRÉDITOS1. LA FEA Artista: Crudo Means RawProductor: Crudo Means RawCompositor: Crudo Means Raw2. LA MITAD DE LA MITAD (Versión álbum) Artista: Crudo Means R...
+- [ESMERALDAS (Full album + Lyrics) - CRUDO MEANS RAW](https://www.youtube.com/watch?v=rYemfCVNqtU&t=460s)
+  > CRÉDITOS1. LA FEA Artista: Crudo Means RawProductor: Crudo Means RawCompositor: Crudo Means Raw2. LA MITAD DE LA MITAD (Versión álbum) Artista: Crudo Means R...
+- [W25 Comms WG: TWell's Presentation, two Mediums, 'Can Ban' permissions, and more](https://www.youtube.com/watch?v=t1-ka8-aZns)
+  > Timecodes:00:00 - Intentions and distractions8:02 - TWell's presentation28:56 - Two Mediums45:23 - 'Can Ban' permissions47:49 - Weekly call announcements bot...
+- [Matisyahu - Back to the Old (Official Music Video)](https://www.youtube.com/watch?v=x0hAm_3sT0c)
+  > Get "Back to the Old" from the new album, Undercurrent, now: iTunes: http://smarturl.it/matisyahu Amazon: http://smarturl.it/matisyahu-amz Directed, Shot, & ...
+- [L-Gante || BZRP Music Sessions #38](https://www.youtube.com/watch?v=z7rI82hyels)
+  > L-Gante || BZRP Music Sessions #38Villarrap #38Lyrics by: https://www.instagram.com/lgante_kelokeBeat by: https://www.instagram.com/bizarrap Mix by: https:...
+- [Aragon](https://xdai.aragon.blossom.software/#/0x7A06c1106908d952974Ca1dC2b66F8Cc7dF75DBb/0xbd4bcdbf1b075f79deaa7a860811c60c73040824/vote/1)
+- [hey hey hey bitconnect (Vitalik Buterin Edition)](https://www.youtube.com/watch?v=-jjHW_dkpy8)
+  > Lyrics:hey hey heywhasa whasa whasa upbitconnect
+- [Bienes Públicos en Ethereum/ ETH Colombia: Camino a Devcon](https://www.youtube.com/watch?v=40V0JgaKbT4)
+  > Charlaremos acerca de iniciativas que tienen a los bienes comunes como principal enfoque; Token Engineering Commons, Giveth y Gitcoin.
+- [Aragon - The fight for freedom](https://www.youtube.com/watch?v=AqjIWmiAidw)
+  > We are building Aragon because we believe decentralized organizations can solve the world’s worst problemsCome chat with us at the Aragon Chat, https://arago...
+- [Sabrina (i am a party)](https://www.youtube.com/watch?v=BkL4oMeSgDA)
+  > Provided to YouTube by Atlantic Records UKSabrina (i am a party) · Fred again..Actual Life (April 14 - December 17 2020)℗ Under exclusive licence to Warner M...
+- [LINICA - To the moon and back](https://www.youtube.com/watch?v=DEgtCDx11kM)
+  > Suscríbete al canal de LINICA AQUÍ: https://n9.cl/3tbmzDE BARRANQUILLA PA'L MUNDO!Music and Video by @albertperesthekrakenBy: Souls United Records (NYC - Bar...
+- [Mer Ka Ba](https://www.youtube.com/watch?v=MOh7hql_ETY)
+  > Provided to YouTube by Uniqueopia GmbHMer Ka Ba · Drunvalo MelchizedekMer Ka Ba℗ 2019 Koha VerlagReleased on: 2019-07-20Composer: Peter WanningerComposer: Ka...
+- [Announcing the GIVeconomy - Griff Green at The DAOist](https://www.youtube.com/watch?v=_fATr5kA4h8)
+- [1Hive TV - Episode #1](https://www.youtube.com/watch?v=_sDUwg-2Iig)
+  > Welcome to the first episode of 1Hive TV!In this video we cover the following:01:04 - 1Hive Update09:09 - DAO News (Uni, Aave, Sushi, Balancer, TEC, Gitcoin)...
+- [Enry-K - Hajime Sorayama ft. Leïti Sène](https://www.youtube.com/watch?v=f-7pETlUu7E)
+  > Directed by: @wgvallier Produced by: @cuija.creations Dop: @puxxooStylist: @koffi.wDirection assistant: @jericacunha Art direction: @be_momo @robber.rodrigu...
+- [1HiveTV Spotlight - Token Engineering Commons](https://www.youtube.com/watch?v=fXwnWCc2hL8)
+  > Our friends from 1HiveTV prepared this overview of our community. Let us know what you think in the comments section!🙏 Thank you for watching! Hit 👍 and su...
+- [- YouTube](https://www.youtube.com/watch?v=oGYo9YdfgMA)
+  > Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+- [2nd Graviton Training Session #6: Decolonization of the mind, led by Durgadas](https://www.youtube.com/watch?v=qqktzC-Wrv0)
+  > 🙏 Thank you for watching! Hit 👍 and subscribe 🚩 to support this work🌱Join the Community🌱on Discord https://discord.gg/uM4ZWDjNfK or say hello on Telegra...
+- [Rewards Systems – Governauts (TE Academy)](https://www.youtube.com/watch?v=s4GSIUpi9WM)
+  > This is a recording of the second Governauts event hosted on Sept 10, 2021 - a panel discussion with the following guests:@thegrifft – @commonsstack @Givethi...
+- [Where Everybody Knows Your Name-Gary Portnay (cheers theme song) [with lyrics]](https://www.youtube.com/watch?v=xYcX534JqG4)
+  > this song always cheers me up
+
+### Tweets
 https://tweetshift.com
 https://twitter.com/0xdaoape
 https://twitter.com/0xdaoape/status/1487122704167755786?s=19
@@ -329,134 +711,7 @@ https://twitter.com/wc49358/status/1530291928465481728?t=exbX80hD2nKAA_z-tWPNAA&
 https://twitter.com/wslyvh
 https://twitter.com/ygg_anderson
 https://twitter.com/ygg_anderson/status/1401344178278207491?s=19
-https://umusices.lnk.to/ClpID
-https://vimeo.com/264579379
-https://vimeo.com/548443347/41765bb857
-https://vimeo.com/646402793
-https://vimeo.com/chuygarcia
-https://vimeo.com/davidf
-https://vimeo.com/user124534874
-https://wiki.aragon.one
-https://www.airtable.com/templates/featured/exp3FNmOkdHZvprXB/content-calendar
-https://www.bankofcanada.ca/2021/11/staff-working-paper-2021-60/?utm_source=alert&utm_medium=email&utm_campaign=SWP211126-3
-https://www.canva.com/design/DAE6mW5UGHY/eK1LjpwPu34CpH864Od16wutm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#5
-https://www.colorhexa.com/defb48
-https://www.dancarlin.com/hardcore-history-56-kings-of-kings
-https://www.digitalax.xyz/homepage
-https://www.dropbox.com/s/55kbeey1bsa95ib/EthbotBegins-01_052021-r2.pdf?dl=0
-https://www.facebook.com/717213979/posts/10159689456443980/?sfnsn=scwspmo
-https://www.facebook.com/cupidoamorciego
-https://www.facebook.com/stromae
-https://www.figma.com/file/9QEfP0AMhaZnmqrIBiok8k/TEC-Dashboard-User-Flow-Ideas?node-id=0%253A1
-https://www.figma.com/file/9QEfP0AMhaZnmqrIBiok8k/TEC-Dashboard-User-Flow-Ideas?node-id=0%3A1
-https://www.figma.com/file/UvizpnbEqPXa7eR7TqIJcJ/Untitled?node-id=0%253A1
-https://www.figma.com/file/UvizpnbEqPXa7eR7TqIJcJ/Untitled?node-id=0%3A1
-https://www.figma.com/file/x3ryTFn3uOtOn4OhUOfT7h/Ideas-for-TEC-Communitas?node-id=226%253A2
-https://www.figma.com/file/x3ryTFn3uOtOn4OhUOfT7h/Ideas-for-TEC-Communitas?node-id=226%3A2
-https://www.hd.square-enix.com/eng/news/2022/html/a_new_years_letter_from_the_president_2.html
-https://www.hubspot.com/products/marketing/social-inbox?hubs_post=blog.hubspot.com/service/social-listening&hubs_post-cta=social%20media%20product
-https://www.hubspot.com/products/marketing/social-inbox?hubs_post=blog.hubspot.com/service/social-listening&hubs_post-cta=social%2520media%2520product
-https://www.imdb.com/title/tt12441478
-https://www.instagram.com
-https://www.instagram.com/alaturi_de_rebeca
-https://www.instagram.com/biza
-https://www.instagram.com/bizarrap
-https://www.instagram.com/cupidoamorciego/?hl=es
-https://www.instagram.com/evlay_
-https://www.instagram.com/gianlyfe
-https://www.instagram.com/javierofracchia
-https://www.instagram.com/lautarofuriolo
-https://www.instagram.com/lgante_keloke
-https://www.instagram.com/stromae
-https://www.madeon.store
-https://www.mindmeister.com/export/image/2145029803?height=600&t=AiP70N5AmZ&variable_size=1&width=1200
-https://www.mindmeister.com/map/2145029803?t=AiP70N5AmZ
-https://www.reddit.com/r/AragonProjec
-https://www.reddit.com/r/Entrepreneur/comments/t5q0a4/please_stop_making_these_website_mistakes
-https://www.tiktok.com/@stromae
-https://www.tiktok.com/@stromae?
-https://www.yapdao.xyz
-https://www.youtube.com/c/RickBeato
-https://www.youtube.com/c/TokenEngineeringCommons
-https://www.youtube.com/channel/UC-o87lCF9HaEuj0R-3VT1yg
-https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A
-https://www.youtube.com/channel/UC6M6oqVg7RMYexGGqczJqug
-https://www.youtube.com/channel/UC8v4hZAIddI_mub3oO1nVNA
-https://www.youtube.com/channel/UCDmCy85Gipcs0xZj9UvsmIQ
-https://www.youtube.com/channel/UCDmzlpzOlaTALYV0hAwT0Tg
-https://www.youtube.com/channel/UCFKo78ysxmRhoQ85ySEo_PQ
-https://www.youtube.com/channel/UCGhZwUhT8W6zNJAw7HQRZ2w
-https://www.youtube.com/channel/UCLhAIHTyY6oeoXuTJ3QR3kg
-https://www.youtube.com/channel/UCODiU_-FWhr4SVOoBlm-qaQ
-https://www.youtube.com/channel/UCSwakiffcU6Bwo3pCgCMROg
-https://www.youtube.com/channel/UCWZ7HHeICc4wohpVa-KOGzg
-https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg
-https://www.youtube.com/channel/UCeXa1gTnJnlCgAPvStwoqcw
-https://www.youtube.com/channel/UCfOfF7MuI8pefG7D9jEtHsQ
-https://www.youtube.com/channel/UCg0yASRY6TmXDryitYvsJOQ
-https://www.youtube.com/channel/UCj48QsYpLlo4pIACNDYmjeg
-https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ
-https://www.youtube.com/channel/UCltrhMHu-QZa-tg0wlMyKew
-https://www.youtube.com/channel/UCmS75G-98QihSusY7NfCZtw
-https://www.youtube.com/channel/UCocAlqGOU7BqzKc87qx6WUg
-https://www.youtube.com/channel/UCp1FuU7220L45Rt25w5Kruw
-https://www.youtube.com/channel/UCpGbX08E3ld2LMEojOiqUrg
-https://www.youtube.com/channel/UCpepIrjKnhoM4TJhJmWtJ-g
-https://www.youtube.com/channel/UCqMDNf3Pn5L7pcNkuSEeO3w
-https://www.youtube.com/channel/UCrOO8Ajhk_8kkEALM3_0JXA
-https://www.youtube.com/channel/UCss3Yps9sSQN18lRZYmUl4w
-https://www.youtube.com/channel/UCtrFD8fjMvo8on8L9S2Qlpw
-https://www.youtube.com/channel/UCu8ilNjDADiKjbbSE1tSJjg
-https://www.youtube.com/channel/UCuCfLG6qXyLfUxPELKwI_5A
-https://www.youtube.com/channel/UCvA7ExlBsBUb5XQEYzJC1ww
-https://www.youtube.com/channel/UCw5qW455t3BAeP7c706Nmbg
-https://www.youtube.com/user/OficialMana/videos?view=0&sort=p&shelf_id=0
-https://www.youtube.com/user/nathypeluso
-https://www.youtube.com/user/senador1983?sub_confirmation=1
-https://www.youtube.com/watch?v=-v8OYDnj2xY
-https://www.youtube.com/watch?v=0OkiUUU3Odw
-https://www.youtube.com/watch?v=AqjIWmiAidw&t=95s
-https://www.youtube.com/watch?v=CJUbo1ckjp8
-https://www.youtube.com/watch?v=HCm6gRHINqA
-https://www.youtube.com/watch?v=HWNfFxQjkJc&list=RDKy2FAgwRkio&index=7
-https://www.youtube.com/watch?v=P3QS83ubhHE&ab_channel=StromaeVEVO
-https://www.youtube.com/watch?v=T-fKpo37ABM
-https://www.youtube.com/watch?v=TtOrGiGVY_8
-https://www.youtube.com/watch?v=WM3l6HAmDis
-https://www.youtube.com/watch?v=YzgaDliouZs
-https://www.youtube.com/watch?v=cQ_cHzU2sM8&t=1101s
-https://www.youtube.com/watch?v=cXACMQtuuZI
-https://www.youtube.com/watch?v=dzgEjZyN9ec
-https://www.youtube.com/watch?v=ef7mmFvV19g
-https://www.youtube.com/watch?v=foFzIYmqb24
-https://www.youtube.com/watch?v=k-bvEyE5oMY
-https://www.youtube.com/watch?v=lTx3G6h2xyA
-https://www.youtube.com/watch?v=nk-0efsKf7w
-https://www.youtube.com/watch?v=ot4jhKgf5MY
-https://www.youtube.com/watch?v=pFdfhg2IP_0
-https://www.youtube.com/watch?v=pexSHuSlFwI
-https://www.youtube.com/watch?v=qFD0kzDotpI
-https://www.youtube.com/watch?v=qh5ryp788HA
-https://www.youtube.com/watch?v=rYemfCVNqtU&t=2518s
-https://www.youtube.com/watch?v=rYemfCVNqtU&t=460s
-https://www.youtube.com/watch?v=t1-ka8-aZns
-https://www.youtube.com/watch?v=x0hAm_3sT0c
-https://www.youtube.com/watch?v=z7rI82hyels
-https://xdai.aragon.blossom.software/#/0x7A06c1106908d952974Ca1dC2b66F8Cc7dF75DBb/0xbd4bcdbf1b075f79deaa7a860811c60c73040824/vote/1
-https://youtu.be/-jjHW_dkpy8
-https://youtu.be/40V0JgaKbT4
-https://youtu.be/AqjIWmiAidw
-https://youtu.be/BkL4oMeSgDA
-https://youtu.be/DEgtCDx11kM
-https://youtu.be/MOh7hql_ETY
-https://youtu.be/_fATr5kA4h8
-https://youtu.be/_sDUwg-2Iig
-https://youtu.be/f-7pETlUu7E
-https://youtu.be/fXwnWCc2hL8
-https://youtu.be/oGYo9YdfgMA
-https://youtu.be/qqktzC-Wrv0
-https://youtu.be/s4GSIUpi9WM
-https://youtu.be/xYcX534JqG4
+
 
 ## Chat
 
@@ -830,13 +1085,13 @@ I see that an idea for a bot recorder popped up: Do we want audio or do we want 
 
 For audio, there's a few options- [https://craig.chat/home/](https://craig.chat/home/) [https://top.gg/bot/338897906524225538](https://top.gg/bot/338897906524225538) [https://github.com/AntonGrushin/JS_DRaSB](https://github.com/AntonGrushin/JS_DRaSB) [https://top.gg/bot/376095684069163008](https://top.gg/bot/376095684069163008) This is a script anyone in the call can run for getting it recorded, by a bot: [https://github.com/chebro/discord-voice-recorder](https://github.com/chebro/discord-voice-recorder) (edited)
 
-pawa | Discord Bots
+pawa - Discord Bots
 
 Simple voice recording for Discord
 
 ![https://images.discordapp.net/avatars/338897906524225538/8c368d327034fbd553523bd75d15d07b.png?size=128](https://images.discordapp.net/avatars/338897906524225538/8c368d327034fbd553523bd75d15d07b.png?size=128)
 
-Audio recorder | Discord Bots
+Audio recorder - Discord Bots
 
 Records audio in your voice channel
 
@@ -1044,7 +1299,7 @@ _06-Apr-21 12:42 PM_:
 
 ZenHub
 
-Project Management and Software Development with GitHub | ZenHub
+Project Management and Software Development with GitHub - ZenHub
 
 ^^^ Hatch Dashboard (edited)
 
@@ -1052,7 +1307,7 @@ Project Management and Software Development with GitHub | ZenHub
 
 ZenHub
 
-Project Management and Software Development with GitHub | ZenHub
+Project Management and Software Development with GitHub - ZenHub
 
 Create meme and trigger condition for "IH rate is too low" · Issue ...
 
@@ -1906,7 +2161,7 @@ Hi team, I opened an issue for the MVV Runoff tweet
 
 ZenHub
 
-Project Management and Software Development with GitHub | ZenHub
+Project Management and Software Development with GitHub - ZenHub
 
 <h3>natesuits <img src="https://cdn.discordapp.com/avatars/417979381332443136/d145fdbe6fea9d40b4a5e729859a2a2f.png" width=25 height=25></h3>
 
@@ -2734,7 +2989,7 @@ Hi team, I opened an issue for the vote dates announcement - requesting help wit
 
 ZenHub
 
-Project Management and Software Development with GitHub | ZenHub
+Project Management and Software Development with GitHub - ZenHub
 
 <img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
 
@@ -3190,7 +3445,7 @@ _25-May-21 12:06 PM_:
 
 Lous and The Yakuza: Tiny Desk (Home) Concert
 
-The Tiny Desk is working from home for the foreseeable future. Introducing NPR Music's Tiny Desk (home) concerts, bringing you performances from across the country and the world. It's the same spirit — stripped-down sets, an intimate setting — just a different space. Bob Boilen | January 27, 2021 There's an elegant vibe as Lous and The Yakuza p...
+The Tiny Desk is working from home for the foreseeable future. Introducing NPR Music's Tiny Desk (home) concerts, bringing you performances from across the country and the world. It's the same spirit — stripped-down sets, an intimate setting — just a different space. Bob Boilen - January 27, 2021 There's an elegant vibe as Lous and The Yakuza p...
 
 ![https://i.ytimg.com/vi/dzgEjZyN9ec/maxresdefault.jpg](https://i.ytimg.com/vi/dzgEjZyN9ec/maxresdefault.jpg)
 
@@ -3211,7 +3466,7 @@ Attention all: That "weird bump feature on the Forum" should not be troubling us
 
 ZenHub
 
-Project Management and Software Development with GitHub | ZenHub
+Project Management and Software Development with GitHub - ZenHub
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -3231,7 +3486,7 @@ Opened an issue for the Style Guide... maybe we have a contributor that could pi
 
 ZenHub
 
-Project Management and Software Development with GitHub | ZenHub
+Project Management and Software Development with GitHub - ZenHub
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -3766,7 +4021,7 @@ TEC Branding assets. Logo, Mockups, Avatars, Banners, Graphics and other. - Comm
 
 _08-Jun-21 12:26 PM_:
 
-[https://youtu.be/oGYo9YdfgMA](https://youtu.be/oGYo9YdfgMA)
+[https://www.youtube.com/watch?v=oGYo9YdfgMA](https://www.youtube.com/watch?v=oGYo9YdfgMA)
 
 [Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
 
@@ -3879,7 +4134,7 @@ _08-Jun-21 12:41 PM_:
 
 Managing Steward? hahaha I hear you, Stewards Steward is also good
 
-<h3>Lucas | DefiSafety <img src="https://cdn.discordapp.com/avatars/142474743029694464/8d4ece6d0686d436467690fe3e3736a4.png" width=25 height=25></h3>
+<h3>Lucas - DefiSafety <img src="https://cdn.discordapp.com/avatars/142474743029694464/8d4ece6d0686d436467690fe3e3736a4.png" width=25 height=25></h3>
 
 _08-Jun-21 12:41 PM_:
 
@@ -3895,7 +4150,7 @@ Managing Labs? Managing Gravity?
 
 chuygarcia.eth
 
-[https://youtu.be/oGYo9YdfgMA](https://youtu.be/oGYo9YdfgMA)
+[https://www.youtube.com/watch?v=oGYo9YdfgMA](https://www.youtube.com/watch?v=oGYo9YdfgMA)
 
 <h3>markop <img src="https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png" width=25 height=25></h3>
 
@@ -3976,7 +4231,7 @@ Since we moved on from the topic, here's something I was thinking about wrt to t
 
 1
 
-<h3>Lucas | DefiSafety <img src="https://cdn.discordapp.com/avatars/142474743029694464/8d4ece6d0686d436467690fe3e3736a4.png" width=25 height=25></h3>
+<h3>Lucas - DefiSafety <img src="https://cdn.discordapp.com/avatars/142474743029694464/8d4ece6d0686d436467690fe3e3736a4.png" width=25 height=25></h3>
 
 _08-Jun-21 01:00 PM_:
 
@@ -3992,7 +4247,7 @@ Hey, whos running the twitter stuff? would love to join the WG on that
 
 ![https://cdn.discordapp.com/avatars/142474743029694464/8d4ece6d0686d436467690fe3e3736a4.png](https://cdn.discordapp.com/avatars/142474743029694464/8d4ece6d0686d436467690fe3e3736a4.png)
 
-Lucas | DefiSafety
+Lucas - DefiSafety
 
 [Hey, whos running the twitter stuff? would love to join the WG on that](about:blank#)
 
@@ -4005,7 +4260,7 @@ its from Comms and we do have a twitter hack sesh on Mondays
 
 ![https://cdn.discordapp.com/avatars/142474743029694464/8d4ece6d0686d436467690fe3e3736a4.png](https://cdn.discordapp.com/avatars/142474743029694464/8d4ece6d0686d436467690fe3e3736a4.png)
 
-Lucas | DefiSafety
+Lucas - DefiSafety
 
 [Hey, whos running the twitter stuff? would love to join the WG on that](about:blank#)
 
@@ -4015,7 +4270,7 @@ _08-Jun-21 01:01 PM_:
 
 @escanor.eth is jumping on the strategy we're following
 
-<h3>Lucas | DefiSafety <img src="https://cdn.discordapp.com/avatars/142474743029694464/8d4ece6d0686d436467690fe3e3736a4.png" width=25 height=25></h3>
+<h3>Lucas - DefiSafety <img src="https://cdn.discordapp.com/avatars/142474743029694464/8d4ece6d0686d436467690fe3e3736a4.png" width=25 height=25></h3>
 
 _08-Jun-21 01:01 PM_:
 
@@ -4327,7 +4582,7 @@ Twitter • 17-Jun-21 02:28 PM
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f4b0.png" width=50 height=50>
 
-Token Engineering Commons | Grants
+Token Engineering Commons - Grants
 
 The Token Engineering Commons (TEC) is an open source and collectively governed project that aims to create a token economy to accelerate the Token Engineering field through responsible & ethical creation of public goods for the TE community.This grant will support the ongoing TEC deployment efforts.
 
@@ -4706,7 +4961,7 @@ also fun, dancy compilations of medicine songs by Mose! another good one for foc
 
 [https://www.youtube.com/watch?v=k-bvEyE5oMY](https://www.youtube.com/watch?v=k-bvEyE5oMY)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _06-Jul-21 03:40 PM_:
 
@@ -4724,7 +4979,7 @@ The reason for the invite is because TEC is on the verge of starting the hatch, 
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [please see invitation on the Gitcoin forum](about:blank#)
 
@@ -4736,7 +4991,7 @@ _06-Jul-21 05:56 PM_:
 
 What rockstar did that graphic?
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _06-Jul-21 06:38 PM_:
 
@@ -4744,7 +4999,7 @@ yeah it sure is purdy
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [yeah it sure is purdy](about:blank#)
 
@@ -4814,7 +5069,7 @@ Tam2140
 
 [To who do I praise for that!?  (edited)](about:blank#)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _09-Jul-21 11:01 AM_:
 
@@ -4923,7 +5178,7 @@ chuygarcia.eth
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f614.png" width=50 height=50>
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _27-Jul-21 12:15 PM_:
 
@@ -4960,7 +5215,7 @@ How did you manage to get this recording nevertheless?
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://youtu.be/_fATr5kA4h8](https://youtu.be/_fATr5kA4h8)
+[https://www.youtube.com/watch?v=_fATr5kA4h8](https://www.youtube.com/watch?v=_fATr5kA4h8)
 
 It doesn't seem to be available on Twitch, did someone record the livestream locally?
 
@@ -4978,7 +5233,7 @@ theobtl
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://youtu.be/_fATr5kA4h8](https://youtu.be/_fATr5kA4h8)
+[https://www.youtube.com/watch?v=_fATr5kA4h8](https://www.youtube.com/watch?v=_fATr5kA4h8)
 
 It doesn't seem to be available on Twitch, did someone record the livestream locally?
 
@@ -5268,7 +5523,7 @@ Sheet1 Week 1 (Aug 15-21),Week 2 (Aug 22-28),Week 3 (Aug 29-Sep 4),Week 4 (Sept 
 
 [https://lh3.googleusercontent.com/CHPSVpL8cnpMUA7KMXJGxg3C2ZHVI2CZxeXAAkpC2PoTH0KC9RCjlOvm5olFvW48CpWgpeoOSIx_Ig=w1200-h630-p](https://lh3.googleusercontent.com/CHPSVpL8cnpMUA7KMXJGxg3C2ZHVI2CZxeXAAkpC2PoTH0KC9RCjlOvm5olFvW48CpWgpeoOSIx_Ig=w1200-h630-p)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _19-Aug-21 02:26 PM_:
 
@@ -5314,7 +5569,7 @@ _23-Aug-21 11:21 AM_:
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [Note if you claim just one planet you automatically get entered in the next round](about:blank#) 
 
@@ -5327,7 +5582,7 @@ I didn't manage to get a planet!
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f622.png" width=50 height=50>
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _23-Aug-21 12:00 PM_:
 
@@ -5341,7 +5596,7 @@ Tam2140
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f622.png" width=50 height=50>
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _23-Aug-21 12:01 PM_:
 
@@ -5447,7 +5702,7 @@ _25-Aug-21 12:40 PM_:
 
 [https://app.hubspot.com/academy/9327973/tracks](https://app.hubspot.com/academy/9327973/tracks)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _30-Aug-21 12:47 PM_:
 
@@ -5471,7 +5726,7 @@ _30-Aug-21 01:05 PM_:
 
 Damn!! I love them!
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _30-Aug-21 01:09 PM_:
 
@@ -5494,7 +5749,7 @@ hey @Stewards! in tomorrow's comms wg i'll be presenting an idea for the TE Comm
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [*Click to see original message*](about:blank#)
 
@@ -5544,7 +5799,7 @@ Tuesday, 6pm CET
 
 ![https://raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_comms.png](https://raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_comms.png)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _05-Sep-21 04:55 PM_:
 
@@ -5566,7 +5821,7 @@ For further comparison, DXdao’s compensation stack: [https://dxdao.eth.link/#/
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [I'd like to share some pay-structure related material from 1hive. Please check out this forum thread. There is an excerpt from DXDao which might be usefull for the Comms DAO development.](about:blank#)
 
@@ -5581,7 +5836,7 @@ _05-Sep-21 11:59 PM_:
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [I'd like to share some pay-structure related material from 1hive. Please check out this forum thread. There is an excerpt from DXDao which might be usefull for the Comms DAO development.](about:blank#)
 
@@ -5593,7 +5848,7 @@ _06-Sep-21 07:34 AM_:
 
 the experience guidelines sounds like something interesting to experiment with
 
-thanks for sharing @David D. | TEC !
+thanks for sharing @David D. - TEC !
 
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
@@ -5607,7 +5862,7 @@ Hey @blazingthirdeye I agree! 1. That’s an immense amount of pressure. and 2. 
 
 ![https://forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png](https://forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _06-Sep-21 12:50 PM_:
 
@@ -5661,9 +5916,9 @@ My song of the week! [https://www.youtube.com/watch?v=0OkiUUU3Odw](https://www.y
 
 [Bizarrap](https://www.youtube.com/channel/UCmS75G-98QihSusY7NfCZtw)
 
-NATHY PELUSO || BZRP Music Sessions #36
+NATHY PELUSO -- BZRP Music Sessions #36
 
-NATHY PELUSO || BZRP Music Sessions #36 Lyrics by: [https://www.youtube.com/user/nathypeluso](https://www.youtube.com/user/nathypeluso) Beat by: [https://www.instagram.com/bizarrap](https://www.instagram.com/bizarrap) Mix by: [https://www.instagram.com/evlay_](https://www.instagram.com/evlay_) Mastering by: [https://www.instagram.com/javierofracchia](https://www.instagram.com/javierofracchia) Shot by: [https://www.instagram.com/lautarofuriolo](https://www.instagram.com/lautarofuriolo) Edited and produced by: [https://www.instagram.com/biza](https://www.instagram.com/biza)...
+NATHY PELUSO -- BZRP Music Sessions #36 Lyrics by: [https://www.youtube.com/user/nathypeluso](https://www.youtube.com/user/nathypeluso) Beat by: [https://www.instagram.com/bizarrap](https://www.instagram.com/bizarrap) Mix by: [https://www.instagram.com/evlay_](https://www.instagram.com/evlay_) Mastering by: [https://www.instagram.com/javierofracchia](https://www.instagram.com/javierofracchia) Shot by: [https://www.instagram.com/lautarofuriolo](https://www.instagram.com/lautarofuriolo) Edited and produced by: [https://www.instagram.com/biza](https://www.instagram.com/biza)...
 
 ![https://i.ytimg.com/vi/0OkiUUU3Odw/maxresdefault.jpg](https://i.ytimg.com/vi/0OkiUUU3Odw/maxresdefault.jpg)
 
@@ -5675,7 +5930,7 @@ NATHY PELUSO || BZRP Music Sessions #36 Lyrics by: [https://www.youtube.com/user
 
 _07-Sep-21 12:34 PM_:
 
-For a month this whole album has been on repeat. 1 because it's good 2 because of echolalia [https://youtu.be/BkL4oMeSgDA](https://youtu.be/BkL4oMeSgDA)
+For a month this whole album has been on repeat. 1 because it's good 2 because of echolalia [https://www.youtube.com/watch?v=BkL4oMeSgDA](https://www.youtube.com/watch?v=BkL4oMeSgDA)
 
 [Fred Again - Topic](https://www.youtube.com/channel/UCvA7ExlBsBUb5XQEYzJC1ww)
 
@@ -5689,13 +5944,13 @@ Provided to YouTube by Atlantic Records UK Sabrina (I Am A Party) · Fred again.
 
 2
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _07-Sep-21 12:40 PM_:
 
 I believe starting rate was 4000$ plus perf.pay
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _08-Sep-21 05:38 PM_:
 
@@ -5773,7 +6028,7 @@ Tuesday, 6pm CET
 
 _14-Sep-21 12:03 PM_:
 
-[https://youtu.be/DEgtCDx11kM](https://youtu.be/DEgtCDx11kM) LINICA To the moon and back
+[https://www.youtube.com/watch?v=DEgtCDx11kM](https://www.youtube.com/watch?v=DEgtCDx11kM) LINICA To the moon and back
 
 [Linica](https://www.youtube.com/channel/UCLhAIHTyY6oeoXuTJ3QR3kg)
 
@@ -5823,7 +6078,7 @@ Earn crypto through discovering and using the latest crypto applications
 
 _14-Sep-21 12:47 PM_:
 
-[https://youtu.be/_sDUwg-2Iig](https://youtu.be/_sDUwg-2Iig)
+[https://www.youtube.com/watch?v=_sDUwg-2Iig](https://www.youtube.com/watch?v=_sDUwg-2Iig)
 
 [1Hive](https://www.youtube.com/channel/UCg0yASRY6TmXDryitYvsJOQ)
 
@@ -5847,7 +6102,7 @@ _20-Sep-21 08:09 AM_:
 
 Just came across a content calendar template on Airtable I thought worth sharing. [https://www.airtable.com/templates/featured/exp3FNmOkdHZvprXB/content-calendar](https://www.airtable.com/templates/featured/exp3FNmOkdHZvprXB/content-calendar)
 
-Content Calendar Template - Free to Use | Airtable
+Content Calendar Template - Free to Use - Airtable
 
 Content calendars (often known as editorial calendars) are essential for production teams of all sizes and disciplines. The best content calendars don’t just...
 
@@ -5879,7 +6134,7 @@ chuygarcia.eth
 
 [https://twitter.com/gideonro/status/1439374079987838976](https://twitter.com/gideonro/status/1439374079987838976)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _20-Sep-21 02:41 PM_:
 
@@ -5899,7 +6154,7 @@ Gideonro responded almost instantly
 
 he is one of our most consistent twitter audience/participant
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _20-Sep-21 10:45 PM_:
 
@@ -6006,7 +6261,7 @@ _21-Sep-21 12:10 PM_:
 
 @griff (💜, 💜) Bill Withers! I need that playlist.
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _21-Sep-21 12:30 PM_:
 
@@ -6056,7 +6311,7 @@ Absolutely. Some eps are better than others but if you jump around and find topi
 
 [Chris Groner](https://agilethought.com/author/chrisg/)
 
-Insights | AgileThought
+Insights - AgileThought
 
 Insights Featured Content Blogs · Brave New World: How to Manage Distributed Teams Amid COVID-19 Uncertainties Read More → Blogs · Alter the System, Alter the Outcome: The Danger of Changing Scrum Read More → Blogs · How to Get QA Involved Early in the Software Development Process Read More → Blogs · ACH Solution […]
 
@@ -6106,7 +6361,7 @@ _22-Sep-21 12:24 PM_:
 
 welcome!
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _22-Sep-21 02:53 PM_:
 
@@ -6139,7 +6394,7 @@ Using Hashtags can spread your messages far beyond your echo chamber. This hasht
 
 2
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _22-Sep-21 05:44 PM_:
 Excellent!!! Thanks Aloysious
@@ -6150,7 +6405,7 @@ I will use that frequently!
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [Excellent!!! Thanks Aloysious](about:blank#) 
 
@@ -6162,7 +6417,7 @@ _22-Sep-21 06:58 PM_:
 
 I'm trying to get creative, I personally don't have a large following like some of my counterparts for communications but I am learning to leverage my resources lol
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _22-Sep-21 07:06 PM_:
 
@@ -6172,7 +6427,7 @@ What a great idea
 
 I will try to help out with that project. It looks like Adam S. laid out the first steps (edited)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _23-Sep-21 06:12 PM_:
 
@@ -6186,7 +6441,7 @@ We should get lots of engagement with funny comments too, that also finish the s
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [I had an idea for a fun tweet series we could do sometime. It is meant to be light-hearted and comical Or even just a couple tweets or something. It starts with this: "You might be a token engineer if..." and we come up with a bunch of funny endings. For example "...if you care more about the way money works than earning it." woka woka woka!](about:blank#)
 
@@ -6196,7 +6451,7 @@ _24-Sep-21 09:55 PM_:
 
 OHHHHHH YES!!!!! I like the idea of "You might be a Token Engineer if..." (would that be neat on a graphic?-sneak in some branding lol) then finish the sentence... Im laughing already at the responses that could arise.
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _25-Sep-21 02:31 AM_:
 
@@ -6220,7 +6475,7 @@ natesuits
 
 [https://docs.google.com/document/d/1mOMZI0D3MHZcT6TJpnThHdbKx0HT7_9itj3GBxk_l_Yusp=sharing](https://docs.google.com/document/d/1mOMZI0D3MHZcT6TJpnThHdbKx0HT7_9itj3GBxk_l_Y
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _27-Sep-21 12:02 PM_:
 
@@ -6234,13 +6489,13 @@ _27-Sep-21 12:03 PM_:
 
 I'll be on in one moment. Running late for the Tweet Sync
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _27-Sep-21 12:04 PM_:
 
 nobody here yet but me so no rush
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _27-Sep-21 01:29 PM_:
 
@@ -6256,7 +6511,7 @@ Thanks for owning this area of Comms! If you need anything or feel overwhelmed, 
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [Last day to vote tweet scheduled for about 15 minutes from now. You can take a look at the "scheduled" column in tweetdeck to see the final draft w/graphic. in 2 mins  (edited)](about:blank#)
 
@@ -6278,7 +6533,7 @@ liviade
 
 [Hey guys, I felt a little offended by the competitive meme on Twitter. I don’t feel comfortable to build reputation on being the “best” as we are in a non rivalrous ecosystem and public goods is all about helping each other out](about:blank#)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _27-Sep-21 07:21 PM_:
 
@@ -6302,7 +6557,7 @@ liviade
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50>
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _27-Sep-21 07:27 PM_:
 
@@ -6376,7 +6631,7 @@ Tim Maia · Album · 2012 · 15 songs.
 
 _28-Sep-21 12:06 PM_:
 
-[https://youtu.be/f-7pETlUu7E](https://youtu.be/f-7pETlUu7E)
+[https://www.youtube.com/watch?v=f-7pETlUu7E](https://www.youtube.com/watch?v=f-7pETlUu7E)
 
 ❤️‍
 
@@ -6416,7 +6671,7 @@ liviade
 
 [Ops! So sorry I didn’t clarify which post was it. This one](about:blank#)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _28-Sep-21 01:39 PM_:
 I am so glad we sorted out the communication about this.
@@ -6431,7 +6686,7 @@ Livi I have a question for you, would it have been acceptable if instead of "Oth
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [I am so glad we sorted out the communication about this.  Livi I have a question for you, would it have been acceptable if instead of "Other Projects" I labelled a different thing? Like, web2, Evil Corporations, or even Moloch? Or is it the idea about competition which is undesirable. I want to understand your thoughts and feelings about this so I can accommodate with our Twitter. Please don't interpret this as arguing against your suggestion   (edited)](about:blank#)
 
@@ -6528,7 +6783,7 @@ foreverkatie
 
 [Hey guys, I'm new to this community. I lead marketing and strategy at LTF and was encouraged by @ygg_anderson to hop into the comms call on Tuesday. I really enjoyed the call and also appreciated @liviade's feedback. It made me think. I can see how "us vs. them" humour can come across as antagonistic, but there are other ways to introduce fun memes and humour into comms. For example, you could choose a theme of "we appreciate every single voter" and use a meme/image that plays on that appreciation theme. This would be a more "benign" way of getting the message across and still keeping it fun and light.](about:blank#)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _04-Oct-21 10:54 AM_:
 Welcome to to T.E.C. Comms Katie
@@ -6579,7 +6834,7 @@ Twitter • 30-Sep-21 12:20 PM
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [Welcome to to T.E.C. Comms Katie  (LTF = LiteFox?)  (edited)](about:blank#)
 
@@ -6698,9 +6953,9 @@ _05-Oct-21 12:08 PM_:
 
 [Bizarrap](https://www.youtube.com/channel/UCmS75G-98QihSusY7NfCZtw)
 
-L-Gante || BZRP Music Sessions #38
+L-Gante -- BZRP Music Sessions #38
 
-L-Gante || BZRP Music Sessions #38 Villarrap #38 Lyrics by: [https://www.instagram.com/lgante_keloke](https://www.instagram.com/lgante_keloke) Beat by: [https://www.instagram.com/bizarrap](https://www.instagram.com/bizarrap) Mix by: [https://www.instagram.com/evlay_](https://www.instagram.com/evlay_) Mastering by: [https://www.instagram.com/javierofracchia](https://www.instagram.com/javierofracchia) Shot by: [https://www.instagram.com/gianlyfe](https://www.instagram.com/gianlyfe) Edited and produced by: [https://www.instagram.com](https://www.instagram.com/)...
+L-Gante -- BZRP Music Sessions #38 Villarrap #38 Lyrics by: [https://www.instagram.com/lgante_keloke](https://www.instagram.com/lgante_keloke) Beat by: [https://www.instagram.com/bizarrap](https://www.instagram.com/bizarrap) Mix by: [https://www.instagram.com/evlay_](https://www.instagram.com/evlay_) Mastering by: [https://www.instagram.com/javierofracchia](https://www.instagram.com/javierofracchia) Shot by: [https://www.instagram.com/gianlyfe](https://www.instagram.com/gianlyfe) Edited and produced by: [https://www.instagram.com](https://www.instagram.com/)...
 
 ![https://i.ytimg.com/vi/z7rI82hyels/maxresdefault.jpg](https://i.ytimg.com/vi/z7rI82hyels/maxresdefault.jpg)
 
@@ -6733,11 +6988,11 @@ Provided to YouTube by ONErpm Báilame Que Luego Te Vas · RoyalLive · Baskiat 
 
 ![https://i.ytimg.com/vi/pexSHuSlFwI/maxresdefault.jpg](https://i.ytimg.com/vi/pexSHuSlFwI/maxresdefault.jpg)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _05-Oct-21 12:12 PM_:
 
-[https://youtu.be/s4GSIUpi9WM](https://youtu.be/s4GSIUpi9WM)
+[https://www.youtube.com/watch?v=s4GSIUpi9WM](https://www.youtube.com/watch?v=s4GSIUpi9WM)
 
 [Token Engineering](https://www.youtube.com/channel/UCDmzlpzOlaTALYV0hAwT0Tg)
 
@@ -6747,7 +7002,7 @@ This is a recording of the second Governauts event hosted on Sept 10, 2021 - a p
 
 ![https://i.ytimg.com/vi/s4GSIUpi9WM/maxresdefault.jpg](https://i.ytimg.com/vi/s4GSIUpi9WM/maxresdefault.jpg)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _05-Oct-21 12:52 PM_:
 
@@ -6764,7 +7019,7 @@ _05-Oct-21 12:54 PM_:
 
 1
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _05-Oct-21 12:55 PM_:
 
@@ -6791,7 +7046,7 @@ Token Engineering Amplify Messengers
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _06-Oct-21 12:33 PM_:
 
@@ -6863,7 +7118,7 @@ Tuesday, 6pm CET
 
 _12-Oct-21 12:01 PM_:
 
-[https://youtu.be/-jjHW_dkpy8](https://youtu.be/-jjHW_dkpy8)
+[https://www.youtube.com/watch?v=-jjHW_dkpy8](https://www.youtube.com/watch?v=-jjHW_dkpy8)
 
 [Based Department](https://www.youtube.com/channel/UCuCfLG6qXyLfUxPELKwI_5A)
 
@@ -6998,7 +7253,7 @@ Great meditation [https://www.youtube.com/watch?v=ef7mmFvV19g](https://www.youtu
 
 MerKaBa Meditation According to Drunvalo Melchizedek
 
-MerKaBa comes from a Hebrew word meaning chariot, or vehicle, and can also be defined as the light spirit body. Mer~Light Ka~Spirit Ba~Body “Mer Ka Ba” Dear One, Now that you understand how to perform the Merkaba Meditation, you can listen to Drunvalo Melchizedek guide you in a 13 minute meditation. [https://youtu.be/MOh7hql_ETY](https://youtu.be/MOh7hql_ETY) SOURCE: https...
+MerKaBa comes from a Hebrew word meaning chariot, or vehicle, and can also be defined as the light spirit body. Mer~Light Ka~Spirit Ba~Body “Mer Ka Ba” Dear One, Now that you understand how to perform the Merkaba Meditation, you can listen to Drunvalo Melchizedek guide you in a 13 minute meditation. [https://www.youtube.com/watch?v=MOh7hql_ETY](https://www.youtube.com/watch?v=MOh7hql_ETY) SOURCE: https...
 
 ![https://i.ytimg.com/vi/ef7mmFvV19g/maxresdefault.jpg](https://i.ytimg.com/vi/ef7mmFvV19g/maxresdefault.jpg)
 
@@ -7106,11 +7361,11 @@ _19-Oct-21 01:15 PM_:
 
 found this on Muzli today [https://s.muz.li/MjA1ZWRmOWJh](https://s.muz.li/MjA1ZWRmOWJh) How they offer their services (through the purchase of NFTs) is pretty much how I was proposing it be done through my dashboard idea. Except, all of it will be done within the dashboard vs on opensea, and clients can purchase services directly with their TEC tokens. Another difference is that instead of just a simple mailto: for contacting the agency, the dashboard will have an onboarding questionnaire so that comms can immediately know how to help the client. (edited)
 
-Rumfoords | Metaverse Agency
+Rumfoords - Metaverse Agency
 
 ![https://feed.muzlicdn.xyz/muzli_feed/wp-content/uploads/2021/10/19114823/b6f5176f-d22c-49ca-94ec-0c59da209f27_NFT_Creative_Final.mp4.jpg](https://feed.muzlicdn.xyz/muzli_feed/wp-content/uploads/2021/10/19114823/b6f5176f-d22c-49ca-94ec-0c59da209f27_NFT_Creative_Final.mp4.jpg)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _19-Oct-21 02:47 PM_:
 
@@ -7132,7 +7387,7 @@ How to DAO Sep–Oct 2021 A four-week, better-than-free course on the future of 
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [Hey Comms I came across an incredible document about "How to Dao" with very detailed info. It is 88 pages long.](about:blank#)
 
@@ -7144,7 +7399,7 @@ _20-Oct-21 11:09 AM_:
 
 Just saw this today too! It's going to take me a while to go through it. It's very dense!
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _20-Oct-21 04:28 PM_:
 
@@ -7152,7 +7407,7 @@ yeah...this is like bedside table material...
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [yeah...this is like bedside table material...](about:blank#)
 
@@ -7236,7 +7491,7 @@ Every week on Tuesday UTC
 
 ![https://cdn.discordapp.com/attachments/810180622017757185/902538798821421066/TEC_Comms_WG_banner.png](https://cdn.discordapp.com/attachments/810180622017757185/902538798821421066/TEC_Comms_WG_banner.png)
 
-📝 Edit | Created by Tam2140
+📝 Edit - Created by Tam2140
 
 <img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
@@ -7392,7 +7647,7 @@ Attendees (0)
 
 ![https://cdn.discordapp.com/attachments/810180622017757185/902538798821421066/TEC_Comms_WG_banner.png](https://cdn.discordapp.com/attachments/810180622017757185/902538798821421066/TEC_Comms_WG_banner.png)
 
-✅ RSVP | 📝 Edit | Created by Tam2140
+✅ RSVP - 📝 Edit - Created by Tam2140
 
 <img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
@@ -7533,7 +7788,7 @@ This is going to sound like some kind of a riddle but here it goes: I have a con
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _26-Oct-21 04:03 PM_:
-@anson parker | utc -4 -> TEC Youtube as mentioned in call
+@anson parker - utc -4 -> TEC Youtube as mentioned in call
 
 [https://www.youtube.com/c/TokenEngineeringCommons](https://www.youtube.com/c/TokenEngineeringCommons)
 
@@ -7675,7 +7930,7 @@ gene
 
 [Anyone from Comms, just to bring to your attention, the Optimism RetroPGF vote is ongoing until Nov 1st ie through the weekend, and we actually have a vote! I believe this is an excellent opportunity to possibly receive some funding, but more importantly, bring attention to the TEC, while underlining and legitimizing all the efforts that have been made here to date.](about:blank#)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _29-Oct-21 11:39 AM_:
 
@@ -7784,7 +8039,7 @@ _30-Oct-21 11:44 AM_:
 
 Hello Gene, I can help you with the drafts
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _30-Oct-21 10:06 PM_:
 
@@ -7914,7 +8169,7 @@ Zenhub issue which goes into more detail: [https://app.zenhub.com/workspaces/tec
 
 ZenHub
 
-Project Management and Software Development with GitHub | ZenHub
+Project Management and Software Development with GitHub - ZenHub
 
 Ideas for TEC Communitas
 
@@ -7932,7 +8187,7 @@ Created with FigJam
 
 1
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _02-Nov-21 01:44 PM_:
 
@@ -7966,7 +8221,7 @@ Attendees (0)
 
 ![https://cdn.discordapp.com/attachments/810180622017757185/902538798821421066/TEC_Comms_WG_banner.png](https://cdn.discordapp.com/attachments/810180622017757185/902538798821421066/TEC_Comms_WG_banner.png)
 
-✅ RSVP | 📝 Edit | Created by Tam2140
+✅ RSVP - 📝 Edit - Created by Tam2140
 
 <img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
@@ -8163,7 +8418,7 @@ Thanks for publishing this on our TEC Medium page. It makes a great addition!
 
 1
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _12-Nov-21 12:27 PM_:
 
@@ -8179,7 +8434,7 @@ rewards meme thread
 
 Open to constructive feedback.
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _12-Nov-21 12:59 PM_:
 
@@ -8277,7 +8532,7 @@ _17-Nov-21 01:07 PM_:
 
 Hubspot
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _18-Nov-21 01:51 PM_:
 
@@ -8287,7 +8542,7 @@ Would like to learn about it.
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [Chuy can I join the Hubspot group please?](about:blank#)
 
@@ -8436,7 +8691,7 @@ Here is the issue for the language translations [https://app.zenhub.com/workspac
 
 ZenHub
 
-Project Management and Software Development with GitHub | ZenHub
+Project Management and Software Development with GitHub - ZenHub
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -8488,7 +8743,7 @@ yeahh!!! joint shilling!!
 
 _25-Nov-21 05:24 PM_:
 
-For the Spanish talkers. [https://youtu.be/40V0JgaKbT4](https://youtu.be/40V0JgaKbT4) in one hour. @mitch (🍔, 🍔) @Juankbell and myself will be talking about public goods, tec and Giveth. Join us! (edited)
+For the Spanish talkers. [https://www.youtube.com/watch?v=40V0JgaKbT4](https://www.youtube.com/watch?v=40V0JgaKbT4) in one hour. @mitch (🍔, 🍔) @Juankbell and myself will be talking about public goods, tec and Giveth. Join us! (edited)
 
 [Ethereum Colombia](https://www.youtube.com/channel/UCWZ7HHeICc4wohpVa-KOGzg)
 
@@ -8508,7 +8763,7 @@ mateodaza
 
 [For the Spanish talkers.](about:blank#)
 
-[https://youtu.be/40V0JgaKbT4](https://youtu.be/40V0JgaKbT4)
+[https://www.youtube.com/watch?v=40V0JgaKbT4](https://www.youtube.com/watch?v=40V0JgaKbT4)
 
 in one hour. @mitch (🍔, 🍔) @Juankbell and myself will be talking about public goods, tec and Giveth. Join us!  (edited)
 
@@ -8553,7 +8808,7 @@ _26-Nov-21 11:17 AM_:
 
 [thread]: I also think it might be a nice visual way to describe the TEC. We're doing complex things here, so our visual representations should reflect this also.
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _26-Nov-21 06:28 PM_:
 
@@ -8704,9 +8959,9 @@ _29-Nov-21 12:19 PM_:
 
 @chuygarcia.eth @ZER8🧠 @Mount Manu [https://gitcoin.co/grants/1155/token-engineering-commons](https://gitcoin.co/grants/1155/token-engineering-commons) Our Grant... i can add anyone who wants to manage it this round to the Grant and then they can edit it
 
-Token Engineering Commons | Grants
+Token Engineering Commons - Grants
 
-UPDATE 2021.09.07 Token Engineering Commons (TEC) || Stewarding the cultivation of resources to accelerate the creation of robustly engineered models, modular tools, standards, and educational opportunities. This grant will support the ongoing TEC DAO to Commons upgrade efforts. GR11 ✨ We are so excited to announce the Hatch was successful! O...
+UPDATE 2021.09.07 Token Engineering Commons (TEC) -- Stewarding the cultivation of resources to accelerate the creation of robustly engineered models, modular tools, standards, and educational opportunities. This grant will support the ongoing TEC DAO to Commons upgrade efforts. GR11 ✨ We are so excited to announce the Hatch was successful! O...
 
 ![https://c.gitcoin.co/grants/d88f6daa2efae837b27f4f44e8ac888d/tec_gr9_banner_centerText.png](https://c.gitcoin.co/grants/d88f6daa2efae837b27f4f44e8ac888d/tec_gr9_banner_centerText.png)
 
@@ -8752,7 +9007,7 @@ _29-Nov-21 01:05 PM_:
 
 ❤️
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _29-Nov-21 07:21 PM_:
 
@@ -8882,7 +9137,7 @@ paul2
 
 [https://docs.google.com/document/d/1q9LKFWqGdlMJU45sXJRZGCzepgsYnrwWGkq5g61oALUdocs.google.com/document/d/1q9LKFWqGdlMJU45sXJRZGCzepgsYnrwWGkq5g61oALU
 
-<h3>satchel | PST <img src="https://cdn.discordapp.com/avatars/876908960563724288/a447a7b7ca6efdf93abd451512d95202.png" width=25 height=25></h3>
+<h3>satchel - PST <img src="https://cdn.discordapp.com/avatars/876908960563724288/a447a7b7ca6efdf93abd451512d95202.png" width=25 height=25></h3>
 
 _30-Nov-21 08:10 PM_:
 
@@ -9225,7 +9480,7 @@ _09-Dec-21 10:26 AM_:
 
 _13-Dec-21 12:49 PM_:
 
-[https://youtu.be/xYcX534JqG4](https://youtu.be/xYcX534JqG4)
+[https://www.youtube.com/watch?v=xYcX534JqG4](https://www.youtube.com/watch?v=xYcX534JqG4)
 
 [em1994ilyb](https://www.youtube.com/channel/UC6M6oqVg7RMYexGGqczJqug)
 
@@ -9239,7 +9494,7 @@ this song always cheers me up
 
 durgadas
 
-[https://youtu.be/xYcX534JqG4](https://youtu.be/xYcX534JqG4)
+[https://www.youtube.com/watch?v=xYcX534JqG4](https://www.youtube.com/watch?v=xYcX534JqG4)
 
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
@@ -9467,7 +9722,7 @@ i’ve been talking a lot about the internet of jobs for a few months, and since
 
 _28-Dec-21 12:35 PM_:
 
-[https://youtu.be/AqjIWmiAidw](https://youtu.be/AqjIWmiAidw)
+[https://www.youtube.com/watch?v=AqjIWmiAidw](https://www.youtube.com/watch?v=AqjIWmiAidw)
 
 [Aragon](https://www.youtube.com/channel/UCODiU_-FWhr4SVOoBlm-qaQ)
 
@@ -9504,7 +9759,7 @@ _03-Jan-22 12:24 PM_:
 
 [https://www.hd.square-enix.com/eng/news/2022/html/a_new_years_letter_from_the_president_2.html](https://www.hd.square-enix.com/eng/news/2022/html/a_new_years_letter_from_the_president_2.html)
 
-A New Year's Letter from the President | SQUARE ENIX HOLDINGS
+A New Year's Letter from the President - SQUARE ENIX HOLDINGS
 
 ![https://www.hd.square-enix.com/eng/assets/img/og/ogp_square-enix.png](https://www.hd.square-enix.com/eng/assets/img/og/ogp_square-enix.png)
 
@@ -9979,7 +10234,7 @@ _17-Jan-22 02:04 PM_:
 
 @johnjonas
 
-<h3>ffstrauf | UTC +11 <img src="https://cdn.discordapp.com/avatars/275681329155407873/fdb09a592b48ed7019680d6f8a8c8f36.png" width=25 height=25></h3>
+<h3>ffstrauf - UTC +11 <img src="https://cdn.discordapp.com/avatars/275681329155407873/fdb09a592b48ed7019680d6f8a8c8f36.png" width=25 height=25></h3>
 
 _20-Jan-22 09:23 PM_:
 
@@ -10398,7 +10653,7 @@ _07-Feb-22 01:21 PM_:
 
 TEA info [https://tokenengineeringcommunity.github.io/website/docs/academy-welcome](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome)
 
-TokenEngineering Academy | Token Engineering
+TokenEngineering Academy - Token Engineering
 
 About
 
@@ -10510,7 +10765,7 @@ _21-Feb-22 12:08 PM_:
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-Airtable | Everyone's app platform
+Airtable - Everyone's app platform
 
 Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.
 
@@ -11082,7 +11337,7 @@ Task is now done! @AnaTech
 
 _28-Mar-22 03:11 PM_:
 
-March week 1 || AnaTech
+March week 1 -- AnaTech
 
 Task is now done! @AnaTech
 
@@ -11092,19 +11347,19 @@ Task is now done! @AnaTech
 
 _28-Mar-22 03:22 PM_:
 
-March week 2 || AnaTech
+March week 2 -- AnaTech
 
 Task is now done! @AnaTech
 
 ![https://media.giphy.com/media/DYH297XiCS2Ck/giphy.gif](https://media.giphy.com/media/DYH297XiCS2Ck/giphy.gif)
 
-March week 3 || AnaTech
+March week 3 -- AnaTech
 
 Task is now done! @AnaTech
 
 ![https://media.giphy.com/media/gEkOjfxIuFy9lryrT3/giphy.gif](https://media.giphy.com/media/gEkOjfxIuFy9lryrT3/giphy.gif)
 
-March week 4 || AnaTech
+March week 4 -- AnaTech
 
 Task is now done! @AnaTech
 
@@ -11197,37 +11452,37 @@ Task is now done! @chuygarcia.eth @AnaTech @angieberryberry
 
 ![https://media.giphy.com/media/bMJqfOtgVEyI2PLnaW/giphy.gif](https://media.giphy.com/media/bMJqfOtgVEyI2PLnaW/giphy.gif)
 
-February week 1 || AnaTech
+February week 1 -- AnaTech
 
 Task is now done! @chuygarcia.eth @AnaTech
 
 ![https://media.giphy.com/media/S9i8jJxTvAKVHVMvvW/giphy.gif](https://media.giphy.com/media/S9i8jJxTvAKVHVMvvW/giphy.gif)
 
-February week 2 || AnaTech
+February week 2 -- AnaTech
 
 Task is now done! @chuygarcia.eth @AnaTech
 
 ![https://media.giphy.com/media/S9i8jJxTvAKVHVMvvW/giphy.gif](https://media.giphy.com/media/S9i8jJxTvAKVHVMvvW/giphy.gif)
 
-March week 1 || AnaTech
+March week 1 -- AnaTech
 
 Task is now done! @chuygarcia.eth @AnaTech
 
 ![https://media.giphy.com/media/YRuFixSNWFVcXaxpmX/giphy.gif](https://media.giphy.com/media/YRuFixSNWFVcXaxpmX/giphy.gif)
 
-March week 2 || AnaTech
+March week 2 -- AnaTech
 
 Task is now done! @chuygarcia.eth @AnaTech
 
 ![https://media.giphy.com/media/azICCwJD3pi1pqimJg/giphy.gif](https://media.giphy.com/media/azICCwJD3pi1pqimJg/giphy.gif)
 
-March week 3 || AnaTech
+March week 3 -- AnaTech
 
 Task is now done! @chuygarcia.eth @AnaTech
 
 ![https://media.giphy.com/media/azICCwJD3pi1pqimJg/giphy.gif](https://media.giphy.com/media/azICCwJD3pi1pqimJg/giphy.gif)
 
-March week 4 || AnaTech
+March week 4 -- AnaTech
 
 Task is now done! @chuygarcia.eth @AnaTech
 
@@ -11237,7 +11492,7 @@ Task is now done! @chuygarcia.eth @AnaTech
 
 _04-Apr-22 11:42 AM_:
 
-[https://youtu.be/qqktzC-Wrv0](https://youtu.be/qqktzC-Wrv0)
+[https://www.youtube.com/watch?v=qqktzC-Wrv0](https://www.youtube.com/watch?v=qqktzC-Wrv0)
 
 [Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
 
@@ -11447,7 +11702,7 @@ I could start drafting some tweets
 
 _11-Apr-22 11:14 AM_:
 
-April 1st week || AnaTech
+April 1st week -- AnaTech
 
 Task is now done! @AnaTech
 
@@ -11457,7 +11712,7 @@ Task is now done! @AnaTech
 
 _11-Apr-22 11:22 AM_:
 
-March Week 5 || Ana Tech
+March Week 5 -- Ana Tech
 
 Task is now done! @chuygarcia.eth @AnaTech
 
@@ -11469,7 +11724,7 @@ Task is now done! @chuygarcia.eth @angieberryberry
 
 ![https://media.giphy.com/media/S9i8jJxTvAKVHVMvvW/giphy.gif](https://media.giphy.com/media/S9i8jJxTvAKVHVMvvW/giphy.gif)
 
-April 1st week || AnaTech
+April 1st week -- AnaTech
 
 Task is now done! @chuygarcia.eth
 
@@ -11487,13 +11742,13 @@ Task is now done! @chuygarcia.eth @angieberryberry
 
 ![https://media.giphy.com/media/aZXRIHxo9saPe/giphy.gif](https://media.giphy.com/media/aZXRIHxo9saPe/giphy.gif)
 
-April 1st week || AnaTech
+April 1st week -- AnaTech
 
 Task is now done! @chuygarcia.eth @AnaTech
 
 ![https://media.giphy.com/media/DYH297XiCS2Ck/giphy.gif](https://media.giphy.com/media/DYH297XiCS2Ck/giphy.gif)
 
-March Week 5 || Ana Tech
+March Week 5 -- Ana Tech
 
 Task is now done! @chuygarcia.eth @AnaTech
 
@@ -11639,7 +11894,7 @@ Task is now done! @chuygarcia.eth @EFRA
 
 _26-Apr-22 12:20 PM_:
 
-[https://youtu.be/fXwnWCc2hL8](https://youtu.be/fXwnWCc2hL8)
+[https://www.youtube.com/watch?v=fXwnWCc2hL8](https://www.youtube.com/watch?v=fXwnWCc2hL8)
 
 [Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
 
@@ -11708,7 +11963,7 @@ I can’t tomorrow
 
 _03-May-22 06:15 AM_:
 
-April 2nd week || AnaTech
+April 2nd week -- AnaTech
 
 Task is now done! @chuygarcia.eth @AnaTech
 
@@ -11724,7 +11979,7 @@ April Week 4
 
 Task is now done! @chuygarcia.eth @angieberryberry
 
-April 3rd week || AnaTech
+April 3rd week -- AnaTech
 
 Task is now done! @chuygarcia.eth @AnaTech
 
@@ -11946,7 +12201,7 @@ Learn all about social listening, key tools to help you analyze your social medi
 
 [https://www.hubspot.com/products/marketing/social-inbox?hubs_post=blog.hubspot.com/service/social-listening&hubs_post-cta=social%20media%20product](https://www.hubspot.com/products/marketing/social-inbox?hubs_post=blog.hubspot.com/service/social-listening&hubs_post-cta=social%2520media%2520product)
 
-Social Media Management Software | HubSpot
+Social Media Management Software - HubSpot
 
 Social media management software that lets you scale your marketing efforts. Publish, monitor, and report on your success all in one place.
 

@@ -12,109 +12,183 @@ We help promote transparency, openness and mutual monitoring as the high-level i
 
 ## Links
 
-http://t.me/tepraise\
-http://tecommons.org/\
-https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/hatch-101/privacy-policy\
-https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ.png?color=%23FD40FE&logo=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MRe_M_mUIIB11A-MQyZ%252Favatar-rectangle-1616086536325.png%3Fgeneration%3D1616086536797603%26alt%3Dmedia&theme=dark\
-https://blockscout.com/xdai/mainnet/tx/0x88aef5a179969a779f009c3a36383112ce2e\
-https://cdn.discordapp.com/attachments/810180622634844207/933797516800061490/TEC_-_Community_Data_NOV-DEC.pdf\
-https://craig.chat/home/\
-https://discord.gg/CRSKAJtFMH\
-https://discord.gg/CRSKAJtFMH,Ivy\
-https://discord.gg/uM4ZWD\
-https://discord.gg/uM4ZWDjNfK\
-https://discord.gg/ZKdnJCuG\
-https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/
-https://docs.google.com/document/d/17ArOa1BikAk20Czf1vbmZjT_ll0OQSc9rUrdFm9SAGc/
-https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/
-https://docs.google.com/document/d/19FIBc67b5f0EGFF6hpHChyks6110Sr8lCJfCk2feLJg/
-https://docs.google.com/document/d/1DQwEJUYvKiwm6LaiGRM1P7YB48528WeBCsmZ39QB5VA/
-https://docs.google.com/document/d/1el7GdOZwqTTTYb3Es-tzR6e9uNb_KRTe1t7MGQ9JTPY/
-https://docs.google.com/document/d/1hnwSQn4vxboxazraX2qPwa25bBBrvk3TpXsSDkXhqCM/
-https://docs.google.com/document/d/1IgG94l6cCO3d0Zrfsi6ucUEp99A96P_s2uOTQhmB-Tc/
-https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/
-https://docs.google.com/document/d/1K1TaHVeU-y3tzJ-BZ78d7Keib1gA9d4pn8t-IRND7ps/
-https://docs.google.com/document/d/1lHhu8o6CZ-Zgudipv5oGbzwlAsIZ_m1jhAZod7pP28U/
-https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/
-https://docs.google.com/document/d/1uBhtYLvx5PIGzYoEDa1HYxxmc9W3pPpP_cXxXfn1IgA/
-https://docs.google.com/document/d/1uD_vSW9maxXEORamevLRWUdIoh2w_i_oq9Jg5B7Nsrs/
-https://docs.google.com/document/d/1XtNQ2pqUzRHjVjQ2WV-uhoE2sNt3UQYRQPLf3--9-FY/
-https://docs.google.com/document/d/1ynTswJ_synyrSqUt7DdG0ztaPO54aZsjNKvKl2nBE_A/
-https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/
-https://docs.google.com/presentation/d/18DGuSTsLgU2C2iNNcvoo2-27uL2Tcb1jfMaMGa9Zeyc/
-https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/
-https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/
-https://docs.google.com/spreadsheets/d/1i1ZMCZbyLkp8W9DqgmY43Z-JzShMPCFUXIC1RvNrcQQ/
-https://docs.google.com/spreadsheets/d/1kiZEeCxml49AuhRT_TAq-fdnXp1XeDs71eTa-uxKeK0/
-https://docs.google.com/spreadsheets/d/1nu5Xx4N40RpUvh7dtJB94SUMYSpMs-U6iFiOBPXOLoA/
-https://docs.google.com/spreadsheets/d/1w42k9GfciiSM6r7FzeC9JiCo2eiq4xTJJfxLGa2MBw4/
-https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/
-https://docs.google.com/spreadsheets/d/1Wwio-Ysqn_mzbPw7hEIz5jg3zZJGlrLATBGHR6bImhI/
-https://docs.google.com/spreadsheets/d/1yPuReLbzUdb-xWhsKNr_aiK4YwpT6UtgiRw1ItmsxjU/
-https://download.pawa.im/prod/810180621930070088/28f60fdd-d2d7-4391-8d20-561097901f0a.mp3\
-https://dune.xyz/api/screenshot?url=https://dune.xyz/hildobby/ENS-Airdrop\
-https://dune.xyz/hildobby/ENS-Airdrop\
-https://dune.xyz/tecommons/TECommons\
-https://electionscience.org/library/approval-voting/\
-https://forum.tecommons.org/\
-https://forum.tecommons.org/c/proposals/if-youre-requesting-funds-from-the-commons-post-your-proposal-here-using-the-proposal-template-then-post-your-forum-link-in-the-commons-page/16\
-https://forum.tecommons.org/t/4-submit-a-proposal-for-funding/102\
-https://forum.tecommons.org/t/audit-report-0001/1002\
-https://forum.tecommons.org/t/conviction-voting-tl-dr/308\
-https://forum.tecommons.org/t/gravity-wg-audit/335\
-https://forum.tecommons.org/t/how-should-we-present-and-preserve-the-transparency-audit-reports/969\
-https://forum.tecommons.org/t/how-to-get-access-to-tec-platforms-access-management/813\
-https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/7\
-https://forum.tecommons.org/t/transparency-audit-report-a-new-approach/673\
-https://forum.tecommons.org/t/transparency-working-group/197\
-https://forum.tecommons.org/t/your-advice-on-the-sampo-strategy/1019\
-https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/covenant\
-https://github.com/AntonGrushin/JS_DRaSB\
-https://github.com/chebro/discord-voice-recorder\
-https://github.com/CommonsBuild/coordination/issues/680\
-https://github.com/itzmestar/duneanalytics\
-https://github.com/makerdao-ses/transparency-reporting/tree/main/Monthly%20Budget%20Statements\
-https://github.com/makerdao-ses/transparency-reporting/tree/main/Monthly%2520Budget%2520Statements\
-https://hackmd.io/@lPFQ61eAQAap3vUN520DPw/ByS69fqQq\
-https://i0.wp.com/electionscience.org/wp-content/uploads/2019/01/es-500.jpg?fit=500%2C500&ssl=1\
-https://info.honeyswap.org/#/token/0x5df8339c5e282ee48c0c7ce8a7d01a73d38b3b27\
-hhttps://medium.com/token-engineering-commons/transparency-within-a-dao-73ff7c73d19d\
-https://miro.medium.com/max/1200/1\
-https://opengraph.githubassets.com/c169c0182873a31abf6ba12efde61082b4e24a29099668c6c443f8ef5c207f38/makerdao-ses/transparency-reporting\
-https://opengraph.githubassets.com/f28fac629b3edf1927f1b0d76c8b81d731b4319d2a70b53c0a72263d41e54b31/CommonsBuild/coordination/issues/680\
-https://snapshot.org/#/tecommons.eth\
-https://snapshot.org/#/tecommons.eth/proposal/0x5cfdd3f1da0f0e5aee62dba5924cc6670fd04e0a48254263a6c74cbab7f05871\
-https://snapshot.org/#/tecommons.eth/proposal/0xfb1bc7e8eb4fc2d678cf87b1f86c81450eebe680fe727ce4f938c2c4a936dad9\
-https://stackoverflow.com/questions/37157389/how-to-add-column-with-fixed-value-to-imported-data-google-spreadsheet\
-https://t.co/XWQ74BgLSY\
-https://t.me/tecomm\
-https://t.me/tecommons\
-https://token-engineering-commons.gitbook.io/tec-handbook/tec-agreements-1/discord\
-https://token-engineering-commons.gitbook.io/tec-source/\
-https://tokenlog.xyz/CommonsBuild/commons-config-proposals\
-https://top.gg/bot/338897906524225538\
-https://top.gg/bot/376095684069163008\
-https://twitter.com/tecmns\
-https://twitter.com/tecmns/status/1530617138804826115\
-https://url.kr/6e8vdc\
-https://url.kr/lrb27t\
-https://wiki.commonsstack.org/transparent-log-of-burn-events\
-https://www.coordinape.com\
-https://www.coordinape.com/\
-https://www.figma.com/file/b6kx4mkaHxzq4TPzaI1eRY/TEC-Dapps\
-https://www.figma.com/file/b6kx4mkaHxzq4TPzaI1eRY/thumbnail?ver=thumbnails/1a08ab76-2c1a-44ca-b5a5-bdc3d2fd79f5\
-https://www.rei.com/about-rei/executive-compensation\
-https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg\
-https://www.youtube.com/channel/UCpjm6R2yqu1GZjYtsIiXR5w\
-https://www.youtube.com/watch?v=P4oQHtWBQS4\
-https://www.youtube.com/watch?v=psI9m6Q9jf8\
-https://www.youtube.com/watch?v=tvTI3qGqbjg\
-https://www.youtube.com/watch?v=UZNP0r7_GF4,TEC\
-https://youtu.be/5vqtvIi5m64?t=23\
-https://youtu.be/6U16P37UPWo\
-https://youtu.be/7dLZj69zE5o\
-https://youtu.be/bzEIPlUd1Sk\
-https://youtu.be/UwRZZqWcn64?t=113
+- [TE Commons](https://t.me/tecommons)
+  > You can view and join @tecommons right away.
+
+### Operations
+- [GitBook backend - Privacy Policy](https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/hatch-101/privacy-policy)
+
+### Data
+- [TEC_-_Community_Data_NOV-DEC.pdf](https://cdn.discordapp.com/attachments/810180622634844207/933797516800061490/TEC_-_Community_Data_NOV-DEC.pdf)
+
+### Tools
+- [Craig](https://craig.chat/home/)
+  > The multi-track recording bot for Discord.
+- [How to add column with fixed value to imported data Google spreadsheet](https://stackoverflow.com/questions/37157389/how-to-add-column-with-fixed-value-to-imported-data-google-spreadsheet)
+  > I need to merge data from two spreadsheets and add column with the file ID on each row. Spreadsheet 1 Columns => A B C D Spreadsheet 2 Columns => O P Q R Spreadsheet merged Columns => 'X' A B C ...
+
+### Documentation
+
+- [TEC AUDIT REPORT 0001 - HackMD](https://hackmd.io/@lPFQ61eAQAap3vUN520DPw/ByS69fqQq)
+  > # TEC AUDIT REPORT 0001 TRANSPARENCY WG **Period:** January 01 - March 31 of 2022 **Presented:** T
+- [youtube descriptions](https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/)
+  > Comunitas The intention of this Working Group is to nurture, grow and guide the TEC community. The points of focus are new member orientation, current member community building, and organisational design: namely, guiding folks into the TEC and helping folks navigate the TEC from the inside. ...
+- [TEC Discord Server Newcomer Audit](https://docs.google.com/document/d/17ArOa1BikAk20Czf1vbmZjT_ll0OQSc9rUrdFm9SAGc/)
+  > TEC Discord Server Newcomer Audit Once TEC tokens become more freely available and TEC increasingly stands on its own legs in the world, we will no longer be able to assume that people know much about us when they first drop into our Discord server. This will be particularly important if we dec...
+- [TEC TRANSPARENCY](https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/)
+  > 🕵️‍♀️TEC TRANSPARENCY🕵️‍♀️ Working Group Manifesto WHERE: Discord Voice Channel https://discord.gg/ZKdnJCuG CALL NOTES & AGENDA TEC Weekly Sync Calls & Calendar link here Working Groups progress should be shared in the Thursday community calls.
+- [TEC Offboarding Credentials](https://docs.google.com/document/d/19FIBc67b5f0EGFF6hpHChyks6110Sr8lCJfCk2feLJg/)
+  > TEC Offboarding Credentials and access For platforms that can be accessed by logging in through Dashlane (Twitter, Website, Google/Gmail, Youtube, Hubspot, Medium, LinkedIn) The lead admin of the platform will notify the Credentials Managers (Zep, Ivy, Chuy) when a contributor is no longer ne...
+- [T.Management](https://docs.google.com/document/d/1DQwEJUYvKiwm6LaiGRM1P7YB48528WeBCsmZ39QB5VA/)
+  > After the Agave debate, the feeling I had from the community is that it wants to diversify our treasury with different strategies which I strongly agree with. In my opinion, holding all your savings in stables has even more risks than diversification in the long run, especially those days. (Our s...
+- [Discord Roles](https://docs.google.com/document/d/1el7GdOZwqTTTYb3Es-tzR6e9uNb_KRTe1t7MGQ9JTPY/)
+  > Discord Roles Admin Gravitons Stewards Orientation Coordinators Subject Matter Experts Contributors Praise Giver Acknowledged CC New Member Every single day, more and more contributors join our Discord server, and we try to keep things organized by adding roles/labels to members' accounts. ...
+- [TEC Platform - Code of Conduct](https://docs.google.com/document/d/1hnwSQn4vxboxazraX2qPwa25bBBrvk3TpXsSDkXhqCM/)
+  > Code of Conduct for Platform Admins The objective of this document is for current and new Admin members of the TEC DAO to be aware of the rules and boundaries that apply through the use of different third-party applications. This document can be used as a guide on how to act and have due proces...
+- [Transparency Audit Report](https://docs.google.com/document/d/1IgG94l6cCO3d0Zrfsi6ucUEp99A96P_s2uOTQhmB-Tc/)
+  > Transparency Audit Report - A New Approach As we come closer to the Commons Upgrade, we think this is the best time to revisit our transparency audit process and find out where we can improve to make our community more transparent. The previous Transparency Audit, that specifically targeted the...
+- [TEC Transparency WG Agenda and Notes](https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/)
+  > 🕵️‍♀️Transparency WG Agenda and Notes🕵️ Meeting channel: https://discord.gg/CRSKAJtFMH Facilitator: Zep Moderator: Ivy July 11 Attendees: (Please join the http://t.me/tepraise and say hi or post an emoji to receive Praise which turns into TEC tokens) Agenda: Standarization of calen...
+- [Transparency of funding flows](https://docs.google.com/document/d/1K1TaHVeU-y3tzJ-BZ78d7Keib1gA9d4pn8t-IRND7ps/)
+  > Ways to Keep the WG Funding Flows Transparent As we advocate for transparency, the Transparency WG always seeks ways to ensure that the actions and decisions of TEC as a whole and its members are visible to the rest of our community. This will help in our mutual monitoring and accountability. W...
+- [borrador](https://docs.google.com/document/d/1lHhu8o6CZ-Zgudipv5oGbzwlAsIZ_m1jhAZod7pP28U/)
+  > I’m interested in knowing how transparent we want to be with TEC’s money as it’s set up right now. We can monitor the multisig address with Dune and see every multisig cash flow. (and check on blockscout all the transactions done by the multisig and also the addresses that control that multisig)....
+- [Transparency in DAOs](https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/)
+  > Transparency in DAOs The long term success of a DAO needs more than just technical code. It also needs to foster trust and commitment between its members, and between the members and the DAO. To turn a DAO’s vision into reality, its participants should be genuinely committed and understand t...
+- [update TEC Community Covenant](https://docs.google.com/document/d/1uBhtYLvx5PIGzYoEDa1HYxxmc9W3pPpP_cXxXfn1IgA/)
+  > TEC Community Covenant The Token Engineering Commons is a self-governed organization with the purpose of advancing the field of token engineering. The TEC supports the creation of ethical, safe, resilient and diverse economic systems to benefit societies around the world. The TEC’s mission is...
+- [Credentials management](https://docs.google.com/document/d/1uD_vSW9maxXEORamevLRWUdIoh2w_i_oq9Jg5B7Nsrs/)
+  > How to get access to TEC platforms (access management) DM the Credential Curators or fill out this Typeform with questions like asking for handle, which platform the contributor needs access to and the task that needs to be done on that platform (to decide what kind of access we be given). The C...
+- [Voting](https://docs.google.com/document/d/1XtNQ2pqUzRHjVjQ2WV-uhoE2sNt3UQYRQPLf3--9-FY/)
+  > Types of Voting Snapshot Voting https://docs.snapshot.org/proposals/voting-types This work was done brainstorming and exchanging ideas by juan livi ivy and myself and everything said there is just our opinion and how we see things. Single choice voting In single choice voting, the member...
+- [TEC Transparency Audit (Apr - June 2022)](https://docs.google.com/document/d/1ynTswJ_synyrSqUt7DdG0ztaPO54aZsjNKvKl2nBE_A/)
+  > AUDIT REPORT 0002 TRANSPARENCY WG Period: Arpil 1 - June 30, 2022 Presented: T.B.D. Contributors: Zeptimus, Iviangita, Rex, Bear100, enti Funding Pool Reserve & Fund Movement (rex) TEC Analytics (zepti) Governance tokens (enti) Voting Schema and Results (ivy) Processes (ivy) Resources Proce...
+- [TEC Transparency Audit (Jan-March 2022)](https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4AYRI504YyduIj19-Go/)
+  > AUDIT REPORT 0001 TRANSPARENCY WG Period: January 01 - March 31 of 2022 Presented: T.B.D. Contributors: Zeptimus, Iviangita, Ratio13, enti, acidlazzer, efra Processes The Advice Process Submitting funding and cultural proposals 1.2.1. Funding proposals 1.2.2. Cultural proposals Onboarding and ...
+- [Bankless DAO Data Presentation (Oct 8th)](https://docs.google.com/presentation/d/18DGuSTsLgU2C2iNNcvoo2-27uL2Tcb1jfMaMGa9Zeyc/)
+  > Bankless DAO Community Growth Analytics Guild October 8, 2021
+- [TEC Call Recorders](https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/)
+  > April Meeting/Event,Day,Time,Discord channel,Recorder's TG handle Week 1 (Apr5-9) Transparency,Monday,6AM PST / 9AM EST / 3PM CET,<a href="https://discord.gg/CRSKAJtFMH">https://discord.gg/CRSKAJtFMH</a>,Ivy Commons Swarm,Monday,11AM PST / 2PM EST / 8PM CET,1hive Discord,Zeptimus Communications,...
+- [TEC Decision tracking](https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/)
+  > Data sources Vote Type,Parameters,Source,Vote Type Description or Source,Source Link *** Quadratic voting is suspended at this time until an identity solution is determined and implemented *** Advice Process,Forum (Advcie Process),When someone needs to make a decision, they seek advice from othe...
+- [Master Sheet - TEC Balances](https://docs.google.com/spreadsheets/d/1kiZEeCxml49AuhRT_TAq-fdnXp1XeDs71eTa-uxKeK0/)
+  > master_txn WG,Date,ID (Discord#/Name),Inflow,Outflow,Token,Description,Category,Recurring,Notes,Tx Link Gravity,1 Jul 2022,Zeptimus#3359,800,xDAI,Gravity Treasury manager June,Administration,"Distribute payments Update graviton budget Keep the flows transparent with TEC
+- [TE Commons Videos Database](https://docs.google.com/spreadsheets/d/1nu5Xx4N40RpUvh7dtJB94SUMYSpMs-U6iFiOBPXOLoA/)
+  > Sheet3 Video title,Published date,TEC Channel URL,Playlist,Status on TEC Channel,Updated? W30 Transparency WG: Decision tracking sheet, setting up Dune Analytics and Dework, other updates,1/18/2022,<a href="https://youtu.be/jzk9QEU13Us">https://youtu.be/jzk9QEU13Us</a>,Transparency WG
+- [CS and TEC member usernames, Twitter, Telegram, Discord, Forum](https://docs.google.com/spreadsheets/d/1w42k9GfciiSM6r7FzeC9JiCo2eiq4xTJJfxLGa2MBw4/)
+  > Database !dish praise to ,<--Telegram,Discord -->,!praise ,Canonical,Telegram,Discord Current Week,Twitter,Discord WITH ###,Discord short,Telegram,IH & CSTK Handle,TEC Forum,Github,Name,Notes,!dish praise to ,!praise __padpad,padpad.eth,!dish praise to ,!praise ,In the set _bends_,bends#3537,b...
+- [Access Document](https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/)
+  > Sheet1 Explanation: This chart serves as a point of reference for communication and transparency. Its purpose is to facilitate coordination between members of the organization with easy steps to promote cooperation and accountability. How to use this document: Want to contribute in any of the p...
+- [2.TWG_Proposal_Activity](https://docs.google.com/spreadsheets/d/1Wwio-Ysqn_mzbPw7hEIz5jg3zZJGlrLATBGHR6bImhI/)
+  > Main - April Payout Distribution Payout Distribution Person,Month,Total Hours,Wallet Address,Period Pay,Notes May 2022 acidLazzer,May,13.00,0x8aA27E90E139d5AB5704df69429341cbCb2d2464,130.00,<a href="https://blockscout.com/xdai/mainnet/tx/0xa9d8087a017f05234163f4273bad5c6eb16bdd096304c0729a500910...
+- [TEC Voting Results - Q1/2022](https://docs.google.com/spreadsheets/d/1yPuReLbzUdb-xWhsKNr_aiK4YwpT6UtgiRw1ItmsxjU/)
+  > Metrics Ongoing Advice and Proposal Metrics Advice Tracking # of Requests,# of Comments,Advanced to Proposal,Platform Average,1,49.00,Forum Median,1,--,Forum Source,
+
+### Forum Posts
+- [Token Engineering Commons](https://forum.tecommons.org/)
+  > Building safe digital economies that protect and support public goods
+- [Token Engineering Commons](https://forum.tecommons.org/c/proposals/if-youre-requesting-funds-from-the-commons-post-your-proposal-here-using-the-proposal-template-then-post-your-forum-link-in-the-commons-page/16)
+- [💸 Submit a Proposal for Funding](https://forum.tecommons.org/t/4-submit-a-proposal-for-funding/102)
+  > The Token Engineering Commons is now accepting funding proposal submissions from Token Engineering and related open source projects focusing on TE public goods. TE project leaders can submit a proposal, get feedback from the TEC community and once the Commons is hatched, submit that proposal to the Commons for a vote to receive the requested funding. How to submit a proposal: Go to 🌱 Proposals - Token Engineering Commons Click +New Topic and fill out the information in the template Join our D...
+- [Audit report 0001](https://forum.tecommons.org/t/audit-report-0001/1002)
+  > Period: January 01 - March 31 of 2022 Presented: 28 april 2022 Contributors: Zeptimus, Iviangita, Ratio13, enti, acidlazzer, efra Here we have the audit Report 0001 the intention of this post is to use this section of the forum to storage all the audits and use this forum thread for feedback for future audits
+- [Conviction Voting TL;DR](https://forum.tecommons.org/t/conviction-voting-tl-dr/308)
+  > Conviction Voting Overview Conviction Voting is a novel decision making process that allows a community to allocate funds appropriately to approved projects in a way that mimics natural systems. Here’s a breakdown of how the token-weighted voting process works: Multiple proposals can be considered simultaneously, and are submitted without an explicit voting expiration date. Voters can choose to distribute their preference proportionately among different proposals with their tokens. While toke...
+- [Gravity WG audit](https://forum.tecommons.org/t/gravity-wg-audit/335)
+  > Here is our updated Gravity Audit! Please help us be accountable and transparent for the best management of the projects in the community. If something doesn’t match the work we are doing, please give feedback to improve. @Juankbell filled this checklist for Gravity
+- [How should we present and preserve the Transparency Audit Reports?](https://forum.tecommons.org/t/how-should-we-present-and-preserve-the-transparency-audit-reports/969)
+  > Hey everyone! We are finishing the first post-hatch Transparency Audit (yay!) and I’ve been thinking about different ways to present and preserve the audits on the long run. For now what I envision is having the reports written in markdown, upload them to IPFS and mint a (non-transferrable?) NFT that would live inside the DAO. This would allow us to collect the reports for easy access in a medium neither of us have the control to change anything from it. And who knows, probably there’s an inte...
+- [How to get access to TEC platforms (access management)](https://forum.tecommons.org/t/how-to-get-access-to-tec-platforms-access-management/813)
+  > DM the Credential Curators or fill out this Typeform with questions like asking for handle, which platform the contributor needs access to and the task that needs to be done on that platform (to decide what kind of access we be given). The Credentials Curator will conduct a poll among the Stewards, sharing the information provided in the Typeform. Here are the next possible scenarios: If we get a 100% “yes” vote in the next 24 hours, the person gets access. If we get less than 100% “yes” vote...
+- [Should we do the initial buy into the bonding curve?](https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/7)
+  > The big point here is that… let’s say the token freeze is 1 year… that means that if the Commons wants to buy any TEC in the next year, we can guarantee, the price at the initialization is the cheapest price the DAO. So it’s a good idea to make the initial buy into the curve The downside is if we try to buy a lot (like 400k) there may be slippage that would actually be a bad deal for us… Also if we buy too much it might dissuade speculators. I love all of these ideas. Let’s figure out a 3 m...
+- [Transparency Audit Report - A New Approach](https://forum.tecommons.org/t/transparency-audit-report-a-new-approach/673)
+  > As we come closer to the Commons Upgrade, we think this is the best time to revisit our transparency audit process and find out where we can improve to make our community more transparent. The previous Transparency Audit that specifically targeted the working groups was a good first step. This time, we think a bigger Transparency Audit Report covering all the important points happening in the TEC will be very beneficial for new members as well as members who can’t check on the community all the...
+- [🕵️‍♀️ Transparency Working group](https://forum.tecommons.org/t/transparency-working-group/197)
+  > The Transparency Working Group promotes transparency, openness and mutual monitoring as a high-level ideal that we’re moving towards at the TEC. The way that we get there is by empowering people to share this experience with the Transparency Audits and making information available to everyone. Meetings: Every two weeks on Monday at 3pm CET Where? Transparency-TEC Discord voice channel WG Lead: @iviangita, @Zeptimusq Discussions happen on tec-transparency Transparency Manifesto Agenda
+- [Your advice on the Sampo strategy](https://forum.tecommons.org/t/your-advice-on-the-sampo-strategy/1019)
+  > Provide as much information as possible about your idea. This post grew from the Sampo working group’s high-level strategy document, which you can find below. The plan has gotten initial advice from the working group and was presented at last week’s Steward Council. To broaden feedback from the community, I’m posting it here and including a link at the bottom to a quick, easy survey tool. This tool provides some powerful analysis capabilities that will help us easily find where we do and do no...
+
+### Blockchain
+
+- [Gardens](https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/covenant)
+- [Dune - ENS Airdrop](https://dune.xyz/hildobby/ENS-Airdrop)
+- [Dune - TECommons](https://dune.xyz/tecommons/TECommons)
+- [Honeyswap TEC](https://info.honeyswap.org/#/token/0x5df8339c5e282ee48c0c7ce8a7d01a73d38b3b27)
+- [Snapshot - tecommons.eth](https://snapshot.org/#/tecommons.eth)
+- [How far do we want to monitor multisigs? - Snapshot](https://snapshot.org/#/tecommons.eth/proposal/0xfb1bc7e8eb4fc2d678cf87b1f86c81450eebe680fe727ce4f938c2c4a936dad9)
+
+### GitHub
+
+- [GitHub - AntonGrushin/JS_DRaSB: This is a JavaScript Node.js Discord bot based on discord.js library that is meant to perform automatic recording of a discord channel and play music/sounds as a soundboard or a playlist bot.](https://github.com/AntonGrushin/JS_DRaSB)
+  > This is a JavaScript Node.js Discord bot based on discord.js library that is meant to perform automatic recording of a discord channel and play music/sounds as a soundboard or a playlist bot. - Git...
+- [GitHub - chebro/discord-voice-recorder: A nifty script that can pipe out audio from a discord voice channel to your local storage. A discord voice recorder!](https://github.com/chebro/discord-voice-recorder)
+  > A nifty script that can pipe out audio from a discord voice channel to your local storage. A discord voice recorder! - GitHub - chebro/discord-voice-recorder: A nifty script that can pipe out audio...
+- [Emphasize that there is an action required on this landing page · Issue #680 · CommonsBuild/coordination](https://github.com/CommonsBuild/coordination/issues/680)
+  > Something like &quot;You must READ AND ACCEPT the below to see and join channels on this server!&quot; in big red letters at the top. ## 📋 Anything to add? ⏰ Urgency/Due Date/Blockers? ❓ Why is it ...
+- [GitHub - itzmestar/duneanalytics: Unofficial Python Library for Dune Analytics](https://github.com/itzmestar/duneanalytics)
+  > Unofficial Python Library for Dune Analytics. Contribute to itzmestar/duneanalytics development by creating an account on GitHub.
+- [transparency-reporting/Monthly Budget Statements at main · makerdao-ses/transparency-reporting](https://github.com/makerdao-ses/transparency-reporting/tree/main/Monthly%20Budget%20Statements)
+  > Repository for transparency reports published by the SES Core Unit. - transparency-reporting/Monthly Budget Statements at main · makerdao-ses/transparency-reporting
+- [Build software better, together](https://github.com/makerdao-ses/transparency-reporting/tree/main/Monthly%2520Budget%2520Statements)
+  > GitHub is where people build software. More than 83 million people use GitHub to discover, fork, and contribute to over 200 million projects.
+
+### Blog
+- [Transparency Within a DAO](https://medium.com/token-engineering-commons/transparency-within-a-dao-73ff7c73d19d)
+  > Improving the flow of information to supercharge organizational development
+
+Youtube
+- [Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
+  > The Token Engineering Commons is building the tools for safe digital economies that protect and support public goods. To·ken En·gi·neer·ing /ˈtōkən/ /enjəˈniriNG/ 1. An emerging engineering discipline focused on holistic systems design and the theory, practice and tools used to design and verify tokenized ecosystems i.e. cyptoeconomic systems and their simulation using tools like cadCAD. 2. A discipline of responsibility; adhering to the highest principles of ethical conduct (from ethical engineering) 3. A community pushing forward the field of token engineering in theory and practice. (See more Modeling Crypto Protocols as Complex Systems, TE Process) Com·mons/ˈkämənz/ 1. Resources that groups of people (communities, organizations) create and manage for individual and collective benefit. These resources are held collectively, not owned privately (see Fractal Ownership, Wiki and Automating Ostrom)
+- [odg](https://www.youtube.com/channel/UCpjm6R2yqu1GZjYtsIiXR5w)
+  > 나는 누구, 여긴 ODG You were a kid once ___ ⓒ2022. Studio Solfa All rights reserved.
+- [W14 Communitas WG: Quantifiers, Roles and member’s life cycle and more!](https://www.youtube.com/watch?v=P4oQHtWBQS4)
+  > The intention of this Working Group is to nurture, grow and guide the TEC community. The points of focus are new member orientation, current member community...
+- [W13 Communitas WG: DAO’s cultural practices, roles and much more!](https://www.youtube.com/watch?v=psI9m6Q9jf8)
+  > The intention of this Working Group is to nurture, grow and guide the TEC community. The points of focus are new member orientation, current member community...
+- [W13 Transparency WG: Bi-weekly calls and other updates](https://www.youtube.com/watch?v=tvTI3qGqbjg)
+  > Timecodes:00:00 - Intentions and distractions1:49 - Bi-weekly calls 3:51 - Call recorders6:35 - Sharing recordings in WG channels and Twitter11:17 - Audit se...
+- [TEC Community Call 1: Tech Spec, Soft Gov, Comms, and the new Onboarding group](https://www.youtube.com/watch?v=UZNP0r7_GF4)
+  > Check out our notes here: https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit🙏 Thank you for watching! Hit 👍 and subscribe...
+- [Param party debate Week 1](https://youtu.be/5vqtvIi5m64?t=23)
+  > 🙏 Thank you for watching! Hit 👍 and subscribe 🚩 to support this work🌱Join the Community🌱on Discord https://discord.gg/uM4ZWDjNfK or say hello on Telegra...
+- [W12 Transparency WG: Praising attendees, sharing call recordings, audit tracker, etc.](https://youtu.be/6U16P37UPWo)
+  > Timecodes:00:00 - Intentions and distractions1:49 - Call recorders2:35 - Praising attendees20:08 - Sharing WG weekly sync videos in WG channels and the Commu...
+- [계속 물 트는 영화배우 - ODG](https://youtu.be/7dLZj69zE5o)
+  > 본 영상은 신한금융그룹의 후원을 받아 제작되었습니다.“멋진 세상을 향한 올바른 실천”Do the 「Right」 Thingfor a Wonderful World⠀신한금융그룹 ESG 캠페인배우 박정민님과 아이들이 함께한「기발한 시선」의 첫 번째 이야기지금 영상을 감상하시고,신한금융그룹...
+- [W14 Transparency WG: Digital security documentation, audit, BOT updates, YouTube description](https://youtu.be/bzEIPlUd1Sk)
+  > Timecodes:00:00 - Intentions and distractions2:36 - Call recorders3:35 - Digital security documentation5:54 - Audit19:28 - BOT updates24:46 - YouTube descrip...
+- [W3 Stewards Council: TE & TEC Bridge](https://youtu.be/UwRZZqWcn64?t=113)
+  > 🙏 Thank you for watching! Hit 👍 and subscribe 🚩 to support this work🌱Join the Community🌱on Discord https://discord.gg/uM4ZWDjNfK or say hello on Telegra...
+
+### Assorted
+- [Discord - TEC Handbook](https://token-engineering-commons.gitbook.io/tec-handbook/tec-agreements-1/discord)
+  > Co-working space
+- [Welcome to TEC Source - TEC Source](https://token-engineering-commons.gitbook.io/tec-source/)
+  > TEC Source is here to provide easy access to active and archived documents within the TEC. If you are currently working on a document and want to share it here, please notify one of our Stewards!
+- [Tokenlog · Token-weighted backlogs](https://tokenlog.xyz/CommonsBuild/commons-config-proposals)
+  > Democratize your open-source software project. A better way for projects to collaborate with their biggest supporters.
+- [Add pawa Discord Bot - The #1 Discord Bot List](https://top.gg/bot/338897906524225538)
+  > Simple audio recording for Discord
+- [Add Audio recorder Discord Bot - The #1 Discord Bot List](https://top.gg/bot/376095684069163008)
+  > Records audio in your voice channel
+- [JavaScript is not available.](https://twitter.com/tecmns)
+  > We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+- [JavaScript is not available.](https://twitter.com/tecmns/status/1530617138804826115)
+  > We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+- [신한금융그룹 기발한 프로덕션](https://url.kr/6e8vdc)
+  > "대한민국의 새로운 기회를 발견하다.“ 신한금융그룹 기발한 프로덕션
+- [신한금융그룹 기발한 프로덕션 (@shinhangroup_official) • Instagram photos and videos](https://url.kr/lrb27t)
+  > 116k Followers, 5 Following, 218 Posts - See Instagram photos and videos from 신한금융그룹 기발한 프로덕션 (@shinhangroup_official)
+- [GitBook](https://wiki.commonsstack.org/transparent-log-of-burn-events)
+  > GitBook
+- [Coordinape - Reinventing Compensation for Web3](https://www.coordinape.com)
+  > Empower contributors to see Â where value is created and reward it reflexively and transparently.
+- [Figma](https://www.figma.com/file/b6kx4mkaHxzq4TPzaI1eRY/TEC-Dapps)
+  > Created with Figma
+- [REI Executive Compensation Report - REI Co-op](https://www.rei.com/about-rei/executive-compensation)
+  > REI's board of directors annually publishes information on the total compensation of REI's CEO and executive vice presidents.
+
 
 ## Chat
 
@@ -169,7 +243,7 @@ This is a JavaScript Node.js Discord bot based on discord.js library that is mea
 
 [https://avatars.githubusercontent.com/u/36568402?s=400&v=4](https://avatars.githubusercontent.com/u/36568402?s=400&v=4)
 
-Audio recorder | Discord Bots
+Audio recorder - Discord Bots
 
 Records audio in your voice channel
 
@@ -1315,7 +1389,7 @@ _06-Sep-21 08:23 AM_:
 
 [https://electionscience.org/library/approval-voting/](https://electionscience.org/library/approval-voting/)
 
-Approval Voting | The Center for Election Science
+Approval Voting - The Center for Election Science
 
 Approval voting is a single-winner voting method that allows voters to choose any number of candidates. Learn how it applies to multi-winner elections too.
 
@@ -3373,7 +3447,7 @@ Interesting about bystander tendencies: [https://youtu.be/7dLZj69zE5o](https://y
 
 [odg](https://www.youtube.com/channel/UCpjm6R2yqu1GZjYtsIiXR5w)
 
-계속 물 트는 영화배우 | ODG
+계속 물 트는 영화배우 - ODG
 
 본 영상은 신한금융그룹의 후원을 받아 제작되었습니다. “멋진 세상을 향한 올바른 실천” Do the 「Right」 Thing for a Wonderful World ⠀ 신한금융그룹 ESG 캠페인 배우 박정민님과 아이들이 함께한 「기발한 시선」의 첫 번째 이야기 지금 영상을 감상하시고, 신한금융그룹 SNS에서 다양한 이벤트와 만나보세요 ▷ 신한금융그룹 유튜브 [https://url.kr/6e8vdc](https://url.kr/6e8vdc) ▷ 신한금융그룹 인스타그램 [https://url.kr/lrb27t](https://url.kr/lrb27t) ※ 촬영에 사용된 물과 케이크, 물티슈 등은 촬영 이후 재사용 및 분리수거 진행하였습니다. #신한금융그룹 #ODG #기발한시선 #ESG #지...
 
@@ -3628,7 +3702,7 @@ _09-May-22 11:56 AM_:
 
 [https://www.coordinape.com](https://www.coordinape.com/)
 
-Coordinape | Decentralizing Compensation
+Coordinape - Decentralizing Compensation
 
 coordinape is an excellent tool for allowing individuals inside the working group to better evaluate and account for each other's contributions, instead of mandating individual's to regularly advocate for themselves, or understand the requirement to advocate for themselves from the start
 
