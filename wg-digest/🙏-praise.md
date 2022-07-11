@@ -1077,7 +1077,7 @@ _26-Mar-21 10:05 AM_:
 
 <h3>santigs  <img src="https://cdn.discordapp.com/avatars/434632218246381569/ecb10317edc17d2e273d2404cc6f6a52.png" width="25" height="25"/></h3>
 
-_26-Mar-21 12:04 PM_: |praise @Caeser (PST) @iviangita @Zeptimus @chuygarcia92 @Juankbell @griff @santigs for joining the Legal WG session today
+_26-Mar-21 12:04 PM_: -praise @Caeser (PST) @iviangita @Zeptimus @chuygarcia92 @Juankbell @griff @santigs for joining the Legal WG session today
 
 !praise @Caeser (PST) for providing the baseline legal documents for therms and praise distribution
 
@@ -1695,7 +1695,7 @@ _06-Apr-21 10:23 AM_:
 
 _06-Apr-21 01:03 PM_: 
 
-!praise to @Zeptimus @Tam2140 @santigs @mitch @Mount Manu @natesuits @Aidan | LTF @Craig @chuygarcia92 @durgadas @Lauren @rafaelcalcada for joining the Comms Weekly call.
+!praise to @Zeptimus @Tam2140 @santigs @mitch @Mount Manu @natesuits @Aidan - LTF @Craig @chuygarcia92 @durgadas @Lauren @rafaelcalcada for joining the Comms Weekly call.
 
 <h3>Zeptimus  <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width="25" height="25"/></h3>
 
@@ -2171,7 +2171,7 @@ _12-Apr-21 09:34 PM_:
 
 _13-Apr-21 08:46 AM_: 
 
-!praise @James | NEAR for jumping into our Discord and enthusiasm for TEC!
+!praise @James - NEAR for jumping into our Discord and enthusiasm for TEC!
 
 !praise @rogervs for jumping into our Discord and making time to talk TEC Hatch.
 
@@ -2179,7 +2179,7 @@ _13-Apr-21 08:46 AM_:
 
 _13-Apr-21 12:59 PM_: 
 
-!praise to @Tam2140 @durgadas @Juankbell @Zeptimus @liviade @iviangita @Vyvy-vi @griff @freedumbs00 @chuygarcia92 @mitch @eduardovegap @metaverde @natesuits @markop @Aidan | LTF @Lauren @santigs for joining the Comms Weekly Call.
+!praise to @Tam2140 @durgadas @Juankbell @Zeptimus @liviade @iviangita @Vyvy-vi @griff @freedumbs00 @chuygarcia92 @mitch @eduardovegap @metaverde @natesuits @markop @Aidan - LTF @Lauren @santigs for joining the Comms Weekly Call.
 <h3>Tam2140  <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width="25" height="25"/></h3>
 
 _13-Apr-21 01:01 PM_: 
@@ -2636,7 +2636,7 @@ _20-Apr-21 02:45 PM_:
 
 _20-Apr-21 04:02 PM_: 
 
-!praise @Aidan | LTF for bringing all that energy and enthusiasm!
+!praise @Aidan - LTF for bringing all that energy and enthusiasm!
 
 !praise @Suga @chuygarcia92 @Tam2140 for test driving the onboarding journey tonight!
 
@@ -2804,7 +2804,7 @@ _23-Apr-21 12:19 AM_:
 
 !praise @JessicaZartler @markop @chuygarcia92 @natesuits @mitch because the Comms is coming together
 
-!praise @Suga @Aidan | LTF @chuygarcia92 for doing the dress rehearsal of the onboarding script
+!praise @Suga @Aidan - LTF @chuygarcia92 for doing the dress rehearsal of the onboarding script
 
 !praise @Craig for his work on the blog post
 
@@ -2960,7 +2960,7 @@ _26-Apr-21 10:28 AM_:
 
 _26-Apr-21 10:40 AM_: 
 
-!praise @Zeptimus @Juankbell @chuygarcia92 @iviangita @MehighCB @James | NEAR for being present in the Transparency sync call today
+!praise @Zeptimus @Juankbell @chuygarcia92 @iviangita @MehighCB @James - NEAR for being present in the Transparency sync call today
 
 !praise @Zeptimus for being thoughtful and taking the time to guide me in the TEC Hatch Config Dashboard
 
@@ -2997,7 +2997,7 @@ _27-Apr-21 12:50 PM_:
 
 _27-Apr-21 12:58 PM_: 
 
-!praise @chuygarcia92 @markop @Aidan | LTF @Juankbell @mitch @Mount Manu @santigs @Suga @Tam2140 @Vyvy-vi @Zeptimus @sbilbao @James | NEAR @griff @MehighCB for attending the Comms Call.
+!praise @chuygarcia92 @markop @Aidan - LTF @Juankbell @mitch @Mount Manu @santigs @Suga @Tam2140 @Vyvy-vi @Zeptimus @sbilbao @James - NEAR @griff @MehighCB for attending the Comms Call.
 
 <h3>Tam2140  <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width="25" height="25"/></h3>
 
@@ -3277,7 +3277,7 @@ _30-Apr-21 03:35 AM_:
 
 !praise @Craig @mitch @natesuits for their contributions in the glossary
 
-!praise @baartch @chuygarcia92 @ddan @eduardovegap @FabiM @griff @JessicaZartler @Juankbell @Lauren @liviade @mateodaza @mitch @natesuits @paulo_ @santigs @sem 🐝 @Suga @Tam2140 @Vyvy-vi @ygg_anderson @Aidan | LTF @knobsDAO for attending the TEC Community Call
+!praise @baartch @chuygarcia92 @ddan @eduardovegap @FabiM @griff @JessicaZartler @Juankbell @Lauren @liviade @mateodaza @mitch @natesuits @paulo_ @santigs @sem 🐝 @Suga @Tam2140 @Vyvy-vi @ygg_anderson @Aidan - LTF @knobsDAO for attending the TEC Community Call
 
 <h3>iviangita  <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width="25" height="25"/></h3>
 
@@ -3912,7 +3912,7 @@ _11-May-21 12:24 PM_:
 
 _11-May-21 01:01 PM_: 
 
-!praise @chuygarcia92 @eduardovegap @iviangita @Lauren @mitch @Mount Manu @natesuits @sem 🐝 @Suga @T Wells @Zeptimus @griff @Tam2140 @Pab @Vyvy-vi @Craig @James | NEAR @liviade for attending the Comms weekly WG
+!praise @chuygarcia92 @eduardovegap @iviangita @Lauren @mitch @Mount Manu @natesuits @sem 🐝 @Suga @T Wells @Zeptimus @griff @Tam2140 @Pab @Vyvy-vi @Craig @James - NEAR @liviade for attending the Comms weekly WG
 
 <h3>Vyvy-vi  <img src="https://cdn.discordapp.com/avatars/558192816308617227/90b02029a8b0a1fa47ec9d366c2936ec.png" width="25" height="25"/></h3>
 
@@ -4019,7 +4019,7 @@ _13-May-21 06:49 AM_:
 
 _13-May-21 10:32 AM_: 
 
-!praise @solsista @JessicaZartler @Lauren @liviade @Tam2140 @JeffEmmett @blairv @markop @geleeroyale @Niran | Panvala @danibelle @shermin @griff @mzargam @akrtws for promoting the comprehension of Token Engineering as a transdisciplinary field and opening the door to many of us to contribute in the building of this commons around it
+!praise @solsista @JessicaZartler @Lauren @liviade @Tam2140 @JeffEmmett @blairv @markop @geleeroyale @Niran - Panvala @danibelle @shermin @griff @mzargam @akrtws for promoting the comprehension of Token Engineering as a transdisciplinary field and opening the door to many of us to contribute in the building of this commons around it
 
 ![https://cdn.discordapp.com/emojis/540275494847774773.png](https://cdn.discordapp.com/emojis/540275494847774773.png)
 
@@ -4177,7 +4177,7 @@ _14-May-21 03:33 AM_:
 
 !praise @wslyvh for resolving the Tokenlog issues
 
-!praise @Aidan | LTF @chuygarcia92 @ddan @eduardovegap @griff @Juankbell @Lauren @liviade @mitch @natesuits @Nestor @Nuggan @paulo_ @santigs @sem 🐝 @Suga @Tam2140 @Vyvy-vi @ygg_anderson @Zeptimus @JessicaZartler @James | NEAR for joining the TEC Community Call [https://youtu.be/RQgp4CzEEPQ](https://youtu.be/RQgp4CzEEPQ)
+!praise @Aidan - LTF @chuygarcia92 @ddan @eduardovegap @griff @Juankbell @Lauren @liviade @mitch @natesuits @Nestor @Nuggan @paulo_ @santigs @sem 🐝 @Suga @Tam2140 @Vyvy-vi @ygg_anderson @Zeptimus @JessicaZartler @James - NEAR for joining the TEC Community Call [https://youtu.be/RQgp4CzEEPQ](https://youtu.be/RQgp4CzEEPQ)
 
 [Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
 
@@ -5178,7 +5178,7 @@ _28-May-21 02:18 PM_:
 
 !praise @🐙 octopus @JessicaZartler @griff @chuygarcia92 @solsista @Mensch for engaging in discussion on the TE Commons Forum
 
-!praise @FutureMike @shermin @James | NEAR @lkngtn 🐝 @Paul Haas @ygg_anderson for representing kickass communities in the TEC
+!praise @FutureMike @shermin @James - NEAR @lkngtn 🐝 @Paul Haas @ygg_anderson for representing kickass communities in the TEC
 
 <h3>heater  <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width="25" height="25"/></h3>
 
@@ -5636,7 +5636,7 @@ _04-Jun-21 06:48 AM_: For better or worse, that's common -- of the users who hav
 
 _04-Jun-21 09:57 AM_: 
 
-!praise @eugene @James | NEAR for organizing the Polycentric Gov session and bringing so much relevance in governance thoughts in general
+!praise @eugene @James - NEAR for organizing the Polycentric Gov session and bringing so much relevance in governance thoughts in general
 
 !praise @lEscanore @MehighCB @Mensch @Andeh @yoda @Shaila for being new joiners and reaching out to contribute and cross-pollinate
 

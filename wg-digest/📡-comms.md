@@ -178,7 +178,7 @@ Am in!
 
 
 
-<h3>ManuAlzuru | &#129361;#5047  <img src="https://cdn.discordapp.com/avatars/399892650666229770/6286af0db0fba5c810d4104e78975197.png" width="25" height="25" /></h3>
+<h3>ManuAlzuru - &#129361;#5047  <img src="https://cdn.discordapp.com/avatars/399892650666229770/6286af0db0fba5c810d4104e78975197.png" width="25" height="25" /></h3>
 
 BTW this friday we hove to have a working session for the Story canvas for the hatching. Please fill this Doodle Poll: 
 [Doodle: Story Canvas - Token Engineering Commons](https://doodle.com/poll/w29uikkpwm97crbs)
@@ -189,7 +189,7 @@ BTW this friday we hove to have a working session for the Story canvas for the h
 _14-Oct-20 07:56 AM_:	BTW this friday we hove to have a working session for the Story canvas for the hatching. Please fill this Doodle Poll: [Doodle: Story Canvas - Token Engineering Commons](https://doodle.com/poll/w29uikkpwm97crbs)
 
 
-@ManuAlzuru | &#129361; Awesome! I won't be able to join, since we're running the TE Academy lectures. For the story I'm sure the outcome of Onboarding WG will be relevant. Here's our WG schedule, happy to set up an update/synch with Comms!
+@ManuAlzuru - &#129361; Awesome! I won't be able to join, since we're running the TE Academy lectures. For the story I'm sure the outcome of Onboarding WG will be relevant. Here's our WG schedule, happy to set up an update/synch with Comms!
 [TECommons_atTMG1-Oct2020](https://docs.google.com/spreadsheets/d/1ro8zBzMQu2jWb3u8KqC2cC2lH-frH8-s4HdTGXaMj9E/edit)
 
 <h3>akrtws#4246  <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width="25" height="25" /></h3>
@@ -220,7 +220,7 @@ TE Commons Tech Spec + Implementation  Doc owner: Sem  The TE Commons DAO is goi
 
 _15-Oct-20 07:49 PM_:	💻
 
-@ManuAlzuru | &#129361;  Just wrapped a 2hr work sesh with Blair and we're almost there for a first iteration on the website content -- the Nav bars and sectioning is set, just still tweaking some content
+@ManuAlzuru - &#129361;  Just wrapped a 2hr work sesh with Blair and we're almost there for a first iteration on the website content -- the Nav bars and sectioning is set, just still tweaking some content
 @blairv will reach out to you about next steps and can help with Figma design mockups if we need --- also we have Marko as a resource for design.. I added you both to the Telegram design flow channel with Marko
 @griff We are eyeing something very similar to the style of Radical Exchange you can have a look in the doc if you wanna see the progress and will maybe need your help confirming permission from collaborators/partners to put them on our site
 
@@ -234,7 +234,7 @@ _16-Oct-20 01:16 PM_:	Here's the working Figma file for TEC design. Currently br
 
 [TEC](https://www.figma.com/file/MzkGQ17WWwsa2xpLHxNM1x/TEC?node-id=3%3A2)
 
-<h3>ManuAlzuru | &#129361;#5047  <img src="https://cdn.discordapp.com/avatars/399892650666229770/6286af0db0fba5c810d4104e78975197.png" width="25" height="25" /></h3>
+<h3>ManuAlzuru - &#129361;#5047  <img src="https://cdn.discordapp.com/avatars/399892650666229770/6286af0db0fba5c810d4104e78975197.png" width="25" height="25" /></h3>
 
 _16-Oct-20 02:43 PM_:	oh weirddd I didn't hear you
 
@@ -263,7 +263,7 @@ MANIFESTO
 
 [TEC Comms_Working Group](https://docs.google.com/document/d/17w_UVi7lJjUNtj1Ji1WGd7Osk-E0edmfIRNoGRSP3yI/edit)
 
-<h3>ManuAlzuru | &#129361;#5047  <img src="https://cdn.discordapp.com/avatars/399892650666229770/6286af0db0fba5c810d4104e78975197.png" width="25" height="25" /></h3>
+<h3>ManuAlzuru - &#129361;#5047  <img src="https://cdn.discordapp.com/avatars/399892650666229770/6286af0db0fba5c810d4104e78975197.png" width="25" height="25" /></h3>
 
 _20-Oct-20 12:20 PM_:	for sure brother
 
@@ -271,7 +271,7 @@ Miro link for today: [https://miro.com/app/board/o9J_kjDw5AE=/](https://miro.com
 Airtable: [https://airtable.com/invite/l?inviteId=invsIBy94ogf3OIRI&amp;inviteToken=e59aa828536c182f6ecf17eed93ca5dafec545eed1c2e0c5d87685955a3bb1be](https://airtable.com/invite/l?inviteId=invsIBy94ogf3OIRI&inviteToken=e59aa828536c182f6ecf17eed93ca5dafec545eed1c2e0c5d87685955a3bb1be)
 
 
-<h3>ManuAlzuru | &#129361;#5047  <img src="https://cdn.discordapp.com/avatars/399892650666229770/6286af0db0fba5c810d4104e78975197.png" width="25" height="25" /></h3>
+<h3>ManuAlzuru - &#129361;#5047  <img src="https://cdn.discordapp.com/avatars/399892650666229770/6286af0db0fba5c810d4104e78975197.png" width="25" height="25" /></h3>
 
 _23-Oct-20 03:56 PM_:	Hi @everyone, I just had a call with @griff after an intense day with the Token Engineering Academy. As you know, we haven't found the time to work on the story canvas for the hatching all together, so instead we are going to work async and on tuesday we will review what's done and synthesize everything. In order to keep track of your contributions, please choose an unique color for your postits and leave your name in at least one of them. Here is the miro board: [https://miro.com/app/board/o9J_kjDw5AE=/](https://miro.com/app/board/o9J_kjDw5AE=/) Password: TokenEngineering. Please make sure to work on the canvas that's called "hatching" which has a video (30min) where we cover important information about the hatch. 
 
@@ -529,7 +529,7 @@ _04-Dec-20 12:09 PM_:	@Dan Knobelsdorf.eth New Discord issues [https://github.co
 
 _08-Dec-20 12:15 PM_:	Pepe Doco: 
 
-[BFLIX | Watch Feels Good Man (2020) Online](https://www1.bflix.to/movie/feels-good-man-8xmzv/qx0427v)
+[BFLIX - Watch Feels Good Man (2020) Online](https://www1.bflix.to/movie/feels-good-man-8xmzv/qx0427v)
 
 ![](https://media.tenor.co/images/de018334da062c55d4cbd01190409031/tenor.png)
 

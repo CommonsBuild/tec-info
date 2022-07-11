@@ -353,7 +353,7 @@ _23-Apr-21 11:02 AM_:
 
 [https://www.netflix.com/co/title/81116948](https://www.netflix.com/co/title/81116948) I recommend this movie!
 
-La increíble historia de la Isla de las Rosas | Sitio oficial de Ne...
+La increíble historia de la Isla de las Rosas - Sitio oficial de Ne...
 
 Un ingeniero idealista construye su propia isla cerca de las costas de Italia y declara su independencia, captando la atención del Gobierno y del mundo entero.
 
@@ -771,7 +771,7 @@ _11-Jun-21 07:09 AM_:
 
 Maybe I should post this in CS? Maybe we can relay: Doesn't Trusted Seed/Swiss Association Membership become what is called an Investment Club? [https://www.sec.gov/reportspubs/investor-publications/investorpubsinvclubhtm.html](https://www.sec.gov/reportspubs/investor-publications/investorpubsinvclubhtm.html)
 
-SEC.gov | Investment Clubs and the SEC
+SEC.gov - Investment Clubs and the SEC
 
 Investment clubs and questions about them have grown tremendously. This document answers some of the most common questions and directs you to additional sources for further information.
 
@@ -851,7 +851,7 @@ _09-Jul-21 10:30 AM_:
 
 [https://termify.io/](https://termify.io/)
 
-Termify | Customized Privacy Policies and Terms & Conditions in sec...
+Termify - Customized Privacy Policies and Terms & Conditions in sec...
 
 We create customized Privacy Policies and Terms & Conditions in a matter of seconds to keep your business safe from any legal issue.
 
@@ -1089,7 +1089,7 @@ Twitter • 05-Oct-21 01:50 PM
 
 2
 
-<h3>PabloFM | NFT-Crap <img src="https://cdn.discordapp.com/avatars/392114912270483456/ed6e25ff3441367aea72e8b5d6c99d7d.png" width=25 height=25></h3>
+<h3>PabloFM - NFT-Crap <img src="https://cdn.discordapp.com/avatars/392114912270483456/ed6e25ff3441367aea72e8b5d6c99d7d.png" width=25 height=25></h3>
 
 _06-Oct-21 04:15 PM_:
 Hello! I need some help to understand how to build a legal by design DAO probably a hard request at this point of the technology. It would mean a world to me to have a call with someone that can give me some guidance.
@@ -1104,7 +1104,7 @@ NaN
 
 [Hi, I was wondering if anybody knew. If I have a company and it owns shares of another company can I dematerialize them into tokens (in luxembourg)](about:blank#)
 
-<h3>PabloFM | NFT-Crap <img src="https://cdn.discordapp.com/avatars/392114912270483456/ed6e25ff3441367aea72e8b5d6c99d7d.png" width=25 height=25></h3>
+<h3>PabloFM - NFT-Crap <img src="https://cdn.discordapp.com/avatars/392114912270483456/ed6e25ff3441367aea72e8b5d6c99d7d.png" width=25 height=25></h3>
 
 _06-Oct-21 04:29 PM_:
 
@@ -1224,7 +1224,7 @@ dpeazy
 
 [https://mobile.twitter.com/milesjennings/status/1453080226179608577](https://mobile.twitter.com/milesjennings/status/1453080226179608577)
 
-<h3>anson parker | utc -4 <img src="https://cdn.discordapp.com/avatars/476474330352451584/d5ea4e12c1c2c446befb58cf5a48c3a3.png" width=25 height=25></h3>
+<h3>anson parker - utc -4 <img src="https://cdn.discordapp.com/avatars/476474330352451584/d5ea4e12c1c2c446befb58cf5a48c3a3.png" width=25 height=25></h3>
 
 _02-Nov-21 11:14 AM_:
 
@@ -1238,7 +1238,7 @@ _02-Nov-21 11:15 AM_:
 
 Will share at next meeting
 
-<h3>anson parker | utc -4 <img src="https://cdn.discordapp.com/avatars/476474330352451584/d5ea4e12c1c2c446befb58cf5a48c3a3.png" width=25 height=25></h3>
+<h3>anson parker - utc -4 <img src="https://cdn.discordapp.com/avatars/476474330352451584/d5ea4e12c1c2c446befb58cf5a48c3a3.png" width=25 height=25></h3>
 
 _02-Nov-21 11:19 AM_:
 
@@ -2044,7 +2044,7 @@ Welcome @boonjue.eth! Looking forward to meeting you in our Legal sync
 
 1
 
-<h3>Davide | ValueUnbanking <img src="https://cdn.discordapp.com/avatars/784211400851587092/f7598e91337048289d104927fb3eefae.png" width=25 height=25></h3>
+<h3>Davide - ValueUnbanking <img src="https://cdn.discordapp.com/avatars/784211400851587092/f7598e91337048289d104927fb3eefae.png" width=25 height=25></h3>
 
 _25-Mar-22 10:48 AM_:
 

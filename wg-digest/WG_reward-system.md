@@ -325,7 +325,7 @@ liviade
 
 _20-May-21 11:41 AM_:
 
-sorry for connection issues. tentative plan sounds good. small wxDai (or other) distribution next mon or tues, aligned with a forum post. just need list w/ address | amt. csv or txt fine.
+sorry for connection issues. tentative plan sounds good. small wxDai (or other) distribution next mon or tues, aligned with a forum post. just need list w/ address - amt. csv or txt fine.
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
@@ -2436,7 +2436,7 @@ Documents
 
 ZenHub
 
-Project Management and Software Development with GitHub | ZenHub
+Project Management and Software Development with GitHub - ZenHub
 
 Praise / Rewards System
 
@@ -4669,7 +4669,7 @@ that's awesome. I think you would love to contribute with the data analysis part
 
 welcome!
 
-<h3>anson parker | utc -4 <img src="https://cdn.discordapp.com/avatars/476474330352451584/d5ea4e12c1c2c446befb58cf5a48c3a3.png" width=25 height=25></h3>
+<h3>anson parker - utc -4 <img src="https://cdn.discordapp.com/avatars/476474330352451584/d5ea4e12c1c2c446befb58cf5a48c3a3.png" width=25 height=25></h3>
 
 _26-Oct-21 01:58 PM_:
 
@@ -4677,7 +4677,7 @@ when is the next rewards meeting?
 
 ![https://cdn.discordapp.com/avatars/476474330352451584/d5ea4e12c1c2c446befb58cf5a48c3a3.png](https://cdn.discordapp.com/avatars/476474330352451584/d5ea4e12c1c2c446befb58cf5a48c3a3.png)
 
-anson parker | utc -4
+anson parker - utc -4
 
 [when is the next rewards meeting?](about:blank#)
 
@@ -4697,7 +4697,7 @@ liviade
 
 [thursday at 4pm CET](about:blank#)
 
-<h3>anson parker | utc -4 <img src="https://cdn.discordapp.com/avatars/476474330352451584/d5ea4e12c1c2c446befb58cf5a48c3a3.png" width=25 height=25></h3>
+<h3>anson parker - utc -4 <img src="https://cdn.discordapp.com/avatars/476474330352451584/d5ea4e12c1c2c446befb58cf5a48c3a3.png" width=25 height=25></h3>
 
 _26-Oct-21 02:23 PM_:
 
@@ -5556,7 +5556,7 @@ Tuxedo Winnie The Pooh
 
 2
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _10-Nov-21 03:13 PM_:
 I can help with tweets about the Rewards
@@ -5886,7 +5886,7 @@ Adding Aliases to SourceCred Ledger Programatically
 
 [https://tidycal.com/ryeder](https://tidycal.com/ryeder)
 
-Ryeder | TidyCal
+Ryeder - TidyCal
 
 Book a call with me:
 
@@ -6443,7 +6443,7 @@ Since, almost all rewards are going to incentivize people, we should be able to 
 
 [https://business.kaiserpermanente.org/insights/covid-19/trauma-informed-workplace](https://business.kaiserpermanente.org/insights/covid-19/trauma-informed-workplace)
 
-The New Workplace is Trauma-Informed | Kaiser Permanente
+The New Workplace is Trauma-Informed - Kaiser Permanente
 
 [https://www.mem-ins.com/blog/trauma-informed-workplaces-building-a-better-business-with-empathy-and-awareness/](https://www.mem-ins.com/blog/trauma-informed-workplaces-building-a-better-business-with-empathy-and-awareness/)
 
@@ -7067,7 +7067,7 @@ _03-Dec-21 10:29 AM_:
 
 Interesting post about internals of sourcecred that Kristofer shared during one of our syncs - [https://research.protocol.ai/blog/2020/sourcecred-an-introduction-to-calculating-cred-and-grain/](https://research.protocol.ai/blog/2020/sourcecred-an-introduction-to-calculating-cred-and-grain/)
 
-SourceCred: An Introduction to Calculating Cred and Grain | Protoco...
+SourceCred: An Introduction to Calculating Cred and Grain - Protoco...
 
 You may not know that Protocol Labs is a supporter of an open-source governance and sustainability project called SourceCred. As a participant in a small SourceCred meetup last month, I learned enough about the underlying algorithm that I wrote up an explainer for their documentation repo and thought it might be interesting to share it here as w...
 
@@ -7096,7 +7096,7 @@ I'm a bit behind btw team. Sourcecred is in a last week crunch before a month lo
 
 3
 
-<h3>Clayton | UMA <img src="https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png" width=25 height=25></h3>
+<h3>Clayton - UMA <img src="https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png" width=25 height=25></h3>
 
 _07-Dec-21 11:29 AM_:
 
@@ -7104,7 +7104,7 @@ Hi folks - Just butting in here. We tried coordinape for a "praise" model but fo
 
 ![https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png](https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png)
 
-Clayton | UMA
+Clayton - UMA
 
 [Hi folks - Just butting in here. We tried coordinape for a "praise" model but found it to have too much platform friction. As I can tell, you're going to use sourcecred to allow praise to be given out on Discord, not unlike tips?](about:blank#)
 
@@ -7128,13 +7128,13 @@ mitch (🍔, 🍔)
 
 [https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646](https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646)
 
-<h3>Clayton | UMA <img src="https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png" width=25 height=25></h3>
+<h3>Clayton - UMA <img src="https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png" width=25 height=25></h3>
 
 _07-Dec-21 08:04 PM_:
 
 Brilliant, thanks.
 
-<h3>Clayton | UMA <img src="https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png" width=25 height=25></h3>
+<h3>Clayton - UMA <img src="https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png" width=25 height=25></h3>
 
 _07-Dec-21 08:18 PM_:
 
@@ -7144,7 +7144,7 @@ So SourceCred is currently being developed? (by people here?)
 
 ![https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png](https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png)
 
-Clayton | UMA
+Clayton - UMA
 
 [So SourceCred is currently being developed? (by people here?)](about:blank#)
 
@@ -7186,7 +7186,7 @@ More discussion topics? Comment this message.
 
 ![https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png](https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png)
 
-Clayton | UMA
+Clayton - UMA
 
 [Hi folks - Just butting in here. We tried coordinape for a "praise" model but found it to have too much platform friction. As I can tell, you're going to use sourcecred to allow praise to be given out on Discord, not unlike tips?](about:blank#)
 
@@ -7212,7 +7212,7 @@ liviade
 
 [curious to what kind of problems you had with coordinape](about:blank#)
 
-<h3>Clayton | UMA <img src="https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png" width=25 height=25></h3>
+<h3>Clayton - UMA <img src="https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png" width=25 height=25></h3>
 
 _08-Dec-21 09:57 AM_:
 
@@ -7326,7 +7326,7 @@ The exported stats report /can sort and filter :
 
 [https://docs.google.com/spreadsheets/d/1JRIKPiJ1bGCytAEg-lI1KK4KOMJ19BM02jtqUqLksVg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1JRIKPiJ1bGCytAEg-lI1KK4KOMJ19BM02jtqUqLksVg/edit?usp=sharing)
 
-<h3>Clayton | UMA <img src="https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png" width=25 height=25></h3>
+<h3>Clayton - UMA <img src="https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png" width=25 height=25></h3>
 
 _09-Dec-21 08:06 AM_:
 
@@ -7340,7 +7340,7 @@ Impressive amount of data collected
 
 ![https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png](https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png)
 
-Clayton | UMA
+Clayton - UMA
 
 [this is very cool!](about:blank#)
 
@@ -12059,7 +12059,7 @@ Hello @Lewwwk, @Cesar, @Lin, @Jori Ethichub, @Media, seems like your DMs are clo
 
 _19-Apr-22 11:48 AM_:
 
-Hello @CMD Burrito, @Huxwell, @trangnv, @bitsikka, @daojoiner, @patogit | Akik Takat, @Juliet Ӿ LexyLab, @divine, @QZ, @Yashmanso, @Fobey, @Amrik, @peyton, @Edgar Arellano, @AnaTech, @James | Aptos Labs, @mercedesrodsim, @joseacabrerav, @Vitor Marthendal, @solarmkd, @vicente.eth, @D8N1, @notsure1, @SteveWright, @giulioquarta, @barnabé, @Gary Latta, @gruad, @Lucas | DefiSafety, @Austin, @glocalvr, @Tarun Gupta | Coinshift, @sukanshi.eth | Coinshift, @irenioskamoska, @Lisa JY Tan, @Julio Holon, @Ata, @Deepcryptodive | GoodGhosting, @stephenreid321, @gijsspoor, @Peter (porobov.eth) 🤖 , @eli_, @Rudi, @BenoîtK, @METADREAMER 🐙, @isysoares, @justkassie, @Miles. If you are named here, is because we couldn't send you a private message to let you know that **we are about to send out TEC tokens that you have earned!**. In order to be able to receive it you need to connect your Discord handle with your Ethereum address. This can be done by activating your account on our Discord server. **1. Go to TEC Praise channel “#praise” 2. Type “/activate” 3. Follow the prompt to the Praise Dashboard and then sign the message with your web wallet to complete the activation! ✅** 4. If you have any question or problem, drop it here!
+Hello @CMD Burrito, @Huxwell, @trangnv, @bitsikka, @daojoiner, @patogit - Akik Takat, @Juliet Ӿ LexyLab, @divine, @QZ, @Yashmanso, @Fobey, @Amrik, @peyton, @Edgar Arellano, @AnaTech, @James - Aptos Labs, @mercedesrodsim, @joseacabrerav, @Vitor Marthendal, @solarmkd, @vicente.eth, @D8N1, @notsure1, @SteveWright, @giulioquarta, @barnabé, @Gary Latta, @gruad, @Lucas - DefiSafety, @Austin, @glocalvr, @Tarun Gupta - Coinshift, @sukanshi.eth - Coinshift, @irenioskamoska, @Lisa JY Tan, @Julio Holon, @Ata, @Deepcryptodive - GoodGhosting, @stephenreid321, @gijsspoor, @Peter (porobov.eth) 🤖 , @eli_, @Rudi, @BenoîtK, @METADREAMER 🐙, @isysoares, @justkassie, @Miles. If you are named here, is because we couldn't send you a private message to let you know that **we are about to send out TEC tokens that you have earned!**. In order to be able to receive it you need to connect your Discord handle with your Ethereum address. This can be done by activating your account on our Discord server. **1. Go to TEC Praise channel “#praise” 2. Type “/activate” 3. Follow the prompt to the Praise Dashboard and then sign the message with your web wallet to complete the activation! ✅** 4. If you have any question or problem, drop it here!
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
@@ -12430,7 +12430,7 @@ also sent friend request (dm is closed for strangers for safety reasons
 
 Edu - TEC Steward.
 
-[Hello @CMD Burrito, @Huxwell, @trangnv, @bitsikka, @daojoiner, @patogit | Akik Takat, @Juliet Ӿ LexyLab, @divine, @QZ, @Yashmanso, @Fobey, @Amrik, @peyton, @Edgar Arellano, @AnaTech, @James | Aptos Labs, @mercedesrodsim, @joseacabrerav, @Vitor Marthendal, @solarmkd, @vicente.eth, @D8N1, @notsure1, @SteveWright, @giulioquarta, @barnabé, @Gary Latta, @gruad, @Lucas | DefiSafety, @Austin, @glocalvr, @Tarun Gupta | Coinshift, @sukanshi.eth | Coinshift, @irenioskamoska, @Lisa JY Tan, @Julio Holon, @Ata, @Deepcryptodive | GoodGhosting, @stephenreid321, @gijsspoor, @Peter (porobov.eth) 🤖 , @eli_, @Rudi, @BenoîtK, @METADREAMER 🐙, @isysoares, @justkassie, @Miles. If you are named here, is because we couldn't send you a private message to let you know that **we are about to send out TEC tokens that you have earned!**. In order to be able to receive it you need to connect your Discord handle with your Ethereum address. This can be done by activating your account on our Discord server. **1. Go to TEC Praise channel “#praise” 2. Type “/activate” 3. Follow the prompt to the Praise Dashboard and then sign the message with your web wallet to complete the activation! ✅** 4. If you have any question or problem, drop it here!](about:blank#)
+[Hello @CMD Burrito, @Huxwell, @trangnv, @bitsikka, @daojoiner, @patogit - Akik Takat, @Juliet Ӿ LexyLab, @divine, @QZ, @Yashmanso, @Fobey, @Amrik, @peyton, @Edgar Arellano, @AnaTech, @James - Aptos Labs, @mercedesrodsim, @joseacabrerav, @Vitor Marthendal, @solarmkd, @vicente.eth, @D8N1, @notsure1, @SteveWright, @giulioquarta, @barnabé, @Gary Latta, @gruad, @Lucas - DefiSafety, @Austin, @glocalvr, @Tarun Gupta - Coinshift, @sukanshi.eth - Coinshift, @irenioskamoska, @Lisa JY Tan, @Julio Holon, @Ata, @Deepcryptodive - GoodGhosting, @stephenreid321, @gijsspoor, @Peter (porobov.eth) 🤖 , @eli_, @Rudi, @BenoîtK, @METADREAMER 🐙, @isysoares, @justkassie, @Miles. If you are named here, is because we couldn't send you a private message to let you know that **we are about to send out TEC tokens that you have earned!**. In order to be able to receive it you need to connect your Discord handle with your Ethereum address. This can be done by activating your account on our Discord server. **1. Go to TEC Praise channel “#praise” 2. Type “/activate” 3. Follow the prompt to the Praise Dashboard and then sign the message with your web wallet to complete the activation! ✅** 4. If you have any question or problem, drop it here!](about:blank#)
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -12551,7 +12551,7 @@ The online questionnaire is up. To answer the questions below, please click on f
 
 -What problem do you see that SourceCred solves and for whom? -To you, what are the main benefits that SourceCred has provided to people who have used it? (Name up to three). For each benefit, describe how it was delivered in the product and your assessment of how well it did so. - What are the problems/opportunities that SourceCred (the product) should ignore and leave to other projects? (Name up to three). - What unexpected behaviours/practices influenced how contributions were recognised and rewarded by the SourceCred algorithm (if any)? - Can you describe a practice/ritual that enhanced the organisation's ability to function? - Can you describe a practice/ritual that inhibited the organisation's ability to function? - Knowing what you know now, describe one thing that you would do differently if you were to start, or become involved with, a similar project. - What years were you involved? (optional) - Anything else you’d like to add? - Do you agree to your answers being used in research outputs? Yes No -Would you like your answers to be attributed to you or would you prefer to remain anonymous? I consent to my name being used in research outputs [Text box: Add name] I would like my answers to remain anonymous
 
-Qualtrics Survey | Qualtrics Experience Management
+Qualtrics Survey - Qualtrics Experience Management
 
 Survey Software, Enterprise Survey software for enterprise feedback management and CRM solutions. Enables high-quality data collection, panel management and results analysis. Perfect for market research or CRM solution (Customer Relationship Management) integration. Free trial and consultation.
 

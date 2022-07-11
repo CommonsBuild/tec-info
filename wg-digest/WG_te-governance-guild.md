@@ -99,7 +99,7 @@ I don't know if you guys had seen this before
 
 _11-May-22 01:14 PM_:
 
-@zhiwei @inventandchill @Thomas @Emerick | Figment - the task of next week's session: - propose a guild project you'd like to work on - relevant for the TE community - motivated by your personal interest - add some facts: - how much time would you like to invest - what's the result? when consider it a success? - by when you'd like to achieve this result? @Thomas could you take over facilitating the next session? Let me know if you have any questions.
+@zhiwei @inventandchill @Thomas @Emerick - Figment - the task of next week's session: - propose a guild project you'd like to work on - relevant for the TE community - motivated by your personal interest - add some facts: - how much time would you like to invest - what's the result? when consider it a success? - by when you'd like to achieve this result? @Thomas could you take over facilitating the next session? Let me know if you have any questions.
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
@@ -109,7 +109,7 @@ _11-May-22 01:14 PM_:
 
 akrtws (TE Academy)
 
-[@zhiwei @inventandchill @Thomas @Emerick | Figment - the task of next week's session: - propose a guild project you'd like to work on - relevant for the TE community - motivated by your personal interest - add some facts: - how much time would you like to invest - what's the result? when consider it a success? - by when you'd like to achieve this result? @Thomas could you take over facilitating the next session? Let me know if you have any questions.](about:blank#)
+[@zhiwei @inventandchill @Thomas @Emerick - Figment - the task of next week's session: - propose a guild project you'd like to work on - relevant for the TE community - motivated by your personal interest - add some facts: - how much time would you like to invest - what's the result? when consider it a success? - by when you'd like to achieve this result? @Thomas could you take over facilitating the next session? Let me know if you have any questions.](about:blank#)
 
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 

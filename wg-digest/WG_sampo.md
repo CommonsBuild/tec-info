@@ -25,7 +25,7 @@ In the end, he creates the Sampo, a magical machine that produces an endless sup
 
 ![https://cdn.discordapp.com/attachments/969685567455498310/969730503534063698/Sampo_with_Faces.jpg](https://cdn.discordapp.com/attachments/969685567455498310/969730503534063698/Sampo_with_Faces.jpg)
 
-Ilmarinen | Wikiwand
+Ilmarinen - Wikiwand
 
 Ilmarinen , the Eternal Hammerer, blacksmith and inventor in the Kalevala, is a god[1] and archetypal artificer from Finnish mythology. He is immortal and capable of creating practically anything, but is portrayed as being unlucky in love.[2] He is described as working the known metals of the time, including brass, copper, iron, gold, and silver...
 
@@ -226,7 +226,7 @@ _03-May-22 05:03 PM_:
 
 btw, I know @natesuits on his document shared some thoughts about the TEC investing, these guys have worked with some big projects on the space, sharing bc it may be worth to give it a shot [https://llama.xyz/](https://llama.xyz/)
 
-Llama | Economic infrastructure for DAOs
+Llama - Economic infrastructure for DAOs
 
 Llama enables decentralized communities to allocate their treasuries and assess results.
 
@@ -2644,7 +2644,7 @@ hey everyone - today at 7pm CET in soft gov we'll chat about possible cultural i
 
 Soft Gov Weekly Agenda
 
-Soft Gov Agenda | June 22nd Attendees: Intro: Gardens governance feedback Gated channels - how do we feel about them? Soft Gov Agenda | June 15th Attendees: Nate, Chuy, Eduardo Intro: What is a question you wish you’d get asked more often? What is the TE flower, so much we don’t understand...
+Soft Gov Agenda - June 22nd Attendees: Intro: Gardens governance feedback Gated channels - how do we feel about them? Soft Gov Agenda - June 15th Attendees: Nate, Chuy, Eduardo Intro: What is a question you wish you’d get asked more often? What is the TE flower, so much we don’t understand...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 

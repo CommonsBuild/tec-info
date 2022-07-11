@@ -8,8 +8,6 @@ Token Engineering Commons
 
 The Soft Gov Working Group researches and applies best practices for governance, social collaboration and contribution rewards while implementing Ostrom’s 8 principles for governing the commons in its foundation. Weekly sync agenda: https://docs.google.com/document/d/1R8yLfht6GvGHr8VDvyZ-sVP1s54rPLY4MtXPBOqHtO0/edit#heading=h.78kgue2i6f6p
 
-
-
 ## links
 
 http://facebook.com/usaminuto
@@ -33,7 +31,6 @@ https://app.clarity.so/invite-link/qNp4ECvS2q
 https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/
 https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/tec-agreements-1/forum-voting
 https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/what-is-the-tec/the-cultural-build
-https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/what-is-the-tec/the-cultural-build)
 https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/~/drafts/-MaYeW1pOElc3v4f1A7r/cultural-components/transparency-or-mutual-accountability
 https://app.zenhub.com/login
 https://aragon.1hive.org/#/tecdrops/
@@ -133,7 +130,6 @@ https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296
 https://forum.tecommons.org/t/mvv-runoff-vote-now/348
 https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646
 https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/49
-https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/49)
 https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/50?u=liviade
 https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/62
 https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/88?u=liviade
@@ -150,7 +146,6 @@ https://gardens.1hive.org/
 https://gardensdao.eth.limo
 https://gardensdao.eth.limo/
 https://github.com/ArborVote
-https://github.com/ArborVote)
 https://github.com/CommonsBuild
 https://github.com/CommonsBuild/IH-intervention/blob/main/YGG/outputs/ALMOST-FINAL.csv
 https://github.com/CommonsBuild/IH-intervention/blob/main/YGG/outputs/COMBINED-WINNING-PROPOSALS.csv
@@ -162,7 +157,6 @@ https://github.com/CommonsBuild/IH-intervention/issues/9%5C
 https://github.com/CommonsBuild/TokenLog-SoftGov/issues/18
 https://github.com/CommonsBuild/commons-config-proposals/issues/110
 https://github.com/TECommons
-https://github.com/TECommons)
 https://github.com/aragon/network/blob/19f04cec8824cae7bc7300819a5fb369bbc1202e/agreement.md
 https://github.com/wslyvh/tokenlog/issues
 https://github.com/wslyvh/tokenlog/issues/new
@@ -182,9 +176,7 @@ https://imgflip.com/i/5ah7zd
 https://indicators.globalhealthknowledge.org/taxonomy/term/2
 https://join.slack.com/t/liberatingstructures/shared_invite/zt-ifsqwpkj-aXutEZ49Vf4aR4uoMKZhqQ
 https://kleros.io/
-https://kleros.io/)
 https://media.discordapp.net/attachments/810180622165213222/830192815417327626/Hulk_GIF-downsized.gif
-https://media.discordapp.net/attachments/810180622165213222/830192815417327626/Hulk_GIF-downsized.gif)
 https://medium.com/block-science/mapping-the-computer-aided-governance-process-2e47eaf70889
 https://medium.com/the-liberators/characteristics-of-powerful-invitations-for-liberating-structures-c9ac3a019e63
 https://medium.com/the-liberators/strategy-knotworking-turning-ideas-and-ambitions-into-reality-d7f968e79195
@@ -204,7 +196,6 @@ https://plato.stanford.edu/entries/hobbes-moral/#:~:text=Hobbes%20is%20famous%20
 https://plato.stanford.edu/entries/hobbes-moral/#:~:text=Hobbes%2520is%2520famous%2520for%2520his,%252C%2520free%252C%2520and%2520equal%2520persons
 https://quests-git-quest-redesign-1hive.vercel.app/#/home
 https://smartinvoice.xyz/
-https://smartinvoice.xyz/)
 https://snapshot.org/#/tecommons.eth
 https://snapshot.org/#/tecommons.eth/proposal/0x2607bd999ff4ed448c10cfee75a49653b3b50355cbcc19b06aa2ff678b46981c
 https://snapshot.org/#/tecommons.eth/proposal/0xc26d2b18ff67f6de730a7a6e591885b8c8812f299ec0d3e536db4b5b1ac9000d
@@ -213,7 +204,6 @@ https://t.co/4hYjL5LyyW
 https://t.co/GfPZedvIUU
 https://t.co/ajQkRmUMOv
 https://t.me/tecommons
-https://thepiratebay.org/torrent/9066073/Monty.Python.and.the.Holy.Grail.1975.1080p.BluRay.x264.anoXmous
 https://todddurkinmastermind.com/wp-content/uploads/2018/03/10-Forms-of-Wealth.pdf
 https://token-engineering-commons.gitbook.io/tec-handbook/
 https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/the-cultural-build
@@ -222,23 +212,6 @@ https://tokenlog.xyz/CommonsBuild/Token
 https://tokenlog.xyz/CommonsBuild/TokenLog-SoftGov
 https://tokenlog.xyz/CommonsBuild/coordination
 https://tokenlog.xyz/TECommons/TokenLog-SoftGov
-https://tokenlog.xyz/TECommons/TokenLog-SoftGov)
-https://twitter.com/InstitutOstrom
-https://twitter.com/InstitutOstrom/status/1435152529369804801
-https://twitter.com/MessariCrypto
-https://twitter.com/_liviade
-https://twitter.com/_liviade/status/1514775143146426387
-https://twitter.com/commonsstack
-https://twitter.com/commonsstack/status/1399752531484545030
-https://twitter.com/papa_raw
-https://twitter.com/papa_raw/status/1379343343432437765
-https://twitter.com/tecmns
-https://twitter.com/thegrifft
-https://twitter.com/thegrifft/status/1392176341219303425
-https://twitter.com/tokengineering/status/1394300900630478850
-https://twitter.com/votewithtally?s=11
-https://twitter.com/wslyvh
-https://twitter.com/wslyvh/status/1388457431563440128
 https://vitalik.ca/general/2021/03/23/legitimacy.html
 https://vitalik.ca/general/2021/08/16/voting3.html
 https://vitalik.ca/general/2021/10/31/cities.html
@@ -246,23 +219,11 @@ https://webinars.ethelo.org/evolution-of-dao-governance
 https://wiki.1hive.org/
 https://wiki.hyperledger.org/display/CASIG/DAO+Project
 https://www.16personalities.com/free-personality-test
-https://www.figma.com/file/YYL5Y8eEnFOR1M4AhIfKr9/0mega-%253C%253E-Soft-Gov?node-id=0%253A1
-https://www.figma.com/file/YYL5Y8eEnFOR1M4AhIfKr9/0mega-%3C%3E-Soft-Gov?node-id=0%3A1
-https://www.figma.com/file/eOpw3TGdXfstzkYJdyassn/TEC-SWOT-Analysis?node-id=0%253A1
-https://www.figma.com/file/eOpw3TGdXfstzkYJdyassn/TEC-SWOT-Analysis?node-id=0%3A1
-https://www.figma.com/file/f4aaeA6BzXSFnTd3ufKax3/%22Sampo%22-Jam?node-id=0%3A1
-https://www.figma.com/file/f4aaeA6BzXSFnTd3ufKax3/%2522Sampo%2522-Jam?node-id=0%253A1
-https://www.figma.com/file/rx0IrFeV0X1t5gI4wAkXb0/TE-Flower-update
-https://www.figma.com/file/rx0IrFeV0X1t5gI4wAkXb0/TE-Flower-update?node-id=0%253A1
-https://www.figma.com/file/rx0IrFeV0X1t5gI4wAkXb0/TE-Flower-update?node-id=0%3A1
-https://www.figma.com/proto/eIu9GyVkh9QJfVVxEpkdeM/Quest-Redesign?page-id=158%253A300&node-id=945%253A836&viewport=241%252C48%252C0.29&scaling=min-zoom
-https://www.figma.com/proto/eIu9GyVkh9QJfVVxEpkdeM/Quest-Redesign?page-id=158%3A300&node-id=945%3A836&viewport=241%2C48%2C0.29&scaling=min-zoom
 https://www.frontiersin.org/articles/10.3389/fhumd.2021.641731/full
 https://www.gravatar.com/avatar/6d47aca084399802118974feecbbf4f0?s=400
 https://www.holacracy.org/
 https://www.humanetech.com/podcast
 https://www.kialo.com/should-humans-act-to-fight-climate-change-4540
-https://www.kialo.com/should-humans-act-to-fight-climate-change-4540)
 https://www.liberatingstructures.com/1-1-2-4-all/
 https://www.liberatingstructures.com/bookstore/
 https://www.liberatingstructures.com/storage/articles-nascent-ls/LS%20Card%20Deck%20-%205th%20edition.pdf
@@ -317,6 +278,30 @@ https://youtu.be/t2c-X8HiBng
 https://youtu.be/uGqpVUN3jdk
 https://youtu.be/vlAxW9rj_Sc
 
+
+### Twitter
+https://twitter.com/InstitutOstrom/status/1435152529369804801
+https://twitter.com/_liviade/status/1514775143146426387
+https://twitter.com/commonsstack/status/1399752531484545030
+https://twitter.com/papa_raw/status/1379343343432437765
+https://twitter.com/thegrifft/status/1392176341219303425
+https://twitter.com/tokengineering/status/1394300900630478850
+https://twitter.com/wslyvh/status/1388457431563440128
+
+### Figma
+https://www.figma.com/file/YYL5Y8eEnFOR1M4AhIfKr9/0mega-%253C%253E-Soft-Gov?node-id=0%253A1
+https://www.figma.com/file/YYL5Y8eEnFOR1M4AhIfKr9/0mega-%3C%3E-Soft-Gov?node-id=0%3A1
+https://www.figma.com/file/eOpw3TGdXfstzkYJdyassn/TEC-SWOT-Analysis?node-id=0%253A1
+https://www.figma.com/file/eOpw3TGdXfstzkYJdyassn/TEC-SWOT-Analysis?node-id=0%3A1
+https://www.figma.com/file/f4aaeA6BzXSFnTd3ufKax3/%22Sampo%22-Jam?node-id=0%3A1
+https://www.figma.com/file/f4aaeA6BzXSFnTd3ufKax3/%2522Sampo%2522-Jam?node-id=0%253A1
+https://www.figma.com/file/rx0IrFeV0X1t5gI4wAkXb0/TE-Flower-update
+https://www.figma.com/file/rx0IrFeV0X1t5gI4wAkXb0/TE-Flower-update?node-id=0%253A1
+https://www.figma.com/file/rx0IrFeV0X1t5gI4wAkXb0/TE-Flower-update?node-id=0%3A1
+https://www.figma.com/proto/eIu9GyVkh9QJfVVxEpkdeM/Quest-Redesign?page-id=158%253A300&node-id=945%253A836&viewport=241%252C48%252C0.29&scaling=min-zoom
+https://www.figma.com/proto/eIu9GyVkh9QJfVVxEpkdeM/Quest-Redesign?page-id=158%3A300&node-id=945%3A836&viewport=241%2C48%2C0.29&scaling=min-zoom
+
+
 ## After 19-Mar-21 12:00 AM
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
@@ -327,7 +312,7 @@ _23-Mar-21 02:01 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | March 23rd
+Soft Gov Agenda - March 23rd
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
@@ -488,7 +473,7 @@ I've just gone down the DDO rabbit hole quite a bit and I think these videos are
 
 [Majid Al Futtaim](https://www.youtube.com/channel/UCFzNqzql_52bu14n0cI24ug)
 
-Deliberately Developmental Organisations | Andrew Fleming
+Deliberately Developmental Organisations - Andrew Fleming
 
 Andrew Fleming takes the stage at the 2019 Majid Al Futtaim Corporate Summit in Dubai, United Arab Emirates. He shares insights and learnings from his own experience at Way to Grow INC, a unique organizational development firm that accelerated employee, team and company growth.
 
@@ -822,7 +807,7 @@ _13-Apr-21 01:02 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | March 30
+Soft Gov Agenda - March 30
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
@@ -851,7 +836,7 @@ This is the video i was talking about
 
 La entrevista que Maluma le realizó a Sadhguru- Minuto USA
 
-Las últimas noticias de los Estados Unidos |The latest US news
+Las últimas noticias de los Estados Unidos -The latest US news
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f4f2.png" width=50 height=50>
 
@@ -1281,7 +1266,7 @@ _18-Apr-21 10:05 AM_:
 
 Ostrom’s Principles and the TEC
 
-MVV runoff | Apr 18th 1. Advancing TE for the benefit of humanity Vision The TEC is advancing the field of Token Engineering to support the ethical and robust design of complex tokenized systems for the benefit of humanity. Mission To steward efficient collection and distribution of funds to TE...
+MVV runoff - Apr 18th 1. Advancing TE for the benefit of humanity Vision The TEC is advancing the field of Token Engineering to support the ethical and robust design of complex tokenized systems for the benefit of humanity. Mission To steward efficient collection and distribution of funds to TE...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -1354,7 +1339,7 @@ Agenda: [https://docs.google.com/document/d/1R8yLfht6GvGHr8VDvyZ-sVP1s54rPLY4MtX
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Apr 20th
+Soft Gov Agenda - Apr 20th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
@@ -1476,7 +1461,7 @@ _27-Apr-21 01:00 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Apr 27th
+Soft Gov Agenda - Apr 27th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
@@ -1488,7 +1473,7 @@ Roadmap Inro: MVV final results! VOTE :D
 
 [https://tokenlog.xyz/CommonsBuild/TokenLog-SoftGov](https://tokenlog.xyz/CommonsBuild/TokenLog-SoftGov)
 
-Open discussion Schedule committee call Soft Gov Agenda | Apr 20th
+Open discussion Schedule committee call Soft Gov Agenda - Apr 20th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
@@ -1873,7 +1858,7 @@ _04-May-21 01:00 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | May 4th
+Soft Gov Agenda - May 4th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
@@ -2021,7 +2006,7 @@ _18-May-21 01:03 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | May 18th
+Soft Gov Agenda - May 18th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
@@ -2109,7 +2094,7 @@ _25-May-21 01:05 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | May 18th
+Soft Gov Agenda - May 18th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
@@ -2123,7 +2108,7 @@ Roadmap Inro: Praise analysis People’s unique situations. Let’s start our s
 
 [https://hackmd.io/t3VzO6jwSx-AcKyJiopmrw](https://hackmd.io/t3VzO6jwSx-AcKyJiopmrw)
 
-Soft Gov Agenda | May 18th
+Soft Gov Agenda - May 18th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
@@ -2189,7 +2174,7 @@ _26-May-21 07:41 AM_:
 
 Many here will enjoy this paper on governance in peer communities. Hot off the press! [https://www.frontiersin.org/articles/10.3389/fhumd.2021.641731/full](https://www.frontiersin.org/articles/10.3389/fhumd.2021.641731/full)
 
-Frontiers | The Dissensus Protocol: Governing Differences in Online...
+Frontiers - The Dissensus Protocol: Governing Differences in Online...
 
 Peer-to-peer networks and protocols have inspired new ideas and ideologies about governance, with the aim of using technology to enable horizontal and decentralised decision making at scale. This paper introduces the concept of ‘dissensus’ from political theory to debates about peer governance in online communities. Dissensus describes the emerg...
 
@@ -2240,7 +2225,7 @@ _01-Jun-21 12:58 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Jun 1st
+Soft Gov Agenda - Jun 1st
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
@@ -2436,7 +2421,7 @@ _08-Jun-21 01:02 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Jun 1st
+Soft Gov Agenda - Jun 1st
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
@@ -2521,7 +2506,7 @@ _15-Jun-21 01:03 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Jun 15th
+Soft Gov Agenda - Jun 15th
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
@@ -2712,7 +2697,7 @@ today's agenda [https://docs.google.com/document/d/1R8yLfht6GvGHr8VDvyZ-sVP1s54r
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Praise Analysis Jun 22nd Attendees: Labs team - praise analysis tools and findings. Praise Analysis Dashboard HackMD Impact Hour Analysis Part 1: Overall Distribution Analysis of Impact Hours for Retweeting and Attending Meetings Decision making process and the problem s...
+Soft Gov Agenda - Praise Analysis Jun 22nd Attendees: Labs team - praise analysis tools and findings. Praise Analysis Dashboard HackMD Impact Hour Analysis Part 1: Overall Distribution Analysis of Impact Hours for Retweeting and Attending Meetings Decision making process and the problem s...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -3145,7 +3130,7 @@ thanks for letting us know Anna-Marie!
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Jun 29th Attendees: Intro: 1. Does this proposal address that some categories may be under rewarded and others over rewarded? Yes/No 2. Does this proposal address that paid contributors have had a 50-85% reduction to their total number of impact hours? Yes/No 3. Does t...
+Soft Gov Agenda - Jun 29th Attendees: Intro: 1. Does this proposal address that some categories may be under rewarded and others over rewarded? Yes/No 2. Does this proposal address that paid contributors have had a 50-85% reduction to their total number of impact hours? Yes/No 3. Does t...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -3441,7 +3426,7 @@ _02-Jul-21 03:22 PM_:
 
 Tokenlog IH-intervention
 
-data closed,_id,org,repo,number,amount,cost,tokenAddress,timestamp,address,signature,__v 60d59704478d710008df4838,commonsbuild,ih-intervention,1,22,484,0xc4fbE68522ba81a28879763C3eE33e08b13c499E|0xdf2c3c8764a92eb43d2eea0a4c2d77c2306b0835,2021-06-25T08:42:11.027Z,0xaa79B87DC8B046A5E4f7D03F1562D7f...
+data closed,_id,org,repo,number,amount,cost,tokenAddress,timestamp,address,signature,__v 60d59704478d710008df4838,commonsbuild,ih-intervention,1,22,484,0xc4fbE68522ba81a28879763C3eE33e08b13c499E-0xdf2c3c8764a92eb43d2eea0a4c2d77c2306b0835,2021-06-25T08:42:11.027Z,0xaa79B87DC8B046A5E4f7D03F1562D7f...
 
 [https://lh5.googleusercontent.com/CK_NnA4kaAJ0n3wv0LWfI0eoV5ER-nde8-x3AouXrSXJpSTwhwORQRN1lcm_LxV8aXqtzp_pdltH1g=w1200-h630-p](https://lh5.googleusercontent.com/CK_NnA4kaAJ0n3wv0LWfI0eoV5ER-nde8-x3AouXrSXJpSTwhwORQRN1lcm_LxV8aXqtzp_pdltH1g=w1200-h630-p)
 
@@ -3477,7 +3462,7 @@ _02-Jul-21 04:15 PM_:
 
 this was the test I mentioned in case anyone else is interested! [https://www.16personalities.com/free-personality-test](https://www.16personalities.com/free-personality-test)
 
-Free personality test | 16Personalities
+Free personality test - 16Personalities
 
 ![https://static.neris-assets.com/images/personality-types/headers/fb/logo.png](https://static.neris-assets.com/images/personality-types/headers/fb/logo.png)
 
@@ -3582,7 +3567,7 @@ _06-Jul-21 01:14 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Jul 6th Attendees: mount manu, Anna-Marie, juank, tam, livia, griff, eduardo, nate, zer8, santi, david, santi Intro: intentions and distractions IH discussion Agreements are good until they need to change, but now there is a resistance to change so I’m confused about it. IH di...
+Soft Gov Agenda - Jul 6th Attendees: mount manu, Anna-Marie, juank, tam, livia, griff, eduardo, nate, zer8, santi, david, santi Intro: intentions and distractions IH discussion Agreements are good until they need to change, but now there is a resistance to change so I’m confused about it. IH di...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -3857,7 +3842,7 @@ _09-Jul-21 04:58 PM_:
 
 Yeah it will address it... it will smooth it out
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _10-Jul-21 05:11 AM_:
 
@@ -3865,7 +3850,7 @@ I am pretty new and I can’t seem to find my name on there but I should have at
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [I am pretty new and I can’t seem to find my name on there but I should have at least a couple IH. Can you help me understand please?  (edited)](about:blank#)
 
@@ -3880,7 +3865,7 @@ not sure why this isn't part of the IH Distribution Analysis
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _10-Jul-21 11:47 AM_:
 
@@ -3898,7 +3883,7 @@ Total Impact Hours so far Total IH: ,11501.522 Handle,Impact Hours,Payment Statu
 
 [https://lh3.googleusercontent.com/Hqgm7o4lHxFfXX9K90TCKPOI9QePNhkZc64yEC4BNqGzIitnFgdwWLhaZtShm-WleGGPYadbUpD14Q=w1200-h630-p](https://lh3.googleusercontent.com/Hqgm7o4lHxFfXX9K90TCKPOI9QePNhkZc64yEC4BNqGzIitnFgdwWLhaZtShm-WleGGPYadbUpD14Q=w1200-h630-p)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _11-Jul-21 03:09 PM_:
 
@@ -3910,13 +3895,13 @@ _11-Jul-21 03:10 PM_:
 
 Always
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _11-Jul-21 03:15 PM_:
 
 i can't believe how complex and work-intensive the praise is. You folks are spreadsheet heros!
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _11-Jul-21 03:27 PM_:
 
@@ -4090,7 +4075,7 @@ _13-Jul-21 01:10 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Jul 13th Attendees: Using Dashlane as TEC credentials manager - Forum voting Credential management - Advice Process Forum Voting Agreements - [https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/tec-agreements-1/forum-voting](https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/tec-agreements-1/forum-voting) Soft Gov Agenda | Jul 6th Atten...
+Soft Gov Agenda - Jul 13th Attendees: Using Dashlane as TEC credentials manager - Forum voting Credential management - Advice Process Forum Voting Agreements - [https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/tec-agreements-1/forum-voting](https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/tec-agreements-1/forum-voting) Soft Gov Agenda - Jul 6th Atten...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -4329,7 +4314,7 @@ _27-Jul-21 01:02 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Jul 27th Attendees: Intro: Revise Decisions [https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0](https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0) Re-structure Advice Process Finish setting up snapshot Soft Gov Agenda | Jul 13th Attendees: santi, katy, griff, zep, anna-marie, ...
+Soft Gov Agenda - Jul 27th Attendees: Intro: Revise Decisions [https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0](https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0) Re-structure Advice Process Finish setting up snapshot Soft Gov Agenda - Jul 13th Attendees: santi, katy, griff, zep, anna-marie, ...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -4623,7 +4608,7 @@ _10-Aug-21 01:00 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Aug Attendees: Intro: Proposal lobbying - raised by Manu [https://miro.com/app/board/o9J_kkC0kIM=/](https://miro.com/app/board/o9J_kkC0kIM=/) Guidelines for proposal making - raised by Eduardo [https://forum.tecommons.org/c/proposals/if-youre-requesting-funds-from-the-commons-post-your-proposal-here-using-the-proposal](https://forum.tecommons.org/c/proposals/if-youre-requesting-funds-from-the-commons-post-your-proposal-here-using-the-proposal)...
+Soft Gov Agenda - Aug Attendees: Intro: Proposal lobbying - raised by Manu [https://miro.com/app/board/o9J_kkC0kIM=/](https://miro.com/app/board/o9J_kkC0kIM=/) Guidelines for proposal making - raised by Eduardo [https://forum.tecommons.org/c/proposals/if-youre-requesting-funds-from-the-commons-post-your-proposal-here-using-the-proposal](https://forum.tecommons.org/c/proposals/if-youre-requesting-funds-from-the-commons-post-your-proposal-here-using-the-proposal)...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -4655,7 +4640,7 @@ _17-Aug-21 12:59 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Aug 17th Attendees: Intro: Peer Reviews as means to achieve “quality consent” [https://discovery.ucl.ac.uk/id/eprint/1517822/](https://discovery.ucl.ac.uk/id/eprint/1517822/) Guidelines for proposal making - raised by Eduardo [https://forum.tecommons.org/c/proposals/if-youre-requesting-funds-from-the-commons-post-your-pro](https://forum.tecommons.org/c/proposals/if-youre-requesting-funds-from-the-commons-post-your-pro)...
+Soft Gov Agenda - Aug 17th Attendees: Intro: Peer Reviews as means to achieve “quality consent” [https://discovery.ucl.ac.uk/id/eprint/1517822/](https://discovery.ucl.ac.uk/id/eprint/1517822/) Guidelines for proposal making - raised by Eduardo [https://forum.tecommons.org/c/proposals/if-youre-requesting-funds-from-the-commons-post-your-pro](https://forum.tecommons.org/c/proposals/if-youre-requesting-funds-from-the-commons-post-your-pro)...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -5103,7 +5088,7 @@ _06-Sep-21 04:12 PM_:
 
 [TED](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug)
 
-How to build a company where the best ideas win | Ray Dalio
+How to build a company where the best ideas win - Ray Dalio
 
 What if you knew what your coworkers really thought about you and what they were really like? Ray Dalio makes the business case for using radical transparency and algorithmic decision-making to create an idea meritocracy where people can speak up and say what they really think -- even calling out the boss is fair game. Learn more about how these...
 
@@ -5179,7 +5164,7 @@ _07-Sep-21 01:03 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Sep 7th Attendees: Intro Poli Governance: Token log - Params Snapshot - Voting Types Advice process - what types of decisions can be taken only by advice process? Reward system moving forward Vote on whether we should implement the interoperability between Praise, Sour...
+Soft Gov Agenda - Sep 7th Attendees: Intro Poli Governance: Token log - Params Snapshot - Voting Types Advice process - what types of decisions can be taken only by advice process? Reward system moving forward Vote on whether we should implement the interoperability between Praise, Sour...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -5205,7 +5190,7 @@ _14-Sep-21 12:57 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Sep 7th Attendees: Intro: Decision Making Guide Status of proposals Soft Gov Agenda | Sep 7th Attendees: Katy, Intro: What are 2 things you want to let go of, and something you want to welcome in Poli Governance: Token log - Params Snapshot - Voting Types Advice p...
+Soft Gov Agenda - Sep 7th Attendees: Intro: Decision Making Guide Status of proposals Soft Gov Agenda - Sep 7th Attendees: Katy, Intro: What are 2 things you want to let go of, and something you want to welcome in Poli Governance: Token log - Params Snapshot - Voting Types Advice p...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -5328,7 +5313,7 @@ _21-Sep-21 01:03 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Sep 21st Attendees: Intro: Is there anything in the culture we should abandon? Does it feel like anything is holding us back? If so, how to make this transition? [https://miro.com/app/board/o9J_lYcRTik=/](https://miro.com/app/board/o9J_lYcRTik=/) Case Study Survey Insights inefficiencies in decision making / bure...
+Soft Gov Agenda - Sep 21st Attendees: Intro: Is there anything in the culture we should abandon? Does it feel like anything is holding us back? If so, how to make this transition? [https://miro.com/app/board/o9J_lYcRTik=/](https://miro.com/app/board/o9J_lYcRTik=/) Case Study Survey Insights inefficiencies in decision making / bure...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -5353,7 +5338,7 @@ _21-Sep-21 01:41 PM_:
 
 [https://miro.com/app/board/o9J_lYcRTik=/](https://miro.com/app/board/o9J_lYcRTik=/)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 10M+ users from around the world
 
@@ -5713,7 +5698,7 @@ _28-Sep-21 01:01 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Sep 28th Attendees: Intro: Miro board action items Snapshot proposal template 75% gov giveback Soft Gov Agenda | Sep 21st Attendees: nic, chuy, Intro: Is there anything in the culture we should abandon? Does it feel like anything is holding us back? If so, how to mak...
+Soft Gov Agenda - Sep 28th Attendees: Intro: Miro board action items Snapshot proposal template 75% gov giveback Soft Gov Agenda - Sep 21st Attendees: nic, chuy, Intro: Is there anything in the culture we should abandon? Does it feel like anything is holding us back? If so, how to mak...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -5819,7 +5804,7 @@ _05-Oct-21 01:02 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Sep 28th Attendees: Intro: Decision Making Guide - Let’s make it visual! [https://docs.google.com/document/d/184HxFPpbVCuQSlq6Wu333YvXUT4VLp2HMYFqQ_OEkXs/edit](https://docs.google.com/document/d/184HxFPpbVCuQSlq6Wu333YvXUT4VLp2HMYFqQ_OEkXs/edit) Soft Gov Agenda | Sep 28th Attendees: durgadas, nate, zeptimus, tam, bends, manu, nate, nic, dyor, apeironcreations, ...
+Soft Gov Agenda - Sep 28th Attendees: Intro: Decision Making Guide - Let’s make it visual! [https://docs.google.com/document/d/184HxFPpbVCuQSlq6Wu333YvXUT4VLp2HMYFqQ_OEkXs/edit](https://docs.google.com/document/d/184HxFPpbVCuQSlq6Wu333YvXUT4VLp2HMYFqQ_OEkXs/edit) Soft Gov Agenda - Sep 28th Attendees: durgadas, nate, zeptimus, tam, bends, manu, nate, nic, dyor, apeironcreations, ...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -5969,7 +5954,7 @@ _12-Oct-21 11:52 AM_:
 
 ZenHub
 
-Project Management and Software Development with GitHub | ZenHub
+Project Management and Software Development with GitHub - ZenHub
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -5993,7 +5978,7 @@ _12-Oct-21 01:02 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda | Oct 12th Attendees: Intro: Rewards, punishment and psychology. How is your relationship with rewards? Rewards systems as a form of soft governance. Glossary Snapshot template Snapshot update - only token holders can submit proposals now Peer to peer feedback Soft Gov...
+Soft Gov Agenda - Oct 12th Attendees: Intro: Rewards, punishment and psychology. How is your relationship with rewards? Rewards systems as a form of soft governance. Glossary Snapshot template Snapshot update - only token holders can submit proposals now Peer to peer feedback Soft Gov...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -6009,7 +5994,7 @@ _12-Oct-21 01:15 PM_:
 
 [https://www.success.com/sharma-the-8-forms-of-wealth/](https://www.success.com/sharma-the-8-forms-of-wealth/)
 
-Sharma: The 8 Forms of Wealth | SUCCESS
+Sharma: The 8 Forms of Wealth - SUCCESS
 
 Editor’s note: This is the fifth in the series of Robin Sharma blog posts for his six-week leade
 
@@ -6278,7 +6263,7 @@ Every week on Tuesday UTC
 
 ![https://cdn.discordapp.com/attachments/810180622017757185/902541834113388574/TEC_SoftGov_WG_banner.jpg](https://cdn.discordapp.com/attachments/810180622017757185/902541834113388574/TEC_SoftGov_WG_banner.jpg)
 
-📝 Edit | Created by Tam2140
+📝 Edit - Created by Tam2140
 
 <img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
@@ -6354,7 +6339,7 @@ Every week on Tuesday UTC
 
 ![https://cdn.discordapp.com/attachments/810180622017757185/902541834113388574/TEC_SoftGov_WG_banner.jpg](https://cdn.discordapp.com/attachments/810180622017757185/902541834113388574/TEC_SoftGov_WG_banner.jpg)
 
-📝 Edit | Created by Tam2140
+📝 Edit - Created by Tam2140
 
 <img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
@@ -6516,7 +6501,7 @@ Attendees (0)
 
 ![https://cdn.discordapp.com/attachments/810180622017757185/902541834113388574/TEC_SoftGov_WG_banner.jpg](https://cdn.discordapp.com/attachments/810180622017757185/902541834113388574/TEC_SoftGov_WG_banner.jpg)
 
-✅ RSVP | 📝 Edit | Created by Tam2140
+✅ RSVP - 📝 Edit - Created by Tam2140
 
 <img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
@@ -6574,7 +6559,7 @@ Attendees (0)
 
 ![https://cdn.discordapp.com/attachments/810180622017757185/902541834113388574/TEC_SoftGov_WG_banner.jpg](https://cdn.discordapp.com/attachments/810180622017757185/902541834113388574/TEC_SoftGov_WG_banner.jpg)
 
-✅ RSVP | 📝 Edit | Created by Tam2140
+✅ RSVP - 📝 Edit - Created by Tam2140
 
 <img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
@@ -6845,7 +6830,7 @@ _16-Nov-21 01:43 PM_:
 
 [https://miro.com/welcomeonboard/bm5JdlZiZ0J1RVV1SDd2Y2tTaEN2ZDFQR0pJS3FGTlFWNkphU0pKZFRnbDBsbUxqczhuTGJDZWJqSVlrbXZUQnwzMDc0NDU3MzUzNTYyNDg3MzAx?invite_link_id=199697659427](https://miro.com/welcomeonboard/bm5JdlZiZ0J1RVV1SDd2Y2tTaEN2ZDFQR0pJS3FGTlFWNkphU0pKZFRnbDBsbUxqczhuTGJDZWJqSVlrbXZUQnwzMDc0NDU3MzUzNTYyNDg3MzAx?invite_link_id=199697659427)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 10M+ users from around the world
 
@@ -6887,7 +6872,7 @@ Every week on Tuesday UTC
 
 ![https://cdn.discordapp.com/attachments/810180622017757185/902541834113388574/TEC_SoftGov_WG_banner.jpg](https://cdn.discordapp.com/attachments/810180622017757185/902541834113388574/TEC_SoftGov_WG_banner.jpg)
 
-📝 Edit | Created by Tam2140
+📝 Edit - Created by Tam2140
 
 <img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
@@ -6977,7 +6962,7 @@ _23-Nov-21 01:05 PM_:
 
 [https://miro.com/app/board/o9J_lYcRTik=/](https://miro.com/app/board/o9J_lYcRTik=/)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 10M+ users from around the world
 
@@ -7058,7 +7043,7 @@ _30-Nov-21 01:02 PM_:
 
 [https://miro.com/app/board/o9J_lYcRTik=/](https://miro.com/app/board/o9J_lYcRTik=/)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 10M+ users from around the world
 
@@ -7099,7 +7084,7 @@ _30-Nov-21 01:28 PM_:
 
 [https://miro.com/app/board/o9J_lYcRTik=/](https://miro.com/app/board/o9J_lYcRTik=/)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 10M+ users from around the world
 
@@ -7473,7 +7458,7 @@ _04-Jan-22 01:02 PM_:
 
 Soft Gov Weekly Agenda
 
-Soft Gov Agenda | Jan 4th Attendees: Intro: name something you to want to invite into your new year! Ostrom’s Principles - Ecosystem Health Pamphlets and Commons upgrade votes Covenant Soft Gov Agenda | Dec 21st Final votes - 5 top proposals Runoff votes start on Jan 7th Panfle...
+Soft Gov Agenda - Jan 4th Attendees: Intro: name something you to want to invite into your new year! Ostrom’s Principles - Ecosystem Health Pamphlets and Commons upgrade votes Covenant Soft Gov Agenda - Dec 21st Final votes - 5 top proposals Runoff votes start on Jan 7th Panfle...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -7776,7 +7761,7 @@ _25-Jan-22 01:20 PM_:
 
 [https://miro.com/app/board/o9J_lYcRTik=/](https://miro.com/app/board/o9J_lYcRTik=/)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 30M+ users from around the world
 
@@ -7973,7 +7958,7 @@ _15-Feb-22 01:01 PM_:
 
 Soft Gov Weekly Agenda
 
-Soft Gov Agenda | Feb 15th Attendees: Bends, Durgadas, Miguelb, Zepti, enti, Intro: What needs to be questioned? (process, culture, organization) IDEATION Week Advice Process - Pamphlets, Accessibility, Use, Tracking (Jeremy, Nate) Advice process pamphlets Advice Artifacts/Invitations Gardens...
+Soft Gov Agenda - Feb 15th Attendees: Bends, Durgadas, Miguelb, Zepti, enti, Intro: What needs to be questioned? (process, culture, organization) IDEATION Week Advice Process - Pamphlets, Accessibility, Use, Tracking (Jeremy, Nate) Advice process pamphlets Advice Artifacts/Invitations Gardens...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -8130,7 +8115,7 @@ _01-Mar-22 01:43 PM_:
 
 Sharing link to Camunda which is a good tool for automating processes. This may be useful in thinking around digitizing the Advice Process. [https://camunda.com/](https://camunda.com/)
 
-Workflow and Decision Automation Platform | Camunda
+Workflow and Decision Automation Platform - Camunda
 
 Open source platform for BPMN workflow and DMN decision automation. Download now.
 
@@ -8140,7 +8125,7 @@ Open source platform for BPMN workflow and DMN decision automation. Download now
 
 1
 
-<h3>Laurence Ion | VitaDAO steward <img src="https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png" width=25 height=25></h3>
+<h3>Laurence Ion - VitaDAO steward <img src="https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png" width=25 height=25></h3>
 
 _06-Mar-22 08:47 AM_:
 
@@ -8156,7 +8141,7 @@ I'd like some feedback
 
 ![https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png](https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png)
 
-Laurence Ion | VitaDAO steward
+Laurence Ion - VitaDAO steward
 
 [I have a governance question around appointing new stewards: if I'm understanding correctly, you allow any existing steward to challenge the nomination of a new steward, right? Why require unanimous support, and not supermajority or majority approval? cc @griff (💜, 💜)@Juankbell  (edited)](about:blank#)
 
@@ -8350,7 +8335,7 @@ _15-Mar-22 02:04 PM_:
 
 Soft Gov Weekly Agenda
 
-Soft Gov Agenda | March 15 Attendees: Intro: Accountability for CV proposals identify key points of the cultural build that need to be communicated to every new comer [https://miro.com/app/board/o9J_lYcRTik=/](https://miro.com/app/board/o9J_lYcRTik=/) [https://www.showkarma.xyz/dao/delegates/gitcoin](https://www.showkarma.xyz/dao/delegates/gitcoin) Advice process pamphlets (Nate) S...
+Soft Gov Agenda - March 15 Attendees: Intro: Accountability for CV proposals identify key points of the cultural build that need to be communicated to every new comer [https://miro.com/app/board/o9J_lYcRTik=/](https://miro.com/app/board/o9J_lYcRTik=/) [https://www.showkarma.xyz/dao/delegates/gitcoin](https://www.showkarma.xyz/dao/delegates/gitcoin) Advice process pamphlets (Nate) S...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -8422,7 +8407,7 @@ hey @natesuits @teresacd @Juankbell @Edu - TEC Steward. @enti @Zeptimus @bends a
 
 Soft Gov Weekly Agenda
 
-Soft Gov Agenda | March 22nd Attendees: Intro: Soft Gov Agenda | March 15th Attendees: Intro: Accountability for CV proposals Be cautious to not be monitoring people through transparency Add a self imposed metric to the proposal template. Graduated sanctions. What is a loving way to s...
+Soft Gov Agenda - March 22nd Attendees: Intro: Soft Gov Agenda - March 15th Attendees: Intro: Accountability for CV proposals Be cautious to not be monitoring people through transparency Add a self imposed metric to the proposal template. Graduated sanctions. What is a loving way to s...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -8503,7 +8488,7 @@ _06-Apr-22 01:02 PM_:
 
 Soft Gov Weekly Agenda
 
-Soft Gov Agenda | April 6th Attendees: Intro: David Bollier "Think Like a Commoner" TEC utility - TE content curation with TEC tokens TE for governance network - [https://docs.google.com/document/d/14rS0rXBUUkromMON7vZfS-RLtWoGzMwJEqx2zxBuIiQ/edit?usp=sharing](https://docs.google.com/document/d/14rS0rXBUUkromMON7vZfS-RLtWoGzMwJEqx2zxBuIiQ/edit?usp=sharing) Ecosystem Health analysis board - ht...
+Soft Gov Agenda - April 6th Attendees: Intro: David Bollier "Think Like a Commoner" TEC utility - TE content curation with TEC tokens TE for governance network - [https://docs.google.com/document/d/14rS0rXBUUkromMON7vZfS-RLtWoGzMwJEqx2zxBuIiQ/edit?usp=sharing](https://docs.google.com/document/d/14rS0rXBUUkromMON7vZfS-RLtWoGzMwJEqx2zxBuIiQ/edit?usp=sharing) Ecosystem Health analysis board - ht...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -8536,7 +8521,7 @@ liviade
 
 [Hey Laurence! Right now the nomination of new stewards is done only by stewards, we don't need unanimous support, just no blocks.](about:blank#)
 
-<h3>Laurence Ion | VitaDAO steward <img src="https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png" width=25 height=25></h3>
+<h3>Laurence Ion - VitaDAO steward <img src="https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png" width=25 height=25></h3>
 
 _06-Apr-22 03:31 PM_:
 
@@ -8577,11 +8562,11 @@ let me know if you have any questions and you're welcome to join our sync on wed
 
 ![https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png](https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png)
 
-Laurence Ion | VitaDAO steward
+Laurence Ion - VitaDAO steward
 
 [Thanks! Do you have a link to the governance process around these stewards appointments? By block you mean any current steward can veto?](about:blank#)
 
-<h3>Laurence Ion | VitaDAO steward <img src="https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png" width=25 height=25></h3>
+<h3>Laurence Ion - VitaDAO steward <img src="https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png" width=25 height=25></h3>
 
 _12-Apr-22 06:41 AM_:
 Kindly following up
@@ -8590,7 +8575,7 @@ Kindly following up
 
 ![https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png](https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png)
 
-Laurence Ion | VitaDAO steward
+Laurence Ion - VitaDAO steward
 
 [Thanks! Do you have a link to the governance process around these stewards appointments? By block you mean any current steward can veto?](about:blank#)
 
@@ -8616,7 +8601,7 @@ Community Stewards WG Manifesto Table of Contents Members 2 Stewards and Working
 
 ![https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png](https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png)
 
-Laurence Ion | VitaDAO steward
+Laurence Ion - VitaDAO steward
 
 [Asking because we've been inspired by your process and now there's discussion around changing it (after 4 stewards vetoed). If curious to see some arguments:](about:blank#)
 
@@ -8634,7 +8619,7 @@ also, we have community stewards that aren't stewards of a working group - they 
 
 1
 
-@Laurence Ion | VitaDAO steward thanks for sharing this with us, happy to continue learning about your process
+@Laurence Ion - VitaDAO steward thanks for sharing this with us, happy to continue learning about your process
 
 also taggind @Tam2140 and @natesuits, stewards of the steward wg to share their thoughts
 
@@ -8765,9 +8750,9 @@ _14-Apr-22 12:35 PM_:
 
 liviade
 
-[@Laurence Ion | VitaDAO steward thanks for sharing this with us, happy to continue learning about your process](about:blank#)
+[@Laurence Ion - VitaDAO steward thanks for sharing this with us, happy to continue learning about your process](about:blank#)
 
-<h3>Laurence Ion | VitaDAO steward <img src="https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png" width=25 height=25></h3>
+<h3>Laurence Ion - VitaDAO steward <img src="https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png" width=25 height=25></h3>
 
 _14-Apr-22 12:39 PM_:
 Thank *
@@ -8784,7 +8769,7 @@ I have similar worries, about opening up conflicts in "public"
 
 ![https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png](https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png)
 
-Laurence Ion | VitaDAO steward
+Laurence Ion - VitaDAO steward
 
 [Thank * **you** *  -- looking into this. Btw, is there a better channel or forum to discuss this?  (edited)](about:blank#)
 
@@ -8830,7 +8815,7 @@ _14-Apr-22 02:56 PM_:
 
 Soft Gov Weekly Agenda
 
-Soft Gov Agenda | April 13th Attendees: nate, chuy, juank, zep, edu, boonjue, Intro: Is there a cultural topic we haven’t touched on yet that we should be exploring? Race and gender Durgadas has spoken about the 40 acres DAO - they have a big concern about race and gender there. I’m thinking ...
+Soft Gov Agenda - April 13th Attendees: nate, chuy, juank, zep, edu, boonjue, Intro: Is there a cultural topic we haven’t touched on yet that we should be exploring? Race and gender Durgadas has spoken about the 40 acres DAO - they have a big concern about race and gender there. I’m thinking ...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -9059,7 +9044,7 @@ _20-Apr-22 12:57 PM_:
 
 Soft Gov Weekly Agenda
 
-Soft Gov Agenda | April 20th Attendees: Intro: What do you need support with? How would you like to be supported? Financial wg Gideon will share insights from his conversation with MZ Voter apathy + high quorum Water vote Should we lower snapshot quorum? What are some practices we can es...
+Soft Gov Agenda - April 20th Attendees: Intro: What do you need support with? How would you like to be supported? Financial wg Gideon will share insights from his conversation with MZ Voter apathy + high quorum Water vote Should we lower snapshot quorum? What are some practices we can es...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -9666,7 +9651,7 @@ In terms of applying what we learned today, you could look at what energises peo
 
 1
 
-<h3>Laurence Ion | VitaDAO steward <img src="https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png" width=25 height=25></h3>
+<h3>Laurence Ion - VitaDAO steward <img src="https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png" width=25 height=25></h3>
 
 _05-Jun-22 09:12 AM_:
 
@@ -9804,7 +9789,7 @@ _15-Jun-22 12:57 PM_:
 
 Soft Gov Weekly Agenda
 
-Soft Gov Agenda | June 15th Attendees: Intro: What is a question you wish you’d get asked more often? Result of meeting for each petal Yellow = overlaps with other petals Red = How is this field/knowledge presented on the TEC Industrial and system engineering Decentralized DAO Tooling (DeWork...
+Soft Gov Agenda - June 15th Attendees: Intro: What is a question you wish you’d get asked more often? Result of meeting for each petal Yellow = overlaps with other petals Red = How is this field/knowledge presented on the TEC Industrial and system engineering Decentralized DAO Tooling (DeWork...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
@@ -9822,7 +9807,7 @@ hey everyone! we have two discussion topics for today's meeting 1 - Collecting f
 
 Soft Gov Weekly Agenda
 
-Soft Gov Agenda | June 22nd Attendees: Intro: Gardens governance feedback Gated channels - how do we feel about them? Soft Gov Agenda | June 15th Attendees: Nate, Chuy, Eduardo Intro: What is a question you wish you’d get asked more often? What is the TE flower, so much we don’t understand...
+Soft Gov Agenda - June 22nd Attendees: Intro: Gardens governance feedback Gated channels - how do we feel about them? Soft Gov Agenda - June 15th Attendees: Nate, Chuy, Eduardo Intro: What is a question you wish you’d get asked more often? What is the TE flower, so much we don’t understand...
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
