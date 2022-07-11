@@ -12,754 +12,6 @@ The 0mega Working Group examines the ethos of and ethics in token engineering as
 
 ## Links
 
-http://aletheia.systems/
-http://facebook.com/stateofthenet
-http://futurethinkers.org/nftcall
-http://lawoftime.org/noosphere/theoryandhistory.html
-http://philosophyoffreedom.com/
-http://sotn.it
-http://sotn.it/
-http://sotn.it/2013/05/14/dave-snowden-2013/
-http://static1.squarespace.com/static/53dd6676e4b0fedfbc26ea91/54b6c509e4b062126976d942/54b6c509e4b062126976dcc0/1563814944839/?format=1500w
-http://static1.squarespace.com/static/5bab603d01232c0e635f4236/5bab6574e79c70c26ad00fda/5f3e28447bcabe5de07d4daf/1597913525545/IMG_2499.jpg?format=1500w
-http://static1.squarespace.com/static/5c8fea6b9b7d15725633fa4f/t/5c902bd8652dead23ddc84cf/1552952280582/RbDthumb.jpg?format=1500w
-http://static1.squarespace.com/static/5f3d45e1b8a05d74a8deb4b5/t/5f57788c7d0bb54905ddc199/1599568023890/TH116_MarkPesce.jpg?format=1500w
-http://static1.squarespace.com/static/615c8ec928f437183df330e9/61b8f09958e7e453a461fca0/621951ce9065f4058a4c2741/1646326772263/AdobeStock_489107001.jpeg?format=1500w
-http://tecommons.org/
-http://twitter.com/stateofthenet
-http://www.advaita.org.uk/discourses/definitions/mithyA.htm
-http://www.advaita.org.uk/discourses/definitions/paramartha.htm
-http://www.calresco.org/lucas/context.htm
-http://www.katsandogz.com/gibran/ondeath.php
-http://www.realisticliving.org/PDF/Ethics/2ContextualEthics.pdf
-http://www.tomatleeblog.com/archives/175327353
-http://www.tomatleeblog.com/archives/175328462
-http://www.tomatleeblog.com/archives/author/tom-atlee
-http://www.youtube.co
-http://www.youtube.co/
-http://www.youtube.com/watch?v=BQoW-fUPwc8
-http://www3.weforum.org/docs/WEF_DeFi_Policy_Maker_Toolkit_2021.pdf
-https://3b1b.co/monster-thanks
-https://Aurora.lnk.to/TGWCTID
-https://Aurora.lnk.to/listenID
-https://aeon.co/ideas/how-dancing-helps-me-think-and-thinking-helps-me-dance
-https://alixtrot.medium.com/agile-ethics-managing-ethical-complexity-in-technology-63131f7bab95
-https://anchor.fm/metagame/episodes/MetaView-12---Deliberately-Developmental-Organizations-with-Durgadas-of-TEC-evm71t
-https://andrecronje.medium.com/bull-market-bear-development-b6ede96d4c82
-https://apass.be/author/nico/
-https://apass.be/the-adoption-project/
-https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/what-is-the-tec/how-do-we-work-together
-https://app.gitbook.com/o/-MRe_DImEWCFDsZ_TQd2/s/-MRe_M_mUIIB11A-MQyZ/what-is-the-tec/mission-vision-and-values
-https://app.livestorm.co/made-group/salon-foundationals-on-participation-with-federico-bonelli
-https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/958
-https://apple.co
-https://apple.co/
-https://appreciativeinquiry.champlain.edu/learn/appreciative-inquiry-introduction/5-classic-principles-ai/
-https://archive.org/details/genesmindculture0000lums/page/2/mode/2up
-https://archive.org/details/hegel-the-science-of-logic
-https://archive.org/services/img/genesmindculture0000lums
-https://arweave.net/p7kHwLOjYg6-MXSlzYvdSFPQGFikVYe5ZByetHsmfj8
-https://aurora.lnk.to/TGWCTID
-https://aurora.lnk.to/listenID
-https://automatingsociety.algorithmwatch.org/
-https://automatingsociety.algorithmwatch.org/author/adm_hauke/
-https://avatars.githubusercontent.com/u/56689987?s=400&v=4
-https://awsfoundation.org/
-https://awsfoundation.org/author/Ferguson%20Advertising/
-https://base.socioeco.org/docs/developments_critiques_advances.pdf
-https://beyondinclusionbeyondempowerment.com/about-the-book/
-https://beyondinclusionbeyondempowerment.com/author/beyondinclusion/
-https://beyondinclusionbeyondempowerment.com/wp-content/uploads/2019/12/nieto-articles-understanding-oppression-2006.pdf
-https://bigthink.com/hard-science/eo-wilson-what-makes-us-human-paleolithic-emotions-medieval-institutions-god-like-technology/
-https://bird-sherbet-01c.notion.site/62f92f29e6264f4889070c91eac44852?v=6dc8ed13c815457bb108c4dbe8c876cf
-https://bird-sherbet-01c.notion.site/mintbase-arweave-inventory-71923754656e497baf9d0c0c8e25d416
-https://bit.ly/wah_mad
-https://blog.teammood.com/radical-agility
-https://board.net/p/r.dd3001fa3b3b07904161cfd1cf1e5e30
-https://books.google.com/books/about/Critical_Race_Theory.html?id=p-DInbMLvhgC
-https://books.google.com/books/about/Faces_At_The_Bottom_Of_The_Well.html?id=Tyn1BgAAQBAJ
-https://books.google.de/books/publisher/content?id=gRQsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72f6UacUOOhHUYduTmxpqNYbnlqauj-0f-79bqdXZ_N6PpS9NFvQ6Im4kIjPguA9sA85Htq6MuPLPKiP1eUzoxrPVci--jwyZpiFmXfTu3NVI6RCcVG8q0MeHGhhEYgUXznl49Y
-https://books.google.de/books?id=gRQsEAAAQBAJ&pg=PA651&lpg=PA651&dq=Symbolic+discourse:+mystical+writing+as+anti-language+Ming-yu+Tseng&source=bl&ots=xcdXjE8r0G&sig=ACfU3U1bqPUqJlahiYnoP7ZUGZMUhwDbgA&hl=de&sa=X&ved=2ahUKEwjx4JW29Yf0AhVV_rsIHc4CB5AQ6AF6BAgVEAM#v=onepage&q=Symbolic%20discourse%3A%20mystical%20writing%20as%20anti-language%20Ming-yu%20Tseng&f=false
-https://books.google.de/books?id=gRQsEAAAQBAJ&pg=PA651&lpg=PA651&dq=Symbolic+discourse:+mystical+writing+as+anti-language+Ming-yu+Tseng&source=bl&ots=xcdXjE8r0G&sig=ACfU3U1bqPUqJlahiYnoP7ZUGZMUhwDbgA&hl=de&sa=X&ved=2ahUKEwjx4JW29Yf0AhVV_rsIHc4CB5AQ6AF6BAgVEAM#v=onepage&q=Symbolic%2520discourse%253A%2520mystical%2520writing%2520as%2520anti-language%2520Ming-yu%2520Tseng&f=false
-https://bookshop.org/books/the-cryptopians-idealism-greed-lies-and-the-making-of-the-first-big-cryptocurrency-craze/9781541763012
-https://brilliant.org/veritasium
-https://bsahely.com/2020/03/05/the-collapse-of-oligarchic-capitalism-and-the-rise-of-regenerative-learning-how-the-science-of-energy-systems-clarifies-whats-happening-today-and-what-comes-next-sally-j-goerner/
-https://bsahely.com/2022/02/06/integrating-our-approach-to-planetary-health-how-energy-systems-provide-a-rigorous-yet-heart-warming-framework-sally-j-goerner-and-juwairia-r-quazi-world-futures-2021/
-https://bsahely.com/author/bsahely/
-https://calendar.google.com/calendar/embed?src=5mkep1ad1j860k6g7i7fr8plq0%2540group.calendar.google.com&ctz=Europe%252FBerlin
-https://calendar.google.com/calendar/embed?src=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com&ctz=Europe%2FBerlin
-https://calendar.google.com/event?action=TEMPLATE&tmeid=MXR2YTk0YmtuaXRyOW0xZDlnbWY3OW85cDAgNW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZw&tmsrc=5mkep1ad1j860k6g7i7fr8plq0%2540group.calendar.google.com
-https://calendar.google.com/event?action=TEMPLATE&tmeid=MXR2YTk0YmtuaXRyOW0xZDlnbWY3OW85cDAgNW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZw&tmsrc=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com
-https://calendar.google.com/event?action=TEMPLATE&tmeid=Mm44ODE4YzM0czhiZGo1ZG9tOWZicTViYzAgNW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZw&tmsrc=5mkep1ad1j860k6g7i7fr8plq0%2540group.calendar.google.com
-https://calendar.google.com/event?action=TEMPLATE&tmeid=Mm44ODE4YzM0czhiZGo1ZG9tOWZicTViYzAgNW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZw&tmsrc=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com
-https://calendar.google.com/event?action=TEMPLATE&tmeid=NWFtbm4ydW8wZTQ5bWdhYXBydHFvbmE5azcgbmloNTlrdGdhZm1tNjRlZDRxazZ1ZTh2djRAZw&tmsrc=nih59ktgafmm64ed4qk6ue8vv4%2540group.calendar.google.com
-https://calendar.google.com/event?action=TEMPLATE&tmeid=NWFtbm4ydW8wZTQ5bWdhYXBydHFvbmE5azcgbmloNTlrdGdhZm1tNjRlZDRxazZ1ZTh2djRAZw&tmsrc=nih59ktgafmm64ed4qk6ue8vv4%40group.calendar.google.com
-https://calendar.google.com/event?action=TEMPLATE&tmeid=ZDRmcWEwdG5xMGU0aDMyZmtycmY3OGVoaTAgZHVyZ2FkYXNhamlAbQ&tmsrc=durgadasaji%2540gmail.com
-https://calendar.google.com/event?action=TEMPLATE&tmeid=ZDRmcWEwdG5xMGU0aDMyZmtycmY3OGVoaTAgZHVyZ2FkYXNhamlAbQ&tmsrc=durgadasaji%40gmail.com
-https://calendar.google.com/event?action=TEMPLATE&tmeid=aWN0amU0OGhwZTcxZmFha2VsM2twamhvNnMgc2VibmVtQGZyZWVlbC5pbw&tmsrc=sebnem%2540freeel.io
-https://calendar.google.com/event?action=TEMPLATE&tmeid=aWN0amU0OGhwZTcxZmFha2VsM2twamhvNnMgc2VibmVtQGZyZWVlbC5pbw&tmsrc=sebnem%40freeel.io
-https://calendar.google.com/event?action=TEMPLATE&tmeid=dGZxb2dqNmU2YzU3aGtjMWlvcXBkaD
-https://calendar.google.com/event?action=TEMPLATE&tmeid=dGZxb2dqNmU2YzU3aGtjMWlvcXBkaD%5B%E2%80%A6%5DFjZXR1cm5lcm55Y0Bt&tmsrc=graceturnernyc%2540gmail.com&scp=ALL
-https://cdn-images-1.medium.com/max/1200/1
-https://cdn.discordapp.com/attachments/810180622634844202/837040114567479318/omega_round.txt
-https://cdn.discordapp.com/attachments/810180622634844202/845028563858096208/cynefin-martin-berg.jpeg
-https://cdn.discordapp.com/attachments/810180622634844202/864761052662464522/Vidal_Heylighen_-_Ethics_and_complexity_-_ST_change_V1.3.pdf
-https://cdn.discordapp.com/attachments/810180622634844202/904852209437646898/ExG8RtAWYAAskct.jpeg
-https://cdn.discordapp.com/attachments/810180622634844202/908370297487507477/1-translating-words.oga
-https://cdn.discordapp.com/attachments/810180622634844202/908370377825202186/2-translating-meaning-beliefs.oga
-https://cdn.discordapp.com/attachments/810180622634844202/910608328051269683/Screen_Shot_2021-07-26_at_6.05.17_PM.jpeg
-https://cdn.discordapp.com/attachments/810180622634844202/910608338377637949/Screen_Shot_2021-07-26_at_5.28.39_PM.jpeg
-https://cdn.discordapp.com/attachments/810180622634844202/910608339988254800/Screen_Shot_2021-07-26_at_5.03.32_PM.jpeg
-https://cdn.discordapp.com/attachments/810180622634844202/910608342425174036/Screen_Shot_2021-07-26_at_5.09.58_PM.jpeg
-https://cdn.discordapp.com/attachments/810180622634844202/910608344815927376/Screen_Shot_2021-07-26_at_5.14.38_PM.jpeg
-https://cdn.discordapp.com/attachments/810180622634844202/910608347382816798/Screen_Shot_2021-07-26_at_5.07.24_PM.jpeg
-https://cdn.discordapp.com/attachments/810180622634844202/910608350423699476/Screen_Shot_2021-07-26_at_5.05.24_PM.jpeg
-https://cdn.discordapp.com/attachments/810180622634844202/910608353456160778/Screen_Shot_2021-07-26_at_5.04.03_PM.jpeg
-https://cdn.discordapp.com/attachments/810180622634844202/913178004065247232/1_cpwYBMmByMeAQoGH06hLKg.jpeg
-https://cdn.discordapp.com/attachments/810180622634844202/913381003094028328/images.jpeg
-https://cdn.discordapp.com/attachments/810180622634844202/916069146826010655/SMY_Focus_Matrix-New-Draft3.xlsx
-https://cdn.discordapp.com/attachments/810180622634844202/920779051227054170/favicon_3.ico
-https://cdn.discordapp.com/attachments/810180622634844202/930890375210622996/alts2.gif
-https://cdn.discordapp.com/attachments/810180622634844202/930892922277199933/alts.gif
-https://cdn.discordapp.com/attachments/810180622634844202/933464615839477810/RxC_fellowhip_LeticiaPrados_investment_project.pdf
-https://cdn.discordapp.com/attachments/810180622634844202/935972159648567296/MetaCrisis.jpeg
-https://cdn.discordapp.com/attachments/810180622634844202/941437118541090866/0f95bb99-75a6-4ef6-b23c-f1e072bbb008.pdf
-https://cdn.discordapp.com/attachments/810180622634844202/942367596580323378/flower3.jpeg
-https://cdn.discordapp.com/attachments/810180622634844202/943564220920901642/IMG_0939.JPEG
-https://cdn.discordapp.com/attachments/810180622634844202/943564221348724786/IMG_0883.JPEG
-https://cdn.discordapp.com/attachments/810180622634844202/946939736667324426/The_Intersubjective_Turn.pdf
-https://cdn.discordapp.com/attachments/810180622634844202/948211117942005770/flower.gif
-https://cdn.discordapp.com/attachments/810180622634844202/948211644046118922/flower_1.gif
-https://cdn.discordapp.com/attachments/810180622634844202/948273349698670612/flower2.psd
-https://cdn.discordapp.com/attachments/810180622634844202/948698880038551552/948125486639443968.gif
-https://cdn.discordapp.com/attachments/810180622634844202/949305821643309076/giphy_8.gif
-https://cdn.minds.com/fs/v1/banners/1342285910401617930/1645401899
-https://cdn.minds.com/fs/v1/banners/948124871581286400/1562542936
-https://civilizationemerging.com/
-https://civilizationemerging.com/author/daniel/
-https://civilizationemerging.com/author/mike/
-https://civilizationemerging.com/new-economics-series-1/
-https://civilizationemerging.com/new-economics-series-2/
-https://cointelegraph.com/magazine/2021/02/15/love-coordination-at-the-frontier-of-governance-how-yearn-minted-300-million
-https://cointelegraph.com/magazine/author/tracheopteryx118
-https://config.tecommons.org/
-https://consilienceproject.org/team/
-https://cryptoeconomicsystems.pubpub.org/pub/dupont-ethical-principles/release/13?readingCollection=c65922bd
-https://cyber.harvard.edu/topics/ethics-and-governance-ai
-https://cynefin.io/wiki/Exaptive_triggers
-https://davidtitterington.medium.com/disguised-geometry-in-fra-angelicos-annunciation-975507bf3c37
-https://de.slideshare.net/tmatyashovsky/confession-of-an-engineer
-https://derekbruff.org/blogs/fywscrypto/2015/09/29/contextual-ethics/
-https://dework.xyz/
-https://digitalpublicgoods.net/what-we-do/
-https://discord.com/channels/701149241107808327/760107058292588575/842430491487371295
-https://discord.com/channels/810180621930070088/810180622017757192/812071348637007912
-https://discord.com/channels/810180621930070088/810180622165213219/859914176906133565
-https://discord.com/channels/810180621930070088/810180622634844202/905569590434730074
-https://discord.com/channels/810180621930070088/810180622634844202/920060820841463868
-https://discord.com/channels/810180621930070088/810180622634844202/941445547024318504
-https://discord.com/events/810180621930070088/918536166452641832
-https://discord.gg/N2WncrUx
-https://discord.gg/NQuZAYKk
-https://discord.gg/PxdhwEFD?event=937291668519006228
-https://discord.gg/ctSfW3yu
-https://discord.gg/eswu78AJ
-https://discord.gg/js54fn99
-https://discord.gg/uM4ZWDjNfK
-https://discord.gg/wpJTjUYj
-https://docs.google.com/document/d/17MJ3zuxpRV_pHqos59AwTrB2Kv1JUVGPrdu7Adonx-4/edit?usp=sharing
-https://docs.google.com/document/d/1AQhox7E5gKkDZFga0McLnFGuHJF6nWcOXTSzvZW8LDA/edit
-https://docs.google.com/document/d/1B0LpG_iHS3oK3GH0COmFCWl4XVl12bz6vRsIvEZATVE/edit#heading=h.iu6tn7m7q08l
-https://docs.google.com/document/d/1B0LpG_iHS3oK3GH0COmFCWl4XVl12bz6vRsIvEZATVE/edit?ts=605b1f98#
-https://docs.google.com/document/d/1FM5lokbcJZFXALDfwn-NIjJ1MSUjgoYgecCPwEnTydU/edit#
-https://docs.google.com/document/d/1FM5lokbcJZFXALDfwn-NIjJ1MSUjgoYgecCPwEnTydU/edit#heading=h.2rrkm319a20q
-https://docs.google.com/document/d/1FM5lokbcJZFXALDfwn-NIjJ1MSUjgoYgecCPwEnTydU/edit#heading=h.7e6a9ikbesbv
-https://docs.google.com/document/d/1FM5lokbcJZFXALDfwn-NIjJ1MSUjgoYgecCPwEnTydU/edit#heading=h.szqrcbw95re8
-https://docs.google.com/document/d/1FM5lokbcJZFXALDfwn-NIjJ1MSUjgoYgecCPwEnTydU/edit#heading=h.x7qmm9h95iaz
-https://docs.google.com/document/d/1FM5lokbcJZFXALDfwn-NIjJ1MSUjgoYgecCPwEnTydU/edit?usp=sharing
-https://docs.google.com/document/d/1GwTiq1RcRfnDrr-Po8BbWVpOxl0b9gD1emjmgqIJDy4/edit#
-https://docs.google.com/document/d/1GwTiq1RcRfnDrr-Po8BbWVpOxl0b9gD1emjmgqIJDy4/edit#heading=h.o8nmp3c4cf9c
-https://docs.google.com/document/d/1GwTiq1RcRfnDrr-Po8BbWVpOxl0b9gD1emjmgqIJDy4/edit?usp=sharing
-https://docs.google.com/document/d/1KrXhKWSVm31mVdNBmMZethxwGuX88hp6CEFqjbnP2rI/edit
-https://docs.google.com/document/d/1P5u5e6ENBTwewZqNZ_rAM4tam9BPAP47kHmE6cpdwR0/edit#heading=h.eb5swo7xn7u3
-https://docs.google.com/document/d/1P5u5e6ENBTwewZqNZ_rAM4tam9BPAP47kHmE6cpdwR0/edit?usp=sharing
-https://docs.google.com/document/d/1Pbx9sxxpqpYdKU6_-3OIxdG-9DP6lhTWXNol8FEK98Q/edit#
-https://docs.google.com/document/d/1QIqoIKzTqyJ1KKCU3JnG8ewdB3xIjbMq4-7Xl5OrCFw/edit#heading=h.mrafjcf5iulf
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.1nbej8d3rkry
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.411mhlva248o
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.4o8ejnu437et
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.7467vhjxyjjn
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.794g8fgqesw6
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.79640pxx7fri
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.crf1ztfc9rws
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.hpylb46whoje
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.jnhw2kg15vjh
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.jnw9r7sroak1
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.k8l8ku58sakg
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.n426a3ynbjy6
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.q62h5atl6zd8
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.stdushnr3qxc
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.szeoj4ipa7nq
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.v79qcctp20
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.vg18w65fb0xg
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.vvq0b5fzjdjo
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.zdi4xf2reok1
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit?usp=sharing
-https://docs.google.com/document/d/1TlkVH8dX1XoiUO57MXMrRzp1-JlQj2sbo4RCEe437PY/edit#heading=h.w9irsggq2swa
-https://docs.google.com/document/d/1TlkVH8dX1XoiUO57MXMrRzp1-JlQj2sbo4RCEe437PY/edit#heading=h.y9xo6tblwmos
-https://docs.google.com/document/d/1TlkVH8dX1XoiUO57MXMrRzp1-JlQj2sbo4RCEe437PY/edit#heading=h.za37xb8l6hwn
-https://docs.google.com/document/d/1Vzbln8sHxeLriQWq8akGRsWsSZxbhKVyE2dwrtwOUac/edit?usp=sharing
-https://docs.google.com/document/d/1WLhx9IB2i2Ers1x0dH8PzGBd1aty11NIOFfoZ2RskPE/edit#heading=h.8q7lnfkm5uwe
-https://docs.google.com/document/d/1_y2SLg44oxCm6PDS8MxXHu6mh80-M6pPREEKVIu4BIE/edit#
-https://docs.google.com/document/d/1_y2SLg44oxCm6PDS8MxXHu6mh80-M6pPREEKVIu4BIE/edit#heading=h.71wso6xm1ooq
-https://docs.google.com/document/d/1_y2SLg44oxCm6PDS8MxXHu6mh80-M6pPREEKVIu4BIE/edit?usp=sharing
-https://docs.google.com/document/d/1bAAMdYPCX_pB9krwidvGl8NWQ6xM6hXRD2NL5nfupIs/edit?usp=sharing
-https://docs.google.com/document/d/1hMQooK3POdKbD9jA26wvmiu9ALoQHGTjYa6UF9QGoDQ/edit
-https://docs.google.com/document/d/1kM8H6FWvj8xHx68IFwbFmT_im5EKnxSBFI8LU5GPiWE/edit#heading=h.a647cwqdl6xx
-https://docs.google.com/document/d/1ngUBguUdAITrNnVsum7UhjoMFUqcoFSVAj1R_yQwB2Q/edit#
-https://docs.google.com/document/d/1ngUBguUdAITrNnVsum7UhjoMFUqcoFSVAj1R_yQwB2Q/edit#heading=h.73rt1sy61vqb
-https://docs.google.com/document/d/1ngUBguUdAITrNnVsum7UhjoMFUqcoFSVAj1R_yQwB2Q/edit#heading=h.gaov0ygtzo1o
-https://docs.google.com/document/d/1ngUBguUdAITrNnVsum7UhjoMFUqcoFSVAj1R_yQwB2Q/edit#heading=h.jdekh51kcvj5
-https://docs.google.com/document/d/1ngUBguUdAITrNnVsum7UhjoMFUqcoFSVAj1R_yQwB2Q/edit#heading=h.qc5wz0cxjxmt
-https://docs.google.com/document/d/1ngUBguUdAITrNnVsum7UhjoMFUqcoFSVAj1R_yQwB2Q/edit#heading=h.scaxl8xu0r9z
-https://docs.google.com/document/d/1ngUBguUdAITrNnVsum7UhjoMFUqcoFSVAj1R_yQwB2Q/edit?usp=sharing
-https://docs.google.com/document/d/1qjKycBVkjjbOExMnL3yVBezW83l9IQDw8QF3XV0FTyY/edit
-https://docs.google.com/document/d/1zW0MQs3lGEW3944BBAxa3Lv7Du6cqxJDwzuherDCm8k/edit?usp=sharing
-https://docs.google.com/document/u/0/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/mobilebasic#
-https://docs.google.com/presentation/d/1I4eIKQqoDUucEb-KMjaFk1lsrWT3bLESy0aJgYgP0Vo/edit#slide=id.gb0da9bf325_0_15
-https://docs.google.com/presentation/d/1VHlxVFKk0yxcqP4DmlLLAVEjffdxIcxlMtUG9zq6SE8/edit#slide=id.ga458bfdb29_0_6
-https://docs.google.com/presentation/d/1VHlxVFKk0yxcqP4DmlLLAVEjffdxIcxlMtUG9zq6SE8/edit#slide=id.ga46701a62d_0_52
-https://docs.google.com/presentation/d/1VHlxVFKk0yxcqP4DmlLLAVEjffdxIcxlMtUG9zq6SE8/edit#slide=id.ga4b320f387_0_0
-https://docs.google.com/presentation/d/1VHlxVFKk0yxcqP4DmlLLAVEjffdxIcxlMtUG9zq6SE8/edit?usp=sharing
-https://docs.google.com/presentation/d/1WBZeboNG7WIkFI8_-dJJl5pYvCgmeQbpbyI3WkRWxdU/edit?usp=sharing
-https://docs.google.com/presentation/d/1fuqrXY6L-g-fxYkA_IXmhN91_Kk7Doidb-QzA32ywP0/edit?usp=sharing
-https://docs.google.com/presentation/d/1lxc_IvarNU9v-9RN7gOenxYRn_ipdwpYOnQI1BYg7_0/edit#slide=id.gc8420ebf32_0_38
-https://docs.google.com/presentation/d/1mQOwE84_N_eZGrHgl7EXh3GhBTcb492VIx6s2le9J_w/edit?usp=sharing
-https://docs.google.com/presentation/d/1zcnefuA5D_vbpSn-nZw6NXmK0XXXtFnwdvrqQepfSZo/edit?usp=sharing
-https://docs.google.com/presentation/d/e/2PACX-1vRkuQViLqcK4sJlj0sRry6tryzjdSIVz3lHrApGD3H20zg7QexG0QbwpqwF1p_rieap5oVXKCayNxdv/pub?start=false&loop=false&delayms=3000
-https://docs.google.com/spreadsheets/d/1sh7BDxzW7GulFsu4pMjO1AlL4azoyGmphaIneaC53zE/edit#gid=0
-https://docs.superfluid.finance/superfluid/protocol-overview/what-is-superfluid/primitives
-https://docs.yearn.finance/contributing/operations/decision-making
-https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_viewpoints/
-https://dokumen.pub/qdownloa
-https://donellameadows.org/archives/dancing-with-systems/
-https://donellameadows.org/author/kloomis/
-https://donellameadows.org/wp-content/themes/donellameadows/images/logo-2.gif
-https://drive.google.com/drive/u/0/folders/1g2rMoMJWcQ-yBH9Qj1yOc937KsvD99VS
-https://drive.google.com/file/d/1J9StQkfkVTQGNncseigZ57lWI0EgRPWd/view?usp=sharing
-https://economicspace.agency
-https://economicspace.agency/
-https://en.wikipedia.org/wiki/Achintya_Bheda_Abheda
-https://en.wikipedia.org/wiki/Biopower
-https://en.wikipedia.org/wiki/Boomeritis
-https://en.wikipedia.org/wiki/Categorical_imperative
-https://en.wikipedia.org/wiki/Categorical_imperative)
-https://en.wikipedia.org/wiki/Eating_your_own_dog_food
-https://en.wikipedia.org/wiki/Engineer
-https://en.wikipedia.org/wiki/Ethical_dilemma
-https://en.wikipedia.org/wiki/Focus_group
-https://en.wikipedia.org/wiki/G%25C3%25B6del%2527s_incompleteness_theorems
-https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
-https://en.wikipedia.org/wiki/Goal_setting#Unethical_behavior
-https://en.wikipedia.org/wiki/Justice_as_Fairness
-https://en.wikipedia.org/wiki/Maintenance_of_an_organism
-https://en.wikipedia.org/wiki/Motivation#Practical_applications
-https://en.wikipedia.org/wiki/Necropolitics
-https://en.wikipedia.org/wiki/Systems_engineering
-https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
-https://en.wikipedia.org/wiki/Upaya
-https://en.wikipedia.org/wiki/Zero-sum_thinking
-https://en.wikiquote.org/wiki/E._O._Wilson#Consilience:_The_Unity_of_Knowledge_(1998
-https://en.wikiquote.org/wiki/E._O._Wilson#Consilience:_The_Unity_of_Knowledge_(1998)
-https://epub.wu-wien.ac.at/7433/1/zargham_paruch_shorish.pdf
-https://epub.wu-wien.ac.at/7433/1/zargham_paruch_shorish.pdf)
-https://epub.wu.ac.at/7309/8/Foundations%20of%20Cryptoeconomic%20Systems.pdf
-https://epub.wu.ac.at/7309/8/Foundations%2520of%2520Cryptoeconomic%2520Systems.pdf
-https://eric.harris-braun.com/blog/2021/01/09/id-338
-https://eric.harris-braun.com/blog/author/zippy
-https://ethics.harvard.edu/how-ai-fails-us
-https://ethicsinaction.ieee.org/author/tduhamel/
-https://ethicsinaction.ieee.org/p7000/
-https://fightingmonkey.net
-https://fightingmonkey.net/
-https://fightingmonkey.net/blog/74-metaballon-anapauetai-resting-in-transition-the-paradox-in-standing
-https://form.typeform.com/to/BU1solRr
-https://form.typeform.com/to/BU1solRr?utm_source=referral_email#referral=Sebnem%20Rusitschka
-https://form.typeform.com/to/BU1solRr?utm_source=referral_email#referral=Sebnem%2520Rusitschka
-https://forum.1hive.org/t/how-much-hny-do-the-devs-have-in-total-its-at-least-30/758/9
-https://forum.makerdao.com/t/mip41c5-sp2-facilitator-offboarding-rwf-001/11306/9
-https://forum.tecommons.org/
-https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358?u=sbilbao
-https://forum.tecommons.org/t/electric-circus-game-based-version-of-ecosystem-valueflows-course/393/4
-https://forum.tecommons.org/t/mega-working-group/334
-https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296
-https://forum.tecommons.org/t/open-farewell-letter/483/11?u=solsista
-https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/81
-https://forum.tecommons.org/t/te-consilience-library-an-0mega-wg-initiative/751
-https://forum.tecommons.org/t/te-consilience-library-an-0mega-wg-initiative/751/7?u=solsista
-https://forum.tecommons.org/t/te-ethics-participatory-research-an-0mega-wg-initiative/746
-https://forum.tecommons.org/t/te-ethics-participatory-research-an-0mega-wg-initiative/746/9?u=solsista
-https://forum.tecommons.org/t/tec-working-groups-weekly-update-oct-25/676
-https://forum.tecommons.org/uploads/default/optimized/1X/75dd60b6afaf157958b4ad4d03f68ac1f9a47571_2_1024x505.jpeg
-https://fraguilar.medium.com/reality-is-a-strange-loop-and-you-dont-know-it-29b4c3dd02f
-https://futureoflife.org/
-https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/12
-https://gitcoin.co/grants/798/a-hitchhikers-guide-to-token-engineering
-https://github.com/CommonsBuild/IH-intervention/issues/1
-https://github.com/CommonsBuild/IH-intervention/issues/2
-https://github.com/CommonsBuild/IH-intervention/issues/5
-https://github.com/CommonsBuild/IH-intervention/issues/7
-https://github.com/CommonsBuild/tec-branding-assets
-https://github.com/CommonsBuild/tec-info/tree/main/wg-digest
-https://github.com/TokenEngineeringCommunity/resources
-https://github.com/Vyvy-vi/TEC-Discord-Automation/blob/main/.github/workflows/omega.yml
-https://github.com/Vyvy-vi/TEC-Discord-Automation/issues/new
-https://gtcr-dev.netlify.app/
-https://happen%20in%20#te-philosophy%20%5Blink%5D%20#0mega%20%5Blink%5D%20and%20%20see%20Initiatives%20forum%20posts%20linked%20below
-https://hopin.com/events/research-ethics-conference-2021
-https://humanenergy.io/author/parham/
-https://humanenergy.io/projects/ethics-and-the-techno-social-dilemma/
-https://i0.wp.com/bsahely.com/wp-content/uploads/2017/01/screen-shot-2015-07-20-at-11-07-54-am.png?fit=903%2C576&ssl=1
-https://ieeexplore.ieee.org/browse/standards/reading-room/page?refinements=ReadingRoom:Additional%20Reading&ranges=2021_2021_Year
-https://ieeexplore.ieee.org/browse/standards/reading-room/page?refinements=ReadingRoom:Additional%2520Reading&ranges=2021_2021_Year
-https://imageio.forbes.com/specials-images/imageserve/6213ac29900b2ea7dddcafbb/0x0.jpg?format=jpg&width=1200&fit=bounds
-https://images.typeform.com/images/3u7kEcNN79AN/image/default
-https://images.typeform.com/images/FYUps4mFKPYK/image/default
-https://indiancountrytoday.com/archive/talking-stick-and-feather-indigenous-tools-hold-sacred-power-of-free-speech
-https://integralreviewofbooks.wordpress.com/category/process-model-of-integral-theory/
-https://joinfightcamp.com/lex
-https://journal.emergentpublications.com/article/four-domains-of-complexity-2/
-https://journal.emergentpublications.com/author/gerald-midgley/
-https://journals.sagepub.com/doi/full/10.1177/2053951716679679
-https://kernel.community/en/koans
-https://kernel.community/en/learn/module-2/engineering
-https://kernel.community/images/koans/i_ching_genetic_code.jpeg
-https://leonbrenner.com
-https://leonbrenner.com/
-https://lexfridman.com/onnit
-https://lh3.googleusercontent.com/2KO0HMGPrZGCAbOv4PWrHoo6XK_718RaT9qAfBaTzAFEsWj6lwF9jfsNTe-e0-HV9FIknR-l5aFGxRPr25_O1DKunDK5Wn7HYFbSHBg=w1400-k
-https://lh3.googleusercontent.com/73sgRxthTQxaZ2Nu1J6mxeBr-d9dmCtK02XQA8Tf_3Iy30YSqSNvkKDcpV6_Lri8Uygckky4ikrnig=w1200-h630-p
-https://lh3.googleusercontent.com/FvttDqKQpUmqpTX5GM3KbgPr-bxPeEjzks427AiO9rMifNeXa_ccuXDlb0d28jx7lInh_baFNZ9m7DG3NTC6NXLD752pcqTn8_bIZl5mSrWdbte_2bi3IiYqa8Mpzmqh6QRkNAEGjiE=w600-h315-p-k
-https://lh3.googleusercontent.com/Z8dWSahKdhE003Wom5ADYFXp7r6ZrTeZbdZ-q491G_3menNUTGCpeg5hx7OVMe6BaJycG14t7bgw4A=w1200-h630-p
-https://lh3.googleusercontent.com/coaSD5o-Hd3w5PB-JlNazPSlKNVx_i0vT0iBrri_KlRqi0FhWPb1F_k1p5HRYnRPe2WWTvd_IMFFTw=w1200-h630-p
-https://lh4.googleusercontent.com/-Cv3rw57lsloe_NaESZk_kQ1jnpg80hSHq_Gbx1bpFkQqgviAOqDzxF7WJQwC0n5i2f6YU2NlTDnKQ=w1200-h630-p
-https://lh4.googleusercontent.com/-T9vutdCGA19qneGiUpjqgzroFWwblPKYHzLleCiTuOXRLfx3YEIqYm-3xfhtdTkh7unaGNANYO-Zw=w1200-h630-p
-https://lh4.googleusercontent.com/A2Y7dxXOnIx8C35SRQy5xcDaUlBtJ2Ep45pZiH8BEeasGfRZn8KhohkWuFLI8s_lYdNo-R00RjAt8A=w1200-h630-p
-https://lh4.googleusercontent.com/Psvh--ZztkSkK2X6wJUXTdZdcC23kNUL4gL-tNSuip9BlBTJaq-cc9IgxIgikfgKx_aZb66WWfmlMw=w1200-h630-p
-https://lh4.googleusercontent.com/WfLztdtN8Ujbev0slzcxPAWR4tZIvEZJXdIRPIstGdgy5W9xMFZBx5A_aJ3t3lVpuqmj960tasiziQ=w1200-h630-p
-https://lh4.googleusercontent.com/nlA-N1qAIOYd3nqhKgb-Hfc3avpGEBs6AiUfGk6SJK32KECYk0D4SWeISw3YBPxAdW2NKIwTOIz1fQ=w1200-h630-p
-https://lh4.googleusercontent.com/pEQkfSq_u8yODxE6QT6LKJ8xAz-tMKrr25kQISwgN-nutPH7AYFonGRqNt_CBVM5wnFd4Tnlh7ErGA=w1200-h630-p
-https://lh4.googleusercontent.com/sUZjbRvOAJWkrmxfB4Qua73Hi_JYbSsuV0uoVUSQpgrEbz2_FBVAtp3M1v_r7eyd_acXNzQjqIqblA=w1200-h630-p
-https://lh4.googleusercontent.com/tE3HUUONAEFl3rQbpIpqVkpTXUnj_hGT3TpC9Mtoa4i9NYaggIyJbLjbIWni7MptcpUDj7-Lk4ZAoQ=w1200-h630-p
-https://lh5.googleusercontent.com/-9pGvRH9arzipAwND63FJWB2sg0USR6sGfLQ9YsGCiQOx-6tlwIsi3yV12zPi0BlbguOygQPVb-ZFg=w1200-h630-p
-https://lh5.googleusercontent.com/9G9lMi0Sx_MnG9E3oJWzunf-8InuT2NOHkrr4_UhHTpn7PXX_PF5P2Y-hMVMbQ-2m4wnORyCqrjAAw=w1200-h630-p
-https://lh5.googleusercontent.com/KhVO1jvRKJqSxzj87i2fuwSMuSnOYNidlYhfsaZr-WXuV7sE3cnDCj0N67VDJMJnYim5g7cDWUh8yg=w1200-h630-p
-https://lh5.googleusercontent.com/LjghEizjpXszVwNpMv7c5B4_y5zDWvGcwBrOaPGUpCYIkDX2Yk5_qm5HTEwwnB5vaP2flLGKSauT1A=w1200-h630-p
-https://lh5.googleusercontent.com/N2zHrTdshj0k9uCLZ31y8vPr7sciw1S6RshevECpe3h75n-kvRuiev1RyoZ5qkfDFk0pvkpsn7yF-w=w1200-h630-p
-https://lh5.googleusercontent.com/SHzQSESdzTUvuV0MLQvs6Imp0gpYSX-3K2mD4iJCeX536vzqhz1d0hgDWg0S9AIvIuybor2vAB78xg=w1200-h630-p
-https://lh5.googleusercontent.com/TlVlMkbrxSo2oZnGjvkA6rOnvv7sXzkW9rkYlhdSjT1dW4ibjQ4uPBdzVekpRwbrTw4NK0Rcj9fCRQ=w1200-h630-p
-https://lh5.googleusercontent.com/k2M1vPHbZk0G5w7Wcquz3D33p4hBmufOgWfcD49ll3xEndZBP_I095t_neFoXOALeAI0VeZ7CrQmAA=w1200-h630-p
-https://lh5.googleusercontent.com/nqbTdmKVyAEquLLKQp1n8PIVaUvcQV40k6nDC7LseEs4aRhEu9SbHTiTYd_8NsHXZbkVJj-Ogh853Q=w1200-h630-p
-https://lh5.googleusercontent.com/vAO4oK5Z22TjAfaFu7oxHTHZpjtchYP0102nuTWLx2D7yxBtp3qEZfVHe8DcugCDxkmBaFnWeFqy6Q=w1200-h630-p
-https://lh6.googleusercontent.com/UKtXN9oVF3ZLQ3YIRl28p6qu-nDuGavWOickYKfT4XcjT2ga2TS5fXu7IhEjWSeleD-w3wB_FOqAnQ=w1200-h630-p
-https://lh6.googleusercontent.com/fvQL3I9e1Rko8XHcCPH4JRxOCT5hFPMJZEhyue6YruMHRuazTrSnmTYxc5rGS6nAl83eJ-os1ZTv9g=w1200-h630-p
-https://lh6.googleusercontent.com/n-AMk_paKKSf3CBLoBZEI79Qm-4l8Wmv6SpMq9lCxh45ZyhECw-IrUspGcUv7IcrViPVSsSZJszi8A=w1200-h630-p
-https://lh6.googleusercontent.com/qm4G8PYCHDGnjXeCt2IM3GcqWLiWxaJtihbfoJrp5HDA2jE8HHWIh2BklFI6UAdPJ1ZwoBoYTrknAA=w1200-h630-p
-https://lh6.googleusercontent.com/yPahz2WMLvYHKFN55Q_xnEIpyGygsXmkPfgmnVExfazQN26bi1U76PowzpqG79JEbXv9UB48F1ZHsQ=w1200-h630-p
-https://lnk.to/AIGID
-https://lnk.to/AURFB1ID
-https://lnk.to/AURTw1ID
-https://lottiefiles.com/plugins/after-effects
-https://lottiefiles.com/plugins/after-effects)
-https://marred-nectarine-1d3.notion.site/Tasks-6b289f5a29f24b598fe403d052f08c5c
-https://medium.com/@LettyPrados/how-to-contribute-to-the-te-consilience-library-an-open-call-for-te-ogs-95804d02122a
-https://medium.com/@j.moufawadpaul/reflections-about-on-necrocapitalism-e1ea9b61e05a
-https://medium.com/@sebnem/token-model-for-energy-part-3-token-design-thinking-64f7e3d18c30
-https://medium.com/@sovnature/introducing-interspecies-games-bfdf667009e1
-https://medium.com/age-of-awareness/a-brief-history-of-systems-science-chaos-and-complexity-d9198b1a198d
-https://medium.com/cybermiles/i-accidentally-killed-it-and-evaporated-300-million-6b975dc1f76b
-https://medium.com/freeelio-studios/le-grand-jeu-met-token-engineering-and-it-was-love-at-first-sight-e7a85c6d9444
-https://medium.com/sherpa-library
-https://medium.com/swlh/the-ethics-of-algorithms-1c69b87a656
-https://medium.com/team-human/true-innovators-dont-just-invent-they-retrieve-fa8cae7e38dc
-https://medium.com/the-ascent/kensho-vs-satori-and-the-art-of-achieving-what-you-need-by-standing-still-8207efbdb6fe
-https://medium.com/the-liberators/how-to-design-prepare-your-own-liberating-structures-immersion-workshop-61b9236ef2ca
-https://medium.com/token-engineering-commons/engineering-ethics-in-web3-18d981278018
-https://medium.com/token-engineering-commons/the-permissionless-dao-32fcaaaae5f8
-https://medium.com/workmatters/1-2-3-ideas-on-teal-organizations-self-management-wholeness-purpose-97014a63bd07
-https://minerva.digital/
-https://miro.com/app/board/o9J_lCDymUs=/
-https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764519202993655&cot=14
-https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764520037933267&cot=14
-https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764520208023130&cot=10
-https://miro.com/app/board/uXjVOZ71K2o=/
-https://miro.com/static/images/share/miro.png?00002
-https://miro.com/welcomeonboard/WWE0bkp4cjNFQk1WZHF3c1BtblNXQjJKQWdLVE92WGF1eVBCNGpOWHJTdVZ2ODhvT0lyVjFoRzlSc3RNMFJMT3wzNDU4NzY0NTE1MDE2OTYwNjM1?invite_link_id=691884323007
-https://miro.medium.com/focal/1200/632/45/26/0
-https://miro.medium.com/freeze/max/500/1
-https://miro.medium.com/freeze/max/640/1
-https://miro.medium.com/max/1029/1
-https://miro.medium.com/max/1032/1
-https://miro.medium.com/max/1063/0
-https://miro.medium.com/max/1200/0
-https://miro.medium.com/max/1200/1
-https://miro.medium.com/max/600/0
-https://miro.medium.com/max/600/1
-https://miro.medium.com/max/690/1
-https://mirror.xyz/
-https://moxie.org/2022/01/07/web3-first-impressions.html
-https://mubi.com/thetake
-https://news.artnet.com/about/ben-davis-93
-https://news.artnet.com/opinion/nfts-90s-comic-book-bubble-1955239
-https://newsletter.banklesshq.com/p/the-digital-culture-revolution
-https://nias.knaw.nl/insights/usefulness-useless-knowledge/
-https://noemamag.imgix.net/2021/12/NOEMAMAG.png?fit=crop&fm=png&h=628&ixlib=php-3.3.0&w=1200&wpsize=noema-social-facebook&s=25e091791d78d2e4e1bbd8cda1a6df5f
-https://norabateson.medium.com/finding-a-way-3582b2e0c6a3
-https://odysee.com/@QuantumRhino:9/The-New-Corporation-(2020):7?r=2CeHyp5mPPo9ByxsqW8vc4caqGzw8jKY
-https://opengraph.githubassets.com/32cee07b497e03af3bf4f0c1b95bdc0df364df5bedadfd26563c05fd071e6065/CommonsBuild/tec-info
-https://opengraph.githubassets.com/3f729ca3c026217a4b3659f4d91168d518820db9e14fe5533785b7ef6de041ae/TokenEngineeringCommunity/resources
-https://opengraph.githubassets.com/6708109bc470757f8ae35d51ea070ef951740a408aa764cdbbfc6f7513074947/CommonsBuild/IH-intervention/issues/1
-https://opengraph.githubassets.com/8fa2a2ea00b18c9d2c96ff53a028fe28a1fd018726ac6d8808189df4b4f35eea/CommonsBuild/IH-intervention/issues/2
-https://opengraph.githubassets.com/8fa2a2ea00b18c9d2c96ff53a028fe28a1fd018726ac6d8808189df4b4f35eea/CommonsBuild/IH-intervention/issues/5
-https://opengraph.githubassets.com/ab621179814238c769243f394173ea5315cf1c5ac6c36a17a4027bdb187cad20/CommonsBuild/IH-intervention/issues/7
-https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/58094606982063942134747016870496808992030283352610016397873011795006924521485/
-https://otherinter.net/research/positive-sum-worlds/
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907693
-https://photos.app.goo.gl/RSDYxKUfqjim3Ufb9
-https://plato.stanford.edu/entries/capability-approach/#TheoCap
-https://plato.stanford.edu/entries/game-ethics/
-https://politicalnotmetaphysical.wordpress.com/tag/intuitionism/
-https://powerdada.medium.com/soul-in-the-machine-a11b640035e9
-https://prezi.com/fvwelipehdxu/deep-wealth-a-post-monetary-jazz-ensemble/
-https://publicityreform.github.io/findbyimage/readings/lacan.pdf
-https://quiin.s3.us-east-1.amazonaws.com/events/pictures/000/146/639/large/Screenshot_2021-06-24_at_17.19.35.png?1624551651
-https://rb.gy/3a9c6j
-https://repository-images.githubusercontent.com/305978323/c7b48800-204d-11eb-83eb-a0499822faad
-https://rezgauche.be/
-https://roka.com/
-https://secure.gravatar.com/blavatar/a663776e183186548e1cacedd01380f5?s=200&ts=1633512729
-https://secure.gravatar.com/blavatar/a663776e183186548e1cacedd01380f5?s=200&ts=1643894944
-https://shorensteincenter.org/author/liz/
-https://shorensteincenter.org/programs/technology-social-change/
-https://sim.commonsstack.org/
-https://site.com/link/to/that/title
-https://skepticalscience.com/history-FLICC-5-techniques-science-denial.html
-https://sourcemaking.com/design_patterns
-https://sourcemaking.com/design_patterns/chain_of_responsibility
-https://sourcemaking.com/files/v2/content/home-tb1.png?id=944b161223408e06c3c6
-https://spoti.fi/2vayo4b
-https://standards.ieee.org/news/2016/ieee_p7000.html
-https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=1989
-https://store.mises.org/Ethics-of-Liberty-The-P238C0.aspx
-https://swae.io/
-https://swae.io/author/sam/
-https://swami-krishnananda.org/com/com_hege.html
-https://t-shirtsplus.shop/
-https://t.co/Ehdri6rqvV
-https://t.co/IjTPXIMML1
-https://t.co/THHDUBkCe4
-https://t.co/U1OmBhclLR
-https://t.co/WXdwm9Qqrg
-https://t.co/ocTR2PJV6Y
-https://t.co/zIFIVYkvh5
-https://t.co/zMjvYMCHEt
-https://t.me/tecommons
-https://tealswan.com/teals-blog/2022/
-https://tealunicorn.com/cynefin-3d-updated/
-https://technoshaman.medium.com/towards-an-enlivenment-theory-of-change-part-one-eba8bee42c64
-https://tenor.com/view/boy-kid-computer-thumbs-up-face-gif-9548945
-https://tenor.com/view/good-luck-good-luck-gif-20034388
-https://tenor.com/view/matrix-upload-neo-gif-16837099
-https://tenor.com/view/represent-fabolous-gone-for-the-winter-song-show-who-you-are-stand-up-for-your-belief-gif-19586817
-https://tenor.com/view/snoop-dogg-dancing-fun-funny-dance-dance-moves-gif-15455986
-https://text.npr.org/357629765
-https://the-commons-stack.typeform.com/to/t7M0UzZU
-https://theoatmeal.com/comics/creativity_erasers
-https://thesystemsthinker.com/author/dee-hock/
-https://thesystemsthinker.com/author/george-por/
-https://thesystemsthinker.com/nurturing-systemic-wisdom-through-knowledge-ecology/
-https://thesystemsthinker.com/the-nature-and-creation-of-chaordic-organizations/
-https://this/is/a/link
-https://tinyurl.com/3yv2zpvd
-https://token-engineering-commons.gitbook.io/tec-handbook/processes/how-do-we-work-together#onboarding-call
-https://token-engineering-commons.gitbook.io/tec-source/working-groups/omega-wg
-https://tokenengineeringcommunity.github.io/website/docs/academy-tmg1-ecosystem/
-https://tokenlog.xyz/CommonsBuild/commons-config-proposals
-https://transdisciplinary.art
-https://transdisciplinary.art/
-https://trustedadvisor.com/trustmatters/is-self-orientation-killing-your-trustworthiness
-https://twitter.com/ALCrego_
-https://twitter.com/ALCrego_/status/1482103765528465413?s=20
-https://twitter.com/JonnyMadFox
-https://twitter.com/JonnyMadFox/status/1402204789040029696?s=20
-https://twitter.com/YalorMewn
-https://twitter.com/YalorMewn/status/1469787407608209408?t=F4_2DK70V1g9ePzG6_2s4w&s=19
-https://twitter.com/cryptowanderer?lang=de
-https://twitter.com/federicoast
-https://twitter.com/federicoast/status/1405153095504609281?s=20
-https://twitter.com/i/spaces/1rmGPgwqzndKN
-https://twitter.com/oliverbeige
-https://twitter.com/oliverbeige/status/1488800114655256584?s=20&t=b9UAFhTX_KdU42IzqY-Oow
-https://twitter.com/sourcecred
-https://twitter.com/sourcecred/status/1488995380117184512?s=20&t=U1aETPoKmpssUJU_jyagVQ
-https://twitter.com/tecmns
-https://twitter.com/tecmns/status/1483485036317974534
-https://twitter.com/touchmoonflower
-https://twitter.com/touchmoonflower/status/1488250226825519104?s=20&t=5imGbsBhLrEDi_EPSlO-zA
-https://us.sagepub.com/en-us/nam/leadership-lessons-from-the-bhagavad-gita/book271653
-https://us06web.zoom.us/j/7734160496?pwd=WWtwRU9Rem5NMWFJM1c0ZDgrSEwvZz09
-https://uxdesign.cc/designing-for-autistic-people-overview-of-existing-research-d6f6dc20710e
-https://uxmastery.com/author/ashlea-mckay/
-https://uxmastery.com/researching-designing-for-autism/
-https://valueflo.ws/
-https://vimeo.com/436160762
-https://vimeo.com/desisphiltalks
-https://vitalik.ca/general/2021/09/26/limits.html#finance-is-the-absence-of-collusion-prevention
-https://vote.convexfinance.com/#/proposal/0x876b22a796ed985364252eb1b901ca6ac5a75962092a2d6e616fe746ebcd1141
-https://waitbutwhy.com/2017/04/neuralink.html
-https://wulrich.com/csh.html
-https://www.3xr.space/store/rezgauche.mintbase1.near
-https://www.ae.be/blog-en/discriminating-ai-be-conscious-about-the-unconscious-bias
-https://www.amazon.com/Capability-Approach-Practice-Development-Routledge-ebook/dp/B07D18S1NB/ref=sr_1_2?dchild=1&keywords=ethics+of+capability+approach&qid=1634151136&sr=8-2
-https://www.amazon.com/Game-Theory-101-Complete-Textbook-ebook/dp/B005L7ANWC
-https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/MilitaryReview_20141031_art013.pdf
-https://www.briantracy.com/
-https://www.britannica.com/story/whats-the-difference-between-morality-and-ethics
-https://www.britannica.com/topic/Daoism/Ideas-of-knowledge-and-language
-https://www.chinesefortunecalendar.com/Images/YY50BG.gif
-https://www.chinesefortunecalendar.com/yinyang.htm
-https://www.circularconversations.com/conversations/follow-energy-patterns-to-build-healthy-systems
-https://www.complexityweekend.com/
-https://www.degruyter.com/document/cover/journal_key/SATS/product
-https://www.degruyter.com/document/doi/10.1515/sats-2020-2009/html
-https://www.designmantic.com/community/designing-for-autistic.php
-https://www.documenta14.de/de/south/34_edouard_glissants_weltmentalitaet_un_monde_en_relation_eine_einfuehrung
-https://www.documenta14.de/de/south/34_edouard_glissants_weltmentalitaet_un_monde_en_relation_eine_einfuehrung)
-https://www.economicshelp.org/blog/glossary/austrian-school/
-https://www.economist.com/by-invitation/2022/02/09/yuval-noah-harari-argues-that-whats-at-stake-in-ukraine-is-the-direction-of-human-history
-https://www.economist.com/by-invitation/2022/02/09/yuval-noah-harari-argues-that-whats-at-stake-in-ukraine-is-the-direction-of-human-history)
-https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/ethics-experimentation
-https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/ethics-experimentation)
-https://www.eui.eu/DepartmentsAndCentres/AcademyEuropeanLaw/Projects/AutonomousWeaponsSystems
-https://www.facebook.com/MikeLove808
-https://www.favicon.cc/
-https://www.figma.com/file/p7FWAlRk7PhWRLqxbmlzqN/Library-User-Journey?node-id=0%253A1
-https://www.figma.com/file/p7FWAlRk7PhWRLqxbmlzqN/Library-User-Journey?node-id=0%3A1
-https://www.forbes.com/sites/laurashin/2022/02/22/exclusive-austrian-programmer-and-ex-crypto-ceo-likely-stole-11-billion-of-ether/
-https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00234/full
-https://www.goodreads.com/book/show/24453082-big-magic
-https://www.goodreads.com/book/show/24453082-big-magic)
-https://www.google.com/url?q=https://docs.google.com/document/d/1TlkVH8dX1XoiUO57MXMrRzp1-JlQj2sbo4RCEe437PY/edit%2523heading%253Dh.mfwf7l9lteyu&sa=D&source=calendar&usd=2&usg=AOvVaw26XsyPDhlLj5ApaCH34n-Z
-https://www.hsdl.org/?view&did=750070
-https://www.ias.edu/about/usefulness-useless-knowledge
-https://www.ias.edu/ideas/2012/lavin-truth-and-beauty
-https://www.ifishman.de/fileadmin/user_upload/Publikationen/2019/Campos_Candela_etal_2019_EcoLet.pdf
-https://www.iimb.ac.in/sites/default/files/pdf/Leadership%20Lessons%20from%20Gita.pdf
-https://www.iimb.ac.in/sites/default/files/pdf/Leadership%2520Lessons%2520from%2520Gita.pdf
-https://www.institutionalinvestor.com/article/b1gq9tqwk8z108/They-Get-Fired-All-the-Time-And-They-Have-No-Idea-Why
-https://www.interdependence.online/declaration
-https://www.keele.ac.uk/media/keeleuniversity/facnatsci/schpsych/documents/counselling/conference/5thannual/NarrativeApproachestoCaseStudies.pdf
-https://www.khanacademy.org/science/physics/work-and-energy/work-and-energy-tutorial/v/introduction-to-work-and-energy
-https://www.liberatingstructures.com/1-1-2-4-all/
-https://www.liberatingstructures.com/27-agreement-certainty-matrix/
-https://www.liberatingstructures.com/6-making-space-with-triz/
-https://www.liberatingstructures.com/9-what-so-what-now-what-w/
-https://www.mdpi.com/2076-3417/11/21/10469/htm
-https://www.mdpi.com/img/journals/applsci-logo-sq.png?1693b1ae19024e2e
-https://www.mettacenter.org/nonviolencereport/resistance-to-war-in-ukraine-resource-list
-https://www.minds.com/InfiniteImaginarium/blog/a-guide-to-the-infinite-imaginarium-1342285910401617930
-https://www.minds.com/blog/view/834540240379695104
-https://www.minds.com/curryhobo/blog/mindful-tokenization-animorphology-p01-v01-948124871581286400
-https://www.minds.com/newsfeed/1346590036862177287
-https://www.mintbase.io/store/rezgauche.mintbase1.near
-https://www.moralmachine.net/
-https://www.mutations.blog/2021/07/07/notes-on-designing-aperspectivital-containers/
-https://www.mutations.blog/author/mutations_wmsxkf/
-https://www.mutations.blog/wp-content/uploads/2021/07/eamesmodel-1.jpeg
-https://www.nature.com/articles/d41586-018-07135-0
-https://www.nature.com/articles/s41599-021-00891-x
-https://www.nbcnews.com/news/us-news/edward-o-wilson-biologist-known-ant-man-darwins-natural-heir-dies-92-rcna10053
-https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-logo-share.png?_=0
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4860198/
-https://www.ngi.eu/opencalls/#ontochain-opencall
-https://www.noemamag.com/ai-blockchain-human-autonomy-future/
-https://www.nonviolent-conflict.org/wp-content/uploads/2018/09/MahatmaGandhi_MartinLutherKing_MaryKing.pdf
-https://www.notion.so/
-https://www.notion.so/62f92f29e6264f4889070c91eac44852
-https://www.notion.so/885fe0a1c92447d0840bd27b028977af
-https://www.notion.so/885fe0a1c92447d0840bd27b028977af?v=747bb98a261a4d3595e3e760b53578e1
-https://www.notion.so/Longtail-Financial-Organization-9253da57b309458b8687d2346c1b2a90?p=cef5996d21584301a97b3f3ed7e35d89
-https://www.notion.so/Start-Here-35628f12828a4e4fbaf2eb9135e4de8d
-https://www.notion.so/Start-Here-Creative-participation-35628f12828a4e4fbaf2eb9135e4de8d
-https://www.notion.so/Start-Here-a1c6ca9660f6428380238000e8892164
-https://www.notion.so/TE-Consilience-Library-0ad18a999ee44926adf2fcfcab6418b0
-https://www.notion.so/TE-Consilience-Library-Dashboard-6b289f5a29f24b598fe403d052f08c5c
-https://www.notion.so/TE-Consilience-Library-f222e80f33744995ba885ff7acf6c5bc
-https://www.notion.so/Tasks-6b289f5a29f24b598fe403d052f08c5c
-https://www.notion.so/Timeline-of-Proposal-Inverter-cf5ec7591de24e9fa6fff82f446c5a96
-https://www.notion.so/cef5996d21584301a97b3f3ed7e35d89
-https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F242718aa-e73a-45ba-b681-100e4a8b5d73%2FScreen_Shot_2021-12-22_at_18.47.54.png?table=block&id=a1c6ca96-60f6-4283-8023-8000e8892164&spaceId=9d7dcf39-7dc0-4040-9f68-bc65d5c388b8&width=2000&userId=&cache=v2
-https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F25dc6f87-b1c4-4233-852b-f3cf6dff6430%2FShare.jpg?table=block&id=f222e80f-3374-4995-ba88-5ff7acf6c5bc&spaceId=9d7dcf39-7dc0-4040-9f68-bc65d5c388b8&width=2000&userId=&cache=v2
-https://www.notion.so/mintbase-arweave-inventory-71923754656e497baf9d0c0c8e25d416
-https://www.notion.so/primedao/Timeline-of-Proposal-Inverter-cf5ec7591de24e9fa6fff82f446c5a96
-https://www.nytimes.com/1989/11/25/opinion/ethics-courses-useless.html
-https://www.nytimes.com/2022/01/18/business/dealbook/web3-venture-capital-andreessen.html
-https://www.pact-zollverein.de/en/artists-centre/artists/common-wallet
-https://www.pact-zollverein.de/en/artists-centre/artists/common-wallet)
-https://www.participatorymethods.org/glossary/participatory-action-research
-https://www.patreon.com/3blue1brown
-https://www.quora.com/How-could-we-define-collective-intelligence/answer/Jim-Whitescarver
-https://www.quora.com/What-are-some-uncommon-ways-to-work-smarter-instead-of-harder/answer/Hannah-Yang-4?ch=17&oid=68489966&share=9dad3ae8&srid=h2Lv&target_type=answer
-https://www.radicalxchange.org/concepts/partial-common-ownership/
-https://www.radicalxchange.org/fellowship/the-global-centre-for-risk-and-innovation/
-https://www.researchethicsconference.co.uk/rec2021-programme
-https://www.researchgate.net/publication/249731656_Symbolic_discourse_Mystical_writing_as_anti-language
-https://www.researchgate.net/publication/318110228_On_the_Verge_of_Collective_Awakening
-https://www.resultsmap.com/author/admin/
-https://www.resultsmap.com/blog/capacity-vs-capability-whats-the-difference/
-https://www.ribbonfarm.com/2017/10/10/the-blockchain-man/
-https://www.ribbonfarm.com/author/taylor/
-https://www.roxytube.com/site-pages/Donate
-https://www.ruinedby.design/sample-chapter
-https://www.schooloflove.be/author/adva-zakai/
-https://www.schooloflove.be/howtosol/
-https://www.sessionlab.com/library?q=liberating%20structures
-https://www.sessionlab.com/library?q=liberating%2520structures
-https://www.slideshare.net/tmatyashovsky
-https://www.strongtowns.org/journal/2010/11/22/confessions-of-a-recovering-engineer.html
-https://www.swami-krishnananda.org/gita.html
-https://www.swami-krishnananda.org/gita_00.html
-https://www.systemsawareness.org/about/
-https://www.tealswan.net/present
-https://www.teamhuman.fm/episodes/ep-116-live-at-civic-hall-pt-2-pesce
-https://www.thenewatlantis.com/author/brianshim
-https://www.thenewatlantis.com/publications/the-age-of-female-computers
-https://www.thriftbooks.com/w/the-calculus-virgin-an-artists-view-of-the-language-of-calculus_louis-leithold_darcy-hayman/2997606/#edition=6326121
-https://www.veritasium.com/videos/2021/11/1/this-problem-broke-math-and-led-to-quantum-physics
-https://www.veritasium.com/videos/2021/11/1/this-problem-broke-math-and-led-to-quantum-physics)
-https://www.vitadao.com/
-https://www.wired.com/2016/10/computational-law-symbolic-discourse-and-the-ai-constitution/
-https://www.withtally.com/governance/eip155:1:0xc0Da02939E1441F497fd74F78cE7Decb17B66529
-https://www.yorkshirepost.co.uk/business/geeks-usurping-masters-universe-wall-street-1872000
-https://www.youtube.com/channel/UC1KIUp4PNCyIwCPTq1hYzWQ
-https://www.youtube.com/channel/UC1KmNKYC1l0stjctkGswl6g
-https://www.youtube.com/channel/UC4FBA16OIE-cuHLATrdxJpA
-https://www.youtube.com/channel/UC68yFzjGPckq-C4JADjFwDw
-https://www.youtube.com/channel/UC6_0bJa1OVJHmVkMZH4PhRw
-https://www.youtube.com/channel/UC6qEdtxp_IAaVrNAHUIhHbQ
-https://www.youtube.com/channel/UC7Lhhngb9lLW6tuPddEM62A
-https://www.youtube.com/channel/UC9ukDS23-Udtm3AaY-WA5Iw
-https://www.youtube.com/channel/UCA9fHxOPxJHLhWV_9OWhb-Q
-https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug
-https://www.youtube.com/channel/UCFPtACroLTFcnzaWy8f9B2A
-https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw
-https://www.youtube.com/channel/UCFQMnBA3CS502aghlcr0_aw
-https://www.youtube.com/channel/UCFUig2I2aqppck6dj0niUJQ
-https://www.youtube.com/channel/UCGQSVeVADPY8FO9-wq6fTcg
-https://www.youtube.com/channel/UCG_aOqfLjNrosRrnidkxAeg
-https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
-https://www.youtube.com/channel/UCHvlhds4GFZcspdONVtJVUQ
-https://www.youtube.com/channel/UCI5nH-tPMmIbxJT4XgE_-bg
-https://www.youtube.com/channel/UCJDIGW0ywWw9Kh9_vtwqxXA
-https://www.youtube.com/channel/UCJIfeSCssxSC_Dhc5s7woww
-https://www.youtube.com/channel/UCJktcw5cS1QVisZDf-2XxSQ
-https://www.youtube.com/channel/UCJubNqOYtE0qMh-M2rVKMRQ
-https://www.youtube.com/channel/UCNncdF6bvO_d5N1KhKo_Pxw
-https://www.youtube.com/channel/UCPwc54vGBFtZ_DZFk-qqA9A
-https://www.youtube.com/channel/UCRYegnI3eZX8y0sRx0vYKPg
-https://www.youtube.com/channel/UCRieNjAkS3RtqD1XJZ0bFqQ
-https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w
-https://www.youtube.com/channel/UCSuBGV3Qme4aZJajbYCXh0Q
-https://www.youtube.com/channel/UCV3Yo3l2btxngeoj8zVsvNA
-https://www.youtube.com/channel/UCVckXeMCj-Ht9xsrWsjaiag
-https://www.youtube.com/channel/UCVjsbqKtxkLt7bal4NWRjJQ
-https://www.youtube.com/channel/UCXIa3lhJtsfH9Y23xPRUGGA
-https://www.youtube.com/channel/UCY-0eE6fX-tkicr2mh8e_kA
-https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
-https://www.youtube.com/channel/UCYSOX-TvM7AzKI6e3oRvmbg
-https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg
-https://www.youtube.com/channel/UCbiau62nFffObonYMiqVp_g
-https://www.youtube.com/channel/UCcMViyRW8GMZxt8V1sLZBTA
-https://www.youtube.com/channel/UCew0u8PB9V21wRgS6KEBqbg
-https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA
-https://www.youtube.com/channel/UCh4d-BxR1jkNWY9d3eFpvVw
-https://www.youtube.com/channel/UCj3V4f_hDstWwiHexNLCeyw
-https://www.youtube.com/channel/UCpzN_PFW1uZyzLoyzOqFI7Q
-https://www.youtube.com/channel/UCrTg30hLacKmXRZ_KMZ7QBA
-https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q
-https://www.youtube.com/channel/UCta2VYw9XFhSwjmpsZBNMmQ
-https://www.youtube.com/channel/UCuV--hDFVXS69PNdFgdyhbw
-https://www.youtube.com/channel/UCuvchsdxuugVDfzc2JcHWdw
-https://www.youtube.com/channel/UCyxZTwSczCmfgBap95HydlA
-https://www.youtube.com/channel/UCzO4iNIRZkPykhLQSclQGng
-https://www.youtube.com/channel/UCzdZyq2SC9BtMn3fLTknIMQ
-https://www.youtube.com/watch?v=-F4enP8oBFM
-https://www.youtube.com/watch?v=0VY4Anl0jtQhttps://en.wikiquote.org/wiki/E._O._Wilson#Consilience:_The_Unity_of_Knowledge_(1998
-https://www.youtube.com/watch?v=0VY4Anl0jtQhttps://en.wikiquote.org/wiki/E._O._Wilson#Consilience:_The_Unity_of_Knowledge_(1998)
-https://www.youtube.com/watch?v=1WXroiXWfcI
-https://www.youtube.com/watch?v=4-SGpEInX_c
-https://www.youtube.com/watch?v=9Xc3ZuMeW-E
-https://www.youtube.com/watch?v=BNywylAzsz0
-https://www.youtube.com/watch?v=DPDOltQei9s
-https://www.youtube.com/watch?v=Gp2GMujyC58
-https://www.youtube.com/watch?v=HVx_jIBqumc
-https://www.youtube.com/watch?v=HzstY8SfgeQ
-https://www.youtube.com/watch?v=LVDSjOcKQ4c
-https://www.youtube.com/watch?v=LodlLImRPOk
-https://www.youtube.com/watch?v=Mmkae9E93tk&t=6422s
-https://www.youtube.com/watch?v=N7oz366X0-8
-https://www.youtube.com/watch?v=NNnEAQo1dBQ
-https://www.youtube.com/watch?v=Oi3MnJtCDPE
-https://www.youtube.com/watch?v=TeQjuWZXMv8
-https://www.youtube.com/watch?v=UXyHf_SpUUI
-https://www.youtube.com/watch?v=UkZ1wuU3H1A
-https://www.youtube.com/watch?v=_Mc_OM5oNA8
-https://www.youtube.com/watch?v=dLuDMY5p_aY
-https://www.youtube.com/watch?v=f3IikMAhIWo
-https://www.youtube.com/watch?v=fU7hZ3smj0g&list=PLJ-GfXbWGi6skDKkNig9cl62hlUSnxTXQ&index=29
-https://www.youtube.com/watch?v=jzsJ4Ve1mcQ&t=233s
-https://www.youtube.com/watch?v=mH0oCDa74tE
-https://www.youtube.com/watch?v=svfDdcPmELk
-https://www.youtube.com/watch?v=tkxR1TcG4n4
-https://www.youtube.com/watch?v=uQdZBOVYLdI
-https://youtu.be/-F4enP8oBFM
-https://youtu.be/1svQzhYwUEQ
-https://youtu.be/3gO0m1izouk
-https://youtu.be/7LqaotiGWjQ
-https://youtu.be/8zVxnaYAGD0
-https://youtu.be/A-Rm1DsV7GM
-https://youtu.be/A7MaoD4tJuc
-https://youtu.be/BovLOS-kx5I
-https://youtu.be/CXERSTM_sEI
-https://youtu.be/CfpSU1sATlQ
-https://youtu.be/EUNHj5eh7BM
-https://youtu.be/E_cyCuCKQhs
-https://youtu.be/EaCG0GBpE30?t=158
-https://youtu.be/HSXD93_S6FU
-https://youtu.be/HeQX2HjkcNo
-https://youtu.be/Hwnb1L-C4Do?t=62
-https://youtu.be/OHEFY1Nf5SU
-https://youtu.be/P2gOknhGHII
-https://youtu.be/PHm2I9V4q2A
-https://youtu.be/QJ2_xojYtp4?t=799
-https://youtu.be/SNVZ3IuNlXY
-https://youtu.be/TUyn2pA-Hyc
-https://youtu.be/W9YPnIXR75Y
-https://youtu.be/XFVARio4pAk
-https://youtu.be/Yo5cKRmJaf0
-https://youtu.be/_N6Nb2y-CJ4
-https://youtu.be/fQR1ltBiPnM
-https://youtu.be/gaFQJaQTXhY
-https://youtu.be/jy8WX4xjDK8
-https://youtu.be/nq0_zGzSc8g
-https://youtu.be/p-WWoGOf8fY
-https://youtu.be/pCpLWbHVNhk
-https://yt3.ggpht.com/ytc/AAUvwnhqIARxYjjyXimxniSCw7sbfXnzmua1qAcR67LjnA=s900-c-k-c0x00ffffff-no-rj
-https://zoom.us/j/96103614246?pwd=VjJzd09EbmNzbERTeVFDNm5MZTkyUT09
-https://zoom.us/j/97001618307
-https://zoom.us/j/97196270121?pwd=WGFyZmlkbXUrM0hkblNrY2hEUmRnZz09
-https://zoom.us/j/99963534463?pwd=SWN5ckFiZlRkY3JPNWg1UUV6ZVZPQT09
 
 ## Chat
 
@@ -1155,7 +407,7 @@ The tool I mentioned that mixes AI to automate some "degrees" of governance: [ht
 
 [Sam Goult](https://swae.io/author/sam/)
 
-Where Ideas Grow - Remote Working SaaS | Swae
+Where Ideas Grow - Remote Working SaaS - Swae
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -2546,7 +1798,7 @@ works te->tec only
 
 _08-Jun-21 04:32 PM_:
 
-TE CONSILIENCE PROJECT “The problem”, "The promise" - ‘Unity of Knowledge’ Larry Dossey | Consilience: The Problem [https://www.youtube.com/watch?v=0VY4Anl0jtQhttps://en.wikiquote.org/wiki/E._O._Wilson#Consilience:_The_Unity_of_Knowledge_(1998)](https://www.youtube.com/watch?v=0VY4Anl0jtQhttps://en.wikiquote.org/wiki/E._O._Wilson#Consilience:_The_Unity_of_Knowledge_(1998)) "Consilience: The Unity of Knowledge" by biologist E.O. Wilson suggests that different avenues of evidence could link together to create a common groundwork of explanation in the search for human wisdom. >> Specifically for TE, we’ll start by building a TE Library using the crypto-flower as a taxonomy to inform an attempt to unify this knowledge. With the premise that this knowledge is understood/derived/built into a sensible epistemology and larger ethos, co-creating virtuous circles in a multi-disciplinary work. >> By virtue of dynamically doing this work and adopting this “goal”, “perspective” or “ethos” - an exponential leap in all quadrants and dimensions contained in Wilber’s Integral theory might emerge. (edited)
+TE CONSILIENCE PROJECT “The problem”, "The promise" - ‘Unity of Knowledge’ Larry Dossey - Consilience: The Problem [https://www.youtube.com/watch?v=0VY4Anl0jtQhttps://en.wikiquote.org/wiki/E._O._Wilson#Consilience:_The_Unity_of_Knowledge_(1998)](https://www.youtube.com/watch?v=0VY4Anl0jtQhttps://en.wikiquote.org/wiki/E._O._Wilson#Consilience:_The_Unity_of_Knowledge_(1998)) "Consilience: The Unity of Knowledge" by biologist E.O. Wilson suggests that different avenues of evidence could link together to create a common groundwork of explanation in the search for human wisdom. >> Specifically for TE, we’ll start by building a TE Library using the crypto-flower as a taxonomy to inform an attempt to unify this knowledge. With the premise that this knowledge is understood/derived/built into a sensible epistemology and larger ethos, co-creating virtuous circles in a multi-disciplinary work. >> By virtue of dynamically doing this work and adopting this “goal”, “perspective” or “ethos” - an exponential leap in all quadrants and dimensions contained in Wilber’s Integral theory might emerge. (edited)
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
@@ -3259,7 +2511,7 @@ Hey all! Added to TE Consilience Project, to Ethics part: [https://docs.google.c
 
 TE Consilience Project -0Mega Initiative
 
-[Make this to a concrete proposal, obviously useful to TE] TE CONSILIENCE PROJECT “The problem”, “The promise” - ‘Unity of Knowledge’ Larry Dossey | Consilience: The Problem [https://en.wikiquote.org/wiki/E._O._Wilson#Consilience:_The_Unity_of_Knowledge_(1998)](https://en.wikiquote.org/wiki/E._O._Wilson#Consilience:_The_Unity_of_Knowledge_(1998)) "Consilience: The Unity of Knowled...
+[Make this to a concrete proposal, obviously useful to TE] TE CONSILIENCE PROJECT “The problem”, “The promise” - ‘Unity of Knowledge’ Larry Dossey - Consilience: The Problem [https://en.wikiquote.org/wiki/E._O._Wilson#Consilience:_The_Unity_of_Knowledge_(1998)](https://en.wikiquote.org/wiki/E._O._Wilson#Consilience:_The_Unity_of_Knowledge_(1998)) "Consilience: The Unity of Knowled...
 
 [https://lh6.googleusercontent.com/fvQL3I9e1Rko8XHcCPH4JRxOCT5hFPMJZEhyue6YruMHRuazTrSnmTYxc5rGS6nAl83eJ-os1ZTv9g=w1200-h630-p](https://lh6.googleusercontent.com/fvQL3I9e1Rko8XHcCPH4JRxOCT5hFPMJZEhyue6YruMHRuazTrSnmTYxc5rGS6nAl83eJ-os1ZTv9g=w1200-h630-p)
 
@@ -3393,7 +2645,7 @@ _23-Jun-21 02:30 PM_:
 
 [https://miro.com/app/board/o9J_lCDymUs=/](https://miro.com/app/board/o9J_lCDymUs=/)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Sign up using your Office 365, Slack, Google or Facebook accounts.
 
@@ -3421,7 +2673,7 @@ Thank you all for sharing your thoughts and insights and all the effort put into
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-!praise @solsista @chuygarcia.eth @David D. | TEC @durgadas @Juankbell @Letty @liviade @rodbot2 @sbilbao @Suga @Zeptimus @vanjeer for particpating in the 0mega call
+!praise @solsista @chuygarcia.eth @David D. - TEC @durgadas @Juankbell @Letty @liviade @rodbot2 @sbilbao @Suga @Zeptimus @vanjeer for particpating in the 0mega call
 
 <img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
@@ -3443,7 +2695,7 @@ _23-Jun-21 03:20 PM_:
 
 2
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _23-Jun-21 03:29 PM_:
 
@@ -3455,7 +2707,7 @@ For example, Transportation employees like Long-haul truckers, train staff, Mari
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [I have some feedback about question #3. There is no option to choose "Other" which really can exclude a vast number of people.](about:blank#)
 
@@ -3497,7 +2749,7 @@ This is a weirder opinion piece than what I’m use to. So it might be a bit inc
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [For example, Transportation employees like Long-haul truckers, train staff, Marine employees like boat crew, Pilots. I suggest adding an option to choose other, along with a field to freely state one's area of experience. Thanks!  (edited)](about:blank#)
 
@@ -3521,7 +2773,7 @@ the execution function, and the finance function, for sure the work function hav
 
 Anyways, I really like the "Phases" and "Functions" reasoning for mapping the ethical decisin making action (and consequences) space
 
-!praise @rodbot2 @David D. | TEC for joining 0mega WG call for the first time and already adding/triggering insights with their contributions! (edited)
+!praise @rodbot2 @David D. - TEC for joining 0mega WG call for the first time and already adding/triggering insights with their contributions! (edited)
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f49b.png" width=50 height=50>
 
@@ -3606,7 +2858,7 @@ Home
 
 [https://hopin.com/events/research-ethics-conference-2021](https://hopin.com/events/research-ethics-conference-2021)
 
-Research Ethics Conference 2021 - Jun 25 | Hopin
+Research Ethics Conference 2021 - Jun 25 - Hopin
 
 Get tickets to Research Ethics Conference 2021, taking place 06/25/2021. Hopin is your source for engaging events and experiences.
 
@@ -3737,7 +2989,7 @@ WG 0mega - Agenda (Biweekly Wed. 8PM CET)
 
 going through the community survey [https://miro.com/app/board/o9J_lCDymUs=/](https://miro.com/app/board/o9J_lCDymUs=/)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Sign up using your Office 365, Slack, Google or Facebook accounts.
 
@@ -4060,7 +3312,7 @@ and run it on DappNodes h/t @lanski
 
 just a marker, will put it on the agenda/topics
 
-NGI Open Calls | Next Generation Internet
+NGI Open Calls - Next Generation Internet
 
 NGI Research and Innovation Actions (RIAs) provide support to projects from outstanding researchers, hi-tech startups and SMEs. Get funded!
 
@@ -4342,7 +3594,7 @@ _04-Aug-21 04:56 PM_:
 
 [State of the Net](https://www.youtube.com/channel/UCj3V4f_hDstWwiHexNLCeyw)
 
-Dave Snowden | How not to manage complexity | State of the Net 2013
+Dave Snowden - How not to manage complexity - State of the Net 2013
 
 State of the Net 2013 - Trieste (Italy), May 31st and June 1st Keynote speech How not to manage complexity Dave Snowden, chief scientific officer at Cognitive Edge [http://sotn.it/2013/05/14/dave-snowden-2013/](http://sotn.it/2013/05/14/dave-snowden-2013/) State of the Net [http://sotn.it](http://sotn.it/) [http://twitter.com/stateofthenet](http://twitter.com/stateofthenet) [http://facebook.com/stateofthenet](http://facebook.com/stateofthenet) #sotn13
 
@@ -4745,7 +3997,7 @@ IEEE P7000™ project aims to directly address ethics throughout the design proc
 
 [Tom Duhamel](https://ethicsinaction.ieee.org/author/tduhamel/)
 
-IEEE 7000™ Projects | IEEE Ethics In Action in A/IS - IEEE SA
+IEEE 7000™ Projects - IEEE Ethics In Action in A/IS - IEEE SA
 
 Explore & join any of our approved IEEE 7000 Standards & Projects. Help set the standards for ethically aligned autonomous and intelligent systems.
 
@@ -4778,7 +4030,7 @@ this standardised ISO approach feels rather dead to me. I think we need a lot of
 
 [https://wulrich.com/csh.html](https://wulrich.com/csh.html)
 
-CSH | W. Ulrich | Ulrich's Home Page: A Mini-Primer of Critical Sys...
+CSH - W. Ulrich - Ulrich's Home Page: A Mini-Primer of Critical Sys...
 
 The shortest available introduction to critical systems heuristics (CSH) and its main tool, boundary critique
 
@@ -4920,7 +4172,7 @@ _23-Sep-21 06:54 PM_:
 
 [Liz Schwartz](https://shorensteincenter.org/author/liz/)
 
-Technology & Social Change | Shorenstein Center
+Technology & Social Change - Shorenstein Center
 
 Led by Dr. Joan Donovan (@BostonJoan), The Technology and Social Change Project (TaSC) explores media manipulation as a means to control public conversation, derail democracy, and disrupt society. TaSC conducts research, develops methods, and facilitates workshops for journalists, policy makers, technologists, and civil society organizat...
 
@@ -5361,7 +4613,7 @@ solsista
 
 [wow](about:blank#)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _02-Oct-21 01:53 AM_:
 
@@ -5426,7 +4678,7 @@ but here it is
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [Solsista where are these excerpts from? Those words...they echo again and again through me... "Whatever I've relied on so far, is suddenly suspicious."](about:blank#)
 
@@ -6267,7 +5519,7 @@ rodbot2 27-Oct-21 02:21 PM
 
 re: complexity. Amazing events: [https://www.complexityweekend.com/](https://www.complexityweekend.com/)
 
-Complexity Weekend | November 12, 2021 - November 14, 2021
+Complexity Weekend - November 12, 2021 - November 14, 2021
 
 Join our facilitated weekend event and cohort taking place entirely online. Learn to apply Complexity Science toward solving important problems you're passionate about within a diverse team setting.
 
@@ -6736,13 +5988,13 @@ Our moral responsibility (no pressure)
 
 1
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _03-Nov-21 03:53 PM_:
 
 [https://www.briantracy.com/](https://www.briantracy.com/)
 
-Leading Self Development Courses | Brian Tracy
+Leading Self Development Courses - Brian Tracy
 
 Discover Brian's proven techniques & strategy for great success in sales, time management, self-development, personal wealth, business, leadership & more!
 
@@ -6760,7 +6012,7 @@ Leadership Lessons from the Bhagavad Gita
 
 ![https://us.sagepub.com/sites/default/files/upm-assets/105661_book_item_105661.jpg](https://us.sagepub.com/sites/default/files/upm-assets/105661_book_item_105661.jpg)
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _03-Nov-21 03:55 PM_:
 
@@ -6804,7 +6056,7 @@ _03-Nov-21 03:57 PM_:
 
 ok sounds good! What makes you say it is a cult?
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _03-Nov-21 03:57 PM_:
 
@@ -6824,7 +6076,7 @@ The Philosophy of the Bhagavadgita - A saga of the struggle of the individual th
 
 1
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _03-Nov-21 03:57 PM_:
 isn't all religion a cult?
@@ -6847,7 +6099,7 @@ Another series of discourses on the Bhagavadgita that Swamiji gave to the studen
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
-David D. | TEC
+David D. - TEC
 
 [isn't all religion a cult?](about:blank#) 
 
@@ -6859,7 +6111,7 @@ _03-Nov-21 03:58 PM_:
 
 Definitely not
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _03-Nov-21 03:58 PM_:
 
@@ -7110,7 +6362,7 @@ _03-Nov-21 05:28 PM_:
 
 no not at all, love this: [https://nias.knaw.nl/insights/usefulness-useless-knowledge/](https://nias.knaw.nl/insights/usefulness-useless-knowledge/) but it talks about the "value of useless knowledge"
 
-The Usefulness of Useless Knowledge | NIAS
+The Usefulness of Useless Knowledge - NIAS
 
 In his classic essay "The Usefulness of Useless Knowledge," Abraham Flexner, the founding director of the Institute for Advanced Study in Princeton, defends "the unobstructed pursuit of useless knowledge" and the search for answers to deep questions, motivated solely by curiosity and without concern for applications. The essay is as valuable tod...
 
@@ -8226,7 +7478,7 @@ _08-Nov-21 12:34 AM_:
 
 [Lex Clips](https://www.youtube.com/channel/UCJIfeSCssxSC_Dhc5s7woww)
 
-How Cardano uses Wolfram Alpha | Stephen Wolfram and Lex Fridman
+How Cardano uses Wolfram Alpha - Stephen Wolfram and Lex Fridman
 
 Lex Fridman Podcast full episode: [https://www.youtube.com/watch?v=4-SGpEInX_c](https://www.youtube.com/watch?v=4-SGpEInX_c) Please support this podcast by checking out our sponsors: - ROKA: [https://roka.com/](https://roka.com/) and use code LEX to get 20% off your first order - FightCamp: [https://joinfightcamp.com/lex](https://joinfightcamp.com/lex) to get free shipping - Onnit: [https://lexfridman.com/onnit](https://lexfridman.com/onnit) to get up to 10% off - Indeed: htt...
 
@@ -8305,7 +7557,7 @@ catching dinner with fam, hope will be on time
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
 
-<h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _10-Nov-21 02:28 PM_:
 
@@ -9983,7 +9235,7 @@ Would you like to kickstart with foundation? what people can fill out: our Group
 
 [https://miro.com/app/board/o9J_lCDymUs=/](https://miro.com/app/board/o9J_lCDymUs=/)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 10M+ users from around the world
 
@@ -10349,7 +9601,7 @@ I could imagine that the book's community will be interested in the sessions we'
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4b0.png" width=50 height=50>
 
-A Hitchhiker's Guide to Token Engineering | Grants
+A Hitchhiker's Guide to Token Engineering - Grants
 
 "A Hitchhiker's Guide to Token Engineering“ is a crowdsourced and crowdfunded book and online content repo for token designers, entrepreneurs and applied researchers to get the hang of Token Engineering. The book aims at giving the full account of experience with an end-to-end tool chain: from co-designing the digital ecosystem through games, to...
 
@@ -10826,7 +10078,7 @@ Collectively authored and backed by the citizens of the Pluriverse
 
 [https://www.noemamag.com/ai-blockchain-human-autonomy-future/](https://www.noemamag.com/ai-blockchain-human-autonomy-future/)
 
-What Tech Futurists Get Wrong About Human Autonomy | NOEMA
+What Tech Futurists Get Wrong About Human Autonomy - NOEMA
 
 The aim to transcend that which makes us human is not the path to serving humanity.
 
@@ -12535,7 +11787,7 @@ _05-Jan-22 03:38 PM_:
 
 I'm looking into this Liberating Structures, after hearing so many good recommendations about it by @durgadas @Sparrow 🌚 DADA @Michal - this side has them as digital cards: [https://www.sessionlab.com/library?q=liberating%20structures](https://www.sessionlab.com/library?q=liberating%2520structures)
 
-Facilitation Techniques and Workshop Activities | Library
+Facilitation Techniques and Workshop Activities - Library
 
 Hundreds of group facilitation activities for workshops, meetings and training sessions. Find the best team building activities, energisers, process facilitation and leadership development...
 
@@ -12568,7 +11820,7 @@ I didn’t actually directly work with gitcoin or moonshot on it
 
 ZenHub
 
-Project Management and Software Development with GitHub | ZenHub
+Project Management and Software Development with GitHub - ZenHub
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
 
@@ -12761,7 +12013,7 @@ for structuring the "baseline" of 0mega
 
 hope we will soon get some more insights from value aligned social change / movement creators... Look forward to our Wednesday synch
 
-Participatory Action Research | Participatory Methods
+Participatory Action Research - Participatory Methods
 
 Participatory Action Research (PAR) is an approach to enquiry which has been used since the 1940s. It involves researchers and participants working together to understand a problematic situation and change it for the better. There are many definitions of the approach, which share some common elements. PAR focuses on social change that promotes d...
 
@@ -12869,7 +12121,7 @@ _12-Jan-22 01:28 PM_:
 
 [https://miro.com/welcomeonboard/WWE0bkp4cjNFQk1WZHF3c1BtblNXQjJKQWdLVE92WGF1eVBCNGpOWHJTdVZ2ODhvT0lyVjFoRzlSc3RNMFJMT3wzNDU4NzY0NTE1MDE2OTYwNjM1?invite_link_id=691884323007](https://miro.com/welcomeonboard/WWE0bkp4cjNFQk1WZHF3c1BtblNXQjJKQWdLVE92WGF1eVBCNGpOWHJTdVZ2ODhvT0lyVjFoRzlSc3RNMFJMT3wzNDU4NzY0NTE1MDE2OTYwNjM1?invite_link_id=691884323007)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 30M+ users from around the world
 
@@ -14570,7 +13822,7 @@ Gideonro
 
 _23-Jan-22 10:25 PM_:
 
-you mean Tally? I thought it was useful for having an overview but didn't go deeper - hey @James | Aptos Labs maybe this one's for you? is this an issue in D2D research. @Gideonro I'd definitely also engage the governaouts research program at TEA - let me know if you need links
+you mean Tally? I thought it was useful for having an overview but didn't go deeper - hey @James - Aptos Labs maybe this one's for you? is this an issue in D2D research. @Gideonro I'd definitely also engage the governaouts research program at TEA - let me know if you need links
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50>
 
@@ -14596,7 +13848,7 @@ dunno I think it means "self-orientation" as in (focus) needs to be infinitessim
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
 
-Is Self-Orientation Killing Your Trustworthiness | Trusted Advisor ...
+Is Self-Orientation Killing Your Trustworthiness - Trusted Advisor ...
 
 When Maister, Galford and I wrote The Trusted Advisor in 2000 one of the more popular themes in the book was the Trust Equation.
 
@@ -14634,7 +13886,7 @@ Nope, I guess TEAM #📡｜comms will hit publish button shortly (edited)
 
 solsista
 
-[you mean Tally? I thought it was useful for having an overview but didn't go deeper - hey @James | Aptos Labs maybe this one's for you? is this an issue in D2D research. @Gideonro I'd definitely also engage the governaouts research program at TEA - let me know if you need links](about:blank#)
+[you mean Tally? I thought it was useful for having an overview but didn't go deeper - hey @James - Aptos Labs maybe this one's for you? is this an issue in D2D research. @Gideonro I'd definitely also engage the governaouts research program at TEA - let me know if you need links](about:blank#)
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -15343,7 +14595,7 @@ the whole idea of incentivising user feedback via token/rep points rewards can b
 
 ZenHub
 
-Project Management and Software Development with GitHub | ZenHub
+Project Management and Software Development with GitHub - ZenHub
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -15489,7 +14741,7 @@ Home - Future of Life Institute
 
 ![https://futureoflife.org/wp-content/uploads/2016/04/FLI_logo_square_250.png](https://futureoflife.org/wp-content/uploads/2016/04/FLI_logo_square_250.png)
 
-Ethics and Governance of AI | Berkman Klein Center
+Ethics and Governance of AI - Berkman Klein Center
 
 The rapidly growing capabilities and increasing presence of AI-based systems in our lives raise pressing questions about the impact, governance, ethics, and accountability of these technologies around the world. How can we narrow the knowledge gap between AI “experts” and the variety of people who use, interact with, and are impacted by these te...
 
@@ -17844,7 +17096,7 @@ Wilson also pinpoints to "P.A.P.E.N." that we need to understand where we really
 
 Yearn.finance is killing it btw [https://docs.yearn.finance/contributing/operations/decision-making](https://docs.yearn.finance/contributing/operations/decision-making)
 
-Decision-Making Processes | Yearn.finance
+Decision-Making Processes - Yearn.finance
 
 ---
 
@@ -17864,9 +17116,9 @@ I had to grapple with this one (b/c I judged him a lot by his looks , looks like
 
 [Norrawee Sophawatanon](https://www.youtube.com/channel/UCrTg30hLacKmXRZ_KMZ7QBA)
 
-Why We Do What We Do | Tony Robbins explains the 6 Human Needs | Up...
+Why We Do What We Do - Tony Robbins explains the 6 Human Needs - Up...
 
-Why We Do What We Do | Tony explains the 6 Human Needs – an update of his famous 2006 TED talk Tony explains the invisible forces that shape our every thought, behavior and action. Whatever emotion you’re after, whatever vehicle you pursue — whether it’s building a business, getting married, raising a family or traveling the worl...
+Why We Do What We Do - Tony explains the 6 Human Needs – an update of his famous 2006 TED talk Tony explains the invisible forces that shape our every thought, behavior and action. Whatever emotion you’re after, whatever vehicle you pursue — whether it’s building a business, getting married, raising a family or traveling the worl...
 
 ![https://i.ytimg.com/vi/NNnEAQo1dBQ/maxresdefault.jpg](https://i.ytimg.com/vi/NNnEAQo1dBQ/maxresdefault.jpg)
 
@@ -19556,7 +18808,7 @@ WG 0mega's purpose is owning TE Ethics and help every participant in Token Econo
 
 By Michael Levin
 
-Opinion | Ethics Courses: Useless (Published 1989)
+Opinion - Ethics Courses: Useless (Published 1989)
 
 LEAD: Let a stockbroker be arrested for shady dealing or a new medical procedure pose unanticipated dilemmas, and there arises a demand for a course in ethics. Law schools, medical schools, business schools - even high schools - are urged to stem a supposed flood of immorality by instituting the study of right and wrong.
 
@@ -19658,7 +18910,7 @@ great to have you here. I believe we can get this to a no-code level... DM me an
 
 So this improvisation is also a main mindblowing part of the Ecosystem valueflows course we were giving: "Module 3: Games for Token Economy Co-Creation" ... It is the most uncomfortable part of the course [https://tokenengineeringcommunity.github.io/website/docs/academy-tmg1-ecosystem/](https://tokenengineeringcommunity.github.io/website/docs/academy-tmg1-ecosystem/)
 
-Ecosystem Value Flows (TMG1) | Token Engineering
+Ecosystem Value Flows (TMG1) - Token Engineering
 
 Ecosystem Value Flows
 
@@ -19853,7 +19105,7 @@ _20-Feb-22 04:45 AM_:
 
 yooooo, omega needs a presentation with a fighting monkey ... just sayin [https://fightingmonkey.net](https://fightingmonkey.net/)
 
-FM | Education, Coaching, Tools, Workshops
+FM - Education, Coaching, Tools, Workshops
 
 Fighting Monkey is an applied practice for human development through movement. Fighting Monkey practice treats each and every person as a unique universe interconnected with the environment and within its own structure.
 
@@ -20155,7 +19407,7 @@ _21-Feb-22 04:14 PM_:
 
 yeah maybe invite Adva Zakai ([https://www.pact-zollverein.de/en/artists-centre/artists/common-wallet)](https://www.pact-zollverein.de/en/artists-centre/artists/common-wallet))
 
-Common Wallet | PACT Zollverein
+Common Wallet - PACT Zollverein
 
 PACT Zollverein ist Initiator, Motor und Bühne für wegweisende Entwicklungen in den Bereichen Tanz, Performance, Theater, Medien und Bildende Kunst.
 
@@ -20321,7 +19573,7 @@ you won’t be able to make it? If not, you could still post your thoughts on wo
 
 [https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764519202993655&cot=14](https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764519202993655&cot=14)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 30M+ users from around the world
 
@@ -20428,7 +19680,7 @@ _23-Feb-22 02:37 PM_:
 
 [https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764519202993655&cot=14](https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764519202993655&cot=14)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 30M+ users from around the world
 
@@ -21293,7 +20545,7 @@ _24-Feb-22 06:29 AM_:
 
 one more about models (do question them always!): we had this mechanistic model that came up in explaining power, work , and energy for that matter: [https://www.khanacademy.org/science/physics/work-and-energy/work-and-energy-tutorial/v/introduction-to-work-and-energy](https://www.khanacademy.org/science/physics/work-and-energy/work-and-energy-tutorial/v/introduction-to-work-and-energy)
 
-Introduction to work and energy (video) | Khan Academy
+Introduction to work and energy (video) - Khan Academy
 
 Introduction to work and energy
 
@@ -22469,7 +21721,7 @@ I found him through this video: [https://youtu.be/3gO0m1izouk](https://youtu.be/
 
 [NATHANOLOGY](https://www.youtube.com/channel/UCV3Yo3l2btxngeoj8zVsvNA)
 
-A White Dude's Introduction to Critical Race Theory | Nathan Dufour
+A White Dude's Introduction to Critical Race Theory - Nathan Dufour
 
 Helpful resources and reading: Central collection of essays: [https://books.google.com/books/about/Critical_Race_Theory.html?id=p-DInbMLvhgC](https://books.google.com/books/about/Critical_Race_Theory.html?id=p-DInbMLvhgC) Derrick Bell's Faces at the Bottom of the Well: [https://books.google.com/books/about/Faces_At_The_Bottom_Of_The_Well.html?id=Tyn1BgAAQBAJ](https://books.google.com/books/about/Faces_At_The_Bottom_Of_The_Well.html?id=Tyn1BgAAQBAJ) Kimberlé Crenshaw Instructor's Guide: [https://dokumen.pub/qdownloa](https://dokumen.pub/qdownloa)...
 
@@ -22521,7 +21773,7 @@ _25-Feb-22 08:20 PM_:
 
 167.16 KB
 
-Frontiers | Toward an embodied science of intersubjectivity: wideni...
+Frontiers - Toward an embodied science of intersubjectivity: wideni...
 
 Toward an embodied science of intersubjectivity: widening the scope of social understanding research
 
@@ -23142,7 +22394,7 @@ super top secret meeting minutes
 
 [https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/58094606982063942134747016870496808992030283352610016397873011795006924521485/](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/58094606982063942134747016870496808992030283352610016397873011795006924521485/)
 
-Omega O's - Break Free - Untitled Collection #32865528 | OpenSea
+Omega O's - Break Free - Untitled Collection #32865528 - OpenSea
 
 OmegaO's - break free Great for breakfast, lunch, & dinner. Even enjoy them during fasts! *Omega O's are a wholly balanced diet in and of themselves
 
@@ -23347,7 +22599,7 @@ here it is - it is distilled of course, but especially wrt "why am I in 0mega" a
 
 [https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764520208023130&cot=10](https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764520208023130&cot=10)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 30M+ users from around the world
 
@@ -24007,7 +23259,7 @@ this is as Stafford Beer would say putting the computer on the wrong side of the
 
 [Dank Audio Stash](https://www.youtube.com/channel/UCSuBGV3Qme4aZJajbYCXh0Q)
 
-Designing Freedom: The Real Threat to All We Hold Most Dear | Staff...
+Designing Freedom: The Real Threat to All We Hold Most Dear - Staff...
 
 ✨ NEW updated version: [https://youtu.be/SNVZ3IuNlXY](https://youtu.be/SNVZ3IuNlXY) ✨
 
@@ -24041,7 +23293,7 @@ _03-Mar-22 04:08 PM_:
 
 [https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764520208023130&cot=10](https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764520208023130&cot=10) [https://www.youtube.com/watch?v=fU7hZ3smj0g&list=PLJ-GfXbWGi6skDKkNig9cl62hlUSnxTXQ&index=29](https://www.youtube.com/watch?v=fU7hZ3smj0g&list=PLJ-GfXbWGi6skDKkNig9cl62hlUSnxTXQ&index=29) use your toes monkey. monkey do machine with toes on right side.
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 30M+ users from around the world
 
@@ -24115,7 +23367,7 @@ _04-Mar-22 03:36 AM_:
 
 have a look at the mandala pls... does it reflect? it should have 3-4 main notes at each quarter, maybe we can breakdown "TE Ecosystem" into 3-4 adjacent possible connections, e.g. PrimeDAO, MotionDAO (dance), LiminalDAO (play), DADAO/IE... would be my suggestion as we have very close connections to those... However, if we can handle more you are active in other communities, who will appreciate the emergent learning from here... also there are non-DAOs like LTF we already have close connections with... important for focusing on would be applied token engineering happening, such that we can strengthen the "Experiential" emergent learning part... [https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764520037933267&cot=14](https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764520037933267&cot=14)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 30M+ users from around the world
 
@@ -24163,7 +23415,7 @@ a community of life affirming algorithmic policy makers... that's the vision of 
 
 "And it is precisely our highly trained capacity to combine physical with mental thinking that makes dance not only possible but powerful." [https://aeon.co/ideas/how-dancing-helps-me-think-and-thinking-helps-me-dance](https://aeon.co/ideas/how-dancing-helps-me-think-and-thinking-helps-me-dance) h/t Reyna of MotionDAO
 
-How dancing helps me think, and thinking helps me dance | Aeon Ideas
+How dancing helps me think, and thinking helps me dance - Aeon Ideas
 
 The prejudice against physical work is deeply misguided: when I dance, I embody philosophical ideas of autonomy and freedom
 

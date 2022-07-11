@@ -10,580 +10,6 @@ The 0mega Working Group examines the ethos of and ethics in token engineering as
 
 ## Links
 
-http://3b1b.co/lessons/integration#thanks/
-http://TED.com/
-http://aletheia.systems/
-http://bit.ly/PoloandPan_YouTube/
-http://facebook.com/iamLP/
-http://futurethinkers.org/nftcall/
-http://iamlp.com/
-http://instagram.com/iamlpofficial/
-http://library.lol/main/7B5271F91615A8C181EF9EDA7D653B6C/
-http://paypal.me/whatdamath/
-http://rulai.cshl.org/TRED/GRN/NFKB.htm/
-http://ted.com/
-http://twitter.com/iamlp/
-http://www.1giantleap.tv/
-http://www.advaita.org.uk/discourses/definitions/mithyA.htm/
-http://www.corestandards.org/Math/Practice/
-http://www.corestandards.org/author/c0r3-admin/
-http://www.emergentorder.com/
-http://www.ephemerajournal.org/contribution/extitutions-other-side-institutions/
-http://www.poloandpanmusic.com/music/
-http://www.scholarpedia.org/article/Self-organization/
-http://www.tedxlausanne.org/
-http://www.youtube.com/user/econstories/
-http://youtu.be/Mq2iQAsJAhI/
-https://Kernel.community/
-https://a16z.com/2022/04/21/announcing-a16z-crypto-research/
-https://a16z.com/author/mikemanning/
-https://a16z.com/wp-content/uploads/2022/04/CryptoResearch_Announcement_Twitter.jpeg/
-https://aeon.co/essays/gregory-bateson-changed-the-way-we-think-about-changing-ourselves/
-https://age-of-product.com/author/stefan/
-https://age-of-product.com/food-agile-thought-255-serendipity-driven-innovation/
-https://ahitchhikers.substack.com/p/community-sourcing-and-crowdfunding?s=w/
-https://ahitchhikers.substack.com/p/whats-in-a-token?s=w/
-https://alanwatts.org/
-https://alities.io/
-https://amzn.to/35r1jAk/
-https://anchor.fm/metagame/episodes/MetaView-12---Deliberately-Developmental-Organizations-with-Durgadas-of-TEC-evm71t/
-https://andrecronje.medium.com/liquidity-mining-rewards-v2-50896e44f259/
-https://aops.com/3blue1brown/
-/
-https://app.livestorm.co/made-group/salon-foundationals-on-participation-with-federico-bonelli/
-https://app.wombo.art/card/53257277-b52e-4351-a1d8-d663c62b629b/
-https://arbitrarilyclose.com/2020/07/03/mathartchallenge-82-african-fractals/
-https://arbitrarilyclose.com/author/anniekperkins/
-https://archive.org/details/CoopolyTheGameAndTheCooperativeMovement/
-https://archive.org/details/ethicsofthereal/
-https://archive.org/details/lacan-book3/
-https://beacons.ai/ritmosdelsur/
-https://bigthink.com/hard-science/eo-wilson-what-makes-us-human-paleolithic-emotions-medieval-institutions-god-like-technology/
-https://bird-sherbet-01c.notion.site/TE-Consilience-Library-0ad18a999ee44926adf2fcfcab6418b0/
-https://bit.ly/3w7mRjt/
-https://blockscout.com/poa/xdai/tx/0x775b9485bcff6d9a814bbfcfa58220e396e906dad9a4bccbe6d5681b05c3a4f8/
-https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e/
-https://books2read-prod.s3.amazonaws.com/ubl_book_images/display_image_gU0uVNr/
-https://books2read.com/b/cryptowars/
-https://cadcad.org/#rec91403372/
-https://calendly.com/nic8/mapping-energy-sources/
-https://ccct.uchicago.edu/author/3ct-admin/
-https://ccct.uchicago.edu/events/is-justice-an-option-politics-after-evil/
-https://cdn.discordapp.com/attachments/810180622634844202/951571396511797268/ka.gif/
-https://cdn.discordapp.com/attachments/810180622634844202/951969979576774757/A-Beautiful-Constraint-Sample3_2.pdf/
-https://cdn.discordapp.com/attachments/810180622634844202/955830367628173342/plurktruck001b.pdf/
-https://cdn.discordapp.com/attachments/810180622634844202/955956359495569418/Disembodied_Poetics_of_Hyperspace.pdf/
-https://cdn.discordapp.com/attachments/810180622634844202/955957981189640242/948125486639443968.gif/
-https://cdn.discordapp.com/attachments/810180622634844202/955959621502263336/download_2.gif/
-https://cdn.discordapp.com/attachments/810180622634844202/955960665112182854/download_3.gif/
-https://cdn.discordapp.com/attachments/810180622634844202/956973523237212170/map.gif/
-https://cdn.discordapp.com/attachments/810180622634844202/957229968625115146/CeloConnect_-_NFT_Gallery_with_Alities_-_rezgauchegmail.com_-_Gmail.mht/
-https://cdn.discordapp.com/attachments/810180622634844202/958347885450248232/download_6.gif/
-https://cdn.discordapp.com/attachments/810180622634844202/958682717556465724/ezgif.com-gif-maker-4.gif/
-https://cdn.discordapp.com/attachments/810180622634844202/958877065602551818/unknown.jpeg/
-https://cdn.discordapp.com/attachments/810180622634844202/959244633005772840/ConsiliencetheConfluence2022.gif/
-https://cdn.discordapp.com/attachments/810180622634844202/959308039150796821/Cooperative_Creative_Group__Infinite_Play_Objective__ImagianriumTorus.gif/
-https://cdn.discordapp.com/attachments/810180622634844202/960978665695477790/DEB_performative_play_001.gif/
-https://cdn.discordapp.com/attachments/810180622634844202/963052714500177980/OmegaOnboardingStargate.gif/
-https://cdn.discordapp.com/attachments/810180622634844202/963488872182988830/BlenderBenderStargate.gif/
-https://cdn.discordapp.com/attachments/810180622634844202/970102670616576030/PlurkTruck_NFT_Project.pdf/
-https://cdn.discordapp.com/attachments/810180622634844202/976616134684078110/unknown.jpeg/
-https://cdn.discordapp.com/attachments/810180622634844202/976616998937190400/9789264191655-9-en.pdf/
-https://cdn.discordapp.com/attachments/810180622634844202/980837015534850148/Sociocracy_presentation__RnDao.docx/
-https://cdn.discordapp.com/attachments/810180622634844202/982772138517856397/giphy_-_2022-06-04T152502.000.gif/
-https://cdn.lu.ma/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=1000,height=500/event-covers/rm/8d157996-f343-4a4b-a78a-fb99a59f0363/
-https://cdn.lu.ma/event-covers/md/105faae5-39c9-49d9-bdb6-abc5c657d66b.gif/
-https://cdn.minds.com/fs/v1/banners/1328504126480322567/1642116066/
-https://cdn.minds.com/fs/v1/banners/1342285910401617930/1645401899/
-https://celoconnect.com/
-https://celoconnect.com/author/celoconnect/
-https://celoconnect.com/nft-lounge/
-https://coinpedia.org/author/sahana/
-https://coinpedia.org/news/sushiswap-liquidity-locusts/
-https://commonsengine.notion.site/Land-based-DAO-Directory-48757fe0b980416095a662378116a9b5/
-https://complexityweekend.com/
-https://consilib90210-39f36.stackbit.app/
-https://consilib90210-39f36.stackbit.app/seed-curations/
-https://consilib90210-39f36.stackbit.app/seed-curations/consilience-as-a-unifying-principle/
-https://consilib90210-39f36.stackbit.app/te-consilience-library-manifesto/
-https://creator.nightcafe.studio/
-https://critterzdocs.notion.site/Critterz-Documentation-ab014615fbec4e4ca2349ebfdbdadaf1/
-https://cryptopotato.com/1-of-dao-members-controlling-90-voting-power-chainalysis/
-https://cyber.harvard.edu/wealth_of_networks/Table_of_Contents/
-https://cyclic-chanter-e69.notion.site/0mega-Archipelagos-6ff1c97810da411c875ac67f1f2d54c1/
-https://cyclic-chanter-e69.notion.site/0mega-Changelog-4506ec70f1a548c9a053164f150e4ba7/
-https://cyclic-chanter-e69.notion.site/0mega-WG-Meeting-Structure-a9bef90e5a0347c6a5be159a7e50b338/
-https://cyclic-chanter-e69.notion.site/What-s-New-a59cd6758f5f4b048bdcdbd89afe530e/
-https://cyclic-chanter-e69.notion.site/efdfb5397a1e420fb03c081d2022de6a?v=c06297a3b75f4bb0ba5434236bc5783d/
-https://decrypt.co/videos/live-events/Z1TYIap1/nft-nyc-how-dequency-is-using-blockchain-to-decentralize-music-usage-rights/
-https://developers.radixdlt.com/
-https://dhappy.org/
-https://discord.com/channels/810180621930070088/810180622336262195/959166443210014720/
-https://discord.com/channels/810180621930070088/810180622634844202/956292460320026694/
-https://discord.com/channels/810180621930070088/810180622634844202/958821535173451816/
-https://discord.com/channels/810180621930070088/810180622634844202/984597645391716362/
-https://discord.com/channels/810180621930070088/810180622818869334/
-https://discord.com/events/810180621930070088/959610830222131260/
-https://discord.com/events/810180621930070088/960167494381887498/
-https://discord.com/events/810180621930070088/963877825155334194/
-https://discord.com/events/810180621930070088/965205570527330396/
-https://discord.com/events/810180621930070088/965205857065402398/
-https://discord.com/events/810180621930070088/972255219549364305/
-https://discord.com/events/810180621930070088/982726466091491429/
-https://discord.gg/B79hJsKKgq/
-https://discord.gg/D5UGuqGj/
-https://discord.gg/dk3R2zeg?event=984889714651836478/
-https://discourse.sourcecred.io/t/sourcecred-the-organization-is-winding-down/1383/
-https://docs.ember.social/
-https://docs.google.com/document/d/1-NNysJ_QYRN36K8uE9mwQoTfzeFAn6VYESY8Dmf6uGg/edit?usp=sharing/
-https://docs.google.com/document/d/12fExq26--0x8WfkKiNKSMK_fnp4Jy8riGVkNR5n8qx0/edit/
-https://docs.google.com/document/d/12fExq26--0x8WfkKiNKSMK_fnp4Jy8riGVkNR5n8qx0/edit#/
-https://docs.google.com/document/d/12fExq26--0x8WfkKiNKSMK_fnp4Jy8riGVkNR5n8qx0/edit?usp=sharing/
-https://docs.google.com/document/d/18HhY3IEaB1FxW1hsEYu5yhrYULmdMxuuTHvcOxTYa2c/edit/
-https://docs.google.com/document/d/18HhY3IEaB1FxW1hsEYu5yhrYULmdMxuuTHvcOxTYa2c/edit#heading=h.piigijz1m6mi/
-https://docs.google.com/document/d/1FM5lokbcJZFXALDfwn-NIjJ1MSUjgoYgecCPwEnTydU/edit/
-https://docs.google.com/document/d/1FM5lokbcJZFXALDfwn-NIjJ1MSUjgoYgecCPwEnTydU/edit#heading=h.x7qmm9h95iaz/
-https://docs.google.com/document/d/1GwTiq1RcRfnDrr-Po8BbWVpOxl0b9gD1emjmgqIJDy4/edit?usp=sharing/
-https://docs.google.com/document/d/1Pbx9sxxpqpYdKU6_-3OIxdG-9DP6lhTWXNol8FEK98Q/edit#/
-https://docs.google.com/document/d/1Pbx9sxxpqpYdKU6_-3OIxdG-9DP6lhTWXNol8FEK98Q/edit?usp=sharing/
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit/
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#/
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.5cc6piqqfbjo/
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.crf1ztfc9rws/
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.d4qbqm90bswa/
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.fhx78mehs5fw/
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.gi1c69j48baf/
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.h4dkui9o34s7/
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.nwr6pxsvstsa/
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.rkgft59mtli9/
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.y2neinbtf3r/
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.z1aiozzcdmzu/
-https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit?usp=sharing/
-https://docs.google.com/document/d/1TlkVH8dX1XoiUO57MXMrRzp1-JlQj2s/
-https://docs.google.com/document/d/1U56cG2uAN2zPpDVEdDwVqlxjSFQMJ2KhDyrbCvdWvcc/edit?usp=sharing/
-https://docs.google.com/document/d/1d6IjK_1xs1SxsvnUh1uxRT2mzeMhNYY9zo1mzWowxkM/edit?usp=sharing/
-https://docs.google.com/document/d/1gtFd4DdpPmDsNbJYkeRYJkZ6gU7PxILwwy9mo1F7OwM/edit?usp=sharing/
-https://docs.google.com/document/d/1hhUiD6Dfhj602wHPCXurJJbnmLHOL4Tre5jHlHL6yYo/edit?usp=sharing/
-https://docs.google.com/document/d/1hp_HU1T9z62pTdpqxlJg_b4KIY6UGaNLElKMKr0X64I/edit?usp=sharing/
-https://docs.google.com/document/d/1koGb6Uk6hdBftLNd8_vi5A6W7Vrg26XRyAab1Rj8jF8/edit/
-https://docs.google.com/document/d/1l1GArujM62kfU6-a7pKan95L20GjZ3_9_ErXpEWNO5M/edit?usp=drivesdk/
-https://docs.google.com/document/d/1ngUBguUdAITrNnVsum7UhjoMFUqcoFSVAj1R_yQwB2Q/edit#heading=h.6wcq6vh9w93n/
-https://docs.google.com/document/d/1qjKycBVkjjbOExMnL3yVBezW83l9IQDw8QF3XV0FTyY/edit/
-https://docs.google.com/document/d/1sSN64tQITpJiSiqb9YPKF7taSJElxzp4onJn1fSK9CY/edit/
-https://docs.google.com/document/d/1sgnxwI5seBj6ho_aope7UH3TsKCubobS3Bh5XdM9cj0/edit#/
-https://docs.google.com/document/d/1sgnxwI5seBj6ho_aope7UH3TsKCubobS3Bh5XdM9cj0/edit#heading=h.ncy9ehmq6tgt/
-https://docs.google.com/document/d/1xODwwjrdOnMbtNXaEDJu8hd8ceIEwdIBJyoSX5wphxg/edit?usp=sharing/
-https://docs.google.com/document/d/1xnH5lI4iHESQNXGyaeBd8hGCUGoiuEcD5uZ4-vSWOoU/edit/
-https://docs.google.com/document/d/1y6LAQwtP_WeBlM5uXuiOGkwaBcElEfgvYfCW5dprT4Y/edit/
-https://docs.google.com/presentation/d/1Ac-lODqFoOjoImMhqttsINNcmi1Ev5XviTgVGAOz4LE/edit#slide=id.ga0d303d1a3_0_19/
-https://docs.google.com/presentation/d/1DU8E2wiJ16xJ3HwCeC7TJXJLkgu4Jr9Cp6ogmaSEOok/edit#slide=id.g109f6f99d01_0_163/
-https://docs.google.com/presentation/d/1jdfasSQEZb7CtgpSLBlPUN_grPzRaPTzpHECjXYPIqY/edit?usp=sharing/
-https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit?usp=sharing/
-https://docs.google.com/presentation/d/1veojW6xi6eJeppBoUjo3zuzWiBCqHHn4IbQkng80d4s/edit#slide=id.ga271568ae2_0_567/
-https://docs.google.com/spreadsheets/d/1F03h943Swcew_bdvZ3v_eD1URNA9noPb9wFlVklDh0k/edit#gid=0/
-https://docs.google.com/spreadsheets/d/1utX9T6EnVg9EzJgVgRSZllD-60XxJ8WIMgMWq2aJ_EY/edit?usp=sharing/
-https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
-https://donellameadows.org/author/kloomis/
-https://donellameadows.org/wp-content/themes/donellameadows/images/logo-2.gif/
-https://dreamy-brattain-5cdc88.netlify.app/
-https://dreamy-brattain-5cdc88.netlify.app/te-consilience-library-manifesto/
-https://drive.google.com/file/d/18t2Oia25lsx4Mrc5e0lg-Wjl6xicRE4t/view?usp=sharing/
-https://drive.google.com/file/d/1INpYOzqF96X0y5zQmZkpXiVRGb-lt4je/view?usp=sharing/
-https://drive.google.com/file/d/1SZ63z7MdRN-a6RBK9qfptkPCAwgEHIX-/view?usp=sharing/
-https://earthsky.org/earth/how-do-flocking-birds-move-in-unison/
-https://earthsky.org/upl/2012/12/birds_redwings_late_December_12012_Guy_Livesay_Mattamuskeet_Lake_Hyde_county_NC.jpeg/
-https://element.io/communities/
-https://embed.kumu.io/97984ade6580cd98791604b12ca6f86c#untitled-map/
-https://en.wikipedia.org/wiki/Activity_diagram/
-https://en.wikipedia.org/wiki/Actor%25E2%2580%2593network_theory#The_actor-network/
-https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory#The_actor-network/
-https://en.wikipedia.org/wiki/Becoming_(philosophy/
-https://en.wikipedia.org/wiki/Flowchart/
-https://en.wikipedia.org/wiki/Linked_data#Linked_open_data/
-https://en.wikipedia.org/wiki/List_of_games_in_game_theory/
-https://en.wikipedia.org/wiki/The_Wealth_of_Networks/
-https://epub.wu.ac.at/7309/8/Foundations%20of%20Cryptoeconomic%20Systems.pdf/
-https://epub.wu.ac.at/7309/8/Foundations%2520of%2520Cryptoeconomic%2520Systems.pdf/
-https://epub.wu.ac.at/7782/1/Foundations%20of%20Cryptoeconomic%20Systems.pdf/
-https://epub.wu.ac.at/7782/1/Foundations%2520of%2520Cryptoeconomic%2520Systems.pdf/
-https://eu.jotform.com/form/221371929028053/
-https://europa.eu/capacity4dev/file/12948/download?token=-OZO-zmI/
-https://flourish.studio/
-https://forms.gle/5tnGXAgV6bkhzob29/
-https://forum.tecommons.org/t/electric-circus-game-based-version-of-ecosystem-valueflows-course/393/
-https://forum.tecommons.org/t/rules-of-praise/667/
-https://forum.tecommons.org/t/sampo-wg-season-1-funding-proposal/1031/
-https://forum.tecommons.org/t/stewards-statement-of-commitment-period-is-open/856/10?u=solsista/
-https://forum.tecommons.org/t/te-consilience-library-an-0mega-wg-initiative/751/11/
-https://forum.tecommons.org/t/third-graviton-training-study-plan/996/
-https://forum.tecommons.org/t/your-advice-on-the-sampo-strategy/1019/
-https://forum.tecommons.org/uploads/default/optimized/1X/75dd60b6afaf157958b4ad4d03f68ac1f9a47571_2_1024x505.jpeg/
-https://fr.be1lib.org/book/2491780/9f8761/
-https://fs.blog/author/shane-parrish/
-https://fs.blog/incentives-gone-wrong/
-https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/12/
-https://gitcoin.co/grants/798/a-hitchhikers-guide-to-token-engineering/
-https://github.com/BlockScience/cadCAD-Odyssey/
-https://github.com/Consilience-Library/visuals/
-https://github.com/Joystream/joystream/issues/3535/
-https://github.com/TheJollyLaMa/GeoBeans/
-https://github.com/consilience-lib/consilib90210-39f36/tree/master/content/pages/
-https://github.com/radixdlt/radixdlt-scrypto/tree/main/examples/
-https://hbr.org/2003/12/the-one-number-you-need-to-grow/
-https://hypnotic-work-c40.notion.site/NFT-Self-Discovery-Game-f2923646953b4a639237811b4cb6e108/
-https://i.scdn.co/image/ab6765630000ba8a1cfc9d9516437d6d948503f8/
-https://ia802808.us.archive.org/15/items/lacan-book3/jacques-lacan-the-seminar-of-jacques-lacan-book-iii-the-psychoses-1955-1956-theoryleaks.pdf/
-https://iiedu.ca/author/richbaxter123/
-https://iiedu.ca/learn2earn/
-https://images.typeform.com/images/4ck2knirUu4K/image/default/
-https://in-thread.sonic-pi.net/t/making-collaborative-and-diff-based-fusion-compositions-with-sonic-pi-and-git/6746/
-https://info.bannerengineering.com/cs/groups/public/documents/literature/tt_masterslave.pdf/
-https://integralreviewofbooks.wordpress.com/category/process-model-of-integral-theory/
-https://intelligence.weforum.org/
-https://joi.ito.com/weblog/2003/02/15/the-meta-networ.html#comment-2375/
-https://joystream.yyagi.cloud/distributor/api/v1/assets/12759/
-https://kernel.community/
-https://kernel.community/en/learn/module-0/play-of-pattern/
-https://keybase.io/
-https://la.joystream.site/distributor/api/v1/assets/12827/
-https://lettucemeet.com/l/gg2AK/
-https://lnkfi.re/PoloPanWorldTour/
-https://lp.lnk.to/Churches/
-https://lu.ma/g76rgu1e/
-https://lu.ma/rnadao-events-ted-rau/
-https://lucid.app/lucidchart/3dd8deba-7138-4f43-8a30-1cff759e0a46/edit?viewport_loc=-2982%252C-6295%252C12928%252C6673%252C0_0&invitationId=inv_0646a65c-38d6-4df5-97db-89fa44e9bce7/
-https://lucid.app/lucidchart/3dd8deba-7138-4f43-8a30-1cff759e0a46/edit?viewport_loc=-2982%2C-6295%2C12928%2C6673%2C0_0&invitationId=inv_0646a65c-38d6-4df5-97db-89fa44e9bce7/
-https://m.youtube.com/watch?v=UxQDG6WQT5s/
-https://management30.com/blog/management-30-teal-organizations/
-https://masterworks.art/moon/
-https://matrix.org/
-https://medium.com/@afletsas/mit-and-the-future-of-web-3-0-113ff6cf8d9f/
-https://medium.com/@shibuya.xyz/shibuya-xyz-white-paper-2c71f60c3aae/
-https://medium.com/block-science/exploring-daos-as-a-new-kind-of-institution-755eb119996b/
-https://medium.com/despread-creative/can-protocol-owned-liquidity-be-defi-2-0-d333484578d6/
-https://medium.com/econaut/what-is-cryptoeconomy-a-macroview-84f4a0258832/
-https://medium.com/freeelio-studios/le-grand-jeu-met-token-engineering-and-it-was-love-at-first-sight-e7a85c6d9444/
-https://medium.com/incerto/an-expert-called-lindy-fdb30f146eaf/
-https://medium.com/moral-imaginations/a-manifesto-for-moral-imagination-dbf62f0cb7aa/
-https://metafest.metagame.wtf/#apply/
-https://metagame.wtf/
-https://metagov.typeform.com/cryptopolitics/
-https://miro.com/app/board/uXjVOAINZbM=/?invite_link_id=130219856625/
-https://miro.com/app/board/uXjVOzNIPbA=/
-https://miro.medium.com/max/1029/1/
-https://miro.medium.com/max/1122/1/
-https://miro.medium.com/max/1200/0/
-https://miro.medium.com/max/1200/1/
-https://mirror-media.imgix.net/nft/WDcD7xTN9jFxjKdPLXPGE.jpeg?h=null&w=null&auto=compress/
-https://mirror.xyz/0x0966262125B5E01B5D77B862830a341419BC2872/y-aaFWpbogZt5jWGqu6sVlOG-fKh0p-5V6l2o01yyy0/
-https://necessary.systems/overview/
-https://nias.knaw.nl/insights/usefulness-useless-knowledge/
-https://nosubject.com/Metonymy/
-https://open.spotify.com/episode/23q67jkWmgfkMgkkssZ7nr?si=QP0M6jbXTTehZeatkZtp-A&utm_source=copy-link/
-https://opengraph.githubassets.com/3c9fe3d22667d3fd9c56ee52ceabdb2d6bb355e9e82d0b465c794dbb4e20a334/BlockScience/cadCAD-Odyssey/
-https://opengraph.githubassets.com/43809bafddae2dde0841329f333e087f89c32649efc264fafeed89902b9a5794/consilience-lib/consilib90210-39f36/
-https://opengraph.githubassets.com/6436057b131ab002669b0c02ced493735eccbe614860d07ef58342e32278f236/TheJollyLaMa/GeoBeans/
-https://opengraph.githubassets.com/bfd3dfe4cab8f46e22d869528958622bff99958ee64e6a8bacf14eb4e1a3c1a3/Joystream/joystream/issues/3535/
-https://opengraph.githubassets.com/ed3405aec97460e3fdaf8e5acc50709c5368b917b1d10616721036a33e88f32f/Consilience-Library/visuals/
-https://opensea.io/assets/0x3d7f0f28e1d42082e3de70ec4c9d1d59a07affb9/46086/
-https://osamajor.com/
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3153666/
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915269/
-https://pbs.twimg.com/profile_images/378800000096549990/2b5b8a614e16b1527ebb75e1a7266d85_400x400.jpeg/
-https://play.joystream.org/video/26223/
-https://play.joystream.org/video/26246/
-https://polopan.lnk.to/Cyclorama/
-https://polopan.lnk.to/HomeSweetHome/
-https://positivepsychology.com/self-leadership/
-https://pragakhan.bandcamp.com/merch/
-https://press.princeton.edu/books/hardcover/9780691636573/cooperative-microeconomics/
-https://projectinsideout.net/
-https://projectinsideout.net/author/larakroeker/
-https://psyche.co/guides/how-to-know-what-you-really-want-and-be-free-from-mimetic-desire/
-https://purpose-economy.org/content/uploads/purpose-guidebook-for-lawyers10022021.pdf/
-https://rezgauche.be/blog/red-pond-real-estate/
-https://rezgauche.be/info/#roadmap/
-https://rezgauche.be/numbers/
-https://rezgauche.be/projects/consilience-library/
-https://rezgauche.be/residency-wildcards/
-https://satorid23.medium.com/chaos-creations-of-the-wyrd-collection-vol-1-d8a0f27f89ae/
-https://sign.kernel.community/essay/
-https://sivers.org/ff/
-https://solcard.notion.site/solcard/SolidarityCard-48b71df290e04973bf61c88abd381084/
-https://soundcloud.com/stateful-art/
-https://soundcloud.com/stateful-art/peace-as-a-service/
-https://spoti.fi/2xfAlhH/
-https://store.lordsofacid.com/
-https://store.tesacollective.com/collections/games/products/co-opoly-the-game-of-co-operatives/
-https://studio.ribbonfarm.com/p/lands-of-lorecraft/
-https://t.co/1Ksgxae0JL/
-https://t.co/5aAgksvKgH/
-https://t.co/6w6y1uQ8QS/
-https://t.co/BjuO7oubP0/
-https://t.co/FLuEtDOmgY/
-https://t.co/H9Jpq0iU7V/
-https://t.co/VX3xkLzoWy/
-https://t.co/fpxTruv5NL/
-https://t.co/pOGbgjkMNt/
-https://teespring.com/stores/whatdamath/
-https://tenor.com/view/books-library-book-shelf-gif-13928059/
-https://tenor.com/view/genie-rub-lamp-aladdin-gif-4756208/
-https://tenor.com/view/represent-fabolous-gone-for-the-winter-song-show-who-you-are-stand-up-for-your-belief-gif-19586817/
-https://thedig.nz/author/joe/
-https://thedig.nz/editorial/hope-for-nature-a-new-deal-for-the-commons/
-https://thefactofexisting.simplesite.com/451911514/
-https://thesystemsthinker.com/author/dee-hock/
-https://thesystemsthinker.com/step-by-step-stocks-and-flows-improving-the-rigor-of-your-thinking/#:~:text=Stock%20and%20flow%20diagrams%20distinguish,flows%2C%20while%20CLDs%20do%20not.&text=In%20contrast%2C%20a%20stock%20and,a%20negative%20number%20of%20births/
-https://thesystemsthinker.com/the-nature-and-creation-of-chaordic-organizations/
-https://token-engineering-commons.gitbook.io/tec-handbook/
-https://transdisciplinary.art/
-https://transdisciplinary.art)/
-https://transdisciplinary.art/book-iii-the-psychoses/
-https://transdisciplinary.art/ethics-of-the-real/
-https://transdisciplinary.art/lacan-and-deleuze-a-disjunctive-synthesis/
-https://transdisciplinary.art/read-my-desire/
-https://twitter.com/MarkBeylin/
-https://twitter.com/MarkBeylin/status/1512460799524093956/
-https://twitter.com/MetaFam/
-https://twitter.com/WalesOnline/
-https://twitter.com/antonio_paglino/
-https://twitter.com/antonio_paglino/status/1507089605564190722?s=20&t=ZkijtPLnoY2grB06KQxY9A/
-https://twitter.com/artxvnft/
-https://twitter.com/artxvnft/status/1500439792533880832?t=p7eVtPQSEFPaof_4-b2_qQ&s=19/
-https://twitter.com/brianroemmele/status/1491849452289626113/
-https://twitter.com/curvelabs/
-https://twitter.com/curvelabs/status/1506280322329194504/
-https://twitter.com/demoversal/
-https://twitter.com/demoversal/status/1534583337116901377/
-https://twitter.com/devops199/status/927912053297303552?lang=bg/
-https://twitter.com/gospelofchange/
-https://twitter.com/gospelofchange/status/1506331902583713793?s=20&t=arMNgrlPxYY0jmZxIE3OBw/
-https://twitter.com/gospelofchange/status/1506332915843612674?s=21&t=MbuL31bZlAHTJsJlaLTN_w/
-https://twitter.com/metafam/status/1534851575809724416?s=21&t=vbMN2Vnwvpm1BPysjz4oxQ/
-https://twitter.com/owocki/
-https://twitter.com/owocki/status/1506020605157539843/
-https://twitter.com/owocki/status/1506333722282397697?s=20&t=pK87lw6BdkVLKo4dR_MHyA/
-https://twitter.com/pragakhan/
-https://twitter.com/sebnem/
-https://twitter.com/sebnem/status/1501513892266192897?s=20&t=tl2PHnXpoWEccxaIUVuiJA/
-https://twitter.com/sebnem/status/1502234873225961473?s=20&t=vrhFR5Dr2gpAjPvAXFr1oA/
-https://twitter.com/sebnem/status/1504748571266109455?s=20&t=CPm7b8KWGA-qCnXWHTUMhw/
-https://twitter.com/sebnem/status/1506321676837044234?s=20&t=l8oPDBgHWHu-PF5DAHo4Xg/
-https://twitter.com/sebnem/status/1506322829897252864?s=20&t=l8oPDBgHWHu-PF5DAHo4Xg/
-https://twitter.com/waitbutwhy/
-https://twitter.com/waitbutwhy/status/1491115068343214086?s=20&t=WUht1NFhtiloVECs62rFsw/
-https://twitter.com/walesonline/status/1541711820859351046?s=21/
-https://uncensoredlibrary.com/en/
-https://unctad.org/press-material/large-scale-speculation-food-other-commodities-played-role-price-swings-report-says/
-https://untools.co/
-https://users.math.yale.edu/users/mandelbrot/web_pdfs/getabstract.pdf/
-https://valoraapp.com/
-https://vitalik.eth.limo/general/2022/01/26/soulbound.html/
-https://web.archive.org/web/20101126181632/http://oikos.org/autopoiesis.htm/
-https://wildland.io/2022/04/13/UDO-research-WL.html/
-https://www.amazon.com/Entangled-Life-Worlds-Change-Futures/dp/0525510311/
-https://www.amazon.de/dp/B08TPJWLHC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1/
-https://www.amazon.de/dp/B095FQ6VD4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1&asin=B095FQ6VD4&revisionId=3a715c37&format=1&depth=1/
-https://www.artbreeder.com/
-https://www.bohmdialogue.org/#bohmdialogue/
-https://www.cbc.ca/radio/spark/how-tiktok-s-design-helps-turn-ordinary-people-into-villains-1.6368636/
-https://www.clarity.so/product/clarity-2-0/
-https://www.clearvoice.com/blog/author/justinmckinley/
-https://www.clearvoice.com/blog/mastering-time-management-the-five-primal-flows-of-time/
-https://www.clearvoice.com/wp-content/uploads/2017/05/ClearVoice_FlowsOfTime_infographic.pdf/
-https://www.complexityexplorer.org/
-https://www.complexityweekend.com/cw-og.jpeg/
-https://www.critterz.xyz/
-https://www.deckible.com/
-https://www.facebook.com/praga.khan/
-https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/0mega-Archipelagos
-https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/0mega?node-id=0%253A1/
-https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/0mega?node-id=0%3A1/
-https://www.figma.com/file/DfE39ju6rmpHl9yreC6MSh/TE-Consilience-Flower
-https://www.forbes.com/sites/forbescoachescouncil/2020/03/04/vision-mission-and-purpose-the-difference/
-https://www.garnier-malet.com/author/jean-pierre/
-https://www.garnier-malet.com/en/doubling-theory/
-https://www.goodreads.com/book/show/49624060-explaining-humans/
-https://www.iamlp.com/tour/
-https://www.inc.com/jeremy-goldman/13-insightful-quotes-from-intel-visionary-andy-grove.html/
-https://www.instagram.com/pragakhan/
-https://www.kernel.community/en/build/dance/classes/
-https://www.lacan.com/zizek-desire.htm/
-https://www.lavanguardia.com/ciencia/20220704/8380335/mas-colisiones-mas-potentes-cern-reanuda-busqueda-secretos-universo.html/
-https://www.lavanguardia.com/files/fp/uploads/2017/07/13/5fa3cd7a71028.r_d.359-216-0.jpeg/
-https://www.liberatingstructures.com/33-purpose-to-practice-p2p/
-https://www.liberatingstructures.com/6-making-space-with-triz/
-https://www.makery.info/en/2022/04/30/english-the-real-crypto-movement/
-https://www.mariushobbhahn.com/2020-11-22-Culture_game_theory/
-https://www.mindmanager.com/en/tips/linear-thinking/
-https://www.mindmanager.com/en/tips/linear-thinking/non/
-https://www.mindmeister.com/map/2144061427?t=XiPrJfz0N9/
-https://www.minds.com/InfiniteImaginarium/blog/a-guide-to-the-infinite-imaginarium-1342285910401617930/
-https://www.minds.com/SatoriD/
-https://www.minds.com/SatoriD/blog/chaos-creations-of-the-wyrd-collection-vol-2-1369106426047238164/
-https://www.minds.com/curryhobo/blog/pineal-body-scribblography-13-01-2022-1328504126480322567/
-https://www.minds.com/icon/463244466052931598/master/1435822087/1612415310/1648792859/
-https://www.minds.com/newsfeed/1356279732756287493/
-https://www.newscientist.com/article/mg21628924-100-dark-energy-hints-hidden-in-cosmic-voids/#ixzz7PiNCFIs7/
-https://www.notion.so/0mega-Archipelagos-6ff1c97810da411c875ac67f1f2d54c1/
-https://www.notion.so/0mega-Changelog-4506ec70f1a548c9a053164f150e4ba7/
-https://www.notion.so/0mega-WG-Call-a6e21812a0df4d09bbaca56e43a669bf/
-https://www.notion.so/0mega-WG-Meeting-Structure-a9bef90e5a0347c6a5be159a7e50b338/
-https://www.notion.so/Critterz-Documentation-ab014615fbec4e4ca2349ebfdbdadaf1/
-https://www.notion.so/Excess-of-energy-sun-a3c44e851b73475d96b93cd2b9f9bbf7/
-https://www.notion.so/How-to-Contribute-Join-our-Playgrounds-8128601bf71543e68f84be48e237cadc/
-https://www.notion.so/INTRO-to-DEB-d9df46e42ef74523898091f0eb10e67d/
-https://www.notion.so/Land-based-DAO-Directory-48757fe0b980416095a662378116a9b5/
-https://www.notion.so/NFT-Self-Discovery-Game-f2923646953b4a639237811b4cb6e108/
-https://www.notion.so/SolidarityCard-48b71df290e04973bf61c88abd381084/
-https://www.notion.so/Start-Here-a1c6ca9660f6428380238000e8892164/
-https://www.notion.so/TE-Consilience-Library-0ad18a999ee44926adf2fcfcab6418b0/
-https://www.notion.so/TE-Consilience-Library-f222e80f33744995ba885ff7acf6c5bc/
-https://www.notion.so/TEC-0Mega-Admin-Tasks-Guideline-811b8348d2a3417b8eee96c054cd0f1d/
-https://www.notion.so/TEC-0Mega-Process-Tasks-Guideline-811b8348d2a3417b8eee96c054cd0f1d/
-https://www.notion.so/What-s-New-a59cd6758f5f4b048bdcdbd89afe530e/
-https://www.notion.so/efdfb5397a1e420fb03c081d2022de6a/
-https://www.notion.so/invite/00fb1b94cb1a7364a2fd1be1658c9bc238e056ee/
-https://www.notion.so/invite/574bc1b7c7323916af375757caed31e7a23f9552?channel=email/
-https://www.patreon.com/3blue1brown/
-https://www.penguinrandomhouse.com/books/246263/read-my-desire-by-joan-copjec/
-https://www.researchgate.net/profile/Anneloes-Smitsman/publication/344653552_Into_the_Heart_of_Systems_Change_-_PhD_Dissertation_by_Anneloes_Smitsman_Dec_2019_final/links/5f86fa02458515b7cf7fbc8b/Into-the-Heart-of-Systems-Change-PhD-Dissertation-by-Anneloes-Smitsman-Dec-2019-final.pdf?origin=publication_detail/
-https://www.rhyslindmark.com/blockchain-wins-over-developers-with-self-actualization-in-addition-to-integrity/
-https://www.sciencedirect.com/topics/computer-science/autopoietic-system/pdf/
-https://www.sculpteo.com/en/3d-learning-hub/3d-printing-software/online-3d-modeling/
-https://www.sheldrake.org/books-by-rupert-sheldrake/a-new-science-of-life-morphic-resonance/
-https://www.shibuya.xyz/
-https://www.sociocracyforall.org/
-https://www.sociocracyforall.org/author/christopher-oreilly/
-https://www.themarginalian.org/2016/11/28/einstein-circles-of-compassion/
-https://www.themarginalian.org/author/mpopova/
-https://www.ujimaboston.com/
-https://www.wealest.com/articles/lindy-effect/
-https://www.wombo.art/
-https://www.youtube.com/c/TokenEngineeringCommons/videos/
-https://www.youtube.com/c/academyofideas/
-https://www.youtube.com/channel/UC1KmNKYC1l0stjctkGswl6g/
-https://www.youtube.com/channel/UC2nsIKrJxDwBqvKtZhqZllw/
-https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ/
-https://www.youtube.com/channel/UC6gdZ6Q7Fwfvn-Uu4QKDyhg/
-https://www.youtube.com/channel/UC6s-1TYa-1fBrUUIGijshCQ/
-https://www.youtube.com/channel/UC7JWd8tpezAUFFhw-6TrEkw/
-https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug/
-https://www.youtube.com/channel/UCAwylBbx8RiRD3VsaYdwNTw/
-https://www.youtube.com/channel/UCCkMh_CEsludIDEkxAFz_nQ/
-https://www.youtube.com/channel/UCCsMZhF_-KV0Dz8vFmKzmpA/
-https://www.youtube.com/channel/UCGZhNQ6mRnvLa0_oVJNG_kA/
-https://www.youtube.com/channel/UCGr70r291iU16iUyy743Xzg/
-https://www.youtube.com/channel/UCMCbmbxLGmCPkinrMUEz4iA/
-https://www.youtube.com/channel/UCPwc54vGBFtZ_DZFk-qqA9A/
-https://www.youtube.com/channel/UCQUFWrwQshjbq3VN0yfm_5Q/
-https://www.youtube.com/channel/UCVLsq0_WCBBhhCDKX6Gaz4w/
-https://www.youtube.com/channel/UCW2OOu7DabBsnNPPSjrfK7Q/
-https://www.youtube.com/channel/UCXLdDPcQD0BWjb00fGdFFYg/
-https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/
-https://www.youtube.com/channel/UCZaT_X_mc0BI-djXOlfhqWQ/
-https://www.youtube.com/channel/UCasYSJ_VtWci6MbzOVEowUQ/
-https://www.youtube.com/channel/UCbcKIlVtF80Z-0EZW_oNa3g/
-https://www.youtube.com/channel/UCcEDTBdietc2JmgN6TL8wAg/
-https://www.youtube.com/channel/UCcMViyRW8GMZxt8V1sLZBTA/
-https://www.youtube.com/channel/UCciQ8wFcVoIIMi-lfu8-cjQ/
-https://www.youtube.com/channel/UCeKRqRjzSzq5yP-zUPwc6_w/
-https://www.youtube.com/channel/UCeceDwJTNVf2qs6r4xlZbwg/
-https://www.youtube.com/channel/UCfYW5GXBXueSO5p9bxD45qg/
-https://www.youtube.com/channel/UCgPx_HwpREcdJ1Jf5C9Bm4A/
-https://www.youtube.com/channel/UCm5i97M_A8ReckOCDPnJe9w/
-https://www.youtube.com/channel/UCmFeOdJI3IXgTBDzqBLD8qg/
-https://www.youtube.com/channel/UCnztaG5wCuMhedlTXMSOkEg/
-https://www.youtube.com/channel/UCpzN_PFW1uZyzLoyzOqFI7Q/
-https://www.youtube.com/channel/UCpzN_PFW1uZyzLoyzOqFI7Q/videos/
-https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q/
-https://www.youtube.com/channel/UCuV--hDFVXS69PNdFgdyhbw/
-https://www.youtube.com/channel/UCvNjXFll67yM8F1thjNZM8w/
-https://www.youtube.com/channel/UCvzpzu9l4W_CTq2SKAXja0w/
-https://www.youtube.com/channel/UCw-kH-Od73XDAt7qtH9uBYA/
-https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA/
-https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA/?sub_confirmation=1/
-https://www.youtube.com/watch?v=-wv0vxVRGMY/
-https://www.youtube.com/watch?v=03K4inVyWGc/
-https://www.youtube.com/watch?v=4RqWa_8qwRI/
-https://www.youtube.com/watch?v=7UojwMiRpNM/
-https://www.youtube.com/watch?v=AWb4yTnTyM0/
-https://www.youtube.com/watch?v=AsUqA9897O4/
-https://www.youtube.com/watch?v=BcOPKQAZcn0/
-https://www.youtube.com/watch?v=Bp4tGTNNi1I/
-https://www.youtube.com/watch?v=Bv1mOF4JYBc/
-https://www.youtube.com/watch?v=CO7gRDzLtds/
-https://www.youtube.com/watch?v=FsTbMfQP7b0&t=559s/
-https://www.youtube.com/watch?v=JvJ9t9gnu2Y/
-https://www.youtube.com/watch?v=KN7hfoBbP_0/
-https://www.youtube.com/watch?v=NcvROBKeB6Q/
-https://www.youtube.com/watch?v=O8k1mhrhIrw/
-https://www.youtube.com/watch?v=P9jY3mPy7cs/
-https://www.youtube.com/watch?v=PgdiqiAH8Jw/
-https://www.youtube.com/watch?v=Q1hh0E2ejV8/
-https://www.youtube.com/watch?v=QsCxgpKesMk/
-https://www.youtube.com/watch?v=RX5PwC75cxU/
-https://www.youtube.com/watch?v=TWm52IPPZjI/
-https://www.youtube.com/watch?v=TbjUPAaqkPQ/
-https://www.youtube.com/watch?v=baX3Wf2Y59c/
-https://www.youtube.com/watch?v=d0nERTFo-Sk/
-https://www.youtube.com/watch?v=fW8amMCVAJQ/
-https://www.youtube.com/watch?v=nDbeqj-1XOo/
-https://www.youtube.com/watch?v=nI8q5thiubA/
-https://www.youtube.com/watch?v=pSbxz3x7X_k&t=54s/
-https://www.youtube.com/watch?v=phieTCxQRLA/
-https://www.youtube.com/watch?v=qZetGh9sptU&t=1s/
-https://www.youtube.com/watch?v=rfG8ce4nNh0/
-https://www.youtube.com/watch?v=ruAi4VBoBSM/
-https://www.youtube.com/watch?v=smUCKnnBQBg/
-https://www.youtube.com/watch?v=uODUBJ1AITk/
-https://www.youtube.com/watch?v=wqn3gR1WTcA/
-https://youtu.be/09maaUaRT4M/
-https://youtu.be/0P9xRvE3eqc/
-https://youtu.be/0zT9Fw3b0lU/
-https://youtu.be/1DVS7eTgIvs/
-https://youtu.be/3cXMstpFW4A/
-https://youtu.be/4Prdre5i7Zc/
-https://youtu.be/6zpTOIuCLVI/
-https://youtu.be/7Q9sUSNxHBw/
-https://youtu.be/8J13tS9uWSY/
-https://youtu.be/ACId2JZyhcE/
-https://youtu.be/Amh7Es2LxDc/
-https://youtu.be/AsUqA9897O4/
-https://youtu.be/BQ2_BwqcFsc?t=447/
-https://youtu.be/DBiCEn8AhVs/
-https://youtu.be/EBI7-pL52GY/
-https://youtu.be/Eo5oQ9Psmg8?t=307/
-https://youtu.be/EpCXTcfcam8/
-https://youtu.be/Gi-OaiQvnTU/
-https://youtu.be/Ijv6_uw3NDQ/
-https://youtu.be/KQy6W6JQ6bw/
-https://youtu.be/M5X6iLHzqAI/
-https://youtu.be/OteVAE2GlxQ/
-https://youtu.be/Q5Z1vOnqCRQ/
-https://youtu.be/SCIlIiEKUFA/
-https://youtu.be/XPAQUi3L7u4/
-https://youtu.be/YzaaqOwmgCM/
-https://youtu.be/ZWl13ZxYc2s/
-https://youtu.be/breDQqrkikM?t=931/
-https://youtu.be/d4BRC3xpLLo/
-https://youtu.be/iw3h0LLgalE/
-https://youtu.be/jzvyxQ5byt4?t=1006/
-https://youtu.be/kURzej0nqn4/
-https://youtu.be/lMrJodopaOk/
-https://youtu.be/lYWOYqQRIlo/
-https://youtu.be/n3Mxvul5C9w/
-https://youtu.be/nG3fz30Zg0U/
-https://youtu.be/rxq8qHaeYME/
-https://youtu.be/uODUBJ1AITk/
-https://youtu.be/ufHGU0rHREs/
-https://youtu.be/uvNkdAggUGU/
-https://youtu.be/uxnUeZ8QQYg?t=516/
-https://youtu.be/zMK8bPEerEM?t=243/
-https://youtube.com/playlist?list=PLZe95H1B_pl8DVR1mrtDg7zgI6oirDJVI/
-https://youtube.com/playlist?list=PLZe95H1B_pl9Ja594timOxjrSF7_SLCFp/
-https://youtube.com/playlist?list=PLrh1PEXBEkv5bu_ULJRu6mx8I23rl--Ps/
-https://yt3.ggpht.com/ytc/AKedOLRKpxTftjda8trsqtcneCsP3y3HYxyuMD345MPo=s900-c-k-c0x00ffffff-no-rj/
 
 ## After 19-Mar-21 12:00 AM
 
@@ -2918,7 +2344,7 @@ _15-Mar-22 10:24 AM_:
 
 [Vishuddhi Films](https://www.youtube.com/channel/UCm5i97M_A8ReckOCDPnJe9w)
 
-Who is Shiva? |Indian_Civilization_Series
+Who is Shiva? -Indian_Civilization_Series
 
 On the occasion of Mahashivratri know about the importance of Shiva. Continuities of the importance of Shiva in Vedic civilization and Indus Valley Civilization. Shiva Parvati relation with the Geography of India. Shiva Parvati relation is at the core of Indian Marriage. Dr Ramachandran reveals the mysteries of Natraj and human wellbeing. Cosm...
 
@@ -3478,7 +2904,7 @@ have I shared this before? [https://www.youtube.com/watch?v=TWm52IPPZjI](https:/
 
 [OiwiTV](https://www.youtube.com/channel/UCbcKIlVtF80Z-0EZW_oNa3g)
 
-Worldwide Voyage | The Star Compass
+Worldwide Voyage - The Star Compass
 
 Nainoa Thompson explains the Hawaiian star compass used for navigation and how it was designed.
 
@@ -4064,7 +3490,7 @@ and what could be build on it.
 
 (edited)
 
-Plot (-39,59) - Critterz Plots | OpenSea
+Plot (-39,59) - Critterz Plots - OpenSea
 
 A collection of 62,500 genesis Plots of land. Get a Plot to access the Critterz metaverse in Minecraft. Each Plot of land is 64 by 64 Minecraft blocks in size. Only owners of the Plots can build or destroy any blocks on it. You wi
 <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
@@ -4560,7 +3986,7 @@ Abundance: The Inner Path to Wealth [https://www.youtube.com/watch?v=baX3Wf2Y59c
 
 [The Daily Show with Trevor Noah](https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA)
 
-Deepak Chopra - Analyzing Putin & Finding Inner Wealth | The Daily ...
+Deepak Chopra - Analyzing Putin & Finding Inner Wealth - The Daily ...
 
 “Abundance” author Deepak Chopra discusses the importance of measuring success through joy, his Freudian analysis of Vladimir Putin, and how an AI chatbot is helping to prevent suicides globally. #DailyShow Subscribe to The Daily Show: [https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA/?sub_confirmation=1](https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA/?sub_confirmation=1) Follow The Daily Show: Twitter:...
 
@@ -7580,7 +7006,7 @@ _24-Mar-22 01:08 PM_:
 
 [https://aeon.co/essays/gregory-bateson-changed-the-way-we-think-about-changing-ourselves](https://aeon.co/essays/gregory-bateson-changed-the-way-we-think-about-changing-ourselves)
 
-Gregory Bateson changed the way we think about changing ourselves |...
+Gregory Bateson changed the way we think about changing ourselves -...
 
 Learning from his family, his animals and his work with tribal people, Gregory Bateson saw the creative potential of paradox
 
@@ -8413,7 +7839,7 @@ _28-Mar-22 07:26 AM_:
 
 [Ritmos del Sur](https://www.youtube.com/channel/UCMCbmbxLGmCPkinrMUEz4iA)
 
-Ritual |Mix| by Andy Loop ● Bomba Estereo ● Lagartijenado ● Kraut
+Ritual -Mix- by Andy Loop ● Bomba Estereo ● Lagartijenado ● Kraut
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1d5e1.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fc.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d600.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5ee.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d606.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d602.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f1.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5ee.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d600.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f0.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fc.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fb.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d602.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fb.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5ee.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fd.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f2.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fe.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d602.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f2.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fb.png" width=50 height=50> 
 
@@ -11437,7 +10863,7 @@ these are 15 mins worth your time: [https://www.youtube.com/watch?v=O8k1mhrhIrw]
 
 [TEDx Talks](https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q)
 
-Our world in Crises, how love can provide a solution | Anneloes Smi...
+Our world in Crises, how love can provide a solution - Anneloes Smi...
 
 Anneloes Smitsman believes that love is a strong solution to the problems of our world in crises. She encourages us to ask three questions about being a vector of love: 1) What do I reach from? What is my point of origin? 2) How far can I reach inside and outside myself? 3) What am I reaching for? Anneloes Smitsman is the Founder and CEO of EAR...
 
@@ -11796,7 +11222,7 @@ cuz what do you have when you have "modelled a human system" ? Definitely a wron
 
 [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
-Integration and the fundamental theorem of calculus | Chapter 8, Es...
+Integration and the fundamental theorem of calculus - Chapter 8, Es...
 
 What is an integral? How do you think about it? Help fund future projects: [https://www.patreon.com/3blue1brown](https://www.patreon.com/3blue1brown) An equally valuable form of support is to simply share some of the videos. Special thanks to these supporters: [http://3b1b.co/lessons/integration#thanks](http://3b1b.co/lessons/integration#thanks) Check out the Art of Problem Solving: [https://aops.com/3blue1brown](https://aops.com/3blue1brown) --------------...
 
@@ -14073,7 +13499,7 @@ This is a central source of knowledge for 0mega and its initiatives.
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f57a.png" width=50 height=50>
 
-**Dance with us | How to contribute**
+**Dance with us - How to contribute**
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50>
 
@@ -14948,7 +14374,7 @@ nic
 
 _08-Apr-22 01:55 AM_:
 
-so been thinking that underneath "workflow island" we can have the 3 "Process flow" | "Creative Flow" | "Energy Flow" (maybe as triangle, so we can make cross connections)
+so been thinking that underneath "workflow island" we can have the 3 "Process flow" - "Creative Flow" - "Energy Flow" (maybe as triangle, so we can make cross connections)
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
 
@@ -15810,7 +15236,7 @@ the wicked work world: [https://youtu.be/BQ2_BwqcFsc?t=447](https://youtu.be/BQ2
 
 [TEDx Talks](https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q)
 
-How Falling Behind Can Get You Ahead | David Epstein | TEDxManchester
+How Falling Behind Can Get You Ahead - David Epstein - TEDxManchester
 
 “Jack of all trades, master of none,” the saying goes. But it is culturally telling that we have chopped off the ending: “…but oftentimes better than master of one.” In a society hyperfocused on headstarts, we are told to choose our paths early, focus narrowly, and start racking up our 10,000 hours of deliberate practice. But a mountain of rese...
 
@@ -16300,7 +15726,7 @@ just wanted to drop a two links for tomorrows deep dive into "process flow"
 
 [https://www.mindmanager.com/en/tips/linear-thinking/](https://www.mindmanager.com/en/tips/linear-thinking/)
 
-Linear Thinking: The Ultimate Guide | MindManager
+Linear Thinking: The Ultimate Guide - MindManager
 
 Want to understand the linear thought process? Then take a look at this guide from MindManager. We’ll show you what it is.
 
@@ -16342,7 +15768,7 @@ like creativity
 
 [https://www.mindmanager.com/en/tips/linear-thinking/non/](https://www.mindmanager.com/en/tips/linear-thinking/non/)
 
-Non-Linear Thinking: The Ultimate Guide | MindManager
+Non-Linear Thinking: The Ultimate Guide - MindManager
 
 Want to understand the non-linear thought process? Then take a look at this guide from MindManager. We’ll show you what it is.
 
@@ -16607,7 +16033,7 @@ _22-Apr-22 04:30 AM_:
 
 [mikemanning](https://a16z.com/author/mikemanning/)
 
-Announcing a16z crypto research | Andreessen Horowitz
+Announcing a16z crypto research - Andreessen Horowitz
 
 The best industrial research labs throughout history have played a critical role in pioneering much of modern technology. Two modern examples of successful research labs — both founded in the wake of radical advances in the field of artificial intelligence …
 
@@ -17085,7 +16511,7 @@ about "mimetic desire" (we had just touched upon briefly, but when you're design
 
 [https://psyche.co/guides/how-to-know-what-you-really-want-and-be-free-from-mimetic-desire](https://psyche.co/guides/how-to-know-what-you-really-want-and-be-free-from-mimetic-desire)
 
-How to know what you really want | Psyche Guides
+How to know what you really want - Psyche Guides
 
 From career choices to new purchases, use René Girard’s mimetic theory to resist the herd and forge your own path in life
 
@@ -19151,7 +18577,7 @@ Action Plan becomes "Contact Improv" [https://www.youtube.com/watch?v=TbjUPAaqkP
 
 [TEDx Talks](https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q)
 
-We Rise and Fall Together | Contact Improv | Nathan Dryden | TEDxSa...
+We Rise and Fall Together - Contact Improv - Nathan Dryden - TEDxSa...
 
 Contact Improvisation is a dance form that evolves from spontaneous communication between moving bodies in physical contact. Touch, weight, momentum, balance, and flow give it a continuously emerging shape. It’s researched, taught, and performed across the world by dancers from the very birth of the form in 1972: like Steve Paxton, Nancy Stark ...
 
@@ -20591,7 +20017,7 @@ Cooperative Microeconomics
 
 Z-Library single sign on
 
-Z-Library single sign on | Z-Library. Download books for free. Find books
+Z-Library single sign on - Z-Library. Download books for free. Find books
 
 ![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
 
@@ -21657,7 +21083,7 @@ good thing my day jobs need me as respectively token engineer and "manager" (whi
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
 
-Management 3.0 vs. Teal Organizations | Management 3.0
+Management 3.0 vs. Teal Organizations - Management 3.0
 
 Management 3.0 and Teal Organizations – How are they related? A comparison of characteristics and what to learn from another.
 
@@ -21940,7 +21366,7 @@ _20-May-22 01:54 PM_:
 
 [https://miro.com/app/board/uXjVOzNIPbA=/](https://miro.com/app/board/uXjVOzNIPbA=/)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 30M+ users from around the world
 
@@ -22196,7 +21622,7 @@ _29-May-22 09:42 AM_:
 
 [World Economic Forum](https://www.youtube.com/channel/UCw-kH-Od73XDAt7qtH9uBYA)
 
-Financing Net Zero: Moving from Commitment to Action | Davos | #WEF22
+Financing Net Zero: Moving from Commitment to Action - Davos - #WEF22
 
 The recovery from the COVID-19 crisis has been deeply uneven within and between countries, depending on their access to fiscal resources and vaccines. Food, fuel and resource crises now risk further derailing an equitable recovery. How can a broader set of foundations for growth ensure long-term economic prosperity and a return to international...
 
@@ -22216,7 +21642,7 @@ hi, edited consilience flower, and created petals for navigation of library wire
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/980548495159222312/Screen_Shot_2022-05-29_at_21.03.42.png](https://cdn.discordapp.com/attachments/810180622634844202/980548495159222312/Screen_Shot_2022-05-29_at_21.03.42.png)
 
-Sign up | Miro | Online Whiteboard for Visual Collaboration
+Sign up - Miro - Online Whiteboard for Visual Collaboration
 
 Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 30M+ users from around the world
 
@@ -23895,7 +23321,7 @@ _08-Jun-22 05:30 PM_:
 
 [TED](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug)
 
-Art in the age of machine intelligence | Refik Anadol
+Art in the age of machine intelligence - Refik Anadol
 
 Visit [http://TED.com](http://ted.com/) to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more. What does it look like inside the mind of a machine? Inspired by the architectural vision of a futuristic Los Angeles in "Blade Runner," media artist Refik Anadol melds art with artificial intelligence in his studi...
 
@@ -25059,7 +24485,7 @@ we need to make clear these distinctions, e.g. [https://gitcoin.co/grants/798/a-
 
 <img src="https://twemoji.maxcdn.com/2/72x72/1f4b0.png" width=50 height=50>
 
-A Hitchhiker's Guide to Token Engineering | Grants
+A Hitchhiker's Guide to Token Engineering - Grants
 
 "A Hitchhiker's Guide to Token Engineering“ is a crowdsourced and crowdfunded book and online content repo for token designers, entrepreneurs and applied researchers to get the hang of Token Engineering. The book aims at giving the full account of experience with an end-to-end tool chain: from co-designing the digital ecosystem through games, to...
 
@@ -25085,7 +24511,7 @@ I personally am super unsatisfied that all needs to boil down to "is it useful n
 
 and this is the time I always spin [https://nias.knaw.nl/insights/usefulness-useless-knowledge/](https://nias.knaw.nl/insights/usefulness-useless-knowledge/)
 
-The Usefulness of Useless Knowledge | NIAS
+The Usefulness of Useless Knowledge - NIAS
 
 In his classic essay "The Usefulness of Useless Knowledge," Abraham Flexner, the founding director of the Institute for Advanced Study in Princeton, defends "the unobstructed pursuit of useless knowledge" and the search for answers to deep questions, motivated solely by curiosity and without concern for applications. The essay is as valuable tod...
 
@@ -25823,7 +25249,7 @@ The World Economic Forum "circular economy" very interesting
 
 [https://intelligence.weforum.org/](https://intelligence.weforum.org/)
 
-Strategic Intelligence | World Economic Forum
+Strategic Intelligence - World Economic Forum
 
 Strategic insights and contextual intelligence from the World Economic Forum. Explore and monitor the issues and forces driving transformational change across economies, industries and systems.
 
@@ -26358,7 +25784,7 @@ maneuvre wave
 
 [https://earthsky.org/earth/how-do-flocking-birds-move-in-unison/](https://earthsky.org/earth/how-do-flocking-birds-move-in-unison/)
 
-| EarthSky
+- EarthSky
 
 How do some species of birds in flocks perform their wonderful, graceful, synchronized movements? Hint: they don't just follow a leader or their neighbors.
 
