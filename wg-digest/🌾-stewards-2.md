@@ -12,80 +12,6 @@ The main objectives of the Community Stewards WG are to provide visibility acros
 
 ## Links
 
-
-### Onchain
-
-- [Aragon](https://aragon.1hive.org/#/0x5b4557485f25fefc874e9fd97e8f6e1eb40a2fb0/0xaa346f07f9485b294cc3ac46c0f82bfd3656c2de/)
-- [Aragon](https://aragon.1hive.org/#/0x5b4557485f25fefc874e9fd97e8f6e1eb40a2fb0/0xcafd3e0c782be1e0b2952b5c389c8c0808c41da1/vote/1/)
-- [Aragon](https://aragon.1hive.org/#/tecdrops/0x22c3993f10d9d093f7cba939674f88e7269a45e1/)
-- [Token Engineering Commons (TEC) - Gnosis Chain - BlockScout](https://blockscout.com/xdai/mainnet/token/0x5dF8339c5E282ee48c0c7cE8A7d01a73D38B3B27/token-transfers)
-  > Token Engineering Commons, balances, and analytics on the (Gnosis)
-- [Proof of Humanity, a sybil-proof list of humans.](https://app.proofofhumanity.id/profile/0x0585b28fd862d3bf033be20b178bdf01262b8424)
-- [Gardens](https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/22)
-  > Gardens
-- [Gardens](https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/6)
-  > Gardens
-- [Gardens](https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/2)
-  > Gardens
-- [Gardens](https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/7)
-  > Gardens
-- [Gardens](https://gardens.1hive.org/%23/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/12&sa=D&source=docs&ust=1646779106089241&usg=AOvVaw1K5e_JJxhMMkB2ZIQZh2Jg)
-  > Gardens
-- [Gardens](https://gardens.1hive.org/%2523/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/12&sa=D&source=docs&ust=1646779106089241&usg=AOvVaw1K5e_JJxhMMkB2ZIQZh2Jg)
-  > Gardens
-- [Gardens](https://gardensdao.eth.limo/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/25)
-  > Gardens
-- [Aragon](https://gateway.pinata.cloud/ipfs/QmPV4NnmJEDA9fmh5VnqAdFCfNwZyY4yZgD5ECxpF5keMm/#/0x4625c2c3e1bc9323cc1a9dc312f3188e8de83f42/0x9b54222e0e3d3a6352ff5184f848919591321159/vote/1/)
-- [Token Engineering Commons - Grants](https://gitcoin.co/grants/1155/token-engineering-commons)
-  > GR14 2022.06.08 Hello there! We've been working non-stop at TEC and we're excited for this round of Gitcoin Grants. In this update we will cover some of the proposals we've been funding, tools we've developed and participations we've had this past quarter 
-- [](https://snapshot.org/#/tecommons.eth)
-- [](https://snapshot.org/#/tecommons.eth/proposal/0x113eff60710a7340d35ee18dc51191cfe8573b617307f0c55089e6ed8a857535)
-- [](https://snapshot.org/#/tecommons.eth/proposal/0x5235e207c461e9edad65663295c03615b6725b2c34e69a36e237db202ebf21b4)
-- [](https://snapshot.org/#/tecommons.eth/proposal/0x867b75cbb0e6fcc18bcfefa17d726da00552aad78929903bc8ba7ec6ae2c8993)
-- [](https://snapshot.org/#/tecommons.eth/proposal/0xbf91a8d1a6701a5ff4e99d97e3fa4fe581326641b793e0482340aeff0b5edd2b)
-- [](https://snapshot.org/#/tecommons.eth/proposal/0xc26d2b18ff67f6de730a7a6e591885b8c8812f299ec0d3e536db4b5b1ac9000d)
-- [](https://snapshot.org/#/tecommons.eth/proposal/0xcad826c818f3bfc821e746cc3f72f378bee5e935de7092864294a47710785c77)
-- [](https://snapshot.org/#/tecommons.eth/proposal/QmRXDFfSQoUzahxjuVGKspXD8NbwoR38CvUSU135vkNZEr)
-- [Aragon](https://xdai.aragon.blossom.software/#/0x4625c2c3E1Bc9323CC1A9dc312F3188e8dE83f42/0x9b54222e0e3d3a6352ff5184f848919591321159/vote/2/)
-- [Aragon](https://xdai.aragon.blossom.software/#/0x7A06c1106908d952974Ca1dC2b66F8Cc7dF75DBb/0xbd4bcdbf1b075f79deaa7a860811c60c73040824/vote/1/)
-
-### DAO
-
-- [Bankless: DAO Panel - Kain Warwick, CoopahTroopah, Tracheopteryx](http://podcast.banklesshq.com/dao-panel-kain-warwick-coopahtroopah-tracheopteryx)
-  > DAOs are heating up. In 2021, the tools and infrastructure surrounding DAOs have taken off at an incredible pace. Digital organizations have the potential to fundamentally change the way we coordinate as a species. We bring on DAO experts Kain Warwick, Cooper Turley, and Tracheopteryx to provide insights into this budding movement.
-- [Welcome to 1Hive - 1Hive](https://1hive.gitbook.io/1hive) - Honey is money, for everybody.
-- [DAOhaus](https://app.daohaus.club/dao/0x64/0xee4db0a76b49f1ea6c1176200d6068322943d69f/)
-  > DAOhaus is a no code platform for Moloch DAOs.
-- [Introduction - Celeste](https://1hive.gitbook.io/celeste/)
-- [1Hive Community Events](https://calendar.google.com/calendar/embed?src=c_k77c78d1kdt9e1vpk2cvjcc7jg%40group.calendar.google.com&ctz=Europe%2FParis)
-- [Celeste Dashboard](https://celeste.1hive.org/)
-  > Celeste Dashboard
-- [Clarity âÂ The DAO Contribution Platform](https://clarity.so)
-  > Where DAO contributors onboard, get work done, and earn rewardsâin one place. Clarity is the most advanced DAO contribution platform. Share task boards & docs, manage access with tokens, receive bounty payouts, and build your contributor reputation.
-- [ENS DAO Delegate Applications](https://discuss.ens.domains/t/ens-dao-delegate-applications/815/103)
-  > [quote=“brantlymillegan, post:1, topic:815”] ENS name: wabubs.eth My reasons for wanting to be a delegate: I want to participate in the future development of ENS and web3. I am relatively new to web3, with a background in energy & ICT infrastructure as a lifelong entrepreneur. I have been active in bitcoin for a few years, and active in ethereum, wallets and blockchain for the past 18 months. I have a few ENS names and very interested in being a part of the foundational governance team. My vi...
-
-## Defi
-- [Axie Infinity](https://axieinfinity.com)
-  > Join the blockchain gaming play to earn revolution with Axie Infinity!
-- [Bankless - Arbitrum](https://bankless.cc/Arbitrum)
-- [Staking ATOM - Ledger](https://bankless.cc/Ledger)
-  > Stake your ATOM and earn passive income by participating in the Cosmos network using delegation
-- [Matcha - Simple crypto trading for everyone](https://bankless.cc/Matcha)
-  > Matcha is your home for fast, secure crypto trading. Trade peer-to-peer, directly from your own wallet. Trade in seconds, no sign ups or registration required.
-- [PoolTogether](https://bankless.cc/PoolTogether)
-  > Deposit to save & win.
-- [Chainlink Blog](https://blog.chain.link/challenges-in-defi-how-to-bring-more-capital-and-less-risk-to-automated-market-maker-dexs/)
-
-### Tools
-- [Connect multiple calendars to your Calendly account - Calendly](https://calendly.com/blog/connect-multiple-calendars)
-
-### Organization
-
-- [The_Surprising_Power_of_Liberating_Structures__Simple_Rules_to_Unleash_A_Culture_of_Innovation](https://cdn.discordapp.com/attachments/810180622634844206/969279629187776602/Lipmanowicz_Henri__McCandless_Keith_-_The_Surprising_Power_of_Liberating_Structures__Simple_Rules_to_Unleash_A_Culture_of_Innovation.epub)
-
-
-### Ops
 - [Commons Config Dashboard](https://config.tecommons.org/)
   > Design a Commons and propose it to the TEC community.
 - [Conviction Voting - Commons Stack](https://cv.commonsstack.org/#/)
@@ -122,15 +48,108 @@ The main objectives of the Community Stewards WG are to provide visibility acros
 - [Proposal Inverter Draft](https://miro.com/app/board/uXjVOUUZNNk=/?utm_source=notification&utm_medium=email&utm_campaign=daily-updates&utm_content=go-to-board)
 - [Anja Ebers's Liberating Structures Menu & Principles template - Miroverse](https://miro.com/miroverse/liberating-structures-menu-and-principles/)
   > Discover how Anja Ebers does Liberating Structures Menu & Principles in Miro with Miroverse, the Miro Community Templates Gallery. View Anja's Miro templates.
+- [Dune - TECommons](https://dune.xyz/tecommons/TECommons)
+- [Introduction to Token Engineering](https://forms.gle/PDK6toRMG9vXNRAf9)
+  > Great you are interested in Token Engineering! This is the registration form for our upcoming "Introduction to Token Engineering" 60 min session on Thursday, July 14 at 2:00 PM UTC. We co-host these sessions with TE Commons for a 360° overview on the TE Community. The event will be hosted online - if you register here we will follow-up with a calendar invite to the session!
+- [Token Engineering Commons Hatch](https://hatch.tecommons.org/)
+- [The Cultural Impacts of our Commons Upgrade Proposals](https://medium.com/token-engineering-commons/the-cultural-impacts-of-our-commons-upgrade-proposals-943034e0026b)
+  > We have spent countless hours debating the technical implications of the design space for our Commons Upgrade, but we have yet to really…
+- [POAP ✈️ - 🐣 TEC Hatch Participant](https://poap.delivery/tec-hash-participation)
+  > The vision of the Token Engineering Commons (TEC) is to advance the field of token engineering by creating ethical, safe, resilient and diverse economic systems to benefit societies around the world.
+- [LASERTAG](https://snapshot.org/#/tecommons.eth/proposal/0x9f5b81d5e98a234cc5a0f5de81dfd19a07f26e3cf39bfc95a156bd6e01ae0eab) TEC Snapshot
+- [Laser Tag Multisig](https://docs.google.com/spreadsheets/d/17ZSRL5hUB8ECXSvN-lcn0NqpxDW5Ew1d9BLhMi87YN8/edit#gid=0)
+- [Bot Ideas](https://vyvy-vi.notion.site/Bot-Ideas-250267dbbdd544eaaf446179210a147c) VyVyVi
+  > A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team
+- [Figma](https://www.figma.com/file/wJTMpwBS5f6LQKC2EJnwIg/Untitled?node-id=1%253A3)
+  > Created with Figma
+- [Figma](https://www.figma.com/file/wJTMpwBS5f6LQKC2EJnwIg/Untitled?node-id=1%3A3)
+  > Created with Figma
+- [TEC Calendar](https://www.notion.so/Calendar-be8a6868a6ef4305b7521fa35a2eb9ba) Notion
+- [Introduction to Token Engineering](https://www.notion.so/Introduction-to-Token-Engineering-0539c788bcae4cb5a7f6e011393aeb12) TEAcademy
+- [For the Laser Tag Multisig, that holds 170k of the initial buy, we should elect the people on the multisig by Voting for](https://www.strawpoll.me/45831644)
 
+### Onchain
+
+- [Token Engineering Commons (TEC) - Gnosis Chain - BlockScout](https://blockscout.com/xdai/mainnet/token/0x5dF8339c5E282ee48c0c7cE8A7d01a73D38B3B27/token-transfers)
+  > Token Engineering Commons, balances, and analytics on the (Gnosis)
+- [Proof of Humanity, a sybil-proof list of humans.](https://app.proofofhumanity.id/profile/0x0585b28fd862d3bf033be20b178bdf01262b8424)
+- [Find your garden - Gardens are digital economies that anyone can help shape](https://gardens.1hive.org/%23/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/12&sa=D) 1Hive Gardens
+  - [Steward WG 3-month funding proposal (May - July)](https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/22) 1Hive Gardens
+  - [Steward WG 3-month funding proposal](https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/6) 1Hive Gardens
+  - [Vote #2 - Open Augmented Bonding Curve](https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/2) 1Hive Gardens
+  - [Vote #7 - Update fees deducted from buy and sell orders to respectively 16% and 5%](https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/7) 1Hive Gardens
+  - [Sampo WG Season 1 Funding Proposa](https://gardensdao.eth.limo/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/25) 1Hive Gardens
+- [Aragon](https://gateway.pinata.cloud/ipfs/QmPV4NnmJEDA9fmh5VnqAdFCfNwZyY4yZgD5ECxpF5keMm/#/0x4625c2c3e1bc9323cc1a9dc312f3188e8de83f42/0x9b54222e0e3d3a6352ff5184f848919591321159/vote/1/)
+- [Token Engineering Commons - Grants](https://gitcoin.co/grants/1155/token-engineering-commons) Gitcoin
+  > GR14 2022.06.08 Hello there! We've been working non-stop at TEC and we're excited for this round of Gitcoin Grants. In this update we will cover some of the proposals we've been funding, tools we've developed and participations we've had this past quarter 
+- [https://snapshot.org/#/tecommons.eth](https://snapshot.org/#/tecommons.eth)
+- [Should we do the Initial Buy-in of 250,000 wxDAI?](https://snapshot.org/#/tecommons.eth/proposal/0x113eff60710a7340d35ee18dc51191cfe8573b617307f0c55089e6ed8a857535) TEC Snapshot
+- [Water: 5 Token Swaps in 1 & an Index Token to Boot! (new Vote!)](https://snapshot.org/#/tecommons.eth/proposal/0xbf91a8d1a6701a5ff4e99d97e3fa4fe581326641b793e0482340aeff0b5edd2b) TEC Snapshot
+- [Snapshot Params](https://snapshot.org/#/tecommons.eth/proposal/0xc26d2b18ff67f6de730a7a6e591885b8c8812f299ec0d3e536db4b5b1ac9000d) TEC Snapshot
+- [Substitute 1 LASERTAG multisig member](https://snapshot.org/#/tecommons.eth/proposal/0xcad826c818f3bfc821e746cc3f72f378bee5e935de7092864294a47710785c77) TEC Snapshot
+- [One time change of TECH addresses](https://snapshot.org/#/tecommons.eth/proposal/QmRXDFfSQoUzahxjuVGKspXD8NbwoR38CvUSU135vkNZEr) TEC Snapshot
+- [Aragon](https://xdai.aragon.blossom.software/#/0x4625c2c3E1Bc9323CC1A9dc312F3188e8dE83f42/0x9b54222e0e3d3a6352ff5184f848919591321159/vote/2/)
+- [Aragon](https://xdai.aragon.blossom.software/#/0x7A06c1106908d952974Ca1dC2b66F8Cc7dF75DBb/0xbd4bcdbf1b075f79deaa7a860811c60c73040824/vote/1/)
+
+### DAO
+
+- [Bankless: DAO Panel - Kain Warwick, CoopahTroopah, Tracheopteryx](http://podcast.banklesshq.com/dao-panel-kain-warwick-coopahtroopah-tracheopteryx)
+  > DAOs are heating up. In 2021, the tools and infrastructure surrounding DAOs have taken off at an incredible pace. Digital organizations have the potential to fundamentally change the way we coordinate as a species. We bring on DAO experts Kain Warwick, Cooper Turley, and Tracheopteryx to provide insights into this budding movement.
+- [Welcome to 1Hive - 1Hive](https://1hive.gitbook.io/1hive) - Honey is money, for everybody.
+- [DAOhaus](https://app.daohaus.club/dao/0x64/0xee4db0a76b49f1ea6c1176200d6068322943d69f/)
+  > DAOhaus is a no code platform for Moloch DAOs.
+- [Introduction - Celeste](https://1hive.gitbook.io/celeste/)
+- [1Hive Community Events](https://calendar.google.com/calendar/embed?src=c_k77c78d1kdt9e1vpk2cvjcc7jg%40group.calendar.google.com&ctz=Europe%2FParis)
+- [Celeste Dashboard](https://celeste.1hive.org/)
+  > Celeste Dashboard
+- [Clarity âÂ The DAO Contribution Platform](https://clarity.so)
+  > Where DAO contributors onboard, get work done, and earn rewardsâin one place. Clarity is the most advanced DAO contribution platform. Share task boards & docs, manage access with tokens, receive bounty payouts, and build your contributor reputation.
+- [ENS DAO Delegate Applications](https://discuss.ens.domains/t/ens-dao-delegate-applications/815/103)
+  > [quote=“brantlymillegan, post:1, topic:815”] ENS name: wabubs.eth My reasons for wanting to be a delegate: I want to participate in the future development of ENS and web3. I am relatively new to web3, with a background in energy & ICT infrastructure as a lifelong entrepreneur. I have been active in bitcoin for a few years, and active in ethereum, wallets and blockchain for the past 18 months. I have a few ENS names and very interested in being a part of the foundational governance team. My vi...
+- [Community Ownership DAOs on Syndicate](https://t.co/udIXyeflbv)
+  > Yesterday, the first Syndicate DAO launched on our platform—the IDEO Founder Collective—a legally compliant, decentralized automated organization (DAO) for sharing equity and ownership across a community of organizations and people—in this case, IDEO and 20+ founders in its portfolio.
+- [https://twitter.com/TaylorPearsonMe/status/1501672961362829316](https://twitter.com/TaylorPearsonMe/status/1501672961362829316)
+  > Here's my best take: A good culture is one that is optimized to its business model and competitive environment.  A 🧵 on what that means.
+
+## Defi
+- [Axie Infinity](https://axieinfinity.com)
+  > Join the blockchain gaming play to earn revolution with Axie Infinity!
+- [Bankless - Arbitrum](https://bankless.cc/Arbitrum)
+- [Staking ATOM - Ledger](https://bankless.cc/Ledger)
+  > Stake your ATOM and earn passive income by participating in the Cosmos network using delegation
+- [Matcha - Simple crypto trading for everyone](https://bankless.cc/Matcha)
+  > Matcha is your home for fast, secure crypto trading. Trade peer-to-peer, directly from your own wallet. Trade in seconds, no sign ups or registration required.
+- [PoolTogether](https://bankless.cc/PoolTogether)
+  > Deposit to save & win.
+- [Chainlink Blog](https://blog.chain.link/challenges-in-defi-how-to-bring-more-capital-and-less-risk-to-automated-market-maker-dexs/)
+
+### Tools
+- [Connect multiple calendars to your Calendly account - Calendly](https://calendly.com/blog/connect-multiple-calendars)
+- [Hydra - The Perfect Discord Bot](https://hydra.bot/)
+  > Hydra is the only Discord bot you'll ever need! Invite Hydra today and start listening to your favorite tunes together with your friends or community!
+- [Rythm — Returning Soon™](https://rythm.fm/)
+  > Music is meant to be enjoyed with others. Here at Rythm, we're making it possible to share and enjoy music with others around the world.
+- [Swapr](https://swapr.eth.link/#/)
+  > A governance-enabled automated market maker with adjustable fees.
+
+
+### Files
+
+- [The_Surprising_Power_of_Liberating_Structures__Simple_Rules_to_Unleash_A_Culture_of_Innovation](https://cdn.discordapp.com/attachments/810180622634844206/969279629187776602/Lipmanowicz_Henri__McCandless_Keith_-_The_Surprising_Power_of_Liberating_Structures__Simple_Rules_to_Unleash_A_Culture_of_Innovation.epub)
+- [https://file.coffee/u/V1GBsAQaPMvykR.mov](https://file.coffee/u/V1GBsAQaPMvykR.mov)
 
 ### Event
 - [Devconnect · Amsterdam](https://devconnect.org/)
   > A collaborative Ethereum week, built by and for everyone.
 
-- [Sharing Messages in Voice Just Got Way Easier: Introducing Text Chat in Voice Channels](https://discord.com/blog/text-in-voice-chat-channel-announcement-tiv)
-
 ### Documentation
+
+- [TEC PROPOSAL INVERTER PROPOSAL (PIP) - HackMD](https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/SkFBcnARK)
+  > TEC PROPOSAL INVERTER PROPOSAL (PIP) * The Proposal Inverter is a funding primitive that enables
+- [Support for TEA TEAM's Proposal for Q3 and Q4 2022 - HackMD](https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/Syk3A-IKq)
+  > Support for TEA TEAM's Proposal for Q3 and Q4 2022 Hello TEC and TEA Community! As you may know,
+- [DAOhaus Proposal for Gnosis Innovation DAO - HackMD](https://hackmd.io/@daohaus/r1ceDkEbc)
+  > DAOhaus Proposal for Gnosis Innovation DAO ## Summary **About DAOhaus** The DAOhaus platform
 - [youtube descriptions](https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A)
   > Comunitas The intention of this Working Group is to nurture, grow and guide the TEC community. The points of focus are new member orientation, current member community building, and organisational design: namely, guiding folks into the TEC and helping folks navigate the TEC from the inside. ...
 - [LS Commons DAO: web3 native](https://docs.google.com/document/d/12piML3DM6vKN_AeHPbLGlVuNBN60UGxa3x3Oiq9UiEI)
@@ -334,22 +353,18 @@ The main objectives of the Community Stewards WG are to provide visibility acros
   > GitHub is where people build software. More than 83 million people use GitHub to discover, fork, and contribute to over 200 million projects.
 
 ### Youtube
-- [Token Engineering](https://www.youtube.com/c/TokenEngineering)
-  > The Challenge Creating tokenized ecosystems is hard. How do we figure out what we want? How do we manifest that intent with block rewards and other crypto building blocks? How do we simulate and validate the design? How do we anticipate attacks and respond to them? How do we update the protocols? Given that these systems are wildly powerful, how can we better take responsibility for their design & deployment? Mission We'd love to see token ecosystem design become an engineering discipline: Token Engineering (TE). This implies a body of theory, practice, tools and a sense of responsibility. We aim to do this collectively as a community in a decentralized, permissionless, open-source fashion that all can contribute to and all can use. 👉 Support to make TokenEngineering lectures available online! https://cutit.org/8and1 More content: http://tokenengineering.net/ Meet us: https://www.meetup.com/pro/tokenengineering/ Join the discussion: https://twitter.com/tokengineering
-- [Token Engineering](https://www.youtube.com/c/TokenEngineering/live)
-  > The Challenge Creating tokenized ecosystems is hard. How do we figure out what we want? How do we manifest that intent with block rewards and other crypto building blocks? How do we simulate and validate the design? How do we anticipate attacks and respond to them? How do we update the protocols? Given that these systems are wildly powerful, how can we better take responsibility for their design & deployment? Mission We'd love to see token ecosystem design become an engineering discipline: Token Engineering (TE). This implies a body of theory, practice, tools and a sense of responsibility. We aim to do this collectively as a community in a decentralized, permissionless, open-source fashion that all can contribute to and all can use. 👉 Support to make TokenEngineering lectures available online! https://cutit.org/8and1 More content: http://tokenengineering.net/ Meet us: https://www.meetup.com/pro/tokenengineering/ Join the discussion: https://twitter.com/tokengineering
+- [Token Engineering](https://www.youtube.com/c/TokenEngineering/)
+  > The Challenge Creating tokenized ecosystems is hard. How do we figure out what we want? How do we manifest that intent with block rewards and other crypto building blocks? How do we simulate and validate the design?
 - [MetaMedia](https://www.youtube.com/channel/UC6gdZ6Q7Fwfvn-Uu4QKDyhg)
   > metacartel propoganda machine
-- [GitHub](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
-  > GitHub is the developer company. We make it easier for developers to be developers: to work together, to solve challenging problems, and to create the world’s most important technologies. We foster a collaborative community that can come together—as individuals and in teams—to create the future of software and make a difference in the world. The GitHub platform is where developers can create, share, and ship the best code possible. Our community is made up of students, hobbyists, consultants, enterprise professionals, partners and executives, building software in the way that works best for them. GitHub is much more than code. It is the home of open source collaboration. It is where new developers get started and where experienced developers expand their knowledge. It is a community where developers come together to solve the unsolvable and test the limits of what software can do.
 - [Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
-  > The Token Engineering Commons is building the tools for safe digital economies that protect and support public goods. To·ken En·gi·neer·ing /ˈtōkən/ /enjəˈniriNG/ 1. An emerging engineering discipline focused on holistic systems design and the theory, practice and tools used to design and verify tokenized ecosystems i.e. cyptoeconomic systems and their simulation using tools like cadCAD. 2. A discipline of responsibility; adhering to the highest principles of ethical conduct (from ethical engineering) 3. A community pushing forward the field of token engineering in theory and practice. (See more Modeling Crypto Protocols as Complex Systems, TE Process) Com·mons/ˈkämənz/ 1. Resources that groups of people (communities, organizations) create and manage for individual and collective benefit. These resources are held collectively, not owned privately (see Fractal Ownership, Wiki and Automating Ostrom)
+  > To·ken En·gi·neer·ing /ˈtōkən/ /enjəˈniriNG/
 - [Bankless](https://www.youtube.com/channel/UCAl9Ld79qaZxp9JzEOwd3aA)
-  > Welcome to the Bankless YouTube channel, where we explore the frontier of crypto money and crypto finance. This is how to get started, how to get better, and how to front-run the opportunity. TWITTER: @banklesshq https://twitter.com/BanklessHQ?s=20
+  > This is how to get started, how to get better, and how to front-run the opportunity.
 - [Andrew Penland](https://www.youtube.com/channel/UCew0u8PB9V21wRgS6KEBqbg)
   > Share your videos with friends, family, and the world
 - [1Hive](https://www.youtube.com/channel/UCg0yASRY6TmXDryitYvsJOQ)
-  > A community of web3 buidlers. Get involved! http://honeyswap.org/ Discord Server: https://discord.gg/xHXjWkPrtT 1hive Forum: http://forum.1hive.org/ Also, check out some of these sweet applications and experimental products being worked on by 1Hive community members: • HoneyPot: The DAO to create and stake on distribution proposals - http://1hive.org/ • Honey Faucet: Register with BrightID to claim your Honey every 48h - http://faucet.1hive.org/ • Honeyswap: Swap tokens, add supply liquidity and create new pools - http://app.honeyswap.org/ • Honeyswap Analytics: In-depth Honeyswap market data - http://info.honeyswap.org/ • Honeycomb: Stake Honeyswap LP tokens to claim Honey - http://farm.hny/
+  > A community of web3 buidlers. Get involved!
 - [PLAY-TO-EARN](https://www.youtube.com/channel/UCkdUdDEPaZFURVj3v4BFxRA)
   > This is the story of one small community in the rural Philippines that turned to the NFT game, Axie Infinity, to earn an income in cryptocurrency during the COVID-19 pandemic. It shows how the "play-to-earn" gaming phenomenon is creating new opportunities for thousands of players around the world, especially in emerging economies where job opportunities are lacking and government relief has been limited. If you want to learn more visit https://yieldguild.io or join their discord discord.gg/ygg
 - [The DAOist](https://www.youtube.com/channel/UCSm6Gic3HQHoFd7k3x8LNkQ)
@@ -375,21 +390,8 @@ The main objectives of the Community Stewards WG are to provide visibility acros
 - [PLAY-TO-EARN - NFT Gaming in the Philippines - English](https://www.youtube.com/watch?v=Yo-BrASMHU4&t=4s)
   > This is the story of one small community in the rural Philippines that turned to the NFT game, Axie Infinity (https://axieinfinity.com), to earn an income in...
 
- 
-### Assorted
-- [Dream Smile Pullover Hoodie](https://dream.shop/products/dream-smile-fleece-pullover-hoodie-1)
-  > Custom Dream-branded neck tag or printed label Soft fleece with ring spun cotton/polyester blend depending on manufacturing 60/40 blend for Black, Lime, and Red 60/40 or 50/50 blend for White 80/20 or 50/50 blend for Gray Medium weight comfy hoodie No draw cords for youth sizes. Dyed-to-match draw cords for adult size
-- [Dune - TECommons](https://dune.xyz/tecommons/TECommons)
-- [Home - Ethereum Foundation ESP](https://esp.ethereum.foundation/)
-  > The Ecosystem Support Program provides grants and other support to the builders of the Ethereum ecosystem.
-- [EthCC 5 — July 19-21, 2022](https://ethcc.io/)
-  > Ethereum Community Conferences & Workshops: 19-20-21 July in Paris
-- [Just a moment...](https://file.coffee/u/V1GBsAQaPMvykR.mov)
-  > Please enable Cookies and reload the page.
-- [Introduction to Token Engineering](https://forms.gle/PDK6toRMG9vXNRAf9)
-  > Great you are interested in Token Engineering! This is the registration form for our upcoming "Introduction to Token Engineering" 60 min session on Thursday, July 14 at 2:00 PM UTC. We co-host these sessions with TE Commons for a 360° overview on the TE Community. The event will be hosted online - if you register here we will follow-up with a calendar invite to the session!
-- [Celeste — a brief primer](https://forum.1hive.org/t/celeste-a-brief-primer/1483)
-  > We have been talking about Celeste and how important it is to 1hive, but there hasn’t been a good source of high level information as to what it is, how it works, and why it’s important all in one place. What is it Celeste is a Subjective Oracle, enabling smart contracts to ask questions and receive answers, it can be used to resolve subjective disputes, settle prediction markets, moderate content, and more by enabling developers of decentralized applications to construct and arbitrate chall...
+### Ecosystem 
+
 - [Deployment of Honey Pot and Celeste Contracts](https://forum.1hive.org/t/deployment-of-honey-pot-and-celeste-contracts/2690)
   > To update the Honey Pot to integrate with Celeste we have opted to redeploy the entire 1Hive Protocol. This involves deploying a new Aragon DAO in 2 steps between which we will deploy Celeste. This is because the Aragon DAO depends upon Celeste, to allow disputable decisions and proposals, and Celeste depends upon the Aragon DAO, to integrate BrightId. Once the 1Hive Protocol is redeployed, although users will be able to create proposals there will be 0 Honey in the Common Pool and it won’t be a...
 - [Tulip Swarm Compensation Stack Upgrade](https://forum.1hive.org/t/tulip-swarm-compensation-stack-upgrade/4272)
@@ -398,41 +400,18 @@ The main objectives of the Community Stewards WG are to provide visibility acros
   > Background: Following the success of the shared liquidity proposals with Shapeshift and BrightID, we went to the drawing board on a more scalable shared liquidity solution that could benefit many projects at once. This proposal is seeking [updated] $100k in HNY to be paired with Water💧- a to-be-minted shared liquidity token. This is a joint effort between the token projects that have expressed interest in joining: 1Hive Shapeshift BrightID Giveth Panvala Opolis Agave Token Engineering Common...
 - [Request for Funding: The Umbrella Proposal ☂️](https://forum.aragon.org/t/request-for-funding-the-umbrella-proposal/3269)
   > Summary The authors request funding of $16,500 equivalent USDC as per budget to bootstrap a three-month project called the Umbrella proposal (that was previously discussed in this forum) to pay for GravityDAO services, establish a team to act as a first point of contact for conflicts and problems, and document associated policies. In addition to these reactive measures, the proposal aims to improve communication, error, and conflict culture to which we commit ourselves already in our Community...
-- [ERROR: The request could not be satisfied](https://forum.gnosis.io/t/should-gnosisdao-support-a-balancer-friendly-fork-on-gnosis-chain-or-work-towards-bringing-balancer-to-gnosis-chain/4308)
+- [Should GnosisDAO support a Balancer Friendly Fork on Gnosis Chain or work towards bringing Balancer to Gnosis Chain?](https://forum.gnosis.io/t/should-gnosisdao-support-a-balancer-friendly-fork-on-gnosis-chain-or-work-towards-bringing-balancer-to-gnosis-chain/4308)
 - [Establish a Treasury Management and Diversification committee under the Tokenomics Workstream](https://forum.shapeshift.com/t/establish-a-treasury-management-and-diversification-committee-under-the-tokenomics-workstream/714/2)
-  > I’d like to nominate myself for this committee. I obviously have an interest in the establishment of the Treasury Management and Diversification Committee, I have written the proposal and gotten feedback from many in preparation of proposing this. My name is Danielle Wall - I have worked at ShapeShift for the last 5+ years and have been a part of the Treasury Management team for 4.5 of those years. My relevant experience and qualifications: Oversees ~$100 million dollars in operational crypto...
-- [Grace & Lightness Magazine](https://graceandlightness.com/author/mollybeauchemin/)
-  > Grace & Lightness is a critically-acclaimed travel and mental wellness magazine that celebrates a better way to live.
-- [Understanding Ho'oponopono: A Beautiful Hawaiian Teaching About Forgiveness](https://graceandlightness.com/hooponopono-hawaiian-prayer-for-forgiveness/)
-  > The traditional Hawaiian forgiveness saying, Ho'oponopono, is a beautiful meditation that helps with acceptance, reconciliation, and renewal.
-- [TEC PROPOSAL INVERTER PROPOSAL (PIP) - HackMD](https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/SkFBcnARK)
-  > TEC PROPOSAL INVERTER PROPOSAL (PIP) * The Proposal Inverter is a funding primitive that enables
-- [Support for TEA TEAM's Proposal for Q3 and Q4 2022 - HackMD](https://hackmd.io/@1sBtuDmrRBG360k8-EXf2A/Syk3A-IKq)
-  > Support for TEA TEAM's Proposal for Q3 and Q4 2022 Hello TEC and TEA Community! As you may know,
-- [DAOhaus Proposal for Gnosis Innovation DAO - HackMD](https://hackmd.io/@daohaus/r1ceDkEbc)
-  > DAOhaus Proposal for Gnosis Innovation DAO ## Summary **About DAOhaus** The DAOhaus platform
-- [HackMD - Collaborative Markdown Knowledge Base](https://hackmd.io/A--0503PRGqzowD162Y4lg?view)
-  > or
-- [Token Engineering Commons Hatch](https://hatch.tecommons.org/)
-  > Join the TEC and become part of the movement to advance Token Engineering for the benefit of societies around the globe.
-- [Hydra - The Perfect Discord Bot](https://hydra.bot/)
-  > Hydra is the only Discord bot you'll ever need! Invite Hydra today and start listening to your favorite tunes together with your friends or community!
-- [](https://images.typeform.com/images/FYUps4mFKPYK/image/default)
-- [avengers assemble](https://imgflip.com/i/5du7tl)
-  > An image tagged avengers assemble
-- [The Art of Community: Seven Principles for Belonging — Book Notes](https://medium.com/@skueong/the-art-of-community-seven-principles-for-belonging-book-notes-4997cd637a58)
-  > Charles H. Vogl
-- [The Cultural Impacts of our Commons Upgrade Proposals](https://medium.com/token-engineering-commons/the-cultural-impacts-of-our-commons-upgrade-proposals-943034e0026b)
-  > We have spent countless hours debating the technical implications of the design space for our Commons Upgrade, but we have yet to really…
-- [Meet](https://meet.google.com/vzb-iphq-wbk?authuser=1)
-  > Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.
-- [MetaGame: A Massive Online Coordination Game!](https://metagame.wtf)
-  > To play metagame is to play life in the optimal way. Coordinating with others to build a better world; make a positive impact, make you happy, & earn you money.
+  > I’d like to nominate myself for this committee. I obviously have an interest in the establishment of the Treasury Management and Diversification Committee, I have written the proposal and gotten feedback from many in preparation of proposing this. My name is Danielle Wall - I have worked at ShapeShift for the last 5+ years and have been a part of the Treasury Management team for 4.5 of those years.
+- [Home - Ethereum Foundation ESP](https://esp.ethereum.foundation/)
+  > The Ecosystem Support Program provides grants and other support to the builders of the Ethereum ecosystem.
+- [EthCC 5 — July 19-21, 2022](https://ethcc.io/)
+  > Ethereum Community Conferences & Workshops: 19-20-21 July in Paris
+- [Celeste — a brief primer](https://forum.1hive.org/t/celeste-a-brief-primer/1483)
+  > We have been talking about Celeste and how important it is to 1hive, but there hasn’t been a good source of high level information as to what it is, how it works, and why it’s important all in one place. What is it Celeste is a Subjective Oracle, enabling smart contracts to ask questions and receive answers, it can be used to resolve subjective disputes, settle prediction markets, moderate content, and more by enabling developers of decentralized applications to construct and arbitrate chall...
 - [MetaGame: A Massive Online Coordination Game!](https://metagame.wtf/)
   > To play metagame is to play life in the optimal way. Coordinating with others to build a better world; make a positive impact, make you happy, & earn you money.
 - [Constitutions of Web3 Survey](https://metagov.typeform.com/constitutions)
-  > For people involved in the creation or publishing of their community's constitution, manifesto, or other document.
-- [Constitutions of Web3 Survey](https://metagov.typeform.com/to/zGgoDzqL)
   > For people involved in the creation or publishing of their community's constitution, manifesto, or other document.
 - [Gnosis Safe](https://gnosis-safe.io/app/xdai:0xF41dEFf41016216346270e302DC0a5Dd4913DAdA)
   > Gnosis Safe is the most trusted platform to manage digital assets on Ethereum
@@ -442,60 +421,32 @@ The main objectives of the Community Stewards WG are to provide visibility acros
   > There's over $14B sitting in DeFi treasuries. How should they manage it?
 - [🥞 PancakeSwap - A next evolution DeFi exchange on BNB Smart Chain (BSC)](https://pancakeswap.finance/voting)
   > The most popular AMM on BSC! Earn CAKE through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by PancakeSwap), NFTs, and more, on a platform you can trust.
-- [POAP ✈️ - 🐣 TEC Hatch Participant](https://poap.delivery/tec-hash-participation)
-  > The vision of the Token Engineering Commons (TEC) is to advance the field of token engineering by creating ethical, safe, resilient and diverse economic systems to benefit societies around the world.
-- [‎Forefront Podcast: Community Hangout - Prime DAO on Apple Podcasts](https://podcasts.apple.com/us/podcast/forefront-podcast/id1588426834?i=1000549799388)
-  > ‎Show Forefront Podcast, Ep Community Hangout - Prime DAO - Feb 2, 2022
 - [[Round 10 Proposal] Governauts Rewards Systems Research Initiative](https://port.oceanprotocol.com/t/round-10-proposal-governauts-rewards-systems-research-initiative/958)
-  > [Round 10 Proposal] Governauts Rewards Systems Research Initiative Fact Sheet Website: https://tokenengineeringcommunity.github.io/website/docs/academy-welcome Twitter: https://twitter.com/tokengineering Address: 0x3b067Af83F540cB827825a6Ee5480441a4237E77 Email: angela@tokenengineering.net Residence: Germany Category: Improvements to OceanDAO Funding requested: $20K ROI Metric: Grant efficiency Our Proposal in a Sentence We develop and verify DAO improvements for Ocean DAO, as part of a ...
+  > [Round 10 Proposal] Governauts Rewards Systems Research Initiative Fact Sheet Website
 - [Live: Planting Seeds: LS DAO - Liberating Structures Community on QiqoChat](https://qiqochat.com/e/ZorUTMqONuvhqRTrURMAFjvEN)
   > QiqoChat includes a suite of collaborative tools for your online team/group/community. A platform to support peer-to-peer learning among LS practitioners.
-- [Rythm — Returning Soon™](https://rythm.fm/)
-  > Music is meant to be enjoyed with others. Here at Rythm, we're making it possible to share and enjoy music with others around the world.
-- [Swapr](https://swapr.eth.link/#/)
-  > A governance-enabled automated market maker with adjustable fees.
-- [Discord - A New Way to Chat with Friends & Communities](https://t.co/efY7QwJYhA)
-  > Discord is the easiest way to communicate over voice, video, and text. Chat, hang out, and stay close with your friends and communities.
-- [Community Ownership DAOs on Syndicate](https://t.co/udIXyeflbv)
-  > Yesterday, the first Syndicate DAO launched on our platform—the IDEO Founder Collective—a legally compliant, decentralized automated organization (DAO) for sharing equity and ownership across a community of organizations and people—in this case, IDEO and 20+ founders in its portfolio.
-- [Snapshot](https://t.co/Vkyemg5d6C)
-- [Laser Tag Multisig](https://t.co/w3CRhyGLtw)
-  > Sheet1 1,2,2,2,3,3,3,4,4,4,5,6,7,7,8,9 YGG,Juanka,Chuy,PhilH,Ivy,Nate,Gideon,Gabi,Livia,Paui,Zep,Zargham,Angela,Tam,Mitch,Griff 1. Griff, Mitch, Livia, Ivy, Nate, YGG, Tamara,x,x,x,x,x,x,x 2. Griff, Tam, Livia, Angela, Mitch, Zeptimus and Nate,x,x,x,x,x,x,x 3. Griff, Tam, Livia, Ivy, Juanka, Zep...
-- [Google Calendar - Sign in to Access & Edit Your Schedule](https://t.co/X8Cg3k9YMn)
-  > to continue to Google Calendar
-- [JavaScript is not available.](https://t.co/Ybw71zhW7P)
-  > We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
-- [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://vyvy-vi.notion.site/Bot-Ideas-250267dbbdd544eaaf446179210a147c)
-  > A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team
-- [Calendar - 1Hive](https://wiki.1hive.org/getting-started/calendar)
-  > 1Hive Google calendar for all upcoming events.
-- [Animal Spirits: A Bestiary of the Commons](https://www.academia.edu/1992023/Animal_Spirits_A_Bestiary_of_the_Commons)
-  > Animal Spirits: A Bestiary of the Commons
-- [Sorry! Something went wrong!](https://www.amazon.com/Third-Pillar-Markets-Community-Behind/dp/0525558314)
 - [Amazon's global career site](https://www.amazon.jobs/en/principles)
   > We're a company of pioneers. It's our job to make bold bets, and we get our energy from inventing on behalf of customers. Success is measured against the possible, not the probable. For today’s pioneers, that’s exactly why there’s no place on Earth they’d rather build than Amazon.
 - [BrightID](https://www.brightid.org/)
   > BrightID is a social identity network. It allows people to prove to applications that theyâre only using one account.
-- [Figma](https://www.figma.com/file/wJTMpwBS5f6LQKC2EJnwIg/Untitled?node-id=1%253A3)
-  > Created with Figma
-- [Figma](https://www.figma.com/file/wJTMpwBS5f6LQKC2EJnwIg/Untitled?node-id=1%3A3)
-  > Created with Figma
-- [404](https://www.keele.ac.uk/media/keeleuniversity/facnatsci/schpsych/documents/counselling/conference/5thannual/NarrativeApproachestoCaseStudies.pdf)
-  > Sorry, but you must enable JavaScript to view the Keele website.
-- [Vaccin, test PCR, motif impérieux... à quelles conditions les touristes étrangers pourront venir en France cet été ?](https://www.leparisien.fr/societe/vaccin-test-pcr-motif-imperieux-les-regles-pour-pouvoir-venir-en-france-cet-ete-04-06-2021-AJ7TSUJGSRDPHBSCARLGTYVJYU.php?fbclid=IwAR26vopzI1Yde7UjanYKfK1ysseo-n5SDElVblQZ85DivFmyPI2bmhGYKb8)
-  > Les voyageurs vaccinés en provenance de l’Union européenne et de quelques autres pays pourront, notamment, venir en France à partir du 9 jui
-- [](https://www.notion.so/Bot-Ideas-250267dbbdd544eaaf446179210a147c)
-- [](https://www.notion.so/Calendar-be8a6868a6ef4305b7521fa35a2eb9ba)
-- [](https://www.notion.so/Introduction-to-Token-Engineering-0539c788bcae4cb5a7f6e011393aeb12)
-- [](https://www.notion.so/primedao/Proposal-Inverter-05972283128d43a3803d2ec959b9237b)
-- [](https://www.notion.so/Proposal-Inverter-05972283128d43a3803d2ec959b9237b)
-- [](https://www.notion.so/te-academy/Introduction-to-Token-Engineering-0539c788bcae4cb5a7f6e011393aeb12)
+- [PrimateDAO Proposal Inverter](https://www.notion.so/primedao/Proposal-Inverter-05972283128d43a3803d2ec959b9237b)
+
+### Assorted
+
+- [Dream Smile Pullover Hoodie](https://dream.shop/products/dream-smile-fleece-pullover-hoodie-1)
+- [Understanding Ho'oponopono: A Beautiful Hawaiian Teaching About Forgiveness](https://graceandlightness.com/hooponopono-hawaiian-prayer-for-forgiveness/)
+  > The traditional Hawaiian forgiveness saying, Ho'oponopono, is a beautiful meditation that helps with acceptance, reconciliation, and renewal.
+- [The Art of Community: Seven Principles for Belonging — Book Notes](https://medium.com/@skueong/the-art-of-community-seven-principles-for-belonging-book-notes-4997cd637a58)
+  > Charles H. Vogl
+- [Animal Spirits: A Bestiary of the Commons](https://www.academia.edu/1992023/Animal_Spirits_A_Bestiary_of_the_Commons)
+  > Animal Spirits: A Bestiary of the Commons
+- [The Third Pillar: How Markets and the State Leave the Community Behind Hardcover – February 26, 2019](https://www.amazon.com/Third-Pillar-Markets-Community-Behind/dp/0525558314)
+- [Narrative approaches to case studies](https://www.academia.edu/33795489/Narrative_approaches_to_case_studies)
+- [Vaccine, PCR test, compelling reason... under what conditions will foreign tourists be able to come to France this summer?](https://www.leparisien.fr/societe/vaccin-test-pcr-motif-imperieux-les-regles-pour-pouvoir-venir-en-france-cet-ete-04-06-2021-AJ7TSUJGSRDPHBSCARLGTYVJYU.php?fbclid=IwAR26vopzI1Yde7UjanYKfK1ysseo-n5SDElVblQZ85DivFmyPI2bmhGYKb8)
 - [Bel appartement design dans le 11ème arrondissement - Paris](https://www.officeriders.com/fr/location/meeting/paris/bel-appartement-design-paris-seminaire-reunion-workshop)
   > Réservez ce bel appartement design pour organiser vos réunions d'entreprise dans un cadre agréable
 - [Superbe appartement avec baie vitrée dans le 11ème - Paris](https://www.officeriders.com/fr/location/meeting/paris/superbe-appartement-baie-vitree-paris-reunion-seminaire)
   > Profitez de ce superbe appartement avec baie pour vous réunir en équipe lors d'un séminaire, workshop...
-- [For the Laser Tag Multisig, that holds 170k of the initial buy, we should elect the people on the multisig by Voting for](https://www.strawpoll.me/45831644)
-  > Vote Now! [Various sets of 7 people -] [Individuals] [Others] [Abstain]
 
 ### Twitter
 https://twitter.com/1HiveOrg
@@ -13047,7 +12998,7 @@ I know two members, although they are not Stewards, have been upholding this que
 
 1
 
-Here's the link to the conviction vote: [https://gardens.1hive.org/%23/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/12&sa=D&source=docs&ust=1646779106089241&usg=AOvVaw1K5e_JJxhMMkB2ZIQZh2Jg](https://gardens.1hive.org/%2523/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/12&sa=D&source=docs&ust=1646779106089241&usg=AOvVaw1K5e_JJxhMMkB2ZIQZh2Jg)
+Here's the link to the conviction vote: [https://gardens.1hive.org/%23/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/12&sa=D](https://gardens.1hive.org/%2523/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/12&sa=D)
 
 Gardens
 

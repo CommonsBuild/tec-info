@@ -14,11 +14,19 @@ We help promote transparency, openness and mutual monitoring as the high-level i
 
 - [TE Commons](https://t.me/tecommons)
   > You can view and join @tecommons right away.
-
-### Operations
-- [GitBook backend - Privacy Policy](https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/hatch-101/privacy-policy)
-
-### Data
+- [Transparency Within a DAO](https://medium.com/token-engineering-commons/transparency-within-a-dao-73ff7c73d19d)
+  > Improving the flow of information to supercharge organizational development
+- [GitBook](https://wiki.commonsstack.org/transparent-log-of-burn-events)
+  > GitBook
+- [Discord - TEC Handbook](https://token-engineering-commons.gitbook.io/tec-handbook/tec-agreements-1/discord)
+  > Co-working space
+- [Welcome to TEC Source - TEC Source](https://token-engineering-commons.gitbook.io/tec-source/)
+  > TEC Source is here to provide easy access to active and archived documents within the TEC. If you are currently working on a document and want to share it here, please notify one of our Stewards!
+- [Tokenlog · Token-weighted backlogs](https://tokenlog.xyz/CommonsBuild/commons-config-proposals)
+  > Democratize your open-source software project. A better way for projects to collaborate with their biggest supporters.
+- [@tecmns - Twitter](https://twitter.com/tecmns/status/1530617138804826115)
+- [Figma](https://www.figma.com/file/b6kx4mkaHxzq4TPzaI1eRY/TEC-Dapps)
+  > Created with Figma
 - [TEC_-_Community_Data_NOV-DEC.pdf](https://cdn.discordapp.com/attachments/810180622634844207/933797516800061490/TEC_-_Community_Data_NOV-DEC.pdf)
 
 ### Tools
@@ -26,6 +34,11 @@ We help promote transparency, openness and mutual monitoring as the high-level i
   > The multi-track recording bot for Discord.
 - [How to add column with fixed value to imported data Google spreadsheet](https://stackoverflow.com/questions/37157389/how-to-add-column-with-fixed-value-to-imported-data-google-spreadsheet)
   > I need to merge data from two spreadsheets and add column with the file ID on each row. Spreadsheet 1 Columns => A B C D Spreadsheet 2 Columns => O P Q R Spreadsheet merged Columns => 'X' A B C ...
+- [Add pawa Discord Bot - The #1 Discord Bot List](https://top.gg/bot/338897906524225538)
+  > Simple audio recording for Discord
+- [Add Audio recorder Discord Bot - The #1 Discord Bot List](https://top.gg/bot/376095684069163008)
+- [Coordinape - Reinventing Compensation for Web3](https://www.coordinape.com)
+  > Empower contributors to see Â where value is created and reward it reflexively and transparently.
 
 ### Documentation
 
@@ -74,7 +87,7 @@ We help promote transparency, openness and mutual monitoring as the high-level i
 - [Master Sheet - TEC Balances](https://docs.google.com/spreadsheets/d/1kiZEeCxml49AuhRT_TAq-fdnXp1XeDs71eTa-uxKeK0/)
   > master_txn WG,Date,ID (Discord#/Name),Inflow,Outflow,Token,Description,Category,Recurring,Notes,Tx Link Gravity,1 Jul 2022,Zeptimus#3359,800,xDAI,Gravity Treasury manager June,Administration,"Distribute payments Update graviton budget Keep the flows transparent with TEC
 - [TE Commons Videos Database](https://docs.google.com/spreadsheets/d/1nu5Xx4N40RpUvh7dtJB94SUMYSpMs-U6iFiOBPXOLoA/)
-  > Sheet3 Video title,Published date,TEC Channel URL,Playlist,Status on TEC Channel,Updated? W30 Transparency WG: Decision tracking sheet, setting up Dune Analytics and Dework, other updates,1/18/2022,<a href="https://youtu.be/jzk9QEU13Us">https://youtu.be/jzk9QEU13Us</a>,Transparency WG
+  > Sheet3 Video title,Published date,TEC Channel URL,Playlist,Status on TEC Channel,Updated? W30 Transparency WG: Decision tracking sheet, setting up Dune Analytics and Dework, other updates,1/18/2022,<a href="https://youtube.com/watch?v=jzk9QEU13Us">https://youtube.com/watch?v=jzk9QEU13Us</a>,Transparency WG
 - [CS and TEC member usernames, Twitter, Telegram, Discord, Forum](https://docs.google.com/spreadsheets/d/1w42k9GfciiSM6r7FzeC9JiCo2eiq4xTJJfxLGa2MBw4/)
   > Database !dish praise to ,<--Telegram,Discord -->,!praise ,Canonical,Telegram,Discord Current Week,Twitter,Discord WITH ###,Discord short,Telegram,IH & CSTK Handle,TEC Forum,Github,Name,Notes,!dish praise to ,!praise __padpad,padpad.eth,!dish praise to ,!praise ,In the set _bends_,bends#3537,b...
 - [Access Document](https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/)
@@ -133,15 +146,8 @@ We help promote transparency, openness and mutual monitoring as the high-level i
 - [Build software better, together](https://github.com/makerdao-ses/transparency-reporting/tree/main/Monthly%2520Budget%2520Statements)
   > GitHub is where people build software. More than 83 million people use GitHub to discover, fork, and contribute to over 200 million projects.
 
-### Blog
-- [Transparency Within a DAO](https://medium.com/token-engineering-commons/transparency-within-a-dao-73ff7c73d19d)
-  > Improving the flow of information to supercharge organizational development
-
-Youtube
+### Youtube
 - [Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
-  > The Token Engineering Commons is building the tools for safe digital economies that protect and support public goods. To·ken En·gi·neer·ing /ˈtōkən/ /enjəˈniriNG/ 1. An emerging engineering discipline focused on holistic systems design and the theory, practice and tools used to design and verify tokenized ecosystems i.e. cyptoeconomic systems and their simulation using tools like cadCAD. 2. A discipline of responsibility; adhering to the highest principles of ethical conduct (from ethical engineering) 3. A community pushing forward the field of token engineering in theory and practice. (See more Modeling Crypto Protocols as Complex Systems, TE Process) Com·mons/ˈkämənz/ 1. Resources that groups of people (communities, organizations) create and manage for individual and collective benefit. These resources are held collectively, not owned privately (see Fractal Ownership, Wiki and Automating Ostrom)
-- [odg](https://www.youtube.com/channel/UCpjm6R2yqu1GZjYtsIiXR5w)
-  > 나는 누구, 여긴 ODG You were a kid once ___ ⓒ2022. Studio Solfa All rights reserved.
 - [W14 Communitas WG: Quantifiers, Roles and member’s life cycle and more!](https://www.youtube.com/watch?v=P4oQHtWBQS4)
   > The intention of this Working Group is to nurture, grow and guide the TEC community. The points of focus are new member orientation, current member community...
 - [W13 Communitas WG: DAO’s cultural practices, roles and much more!](https://www.youtube.com/watch?v=psI9m6Q9jf8)
@@ -150,45 +156,16 @@ Youtube
   > Timecodes:00:00 - Intentions and distractions1:49 - Bi-weekly calls 3:51 - Call recorders6:35 - Sharing recordings in WG channels and Twitter11:17 - Audit se...
 - [TEC Community Call 1: Tech Spec, Soft Gov, Comms, and the new Onboarding group](https://www.youtube.com/watch?v=UZNP0r7_GF4)
   > Check out our notes here: https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit🙏 Thank you for watching! Hit 👍 and subscribe...
-- [Param party debate Week 1](https://youtu.be/5vqtvIi5m64?t=23)
+- [Param party debate Week 1](https://youtube.com/watch?v=5vqtvIi5m64?t=23)
   > 🙏 Thank you for watching! Hit 👍 and subscribe 🚩 to support this work🌱Join the Community🌱on Discord https://discord.gg/uM4ZWDjNfK or say hello on Telegra...
-- [W12 Transparency WG: Praising attendees, sharing call recordings, audit tracker, etc.](https://youtu.be/6U16P37UPWo)
+- [W12 Transparency WG: Praising attendees, sharing call recordings, audit tracker, etc.](https://youtube.com/watch?v=6U16P37UPWo)
   > Timecodes:00:00 - Intentions and distractions1:49 - Call recorders2:35 - Praising attendees20:08 - Sharing WG weekly sync videos in WG channels and the Commu...
-- [계속 물 트는 영화배우 - ODG](https://youtu.be/7dLZj69zE5o)
+- [계속 물 트는 영화배우 - ODG](https://youtube.com/watch?v=7dLZj69zE5o)
   > 본 영상은 신한금융그룹의 후원을 받아 제작되었습니다.“멋진 세상을 향한 올바른 실천”Do the 「Right」 Thingfor a Wonderful World⠀신한금융그룹 ESG 캠페인배우 박정민님과 아이들이 함께한「기발한 시선」의 첫 번째 이야기지금 영상을 감상하시고,신한금융그룹...
-- [W14 Transparency WG: Digital security documentation, audit, BOT updates, YouTube description](https://youtu.be/bzEIPlUd1Sk)
+- [W14 Transparency WG: Digital security documentation, audit, BOT updates, YouTube description](https://youtube.com/watch?v=bzEIPlUd1Sk)
   > Timecodes:00:00 - Intentions and distractions2:36 - Call recorders3:35 - Digital security documentation5:54 - Audit19:28 - BOT updates24:46 - YouTube descrip...
-- [W3 Stewards Council: TE & TEC Bridge](https://youtu.be/UwRZZqWcn64?t=113)
-  > 🙏 Thank you for watching! Hit 👍 and subscribe 🚩 to support this work🌱Join the Community🌱on Discord https://discord.gg/uM4ZWDjNfK or say hello on Telegra...
-
-### Assorted
-- [Discord - TEC Handbook](https://token-engineering-commons.gitbook.io/tec-handbook/tec-agreements-1/discord)
-  > Co-working space
-- [Welcome to TEC Source - TEC Source](https://token-engineering-commons.gitbook.io/tec-source/)
-  > TEC Source is here to provide easy access to active and archived documents within the TEC. If you are currently working on a document and want to share it here, please notify one of our Stewards!
-- [Tokenlog · Token-weighted backlogs](https://tokenlog.xyz/CommonsBuild/commons-config-proposals)
-  > Democratize your open-source software project. A better way for projects to collaborate with their biggest supporters.
-- [Add pawa Discord Bot - The #1 Discord Bot List](https://top.gg/bot/338897906524225538)
-  > Simple audio recording for Discord
-- [Add Audio recorder Discord Bot - The #1 Discord Bot List](https://top.gg/bot/376095684069163008)
-  > Records audio in your voice channel
-- [JavaScript is not available.](https://twitter.com/tecmns)
-  > We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
-- [JavaScript is not available.](https://twitter.com/tecmns/status/1530617138804826115)
-  > We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
-- [신한금융그룹 기발한 프로덕션](https://url.kr/6e8vdc)
-  > "대한민국의 새로운 기회를 발견하다.“ 신한금융그룹 기발한 프로덕션
-- [신한금융그룹 기발한 프로덕션 (@shinhangroup_official) • Instagram photos and videos](https://url.kr/lrb27t)
-  > 116k Followers, 5 Following, 218 Posts - See Instagram photos and videos from 신한금융그룹 기발한 프로덕션 (@shinhangroup_official)
-- [GitBook](https://wiki.commonsstack.org/transparent-log-of-burn-events)
-  > GitBook
-- [Coordinape - Reinventing Compensation for Web3](https://www.coordinape.com)
-  > Empower contributors to see Â where value is created and reward it reflexively and transparently.
-- [Figma](https://www.figma.com/file/b6kx4mkaHxzq4TPzaI1eRY/TEC-Dapps)
-  > Created with Figma
-- [REI Executive Compensation Report - REI Co-op](https://www.rei.com/about-rei/executive-compensation)
-  > REI's board of directors annually publishes information on the total compensation of REI's CEO and executive vice presidents.
-
+- [W3 Stewards Council: TE & TEC Bridge](https://youtube.com/watch?v=UwRZZqWcn64?t=113)
+  > 🙏 Thank you for watching! Hit 👍 and subscribe 🚩 to support this work🌱Join the Community🌱on Discord https://discord.gg/uM4ZWDjNfK or say he
 
 ## Chat
 
@@ -290,7 +267,7 @@ Hi guys! The latest Transparency call is now up on our Youtube channel
 
 To those who missed it but wanna know the latest updates, here's the link:
 
-[https://youtu.be/6U16P37UPWo](https://youtu.be/6U16P37UPWo)
+[https://youtube.com/watch?v=6U16P37UPWo](https://youtube.com/watch?v=6U16P37UPWo)
 
 [Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
 
@@ -663,7 +640,7 @@ Hi guys! The latest Transparency call is now up on our Youtube channel
 
 To those who missed it but wanna know the latest updates, here's the link:
 
-[https://youtu.be/bzEIPlUd1Sk](https://youtu.be/bzEIPlUd1Sk)
+[https://youtube.com/watch?v=bzEIPlUd1Sk](https://youtube.com/watch?v=bzEIPlUd1Sk)
 
 [Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
 
@@ -1573,7 +1550,7 @@ hey @iviangita i could record it with my laptop, just making sure if u join the 
 
 _27-Oct-21 02:23 PM_:
 
-@Zeptimus hey Zepti! I'm not sure if you're aware but your voice on the youtube recordings is not very clear for example here:[https://youtu.be/5vqtvIi5m64?t=23](https://youtu.be/5vqtvIi5m64?t=23) and here: [https://youtu.be/UwRZZqWcn64?t=113](https://youtu.be/UwRZZqWcn64?t=113) (edited)
+@Zeptimus hey Zepti! I'm not sure if you're aware but your voice on the youtube recordings is not very clear for example here:[https://youtube.com/watch?v=5vqtvIi5m64?t=23](https://youtube.com/watch?v=5vqtvIi5m64?t=23) and here: [https://youtube.com/watch?v=UwRZZqWcn64?t=113](https://youtube.com/watch?v=UwRZZqWcn64?t=113) (edited)
 
 [Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
 
@@ -3443,7 +3420,7 @@ i think we already chat it but i think its worth we keep them both and you leadi
 
 _09-Apr-22 05:37 PM_:
 
-Interesting about bystander tendencies: [https://youtu.be/7dLZj69zE5o](https://youtu.be/7dLZj69zE5o)
+Interesting about bystander tendencies: [https://youtube.com/watch?v=7dLZj69zE5o](https://youtube.com/watch?v=7dLZj69zE5o)
 
 [odg](https://www.youtube.com/channel/UCpjm6R2yqu1GZjYtsIiXR5w)
 
