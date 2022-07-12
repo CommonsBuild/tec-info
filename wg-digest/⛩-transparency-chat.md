@@ -1,39 +1,6 @@
 # ⛩-tec-transparency discord digest <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h3>
 
 
-## Links
-
-- [Transparency Audit #313](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/313) - ZenHub
-- [TEC Meeting Protocols, Terms, and Disclaimers](https://docs.google.com/document/d/1-ysqAIbqx4KY3WEiVqnX8SUVC8197cKiFdxJSWOjgLc/edit)
-- [Soft Gov WG - Transparency Audit Criteria/Checklist](https://docs.google.com/document/d/12ie4J7WLe9oskapPxnTUX3bh5pWl5_D14dgc15aACME/edit)
-- [🕵️‍♀️TEC TRANSPARENCY🕵️‍♀️ Working Group Manifesto](https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit)
-- [Mutual accountability methods](https://docs.google.com/document/d/1A-tJgOm8mUF6Fqq2MF6ukZyhChVmFF7uqKQ2feD-azs/edit)
-- [GRAVITY WG - Transparency Audit Criteria/Checklist](https://docs.google.com/document/d/1EeLkV7SmyYW6Aof1qHtVu5EV4PgRTOZ7W12f0vv36ws/edit)
-- [Draft Transparency Audit Criteria](https://docs.google.com/document/d/1MfvY8nm3hHgBsYkX2sP3yFSlhuAUp3z3mOIoLCADcQw/edit)
-- [Transparency Audit Proposal](https://docs.google.com/document/d/1dkWN7r_vlmwoCv8ylFl5jwhBD37SQndCp4vdhtGyYvY/edit)
-- [🕵️‍♀️Transparency WG Agenda and Notes🕵️](https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit)
-- [Transparency Audit Criteria/Checklist](https://docs.google.com/document/d/1qL5rOJLFF7UsioslmdZwbf6-o3jDUPaxaBtGSGhjVJQ/edit)
-- [Transparency in DAOs](https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/edit)
-- [Hatchers outreach WG Transparency Audit Criteria/Checklist](https://docs.google.com/document/d/1x_gWKJ7S6r7hbxiBffvP6p7eifVw8ROVtwbMuWz0RGs/edit)
-- [TEC Call Recorders](https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/edit)
-- [TEC soft gov decision tracking](https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit)
-- [Transparency WG Audit](https://docs.google.com/spreadsheets/d/1P2hbPZwdNHRfKXjz6_3iJss2e2-0KeojTu8QPuLb19s/edit)
-- [TEC Transparency Audit Proposal](https://forum.tecommons.org/t/tec-transparency-audit-proposal/235) TEForum
-- [Conceptual Models for DAO2DAO relations](https://medium.com/primedao/conceptual-models-for-dao2dao-relations-ac2b2d3cc84d) PrimeDAO
-- [TEC Miro Board](https://miro.com/app/board/o9J_lbkGJHQ=/)
-
-### Youtube
-
-* [Transparency Working Group](https://www.youtube.com/playlist?list=PLusWL9gf0FIQ_sbCfiB2e7PkPWkgpetX4)
-  * [W1 Transparency WG: Audit proposal and recorders distribution](https://www.youtube.com/watch?v=bPgxpcWxyg0)
-  * [W2 Transparency WG: Working session on transparency audit criteria](https://www.youtube.com/watch?v=69dJdUG06Os)
-  * [W3 Transparency WG: Transparency audit updates and meeting attendance terms](https://www.youtube.com/watch?v=1LpkUvhKi2s)
-  * [W4 Transparency WG: Trial audit approach, fund management, and other audit metrics](https://www.youtube.com/watch?v=gbFSX0qWDGE)
-  * [W5 Transparency WG: Gravity WG transparency audit, CS videos, other Zenhub issues](https://www.youtube.com/watch?v=VvmqpKOuzlg)
-  * [W6 Transparency WG: Preparation for the next trial audits and discussion on mutual accountability](https://www.youtube.com/watch?v=khV-xO6limQ)
-  * [W7 Transparency WG: Refining audit checklist and mutual accountability](https://www.youtube.com/watch?v=Q25_eBzyWRo)
-  * [W8 Transparency WG: New schedule, roadmap, mutual accountability methods](https://www.youtube.com/watch?v=NpU7LHAO-tM)
-  * [W9 Transparency WG: Incentivizing the audit participants, advice process spreadsheet, Medium article](https://www.youtube.com/watch?v=WwmAp3uQu_4)
 
 ## Chat
 
