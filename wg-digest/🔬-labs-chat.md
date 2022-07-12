@@ -1,96 +1,7 @@
 # &#128300;-tec-labs discord digest <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h3>
 
 
-## Links
-
-- [YGG Anderson](https://www.twitch.tv/ygg_anderson) Twitch
-- [Consensys Academy Bootcamp](https://consensys.net/academy/bootcamp/)
-- [https://deploy-preview-16--tokenlog.netlify.app/TECommons/coordination](https://deploy-preview-16--tokenlog.netlify.app/TECommons/coordination)
-- [Tokenized Power Balancing](https://devpost.com/software/tokenized-power-balancing) DevPost
-- [CommonsBuild/Token-Log-Hatch-Params](https://github.com/CommonsBuild/Token-Log-Hatch-Params) GitHub
-- [CommonsBuild/python-lab](https://github.com/CommonsBuild/python-lab) GitHub
-- [CommonsSwarm/hatch-template](https://github.com/CommonsSwarm/hatch-template) GitHub
-- [gitcoinco/gitcoin_cadcad_model](https://github.com/gitcoinco/gitcoin_cadcad_model) GitHub
-- [Token-Log-Hatch-Params](https://hackmd.io/ZW0n5bpOTYOGbW-1EDRuZg) HackMD
-- [hatch.tecommons.org](https://hatch.tecommons.org/)
-- [TECommons/coordination](https://tokenlog.xyz/TECommons/coordination) Tokenlog
-- [Uvodni sestanek - Blockchain v energetiki](https://www.linkedin.com/events/uvodnisestanek-blockchainvenerg6771017813336363008/) Private event by Blockchain Think Tank Slovenia 3/9/21
-- [Holoviews: Building Complex Visualizations Easily for Reproducible Science](https://www.researchgate.net/publication/304572074_HoloViews_Building_Complex_Visualizations_Easily_for_Reproducible_Science)
-- [REIN_model_essence.pdf](https://cdn.discordapp.com/attachments/781927659206737931/814903467234820117/REIN_model_essence.pdf)
-
-### Learn
-
-- [CadCad Education](https://www.cadcad.education/)
-- [10 best python certification courses from Coursera](https://medium.com/javarevisited/10-best-python-certification-courses-from-coursera-4576890eb6b3)
-
-## TEC Blog
-
-- [How to Earn TEC tokens, and inside look at impact hours](https://medium.com/token-engineering-commons/how-to-earn-tec-tokens-now-an-inside-look-at-impact-hours-7d93043b739d) TEC
-- [Trans-disciplinary navigation: deep thoughts by the token engineering community](https://medium.com/token-engineering-commons/trans-disciplinary-navigation-deep-thoughts-by-the-token-engineering-community-8fc507160383) TEC
-
-## Twitter
-- [The Commons Stack 🌱 @commonsstack](https://twitter.com/commonsstack/status/1365393347536441350) - NEW RELEASE: The Commons Simulator Game is LIVE!!! 
-- [Token Engineering Commons @tecmns](https://twitter.com/tecmns/status/1349846652715233284) - This week: Tokenomics Dashboarding using 
-@Panel_org
-- [Token Engineering Commons @tecmns](https://twitter.com/tecmns/status/1351707127488897029) - The mission - expanding the Gitcoin cadCAD model
-- [Token Engineering Commons @tecmns](https://twitter.com/tecmns/status/1352419033065410565) - This week: DAO Hatch Templating with @Panel_org
-- [Token Engineering Commons @tecmns](https://twitter.com/tecmns/status/1363879124457160707) on mitigating attack vectors in #QuadraticFunding 3 sessions this week:
-- [Token Engineering Commons @tecmns](https://twitter.com/tecmns/status/1366415610134081537) on mitigating attack vectors in #QuadraticFunding 3 sessions this week:
-- [YGG ⟠ shawnanderson.eth @ygg_anderson](https://twitter.com/ygg_anderson/status/1341653797416783873) full system configuration install sequence on Gnome Pop!_OS
-- [YGG ⟠ shawnanderson.eth @ygg_anderson](https://twitter.com/ygg_anderson/status/1355640214656434178) lab weekend pop quiz!
-- [YGG ⟠ shawnanderson.eth @ygg_anderson](https://twitter.com/ygg_anderson/status/1364053261221724161) systems hacking with Deep RL and @gitcoin for the @tecmns public good.
-- [YGG ⟠ shawnanderson.eth @ygg_anderson](https://twitter.com/ygg_anderson/status/1366914155052109824) Commons Simulator Z - The Trunks Saga
-- [YGG ⟠ shawnanderson.eth @ygg_anderson](https://twitter.com/ygg_anderson/status/1370560075165691905) Streaming 
-@tecmns hatch development and getting distracted by random crypto s**t.
-
-### Docs
-
-- [Lab 1](https://docs.google.com/spreadsheets/d/1e7yPaviMMdOemQmmmicbuFR80sfO3gmtZigVPcTtqAo/edit?usp=sharing) Google Sheets
-- [Lab 2](https://docs.google.com/spreadsheets/d/1UNQxETh1KFv8oEyC3ijOQsdPy74EGyPdR8mqlMeIsJQ/edit?usp=sharing) Google Sheets
-- [Attendence](https://docs.google.com/spreadsheets/d/1ewPSIFUK9v2W1FxZQJWnQIoY55tOncdw7G4Ml30xhBY/edit?usp=sharing) Google Sheets
-- [Hatch Minting Rate](https://forum.tecommons.org/t/hatch-exchange-rate/190) Forum
-- [Impact Hour Rewards Deep Dive](https://forum.tecommons.org/t/impact-hour-rewards-deep-dive/90/5) Forum
-- [TEC Labs Production Team Funding](https://forum.tecommons.org/t/tec-labs-production-team-funding/201) Forum
-- [Reinforcement Learning in TE](https://www.notion.so/Reinforcement-Learning-in-Token-Engineering-51534090de3342b0b0ada26b92158f7b) Notion
-- [Technical Documentation](https://www.notion.so/Technical-Documentation-2dea29d0a3014e6db22d8f17cf93e7d1) Notion
-- [Token Engineering Commons Lab](https://www.notion.so/Token-Engineering-Commons-Lab-c1c1f5dc4b40423cbc65bea6fd9df96f) Notion
-- [Hatch Simulation Blitzkrieg](https://www.notion.so/saa108/Hatch-Simulation-Blitzkrieg-081c75f5ab2d4763897c071988ee0d75) Notion
-- [Deck gl global power plants](https://panel.holoviz.org/gallery/param/deck_gl_global_power_plants.html#param-gallery-deck-gl-global-power-plants) Panel Holoviz
-- [Panel - Param](https://panel.holoviz.org/user_guide/Param.html) Holoviz
-
-### Tools \ Code
-
-- [Working with Jupyter Notebooks in Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support)
-- [GitHub Desktop](https://desktop.github.com/)
-- [FishShell](https://fishshell.com/) - fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family.
-- [EpistasisLab/tpot](https://github.com/EpistasisLab/tpot) GitHub
-- [justinmayer/virtualfish](https://github.com/justinmayer/virtualfish) GitHub
-- [oceanprotocol/tokenspice2](https://github.com/oceanprotocol/tokenspice2) GitHub
-- [Netwulf - Interactive Network Visualization](https://netwulf.readthedocs.io/en/latest/)
-- [Poetry](https://python-poetry.org/docs/) - Poetry is a tool for dependency management and packaging in Python.
-- [Code Generator for Machine Learning](https://traingenerator.jrieke.com/)
-- [Param](https://param.holoviz.org/) Holoviz
-- [Pipenv: Python Dev Workflow for Humans](https://pipenv-fork.readthedocs.io/en/latest/)
-
-### Youtube
-
-* [TE Lab!](https://www.youtube.com/playlist?list=PLusWL9gf0FISmLiW2iPykEW2k8PUrlbyC)
-  * [W2 TEC Lab: Collaborative data science environment](https://www.youtube.com/watch?v=f1r8jbsqy0U)
-  * [W3 TE Lab: TEC Hatch Modelling Marathon](https://www.youtube.com/watch?v=ylwOG6VfKIo)
-  * [W4 TE Lab: Dandelion DAO and Hatch Parameters](https://www.youtube.com/watch?v=nfFKLl20vO4)
-  * [W5 TEC Lab!: Visualizing Economic Templates with Holoviews](https://www.youtube.com/watch?v=EQwck2gz_7s)
-  * [W6 TEC Lab!: Tokenomics Dashboarding with Python Panel](https://www.youtube.com/watch?v=es-CQqmwYFw)
-  * [W7 TEC Lab!: DAO Hatch Templating with Python Panel](https://www.youtube.com/watch?v=jrOGGOh-A_Q)
-  * [W8 TEC Lab!: Metalab - Hatch Template Community Handoff and Lab Planning](https://www.youtube.com/watch?v=_zLparjWCyc)
-  * [W9 TEC Lab!: Honey is Money! cadCAD modelling with Luna Swarm](https://www.youtube.com/watch?v=inxXeviR6p4)
-  * [W10 TEC Lab!: Tokenspice and cadCAD for Energy Web](https://www.youtube.com/watch?v=R7Zj7tHHfh4)
-  * [W11 TEC Lab! cadCAD and Stablebaselines for Energy Web](https://www.youtube.com/watch?v=xwwANEynoNg)
-  * [W11 TEC Lab!: gitcoin research track office hours with the TE Academy](https://www.youtube.com/watch?v=ZYJns2_oEz4)
-  * [W11 TEC Lab!: ChessCAD!](https://www.youtube.com/watch?v=caJuk4pesig)
-  * [W12 TEC Lab!: ChessCAD Rematch!](https://www.youtube.com/watch?v=L_HsmYaZEig)
-  * [W13 TEC Lab!: Hatch contracts testing and documenting](https://www.youtube.com/watch?v=4F0LKxfTer4)
-
-## Chat
+## Chat - 11/20-2021
     
 ### ygg_anderson#4998 
 
@@ -103,7 +14,6 @@ pip3 install pandas
 This is awesome, I'm stoked for this channel! So much brain juice gonna be flowing 🍇🍇💦
 
 As a reference, I'll cross-post  the key resources from today:
-
 
 - [Lab data sheet](https://docs.google.com/spreadsheets/d/1e7yPaviMMdOemQmmmicbuFR80sfO3gmtZigVPcTtqAo/edit?usp=sharing)
 - [Lab repository](https://github.com/CommonsBuild/python-lab) 
