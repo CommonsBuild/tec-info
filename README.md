@@ -394,8 +394,10 @@ cadCAD was created as an internal tool at BlockScience – an engineering, R&D a
 
 ### 1Hive
 
-[Website](https://1hive.org) – [Wiki](https://wiki.1hive.org/) – [Forum](https://forum.1hive.org/) 
+[Website](https://1hive.org) • [Wiki](https://wiki.1hive.org/) • [Forum](https://forum.1hive.org/) • [Discord](https://discord.gg/xHXjWkPrtT) • [Faucet](https://faucet.1hive.org/) • [Honeyswap](http://app.honeyswap.org/) • [Analytics](http://info.honeyswap.org/) • [Honeycomb](http://farm.hny/) • [Calendar](https://wiki.1hive.org/getting-started/calendar)
 
 > 1Hive is a community that builds and experiments with decentralized applications and protocols. At the center of these experiments is an effort to build a sustainable and thriving economy around a currency called Honey, which is used to influence the direction of the community. Anyone can buy honey or earn it by contributing to 1Hive and can use it, among other things, to vote on funding proposals and protocol changes with a weight that is equal to the Honey they hold.
 > 
 > 1Hive isn’t a company, there is no core team, and there has never been a crowd sale to raise funds to operate. Instead 1Hive has been issuing and distributing Honey to contributors for over a year. - [wiki](https://wiki.1hive.org/)
+> 
+
