@@ -1,4 +1,6 @@
-# &#128300;-tec-labs discord digest <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h3>
+<h1>Token Engineering Commons 🔬 Labs WG Chat <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h1>
+
+> The lab is an initiative that was started in order to provide a collaborative learning space for members of TEC to learn and share workflows with other TEC members, while collaboratively building out real-world TEC solutions, tools, contributions, educational content, etc. [Labs WG Agenda](https://docs.google.com/document/d/1x6V7Faa3GZeAgv6fs4fM_P_5DFsGIE4pqnioxg1aMKE/edit)
 
 
 ## Chat - 11/20-2021

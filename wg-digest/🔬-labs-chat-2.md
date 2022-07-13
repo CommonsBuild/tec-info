@@ -1,16 +1,8 @@
-# WG_labs
+<h1>Token Engineering Commons 🔬 Labs WG Chat II <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h1>
 
-![https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.png](https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.png)
+> The lab is an initiative that was started in order to provide a collaborative learning space for members of TEC to learn and share workflows with other TEC members, while collaboratively building out real-world TEC solutions, tools, contributions, educational content, etc. [Labs WG Agenda](https://docs.google.com/document/d/1x6V7Faa3GZeAgv6fs4fM_P_5DFsGIE4pqnioxg1aMKE/edit)
 
-Token Engineering Commons
-
-━━WORKING GROUP TEXT━━ / 🔬｜labs
-
-The lab is an initiative that was started in order to provide a collaborative learning space for members of TEC to learn and share workflows with other TEC members, while collaboratively building out real-world TEC solutions, tools, contributions, educational content, etc. Agenda: https://docs.google.com/document/d/1x6V7Faa3GZeAgv6fs4fM_P_5DFsGIE4pqnioxg1aMKE/edit
-
-## After 19-Mar-21 12:00 AM
-
-## Chat
+## Chat 19-Mar-21 - Jun-22
 
 <h3>lanski BOT <img src="https://cdn.discordapp.com/avatars/813790898772901900/32989e5c83573c161563e48988fc044d.png" width=25 height=25></h3>
 
