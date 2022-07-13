@@ -1,5 +1,4 @@
-# &#127940;&#127996;hatcher-outreach discord digest <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h3>
-
+# &#127940;&#127996;hatcher-outreach discord digest <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" />
 
 ## Links
 
