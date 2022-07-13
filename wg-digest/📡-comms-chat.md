@@ -1,5 +1,6 @@
-# &#128225;-tec-comms discord digest <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h3>
+<h1>Token Engineering Commons 📡 Comms Chat <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h1>
 
+> The COMMS working group supports the TEC narrative, which may evolve over time, but should remain consistent across all the community platforms. [You can find our weekly agenda here](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw)
 
 ## Chat
 

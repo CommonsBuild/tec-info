@@ -1,16 +1,8 @@
-# WG_comms
+<h1>Token Engineering Commons 📡 Comms Chat II <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h1>
 
-![https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.png](https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.png)
+> The COMMS working group supports the TEC narrative, which may evolve over time, but should remain consistent across all the community platforms. [You can find our weekly agenda here](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw)
 
-Token Engineering Commons
-
-━━WORKING GROUP TEXT━━ / 📡｜comms
-
-The COMMS working group supports the TEC narrative, which may evolve over time, but should remain consistent across all the community platforms. You can find our weekly agenda here: https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw
-
-## After 19-Mar-21 12:00 AM
-
-## Chat
+## Chat 19-Mar-21 - Jun-22
 
 <h3>22-Mar-21 01:38 PM <img src="markop" width=25 height=25></h3>
 
