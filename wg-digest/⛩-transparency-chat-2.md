@@ -1,15 +1,6 @@
-# WG_transparency
+<h1> ━━WORKING GROUP TEXT━━ / 🕵｜transparency <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h1>
 
-![https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.png](https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.png)
-
-Token Engineering Commons
-
-━━WORKING GROUP TEXT━━ / 🕵｜transparency
-
-We help promote transparency, openness and mutual monitoring as the high-level ideal that we're moving towards in the TEC. The way that we get there is by empowering people to share this experience with the Transparency Audits and making information available to everyone. Weekly sync agenda: https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/
-
-#### After 19-Mar-21 12:00 AM
-## Chat
+## Chat 19-Mar-21 - Jun 22
 
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 

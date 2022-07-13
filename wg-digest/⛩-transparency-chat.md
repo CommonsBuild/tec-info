@@ -1,9 +1,8 @@
-# ⛩-tec-transparency discord digest <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h3>
+<h1>🕵 tec transparency discord digest <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h1>
 
-
+> We help promote transparency, openness and mutual monitoring as the high-level ideal that we're moving towards in the TEC. The way that we get there is by empowering people to share this experience with the Transparency Audits and making information available to everyone. [TEC Transparency WG Agenda and Notes](https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/)
 
 ## Chat
-
 
 <h3>Zeptimus#3359  <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width="25" height="25" /></h3>
 

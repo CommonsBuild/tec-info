@@ -1,26 +1,9 @@
-# WG_stewards
+<h1>Token Engineering Commons 🌾stewards <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h1>
 
-![https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.png](https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.png)
+> The main objectives of the Community Stewards WG are to provide visibility across all of the separate work streams such that all Stewards walk forward together in lockstep to reach our high level TEC goals. Our weekly meetings are a place to check-in on the temperature of the community, to resolve blockers, to raise questions that affect the Stewards or the members of our community and to solve them with collective intelligence. We are agile in our planning and follow a 2-week Sprint cadence. [Weekly sync agenda](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q)
 
-Token Engineering Commons
 
-━━WORKING GROUP TEXT━━ / 🌾｜stewards
-
-The main objectives of the Community Stewards WG are to provide visibility across all of the separate work streams such that all Stewards walk forward together in lockstep to reach our high level TEC goals. Our weekly meetings are a place to check-in on the temperature of the community, to resolve blockers, to raise questions that affect the Stewards or the members of our community and to solve them with collective intelligence. We are agile in our planning and follow a 2-week Sprint cadence. Weekly sync agenda: https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q
-
-- [TEC Coordination Workspace](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322)
-- [TEC Coordination Workspace - Onboarding Video #2](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?milestones=TEC%2520Sprint%25205%2520%253A%2520Mar%25205%2520-%252018%2520%25F0%259F%2590%25A3%2520%2520Hatch%2520Outreach%2520%25F0%259F%2590%25A3%25232021-03-18&amp;filterLogic=any&amp;repos=306706322)
-- [🥳 TEC Sprint Planning 🥳](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0/edit)
-- [🌾 TEC Community Stewards Weekly 🌾](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit)
-- [☎ TEC Call Agenda & Notes](https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4/edit#) Weekly Sync
-- [TEC Call Recorders](https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/edit)
-- [☎ TEC Call Agenda & Notes](https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit)
-- [TEC Article ideas and suggestions](https://forms.gle/G2et5UhDmFNSj8CY6) Google Forms
-- [SEO - Keyword list #490](https://github.com/CommonsBuild/coordination/issues/490#issuecomment-795400021) – [TEC SEO.xlsx](https://github.com/TECommons/coordination/files/6116056/TEC.SEO.xlsx)
-- [SEO - Adapt contents (social media, blog...) to SEO Keyword list #491](https://github.com/CommonsBuild/coordination/issues/491)
-- [Token Engineering Commons @tecmns](https://twitter.com/tecmns/status/1367234948747436034) "We are in an unprecedented time of socioeconomic revolution...we must examine our collective hubris and figure out how to light the way forward
-
-### Youtube
+### Stewards Youtube Playlist
 
 * [Community Stewards](https://www.youtube.com/playlist?list=PLusWL9gf0FITr2aiW-GIJ7-Q43T0u-mwH)
   * [2 community stewards call](https://www.youtube.com/watch?v=W0SDjq04jQo)
@@ -43,8 +26,11 @@ The main objectives of the Community Stewards WG are to provide visibility acros
   * [TEC Sprint 4 Retrospective “A rising Tide”](https://www.youtube.com/watch?v=s10DDIP4Qaw)
   * [W13 Community stewards: Blog post, Board](https://www.youtube.com/watch?v=ERHlvvF6NNY)
 
-## Community Resources
+### WG Resources
 
+- [TEC Coordination Workspace](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322)
+- [TEC Coordination Workspace - Onboarding Video #2](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?milestones=TEC%2520Sprint%25205%2520%253A%2520Mar%25205%2520-%252018%2520%25F0%259F%2590%25A3%2520%2520Hatch%2520Outreach%2520%25F0%259F%2590%25A3%25232021-03-18&amp;filterLogic=any&amp;repos=306706322)
+- [TEC Article ideas and suggestions](https://forms.gle/G2et5UhDmFNSj8CY6) Google Forms
 - [Commons Config Dashboard](https://config.tecommons.org/)
   > Design a Commons and propose it to the TEC community.
 - [Conviction Voting - Commons Stack](https://cv.commonsstack.org/#/)
@@ -185,6 +171,15 @@ The main objectives of the Community Stewards WG are to provide visibility acros
   > DAOhaus Proposal for Gnosis Innovation DAO ## Summary **About DAOhaus** The DAOhaus platform
 - [youtube descriptions](https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A)
   > Comunitas The intention of this Working Group is to nurture, grow and guide the TEC community. The points of focus are new member orientation, current member community building, and organisational design: namely, guiding folks into the TEC and helping folks navigate the TEC from the inside. ...
+- [TEC Sprint Planning](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0)
+  > 🥳 TEC Sprint Planning 🥳 Friday, June 24 - Jul7 7 : Sprint 38 ⏳ 15 mins updating and creating issues & tagging “next Sprint” Retrospective action: (need to flesh these out!) Tokenomics exploration series TE Academy have a product, we have community processes, let's stop dividing efforts, le...
+- [TEC Community Stewards Weekly Agenda](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q)
+  > 🌾 TEC Stewards Weekly 🌾 July 5 Attendees: Edu, Vy, Gideon, JuanK, Nate, Agenda: Weather/temp check on the community, ourselves, our WGs Hot in Barcelona, Weather and Humans. TEC seems a bit cold to mildly warm. Everyone is meeting up which is exciting! Feels like we are collectively on a s...
+- [☎ TEC Call Agenda & Notes](https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4)
+  > ☎ TEC Weekly Sync Thursday April 22nd Call Agenda Facilitator: Griff Moderator: Juanka Be sure to join our TEC Discord server and give a check ✅ to our rules https://discord.gg/tjhx4rw2WK 🕊If you have any social, political or any other type of problems within the TEC community, BIG OR SMA...
+- [TEC Call Recorders](https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs)
+  > April Meeting/Event,Day,Time,Discord channel,Recorder's TG handle Week 1 (Apr5-9) Transparency,Monday,6AM PST / 9AM EST / 3PM CET,<a href="https://discord.gg/CRSKAJtFMH">https://discord.gg/CRSKAJtFMH</a>,Ivy Commons Swarm,Monday,11AM PST / 2PM EST / 8PM CET,1hive Discord,Zeptimus Communications,...
+- [☎ TEC Call Agenda & Notes](https://docs.google.com/spreadsheets/d/1TEag2jkNqgpFX9oqsqHZ_cQc6UboggIb6Rxctly15fU/edit)
 - [LS Commons DAO: web3 native](https://docs.google.com/document/d/12piML3DM6vKN_AeHPbLGlVuNBN60UGxa3x3Oiq9UiEI)
   > Okay so this doc is half of a Venn Diagram. In this half I’m introducing web3 Natives to Liberating Structures(LS) and this particular project to set up an LS DAO and Commons. The other half is a DOC you can find here, which is about introducing LS practitioners to web3 and this project. Both of...
 - [Checklist for Creating a New Working Groups (TEC)](https://docs.google.com/document/d/19CgtAf9pVzUApcduzprwE_1M2lsaNG6wvSBUHEmEKJs)
@@ -200,8 +195,6 @@ The main objectives of the Community Stewards WG are to provide visibility acros
 - [Google Docs: Sign-in](https://docs.google.com/document/d/1dj65yfX5BRmW_zg9HeETy2p3bs60RjhpQ-JOzVqARaM)
 - [Communitas WG Manifesto](https://docs.google.com/document/d/1g9vycoqIZkg83KyRM-7wMeCN-QxZTSfO-Ofq8o7U9pQ)
   > Communitas Working Group Manifesto Weekly meeting: Monday 8 PM CET / 2 PM EST Orientation Call: Thursday 6 PM CET / 12 PM EST You can find us on Discord Channel: Communitas voice and text channel. Doc owner/OWG Community Stewards: Eduardo + Tamara TG handlers: @VegayP + @Tam2140 Note: The W...
-- [☎ TEC Call Agenda & Notes](https://docs.google.com/document/d/1hdGDugNqB33lsWn7eTWIeIt2CQ5HHTqvdYKru5wquG4)
-  > ☎ TEC Weekly Sync Thursday April 22nd Call Agenda Facilitator: Griff Moderator: Juanka Be sure to join our TEC Discord server and give a check ✅ to our rules https://discord.gg/tjhx4rw2WK 🕊If you have any social, political or any other type of problems within the TEC community, BIG OR SMA...
 - [Google Docs: Sign-in](https://docs.google.com/document/d/1hkbt8R8BlHWsLd5OHHqZ-hMmH8dmkDAoY9c7J2ZtRc0)
 - [Zep-Tam Hatch DAO proposals](https://docs.google.com/document/d/1HQzKlRUvUUoIsV_ZNh4FY9Tgz-qiXuPDOyei3_aDIwc)
   > After submitting this proposal on Snapshot for signaling and having 100% of yes votes we are asking it to the real DAO. Please feel free to check all the discussion Forum thread. Proposal Title: One time change of TECH addresses (as requested by owner because access was lost or another reason) P...
@@ -211,8 +204,6 @@ The main objectives of the Community Stewards WG are to provide visibility acros
   > Updated on Jan 26 for submission to CV Original thinking can be found in the drafting doc Steward WG Funding Post on the Forum: https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal/713 Key information Proposal title Steward WG 3-month funding proposal TL;DR The purpose is to...
 - [Reputation in the TEC](https://docs.google.com/document/d/1ojm_J87TUa6DuUKXUf5seooG_Pr3a_7QSTHnmODmp-Y)
   > Reputation in the TEC Since the Commons Upgrade, Quadratic Voting on Snapshot has been deactivated. Before we had only Trusted Seed members holding TEC tokens, so we knew every person had only one address with tokens. Now anyone has access to buying $TEC leaving us prone to sybil attacks. I p...
-- [TEC Sprint Planning](https://docs.google.com/document/d/1QBuJOBb6Nt7S_RWtncDpyWNRhb1Zw-QSlbV9inc1Au0)
-  > 🥳 TEC Sprint Planning 🥳 Friday, June 24 - Jul7 7 : Sprint 38 ⏳ 15 mins updating and creating issues & tagging “next Sprint” Retrospective action: (need to flesh these out!) Tokenomics exploration series TE Academy have a product, we have community processes, let's stop dividing efforts, le...
 - [Use of Polycentric Governance in the TEC](https://docs.google.com/document/d/1R4Hl_7NEqDouhlE7cX_5Xylj2hhgpex3Iclo1rmY1FM)
   > Use of Polycentric Governance in the TEC Working Group Quality Consent Process Freely based on the concept of “quality consent” presented by A.R.Greene in her paper Consent and Political Legitimacy. Working groups are small enough environments to produce a positive governance assessment by its ...
 - [Soft Gov Weekly Agenda](https://docs.google.com/document/d/1R8yLfht6GvGHr8VDvyZ-sVP1s54rPLY4MtXPBOqHtO0)
@@ -235,8 +226,6 @@ The main objectives of the Community Stewards WG are to provide visibility acros
   > Draft May 10 Previous funding proposal : https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal/713 Key information Proposal title Steward WG 3-month funding proposal TL;DR The purpose is to provide compensation for the Stewarding and the coordination efforts of active Steward...
 - [TEC Comms Working Group_Weekly Sync Notes](https://docs.google.com/document/d/1UTNNyYLf6WC1wlytoU9IJ46z2I32NX0MrtJOs3j9Ahw)
   > TEC COMMS WG - NOTES & AGENDA Comms Steward: @chuygarcia92 Working Group Manifesto Check our Content & Distribution Workflow and our github repo. Comms Platforms: ✔️Discord ✔️TEC Medium ✔️TEC Contributors Medium ✔️Twitter ✔️YouTube ✔️Forum / Discourse ✔️We...
-- [TEC Community Stewards Weekly Agenda](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q)
-  > 🌾 TEC Stewards Weekly 🌾 July 5 Attendees: Edu, Vy, Gideon, JuanK, Nate, Agenda: Weather/temp check on the community, ourselves, our WGs Hot in Barcelona, Weather and Humans. TEC seems a bit cold to mildly warm. Everyone is meeting up which is exciting! Feels like we are collectively on a s...
 - [New TEC Twitter bio](https://docs.google.com/document/d/1wd5rjfz-Dxq3aulgkt5BiovWBP8e1t0qYjRxwOw3As0)
   > TEC Twitter new bio ideas, drafts and suggestions Current draft: Token Engineering is the future of economic systems design. We’re a Commons DAO that funds projects to advance this nascent field. #MintTEC Current banner draft: Advancing Token Engineering Ethical • Safe • Resilient • Dive...
 - [TEC Sprint Retrospective Agenda](https://docs.google.com/document/d/1wyaGJ5i0Qog6T9waTK3V8OZudXp49lRgMQF2Frhohyc)
@@ -257,8 +246,6 @@ The main objectives of the Community Stewards WG are to provide visibility acros
   > COMMUNITY CALL 90 Weekly updates from the TEC July 7th tecommons.org General Voice Channel
 - [Commons Upgrade Voter Pamphlet - TEC Vote](https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y)
   > Commons Upgrade Voter Pamphlet VOTE ON SNAPSHOT Reading time of approximate 15 min #CollaborativeEconomics
-- [TEC Call Recorders](https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs)
-  > April Meeting/Event,Day,Time,Discord channel,Recorder's TG handle Week 1 (Apr5-9) Transparency,Monday,6AM PST / 9AM EST / 3PM CET,<a href="https://discord.gg/CRSKAJtFMH">https://discord.gg/CRSKAJtFMH</a>,Ivy Commons Swarm,Monday,11AM PST / 2PM EST / 8PM CET,1hive Discord,Zeptimus Communications,...
 - [TEC Decision tracking](https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY)
   > Data sources Vote Type,Parameters,Source,Vote Type Description or Source,Source Link *** Quadratic voting is suspended at this time until an identity solution is determined and implemented *** Advice Process,Forum (Advcie Process),When someone needs to make a decision, they seek advice from othe...
 - [Buy-in Proposal math](https://docs.google.com/spreadsheets/d/12XdtMMmp4ONaKQUiwrrZfQd1O48gDXNMxt7Wf3QFofI)
@@ -356,7 +343,10 @@ The main objectives of the Community Stewards WG are to provide visibility acros
  
 
  ### Github
- - [Add terms & conditions to the gardens UI · Issue #500 · 1Hive/gardens](https://github.com/1Hive/gardens/issues/500)
+
+- [SEO - Keyword list #490](https://github.com/CommonsBuild/coordination/issues/490#issuecomment-795400021) – [TEC SEO.xlsx](https://github.com/TECommons/coordination/files/6116056/TEC.SEO.xlsx)
+- [SEO - Adapt contents (social media, blog...) to SEO Keyword list #491](https://github.com/CommonsBuild/coordination/issues/491)
+- [Add terms & conditions to the gardens UI · Issue #500 · 1Hive/gardens](https://github.com/1Hive/gardens/issues/500)
   > Since people are putting up $ for proposal deposit, challenge deposit etc... and voting with tokens that have value... it&#39;s good to have terms &amp; conditions that protect both the user, the D...
 - [TEC Casino (our money is safe on the common pool) V3 collaborative economics · Issue #91 · CommonsBuild/commons-config-proposals](https://github.com/CommonsBuild/commons-config-proposals/issues/91)
   > What is the overall Commons Configuration strategy? Have the money on the Common Pool and have fun gambling and funding TE public goods FORK THIS PROPOSAL (link) Summary Module 1: Token Freeze &amp...
@@ -482,7 +472,7 @@ The main objectives of the Community Stewards WG are to provide visibility acros
   > Profitez de ce superbe appartement avec baie pour vous réunir en équipe lors d'un séminaire, workshop...
 
 ### Twitter
-https://twitter.com/1HiveOrg
+
 https://twitter.com/Matthew_Graham_/status/1496786883543801856?s=20&t=Tu6EWAE8ZPCGOjKnaxrYxA
 https://twitter.com/SyndicateDAO/status/1388222806970667008?s=19
 https://twitter.com/TaylorPearsonMe/status/1501672961362829316?s=20&t=jWVagEBunlac36sJfIMt2A
@@ -492,5 +482,4 @@ https://twitter.com/shegenerates/status/1503852338917908488?s=20&t=_9n1uk9GXPNEc
 https://twitter.com/tecmns/status/1455598444014231555
 https://twitter.com/tecmns/status/1536426580976848902
 https://twitter.com/thegrifft/status/1465317249397534723?s=20
-https://twitter.com/tokengineering
-https://us02web.zoom.us/j/83908486722
+https://twitter.com/tecmns/status/1367234948747436034

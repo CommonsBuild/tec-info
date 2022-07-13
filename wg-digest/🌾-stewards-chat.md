@@ -1,5 +1,6 @@
-# &#127806;-tec-stewards discord digest <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h3>
+<h1>Token Engineering Commons 🌾stewards <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h1>
 
+> The main objectives of the Community Stewards WG are to provide visibility across all of the separate work streams such that all Stewards walk forward together in lockstep to reach our high level TEC goals. Our weekly meetings are a place to check-in on the temperature of the community, to resolve blockers, to raise questions that affect the Stewards or the members of our community and to solve them with collective intelligence. We are agile in our planning and follow a 2-week Sprint cadence. [Weekly sync agenda](https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q)
 
 ## Chat
 

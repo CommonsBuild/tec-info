@@ -1,44 +1,14 @@
-# WG_transparency
+<h1>Token Engineering Commons 🕵 WG Transparency <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h1>
 
-![https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.png](https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.png)
-
-Token Engineering Commons
-
-━━WORKING GROUP TEXT━━ / 🕵｜transparency
-
-We help promote transparency, openness and mutual monitoring as the high-level ideal that we're moving towards in the TEC. The way that we get there is by empowering people to share this experience with the Transparency Audits and making information available to everyone. Weekly sync agenda: https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/
-
-- [Transparency Audit #313](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/313) - ZenHub
-- [TEC Meeting Protocols, Terms, and Disclaimers](https://docs.google.com/document/d/1-ysqAIbqx4KY3WEiVqnX8SUVC8197cKiFdxJSWOjgLc/edit)
-- [Soft Gov WG - Transparency Audit Criteria/Checklist](https://docs.google.com/document/d/12ie4J7WLe9oskapPxnTUX3bh5pWl5_D14dgc15aACME/edit)
-- [🕵️‍♀️TEC TRANSPARENCY🕵️‍♀️ Working Group Manifesto](https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit)
-- [Mutual accountability methods](https://docs.google.com/document/d/1A-tJgOm8mUF6Fqq2MF6ukZyhChVmFF7uqKQ2feD-azs/edit)
-- [GRAVITY WG - Transparency Audit Criteria/Checklist](https://docs.google.com/document/d/1EeLkV7SmyYW6Aof1qHtVu5EV4PgRTOZ7W12f0vv36ws/edit)
-- [Draft Transparency Audit Criteria](https://docs.google.com/document/d/1MfvY8nm3hHgBsYkX2sP3yFSlhuAUp3z3mOIoLCADcQw/edit)
-- [Transparency Audit Proposal](https://docs.google.com/document/d/1dkWN7r_vlmwoCv8ylFl5jwhBD37SQndCp4vdhtGyYvY/edit)
-- [🕵️‍♀️Transparency WG Agenda and Notes🕵️](https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/edit)
-- [Transparency Audit Criteria/Checklist](https://docs.google.com/document/d/1qL5rOJLFF7UsioslmdZwbf6-o3jDUPaxaBtGSGhjVJQ/edit)
-- [Transparency in DAOs](https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/edit)
-- [Hatchers outreach WG Transparency Audit Criteria/Checklist](https://docs.google.com/document/d/1x_gWKJ7S6r7hbxiBffvP6p7eifVw8ROVtwbMuWz0RGs/edit)
-- [TEC Call Recorders](https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/edit)
-- [TEC soft gov decision tracking](https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit)
-- [Transparency WG Audit](https://docs.google.com/spreadsheets/d/1P2hbPZwdNHRfKXjz6_3iJss2e2-0KeojTu8QPuLb19s/edit)
-- [TEC Transparency Audit Proposal](https://forum.tecommons.org/t/tec-transparency-audit-proposal/235) TEForum
-- [Conceptual Models for DAO2DAO relations](https://medium.com/primedao/conceptual-models-for-dao2dao-relations-ac2b2d3cc84d) PrimeDAO
-- [TEC Miro Board](https://miro.com/app/board/o9J_lbkGJHQ=/)
-
-### Youtube
-
-* [Transparency Working Group](https://www.youtube.com/playlist?list=PLusWL9gf0FIQ_sbCfiB2e7PkPWkgpetX4)
-  * [W1 Transparency WG: Audit proposal and recorders distribution](https://www.youtube.com/watch?v=bPgxpcWxyg0)
-  * [W2 Transparency WG: Working session on transparency audit criteria](https://www.youtube.com/watch?v=69dJdUG06Os)
-  * [W3 Transparency WG: Transparency audit updates and meeting attendance terms](https://www.youtube.com/watch?v=1LpkUvhKi2s)
-  * [W4 Transparency WG: Trial audit approach, fund management, and other audit metrics](https://www.youtube.com/watch?v=gbFSX0qWDGE)
-  * [W5 Transparency WG: Gravity WG transparency audit, CS videos, other Zenhub issues](https://www.youtube.com/watch?v=VvmqpKOuzlg)
-  * [W6 Transparency WG: Preparation for the next trial audits and discussion on mutual accountability](https://www.youtube.com/watch?v=khV-xO6limQ)
-  * [W7 Transparency WG: Refining audit checklist and mutual accountability](https://www.youtube.com/watch?v=Q25_eBzyWRo)
-  * [W8 Transparency WG: New schedule, roadmap, mutual accountability methods](https://www.youtube.com/watch?v=NpU7LHAO-tM)
-  * [W9 Transparency WG: Incentivizing the audit participants, advice process spreadsheet, Medium article](https://www.youtube.com/watch?v=WwmAp3uQu_4)
+## Contents
+- [Community Resources](#community-resources)
+  - [Transparency WG Youtube Playlist](#transparency-wg-youtube-playlist)
+  - [Tools](#tools)
+  - [Documentation](#documentation)
+  - [Forum Posts](#forum-posts)
+  - [Blockchain](#blockchain)
+  - [GitHub](#github)
+  - [Youtube](#youtube)
 
 ## Community Resources
 
@@ -58,6 +28,23 @@ We help promote transparency, openness and mutual monitoring as the high-level i
 - [Figma](https://www.figma.com/file/b6kx4mkaHxzq4TPzaI1eRY/TEC-Dapps)
   > Created with Figma
 - [TEC_-_Community_Data_NOV-DEC.pdf](https://cdn.discordapp.com/attachments/810180622634844207/933797516800061490/TEC_-_Community_Data_NOV-DEC.pdf)
+- [Transparency Audit #313](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/313) - ZenHub
+- [Conceptual Models for DAO2DAO relations](https://medium.com/primedao/conceptual-models-for-dao2dao-relations-ac2b2d3cc84d) PrimeDAO
+- [TEC Miro Board](https://miro.com/app/board/o9J_lbkGJHQ=/)
+
+
+### Transparency WG Youtube Playlist
+
+* [Transparency Working Group](https://www.youtube.com/playlist?list=PLusWL9gf0FIQ_sbCfiB2e7PkPWkgpetX4)
+  * [W1 Transparency WG: Audit proposal and recorders distribution](https://www.youtube.com/watch?v=bPgxpcWxyg0)
+  * [W2 Transparency WG: Working session on transparency audit criteria](https://www.youtube.com/watch?v=69dJdUG06Os)
+  * [W3 Transparency WG: Transparency audit updates and meeting attendance terms](https://www.youtube.com/watch?v=1LpkUvhKi2s)
+  * [W4 Transparency WG: Trial audit approach, fund management, and other audit metrics](https://www.youtube.com/watch?v=gbFSX0qWDGE)
+  * [W5 Transparency WG: Gravity WG transparency audit, CS videos, other Zenhub issues](https://www.youtube.com/watch?v=VvmqpKOuzlg)
+  * [W6 Transparency WG: Preparation for the next trial audits and discussion on mutual accountability](https://www.youtube.com/watch?v=khV-xO6limQ)
+  * [W7 Transparency WG: Refining audit checklist and mutual accountability](https://www.youtube.com/watch?v=Q25_eBzyWRo)
+  * [W8 Transparency WG: New schedule, roadmap, mutual accountability methods](https://www.youtube.com/watch?v=NpU7LHAO-tM)
+  * [W9 Transparency WG: Incentivizing the audit participants, advice process spreadsheet, Medium article](https://www.youtube.com/watch?v=WwmAp3uQu_4)
 
 ### Tools
 - [Craig](https://craig.chat/home/)
@@ -72,14 +59,30 @@ We help promote transparency, openness and mutual monitoring as the high-level i
 
 ### Documentation
 
+- [Soft Gov WG - Transparency Audit Criteria/Checklist](https://docs.google.com/document/d/12ie4J7WLe9oskapPxnTUX3bh5pWl5_D14dgc15aACME/edit)
+- [🕵️‍♀️TEC TRANSPARENCY🕵️‍♀️ Working Group Manifesto](https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit)
+  > 🕵️‍♀️TEC TRANSPARENCY🕵️‍♀️ Working Group Manifesto WHERE: Discord Voice Channel https://discord.gg/ZKdnJCuG CALL NOTES & AGENDA TEC Weekly Sync Calls & Calendar link here Working Groups progress should be shared in the Thursday community calls.
+- [Mutual accountability methods](https://docs.google.com/document/d/1A-tJgOm8mUF6Fqq2MF6ukZyhChVmFF7uqKQ2feD-azs/edit)
+- [GRAVITY WG - Transparency Audit Criteria/Checklist](https://docs.google.com/document/d/1EeLkV7SmyYW6Aof1qHtVu5EV4PgRTOZ7W12f0vv36ws/edit)
+- [Draft Transparency Audit Criteria](https://docs.google.com/document/d/1MfvY8nm3hHgBsYkX2sP3yFSlhuAUp3z3mOIoLCADcQw/edit)
+- [Transparency Audit Proposal](https://docs.google.com/document/d/1dkWN7r_vlmwoCv8ylFl5jwhBD37SQndCp4vdhtGyYvY/edit)
+- [TEC Transparency WG Agenda and Notes](https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/)
+  > 🕵️‍♀️Transparency WG Agenda and Notes🕵️ Meeting channel: https://discord.gg/CRSKAJtFMH Facilitator: Zep Moderator: Ivy July 11 Attendees: (Please join the http://t.me/tepraise and say hi or post an emoji to receive Praise which turns into TEC tokens) Agenda: Standarization of calen...
+- [Transparency Audit Criteria/Checklist](https://docs.google.com/document/d/1qL5rOJLFF7UsioslmdZwbf6-o3jDUPaxaBtGSGhjVJQ/edit)
+- [Transparency in DAOs](https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/)
+  > Transparency in DAOs The long term success of a DAO needs more than just technical code. It also needs to foster trust and commitment between its members, and between the members and the DAO. To turn a DAO’s vision into reality, its participants should be genuinely committed and understand t...
+- [Hatchers outreach WG Transparency Audit Criteria/Checklist](https://docs.google.com/document/d/1x_gWKJ7S6r7hbxiBffvP6p7eifVw8ROVtwbMuWz0RGs/edit)
+- [TEC Call Recorders](https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/)
+  > April Meeting/Event,Day,Time,Discord channel,Recorder's TG handle Week 1 (Apr5-9) Transparency,Monday,6AM PST / 9AM EST / 3PM CET,<a href="https://discord.gg/CRSKAJtFMH">https://discord.gg/CRSKAJtFMH</a>,Ivy Commons Swarm,Monday,11AM PST / 2PM EST / 8PM CET,1hive Discord,Zeptimus Communications,...
+- [TEC Decision tracking](https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/)
+  > Data sources Vote Type,Parameters,Source,Vote Type Description or Source,Source Link *** Quadratic voting is suspended at this time until an identity solution is determined and implemented *** Advice Process,Forum (Advcie Process),When someone needs to make a decision, they seek advice from othe...
+- [Transparency WG Audit](https://docs.google.com/spreadsheets/d/1P2hbPZwdNHRfKXjz6_3iJss2e2-0KeojTu8QPuLb19s/edit)
 - [TEC AUDIT REPORT 0001 - HackMD](https://hackmd.io/@lPFQ61eAQAap3vUN520DPw/ByS69fqQq)
-  > # TEC AUDIT REPORT 0001 TRANSPARENCY WG **Period:** January 01 - March 31 of 2022 **Presented:** T
+  > TEC AUDIT REPORT 0001 TRANSPARENCY WG **Period:** January 01 - March 31 of 2022 **Presented**
 - [youtube descriptions](https://docs.google.com/document/d/116ojz1QerleELqkD3832mvImZB_09N7bqca6gPIWA1A/)
   > Comunitas The intention of this Working Group is to nurture, grow and guide the TEC community. The points of focus are new member orientation, current member community building, and organisational design: namely, guiding folks into the TEC and helping folks navigate the TEC from the inside. ...
 - [TEC Discord Server Newcomer Audit](https://docs.google.com/document/d/17ArOa1BikAk20Czf1vbmZjT_ll0OQSc9rUrdFm9SAGc/)
   > TEC Discord Server Newcomer Audit Once TEC tokens become more freely available and TEC increasingly stands on its own legs in the world, we will no longer be able to assume that people know much about us when they first drop into our Discord server. This will be particularly important if we dec...
-- [TEC TRANSPARENCY](https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/)
-  > 🕵️‍♀️TEC TRANSPARENCY🕵️‍♀️ Working Group Manifesto WHERE: Discord Voice Channel https://discord.gg/ZKdnJCuG CALL NOTES & AGENDA TEC Weekly Sync Calls & Calendar link here Working Groups progress should be shared in the Thursday community calls.
 - [TEC Offboarding Credentials](https://docs.google.com/document/d/19FIBc67b5f0EGFF6hpHChyks6110Sr8lCJfCk2feLJg/)
   > TEC Offboarding Credentials and access For platforms that can be accessed by logging in through Dashlane (Twitter, Website, Google/Gmail, Youtube, Hubspot, Medium, LinkedIn) The lead admin of the platform will notify the Credentials Managers (Zep, Ivy, Chuy) when a contributor is no longer ne...
 - [T.Management](https://docs.google.com/document/d/1DQwEJUYvKiwm6LaiGRM1P7YB48528WeBCsmZ39QB5VA/)
@@ -90,14 +93,10 @@ We help promote transparency, openness and mutual monitoring as the high-level i
   > Code of Conduct for Platform Admins The objective of this document is for current and new Admin members of the TEC DAO to be aware of the rules and boundaries that apply through the use of different third-party applications. This document can be used as a guide on how to act and have due proces...
 - [Transparency Audit Report](https://docs.google.com/document/d/1IgG94l6cCO3d0Zrfsi6ucUEp99A96P_s2uOTQhmB-Tc/)
   > Transparency Audit Report - A New Approach As we come closer to the Commons Upgrade, we think this is the best time to revisit our transparency audit process and find out where we can improve to make our community more transparent. The previous Transparency Audit, that specifically targeted the...
-- [TEC Transparency WG Agenda and Notes](https://docs.google.com/document/d/1jbuqlIXd3s9gRwXbT9ND0zUbE0MaEP9EyO6sHY46iOY/)
-  > 🕵️‍♀️Transparency WG Agenda and Notes🕵️ Meeting channel: https://discord.gg/CRSKAJtFMH Facilitator: Zep Moderator: Ivy July 11 Attendees: (Please join the http://t.me/tepraise and say hi or post an emoji to receive Praise which turns into TEC tokens) Agenda: Standarization of calen...
 - [Transparency of funding flows](https://docs.google.com/document/d/1K1TaHVeU-y3tzJ-BZ78d7Keib1gA9d4pn8t-IRND7ps/)
   > Ways to Keep the WG Funding Flows Transparent As we advocate for transparency, the Transparency WG always seeks ways to ensure that the actions and decisions of TEC as a whole and its members are visible to the rest of our community. This will help in our mutual monitoring and accountability. W...
 - [borrador](https://docs.google.com/document/d/1lHhu8o6CZ-Zgudipv5oGbzwlAsIZ_m1jhAZod7pP28U/)
   > I’m interested in knowing how transparent we want to be with TEC’s money as it’s set up right now. We can monitor the multisig address with Dune and see every multisig cash flow. (and check on blockscout all the transactions done by the multisig and also the addresses that control that multisig)....
-- [Transparency in DAOs](https://docs.google.com/document/d/1toVjBhD78RZHxyjOxQGI26eKGkpjDIzQ9ZKZ6xsuWG0/)
-  > Transparency in DAOs The long term success of a DAO needs more than just technical code. It also needs to foster trust and commitment between its members, and between the members and the DAO. To turn a DAO’s vision into reality, its participants should be genuinely committed and understand t...
 - [update TEC Community Covenant](https://docs.google.com/document/d/1uBhtYLvx5PIGzYoEDa1HYxxmc9W3pPpP_cXxXfn1IgA/)
   > TEC Community Covenant The Token Engineering Commons is a self-governed organization with the purpose of advancing the field of token engineering. The TEC supports the creation of ethical, safe, resilient and diverse economic systems to benefit societies around the world. The TEC’s mission is...
 - [Credentials management](https://docs.google.com/document/d/1uD_vSW9maxXEORamevLRWUdIoh2w_i_oq9Jg5B7Nsrs/)
@@ -110,10 +109,6 @@ We help promote transparency, openness and mutual monitoring as the high-level i
   > AUDIT REPORT 0001 TRANSPARENCY WG Period: January 01 - March 31 of 2022 Presented: T.B.D. Contributors: Zeptimus, Iviangita, Ratio13, enti, acidlazzer, efra Processes The Advice Process Submitting funding and cultural proposals 1.2.1. Funding proposals 1.2.2. Cultural proposals Onboarding and ...
 - [Bankless DAO Data Presentation (Oct 8th)](https://docs.google.com/presentation/d/18DGuSTsLgU2C2iNNcvoo2-27uL2Tcb1jfMaMGa9Zeyc/)
   > Bankless DAO Community Growth Analytics Guild October 8, 2021
-- [TEC Call Recorders](https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/)
-  > April Meeting/Event,Day,Time,Discord channel,Recorder's TG handle Week 1 (Apr5-9) Transparency,Monday,6AM PST / 9AM EST / 3PM CET,<a href="https://discord.gg/CRSKAJtFMH">https://discord.gg/CRSKAJtFMH</a>,Ivy Commons Swarm,Monday,11AM PST / 2PM EST / 8PM CET,1hive Discord,Zeptimus Communications,...
-- [TEC Decision tracking](https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/)
-  > Data sources Vote Type,Parameters,Source,Vote Type Description or Source,Source Link *** Quadratic voting is suspended at this time until an identity solution is determined and implemented *** Advice Process,Forum (Advcie Process),When someone needs to make a decision, they seek advice from othe...
 - [Master Sheet - TEC Balances](https://docs.google.com/spreadsheets/d/1kiZEeCxml49AuhRT_TAq-fdnXp1XeDs71eTa-uxKeK0/)
   > master_txn WG,Date,ID (Discord#/Name),Inflow,Outflow,Token,Description,Category,Recurring,Notes,Tx Link Gravity,1 Jul 2022,Zeptimus#3359,800,xDAI,Gravity Treasury manager June,Administration,"Distribute payments Update graviton budget Keep the flows transparent with TEC
 - [TE Commons Videos Database](https://docs.google.com/spreadsheets/d/1nu5Xx4N40RpUvh7dtJB94SUMYSpMs-U6iFiOBPXOLoA/)
@@ -126,6 +121,7 @@ We help promote transparency, openness and mutual monitoring as the high-level i
   > Main - April Payout Distribution Payout Distribution Person,Month,Total Hours,Wallet Address,Period Pay,Notes May 2022 acidLazzer,May,13.00,0x8aA27E90E139d5AB5704df69429341cbCb2d2464,130.00,<a href="https://blockscout.com/xdai/mainnet/tx/0xa9d8087a017f05234163f4273bad5c6eb16bdd096304c0729a500910...
 - [TEC Voting Results - Q1/2022](https://docs.google.com/spreadsheets/d/1yPuReLbzUdb-xWhsKNr_aiK4YwpT6UtgiRw1ItmsxjU/)
   > Metrics Ongoing Advice and Proposal Metrics Advice Tracking # of Requests,# of Comments,Advanced to Proposal,Platform Average,1,49.00,Forum Median,1,--,Forum Source,
+- [TEC Meeting Protocols, Terms, and Disclaimers](https://docs.google.com/document/d/1-ysqAIbqx4KY3WEiVqnX8SUVC8197cKiFdxJSWOjgLc/edit)
 
 ### Forum Posts
 - [Token Engineering Commons](https://forum.tecommons.org/)
@@ -151,6 +147,7 @@ We help promote transparency, openness and mutual monitoring as the high-level i
   > The Transparency Working Group promotes transparency, openness and mutual monitoring as a high-level ideal that we’re moving towards at the TEC. The way that we get there is by empowering people to share this experience with the Transparency Audits and making information available to everyone. Meetings: Every two weeks on Monday at 3pm CET Where? Transparency-TEC Discord voice channel WG Lead: @iviangita, @Zeptimusq Discussions happen on tec-transparency Transparency Manifesto Agenda
 - [Your advice on the Sampo strategy](https://forum.tecommons.org/t/your-advice-on-the-sampo-strategy/1019)
   > Provide as much information as possible about your idea. This post grew from the Sampo working group’s high-level strategy document, which you can find below. The plan has gotten initial advice from the working group and was presented at last week’s Steward Council. To broaden feedback from the community, I’m posting it here and including a link at the bottom to a quick, easy survey tool. This tool provides some powerful analysis capabilities that will help us easily find where we do and do no...
+- [TEC Transparency Audit Proposal](https://forum.tecommons.org/t/tec-transparency-audit-proposal/235) TEForum
 
 ### Blockchain
 
