@@ -12,9 +12,7 @@ this something towards scaling co-creativity
 
 i think we can play our way there
 
-Infinite Play
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
+Infinite Play <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -28,13 +26,7 @@ _04-Mar-22 09:36 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/949495670711152681/56B94A51-EFD2-445C-8A1D-59373AFD34DA.jpg](https://cdn.discordapp.com/attachments/810180622634844202/949495670711152681/56B94A51-EFD2-445C-8A1D-59373AFD34DA.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -48,9 +40,7 @@ don't do math on the flower
 
 do math on the soil
 
-sun
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50>
+sun <img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=20 height=20>
 
 seems satori is the first legit digital shaman (edited)
 
@@ -62,17 +52,12 @@ few but they got the other piece of the code
 
 power of 3s
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 space over time
 
 is essence of my logic
 
-time over space
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f496.png" width=50 height=50>
+time over space <img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f496.png" width=20 height=20>
 
 but power 3 says
 
@@ -82,9 +67,6 @@ and different
 
 wholeness equals
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=50 height=50>
-
-1
 
 never divides
 
@@ -94,17 +76,13 @@ with all my being
 
 flower/song is not longer in my pocket
 
-because shit is finally going down
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50>
+because shit is finally going down <img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _05-Mar-22 10:54 AM_:
 
-Move! Into new spaces beyond one's present concepts of possible/probable/certain real spaces. Far vaster than I now know are the innermost/outermost realities.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fe.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fe.png" width=50 height=50>
+Move! Into new spaces beyond one's present concepts of possible/probable/certain real spaces. Far vaster than I now know are the innermost/outermost realities. <img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fe.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fe.png" width=20 height=20>
 
 satori test shows, perhaps I can pull off this trick
 
@@ -119,13 +97,9 @@ Question: Cosmic Trigger or VaporTest?
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _05-Mar-22 02:50 PM_:
-when the last days of reality is near buzzz in the underground but only beeshaman knowns
+when the last days of reality is near buzzz in the underground but only beeshaman knowns <img src="https://twemoji.maxcdn.com/2/72x72/1f4da.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f37b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f578.png" width=50 height=50> <img src="$5" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4da.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f37b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f578.png" width=50 height=50> <img src="$5" width=50 height=50>
-
-️ ⌛
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa84.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4a6.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1fac2.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fe.png" width=50 height=50> 
+️ ⌛ <img src="https://twemoji.maxcdn.com/2/72x72/1fa84.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4a6.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1fac2.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fe.png" width=20 height=20> 
 
 underground and overground sub-genius to the 3rd power? whats your power level?
 
@@ -135,9 +109,6 @@ _05-Mar-22 07:25 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/949824957486071858/img-6339.png](https://cdn.discordapp.com/attachments/810180622634844202/949824957486071858/img-6339.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f499.png" width=50 height=50>
-
-1
 
 whats in the center of web3
 
@@ -145,11 +116,8 @@ whats in the center of web3
 
 _06-Mar-22 01:51 PM_:
 
-"The more diversity that is expressed, the more unity comes through from underneath" [https://www.youtube.com/watch?v=uODUBJ1AITk](https://www.youtube.com/watch?v=uODUBJ1AITk)
-
-[TEDx Talks](https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q)
-
-Transforming shadows into rocket fuel: Jamie Catto at TEDxLausanne
+"The more diversity that is expressed, the more unity comes through from underneath" 
+[Transforming shadows into rocket fuel: Jamie Catto at TEDxLausanne](https://www.youtube.com/watch?v=uODUBJ1AITk)
 
 [http://www.tedxlausanne.org](http://www.tedxlausanne.org/) - Jamie Catto was a founding member of the British dance music supergroup Faithless and has worked as a producer/composer for renowned artists such as Dido and Emiliana Torrini. In 1999, he and Duncan Bridgeman formed the double Grammy-nominated global music and film project 1 Giant Leap ([http://www.1giantleap.tv/)](http://www.1giantleap.tv/)), w...
 
@@ -195,9 +163,7 @@ Kristina Flynn put together an epic day of speaking... 24hours / 24 speakers. LG
 
 [ARTXV (@artxvnft)](https://twitter.com/artxvnft)
 
-Join us tomorrow at 3:30PM GMT/10:30AM ET to discuss all things neurodiversity with the wonderful @AL0YSI0US
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4a5.png" width=50 height=50>
+Join us tomorrow at 3:30PM GMT/10:30AM ET to discuss all things neurodiversity with the wonderful @AL0YSI0US <img src="https://twemoji.maxcdn.com/2/72x72/1f4a5.png" width=20 height=20>
 
 Thank you @flynnkristina this is going to be an incredible 24 hours!
 
@@ -227,9 +193,6 @@ Interesting discussion on ethics
 
 One telling quote is that “the people who design technology are often not the people who suffer prejudice at the hands of their algorithms”
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f573.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -249,9 +212,6 @@ _07-Mar-22 06:30 PM_:
 
 !praise @durgadas for sharing really great resources, I'm always learning from him
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-3
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -274,9 +234,6 @@ curious about your thoughts on this [https://docs.google.com/document/d/1U56cG2u
 The TEC and Its People
 
 The TEC and Its People This is a framework for thinking about how the TEC relates to its community members. It is intended as an evolution of not just the Communitas working group, but the TEC as a whole. The brushstrokes of this plan are broad and intentionally bold. It is meant to inspire us to...
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -294,9 +251,6 @@ Durgadas is a self-proclaimed polymath. His background includes everything from 
 
 ![https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/819071/819071-1625084820378-88ecd2ccaafb1.jpg](https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/819071/819071-1625084820378-88ecd2ccaafb1.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 And recently adapted some of my thinking into a two stage idea of how to proceed
 
@@ -316,9 +270,6 @@ _07-Mar-22 07:19 PM_:
 
 I'm commenting on the document now
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -326,9 +277,6 @@ _08-Mar-22 07:50 PM_:
 
 @durgadas @stef are you open to being a guide to newcomers to 0mega? So far, all it entails is answering questions from new members. You decide how you want to guide new members in increasing complexity tolerance
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -346,13 +294,7 @@ Terence Kemp McKenna (November 16, 1946 – April 3, 2000) was an American ethno
 
 ![https://i.ytimg.com/vi/nG3fz30Zg0U/maxresdefault.jpg](https://i.ytimg.com/vi/nG3fz30Zg0U/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4a1.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f56f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -363,15 +305,10 @@ durgadas
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _08-Mar-22 10:42 PM_:
-Thank you
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f497.png" width=50 height=50>
+Thank you <img src="https://twemoji.maxcdn.com/2/72x72/1f497.png" width=20 height=20>
 
 I’m so happy new members can be guided by you
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -382,33 +319,23 @@ durgadas
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 _09-Mar-22 04:05 AM_:
-so many great gems of wisdom in this!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f48e.png" width=50 height=50>
+so many great gems of wisdom in this! <img src="https://twemoji.maxcdn.com/2/72x72/1f48e.png" width=20 height=20>
 
 the artist is the
 
 *Person*
 
-of language
+of language <img src="https://twemoji.maxcdn.com/2/72x72/1f48e.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f48e.png" width=50 height=50>
+culture is a plot against the expansion of consciousness ... that prosecutes its goals through the limiting of language <img src="https://twemoji.maxcdn.com/2/72x72/1f48e.png" width=20 height=20>
 
-culture is a plot against the expansion of consciousness ... that prosecutes its goals through the limiting of language
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f48e.png" width=50 height=50>
-
-language is the battleground over which the fight will take place communication is
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f5dd.png" width=50 height=50>
+language is the battleground over which the fight will take place communication is <img src="https://twemoji.maxcdn.com/2/72x72/1f5dd.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
 nic
 
-[Thank you  I’m so happy new members can be guided by you](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f497.png" width=50 height=50>
+[Thank you  I’m so happy new members can be guided by you](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f497.png" width=20 height=20>
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
@@ -416,9 +343,6 @@ _09-Mar-22 04:05 AM_:
 
 second that!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -431,9 +355,7 @@ durgadas
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _09-Mar-22 04:10 AM_:
-yes! Maybe this points to the pain that @Gideonro tries to address, and I know @nic and you have been at it for a long time now
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+yes! Maybe this points to the pain that @Gideonro tries to address, and I know @nic and you have been at it for a long time now <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ... and sadly this is a typical problem of any organization... in Siemens we used to say "If Siemens knew what Siemens knows", our research depts were 15k of brilliant people, and all they had to go by is performance talks and assessment centers... and it did not fix the issue ever. I believe appreciating the value of each participant in a transdisciplinary field like TE requires new techniques, and a new mindset... I hope you find a way to collaborate on this. Please call on me with whatever I can support, facilitation for conceptualization, the past experience with particiaptory action research etc. The topic is very important - and it requires first for the three most impressive newcomers - because you hit the nail on the head & have the appropriate skills, intuition, and/or experience - the three of you to collaborate. Call on the resources of TEC to help you make it happen - preferably without politics and in innovative ways that are radically inclusive. I'm cheering for you, and am on call whatever you need!
 
@@ -454,19 +376,13 @@ _09-Mar-22 04:29 AM_:
 
 !praise @Mert Ozd @Letty @nic @stef @Mount Manu @durgadas @SatoriD for being long-time and new contributors to the TE Consilience Library idea, for starting to prototype, and looking for soulful and artful ways to enable serendipitous encounters around TE knowledge through a living library experience. Your ingenuity energizes me and the library - something I had initially thought to be quite worn out concept "a library, huh?". I'm amazed what you have started to transform it into already #0mega
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _09-Mar-22 06:05 AM_:
 
-wow [https://www.youtube.com/watch?v=AWb4yTnTyM0](https://www.youtube.com/watch?v=AWb4yTnTyM0) h/t @SatoriD
-
-[SatoriD](https://www.youtube.com/channel/UCcMViyRW8GMZxt8V1sLZBTA)
-
-Our Evolution Begins (Songs of Eternity)
+wow 
+[Our Evolution Begins (Songs of Eternity)](https://www.youtube.com/watch?v=AWb4yTnTyM0)
 
 Our evolution begins beyond the mind/body & space/time It isn’t waiting anymore Our evolution does not need approval or permission It happens because it is happening in each being, neighborhood, village, city or town at gatherings of tribes, fellow hackers, dreamers & tricksters people at the market, on the bus It is gradual and soft It is spont...
 
@@ -499,13 +415,7 @@ _09-Mar-22 01:59 PM_:
 
 I voted to support the OMEGA Consilience Library
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
@@ -610,9 +520,6 @@ _09-Mar-22 03:19 PM_:
 
 This is already a distillation of 12 years of real-world Marcom experience with my autistic brain
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50>
-
-1
 
 it's complex work
 
@@ -719,9 +626,7 @@ durgadas
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _09-Mar-22 03:24 PM_:
-as long as it energizes you! I love to be in guided sessions and try out methods ... it's like a spa treatment
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+as long as it energizes you! I love to be in guided sessions and try out methods ... it's like a spa treatment <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 Thank you for offering!
 
@@ -749,17 +654,8 @@ _09-Mar-22 03:27 PM_:
 
 this is really a Comms function, so in that sense we should leverage this
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 so I will ask Chuy about this too, or should you @solsista ?
 
@@ -772,9 +668,7 @@ durgadas
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _09-Mar-22 03:28 PM_:
-please do! you are the direct links
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+please do! you are the direct links <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -794,9 +688,6 @@ _09-Mar-22 03:30 PM_:
 
 I am also training people in this along the way also
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 Nate, Manu, etc.
 
@@ -828,13 +719,7 @@ written by an autistic person
 
 And I think my approach is eclectic in a similar way as the reviews seem to imply.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -845,9 +730,7 @@ durgadas
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _09-Mar-22 03:33 PM_:
-I'll put this for you on the "Doing Board" on the complex side of the matrix
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+I'll put this for you on the "Doing Board" on the complex side of the matrix <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -857,9 +740,6 @@ I am saying that this, according to my previous narratives about Cynefin, me try
 
 I think this is also why I'm writing the overarching connection between all of the petals on the CE flower
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -870,9 +750,7 @@ durgadas
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 _09-Mar-22 03:35 PM_:
-!mentor moments
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=50 height=50>
+!mentor moments <img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=20 height=20>
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -880,9 +758,6 @@ _09-Mar-22 03:35 PM_:
 
 and this is patently NOT reductionistic
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -893,9 +768,7 @@ durgadas
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _09-Mar-22 03:35 PM_:
-totally yes, I won't get tired of repeating and finding ways of applying that epiphany ever either
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+totally yes, I won't get tired of repeating and finding ways of applying that epiphany ever either <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -905,9 +778,6 @@ love how active in discussions you all are, I don't think I've ever seen this:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/951216752015048764/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/951216752015048764/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -930,9 +800,7 @@ durgadas
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _09-Mar-22 03:36 PM_:
-you have to have read this first pls
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+you have to have read this first pls <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 [https://epub.wu.ac.at/7309/8/Foundations%20of%20Cryptoeconomic%20Systems.pdf](https://epub.wu.ac.at/7309/8/Foundations%2520of%2520Cryptoeconomic%2520Systems.pdf)
 
@@ -958,9 +826,6 @@ _09-Mar-22 03:37 PM_:
 
 Thank you for the welcome. Today is my first day here at Tec and I just attended the orientation session earlier that is where I learned about this wg and caught my attention. Unfortunately I wasn’t able to be for the whole call so I think I missed pretty much the important stuff. But for what I heard so far it sounds like you guys are working into really vital aspects for this organization in terms of its ethics and philosophy. That being something I’m really interested about!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
@@ -970,9 +835,7 @@ Thank you for the welcome. Today is my first day here at Tec and I just attended
 
 solsista
 
-[you have to have read this first pls](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+[you have to have read this first pls](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 [https://epub.wu.ac.at/7309/8/Foundations%20of%20Cryptoeconomic%20Systems.pdf](https://epub.wu.ac.at/7309/8/Foundations%2520of%2520Cryptoeconomic%2520Systems.pdf)
 
@@ -1013,9 +876,6 @@ Perhaps you can all comment
 
 Another Epiphany On The Toilet
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -1026,9 +886,7 @@ durgadas
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _09-Mar-22 03:40 PM_:
-great! now by referencing that in the foundations and explaining how so, you are on your way to expanding it - but keep the anchor/reference
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+great! now by referencing that in the foundations and explaining how so, you are on your way to expanding it - but keep the anchor/reference <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 and I think you mean "Living Wisdom" right?
 
@@ -1038,9 +896,6 @@ _09-Mar-22 03:41 PM_:
 
 YES
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -1059,9 +914,6 @@ ah yea I wanted to share something from DADA/Invisible Economy, which I liked an
 Governance IE
 
 DADA’s Invisible Economy Governance Model
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -1069,9 +921,6 @@ _09-Mar-22 03:41 PM_:
 
 Beyond Bateson's Warm Data idea
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -1081,9 +930,7 @@ share away, I think this is what we can add to the tree of knowledge
 
 so excited about it, I just want to make sure it peaks the curiousity of the rational mind, and not just brushes it away because "living wisdom" sounds so "spiritual" ... I think it's the 0mega... I just want to make sure we provide a ladder, stepping stones what have you...
 
-or that inflateable bridge nic is working on in her spare time
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
+or that inflateable bridge nic is working on in her spare time <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/951219272200372234/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/951219272200372234/unknown.png)
 
@@ -1093,9 +940,6 @@ _09-Mar-22 03:45 PM_:
 
 The Consilience Library aim is to go beyond the petal's conceptualization: to do so we first need a concept and the creative ability to weave patterns. A Living Cosilience Library - an ever expanding warm data lab - woven with the experiential and creative use of energy of all involved.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
 
@@ -1114,9 +958,7 @@ though the video may take time to upload. Next week we will have @durgadas share
 
 **Token Engineering Consilience Library**
 
-. We're currently building a crowdsourced multi-disciplinary library (called TE Conscilience Library) and we're exploring how people may interact with it, so that it's not just passive consumption. Also thinking about ideas on how the library can be a self-sustaining commons in terms of revenue, and knowledge. If you have ideas, around this please feel free to share during the call next week. You could also just hang around and discuss anything relating to ethics and philosophy - join the conversations
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+. We're currently building a crowdsourced multi-disciplinary library (called TE Conscilience Library) and we're exploring how people may interact with it, so that it's not just passive consumption. Also thinking about ideas on how the library can be a self-sustaining commons in terms of revenue, and knowledge. If you have ideas, around this please feel free to share during the call next week. You could also just hang around and discuss anything relating to ethics and philosophy - join the conversations <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 (edited)
 
@@ -1138,9 +980,7 @@ though the video may take time to upload. Next week we will have @durgadas share
 
 **Token Engineering Consilience Library**
 
-. We're currently building a crowdsourced multi-disciplinary library (called TE Conscilience Library) and we're exploring how people may interact with it, so that it's not just passive consumption. Also thinking about ideas on how the library can be a self-sustaining commons in terms of revenue, and knowledge. If you have ideas, around this please feel free to share during the call next week. You could also just hang around and discuss anything relating to ethics and philosophy - join the conversations
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+. We're currently building a crowdsourced multi-disciplinary library (called TE Conscilience Library) and we're exploring how people may interact with it, so that it's not just passive consumption. Also thinking about ideas on how the library can be a self-sustaining commons in terms of revenue, and knowledge. If you have ideas, around this please feel free to share during the call next week. You could also just hang around and discuss anything relating to ethics and philosophy - join the conversations <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 (edited)
 
@@ -1172,9 +1012,6 @@ Gardens
 
 Gardens
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
 
@@ -1203,9 +1040,6 @@ Welcome to TEC Consilience Library! Where we explore complexities of Token engin
 
 ![https://bird-sherbet-01c.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Facfabee0-8464-49ff-bf40-3499110cc8d7%2FShare.jpg?table=block&id=0ad18a99-9ee4-4926-adf2-fcfcab6418b0&spaceId=67a17e9f-add8-467b-ae64-54d6aa476827&width=2000&userId=&cache=v2](https://bird-sherbet-01c.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Facfabee0-8464-49ff-bf40-3499110cc8d7%2FShare.jpg?table=block&id=0ad18a99-9ee4-4926-adf2-fcfcab6418b0&spaceId=67a17e9f-add8-467b-ae64-54d6aa476827&width=2000&userId=&cache=v2)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -1221,9 +1055,6 @@ Yes, I will! it would be great to get some more guidance. It’s a little overwh
 
 Thank you! I’ll definitely check all of this info out, to better understand the work you are doing and if it’s in my ability provide some ideas to it
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f497.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -1255,13 +1086,7 @@ _09-Mar-22 04:02 PM_:
 
 That sounds like a great plan. I think it could be a good exercise on itself to have a newcomer read through this and see what I can get/feel from it, hoping it can serve as feedback for the on-boarding process you guys do
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -1274,9 +1099,6 @@ nic
 _09-Mar-22 04:04 PM_:
 Yes! Agreed! And that’s something I feel happy to do while finding in what other ways I can help
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -1284,54 +1106,28 @@ _09-Mar-22 04:06 PM_:
 
 !praise @stef @Jeanne @UniPuff 🜐🐙 @Jolly LaMa @Andrea for sharing about their experience as newcomers to 0mega
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-4
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 !praise @Mount Manu for taking the initiative to learn from other DAOs and finding ways to use that knowledge to improve how we approach our initiatives
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4aa-1f3fb.png" width=50 height=50>
-
-1
 
 !praise @durgadas for offering to share examples on how the living library could work, as well as sharing perspectives on processes when building
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 !praise @solsista for setting an intention for the next meeting and keeping the group focused on creating the first phase of the library
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 !praise @bear100 for offering to share feedback on the onboarding process and taking initiative after having just joined the TEC and 0mega *today*
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
 1
-@Jeanne I'm in Kernel too! I'm interested in exploring the idea of having a self stock; how does one replenish their energy stock? How can we do more of that which energises us? How can we ensure our needs our met? Can we design systems that reward/energise people in other ways than financially? I only have some ideas at this point, but perhaps we can work together, in some way
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
+@Jeanne I'm in Kernel too! I'm interested in exploring the idea of having a self stock; how does one replenish their energy stock? How can we do more of that which energises us? How can we ensure our needs our met? Can we design systems that reward/energise people in other ways than financially? I only have some ideas at this point, but perhaps we can work together, in some way <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=20 height=20>
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -1339,35 +1135,20 @@ _09-Mar-22 04:13 PM_:
 
 !praise @nic for hosting the 0mega call today and managing a lot of different issues together with grace and competence
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-4
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 _10-Mar-22 04:14 AM_:
 
-[https://www.youtube.com/watch?v=7UojwMiRpNM](https://www.youtube.com/watch?v=7UojwMiRpNM)
 
-[BBC Reel](https://www.youtube.com/channel/UCfYW5GXBXueSO5p9bxD45qg)
-
-What we can learn from the African philosophy of Ubuntu - BBC REEL
+[What we can learn from the African philosophy of Ubuntu - BBC REEL](https://www.youtube.com/watch?v=7UojwMiRpNM)
 
 The African philosophy of Ubuntu has its roots in the Nguni word for being human. The concept emphasises the significance of community and teaches that 'a person is a person through others'. Many view the philosophy as a counterweight to a culture of individualism. Video by Brits Film Productions Executive producer: Camelia Sadeghzadeh #bbcre...
 
 ![https://i.ytimg.com/vi/7UojwMiRpNM/maxresdefault.jpg](https://i.ytimg.com/vi/7UojwMiRpNM/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -1377,9 +1158,6 @@ h/t @jimscarver for this, I think it is important insight, we aren't aware of
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/951427011824472086/197077214_10159403573483373_3903378097019752746_n.png](https://cdn.discordapp.com/attachments/810180622634844202/951427011824472086/197077214_10159403573483373_3903378097019752746_n.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
 
@@ -1404,9 +1182,7 @@ TE Consiliencers! Have you seen the Conviction Levels?!
 
 [https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/12](https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/12)
 
-so nice
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+so nice <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 Gardens
 
@@ -1445,9 +1221,7 @@ it's by Fabian and should speak to those of you who are inclined to realm the hy
 
 **A***
 
-: First principles approach to construct stable systems" your Pola*ris design made me think of it again @Letty @SatoriD
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+: First principles approach to construct stable systems" your Pola*ris design made me think of it again @Letty @SatoriD <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 I'm game if anyone wants to play with the design for our dynamic energy budgeting...
 
@@ -1460,9 +1234,7 @@ _10-Mar-22 10:07 AM_:
 
 hmmm skimming over it we may also use it to have the Buddy system emerge
 
-food for thought over the weekend
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+food for thought over the weekend <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -1476,9 +1248,7 @@ Google Docs - create and edit documents online, for free.
 
 Create a new document and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Docs to edit Word files. Free from Google.
 
-we can use 8 differently colored and different shaped doors
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+we can use 8 differently colored and different shaped doors <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 Who wants to give it a creative spin? Feel free!
 
@@ -1494,9 +1264,7 @@ it's by Fabian and should speak to those of you who are inclined to realm the hy
 
 **A***
 
-: First principles approach to construct stable systems" your Pola*ris design made me think of it again @Letty @SatoriD
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+: First principles approach to construct stable systems" your Pola*ris design made me think of it again @Letty @SatoriD <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 I'm game if anyone wants to play with the design for our dynamic energy budgeting...
 
@@ -1505,25 +1273,14 @@ I'm game if anyone wants to play with the design for our dynamic energy budgetin
 _10-Mar-22 11:41 AM_:
 We need a DAO for DEB
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
 Letty
 
-[We need a DAO for DEB](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
+[We need a DAO for DEB](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -1553,9 +1310,6 @@ can you help her debug? any stackexchange topics on this? [https://t.co/1Ksgxae0
 
 Twitter • 09-Mar-22 06:03 AM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 not much right...
 
@@ -1565,9 +1319,7 @@ nails it!
 
 there is just no bachelor, career, team, predertermined development plan and performance talks could ever provide for this.
 
-only the transdisciplinary art of "token engineering"... this just puts me in awe, and I'm so grateful
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+only the transdisciplinary art of "token engineering"... this just puts me in awe, and I'm so grateful <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 (edited)
 
@@ -1579,9 +1331,7 @@ only the transdisciplinary art of "token engineering"... this just puts me in aw
 
 (btw. this can be also played with WoWW game /cc @nic for the ReFi bootcamp)
 
-however, there is no reasonable change if we "fight the system" - we need to integrate all worldviews and come up with a model that computes through all of them
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+however, there is no reasonable change if we "fight the system" - we need to integrate all worldviews and come up with a model that computes through all of them <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -1617,9 +1367,7 @@ _10-Mar-22 12:24 PM_:
 
 solsista
 
-[however, there is no reasonable change if we "fight the system" - we need to integrate all worldviews and come up with a model that computes through all of them](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[however, there is no reasonable change if we "fight the system" - we need to integrate all worldviews and come up with a model that computes through all of them](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -1627,42 +1375,29 @@ _10-Mar-22 12:24 PM_:
 
 Wow such synchronicity @Mount Manu and I were literally talking about this 10 mins ago
 
-<img src="https://twemoji.maxcdn.com/2/72x72/26a1.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _10-Mar-22 12:26 PM_:
-link pls "Algebra of Conscience."
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f924.png" width=50 height=50>
+link pls "Algebra of Conscience." <img src="https://twemoji.maxcdn.com/2/72x72/1f924.png" width=20 height=20>
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
 _10-Mar-22 12:26 PM_:
 
-Yeah I keep forgetting we all would do well to recognize the irony in this Pink Floyd song: [https://www.youtube.com/watch?v=nDbeqj-1XOo](https://www.youtube.com/watch?v=nDbeqj-1XOo)
-
-[Faris Chugthai](https://www.youtube.com/channel/UC2nsIKrJxDwBqvKtZhqZllw)
-
-Pink Floyd - Us and Them
+Yeah I keep forgetting we all would do well to recognize the irony in this Pink Floyd song: 
+[Pink Floyd - Us and Them](https://www.youtube.com/watch?v=nDbeqj-1XOo)
 
 Us and Them And after all we're only ordinary men Me, and you God only knows it's not what we would choose to do Forward he cried from the rear and the front rank died And the General sat, as the lines on the map moved from side to side Black and Blue And who knows which is which and who is who Up and Down And in the end it's only rou...
 
 ![https://i.ytimg.com/vi/nDbeqj-1XOo/hqdefault.jpg](https://i.ytimg.com/vi/nDbeqj-1XOo/hqdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
 solsista
 
-[link pls "Algebra of Conscience."](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f924.png" width=50 height=50>
+[link pls "Algebra of Conscience."](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f924.png" width=20 height=20>
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -1670,23 +1405,14 @@ _10-Mar-22 12:28 PM_:
 
 This is a description directly from the book: Conscience is an essential human attribute. Nevertheless, in the construction of formal models of the subject it is customarily left outside the framework of theoretical analysis. The Algebra of Conscience, whose first edition appeared in 1982, was the first specialized work modeling the phenomenon of conscience. **The method used in this book made it possible to connect moral experience with decision-making procedures on the level of mathematical models.** The application of such models allows us to propose the hypothesis of two fundamentally different ethical systems determining the normative patterns of human behavior in situations of conflict. Under the first ethical system the subject's self-esteem is raised if the subject seeks to resolve the conflict; in the second it is raised by seeking to dramatize the conflict. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 And one may find the book here: [http://library.lol/main/7B5271F91615A8C181EF9EDA7D653B6C](http://library.lol/main/7B5271F91615A8C181EF9EDA7D653B6C)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -1712,9 +1438,6 @@ I've been thinking about newcomers to 0mega and also starting the crowdsourced c
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/951571396511797268/ka.gif](https://cdn.discordapp.com/attachments/810180622634844202/951571396511797268/ka.gif)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -1726,13 +1449,7 @@ Transaction 0x775b9485bcff6d9a814bbfcfa58220e396e906dad9a4bccbe6d5...
 
 View transaction 0x775b9485bcff6d9a814bbfcfa58220e396e906dad9a4bccbe6d5681b05c3a4f8 on Gnosis Chain
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-4
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
 
@@ -1747,9 +1464,6 @@ stef
 _10-Mar-22 04:04 PM_:
 Thank you
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f33c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -1811,13 +1525,7 @@ solsista
 _11-Mar-22 05:10 AM_:
 Yep, I've seen the Miro... there's something deep and powerful brewing here! I'm intrinsically drawn to this, due to a je ne sais quoi. Not a Gitcoin raving fan but totally in for this!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2600.png" width=50 height=50>
 
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -1847,9 +1555,6 @@ _11-Mar-22 05:31 AM_:
 
 True, let's keep the Notion as an MVP but play a bit with some curations in it. With this idea of multimedia and annotations, also cross-references as it seems how we think in Omega. It'll be more fun to explore and curate content. Let's migrate after, if it makes sense, to a more customized app (like a massive TE wiki deployed in Netlify as @stef suggested). The obvious advantage of the Library over a classic wiki would be the quality of curations/curators, the specifity and broadness of knowledge and its application to the TE inner game.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -1857,24 +1562,13 @@ _11-Mar-22 05:38 AM_:
 
 !praise @nic for design prototypes on how to annotate the C Library!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 !praise @solsista for a great synthesis doc on how and why contribute to the C Library!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
-I just saw the Interstellar pic - it made me wonder if Polaris would eventually take us to Lazarus for a deep library read!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+I just saw the Interstellar pic - it made me wonder if Polaris would eventually take us to Lazarus for a deep library read! <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -1904,9 +1598,6 @@ I'm starting to see the connection of books, commons, library, knowledge sharing
 
 !praise @Letty and @Mert Ozd for moving the TE Consilience Library from idea to convition vote each step of the process and helping each other
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -1914,9 +1605,6 @@ _11-Mar-22 06:17 AM_:
 
 !praise @nic and @MargaritaDave for their heart-felt and analytic input on criteria to how the contributions to a Living Library within the Consilience Space should be systematized, it made synthesizing why and how to contribute in the new template a breeze, energizing peace of work
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -1944,18 +1632,14 @@ _11-Mar-22 07:37 AM_:
 
 me too, but initially it is important that we do have interesting and useful (inspiring) curations... my intuition is that collective curation might help additionally, let's see how it works over the weekend for us
 
-I guess we will have too many
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+I guess we will have too many <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 from a few, the typical power law distribution... but that's good that we see what is happening, and whether it is something we need to incentivize and how
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 _11-Mar-22 07:40 AM_:
-Yes, we are a technocracy in itself!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+Yes, we are a technocracy in itself! <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 Look - this is the computer science problem the Library also faces in it "it/its" category: [https://en.wikipedia.org/wiki/Linked_data#Linked_open_data](https://en.wikipedia.org/wiki/Linked_data#Linked_open_data)
 
@@ -1967,13 +1651,7 @@ In computing, linked data (often capitalized as Linked Data) is structured data 
 
 I'm also part of a group which is looking a this from a meta-ontology perspective, while the abstractions are breathtaking, the "practical" steps or community embodiment is "freeze and fly".
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-1
 
 I'll try a short collection curation this week-end that connects the economics, legal and ethics petals with this topic: [https://books2read.com/b/cryptowars](https://books2read.com/b/cryptowars)
 
@@ -1987,9 +1665,6 @@ Crypto Wars: Faked Deaths, Missing Billions and Industry Disruption by Erica Sta
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -2008,9 +1683,6 @@ The one I pointed out has a trojan horse alert on my anti-virus?
 _11-Mar-22 10:00 AM_:
 !praise @Mert Ozd for karate chopping the 0mega Administrative Work thread
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f977.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -2030,32 +1702,18 @@ _11-Mar-22 10:33 AM_:
 
 !praise @bear100 for providing feedback on pinned messages, really helpful in improving the experience of joining 0mega
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 !praise @solsista for creating outfacing library contribution template (from @Mert Ozd but it didn’t work)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 !praise @Jolly LaMa for sharing feedback on pinned messages
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 !praise @UniPuff 🜐🐙 on sharing in depth the current experience of participating in 0mega, the limitations we’re experiencing in the platform used and also recommendations on how the problem may be solved
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _11-Mar-22 10:44 AM_:
-Found on twitter
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+Found on twitter <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 moving past us vs the world or you vs me thinking, unity in diversity of thought (edited)
 
@@ -2065,9 +1723,7 @@ moving past us vs the world or you vs me thinking, unity in diversity of thought
 
 nic
 
-[Found on twitter  moving past us vs the world or you vs me thinking, unity in diversity of thought  (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+[Found on twitter  moving past us vs the world or you vs me thinking, unity in diversity of thought  (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 <h3>MargaritaDave <img src="https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png" width=25 height=25></h3>
 
@@ -2081,9 +1737,6 @@ _11-Mar-22 05:26 PM_:
 
 @MargaritaDave @nic Are you guys aware of an existing management theory pointing towards "beautiful constraints"? I used to present/implement it in corporate/startup settings with a high level of uncertainty or very risk-innovative prone. It plays beautifully with the enabling constraints we want to see in the onboarding/library/sessions initiatives and working style. It goes like this: (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/951969380433023056/Screenshot_2022-03-11_at_23.20.29.png](https://cdn.discordapp.com/attachments/810180622634844202/951969380433023056/Screenshot_2022-03-11_at_23.20.29.png)
 
@@ -2099,9 +1752,6 @@ _11-Mar-22 05:36 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/951972502454804500/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/951972502454804500/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 **to include in the library**Anecdote quotation: I came back to this management consulting theory while sensing/analysing proved approaches to use and enable token engineering initiatives. Funnily enough, in the presentation at hand I had used the next scenario and propelling question for the audience to play with: How we can guarantee a universal basic income for all + when robots have the job roles?
 
@@ -2117,13 +1767,7 @@ _11-Mar-22 05:56 PM_:
 
 will reread Mari Ruti after i get through 'Abstract Sex/ Philosophy, Bio-Technology and the Mutations of Desire' Luciana Parisi (kind of a Deleuzian view on Margulis)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2695.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -2167,9 +1811,6 @@ _12-Mar-22 09:14 AM_:
 
 i woke up thinking about libraries: libraries often hold community outreach events designed to be all inclusive. readings sure, but arts and crafts, speeches, small musical gatherings, talent contests. - all to stir the community stew and unlock any stagnate cultural value that has cropped up unnoticed. they are often fundraising events. the smell of the books ... i wonder what the modern version of that will be. - bold ambitions and significant constraint
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4d8.png" width=50 height=50>
-
-2
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -2205,16 +1846,12 @@ By Dick Bryan
 
 nic
 
-[Found on twitter  moving past us vs the world or you vs me thinking, unity in diversity of thought  (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+[Found on twitter  moving past us vs the world or you vs me thinking, unity in diversity of thought  (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _14-Mar-22 04:47 PM_:
-interesting... but I must say behavorial game theory imv is utterly reductionist, would prefer poetry over it every time
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+interesting... but I must say behavorial game theory imv is utterly reductionist, would prefer poetry over it every time <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 "Tit for Tat: Tit for Tat is a strategy by which you cooperate when the others cooperate and punish when others defect. I think it is a good heuristic on a personal level. You, a priori, show your intention to be cooperative and positive-sum, and only when the other player shows a different intention you punish or defect. Whenever they show their willingness to cooperate again, you switch back to cooperation as well. Depending on the situation you might also apply Tit Tit for Tat since others might have defected because of difficult circumstances or because they aren’t used to this kind of thinking and it might be important to show a willingness for cooperation for a healthy long-term relationship." [https://www.mariushobbhahn.com/2020-11-22-Culture_game_theory/](https://www.mariushobbhahn.com/2020-11-22-Culture_game_theory/)
 
@@ -2224,9 +1861,6 @@ Culture in the group mentality sense, not the Mozart and Pyramids sense!
 
 ![https://www.mariushobbhahn.com/img/avatar-icon.png](https://www.mariushobbhahn.com/img/avatar-icon.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 as said it is a heuristic, one cannot engineer culture and execute ... however one can design environments, enable self-knowledge etc
 
@@ -2241,15 +1875,9 @@ Letty
 _14-Mar-22 04:49 PM_:
 royalty income trust
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 if a machine replaces a humans job, it learnt it from the data the humans provided --> royalties
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -2281,11 +1909,8 @@ this always reminds me of "dimension lifting"
 
 to make sense of something that is hard to grasp you need to lift the dimension
 
-[https://www.youtube.com/watch?v=-wv0vxVRGMY](https://www.youtube.com/watch?v=-wv0vxVRGMY)
 
-[bmspriTermusic](https://www.youtube.com/channel/UCeceDwJTNVf2qs6r4xlZbwg)
-
-Carl Sagan: Flatland Animated
+[Carl Sagan: Flatland Animated](https://www.youtube.com/watch?v=-wv0vxVRGMY)
 
 UPDATE: Flatland Animated has been selected to be screened in the 2012 Kingston Canadian Film Fest Local Shorts Program!! UPDATE: Flatland Animated has been nominated for the Kingston Canadian Film Festival Steam Whistle Homebrew Award for Best Local Short! Just a quick animation I decided to do of a clip from Carl Sagan's Cosmos. This segmen...
 
@@ -2327,9 +1952,7 @@ solsista
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
-_15-Mar-22 10:24 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f463.png" width=50 height=50>
+_15-Mar-22 10:24 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f463.png" width=20 height=20>
 
 [https://youtu.be/jzvyxQ5byt4?t=1006](https://youtu.be/jzvyxQ5byt4?t=1006) i think you all will really appreciate the language towards the end of this about 'living the story', or 'Rasa'. the whole thing is good, but from 16 onward, there's so many related nuggets in there i had to repeatedly stop and ponder, stop and ponder.
 
@@ -2341,9 +1964,6 @@ On the occasion of Mahashivratri know about the importance of Shiva. Continuitie
 
 ![https://i.ytimg.com/vi/jzvyxQ5byt4/maxresdefault.jpg](https://i.ytimg.com/vi/jzvyxQ5byt4/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6d5.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
 
@@ -2406,25 +2026,16 @@ you might argue about a theory of sound money, i.e. it should be deflationary or
 
 but obviously "social capital" is a pure mind construct...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f37b.png" width=50 height=50>
-
-1
 
 money/tokens is too, but mostly people feel there are theories that are god given so they don't question the minting/distribution mechanisms
 
 and the strange loop takes us back: autonomy
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 the concept of radical agility is also important:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/953590847998423080/radical-agility-teammood-illu-001-1.png](https://cdn.discordapp.com/attachments/810180622634844202/953590847998423080/radical-agility-teammood-illu-001-1.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f497.png" width=50 height=50>
-
-1
 
 how do we live this concept? there's no playbook or a how to to it, just like the agile manifesto didn't initially
 
@@ -2437,9 +2048,7 @@ solsista
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 _16-Mar-22 06:18 AM_:
-Siri Hustvedt
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f499.png" width=50 height=50>
+Siri Hustvedt <img src="https://twemoji.maxcdn.com/2/72x72/1f499.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -2455,9 +2064,6 @@ autonomy: the capacity of an agent to act in accordance with objective morality 
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/953647093615042560/OmegaOmorning.png](https://cdn.discordapp.com/attachments/810180622634844202/953647093615042560/OmegaOmorning.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -2470,19 +2076,11 @@ yes - also "memetic desire"
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _16-Mar-22 12:59 PM_:
-Did you know...our proposal passed
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+Did you know...our proposal passed <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
 
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -2508,9 +2106,6 @@ For the gitcoin idea @Mert Ozd I think we could def make a proposal in gitcoin..
 
 By initiatives and exploration I mean, what everyone is doing to try and figure out how to make Living Library succesful...and how to make the Ethics Participatory Research successful
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2b50.png" width=50 height=50>
-
-2
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -2518,9 +2113,6 @@ _16-Mar-22 03:48 PM_:
 
 I'm exploring play to l(earn) via onboarding, library value flows exploration, curation exploration
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -2538,9 +2130,6 @@ _16-Mar-22 04:09 PM_:
 
 !praise @nic for preparing amazing working style for 0mega. AMAZİNG WORK
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -2558,9 +2147,7 @@ Initiatives Mapping
 
 [https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/0mega?node-id=0%3A1](https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/0mega?node-id=0%253A1)
 
-Please don't use until Monday 21st but feel free to check it out! Please react with
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+Please don't use until Monday 21st but feel free to check it out! Please react with <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 emoji if you're interested in mapping out what energises you and maybe we can find a way to energise you in 0mega! (edited)
 
@@ -2570,19 +2157,10 @@ Created with FigJam
 
 [https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/thumbnail?ver=thumbnails/cd85c50c-298a-4687-b2bb-af79be242b96](https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/thumbnail?ver=thumbnails/cd85c50c-298a-4687-b2bb-af79be242b96)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
-
-1
 
 I can add chat, or people can comment in the initiatives area in the map if they want as well....this way we can start migration of work chats there? I also showed markdown notes where we can write updates on the initiatives
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-3
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
@@ -2593,17 +2171,13 @@ I have to hop off but this was an amazing session ! thanks everybody !!!!!
 <h3>UniPuff 🜐🐙 <img src="https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png" width=25 height=25></h3>
 
 _16-Mar-22 04:35 PM_:
-Also, any links to a place where a lot of resources about 0mega are gathered, we could add it to the channel description above so that anybody can immediately and easily acces it
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f53c.png" width=50 height=50>
+Also, any links to a place where a lot of resources about 0mega are gathered, we could add it to the channel description above so that anybody can immediately and easily acces it <img src="https://twemoji.maxcdn.com/2/72x72/1f53c.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png](https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png)
 
 UniPuff 🜐🐙
 
-[Also, any links to a place where a lot of resources about 0mega are gathered, we could add it to the channel description above so that anybody can immediately and easily acces it](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f53c.png" width=50 height=50>
+[Also, any links to a place where a lot of resources about 0mega are gathered, we could add it to the channel description above so that anybody can immediately and easily acces it](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f53c.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -2628,9 +2202,7 @@ _16-Mar-22 04:38 PM_:
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _16-Mar-22 04:42 PM_:
-I think it's Vy who does pins! I've asked before
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+I think it's Vy who does pins! I've asked before <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -2653,16 +2225,12 @@ Zeptimus
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _16-Mar-22 04:48 PM_:
-I cant pin either currently
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+I cant pin either currently <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _16-Mar-22 04:51 PM_:
-@nic how do we want to call the board? Cockpit? Gameboard? Playing ground?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+@nic how do we want to call the board? Cockpit? Gameboard? Playing ground? <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 Here are the notes from today and agenda for next week, please have a look if we should add something [https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.d4qbqm90bswa](https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.d4qbqm90bswa)
 
@@ -2673,9 +2241,7 @@ WG 0mega - Agenda (Weekly Wed. 8PM CET)
 
 nic
 
-[I cant pin either currently](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+[I cant pin either currently](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -2710,31 +2276,17 @@ awesome!!!
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _16-Mar-22 05:06 PM_:
-!praise @Zeptimus for helping us pin messages at 0mega
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+!praise @Zeptimus for helping us pin messages at 0mega <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 now it will be easier for newcomers to get info about 0mega
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-2
 
 !praise @Mount Manu for letting me test the energising initiatives idea on him. Very helpful in improving it so that it can be a better experience when I do 1-1 with members of 0mega (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 !praise @bear100 for sharing with us his perception of the library, based on what's been shared so far. Very helpful in understanding what is exciting about our initiatives and what info can be received from what's been shared (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -2742,25 +2294,13 @@ _16-Mar-22 05:55 PM_:
 
 !praise @nic for building the 0mega cockpit prototype
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/953773539759095828/cckpt_v3_13_.png](https://cdn.discordapp.com/attachments/810180622634844202/953773539759095828/cckpt_v3_13_.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
-
-1
 
 if we all contribute to "the best of our knowledge" I trust this will be one of those hyper helpful contributions to a token engineering commons
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -2772,9 +2312,7 @@ What will next week's call be about? I want to add it to the event description s
 
 solsista
 
-[@nic how do we want to call the board? Cockpit? Gameboard? Playing ground?](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[@nic how do we want to call the board? Cockpit? Gameboard? Playing ground?](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -2782,9 +2320,6 @@ _16-Mar-22 08:15 PM_:
 
 would archipelago be weird? each sub-initiative is like a pirate ship and we're following our own maps to the treasure within each island (initiatives)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -2792,9 +2327,6 @@ _16-Mar-22 08:17 PM_:
 
 I would go with the space allegory for the coordination in Omega. As a North Star (literally) for all Earth or initiatives travellers - impact pirates below.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -2808,9 +2340,6 @@ _16-Mar-22 08:21 PM_:
 
 That also goes well with the energy component - as the Osa Major being the first star implosion and still providing 'food/light' to the time-based seedlings looking up for guidance/inspiration.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-3
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -2818,13 +2347,7 @@ _16-Mar-22 08:36 PM_:
 
 Some naming/branding: - Omega as the Universal compass - Polaris, North Star, Osa Major. - A new energy-based cartography for future-looking initiatives: Copernicus and Kepler revisited. - Initiatives (library, degrees, ethics, books) as islands/stars/constellations woven by research or black matter. - Self-sovereign agency to decide which rocket to hop on: informed by curated processes and a 360 map to experientially explore possibilities (territories/islands/constellations) around ✓ The luring of the Kosmocentric Worldview
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
 
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -2835,15 +2358,10 @@ nic
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _17-Mar-22 12:59 PM_:
-I'm game with anything pirates... and ships
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+I'm game with anything pirates... and ships <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/954061699223277608/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/954061699223277608/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c-1f3fd.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -2872,9 +2390,7 @@ I assumed she meant Ursa Major
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _17-Mar-22 01:02 PM_:
-but you're inspiring currently the next iteration of Impact Pirates
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+but you're inspiring currently the next iteration of Impact Pirates <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -2885,17 +2401,12 @@ nic
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _17-Mar-22 01:03 PM_:
-ahhh yes star compas
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
+ahhh yes star compas <img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=20 height=20>
 
 (edited)
 
-have I shared this before? [https://www.youtube.com/watch?v=TWm52IPPZjI](https://www.youtube.com/watch?v=TWm52IPPZjI)
-
-[OiwiTV](https://www.youtube.com/channel/UCbcKIlVtF80Z-0EZW_oNa3g)
-
-Worldwide Voyage - The Star Compass
+have I shared this before? 
+[Worldwide Voyage - The Star Compass](https://www.youtube.com/watch?v=TWm52IPPZjI)
 
 Nainoa Thompson explains the Hawaiian star compass used for navigation and how it was designed.
 
@@ -2919,9 +2430,6 @@ _17-Mar-22 01:07 PM_:
 
 gonna be so fun!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -2938,45 +2446,28 @@ Yes!
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _17-Mar-22 06:27 PM_:
-Manu, Andrea and I have formed a curation group
+Manu, Andrea and I have formed a curation group <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-super excited to see other groups form too
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
+super excited to see other groups form too <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=20 height=20>
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 _18-Mar-22 12:15 AM_:
 I’ve been doing some research about libraries (something I never planned on doing, but that I’m really enjoying haha). About the concept itself of what a library is, the history, the impact they’ve had, their evolution through time and how are they being envisioned for the future. And all of this talking about physical libraries to be clear, but it’s been a great exercise to reflect on it and how it can be apply to an online version of it. And something I realized is that there’s already people who are doing a lot of work on the innovation part of what libraries mean for the community and how they can operate better to serve its purpose. So I thought that maybe it would be interesting to bring someone who’s in that space and that can give us a different perspective on this matter and some valuable ideas due to their expertise with libraries. Basically bringing an expert in libraries if we want to build a library and hear what they have to say would be something worth it
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
 nic
 
-[Manu, Andrea and I have formed a curation group  super excited to see other groups form too](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
+[Manu, Andrea and I have formed a curation group  super excited to see other groups form too](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _18-Mar-22 04:38 AM_:
-wonderful - this is much better than a "directed" formation, like 0mega - love it
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f63b.png" width=50 height=50>
+wonderful - this is much better than a "directed" formation, like 0mega - love it <img src="https://twemoji.maxcdn.com/2/72x72/1f63b.png" width=20 height=20>
 
 random
 
@@ -2988,9 +2479,7 @@ just caught my eye when I was closing the window
 
 bear100
 
-[I’ve been doing some research about libraries (something I never planned on doing, but that I’m really enjoying haha). About the concept itself of what a library is, the history, the impact they’ve had, their evolution through time and how are they being envisioned for the future. And all of this talking about physical libraries to be clear, but it’s been a great exercise to reflect on it and how it can be apply to an online version of it. And something I realized is that there’s already people who are doing a lot of work on the innovation part of what libraries mean for the community and how they can operate better to serve its purpose. So I thought that maybe it would be interesting to bring someone who’s in that space and that can give us a different perspective on this matter and some valuable ideas due to their expertise with libraries. Basically bringing an expert in libraries if we want to build a library and hear what they have to say would be something worth it](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[I’ve been doing some research about libraries (something I never planned on doing, but that I’m really enjoying haha). About the concept itself of what a library is, the history, the impact they’ve had, their evolution through time and how are they being envisioned for the future. And all of this talking about physical libraries to be clear, but it’s been a great exercise to reflect on it and how it can be apply to an online version of it. And something I realized is that there’s already people who are doing a lot of work on the innovation part of what libraries mean for the community and how they can operate better to serve its purpose. So I thought that maybe it would be interesting to bring someone who’s in that space and that can give us a different perspective on this matter and some valuable ideas due to their expertise with libraries. Basically bringing an expert in libraries if we want to build a library and hear what they have to say would be something worth it](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -2998,9 +2487,6 @@ _18-Mar-22 04:40 AM_:
 
 love the idea - let's keep our eyes open ... and just realizing a friend of min is librarian
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 hahha OMG
 
@@ -3010,11 +2496,8 @@ let me know if you really mean it hahha - I'll see, but I would prefer a crazy o
 
 else the chasm is too big, one hardly hears a sound in conversations (edited)
 
-[https://www.youtube.com/watch?v=P9jY3mPy7cs](https://www.youtube.com/watch?v=P9jY3mPy7cs)
 
-[Sandy](https://www.youtube.com/channel/UCgPx_HwpREcdJ1Jf5C9Bm4A)
-
-Here's To The Crazy Ones
+[Here's To The Crazy Ones](https://www.youtube.com/watch?v=P9jY3mPy7cs)
 
 "Here's To The Crazy Ones. The misfits. The rebels. The trouble-makers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules, and they have no respect for the status-quo. You can quote them, disagree with them, glorify, or vilify them.About the only thing you can't do is ignore them. Because they cha...
 
@@ -3024,9 +2507,7 @@ Here's To The Crazy Ones
 
 nic
 
-[Manu, Andrea and I have formed a curation group  super excited to see other groups form too](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
+[Manu, Andrea and I have formed a curation group  super excited to see other groups form too](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -3040,9 +2521,6 @@ remember to make comments about the template itself too- how does it work for yo
 
 I would assume that a reference is published in one domain (x) but makes strong connections to other domains (y)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 sometimes (rarely if in academia) a reference is published in interdisciplinary space than it could be (x & y) & (x' & y') etc
 
@@ -3104,9 +2582,6 @@ started on moving notion into a site [https://consilib90210-39f36.stackbit.app/]
 
 Home
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
-
-7
 
 <h3>UniPuff 🜐🐙 <img src="https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png" width=25 height=25></h3>
 
@@ -3120,17 +2595,8 @@ Created with Figma
 
 [https://www.figma.com/file/DfE39ju6rmpHl9yreC6MSh/thumbnail?ver=thumbnails/d9691a59-4fde-493c-96be-fca2c183ba28](https://www.figma.com/file/DfE39ju6rmpHl9yreC6MSh/thumbnail?ver=thumbnails/d9691a59-4fde-493c-96be-fca2c183ba28)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f499.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/emojis/835409757183279134.png](https://cdn.discordapp.com/emojis/835409757183279134.png)
 
@@ -3138,9 +2604,6 @@ Created with Figma
 
 Everybody is welcome to add to it!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-4
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -3151,9 +2614,7 @@ solsista
 <h3>UniPuff 🜐🐙 <img src="https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png" width=25 height=25></h3>
 
 _18-Mar-22 08:00 AM_:
-@solsista Can you share a better resolution version of the image? I can't see anything!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=50 height=50>
+@solsista Can you share a better resolution version of the image? I can't see anything! <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -3164,17 +2625,13 @@ solsista
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _18-Mar-22 10:35 AM_:
-Yes we plan on meeting on Monday to use the template and write feedback
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+Yes we plan on meeting on Monday to use the template and write feedback <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png](https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png)
 
 UniPuff 🜐🐙
 
-[@solsista Can you share a better resolution version of the image? I can't see anything!](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=50 height=50>
+[@solsista Can you share a better resolution version of the image? I can't see anything!](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -3203,65 +2660,34 @@ _18-Mar-22 12:46 PM_:
 
 whaaa psychedelic! where's @SatoriD ?!
 
-I'm still catching up on the poetic trail he left here, ping @SatoriD
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+I'm still catching up on the poetic trail he left here, ping @SatoriD <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _18-Mar-22 12:47 PM_:
-!praise @stef for starting to move library contents towards a site and outside of notion
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+!praise @stef for starting to move library contents towards a site and outside of notion <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 this makes the library prototype more accessible for people! really great! (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-4
 
 !praise @UniPuff 🜐🐙 for starting on working on design ideas around the crypto economic flower and paving the way for experimentation on library website navigation that feels innovative and interactive. It will make the library experience very cool! (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-3
 hahaha I'm loving the energy here so much
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-1
 
 !praise @bear100 for brilliant idea of bringing people with experience in innovations around living library in to share 0mega. We can learn a lot and create something truly amazing! (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-4
-for @UniPuff 🜐🐙 's idea of using the petal for navigation...we could use threejs +react three fiber in the website since it looks like its in react/nextjs? also @Jolly LaMa has been working on a site as well around mentoring, I wonder if him and @stef could collab..I wonder if artists can be connected to mentors so they can get onboarded to web3?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+for @UniPuff 🜐🐙 's idea of using the petal for navigation...we could use threejs +react three fiber in the website since it looks like its in react/nextjs? also @Jolly LaMa has been working on a site as well around mentoring, I wonder if him and @stef could collab..I wonder if artists can be connected to mentors so they can get onboarded to web3? <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 (edited)
-!praise @Mount Manu @Andrea @Nate0909 for joining me in reading/learning + meditation + curation group
+!praise @Mount Manu @Andrea @Nate0909 for joining me in reading/learning + meditation + curation group <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-it is tons of fun to grow and learn together and work together towards a goal
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+it is tons of fun to grow and learn together and work together towards a goal <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50>
-
-1
 
 <h3>UniPuff 🜐🐙 <img src="https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png" width=25 height=25></h3>
 
@@ -3269,25 +2695,10 @@ _18-Mar-22 12:58 PM_:
 
 !praise @nic for all this praise and for being mindful for all contributions so far!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -3295,9 +2706,6 @@ _18-Mar-22 01:05 PM_:
 
 What's nic gonna say!?!? I wanna know!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png](https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png)
 
@@ -3308,9 +2716,7 @@ UniPuff 🜐🐙
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _18-Mar-22 01:05 PM_:
-It looks like you don't have praise powers! If you write a message in #🚸｜orientation asking for praise powers you can get them
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=50 height=50>
+It looks like you don't have praise powers! If you write a message in #🚸｜orientation asking for praise powers you can get them <img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -3319,9 +2725,7 @@ _18-Mar-22 01:32 PM_:
 
 [https://calendly.com/nic8/mapping-energy-sources](https://calendly.com/nic8/mapping-energy-sources)
 
-our 1-1 calls for mapping energy sources
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+our 1-1 calls for mapping energy sources <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 I apologise for only having 3 days available. We will be using the information you share with us during that call in our 0mega wg call on wednesday, so that we can map out value flows for this working group. Please feel free to ask me any questions if something is confusing in choosing a time slot, or about what we will do on the call, or what we will do on wednesday. (edited)
 
@@ -3331,34 +2735,21 @@ We will be mapping out your motivations, energy sources and energy drains. This 
 
 ![https://assets.calendly.com/assets/ogimage-580d3a8621e91e703045f669f2ecaaa830761eeede7e142c135cee0a0b475faf.png?source=opengraph](https://assets.calendly.com/assets/ogimage-580d3a8621e91e703045f669f2ecaaa830761eeede7e142c135cee0a0b475faf.png?source=opengraph)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
 nic
 
-[for @UniPuff 🜐🐙 's idea of using the petal for navigation...we could use threejs +react three fiber in the website since it looks like its in react/nextjs? also @Jolly LaMa has been working on a site as well around mentoring, I wonder if him and @stef could collab..I wonder if artists can be connected to mentors so they can get onboarded to web3?   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+[for @UniPuff 🜐🐙 's idea of using the petal for navigation...we could use threejs +react three fiber in the website since it looks like its in react/nextjs? also @Jolly LaMa has been working on a site as well around mentoring, I wonder if him and @stef could collab..I wonder if artists can be connected to mentors so they can get onboarded to web3?   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _18-Mar-22 01:32 PM_:
-highly recommend taking the 1:1 with @nic or pls bug them
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+highly recommend taking the 1:1 with @nic or pls bug them <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 to see these potentially complementary skills and intrinsic motivations on the figjam of archipelagos
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -3368,9 +2759,7 @@ nic
 
 [https://calendly.com/nic8/mapping-energy-sources](https://calendly.com/nic8/mapping-energy-sources)
 
-our 1-1 calls for mapping energy sources
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+our 1-1 calls for mapping energy sources <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 I apologise for only having 3 days available. We will be using the information you share with us during that call in our 0mega wg call on wednesday, so that we can map out value flows for this working group. Please feel free to ask me any questions if something is confusing in choosing a time slot, or about what we will do on the call, or what we will do on wednesday.  (edited)
 
@@ -3380,40 +2769,21 @@ _18-Mar-22 01:33 PM_:
 
 hahah was just thinking the same
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61c.png" width=50 height=50>
-
-1
 
 !praise @nic for displaying super steward powers, not just caring for the content, but especially for the creators, having that special sense for cohesion, and a big heart
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f340.png" width=50 height=50>
-
-1
-thank you
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+thank you <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ❤️
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
 solsista
 
-[I'm still catching up on the poetic trail he left here, ping @SatoriD](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[I'm still catching up on the poetic trail he left here, ping @SatoriD](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
@@ -3421,9 +2791,6 @@ _19-Mar-22 05:35 PM_:
 
 one more time
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
-
-1
 
 [https://tenor.com/view/genie-rub-lamp-aladdin-gif-4756208](https://tenor.com/view/genie-rub-lamp-aladdin-gif-4756208)
 
@@ -3444,9 +2811,7 @@ Instantly I related with it and thought it could be a really really interesting,
 
 [https://critterzdocs.notion.site/Critterz-Documentation-ab014615fbec4e4ca2349ebfdbdadaf1](https://www.notion.so/Critterz-Documentation-ab014615fbec4e4ca2349ebfdbdadaf1)
 
-so then I thought that maybe it would be possible to take these two projects together and use them for what Omega is wanting to do, maybe we could be talking about the first online living library represented as a real life library (with all the good stuff that comes with it) in the metaverse that could have an innovative and sustainable revenue model as well. I just think it could bring so so many super interesting possibilities to this project. Check the links out and let me know what you guys think or if Ive just completely lost my mind haha
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61d.png" width=50 height=50>
+so then I thought that maybe it would be possible to take these two projects together and use them for what Omega is wanting to do, maybe we could be talking about the first online living library represented as a real life library (with all the good stuff that comes with it) in the metaverse that could have an innovative and sustainable revenue model as well. I just think it could bring so so many super interesting possibilities to this project. Check the links out and let me know what you guys think or if Ive just completely lost my mind haha <img src="https://twemoji.maxcdn.com/2/72x72/1f61d.png" width=20 height=20>
 
 [Reporter ohne Grenzen](https://www.youtube.com/channel/UCCsMZhF_-KV0Dz8vFmKzmpA)
 
@@ -3464,29 +2829,18 @@ Critterz Documentation
 
 Website ∙ Twitter ∙ Discord ∙ OpenSea ∙ 中文
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 Also, after you check the links out and it all makes sense, I even made a fun connection between the beautiful idea of the archipelagos with this particular plot of land
 
 [https://opensea.io/assets/0x3d7f0f28e1d42082e3de70ec4c9d1d59a07affb9/46086](https://opensea.io/assets/0x3d7f0f28e1d42082e3de70ec4c9d1d59a07affb9/46086)
 
 and what could be build on it.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3dd.png" width=50 height=50>
-
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61d.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f61d.png" width=20 height=20>
 
 (edited)
 
 Plot (-39,59) - Critterz Plots - OpenSea
 
 A collection of 62,500 genesis Plots of land. Get a Plot to access the Critterz metaverse in Minecraft. Each Plot of land is 64 by 64 Minecraft blocks in size. Only owners of the Plots can build or destroy any blocks on it. You wi
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
 
@@ -3504,9 +2858,7 @@ Instantly I related with it and thought it could be a really really interesting,
 
 [https://critterzdocs.notion.site/Critterz-Documentation-ab014615fbec4e4ca2349ebfdbdadaf1](https://www.notion.so/Critterz-Documentation-ab014615fbec4e4ca2349ebfdbdadaf1)
 
-so then I thought that maybe it would be possible to take these two projects together and use them for what Omega is wanting to do, maybe we could be talking about the first online living library represented as a real life library (with all the good stuff that comes with it) in the metaverse that could have an innovative and sustainable revenue model as well. I just think it could bring so so many super interesting possibilities to this project. Check the links out and let me know what you guys think or if Ive just completely lost my mind haha
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61d.png" width=50 height=50>
+so then I thought that maybe it would be possible to take these two projects together and use them for what Omega is wanting to do, maybe we could be talking about the first online living library represented as a real life library (with all the good stuff that comes with it) in the metaverse that could have an innovative and sustainable revenue model as well. I just think it could bring so so many super interesting possibilities to this project. Check the links out and let me know what you guys think or if Ive just completely lost my mind haha <img src="https://twemoji.maxcdn.com/2/72x72/1f61d.png" width=20 height=20>
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -3526,13 +2878,7 @@ home - consilience library
 
 ![https://dreamy-brattain-5cdc88.netlify.app/images/flower5l.png](https://dreamy-brattain-5cdc88.netlify.app/images/flower5l.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
 
@@ -3562,9 +2908,7 @@ Instantly I related with it and thought it could be a really really interesting,
 
 [https://critterzdocs.notion.site/Critterz-Documentation-ab014615fbec4e4ca2349ebfdbdadaf1](https://www.notion.so/Critterz-Documentation-ab014615fbec4e4ca2349ebfdbdadaf1)
 
-so then I thought that maybe it would be possible to take these two projects together and use them for what Omega is wanting to do, maybe we could be talking about the first online living library represented as a real life library (with all the good stuff that comes with it) in the metaverse that could have an innovative and sustainable revenue model as well. I just think it could bring so so many super interesting possibilities to this project. Check the links out and let me know what you guys think or if Ive just completely lost my mind haha
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61d.png" width=50 height=50>
+so then I thought that maybe it would be possible to take these two projects together and use them for what Omega is wanting to do, maybe we could be talking about the first online living library represented as a real life library (with all the good stuff that comes with it) in the metaverse that could have an innovative and sustainable revenue model as well. I just think it could bring so so many super interesting possibilities to this project. Check the links out and let me know what you guys think or if Ive just completely lost my mind haha <img src="https://twemoji.maxcdn.com/2/72x72/1f61d.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -3572,15 +2916,9 @@ _21-Mar-22 05:38 AM_:
 
 love it!! Another beauty of permissionless tech, is that we can have many different User experiences to the same underlying record of history... will try and check out the links before our synch, but maybe you can prep a 5-10 min overview /just some notes" --> this brings me to where do we keep track of these? on the archipelago map? look forward to this weeks session! @SatoriD also mentioned some ideas, or some resonance with projects he's been moving forward in the NFT space --> so our mindset should be thinking in "multipliers": which contributions will energize me, which can we reuse across the various user experience possibilities.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 @stef @bear100 @SatoriD please have a 1:1 session with @nic to get your energy flows onto the map, it will be helpful for our valueflows/workflows session
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -3593,28 +2931,19 @@ solsista
 _21-Mar-22 07:22 AM_:
 I have a 1-1 scheduled with them in the next 3 days
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
 nic
 
-[@Jeanne I'm in Kernel too! I'm interested in exploring the idea of having a self stock; how does one replenish their energy stock? How can we do more of that which energises us? How can we ensure our needs our met? Can we design systems that reward/energise people in other ways than financially? I only have some ideas at this point, but perhaps we can work together, in some way   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
+[@Jeanne I'm in Kernel too! I'm interested in exploring the idea of having a self stock; how does one replenish their energy stock? How can we do more of that which energises us? How can we ensure our needs our met? Can we design systems that reward/energise people in other ways than financially? I only have some ideas at this point, but perhaps we can work together, in some way   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=20 height=20>
 
 <h3>Jeanne <img src="https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png" width=25 height=25></h3>
 
 _21-Mar-22 08:11 AM_:
-hey @nic , happy to dig further with you
+hey @nic , happy to dig further with you <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
-
-I think that the common point between an individual concern of self-energy stock and the paradigm shift for a new economy is the value of relation... we can talk about it if you want, let me know
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+I think that the common point between an individual concern of self-energy stock and the paradigm shift for a new economy is the value of relation... we can talk about it if you want, let me know <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -3632,9 +2961,7 @@ Yes that would be so cool, if just like smart contracts, the library can have di
 
 Jeanne
 
-[hey @nic , happy to dig further with you  I think that the common point between an individual concern of self-energy stock and the paradigm shift for a new economy is the value of relation... we can talk about it if you want, let me know](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[hey @nic , happy to dig further with you  I think that the common point between an individual concern of self-energy stock and the paradigm shift for a new economy is the value of relation... we can talk about it if you want, let me know](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -3665,9 +2992,6 @@ Jeanne
 _21-Mar-22 08:50 AM_:
 Let me make a new one! I’m hoping @Nate0909 can come cause we’re working together on this as well so let me coordinate and I’ll send it to you
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -3719,16 +3043,11 @@ _21-Mar-22 10:13 AM_:
 
 I been thinking of the NFT redux as the symbol of omega and even later the unfolding of the NFT redux project, as both symbolizing and then actually being your personal compass, that guides your thru your crypto-flower journey
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _21-Mar-22 10:21 AM_:
-@nic here are some of my first thought on "cards" NFT redux. A guide to TEC and the web 3 universe. I want to have a structure that helps build foundation for a simple yet important skill set that we should be slightly
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f343.png" width=50 height=50>
+@nic here are some of my first thought on "cards" NFT redux. A guide to TEC and the web 3 universe. I want to have a structure that helps build foundation for a simple yet important skill set that we should be slightly <img src="https://twemoji.maxcdn.com/2/72x72/1f343.png" width=20 height=20>
 
 of change towards.
 
@@ -3754,9 +3073,6 @@ for what we all learn collectively and individually on this strange weird wild j
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/955473249200914443/IMG_2624.jpg](https://cdn.discordapp.com/attachments/810180622634844202/955473249200914443/IMG_2624.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50>
-
-1
 
 later I want to work up towards this
 
@@ -3769,18 +3085,10 @@ and personally i am working on my "school of thought" on how disembodied poetics
 the imaginarium made this one about 3 years ago
 
 now I realizing what it actually means... i think...
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
 
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-[https://www.youtube.com/watch?v=Q1hh0E2ejV8](https://www.youtube.com/watch?v=Q1hh0E2ejV8)
-
-[SatoriD](https://www.youtube.com/channel/UCcMViyRW8GMZxt8V1sLZBTA)
-
-Introducing Bucket Full Of Books
+[Introducing Bucket Full Of Books](https://www.youtube.com/watch?v=Q1hh0E2ejV8)
 
 “A great book allows me to leap over that wall: in a deep, significant conversation with another consciousness, I feel human and unalone.” ― David Shields, Reality Hunger: A Manifesto
 
@@ -3802,9 +3110,6 @@ _21-Mar-22 10:41 AM_:
 
 That's really cool - I see this language you're exploring as a whole new energy semantics in the space. Embodying the language for new capabilities with ourselves and others in the relations emerging...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -3812,9 +3117,6 @@ _21-Mar-22 11:28 AM_:
 
 emerging thought, I will be able to attend this weeks working group sync omega
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 and maybe we have a say 15-20 mins towards the end, so just flow with our thoughts on CONSILIENCE Library as a unifying anchor to explore the crypto-flower
 
@@ -3825,12 +3127,7 @@ so that I can start editing together
 media, art so that we can get the felt experience of what i think is moving all of us to bring everything we got to this table (edited)
 
 and this can help
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f32c.png" width=50 height=50>
-
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=20 height=20>
 
 into the center of the web 3 galaxy
 
@@ -3848,13 +3145,7 @@ _21-Mar-22 11:50 AM_:
 
 Been wanting to do this! Do like crazy 8s with people on what they see the library becoming
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -3862,9 +3153,6 @@ _21-Mar-22 02:05 PM_:
 
 !praise @nic for a well detailed action plan and implementing steps to improve the onboarding design in Omega, useful also for the whole TEC !
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-3
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -3872,9 +3160,6 @@ _21-Mar-22 03:09 PM_:
 
 hi, migrated notion library: - the seed curations page, it needs other images and content - the calendar page is still linked to the notion calendar, alternatives? - the temporay navigation is added in the footer, until the flower petals component is made - the github repository is now public, you can find the .md pages there if you are building on other platforms. - i'll share accounts logins for admin with team on wednesday How to add all the other info? (miro/figma/the articles in this channel/ etc? How to make it dynamic (with ceramic?) How to build that 3d flower navigation component? Does it need a custom domain for presenting it for gitcoin grant and other organisations/applications/persons that might like to know about consilience library, etc?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
-
-2
 
 [https://consilib90210-39f36.stackbit.app/](https://consilib90210-39f36.stackbit.app/)
 
@@ -3893,41 +3178,24 @@ _21-Mar-22 04:31 PM_:
 _21-Mar-22 05:52 PM_:
 !praise @UniPuff 🜐🐙 for taking the time to do an onboarding session with me, and helping me improve the onboarding flow by giving me feedback on the entire process. We were able to come up with a better way of doing the Chat feature in figjam, and a better way to document the conversations that happen around an initiative. Very helpful for contributors
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _21-Mar-22 06:00 PM_:
 !praise @Nate0909 for taking the time to do an onboarding session with me, and helping me improve the onboarding flow by giving me feedback on the entire process. We were able to come up with a better way to frame questions about what energises people so that people going through the process will find it easier to answer. He also helped come up with a better way to arrange the maps, so that it is clearer to see rather than having lines cross over and overlap everywhere.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 !praise @bear100 for taking the time to do an onboarding session with me, and helping me improve the onboarding flow by giving me feedback on the entire process. I appreciated that he took the time to read the questions a few days before the session and had his answers ready. He also asked insightful questions which help me understand how to better frame explanations for people doing these sessions with me.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 !praise @Andrea for taking the time to do an onboarding session with me, and helping me improve the onboarding flow by giving me feedback on the entire process. I am grateful that she has offered to learn how to facilitate these sessions so that in the future, when new members join 0mega, she can help facilitate these sessions with them.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _21-Mar-22 06:21 PM_:
-@Jeanne if you're interested, you can take part in an onboarding session and mapping out what energises you to do, then on wednesday, we can use the insights from it to design a value flows for 0mega and the library
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+@Jeanne if you're interested, you can take part in an onboarding session and mapping out what energises you to do, then on wednesday, we can use the insights from it to design a value flows for 0mega and the library <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 if you are interested feel free to schedule here
 
@@ -3939,9 +3207,6 @@ We will be mapping out your motivations, energy sources and energy drains. This 
 
 ![https://assets.calendly.com/assets/ogimage-580d3a8621e91e703045f669f2ecaaa830761eeede7e142c135cee0a0b475faf.png?source=opengraph](https://assets.calendly.com/assets/ogimage-580d3a8621e91e703045f669f2ecaaa830761eeede7e142c135cee0a0b475faf.png?source=opengraph)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f977-1f3fe.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
@@ -3961,9 +3226,6 @@ NFT Redux, gives us space to create in a common way. So that novel networked rel
 
 This is real growth over time. Invest in people, minds, handwork and poetics.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 [Omega]Creative Participation of the Whole – a North Star concept for Web 3
 
@@ -3973,19 +3235,13 @@ the emerging patterns within the ecology of the mind become the compass to chart
 
 _21-Mar-22 06:58 PM_:
 
-Abundance: The Inner Path to Wealth [https://www.youtube.com/watch?v=baX3Wf2Y59c](https://www.youtube.com/watch?v=baX3Wf2Y59c)
-
-[The Daily Show with Trevor Noah](https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA)
-
-Deepak Chopra - Analyzing Putin & Finding Inner Wealth - The Daily ...
+Abundance: The Inner Path to Wealth 
+[Deepak Chopra - Analyzing Putin & Finding Inner Wealth - The Daily ...](https://www.youtube.com/watch?v=baX3Wf2Y59c)
 
 “Abundance” author Deepak Chopra discusses the importance of measuring success through joy, his Freudian analysis of Vladimir Putin, and how an AI chatbot is helping to prevent suicides globally. #DailyShow Subscribe to The Daily Show: [https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA/?sub_confirmation=1](https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA/?sub_confirmation=1) Follow The Daily Show: Twitter:...
 
 ![https://i.ytimg.com/vi/baX3Wf2Y59c/maxresdefault.jpg](https://i.ytimg.com/vi/baX3Wf2Y59c/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -3993,9 +3249,6 @@ _21-Mar-22 09:26 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/955638548315373678/Creative_Participation_of_The_Whole.png](https://cdn.discordapp.com/attachments/810180622634844202/955638548315373678/Creative_Participation_of_The_Whole.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/865691039468617748/2ba981c149b86d5b0a2b9a98e267bb2f.png](https://cdn.discordapp.com/avatars/865691039468617748/2ba981c149b86d5b0a2b9a98e267bb2f.png)
 
@@ -4010,26 +3263,16 @@ this here:
 
 [https://www.liberatingstructures.com/6-making-space-with-triz/](https://www.liberatingstructures.com/6-making-space-with-triz/)
 
-@durgadas was going to prepare a session on it. I hope he'll pick up when he returns. Are you interested in the "Beware of Social Engineering" principle? Let us know your thoughts and what brought you there
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+@durgadas was going to prepare a session on it. I hope he'll pick up when he returns. Are you interested in the "Beware of Social Engineering" principle? Let us know your thoughts and what brought you there <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 (edited)
 
 Liberating Structures - 6. TRIZ
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 "“The next Buddha will be a Sangha.” In Buddhism, sangha is one of “the three jewels,” and is translated as community. So what does it mean for the next Buddha to be a sangha? It means that we need not just our teachers or our practice, but a community around us in order to protect and nourish our practice. "
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f48e.png" width=50 height=50>
-
-1
-❤️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+❤️ <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
 
@@ -4051,12 +3294,7 @@ they are also constantly asked for some of their knowledge, so asking for more o
 
 hmmm... maybe a vision what will happen with the content, what follow-on value and useful experiences it will create? chicken-and-egg great! we have a nice network flywheel if we crack this one
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
-
-1
-there's always the "resonsibility" incentive
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+there's always the "resonsibility" incentive <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 @stef I guess this is what you mean with "seed curations page needs other images and content?" or do you mean something else?
 
@@ -4088,9 +3326,6 @@ it needs a twitter account for gitcoin
 
 I think this whole web3 marketing machinery is excruitiatingly not sustainable, not regenerative, it fractures instead of focusing efforts wdyt? this really really bugs me
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 markets need "market criers" ... markets are inferior information processing engines, hence markets fail all the time. marketing is a corollary of that
 
@@ -4098,9 +3333,6 @@ we haven't yet build a better global information processing engine
 
 the misbhehavior of markets [https://users.math.yale.edu/users/mandelbrot/web_pdfs/getabstract.pdf](https://users.math.yale.edu/users/mandelbrot/web_pdfs/getabstract.pdf)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50>
-
-1
 
 have an idea for learning groups... what do you think about creating such detailed abstracts collectively as a value-add learners can create?
 
@@ -4108,9 +3340,6 @@ every action whould have a value-add to individual and value-add to the commons 
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/955761538797551656/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/955761538797551656/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 if this equation holds every action is a gift
 
@@ -4118,23 +3347,12 @@ the "need to learn" can become a contribution depending on the "design of the ac
 
 maybe this makes the difference between abundance and scarcity?
 
-@SatoriD if you have the time please do the 1:1 with @nic - or else, since time is running, @nic it maybe time to fire plan B: please share an annotated version for those who did not take the time to do a 1:1 with you (myself included
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=50 height=50>
+@SatoriD if you have the time please do the 1:1 with @nic - or else, since time is running, @nic it maybe time to fire plan B: please share an annotated version for those who did not take the time to do a 1:1 with you (myself included <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
 ) and ping the remaining ones to test the "self-onboarding" - thanks a ton these actions are highly appreciated and valueable, everyone who takes time to slow down and synch - even in an asynch manner
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
-
-1
 
 then we can have a much more in tune flow tomorrow in the session
 
@@ -4156,59 +3374,37 @@ Created with FigJam
 
 [https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/thumbnail?ver=thumbnails/3c712424-38db-4e8e-8359-bee188ae9ffd](https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/thumbnail?ver=thumbnails/3c712424-38db-4e8e-8359-bee188ae9ffd)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 it's amazing!
 
-quickly skimmed , definitely triggered my intrinsic incentive system
+quickly skimmed , definitely triggered my intrinsic incentive system <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+will make time for this whatever ungodly hour <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-will make time for this whatever ungodly hour
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
-
-and big thanks to all who have contributed - look forward to digest it all too
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+and big thanks to all who have contributed - look forward to digest it all too <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 thanks for sharing your motivations!
 feel like still best is a guided tour with @nic
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 maybe still take it even after this wednesday - but have already your playing cards on the table
 
-@Letty you too
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+@Letty you too <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ❤️ so that ppl have a chance to see the possibilities space
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
 solsista
 
-[@SatoriD if you have the time please do the 1:1 with @nic - or else, since time is running, @nic it maybe time to fire plan B: please share an annotated version for those who did not take the time to do a 1:1 with you (myself included  ) and ping the remaining ones to test the "self-onboarding" - thanks a ton these actions are highly appreciated and valueable, everyone who takes time to slow down and synch - even in an asynch manner](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+[@SatoriD if you have the time please do the 1:1 with @nic - or else, since time is running, @nic it maybe time to fire plan B: please share an annotated version for those who did not take the time to do a 1:1 with you (myself included  ) and ping the remaining ones to test the "self-onboarding" - thanks a ton these actions are highly appreciated and valueable, everyone who takes time to slow down and synch - even in an asynch manner](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _22-Mar-22 06:29 AM_:
 All good got a meeting with satori in 5 hrs
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -4232,9 +3428,7 @@ _22-Mar-22 07:05 AM_:
 
 [Ξwoki (🤖,💚) (@owocki)](https://twitter.com/owocki)
 
-Are there any DAOs building consensus / navigating trade off spaces asynchronously? I’d love to be freed of
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
+Are there any DAOs building consensus / navigating trade off spaces asynchronously? I’d love to be freed of <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=20 height=20>
 
 zoom calls and still be able to distributed sense make.
 
@@ -4242,9 +3436,6 @@ zoom calls and still be able to distributed sense make.
 
 Twitter • 21-Mar-22 05:31 PM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -4252,23 +3443,14 @@ _22-Mar-22 07:21 AM_:
 
 Btw, for those completing the diagrams async, this is the way I’ve set up the call: 1- starting off asking if they are interested in signing up to figma. 2- Then move on by going through the notices on the right side of the instructions and have them voting (clicking plus sign) to acknowledge each of the statements. The statements inform them that they can always take breaks and to let me know if they need one, that this info is public, what the info will be used for, and asking that they don’t change others’ cards. 3- Then going through instruction 1, then having them follow it. 4-Then going through instruction 2, then having them follow it. 5-Then I give a tour of the widgets (todo list, markdown notes, chat) 6- I ask if they feel ready to do it on their own. If so I let them know I will send further instructions to help them out 7- I send the further instructions/homework:
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-2
 
 **Homework** - Feel free to read through the linked documentation around the initiatives. Connect as many of your green post it notes as you feel is right, to the initiatives. You don't have to connect all of them 😄 , just the ones that suit you. Don't forget to add a rating out of 1-10 how much it will energise you. Maybe if it doesn't energise you that much, it would be good to not connect yourself to many initiatives. Maybe you want to only work on one initiative for the moment. It's all up to you. If you have questions, reach out in the #omega channel and ask questions there. - Read through Instruction #3 so that you know how to maintain the initiatives that you are willing to be a part of. - Think about these questions: ➡️ How can the library earn TEC tokens? ➡️ How can the library mint TEC tokens? (right now only money mints TEC) ➡️ How can TEC tokens represent value of the public goods (not the common pool)? ➡️ How are we going to distribute the funds we received for the library? Can you come up with ideas for them? On wednesday 23rd, we are going to be creating stock and flow diagrams (read about them here https://thesystemsthinker.com/step-by-step-stocks-and-flows-improving-the-rigor-of-your-thinking/#:~:text=Stock%20and%20flow%20diagrams%20distinguish,flows%2C%20while%20CLDs%20do%20not.&text=In%20contrast%2C%20a%20stock%20and,a%20negative%20number%20of%20births) and designing systems on how the above questions may be made possible. - Lastly, please reflect if you felt tired after doing the session with me. Let me know if it did drain you, so that I know if it's better to come up with other ways of onboarding people 😄
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 @solsista @Letty ^
 
 @Andrea has offered to guide future newcomers to 0mega through this call if they desire to be guided. So I will be showing her how to do it so that after this week she can continue guiding when we have newcomers. I will improve the instructions on the map and also write a wiki for the areas to mention when guiding like the above message. The map itself will be part of the onboarding pinned message. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -4322,9 +3504,6 @@ but for now I just got all this silly words
 
 creative commons + remix culture
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -4332,13 +3511,7 @@ _22-Mar-22 07:43 AM_:
 
 Hi, I ve included library in application for alities. The re doing some nft event on celo in April. Will know about it soon, just don t add the flower to any nft platform yet... (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -4372,9 +3545,6 @@ _22-Mar-22 07:46 AM_:
 
 Yes, think unipuf posted a figma for this, let share designs there...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -4398,13 +3568,7 @@ From the album "Mutant Funk". Praga Khan merchandise available via [https://stor
 
 ![https://i.ytimg.com/vi/KQy6W6JQ6bw/hqdefault.jpg](https://i.ytimg.com/vi/KQy6W6JQ6bw/hqdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -4433,18 +3597,10 @@ _22-Mar-22 08:44 AM_:
 I think we have to move towards this, for me its about how deep our networks are we at this time, is we need the "right" people, we need to bring all we got to the table, what flowers and songs you got in your pocket?
 
 cuz IRL hit me hard recently, I had to let go, and trust the collective and you know what you guys here and @Eclipsingbinary blew me away
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
-
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=20 height=20>
 
 this is what I feel and this is what I know. that given a sense of purpose and sense of empowerment, most curious minds will do all the task needed, because they see and feel it. I believe when I first learned to howl, I was speaking for 0mega group and Imaginarium. those words were ours, and so doesn't matter if satori here or there, the satori lives in us, each one of us (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 NFT REdux is about yoU, us and we
 
@@ -4542,9 +3698,7 @@ Shamans as the first shapers of myth
 
 and there are already interesting ways to do this creatively
 
-using the joystreamDAO to
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f32c.png" width=50 height=50>
+using the joystreamDAO to <img src="https://twemoji.maxcdn.com/2/72x72/1f32c.png" width=20 height=20>
 
 ️ the way we do it
 
@@ -4572,17 +3726,10 @@ that would be the most interesting way to move forward
 
 but we the first to create with omega space
 
-its begins with our mind flow fractal set
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f32c.png" width=50 height=50>
+its begins with our mind flow fractal set <img src="https://twemoji.maxcdn.com/2/72x72/1f32c.png" width=20 height=20>
 
 ️ ✨
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
-
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -4598,9 +3745,7 @@ and as if on clue from the universe, I got this from my partner in art crimes, c
 
 NFT Redux should give anyone working with it, the tools, knowledge and network to use NFT meaningfully to produce their own "dream" version of NFT Redux
 
-once you got the
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
+once you got the <img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=20 height=20>
 
 then its time to chart a course and research explore and create
 
@@ -4622,19 +3767,10 @@ this is now a interesting puzzle to see what kind of different sets we can make
 
 those will be the mandala of minds
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/955832263059320872/IMG_2624.jpg](https://cdn.discordapp.com/attachments/810180622634844202/955832263059320872/IMG_2624.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f63b.png" width=50 height=50>
-
-1
 
 how many different kinds of useful sets we can have
 
@@ -4686,9 +3822,7 @@ or this ? [https://twitter.com/curvelabs/status/1506280322329194504](https://twi
 
 [Curve Labs (@curvelabs)](https://twitter.com/curvelabs)
 
-the source-code of cultural production is rapidly mutating ➰ at the intersection of software, economics and art, lies a new design space, a reshuffling of post-rational creative forces lets explore this dark forest together
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f573.png" width=50 height=50>
+the source-code of cultural production is rapidly mutating ➰ at the intersection of software, economics and art, lies a new design space, a reshuffling of post-rational creative forces lets explore this dark forest together <img src="https://twemoji.maxcdn.com/2/72x72/1f573.png" width=20 height=20>
 
 [https://t.co/VX3xkLzoWy](https://t.co/VX3xkLzoWy)
 
@@ -4696,12 +3830,7 @@ the source-code of cultural production is rapidly mutating ➰ at the intersecti
 
 Twitter • 22-Mar-22 10:43 AM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9d0.png" width=50 height=50>
-
-1
-he calls it "mechanism art" and I'm sold
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+he calls it "mechanism art" and I'm sold <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 would love to invite Cem to one of the WG sessions
 
@@ -4711,19 +3840,10 @@ _22-Mar-22 12:52 PM_:
 
 yes definitely feel like 0mega is on the wavelength of painpoints and not ready to back down into business-as-usual getting things done...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 but we really need to figure this *regenerative working style* out. I realize I do a lot of complaining with "no time"... have some hacks wrt "minting time" by creating "multiplier" actions, i.e. a core artefact that feeds in into many if not all projects / DAOs you're active in
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9d0.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -4745,9 +3865,6 @@ _22-Mar-22 12:56 PM_:
 
 But nowadays I'm all in with "work smarter, not harder"
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -4775,9 +3892,6 @@ Created with Figma
 
 [https://www.figma.com/file/DfE39ju6rmpHl9yreC6MSh/thumbnail?ver=thumbnails/aa388401-465a-479d-b368-23a75cb7eff3](https://www.figma.com/file/DfE39ju6rmpHl9yreC6MSh/thumbnail?ver=thumbnails/aa388401-465a-479d-b368-23a75cb7eff3)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -4837,17 +3951,11 @@ hey let's have a twitter LS facilitation experiment with @Jeremy&TheGospelOfChan
 
 Twitter • 22-Mar-22 01:27 PM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-2
 
 who is in?
 
 I'm inclined to input "regenerative workstyle" as it's the theme of the thread
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-3
 
 and we can try it out w/o confusing ppl in discord haha - who is in?
 
@@ -4901,9 +4009,6 @@ Seed Curations - consilience library
 
 ![https://consilib90210-39f36.stackbit.app/images/flower5l.png](https://consilib90210-39f36.stackbit.app/images/flower5l.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
-
-1
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -4933,17 +4038,11 @@ i'll have a write up about NFT redux, as this narrative codex. I had a good rant
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/955934274538844160/IMG_2636.jpg](https://cdn.discordapp.com/attachments/810180622634844202/955934274538844160/IMG_2636.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3a8.png" width=50 height=50>
-
-1
 
 @stef the way I been looking at it is poetics is like the mycelial underground networks that support health root structure for the flower
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/955935105103327282/IMG_2641.jpg](https://cdn.discordapp.com/attachments/810180622634844202/955935105103327282/IMG_2641.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f499.png" width=50 height=50>
-
-1
 
 and ecology of minds is the sun rays, winds other
 
@@ -4996,45 +4095,24 @@ something like how I want poetics to work in this NFT puzzle game of crypto-flow
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _22-Mar-22 05:31 PM_:
-!praise @SatoriD for joining me in a session and sharing his ideas with me on his vision for Imaginarium
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
+!praise @SatoriD for joining me in a session and sharing his ideas with me on his vision for Imaginarium <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=20 height=20>
 
 and how we can create a culture that trusts the personal compass, and create space for us to collect knowledge collectively. So many pathways the TE library can go...so exciting
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
-!praise @stef for joining me in a session and sharing his motivations and sharing so many golden nuggets of wisdom. I learned a lot from our side chats
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+!praise @stef for joining me in a session and sharing his motivations and sharing so many golden nuggets of wisdom. I learned a lot from our side chats <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 Really great insights about the self and movement as expression. I am excited to learn more from the resources he will be sharing and to help each other with coding problems haha
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50>
-
-1
 Thank you everyone for taking the time to meet with me. It almost feels like
 
 *I*
 
-gained the most from this
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
+gained the most from this <img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=20 height=20>
 
 It was amazing getting to experience everyone's existences and perspectives more. I hope I can gift energy back to you all
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-3
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -5048,9 +4126,6 @@ Deckible is Audible for Decks. All the decks you love on your phone. Experience 
 
 what flowers and songs you got in your pocket?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-✨
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -5082,13 +4157,8 @@ Tao logic is sound logic
 
 all those great things that will start to emerge from this living log
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-1
-
-Omega, pushing the crypto universe towards greater stability and legitimacy bit by bit block by block hand by hand
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
+Omega, pushing the crypto universe towards greater stability and legitimacy bit by bit block by block hand by hand <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -5102,17 +4172,8 @@ Whole schools of thought will emerge, like salamanders vibin with each others he
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/955957981189640242/948125486639443968.gif](https://cdn.discordapp.com/attachments/810180622634844202/955957981189640242/948125486639443968.gif)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 @solsista living mandala mind shares
 
@@ -5120,13 +4181,7 @@ NFT Redux; Creative Participation of The Whole (crypto-flower). Consilience Libr
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/955959621502263336/download_2.gif](https://cdn.discordapp.com/attachments/810180622634844202/955959621502263336/download_2.gif)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 @stef some work by my partner in art crimes curryhobo
 
@@ -5134,15 +4189,10 @@ this is something like the emerging patterns within the ecology of the mind...
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/955960665112182854/download_3.gif](https://cdn.discordapp.com/attachments/810180622634844202/955960665112182854/download_3.gif)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-1
 
 disembodied poetics of hypersapce...
 
-@nic
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
+@nic <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -5160,31 +4210,18 @@ This is Disembodied Poetics of Hyperspace
 
 The emerging patterns within the ecology of the mind. Bateson argued that ecology of mind is an ecology of pattern, information and ideas that happen to be embodied in things - material forms. A science which limits itself to counting and weighing these embodiments is likely to arrive at a very distorted understanding. (legacy systems and mindset) @solsista
 
-A mind can include nonliving elements as well as multiple organisms, may function for breif as well as extended periods, is not necesssarily defined by a boundary such as an envelope of skin, and consciuosness, if present at all, is always only partial. This emphasis on mental systems as including more than single organismms leads Gregory to the insistence that the unit of survival is always organism(
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
+A mind can include nonliving elements as well as multiple organisms, may function for breif as well as extended periods, is not necesssarily defined by a boundary such as an envelope of skin, and consciuosness, if present at all, is always only partial. This emphasis on mental systems as including more than single organismms leads Gregory to the insistence that the unit of survival is always organism( <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=20 height=20>
 
 ) and environment (
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50>
-
-,
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f32c.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f32c.png" width=20 height=20>
 
 ️ ,
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-)
 
 I think we got everything we need to take the first big leap of faith
 
 We are worthy of this new dawn we are the ones that pull down the moon we are the ones that sing to sun so that our sunflowers can grow and grow
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -5207,15 +4244,10 @@ SatoriD
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _22-Mar-22 10:12 PM_:
-we need one for imaginarium, too - but hoping to get it even more organically infused through your participation... it really is a mind expansion type of experience for me personally
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+we need one for imaginarium, too - but hoping to get it even more organically infused through your participation... it really is a mind expansion type of experience for me personally <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ❤️ can imagine others resonating too, a lot actually
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -5229,21 +4261,13 @@ _22-Mar-22 10:20 PM_:
 
 it's the play of complimentary opposites - just leaving the body and be all up in mindspace happily every after, has a bit of an escapist feel to it (actually still spending most of my time there myself). It is "similar" to building a rocket ops from scratch to terraform another planet - just in the opposite direction of immaterialistic worldview... we need both to "steer" spaceship earth - or rather get in tune with its nondual navigation system
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
 SatoriD
 
-[A mind can include nonliving elements as well as multiple organisms, may function for breif as well as extended periods, is not necesssarily defined by a boundary such as an envelope of skin, and consciuosness, if present at all, is always only partial. This emphasis on mental systems as including more than single organismms leads Gregory to the insistence that the unit of survival is always organism( ) and environment ( ,️ , )](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f32c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="$5" width=50 height=50>
+[A mind can include nonliving elements as well as multiple organisms, may function for breif as well as extended periods, is not necesssarily defined by a boundary such as an envelope of skin, and consciuosness, if present at all, is always only partial. This emphasis on mental systems as including more than single organismms leads Gregory to the insistence that the unit of survival is always organism( ) and environment ( ,️ , )](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f32c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -5257,13 +4281,7 @@ _22-Mar-22 10:29 PM_:
 
 "as a vast multiplicity of *apparently* differentiated subjects and objects, thus initiating a vast dance of self-exploration ... now this act of creation is called a play or game, in the sense that this activity is fundamentally a free and joyous act of self-expression, done entirely for its own sake... The word "play" is simply used to indicate an activity that has no purpose outside itself, as well as pointing toward the notions htat joy and love underly and motivate the whole process... Rather than "play" one could have used the word "art" to express this understanding - for that word has connotations of creativity and beauty that are cntral to their vision of reality...though "art" implies "artifice" while play - or perhaps "artful play" better expresses the organic, spontaneous, dynamic quality with which the universe unflods and, as well, alludes to the childlike wonder experienced by those who see it as it realy is..."
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 alright!
 
@@ -5273,15 +4291,9 @@ _22-Mar-22 10:39 PM_:
 
 all pumped up for my 0mega self-onboarding session... I did some deep sensing, and it's surprising, yet not surprising, why I'm here. As soon as something is figured out I need to go where the open questions are; so it feels like TE is being figured out, even web3 can (and will) have its playbook... these will show the gears and teach ppl about the machinery under the hood, all the while telling, don't get too used to it: automatic is just around the corner, then you won't need to shift gears manually (like these proposal, marketing, voting processes we have are literally manual, and mechanic); and then it will say, btw don't get too used to your co-pilot cause you know these cars we're token engineering we'll have GPS, and it will continue to say, and that steering wheel, and you my dear pilot (leader or whatever the community wants to call you) will be more or less, no, more of redundant human avatar cuz this thing is self-driving, hell, that's the whole reason a bunch of token engineers got together to engineer this car, figure out how to hand out driver's licences, and build the road, whilst we were still MVPing the car itself. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 so I'm looking for the wisdom of web3, because all this engineering is futile if we end up with masses of passengers who were told to take a back seat... like that's not that type of car we'll have when we're done engineering - and because of that we cannot engineer it with the same mindset we used to engineer mechanical cars
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 so we need to space out into mindspace and come back to manifest wisdom of web3 now-ish
 
@@ -5289,9 +4301,7 @@ so we need to space out into mindspace and come back to manifest wisdom of web3 
 
 nic
 
-[Thank you everyone for taking the time to meet with me. It almost feels like *I* gained the most from this  It was amazing getting to experience everyone's existences and perspectives more. I hope I can gift energy back to you all](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
+[Thank you everyone for taking the time to meet with me. It almost feels like *I* gained the most from this  It was amazing getting to experience everyone's existences and perspectives more. I hope I can gift energy back to you all](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -5309,12 +4319,7 @@ solsista
 
 _22-Mar-22 11:03 PM_:
 you know imaginarium is a spaceship, right?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f32c.png" width=50 height=50>
-
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
 this is gonna be a whole lot of fun
 
@@ -5324,9 +4329,6 @@ now all I can think about it all the next beauty moves we can all start to make 
 
 the unfolding of this process, is where we really each start to become, that this sunflower sutra, is with in you, yoU are the anxis mundi, were you sit right now, with in your mind, this is the center of the galaxy, its our time, to take our seats, and the table of life, and be humble, for we walk on sacred ground, this is the deep networks, these are the mechanics of the dreamtime... (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -5372,13 +4374,7 @@ _23-Mar-22 12:38 AM_:
 NFT Redux Codex
 
 NFT Redux: In Latin, redux (from the verb reducere, meaning “to lead back”) can mean “brought back” or “bringing back.” The Romans used redux as an epithet for the Goddess Fortuna with its “bringing back” meaning; Fortuna Redux was “one who brings another safely home.” But it was the “brought ba...
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -5407,15 +4403,10 @@ SatoriD
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _23-Mar-22 12:42 AM_:
-wow thanks!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
+wow thanks! <img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=20 height=20>
 
 now I can dance with it
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -5438,12 +4429,7 @@ i think 40% is like theory, 40% practice using knowledge to build and the last 2
 I am also thinking it might be more like 45%, 45% and 10% poetics of self
 
 I am gonna make a bot dance!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
-
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=20 height=20>
 
 I also want to teach bots about William S Boroughs, for reason i yet to figure out...
 
@@ -5503,9 +4489,6 @@ because we are all on the same page
 
 or at least working on the same book
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f388.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50>
-
-✨
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -5519,23 +4502,15 @@ _23-Mar-22 05:00 AM_:
 
 or hanging out in the same library hahah
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956115467347566612/latest.png](https://cdn.discordapp.com/attachments/810180622634844202/956115467347566612/latest.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-2
 
 just wanted to mention we're missing the "Workflow" island, it covers all the things that @Mert Ozd has been taking care of, incl. documenting - and we could add a research bubble to it, that focuses "regenerative working style" (basically capturing the process/ flow of contributions wrt. facilitation techniques, play, ...) as well as the minimum infrastructure setup to fund the ground work through TEC (edited)
 
 also one more insight: I'd like to redesign TE Ethics Participatory Action Research proposal, it should be more open and fund the whole process through recurring call for participation ... @Jeremy&TheGospelOfChange would you do us the honor to help with that? I found the first thing you shared about LS already mindblowing haha
 
-[https://twitter.com/gospelofchange/status/1506331902583713793?s=20&t=arMNgrlPxYY0jmZxIE3OBw](https://twitter.com/gospelofchange/status/1506331902583713793?s=20&t=arMNgrlPxYY0jmZxIE3OBw)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[https://twitter.com/gospelofchange/status/1506331902583713793?s=20&t=arMNgrlPxYY0jmZxIE3OBw](https://twitter.com/gospelofchange/status/1506331902583713793?s=20&t=arMNgrlPxYY0jmZxIE3OBw) <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 ![https://pbs.twimg.com/profile_images/1247231950819123206/_-TqlVkz_400x400.jpg](https://pbs.twimg.com/profile_images/1247231950819123206/_-TqlVkz_400x400.jpg)
 
@@ -5553,9 +4528,6 @@ Twitter • 22-Mar-22 02:08 PM
 
 2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 this is what we did in a first iteration, and is somewhat ok.. but I would like the process to be more enabling on the participatory action research side... [https://docs.google.com/document/d/1ngUBguUdAITrNnVsum7UhjoMFUqcoFSVAj1R_yQwB2Q/edit#heading=h.6wcq6vh9w93n](https://docs.google.com/document/d/1ngUBguUdAITrNnVsum7UhjoMFUqcoFSVAj1R_yQwB2Q/edit#heading=h.6wcq6vh9w93n)
 
@@ -5566,9 +4538,6 @@ if there's interest and time, I'd put this on the agenda for one of the sessions
 
 some hints on topics still to be explored in TE Ethics participatory action research: "Self-sovereignty" , "Do your own Research", "Infinite Artificial Scarcity", ... and I trust that this field won't leave us empty handed with respect to considering ethical dimensions of it (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -5598,15 +4567,10 @@ This was from A Hitchhiker's Guide to Token Engineering by @solsista which you m
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956219303697457202/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/956219303697457202/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
-_23-Mar-22 02:38 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50>
+_23-Mar-22 02:38 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=20 height=20>
 
 [https://youtu.be/uxnUeZ8QQYg?t=516](https://youtu.be/uxnUeZ8QQYg?t=516)
 
@@ -5631,12 +4595,7 @@ poetics is unity of thought expressed by wholeness of the commons disembodied po
 We must have been out of our minds to have started such a work. But most minds are stuck in the middle of weaponized memetics and warring pyramid schemes fighting for market shares in a degenerative attention economy.
 
 WE(Omega, TEC, Imaginarium) must
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f32c.png" width=50 height=50>
-
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=20 height=20>
 
 into the center of the galaxy and bring about this new school of thought, to begin a New Dawn of the everywhen...
 
@@ -5678,13 +4637,7 @@ The value of sensemaking from chaos to order and back
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956284484934860820/images.png](https://cdn.discordapp.com/attachments/810180622634844202/956284484934860820/images.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9d0.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -5708,9 +4661,6 @@ _23-Mar-22 04:34 PM_:
 
 Yes and also that original emotions mirror mandala some of us used for "emotions awareness"
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -5750,22 +4700,13 @@ e are living on the knife’s edge of one of those rare and momentous turning po
 
 ![https://thesystemsthinker.com/wp-content/uploads/images/volume-11/that-most-groups-more-fully-realize.jpg](https://thesystemsthinker.com/wp-content/uploads/images/volume-11/that-most-groups-more-fully-realize.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fc.png" width=50 height=50>
-
-1
 there's also a Liberating Structure (but I struggle with that, - have a look yourselves:
 
 [https://www.liberatingstructures.com/33-purpose-to-practice-p2p/](https://www.liberatingstructures.com/33-purpose-to-practice-p2p/)
 
 , I found Dee Hock much more accessible in his explanation (and less dogmatic
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
-
-)
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -5777,9 +4718,6 @@ solsista
 
 , I found Dee Hock much more accessible in his explanation (and less dogmatic
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
-
-)
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -5791,9 +4729,6 @@ Can you please share your thoughts on these topics in post its prior to next wee
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956292459472769074/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/956292459472769074/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 You can still jam async, by connecting your post its to others' posts with the arrows! (edited)
 
@@ -5811,15 +4746,7 @@ something I been asking myself: How do we build up our capacity for complex? By 
 
 but also can be just like music playlist, later some eternity remixes that come up, and nft puzzle game, learn when you need a calm space, to center yourself. and other things perhaps we use to turn down the noise
 
-<img src="https://twemoji.maxcdn.com/2/72x72/262e.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
-
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -5853,9 +4780,6 @@ If these sessions are also helpful for self-reflection they can become energizin
 
 so instead of a Mission statements that is static, we have ourselves an alive Practice that fulfills the same function adaptively
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f499.png" width=50 height=50>
-
-1
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -5867,9 +4791,6 @@ ON THE SUBJECT OF AUTOPOIESIS AND IT'S BOUNDARIES:
 
 describe
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -5885,15 +4806,9 @@ _23-Mar-22 05:28 PM_:
 
 Never heard about Chaordic organizations before! Thank you for sharing this. It makes more sense to me know. I would then assume we are trying to create one of this? And if thats the case I think it would be really important to share more about these ideas to newcomers because maybe some of us come here with pre stablished ideas or believes about many things. And like this article talks about new concepts and new terminology that is important to know.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
-
-1
 
 "It is impossible to describe how difficult it is to imagine all the permutations and possibilities of human relationships that arise when one truly accepts that organizations exist only in the mind; that they are no more than conceptual embodiments of the ancient idea of community."
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
 
@@ -5907,13 +4822,7 @@ _23-Mar-22 07:19 PM_:
 
 Maybe there could be some readings or material that can be given to newcomers as part of the onboarding process that could introduce them to some concepts and terminology used in Omega
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
 
@@ -5928,22 +4837,14 @@ Would love it if you could add this to the workflow ideas at
 
 [https://discord.com/channels/810180621930070088/810180622634844202/956292460320026694](https://discord.com/channels/810180621930070088/810180622634844202/956292460320026694)
 
-or maybe even in onboarding
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+or maybe even in onboarding <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 (edited)
 @bear100 do you keep track of the new concepts and terminology you’ve learned so far? This could inform the readings or material we share in onboarding
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9d0.png" width=50 height=50>
-
-1
 
 We could work together on the pinned message contents
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fc.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -5959,21 +4860,12 @@ I go over to my grandma's house she 93 with dementia, but with coloring and with
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956357994856206356/IMG_2587.jpg](https://cdn.discordapp.com/attachments/810180622634844202/956357994856206356/IMG_2587.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9e1.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 I also been wanting to bring Wabi-Sabi as a concept, into the mix
 
 Wabi-sabi is the quintessential Japanese aesthetic. It is beauty of things imperfect, impermanent, and incomplete. It is a beauty of things modest and humble. It is a beauty of things unintentional...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fc.png" width=50 height=50>
-
-2
 
 there term we used in imaginarium, well that was beautifully imperfect, for those organic moments when things sync over a cosmic giggle.
 
@@ -5983,9 +4875,6 @@ _23-Mar-22 09:19 PM_:
 
 "Admittedly, the beauty of wabi-sabi is not to everyone's liking. But I believe it is in everyone's interest to prevent wabi-sabi from disappearing altogether. Diversity of the cultural ecology is a desirable state of affairs, especially in opposition to the accelerating trend toward the uniform digitalization of all sensory experience, wherein an electronic "reader" stands between experience and observation, and all manifestation is encoded identically." -*Wabi-Sabi, for Artisits, Desingers, Poets & Philosophers.*
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -5998,31 +4887,15 @@ I want to set something up, an open invite to have imaginarium style creative sy
 @stef @bear100 it would be cool to have you there to vibe, about some of these more abstract concepts, and terms and how we can present them in creative and interesting ways, I think the sticky notes from figma become the NFT REdux self discovery puzzle game...
 
 @Letty @solsista @Jolly LaMa satori is gonna go on a silent retreat this weekend,
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
-
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=20 height=20>
 
 the meaningfulness of NFT REdux used in this way, is that we begin to map out how we stay heart sync and balance within ourselves. what helps us have grace under pressure. what is that we do or playlist, we put on, that always gets us in that zone, or helps us bring down the noise... I heard this echo reflected with in and out of the group.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 this is for the overall 0mega Energies & Initiatives to
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
-
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=20 height=20>
 
 NFT REdux is stuff we use within group and without to help balance our individual
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
-
-️
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -6030,17 +4903,12 @@ _23-Mar-22 10:21 PM_:
 
 *Beauty can be coaxed of ugliness. Wabi-sabi is ambivalent about separating beauty from non-beauty or ugliness. The beauty of wabi-sabi is, in one respect, the condition of coming to terms with what you consider ugly. Wabi-sabi suggests that beauty is a dynamic event that occurs between you and something else. Beauty can spontaneously occur at any moment given the proper circumstances, context, or point of view. Beauty is thus an altered state of consciousness, an extraordinary moment of poetry and grace...*
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fc.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
 nic
 
-[@bear100 do you keep track of the new concepts and terminology you’ve learned so far? This could inform the readings or material we share in onboarding](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+[@bear100 do you keep track of the new concepts and terminology you’ve learned so far? This could inform the readings or material we share in onboarding](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -6048,13 +4916,7 @@ _23-Mar-22 11:22 PM_:
 
 I haven´t, but I will definitely start doing it now and will go back to gather all the resources that have been shared with me in this matter.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -6068,9 +4930,6 @@ _23-Mar-22 11:22 PM_:
 
 Yes! That would be great. Id love help with anything to do with the onboarding initiative
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
 
@@ -6084,9 +4943,6 @@ _23-Mar-22 11:24 PM_:
 
 Thank you thank you
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fc.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -6100,9 +4956,6 @@ _23-Mar-22 11:25 PM_:
 
 Im 100% down for it
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -6116,9 +4969,6 @@ _24-Mar-22 03:11 AM_:
 
 is that monday at 7pm cet? can you send me info about this redux cardgame?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
 
@@ -6129,27 +4979,16 @@ bear100
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _24-Mar-22 03:12 AM_:
-thank you for this! It's my blind spot, please never hesitate to keep reminding
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+thank you for this! It's my blind spot, please never hesitate to keep reminding <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 We will curate these into the lib
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fc.png" width=50 height=50>
-
-1
 
 And to the questions as whether we are trying to create a chaordic organization... if there is will, I would only go as far to say, it is experimenting
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f57a.png" width=50 height=50>
-
-1
 
 my experience working in these environments for quite some time now, is the acceptance that organizations are chaordic - if you find th sweet spot, no actuall it is a sweet thread, then value creation and community cohesion happens in flow - no matter how different it may look like. You know it is happening when you feel drawn to it, you feel resilient, resourceful - it is very different than project management, a project has a beginning and an end
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 [https://twitter.com/owocki/status/1506333722282397697?s=20&t=pK87lw6BdkVLKo4dR_MHyA](https://twitter.com/owocki/status/1506333722282397697?s=20&t=pK87lw6BdkVLKo4dR_MHyA)
 
@@ -6163,12 +5002,7 @@ The dao that can be described is not the eternal Dao
 
 Twitter • 22-Mar-22 02:15 PM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
-and it is not a science
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+and it is not a science <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 so from our collective sense making around purpose and values we will get to "value flow diagram" - these are adapted from systems thinking
 
@@ -6176,9 +5010,6 @@ so from our collective sense making around purpose and values we will get to "va
 
 I will share a doc where we document the highlights of this process, but the figma jamboard is where things surface and links to current contributions are held
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fc.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -6198,26 +5029,18 @@ Created with Figma
 
 [https://www.figma.com/file/bJPd1O86Dr6MLm7UEO6cdD/thumbnail?ver=thumbnails/d862caff-e01f-41d5-a865-bac02ea69853](https://www.figma.com/file/bJPd1O86Dr6MLm7UEO6cdD/thumbnail?ver=thumbnails/d862caff-e01f-41d5-a865-bac02ea69853)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
 nic
 
-[@bear100 do you keep track of the new concepts and terminology you’ve learned so far? This could inform the readings or material we share in onboarding](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+[@bear100 do you keep track of the new concepts and terminology you’ve learned so far? This could inform the readings or material we share in onboarding](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _24-Mar-22 03:26 AM_:
 this actually would be a wonderful newcomer/learner contribution
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fc.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -6225,29 +5048,17 @@ _24-Mar-22 03:36 AM_:
 
 @SatoriD @stef @bear100 would be great to have you synthesize how NFT Redux cards (or derivations) can be used in learning/synthesizing knowledge ... after last night I thought, we are not novel in our "curation template" ... what we could do is collect (from self) and others who already received the template hints what is holding back. One thing we'll here is "no time" <-- so could these cards be dropped and get curation one by one? with a symbol, topic, anything that could trigger something? any best practice? e.g. I started a list now with ppl asking about topics, and will curate from those etc
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f938.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 I also found this very interesting for lawyers in TE [https://purpose-economy.org/content/uploads/purpose-guidebook-for-lawyers10022021.pdf](https://purpose-economy.org/content/uploads/purpose-guidebook-for-lawyers10022021.pdf)
 
 not only that it is about restructuring governance and finances in corporations for steward ownership, i.e. New Common Sense for Commons; and it's aim to "Maximize Purpose", i.e. all profit flows back to creating more value towards the purpose of the organization
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
-
-1
 
 But also because of this:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956457172856885258/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/956457172856885258/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/emojis/835409757183279134.png](https://cdn.discordapp.com/emojis/835409757183279134.png)
 
@@ -6255,17 +5066,12 @@ But also because of this:
 
 it is very similar to the purpose of valueflow diagrams, and doing that system modeling collectively with the participants/community
 
-it's just as you said @Andrea (did I use a wrong name yesterday?) - the alignment happens naturally, if the community gets a chance to DIY
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+it's just as you said @Andrea (did I use a wrong name yesterday?) - the alignment happens naturally, if the community gets a chance to DIY <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 this isn't something that should be done by lawyers or token engineers for that matter
 
 the initial players (people) come up with the initial rules (purpose - principles) and start playing, since it's infinite play, you don't play to win, you play to keep playing
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 it may be harder to see this for other things... but for knowledge? we know it is infinite play, and all human knowledge is provisional
 
@@ -6281,9 +5087,7 @@ with that I wanted to remind us all - we have not yet defined all values (ask wh
 
 - why is connections valuable (to me, to this library, ...)?
 
-when you come up with a phrase, ask again, why is that valuable, and again, and again
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+when you come up with a phrase, ask again, why is that valuable, and again, and again <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 Please share here in the text or with post its in figma jam board
 
@@ -6291,9 +5095,6 @@ wabi-sabi ... this Nora Bateson:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956460587892756500/dab08696-8d1e-4f7d-877d-7705dfe4b97e.png](https://cdn.discordapp.com/attachments/810180622634844202/956460587892756500/dab08696-8d1e-4f7d-877d-7705dfe4b97e.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -6351,9 +5152,6 @@ that becomes some sticky note and later on monday we can have some fun, on how u
 
 yeah I also think, the concept is there, were in orbit of the concept
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 oh my god I was looking at this chart of someone doing some flow chart of genome
 
@@ -6409,17 +5207,12 @@ there's one of blowing down and the other trying to put into a bottle
 
 that's basically imaginarium creative style sync
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f468-200d-1f680.png" width=50 height=50>
-
-1
 
 let's just hope we can catch lightening in a bottle
 
 no ONE really knows how to do it, but when it happens (edited)
 
-well that all that really matters...
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f30a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50> 
+well that all that really matters... <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f30a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=20 height=20> 
 
 A genetic regulatory network @solsista [https://youtu.be/Eo5oQ9Psmg8?t=307](https://youtu.be/Eo5oQ9Psmg8?t=307)
 
@@ -6445,15 +5238,10 @@ Here is one small genetic regulatory network that's been mapped out by researche
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956472855443415080/xlarge.png](https://cdn.discordapp.com/attachments/810180622634844202/956472855443415080/xlarge.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 so we have 3 buckets to start collecting our sticky notes on
 
-I took this snap shot, because for me this was the
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
+I took this snap shot, because for me this was the <img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -6467,9 +5255,6 @@ _24-Mar-22 04:46 AM_:
 
 playing is not thinkin, playing is doing, its creating in action of the imagination, how do we talk about this with people we want to curate, what might be the most meaningful way to present this idea that we really want
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 we play both roles, and we view it from outside and inside
 
@@ -6481,9 +5266,6 @@ its ok, because I use that time so I can hop and skip over and see
 
 map, flesh out, creative notes, infinite play, map out more of the infinite game
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 its the hexagons under the wild growth
 
@@ -6497,9 +5279,7 @@ and i'll show you how to really play
 
 it takes time
 
-but it does take some letting go too
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f977.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fe.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="$5" width=50 height=50>
+but it does take some letting go too <img src="https://twemoji.maxcdn.com/2/72x72/1f977.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fe.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -6507,9 +5287,6 @@ _24-Mar-22 05:10 AM_:
 
 found this useful:
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956480104568094770/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/956480104568094770/unknown.png)
 
@@ -6521,15 +5298,11 @@ in the play think of curator as a real actor with their own innovation dimension
 
 then think of library visitor as a real actor with their own innovation dimension
 
-we can access those dimensions in relation with real actors
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+we can access those dimensions in relation with real actors <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
-_24-Mar-22 05:13 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
+_24-Mar-22 05:13 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -6537,9 +5310,6 @@ _24-Mar-22 05:14 AM_:
 
 and of course all of you putting their playing cards on the table/board all of your innovation dimension we can acccess that only by providing and relating what we need as well ( so do not feel held back or anythin, fly! I'm just making sure we have these landing spots ,land marks to reconnect asynchronously)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -6547,9 +5317,6 @@ _24-Mar-22 05:14 AM_:
 
 Fun juxtaposition NFT-backed loans were inevitable? well satori says then NFTs as "soulbound" cultural/intellectual investment/equity is inevitable and even infinite as well
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 overtime we begin to realize usefulness and meaningfulness in the tools we create, use and invest our attention in...
 
@@ -6559,9 +5326,6 @@ _24-Mar-22 05:15 AM_:
 
 Imaginarium, RezGauche, CurveLabs, A Hitchhikers, TE Academy, LTF, ... and many many more with the ecosystem innovation dimension
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-2
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -6571,9 +5335,6 @@ we must first become the egg
 
 so that we can count the feathers of this cosmic chicken
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -6586,9 +5347,6 @@ SatoriD
 _24-Mar-22 05:16 AM_:
 it's credit! yes!! not debt
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -6604,15 +5362,9 @@ _24-Mar-22 05:22 AM_:
 
 yes - and the "art" of valueflow diagrams is not to create the full map - just the distill the highest leverage points (which also change over time!)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 you know who have an "actionable plan" if you have a minimal sustainable validated value flow; meaning all mech in place such that the value stocks do not shrink over time, or start to grow at all (promise, I'll document, and annotate our process, and with feedback it will become clear we are co-creating a business/financial/gov model without excel files and divisions for each function)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f497.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -6620,17 +5372,11 @@ _24-Mar-22 10:09 AM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956555328604995624/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/956555328604995624/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 super useful for our "synchs" - which layer am I communicating at this moment:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956556245244969020/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/956556245244969020/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/emojis/835409757183279134.png](https://cdn.discordapp.com/emojis/835409757183279134.png)
 
@@ -6648,13 +5394,7 @@ _24-Mar-22 10:38 AM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956562615310639114/1MTpmiI05jspy3IJNSKiehQ.png](https://cdn.discordapp.com/attachments/810180622634844202/956562615310639114/1MTpmiI05jspy3IJNSKiehQ.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -6674,9 +5414,6 @@ _24-Mar-22 11:00 AM_:
 
 oh didn't know "cybernetics comes from the Greek for 'navigator'" I thought "steering"
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 now I like Cybernetics even better
 
@@ -6731,18 +5468,14 @@ SatoriD
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _24-Mar-22 11:23 AM_:
-the cylinders are the value stocks
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+the cylinders are the value stocks <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 especially those full of ideas!
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _24-Mar-22 11:24 AM_:
-i know
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+i know <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 it just need to be something I can put all my flower and song in
 
@@ -6758,23 +5491,14 @@ _24-Mar-22 11:27 AM_:
 
 I have an insight gifted to me just now, I want to share - because that is so suitable to our situation: [WHAT] - [HOW] - [WHO] if we have "all the time" we can let all 3 emerge... and we're using these multiple media we are extending time intervals
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 when we synch and have to limit to 60-90mins then we fix one or two to let the third dimension continue emerging
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 and we can and should not always fix the same dimension
 
 and I would love to still have sessions that are free all emergent
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -6794,9 +5518,6 @@ _24-Mar-22 11:31 AM_:
 
 like @Jeanne said, intent listening to one self and each other in such session because you create space for emergence of the special kind - can not just be esctatic but also create deeper connections
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -6818,9 +5539,7 @@ perfect yes! async 1-2-4 and we meet next wednesday
 
 another hack: these fundamental topics that come up here - obviously also are my day job; so even if I can't 2 -4 with you, I do it in the other organizations - it also brings in "outside" perspective (as I don't feel the difference, we're all in the same boat... space ship earth)
 
-and you know what - it is also sufficient if you get to 1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+and you know what - it is also sufficient if you get to 1 <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 it's great next possible step
 
@@ -6836,9 +5555,6 @@ _24-Mar-22 11:37 AM_:
 
 (btw. was just in a session that did 1-2-4-all in zoom, it wasn't the same 2 people in the 4, but 4 different people... it really is about "cross-pollinating" perspectives to gain broader understanding... of "differences" but also, especially of "commonalities"
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -6852,21 +5568,12 @@ _24-Mar-22 11:43 AM_:
 
 I'm reading this book and it talks about how listening by holding space for others thoughts instead of just waiting for them to be done speaking so you can speak, can fundamentally nourish the other person. The brain tends to emphasise defensive structures, until you provide for it a healthier adaptive scenario or response. So creating more experiences of what secure attachment feels like heals the self and it feels more like a healthy exchange. Even imagining such healthy experiences can help...which means even experiencing unhealthy experiences digitally can hurt. But the brain does want to heal so if we continuously create experiences of healthy interactions maybe we can design the library to foster healthy relationships between itself and its users
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
 
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/emojis/835409757183279134.png](https://cdn.discordapp.com/emojis/835409757183279134.png)
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -6876,27 +5583,16 @@ wabi-sabi, wabi refers to, the inward, the subjective, a philosophical construct
 
 this is holding the beautifully imperfect, so that the "ugly, nasty bits" that perhaps block, can be dealt with, and this is when beauty shines, this is when the grace of the pressure start to emerge from the intention of holding this space, this wabi-sabi, its always relative and in relationship of the here and now...looks for personal idiosyncratic solutions, One of a kind/variable, there is no progress, only present-oriented, Organic organization of form(soft, vague shapes and edges)...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-1
 
 part of this for me personally is to unplug, start to get in new habits of moving away from the internet, computer, screens, and dance around in the here and now of IRL
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 my issue of balance I want to be in this hyperspace, dancing all these things I know and see
 
-but with IRL hitting me, to told me to don't get head of yourself, you are gonna get out of
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
+but with IRL hitting me, to told me to don't get head of yourself, you are gonna get out of <img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=20 height=20>
 
 ️ real quick
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 and then every your are saying are just silly words
 
@@ -6924,9 +5620,6 @@ artefact from work:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956582847773286410/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/956582847773286410/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -6949,15 +5642,10 @@ SatoriD
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _24-Mar-22 12:04 PM_:
-look forward to this!!! love your drawings...deep connections feels like telepathy
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+look forward to this!!! love your drawings...deep connections feels like telepathy <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 can I share this one at work? haha
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -6971,17 +5659,8 @@ _24-Mar-22 12:08 PM_:
 
 this is ... there's this notion of how "idea space" is accessible to all, etheric (don't recall the name/concept) ... when I experience things like this, i "know", that is "true". There's no other plausible way how any two strangers across the globe, with different upbringing, culture, gender, education, language, ....... anything you might call identity, see the same patterns
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9d0.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 meeting spaces like these are something like "truth sensors"
 
@@ -7015,46 +5694,27 @@ _24-Mar-22 01:17 PM_:
 
 yes, will miss out on monday, cause have a performance that evening, then will follow up on tuesday and wednesday
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
 solsista
 
-[look forward to this!!! love your drawings...deep connections feels like telepathy](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[look forward to this!!! love your drawings...deep connections feels like telepathy](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _24-Mar-22 02:18 PM_:
-you better!!
+you better!! <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-[https://www.youtube.com/watch?v=NcvROBKeB6Q](https://www.youtube.com/watch?v=NcvROBKeB6Q)
-
-[SatoriD](https://www.youtube.com/channel/UCcMViyRW8GMZxt8V1sLZBTA)
-
-Open Ideas & Creative Collaboration
+[Open Ideas & Creative Collaboration](https://www.youtube.com/watch?v=NcvROBKeB6Q)
 
 A Clip of Me talking with my artist friend curryhobo. What is this open source, collective collaborative future and how do we live in that future? I turn to Douglas Rushkoff musing on Occupy Reality, The process of collaborative change. An organic open source, for the community by the community from the bottom up. Solving problems in a creative...
 
 ![https://i.ytimg.com/vi/NcvROBKeB6Q/maxresdefault.jpg](https://i.ytimg.com/vi/NcvROBKeB6Q/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fc.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -7080,9 +5740,6 @@ _24-Mar-22 06:50 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956686443848282172/NFT_puzzle_card_game_001.jpg](https://cdn.discordapp.com/attachments/810180622634844202/956686443848282172/NFT_puzzle_card_game_001.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa9e.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -7097,23 +5754,12 @@ haha, yessss - the ethereal space, akasha or the morphic resonance
 
 [https://www.sheldrake.org/books-by-rupert-sheldrake/a-new-science-of-life-morphic-resonance](https://www.sheldrake.org/books-by-rupert-sheldrake/a-new-science-of-life-morphic-resonance)
 
-This was referred to in my last zoom today. We're all very resonant across channels
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+This was referred to in my last zoom today. We're all very resonant across channels <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/26a1.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -7127,13 +5773,7 @@ _24-Mar-22 06:59 PM_:
 
 I bet our curators will be more energised to share if given cards/prompts with imaginarium archetypes - and it becomes a living interactive libraryground
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -7159,12 +5799,7 @@ _24-Mar-22 07:22 PM_:
 
 yes, it sounds great! and morphic resonant!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
-I'd like to get a Thena card - thanks a lot!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+I'd like to get a Thena card - thanks a lot! <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -7192,9 +5827,6 @@ what the caterpillar calls the end of the world the master calls a butterfly....
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956716389845057566/953420264836546560.jpg](https://cdn.discordapp.com/attachments/810180622634844202/956716389845057566/953420264836546560.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -7204,9 +5836,7 @@ ok for the most part things are set up for the Imaginarium creative work flow so
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956903448643772416/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/956903448643772416/unknown.png)
 
-Disembodied Poetics teaches us that ideas are strange attractors, that our minds get pulled into their orbit... so just be curious and be with some of this abstract display of a collective mind share... please... please be open to the creative participation of the whole, or not....
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
+Disembodied Poetics teaches us that ideas are strange attractors, that our minds get pulled into their orbit... so just be curious and be with some of this abstract display of a collective mind share... please... please be open to the creative participation of the whole, or not.... <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=20 height=20>
 
 [https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/0mega-Energies-%26-Initiatives?node-id=1195%3A2764](https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/0mega-Energies-%2526-Initiatives?node-id=1195%253A2764)
 
@@ -7228,33 +5858,19 @@ _25-Mar-22 09:23 AM_:
 
 maybe a geohunt? [https://github.com/TheJollyLaMa/GeoBeans](https://github.com/TheJollyLaMa/GeoBeans)
 
-GitHub - TheJollyLaMa/GeoBeans:
+GitHub - TheJollyLaMa/GeoBeans: <img src="https://twemoji.maxcdn.com/2/72x72/1f30e.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f30e.png" width=50 height=50>
+Geonav rewards system for Bean£s ... <img src="https://twemoji.maxcdn.com/2/72x72/1f30e.png" width=20 height=20>
 
-Geonav rewards system for Bean£s ...
+Geonav rewards system for Bean£s at CaffeineLaManna.com! <img src="https://twemoji.maxcdn.com/2/72x72/2615.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f30e.png" width=50 height=50>
-
-Geonav rewards system for Bean£s at CaffeineLaManna.com!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2615.png" width=50 height=50>
-
-️ - GitHub - TheJollyLaMa/GeoBeans:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f30e.png" width=50 height=50>
+️ - GitHub - TheJollyLaMa/GeoBeans: <img src="https://twemoji.maxcdn.com/2/72x72/1f30e.png" width=20 height=20>
 
 Geonav rewards system for Bean£s at CaffeineLaManna.com!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2615.png" width=50 height=50>
-
-️
 
 [https://opengraph.githubassets.com/6436057b131ab002669b0c02ced493735eccbe614860d07ef58342e32278f236/TheJollyLaMa/GeoBeans](https://opengraph.githubassets.com/6436057b131ab002669b0c02ced493735eccbe614860d07ef58342e32278f236/TheJollyLaMa/GeoBeans)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -7265,27 +5881,13 @@ solsista
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 _25-Mar-22 09:52 AM_:
-mmmm.. i gotta gently pull those lotus feet back down to the ground for you all - it's more plausible that two or more seemingly unrelated humans think the same thing than perhaps ever before in open recorded history. that's what the whole 'TV' experiment started as ... what we have now (youtube and advert algos) would cause the agents that developed the tv and late night programming to vomit and shit in complete accordance with the laws of synchronous resonance. stay sharp
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4fa.png" width=50 height=50>
+mmmm.. i gotta gently pull those lotus feet back down to the ground for you all - it's more plausible that two or more seemingly unrelated humans think the same thing than perhaps ever before in open recorded history. that's what the whole 'TV' experiment started as ... what we have now (youtube and advert algos) would cause the agents that developed the tv and late night programming to vomit and shit in complete accordance with the laws of synchronous resonance. stay sharp <img src="https://twemoji.maxcdn.com/2/72x72/1f4fa.png" width=20 height=20>
 
 ⏯️
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
 
@@ -7298,9 +5900,7 @@ Jolly LaMa
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _25-Mar-22 10:20 AM_:
-I have my homie curryhobo, partner in all things creative, who is opening up a creative food truck, and is looking to use NFT in interesting ways, this is great lil
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
+I have my homie curryhobo, partner in all things creative, who is opening up a creative food truck, and is looking to use NFT in interesting ways, this is great lil <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=20 height=20>
 
 monday, he'll be there with my imaginarium style creative sync. yes yes let's play around with this!
 
@@ -7316,9 +5916,7 @@ working on something like a disembodied poetics codex
 
 Jolly LaMa
 
-[mmmm.. i gotta gently pull those lotus feet back down to the ground for you all - it's more plausible that two or more seemingly unrelated humans think the same thing than perhaps ever before in open recorded history. that's what the whole 'TV' experiment started as ... what we have now (youtube and advert algos) would cause the agents that developed the tv and late night programming to vomit and shit in complete accordance with the laws of synchronous resonance. stay sharp ⏯️](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4fa.png" width=50 height=50>
+[mmmm.. i gotta gently pull those lotus feet back down to the ground for you all - it's more plausible that two or more seemingly unrelated humans think the same thing than perhaps ever before in open recorded history. that's what the whole 'TV' experiment started as ... what we have now (youtube and advert algos) would cause the agents that developed the tv and late night programming to vomit and shit in complete accordance with the laws of synchronous resonance. stay sharp ⏯️](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f4fa.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -7326,9 +5924,6 @@ _25-Mar-22 11:02 AM_:
 
 curated filter bubble... riiiiight >> yet this has interesting implications; it is possible to disseminate in hyperspace... again, it comes down to one's own faculty to discern. if there's only capacity for one capacity to build, build that
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -7358,9 +5953,6 @@ Electric Circus Proposal Information Game-based version of the Ecosystem Valuefl
 
 ![https://forum.tecommons.org/uploads/default/optimized/1X/75dd60b6afaf157958b4ad4d03f68ac1f9a47571_2_1024x505.jpeg](https://forum.tecommons.org/uploads/default/optimized/1X/75dd60b6afaf157958b4ad4d03f68ac1f9a47571_2_1024x505.jpeg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -7382,12 +5974,7 @@ _25-Mar-22 11:08 AM_:
 
 actually I wanted to update it with "wisdom of web3" tour... that came up after/for the soulsearching for the self-onboarding to 0mega (thanks again @nic , such a helpful board! )
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
-@Jolly LaMa is a pirate too already
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+@Jolly LaMa is a pirate too already <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -7435,13 +6022,7 @@ _25-Mar-22 11:20 AM_:
 
 yeah most artwork is curryhobos, scribbles are of creative syncs, in the imaginarium, we have mapped out minds token system, imaginarium dreams and other strange things,
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -7497,9 +6078,6 @@ shared ecology of mind
 
 sticky notes and pools of knowledge are always fun
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 I put some stickers in there
 
@@ -7513,9 +6091,6 @@ lil puzzle maze game
 
 add your lil insights and gems
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 move and give more space, if needed
 
@@ -7533,9 +6108,6 @@ _25-Mar-22 11:26 AM_:
 
 haha this is too cool! actually mentioned that in our async LS tweets to @Jeremy&TheGospelOfChange maybe I can refinde
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -7547,9 +6119,6 @@ phenomena of interconnectedness
 
 there some good drawings of curry's and I would just sit with, and those should be something like mirror mandala's and connect sticky notes
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956937830574215238/xlarge_42.jpg](https://cdn.discordapp.com/attachments/810180622634844202/956937830574215238/xlarge_42.jpg)
 
@@ -7566,13 +6135,7 @@ and her infinite loop rays!
 _25-Mar-22 11:34 AM_:
 hahah ok I see I'm in for another growth leap... this encounter reminds me when I met DADAkin, and they confronted me with "hey, how are you going to not skrew up intrinsic motivation when you keep throwing only tokens at it??" ...and I'm like yeah but how can you one even not-mechanize incentive-design... I was perplex, clueless for abt 6 months
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="$5" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -7584,9 +6147,6 @@ Imaginarium Creative Style Sync
 
 ![https://i.ytimg.com/vi/hRihr9fefbE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCXjBKKATMFWJC0k0mppYTQgfOkFw&days_since_epoch=19076](https://i.ytimg.com/vi/hRihr9fefbE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCXjBKKATMFWJC0k0mppYTQgfOkFw&days_since_epoch=19076)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -7597,44 +6157,29 @@ SatoriD
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 _25-Mar-22 01:19 PM_:
-it's there for the takin' - just prototyped. idk if you perused the code but it's surely sloppy
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+it's there for the takin' - just prototyped. idk if you perused the code but it's surely sloppy <img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 it was up and running at some point just for kicks n giggles. geobean was for coffee and then geonug is a second cloned proto play warning: georewards seem like a very sticky legal problem. use extreme caution. your flesh will gladly merge with the front end of a bumper, ensuring you will not pass Go, nor collect 200 bones - and may even go directly to jail. outside of that ... free parking !
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956965514201141248/GeoNugProtoClone.jpg](https://cdn.discordapp.com/attachments/810180622634844202/956965514201141248/GeoNugProtoClone.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _25-Mar-22 01:51 PM_:
-It was cool to see the map alive
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
+It was cool to see the map alive <img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=20 height=20>
 
 I made this gif during the call but forgot to post
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/956973523237212170/map.gif](https://cdn.discordapp.com/attachments/810180622634844202/956973523237212170/map.gif)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
 nic
 
-[It was cool to see the map alive  I made this gif during the call but forgot to post](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
+[It was cool to see the map alive  I made this gif during the call but forgot to post](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=20 height=20>
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
@@ -7642,9 +6187,6 @@ _25-Mar-22 03:42 PM_:
 
 now *that's* a *token*!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -7678,13 +6220,7 @@ We got selected with the rezgauche consilience flower design for Alities NFT Gal
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/957229969384275968/IMG_20220326_112127.jpg](https://cdn.discordapp.com/attachments/810180622634844202/957229969384275968/IMG_20220326_112127.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f-1f3fd.png" width=50 height=50>
-
-1
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -7700,9 +6236,6 @@ NFT Lounge
 
 ![https://celoconnect.com/wp-content/uploads/2022/02/twittercard_web.jpg](https://celoconnect.com/wp-content/uploads/2022/02/twittercard_web.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
 
@@ -7736,15 +6269,9 @@ it's a bit of a learning curve but it's so fun to create your own little worlds 
 
 I'd be in for blender bender if you're down!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 protoype for Blender Bender September. what we do is pick out tutorials we want to learn. i pick one, you pick one - we can make it a group event for anyone wanting to learn to Blend. We take a week to slowly play with a tutorial and really learn the ins and outs of that scene. compare the different perspectives on the scene at the end of the week. maybe contests if there's motivation and interest and in the end we're all blender masters
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -7800,9 +6327,6 @@ _27-Mar-22 11:17 AM_:
 
 Wow, i'll jump into this with joy!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
 
@@ -7818,9 +6342,6 @@ _27-Mar-22 12:10 PM_:
 
 this is so awesome, I would say site, as we can start to add to the site, some of the stuff from the board, I got some doc that we can use to bring out some more co-creative flavors. yeah that royalties flow into consilience, that something I'll put on my creative list to play with!! (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -7832,29 +6353,13 @@ _28-Mar-22 07:26 AM_:
 
 Ritual -Mix- by Andy Loop ● Bomba Estereo ● Lagartijenado ● Kraut
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1d5e1.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fc.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d600.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5ee.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d606.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d602.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f1.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5ee.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d600.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f0.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fc.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fb.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d602.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fb.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5ee.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fd.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f2.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fe.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d602.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f2.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fb.png" width=50 height=50> 
 
-̃
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1d5ee.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f1.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fc.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fb.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5ee.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f0.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f6.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fc.png" width=50 height=50> 
-
-́
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1d5fb.png" width=50 height=50>
-
-❓
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1d5d6.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5ee.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fb.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d606.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fc.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d602.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f5.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f2.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f9.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fd.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d602.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d600.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f6.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d601.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f5.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5ee.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d600.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fa.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5ee.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f9.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f9.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5f1.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fc.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fb.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5ee.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d601.png" width=50 height=50><img src="https://twemoji.maxcdn.com/2/72x72/1d5f6.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fc.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1d5fb.png" width=50 height=50>
-
-❓
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f381.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f198.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f381.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f198.png" width=20 height=20>
 
 [https://beacons.ai/ritmosdelsur](https://beacons.ai/ritmosdelsur)
 
-⏮⏹⏺▶⏭ Escúchanos en Spotify
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3b5.png" width=50 height=50>
+⏮⏹⏺▶⏭ Escúchanos en Spotify <img src="https://twemoji.maxcdn.com/2/72x72/1f3b5.png" width=20 height=20>
 
 [https://spoti.fi/2xfAlhH](https://spoti.fi/2xfAlhH)
 
@@ -7874,9 +6379,6 @@ _28-Mar-22 09:53 AM_:
 
 looks great! can you please record the creative sync session today? cause have another meeting and performance evening at that time..
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -7894,9 +6396,6 @@ On The Concepts of The Omega Mainfesto
 
 ![https://i.ytimg.com/vi/AsUqA9897O4/maxresdefault.jpg](https://i.ytimg.com/vi/AsUqA9897O4/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -7906,9 +6405,6 @@ can't stop laughing at this! It's brilliant!!
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/958053181680680980/omega_starship_energy.png](https://cdn.discordapp.com/attachments/810180622634844202/958053181680680980/omega_starship_energy.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -7916,9 +6412,6 @@ _28-Mar-22 04:04 PM_:
 
 @SatoriD sorry, I won’t be able to make it this time. I’m not home, and won’t make it on time! But would love to see the recording after! Enjoy!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -7927,9 +6420,7 @@ _28-Mar-22 04:56 PM_:
 
 *then*
 
-collaborating with other working groups to expand it past more than 0mega. I'm certain you can totally figure out your own way of going about things too
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+collaborating with other working groups to expand it past more than 0mega. I'm certain you can totally figure out your own way of going about things too <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 @SatoriD Maybe keep jamming with EcplisingBinary and Curry, on how you can onboard them, and from there the cards idea will gain more structure
 
@@ -7957,9 +6448,6 @@ It would be helpful if we could get a few more responses to this invitation! Tak
 
 Twitter • 22-Mar-22 02:12 PM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f363.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
 
@@ -7973,13 +6461,7 @@ _29-Mar-22 05:33 AM_:
 
 I am 100% for it, wanted to learn Blender for months... a bit of group emulation would be amazing... ready to start... should I start with one basic tuto first?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -7992,9 +6474,7 @@ SatoriD
 <h3>Jeanne <img src="https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png" width=25 height=25></h3>
 
 _29-Mar-22 05:39 AM_:
-too bad, I don't have an Elsevier account
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
+too bad, I don't have an Elsevier account <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 sounds very interesting...
 
@@ -8018,9 +6498,6 @@ _29-Mar-22 06:26 AM_:
 
 Sweet! Yay!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483-1f3fd.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png](https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png)
 
@@ -8039,9 +6516,7 @@ hey just fyi, I actually no longer on twitter, its something like a weird story,
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _29-Mar-22 07:21 AM_:
-man, ok I didn't know this, but it seems like when I recorded with obs on my end, the audio from discord was not really getting inputted, so the recording is probably too weird to share, meaning its not really gonna make sense, I have a lil bit of fear of having to go thru me talking
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92e.png" width=50 height=50>
+man, ok I didn't know this, but it seems like when I recorded with obs on my end, the audio from discord was not really getting inputted, so the recording is probably too weird to share, meaning its not really gonna make sense, I have a lil bit of fear of having to go thru me talking <img src="https://twemoji.maxcdn.com/2/72x72/1f92e.png" width=20 height=20>
 
 but I already know what the nudges that i need to share with the class (edited)
 
@@ -8049,9 +6524,7 @@ but I already know what the nudges that i need to share with the class (edited)
 
 nic
 
-[@SatoriD I have to head out in 4 mins, but just a heads up, if your ideas or initiative will involve other working groups outside of 0mega and will affect everyone, it's worth considering bringing them into the conversation. You could also start off with creating within 0mega, solving the problem here, and getting feedback, iterating and *then* collaborating with other working groups to expand it past more than 0mega. I'm certain you can totally figure out your own way of going about things too](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+[@SatoriD I have to head out in 4 mins, but just a heads up, if your ideas or initiative will involve other working groups outside of 0mega and will affect everyone, it's worth considering bringing them into the conversation. You could also start off with creating within 0mega, solving the problem here, and getting feedback, iterating and *then* collaborating with other working groups to expand it past more than 0mega. I'm certain you can totally figure out your own way of going about things too](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -8101,9 +6574,6 @@ _29-Mar-22 08:09 AM_:
 
 Hmmm I understand the hesitation in moving into space other than 0mega…I feel it too. I just thought I’d mention the process that exists at TEC for your consideration (especially since you were talking about other working groups). We can just create within 0mega though…
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -8111,9 +6581,6 @@ _29-Mar-22 08:14 AM_:
 
 its kind of funny, there was some version of this from everyone, yesterday. about we dig this, but we trying to figure out our way to IT
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 and I was like I can dig it, that's why I said well let's just plant this imaginarium seed I been holding and protecting in my pocket, trust, this is one really really wyrd idea, that I think just might work...
 
@@ -8131,9 +6598,6 @@ _29-Mar-22 08:41 AM_:
 
 ball up: [https://lucid.app/lucidchart/3dd8deba-7138-4f43-8a30-1cff759e0a46/edit?viewport_loc=-2982%2C-6295%2C12928%2C6673%2C0_0&invitationId=inv_0646a65c-38d6-4df5-97db-89fa44e9bce7](https://lucid.app/lucidchart/3dd8deba-7138-4f43-8a30-1cff759e0a46/edit?viewport_loc=-2982%252C-6295%252C12928%252C6673%252C0_0&invitationId=inv_0646a65c-38d6-4df5-97db-89fa44e9bce7) dunk that shit yo
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -8151,9 +6615,6 @@ _29-Mar-22 08:52 AM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/958347885450248232/download_6.gif](https://cdn.discordapp.com/attachments/810180622634844202/958347885450248232/download_6.gif)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-1
 
 *source code for satorid*
 
@@ -8197,9 +6658,6 @@ _29-Mar-22 12:38 PM_:
 
 1. Wholeness Coder - Coder/Builder 2. Future Creative - Artist 3. Evolutionary Catalyst - Shaman 4. Pattern Weaver - System Thinker 5. New Paradigm Storyteller - Student/Beginner's Mind (storyteller) I agree with @SatoriD suggestion: What if we use these 5 roles now and forward within Omega workground work? We could "label"ourselves and explore connections with the puzzle game + DEB in this way. I'd also suggest that Phase 1 of the proposal is completed and we distribute funds as per the proposal @Mert Ozd and start building new poetics/valueflows for the NFT game + DEB (connection, transdisciplinarity and novelty - phase 2 and 3). @solsista @nic @stef thoughts on this? (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -8221,31 +6679,16 @@ _29-Mar-22 12:43 PM_:
 
 If we apply the "future roles" categories we'll have 5 kind of players to play the game-version of the value flows course in online cohorts. It kind of shares the same narrative so we could adopt the same"board game" for future participants. 2 for 1 - the library has its own flows (with curators lining up) and the course adapts our NFT puzzle discovery research later on. It's also the onboarding route for future students + a session scheduler. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 I'm also aware of one other ecosystem within the ReFi space that would LOVE to have this game made.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/958408401317150770/Octalysis.png](https://cdn.discordapp.com/attachments/810180622634844202/958408401317150770/Octalysis.png)
 
 Discovery phase is nearly done... Onboarding will require buckets + basic boardgame ("missions/initiatives", "quests/narratives" and "badges"/deliverables) Scaffolding: testing our MVP (library set up + NFT dynamics/improvements and DEB workings) Endgame: none - this is an infinite game
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f977-1f3fe.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/958409990874472468/Screenshot_2022-03-29_at_18.58.52.png](https://cdn.discordapp.com/attachments/810180622634844202/958409990874472468/Screenshot_2022-03-29_at_18.58.52.png)
 
@@ -8259,13 +6702,7 @@ _29-Mar-22 01:49 PM_:
 
 update about consilience flower at Alities: tomorrow the website is going online, [https://alities.io/](https://alities.io/) if you would like to present artworks on this through rezgauche during the conference (nft images/videos, max 100mb, unlimited edition amounts, currency cUSD, unlockable content, first sale split to max 4 accounts, royalties variable percentage to minter) you can send files this week to mail@rezgauche.be and make a mobile valora wallet for adding you to the minting of the artwork. [https://valoraapp.com/](https://valoraapp.com/) is someone of the consilience core team interested to make a 'consilience library wallet' on their mobile, or shall i redistribute afterwards from rez gauche ? display will be during the conference in a lounge which contains a forest and displays art by artist of the first nft platform on celo [https://celoconnect.com/nft-lounge/](https://celoconnect.com/nft-lounge/) (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -8277,11 +6714,8 @@ _29-Mar-22 04:09 PM_:
 
 _29-Mar-22 05:36 PM_:
 
-@SatoriD shall we add your video to the conference? (max upload file is 100mb, can you render it to that size?) [https://www.youtube.com/watch?v=AsUqA9897O4](https://www.youtube.com/watch?v=AsUqA9897O4)
-
-[Infinite Imaginarium Community](https://www.youtube.com/channel/UCpzN_PFW1uZyzLoyzOqFI7Q)
-
-On The Concepts of The Omega Mainfesto
+@SatoriD shall we add your video to the conference? (max upload file is 100mb, can you render it to that size?) 
+[On The Concepts of The Omega Mainfesto](https://www.youtube.com/watch?v=AsUqA9897O4)
 
 0mnifesto - The Manifesto of the Working Group 0mega Following is a “transcript” of our first collective sensemaking what 0mega is about, who it is for, and what is it for in which environment, what is it that we see, who and how we want to be in this emerging field of Token Engineering: Stressful, tech-oriented, numbers - a space that is diff...
 
@@ -8306,17 +6740,8 @@ Letty
 _29-Mar-22 08:01 PM_:
 I feel like parts of myself fit in each of those roles. As to the Phase I being finished, we are so so so close!! We are still missing this: "In the beginning of our library we will have ‘seed curations’ from subject matter experts that will collect 5 to 10 articles" My curation group has 3 curations so far. Unsure if anyone else have started curating... @Jeanne @UniPuff 🜐🐙 @SatoriD @stef @bear100 @Jolly LaMa You have all mentioned really cool things in conversation before and I'm certain you have cool resources to share to the library. Please take a look at the curation template that @solsista created and see if making a copy and filling it in with your curations is something that may energise you! I understand that the way we're doing things, its organic, purposely slow and with lots of care, but also playful. But I think that it would be really helpful for contributors if the progress that has been made in these initiatives are recorded. For example, for each initiative answering questions such as: - What is it it's purpose? - What value does it bring? - What has been done so far? - Who is leading it? - How are things done? Another thing that would be helpful is creating some sort of 0mega dictionary. This way there is some place that a new person can refer to when they don't know what you are talking about. For example, what exactly does "Disembodied Poetics Codex" mean? It's easy to lose people when they feel overwhelmed and alienated by language that is hard for them to understand. I think the updates on each emerging initiative and the emerging 0mega dictionary can be in one document that a new person may refer to. Perhaps this will make them feel empowered to participate - after having learned new things right away. Let's care about those who want to play with us and try to energise them upon joining
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483-1f3fd.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 I can see the 0mega dictionary becoming the cards which they learn from too....
 
@@ -8325,19 +6750,13 @@ Link to **Collective Curation Template**: [https://docs.google.com/document/d/12
 Collective Curation Template for TE Consilience Library
 
 Make a Copy of this template Share it with your transdisciplinary TE curation collective should be min 2 people each person should have experienced TE rabbit hole tunnel system from the lens of more than 1 discipline When curating for the living library a value-add is your personal annotation: ...
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _29-Mar-22 09:07 PM_:
 
-@stef I sent you a 66.5mb version of this one [https://www.youtube.com/watch?v=PgdiqiAH8Jw](https://www.youtube.com/watch?v=PgdiqiAH8Jw)
-
-[Infinite Imaginarium Community](https://www.youtube.com/channel/UCpzN_PFW1uZyzLoyzOqFI7Q)
-
-On Concepts of Co-Creativity
+@stef I sent you a 66.5mb version of this one 
+[On Concepts of Co-Creativity](https://www.youtube.com/watch?v=PgdiqiAH8Jw)
 
 In the valley of Novelty the concepts of co-creativity can help, hop skip around... what if we thought of NFTs as soulbound... would we be able to feel the howling TAO? Check out TE CONSILIENCE LIBRARY MANIFESTO: [https://consilib90210-39f36.stackbit.app/te-consilience-library-manifesto/](https://consilib90210-39f36.stackbit.app/te-consilience-library-manifesto/) Song by Jolly Lama: ShoelessJoeJackShun Video and Audio ...
 
@@ -8375,9 +6794,6 @@ i'm working with teamhuman friend, on doing some next level mind map, using 1,3,
 
 this sample of a fully demo of mind mapping Quantum Psychology by Robert Anton Wilson
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 so we are gonna just to a collective mind mapping, so I get the learn how to do it myself, and with him i'll work out mind mapping the archetype of the shaman
 
@@ -8401,13 +6817,9 @@ Jeanne
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
-_30-Mar-22 07:02 AM_:
+_30-Mar-22 07:02 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-blender bender sandbox
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d6.png" width=50 height=50>
+blender bender sandbox <img src="https://twemoji.maxcdn.com/2/72x72/1f3d6.png" width=20 height=20>
 
 [https://lucid.app/lucidchart/3dd8deba-7138-4f43-8a30-1cff759e0a46/edit?viewport_loc=-2982%2C-6295%2C12928%2C6673%2C0_0&invitationId=inv_0646a65c-38d6-4df5-97db-89fa44e9bce7](https://lucid.app/lucidchart/3dd8deba-7138-4f43-8a30-1cff759e0a46/edit?viewport_loc=-2982%252C-6295%252C12928%252C6673%252C0_0&invitationId=inv_0646a65c-38d6-4df5-97db-89fa44e9bce7)
 
@@ -8415,13 +6827,7 @@ tu viens? kommst du? vienes? क्या आप आ रहे हैं?
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/958682717556465724/ezgif.com-gif-maker-4.gif](https://cdn.discordapp.com/attachments/810180622634844202/958682717556465724/ezgif.com-gif-maker-4.gif)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c-1f3fd.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -8447,17 +6853,12 @@ _30-Mar-22 11:50 AM_:
 
 Finally, some labels I could actually relate to!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
 
 Jolly LaMa
 
-[ blender bender sandbox](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3d6.png" width=50 height=50>
+[ blender bender sandbox](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3d6.png" width=20 height=20>
 
 [https://lucid.app/lucidchart/3dd8deba-7138-4f43-8a30-1cff759e0a46/edit?viewport_loc=-2982%2C-6295%2C12928%2C6673%2C0_0&invitationId=inv_0646a65c-38d6-4df5-97db-89fa44e9bce7](https://lucid.app/lucidchart/3dd8deba-7138-4f43-8a30-1cff759e0a46/edit?viewport_loc=-2982%252C-6295%252C12928%252C6673%252C0_0&invitationId=inv_0646a65c-38d6-4df5-97db-89fa44e9bce7)
 
@@ -8478,9 +6879,7 @@ SatoriD
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _30-Mar-22 01:51 PM_:
-Would it be ok for you to explain more what you're thinking as to how the curate thing relates to the video edits?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+Would it be ok for you to explain more what you're thinking as to how the curate thing relates to the video edits? <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 Or are you making the results of the curation process part of what goes into the NFTs?
 
@@ -8488,9 +6887,7 @@ Or are you making the results of the curation process part of what goes into the
 
 nic
 
-[I feel like parts of myself fit in each of those roles. As to the Phase I being finished, we are so so so close!! We are still missing this: "In the beginning of our library we will have ‘seed curations’ from subject matter experts that will collect 5 to 10 articles" My curation group has 3 curations so far. Unsure if anyone else have started curating... @Jeanne @UniPuff 🜐🐙 @SatoriD @stef @bear100 @Jolly LaMa You have all mentioned really cool things in conversation before and I'm certain you have cool resources to share to the library. Please take a look at the curation template that @solsista created and see if making a copy and filling it in with your curations is something that may energise you! I understand that the way we're doing things, its organic, purposely slow and with lots of care, but also playful. But I think that it would be really helpful for contributors if the progress that has been made in these initiatives are recorded. For example, for each initiative answering questions such as: - What is it it's purpose? - What value does it bring? - What has been done so far? - Who is leading it? - How are things done? Another thing that would be helpful is creating some sort of 0mega dictionary. This way there is some place that a new person can refer to when they don't know what you are talking about. For example, what exactly does "Disembodied Poetics Codex" mean? It's easy to lose people when they feel overwhelmed and alienated by language that is hard for them to understand. I think the updates on each emerging initiative and the emerging 0mega dictionary can be in one document that a new person may refer to. Perhaps this will make them feel empowered to participate - after having learned new things right away. Let's care about those who want to play with us and try to energise them upon joining](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+[I feel like parts of myself fit in each of those roles. As to the Phase I being finished, we are so so so close!! We are still missing this: "In the beginning of our library we will have ‘seed curations’ from subject matter experts that will collect 5 to 10 articles" My curation group has 3 curations so far. Unsure if anyone else have started curating... @Jeanne @UniPuff 🜐🐙 @SatoriD @stef @bear100 @Jolly LaMa You have all mentioned really cool things in conversation before and I'm certain you have cool resources to share to the library. Please take a look at the curation template that @solsista created and see if making a copy and filling it in with your curations is something that may energise you! I understand that the way we're doing things, its organic, purposely slow and with lots of care, but also playful. But I think that it would be really helpful for contributors if the progress that has been made in these initiatives are recorded. For example, for each initiative answering questions such as: - What is it it's purpose? - What value does it bring? - What has been done so far? - Who is leading it? - How are things done? Another thing that would be helpful is creating some sort of 0mega dictionary. This way there is some place that a new person can refer to when they don't know what you are talking about. For example, what exactly does "Disembodied Poetics Codex" mean? It's easy to lose people when they feel overwhelmed and alienated by language that is hard for them to understand. I think the updates on each emerging initiative and the emerging 0mega dictionary can be in one document that a new person may refer to. Perhaps this will make them feel empowered to participate - after having learned new things right away. Let's care about those who want to play with us and try to energise them upon joining](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 <h3>Jeanne <img src="https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png" width=25 height=25></h3>
 
@@ -8518,9 +6915,7 @@ Letty
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _30-Mar-22 02:06 PM_:
-I have to catch up from here
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+I have to catch up from here <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -8530,9 +6925,6 @@ _30-Mar-22 02:16 PM_:
 
 !praise @bear100 for taking on the recording of 0mega call
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-4
 
 @Jeanne @Nate0909 @Letty Let's do a call on Dynamic Energy Budgets! When are you free? Btw Jeanne also wants more info on library so will be going over that in the call too
 
@@ -8569,24 +6961,18 @@ youre not in the call at all
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 _30-Mar-22 02:22 PM_:
-have you heard any
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+have you heard any <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
 
 Mert Ozd
 
-[have you heard any](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[have you heard any](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _30-Mar-22 02:22 PM_:
-none
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+none <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
@@ -8638,9 +7024,6 @@ Created with FigJam
 
 [https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/thumbnail?ver=thumbnails/5c6cf9df-a5b6-4137-b30e-42348a72e95c](https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/thumbnail?ver=thumbnails/5c6cf9df-a5b6-4137-b30e-42348a72e95c)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -8648,9 +7031,6 @@ _30-Mar-22 03:18 PM_:
 
 I dont think people understood at all what i was trying to say........ I *am* trying to figure out myself how to guide people through this board (both sides)...by asking how the play side of it works....but I myself find it hard to make sense..and that is why I was asking questions.. but it felt like instead of my questions being answered it felt like much of what was said was in defence of the board when I wasn't even criticising it. I just wanted to know how to explain it to people, and to people who may desire structure.... I asked what/who will guide people through the play side of the board to guide those who it does not come naturally to. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -8687,18 +7067,14 @@ Jolly LaMa
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _30-Mar-22 03:27 PM_:
-aren't those stories we tell ourselves @Jolly LaMa ?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+aren't those stories we tell ourselves @Jolly LaMa ? <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 I'm "great" at this, horrible at that,
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 _30-Mar-22 03:28 PM_:
-im sure theres more than a few that could tell you that
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+im sure theres more than a few that could tell you that <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 i also have a knack for having my back to the concert
 
@@ -8809,9 +7185,7 @@ nic
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 _30-Mar-22 03:38 PM_:
-i think you're onto one of those slippery dimensions
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+i think you're onto one of those slippery dimensions <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 i only need to know the sun is shining to want to go to the bahamas
 
@@ -8836,9 +7210,7 @@ WG 0mega Manifesto Working Copy
 
 Jolly LaMa
 
-[i think you're onto one of those slippery dimensions  i only need to know the sun is shining to want to go to the bahamas](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[i think you're onto one of those slippery dimensions  i only need to know the sun is shining to want to go to the bahamas](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -8909,15 +7281,10 @@ yes and that's big part of the current update work, that's how I see it. no cook
 _30-Mar-22 03:45 PM_:
 i think you just described perfectly well what a mentor does for a community and how to embody compassion
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 @nic
 
-and seb! youre all great at it
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+and seb! youre all great at it <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 stef!
 
@@ -8933,13 +7300,7 @@ _30-Mar-22 03:47 PM_:
 
 But we could at least explicitly say for example in answering "how are things done" for the Disembodied poetics codex side...."for now, just look at what calls to you, and share any media on the board..the process is organic/emerging" At least being able to provide such answers would be nice, but these questions arent always answered - I just tried to ask them in the call and got only some answers
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -8960,9 +7321,7 @@ Please
 
 *help me*
 
-share about the work you are all doing
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f614.png" width=50 height=50>
+share about the work you are all doing <img src="https://twemoji.maxcdn.com/2/72x72/1f614.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -8974,9 +7333,7 @@ all we can do now is put up a signpost "Playground this way" and hold space for 
 
 nic
 
-[Please *help me* share about the work you are all doing](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f614.png" width=50 height=50>
+[Please *help me* share about the work you are all doing](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f614.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -8996,9 +7353,6 @@ _30-Mar-22 03:49 PM_:
 
 ok I can do that
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -9012,9 +7366,6 @@ _30-Mar-22 03:50 PM_:
 
 asap...we already have people who are lost
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
@@ -9096,9 +7447,6 @@ _30-Mar-22 03:58 PM_:
 
 for example I have a couple who want to contribute but feel lost about the different initiatives...the energy map things aren't being updated so I dont know exactly what is going on...what that tells me is it doesnt work for those who are not updating their initiatives on there.....that's ok - time to improve! But I myself am lost on what's happening, for example I thought we were gonna go over these in today's call because thats what you said last call: - Sebnem will share more about value flows - Ideating on regenerative workflows - Ideating on creating space that encourages others - Ideating on creating space that supports growth and I updated the event as such... I'm finding it hard to understand and keep track of other things happening here and therefore cannot even pass on answers to those who are lost. I ask questions but they are not answered
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -9123,9 +7471,7 @@ nic
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _30-Mar-22 04:00 PM_:
-yes, I see - ok, but then @SatoriD happened
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+yes, I see - ok, but then @SatoriD happened <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 and he wanted to share the creative work flow approach
 
@@ -9133,9 +7479,7 @@ and he wanted to share the creative work flow approach
 
 solsista
 
-[yes, I see - ok, but then @SatoriD happened  and he wanted to share the creative work flow approach](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[yes, I see - ok, but then @SatoriD happened  and he wanted to share the creative work flow approach](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -9199,9 +7543,7 @@ so ok, today we made space on the board for a playground for creative workflow
 
 more people might get lost, but it's a place where creative minds will find each other
 
-also "sometimes you have to lose yourself to find yourself"
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+also "sometimes you have to lose yourself to find yourself" <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -9244,9 +7586,7 @@ nic
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _30-Mar-22 04:09 PM_:
-ok seeing these questions the third time, doesn't help me help anyone, sorry if I upset you
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+ok seeing these questions the third time, doesn't help me help anyone, sorry if I upset you <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 #1 we currently on have 1 live initative: TE Consilience Library
 
@@ -9319,9 +7659,7 @@ solsista
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _30-Mar-22 04:16 PM_:
-but I cant if I dont even know anymore where everything regarding the library is at
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f622.png" width=50 height=50>
+but I cant if I dont even know anymore where everything regarding the library is at <img src="https://twemoji.maxcdn.com/2/72x72/1f622.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -9369,9 +7707,7 @@ now im really lost
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
-_30-Mar-22 04:19 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+_30-Mar-22 04:19 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 call?
 
@@ -9379,12 +7715,7 @@ call?
 
 _30-Mar-22 04:19 PM_:
 you did not, I myself have become lost in trying to get answers for those who are lost
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f635.png" width=50 height=50>
-
-‍
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4ab.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f4ab.png" width=20 height=20>
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
@@ -9392,9 +7723,6 @@ _30-Mar-22 04:20 PM_:
 
 I think it is better to invite people to collective creation process. For example, if we are creating a research group we can collectively shape it with new comers as well. We are exploring some possibilities of how this working group work and what will it produce; but I totally understand @nic 's frustration. So, I believe we can say that we are exploring those possiblities around those issues would you like to help over
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
 
@@ -9500,9 +7828,6 @@ ok would you prefer we continue with it, next week, or do it here in text ?
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/958826093333323856/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/958826093333323856/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -9544,9 +7869,6 @@ _30-Mar-22 04:39 PM_:
 
 let's go with less poetic version, this will do: **"The purpose of the TE Consilience Library is to imagine the future of libraries for a transdisciplinary phenomenon like Token Engineering, to provide a sense of Connection through wanting to learn, share and grow"**
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f499.png" width=50 height=50>
-
-1
 
 and more *"We value new friends, novelty, fun, and infinite play"*
 
@@ -9582,9 +7904,6 @@ _30-Mar-22 04:43 PM_:
 
 oh no all good, those were my feelings...I dont want my idea to be the only one!!! I love the diversity of ideas
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 I imagine other adventures will emerge...but for now am tryin to solve those problems shared in the image..so that people can join us and such adventures can emerge (edited)
 
@@ -9600,13 +7919,7 @@ _30-Mar-22 04:45 PM_:
 
 ok to add this text to the description of the nft flower? for display at [https://celoconnect.com/nft-lounge/](https://celoconnect.com/nft-lounge/)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
 
@@ -9619,9 +7932,7 @@ stef
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _30-Mar-22 04:46 PM_:
-hoping someone else who is better at synthesizing words takes a stab at it
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+hoping someone else who is better at synthesizing words takes a stab at it <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 But the important point is:
 
@@ -9645,9 +7956,6 @@ these are the answers of people who contribute to the TE Consilience Library, wh
 
 (I cannot participate in the library, because the 2nd problem that you identify correctly: The TE Ethics initiative is stalling, which is important, and needs a huge redesign, so I would love to have some space for that working alongside the working group proposal)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
@@ -9657,18 +7965,9 @@ _30-Mar-22 04:49 PM_:
 
 ![https://media.tenor.com/cp1tQEsWmpAAAAAD/books-library.png?c=VjFfZGlzY29yZA](https://media.tenor.com/cp1tQEsWmpAAAAAD/books-library.png?c=VjFfZGlzY29yZA)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50>
-
-2
 nic i like the problem you're teasing out too. it's a problem everywhere i've ever been and it's solution is an integral part of what a community becomes! i feel stuck in the interstellar walls fam
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f622.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f32c.png" width=50 height=50>
-
-1
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -9676,25 +7975,14 @@ _30-Mar-22 04:49 PM_:
 
 ok, i´ll add a page to rezgauche website about consilience library with artwork text and links to discord figma and site
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
 
 Jolly LaMa
 
-[nic i like the problem you're teasing out too. it's a problem everywhere i've ever been and it's solution is an integral part of what a community becomes! i feel stuck in the interstellar walls fam](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
+[nic i like the problem you're teasing out too. it's a problem everywhere i've ever been and it's solution is an integral part of what a community becomes! i feel stuck in the interstellar walls fam](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -9732,22 +8020,13 @@ _30-Mar-22 04:51 PM_:
 
 "This flower captures the essence of a natural gathering of bodies, minds and souls sharing and expanding together the interconnectedness of new transdisciplinar phenomena" (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _30-Mar-22 04:52 PM_:
 (may I remind us all that @stef was just on the frustrated/confused state 3 weeks ago
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
 
-)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3a2.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -9758,9 +8037,7 @@ Letty
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _30-Mar-22 04:53 PM_:
-yet moves a bit too far from Token Engineering... (I'm the last person who'd hold you back
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+yet moves a bit too far from Token Engineering... (I'm the last person who'd hold you back <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ) but I think keeping the TE context is important for the start
 
@@ -9774,9 +8051,7 @@ _30-Mar-22 04:54 PM_:
 
 solsista
 
-[(may I remind us all that @stef was just on the frustrated/confused state 3 weeks ago  )](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+[(may I remind us all that @stef was just on the frustrated/confused state 3 weeks ago  )](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -9792,13 +8067,9 @@ Letty
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
-_30-Mar-22 04:55 PM_:
+_30-Mar-22 04:55 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
-
-well it is funded by TEC for only that purpose... so let's focus on that ... but remember the playground just north east
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+well it is funded by TEC for only that purpose... so let's focus on that ... but remember the playground just north east <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
 
@@ -9812,13 +8083,7 @@ _30-Mar-22 04:56 PM_:
 
 The building in the street around the corner from my library today, which was new to me, held an Omega billboard sign...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -9840,15 +8105,10 @@ _30-Mar-22 04:57 PM_:
 
 maybe you can "replicate" in a way, what @stef is doing with rezgauche ?
 
-would be so cool to have physical stations
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+would be so cool to have physical stations <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 OMG people could visit and go on a scavanger hunt across the IRL TE Consilience Library network hahah
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -9944,13 +8204,7 @@ _30-Mar-22 05:03 PM_:
 
 desire to improve on the visuals and practice site building, and being a performance artist i have this constant 5 year old inner drive of wanting to show mother my latest creation. and a need to realise rezgauche roadmap and kind of think this group is kinda crazy enough to be for real about things, appreciate this environment and happy to learn more...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -9964,9 +8218,6 @@ _30-Mar-22 05:04 PM_:
 
 I think I am somewhat grasping what you mean with "dark energy", the "space in between" , the unexplored .... all the siloes are emptied you can scream all you want they have no answers no more.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -9974,13 +8225,7 @@ _30-Mar-22 05:04 PM_:
 
 Which bring us back to the curation and puzzle game....
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -9990,9 +8235,6 @@ maybe these ?
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/958834119318569050/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/958834119318569050/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -10006,9 +8248,6 @@ _30-Mar-22 05:04 PM_:
 
 Echo chambers in empty/disembodied places
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -10028,9 +8267,6 @@ _30-Mar-22 05:05 PM_:
 
 agreed. spanning from priceless all the way to worthless.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -10041,9 +8277,7 @@ Letty
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _30-Mar-22 05:06 PM_:
-hey I lost this reference, where can I find more about those archetypes? can you link the thread ? or is it in figma, highly appreciate any pointers
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+hey I lost this reference, where can I find more about those archetypes? can you link the thread ? or is it in figma, highly appreciate any pointers <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
 
@@ -10086,17 +8320,12 @@ which is individual (for each participant) and universal (for the space - new Co
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 _30-Mar-22 05:15 PM_:
-can you imagine listening to this without watching it and trying to make sense of it? or even watching it without listening? and this guy knows full well what he's talking about ... NOTHING!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
+can you imagine listening to this without watching it and trying to make sense of it? or even watching it without listening? and this guy knows full well what he's talking about ... NOTHING! <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=20 height=20>
 
 just cuz it's a do nothing machine doesnt mean it doesnt do something. the space between.
 
-[https://www.youtube.com/watch?v=Bp4tGTNNi1I](https://www.youtube.com/watch?v=Bp4tGTNNi1I)
 
-[Massee Media](https://www.youtube.com/channel/UCvNjXFll67yM8F1thjNZM8w)
-
-The amazing Do Nothing Machine at the Museum of Craftsmanship
+[The amazing Do Nothing Machine at the Museum of Craftsmanship](https://www.youtube.com/watch?v=Bp4tGTNNi1I)
 
 The Do Nothing Machine, built by Lawrence Wahlstrom, plus stationary engines by Rudy Kouhoupt at the end. Craftsmanship Museum, Carlsbad, CA. From the museum website at www.craftsmanshipmuseum.com - According to a newspaper article (paper unknown) from about the early 1960's, the inventor of this engineering marvel was Lawrence Wahlstrom, a re...
 
@@ -10114,9 +8343,6 @@ _30-Mar-22 05:15 PM_:
 
 so that was my first exposure to "really can't be something taught," and I heard that from @mZ when I was (actually very much like @nic) all inquisitive about "tell me how to do it!" ... so there is that aspect about systematizing and system modeling... you need the inquisitive mind to take you all the way to the edge, and then you need freedom and creativity to fly
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
 
@@ -10160,13 +8386,7 @@ _30-Mar-22 05:17 PM_:
 
 What is it that you can't see but can feel/sense/know energise the liminal field of connection?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-2
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -10383,9 +8603,6 @@ _30-Mar-22 06:58 PM_:
 
 I see satori’s idea as first step in playing…want to invite people to it…but am also trying to meet people half way (those not used to play) by providing *some* structure in the form of explanation of what we think it is/ideas on how to interact with it so far
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -10417,33 +8634,19 @@ _30-Mar-22 07:01 PM_:
 
 he will provide moving forward, Satori just introduced it to us today
 
-and as mentioned I'm happy to be one of the systematizers and help integrate it into workflow - again if someone wants to learn ... this would be the systematizing station (with super busy cooks
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=50 height=50>
+and as mentioned I'm happy to be one of the systematizers and help integrate it into workflow - again if someone wants to learn ... this would be the systematizing station (with super busy cooks <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
 ) (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483-1f3fd.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 For 0mega... since we're "upgrading" ... what do you all think of : Purpose: **"Embodying Wisdom of Web3"** and further *"we are now in the business of becoming wise, not knowledgeable...knowledge is easy to collect, wisdom is a matter of being"*
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3af.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483-1f3fd.png" width=50 height=50>
-
-1
 
 also connects back to origins:
 
@@ -10455,9 +8658,6 @@ _30-Mar-22 07:08 PM_:
 
 Please check comments in figma Maybe it will help. I can’t seem to communicate well. I need to go for now, sorry (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -10465,15 +8665,10 @@ _30-Mar-22 07:15 PM_:
 
 yes, the play will be part of workflow -not a playful onboarding (unless people feel drawn to it - as Satori says: you can't teach play, there is no onboarding to playground) (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 that is the misunderstanding
 
-[https://kernel.community/en/learn/module-0/play-of-pattern/](https://kernel.community/en/learn/module-0/play-of-pattern/)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
+[https://kernel.community/en/learn/module-0/play-of-pattern/](https://kernel.community/en/learn/module-0/play-of-pattern/) <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=20 height=20>
 
 The Play of Pattern
 
@@ -10493,13 +8688,7 @@ _30-Mar-22 07:55 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/958877065602551818/unknown.jpeg](https://cdn.discordapp.com/attachments/810180622634844202/958877065602551818/unknown.jpeg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 Chapter 11 - Integral Framework Into the heart of systems change, PhD Smitsman
 
@@ -10513,9 +8702,6 @@ Pls add to the board ⬆️
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/958880518399746048/Screenshot_2022-03-31-02-07-11-07.jpg](https://cdn.discordapp.com/attachments/810180622634844202/958880518399746048/Screenshot_2022-03-31-02-07-11-07.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -10547,9 +8733,7 @@ play is not mechanistic
 
 there is a place beyond token engineering, yet it becomes a possibility through TE, cryptoeconomics, web3 and all other interconnected developments of our time
 
-"the valley beyond "
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+"the valley beyond " <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 "A game may very well allow for elements of play, but play will never be a game. Play only serves play and entails freedom to evolve its own nature. In play, one is not able to presuppose direction and outcome"
 
@@ -10579,9 +8763,6 @@ _31-Mar-22 07:24 AM_:
 
 @SatoriD @solsista @nic I think performative practice would contribute to play+embodiement+ inspiration (I was watching beautiful satori's video on co-creation), I could propose this kind of play even when being distant but proposing actions with objects to explore together...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -10595,9 +8776,6 @@ _31-Mar-22 07:25 AM_:
 
 yes, definitely feeling the blanks... for me watching faces in first meetings (even only on screens) would help me so much in onboarding
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png](https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png)
 
@@ -10619,9 +8797,6 @@ I also want to tie in something @Jolly LaMa and myself was tossing around, this 
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/959061428193611816/The_Minds_is_We.png](https://cdn.discordapp.com/attachments/810180622634844202/959061428193611816/The_Minds_is_We.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png](https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png)
 
@@ -10635,9 +8810,6 @@ _31-Mar-22 08:43 AM_:
 
 would be wonderful - we can move this into "I want to Play More" - but also see how it will feed into our regenerative workflows research groundwork (sensing phase, WIP)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 this is from last weeks community call
 
@@ -10653,25 +8825,14 @@ This is an opportunity for us the experience together the TE Ethical Principle o
 
 I have worked out a Practice Session for it in the TE Ethics Initiatives
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
 
 You'll find all info in the TE Ethics Initiative island in figma, it is called "World of Worldviews Game"
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 I would offer to host a practice session where we put the topic of "regenerative workflow" into the middle and play tha game to understand and appreciate the different principles
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
 
-1
-
-recognize patterns: [https://kernel.community/en/learn/module-0/play-of-pattern/](https://kernel.community/en/learn/module-0/play-of-pattern/)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
+recognize patterns: [https://kernel.community/en/learn/module-0/play-of-pattern/](https://kernel.community/en/learn/module-0/play-of-pattern/) <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=20 height=20>
 
 The Play of Pattern
 
@@ -10697,9 +8858,6 @@ _31-Mar-22 08:53 AM_:
 
 letty when you were at the library yesterday, you could go to the librarian at the desk you could go to the dooey decimal box thingy or just go peruse the book shelves. then there's always that gathering room where people spread out and play and they have coombayaa gatherings in somethign for every learning need what else? they really only kick you out if you are loud during quiet times or talking about burning books
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -10707,9 +8865,6 @@ _31-Mar-22 08:53 AM_:
 
 For next weeks agenda, based on the discussions and points that need clarifications, i.e. if and what is holding work in other initiatives etc. - I'm proposing "A tour of the Archipelago" - please everyone make sure that your active contributions are on the board, any results you have that others can contribute to - and also what is needed for progress (the figma has a legend to read)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -10737,9 +8892,6 @@ _31-Mar-22 08:56 AM_:
 
 I wished I could participate, but can't :/ pls share link so those who can know where - and also pls share any insights, document on figma for others who are interested to join asynch
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
 
@@ -10753,13 +8905,7 @@ _31-Mar-22 09:00 AM_:
 
 Yay! Plus I actively participated in a book presentation Perused books Smelled printed paper Talked about European heritage And escape to join Omega call! (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4da.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -10785,9 +8931,6 @@ _31-Mar-22 09:17 AM_:
 
 This would be a specific central session **consiliencing** around **REGENERATIVE WORK STYLE** and what does it mean for ourselves, Ethics and the different worldviews in place (especially within the integral framework: mechanistic system vs thrivability system).
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -10804,9 +8947,7 @@ _31-Mar-22 09:26 AM_:
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _31-Mar-22 09:27 AM_:
-@Jeanne 9-11am Pacific Daylight Time, I live in Los Angeles, but I like working in the mornings
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+@Jeanne 9-11am Pacific Daylight Time, I live in Los Angeles, but I like working in the mornings <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 (edited)
 
@@ -10814,18 +8955,13 @@ _31-Mar-22 09:27 AM_:
 
 SatoriD
 
-[@Jeanne 9-11am Pacific Daylight Time, I live in Los Angeles, but I like working in the mornings   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+[@Jeanne 9-11am Pacific Daylight Time, I live in Los Angeles, but I like working in the mornings   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 <h3>Jeanne <img src="https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png" width=25 height=25></h3>
 
 _31-Mar-22 09:28 AM_:
 6pm CET if there's no Kernel fireside, happy to join at 9am/6pm
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -10833,28 +8969,17 @@ _31-Mar-22 09:29 AM_:
 
 Yeah i figure we can use omega voice channel, so do lil pop-up creative jam sessions (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _31-Mar-22 09:39 AM_:
-!praise @Letty for finding Anneloes Smitsman, and making her work "Into the Heart of Systems Change" accessible for 0mega participants, it reads like a roadmap
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+!praise @Letty for finding Anneloes Smitsman, and making her work "Into the Heart of Systems Change" accessible for 0mega participants, it reads like a roadmap <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ❤️
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-1
-
-these are 15 mins worth your time: [https://www.youtube.com/watch?v=O8k1mhrhIrw](https://www.youtube.com/watch?v=O8k1mhrhIrw) it explains the three questions we need to ask ourselves to fill in the blanks what motivates us to be involved with TEC and particularly 0mega
-
-[TEDx Talks](https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q)
-
-Our world in Crises, how love can provide a solution - Anneloes Smi...
+these are 15 mins worth your time: 
+[Our world in Crises, how love can provide a solution - Anneloes Smi...](https://www.youtube.com/watch?v=O8k1mhrhIrw)
 
 Anneloes Smitsman believes that love is a strong solution to the problems of our world in crises. She encourages us to ask three questions about being a vector of love: 1) What do I reach from? What is my point of origin? 2) How far can I reach inside and outside myself? 3) What am I reaching for? Anneloes Smitsman is the Founder and CEO of EAR...
 
@@ -10884,20 +9009,13 @@ Created with FigJam
 
 Jeanne
 
-[6pm CET if there's no Kernel fireside, happy to join at 9am/6pm](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+[6pm CET if there's no Kernel fireside, happy to join at 9am/6pm](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _31-Mar-22 09:57 AM_:
 lol kernel fireside, I don't even know what that is, but did a lil peak, yeah no kernel fireside...
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50>
-
-✨
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f388.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f388.png" width=20 height=20>
 
 <h3>Jeanne <img src="https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png" width=25 height=25></h3>
 
@@ -10905,9 +9023,6 @@ _31-Mar-22 10:00 AM_:
 
 So I'll fireside on omega voice
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -10919,17 +9034,12 @@ learning this today:
 
 I find it really funny that I actually did design communication protocols for distributed coordination of computers... maybe that's where my frustration comes from, I don't want to human coordination be programmed by a lead developer. I truly believe it will deprive us from the possibilities and potential we humans have as opposed to computers that run a predefined program.
 
-yes, he's my man
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+yes, he's my man <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 this is my P2P understanding, too: (edited)
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/959093066323615825/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/959093066323615825/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 N-Tier is not resilient
 
@@ -10941,9 +9051,6 @@ update for today's community update call:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/959096557356085358/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/959096557356085358/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 please update all active contributions and needs etc on the islands:
 
@@ -10976,9 +9083,7 @@ I would suggest, that anyone wanting to understand the full power of Imaginarium
 
 Imaginarium along with Mindsgaming, has this "organic" network, of real people. meaning we basically know everyone who interactions with our networks, there our community.
 
-so we all have groups, matrix chats, and ways we toss
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f388.png" width=50 height=50>
+so we all have groups, matrix chats, and ways we toss <img src="https://twemoji.maxcdn.com/2/72x72/1f388.png" width=20 height=20>
 
 here's another thing that will be fun to Infinite Loop in "Idea: Actually viable on-chain reputation score via locked tokens" [https://github.com/Joystream/joystream/issues/3535](https://github.com/Joystream/joystream/issues/3535)
 
@@ -10990,21 +9095,14 @@ Origin: #3398 New Concept: The idea of staking tokens in support of channels/con
 
 this comes about in the minds matrix chat, that mindsgaming wants community builders, sit at the DAO table
 
-in which Imaginarium style
+in which Imaginarium style <img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50>
-
-the soil so when the time is right we can have
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+the soil so when the time is right we can have <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 for our emerging creative styles
 
 I am gonna set up Imaginarium channel over on joystream, and I have my buddy mindsgaming getting hip to the scene, so that Omega and friends can piggyback on our imaginarium style working the bazaar hustle
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50>
-
-1
 
 this is near future becomes home to [https://youtu.be/0zT9Fw3b0lU](https://youtu.be/0zT9Fw3b0lU) (edited)
 
@@ -11016,9 +9114,6 @@ Eternity 2 23 22
 
 ![https://i.ytimg.com/vi/0zT9Fw3b0lU/maxresdefault.jpg](https://i.ytimg.com/vi/0zT9Fw3b0lU/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
@@ -11026,9 +9121,7 @@ Eternity 2 23 22
 
 and we with TEC friends, figure out what work best on the back end
 
-DAO to DAO
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
+DAO to DAO <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=20 height=20>
 
 really the future is in the here and TAO
 
@@ -11046,9 +9139,6 @@ Short Intro video about Loie Fuller "The Serpent Dance Girl" Loie Fuller is an i
 
 ![https://i.ytimg.com/vi/n3Mxvul5C9w/maxresdefault.jpg](https://i.ytimg.com/vi/n3Mxvul5C9w/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 love to her your thoughts, about adding to the visual mix for this emerging edit from omega working style meeting
 
@@ -11063,19 +9153,11 @@ SatoriD
 <h3>Jeanne <img src="https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png" width=25 height=25></h3>
 
 _31-Mar-22 11:28 AM_:
-She's my ancestor!!!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f495.png" width=50 height=50>
+She's my ancestor!!! <img src="https://twemoji.maxcdn.com/2/72x72/1f495.png" width=20 height=20>
 
 I have been worli g on dance and light before I knew about her work, I can talk about it for hours
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f607.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -11085,9 +9167,6 @@ _31-Mar-22 11:59 AM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/959119861513080832/xlarge_14.jpg](https://cdn.discordapp.com/attachments/810180622634844202/959119861513080832/xlarge_14.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>Jeanne <img src="https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png" width=25 height=25></h3>
 
@@ -11095,9 +9174,6 @@ _31-Mar-22 12:00 PM_:
 
 Coming in 2mn
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -11111,9 +9187,6 @@ In the digital world, decentralization will continue to change the face of indus
 
 [https://cdn.minds.com/fs/v1/banners/1342285910401617930/1645401899](https://cdn.minds.com/fs/v1/banners/1342285910401617930/1645401899)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-2
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
@@ -11123,9 +9196,6 @@ _31-Mar-22 08:15 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/959244633005772840/ConsiliencetheConfluence2022.gif](https://cdn.discordapp.com/attachments/810180622634844202/959244633005772840/ConsiliencetheConfluence2022.gif)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -11133,9 +9203,6 @@ _01-Apr-22 12:27 AM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/959308039150796821/Cooperative_Creative_Group__Infinite_Play_Objective__ImagianriumTorus.gif](https://cdn.discordapp.com/attachments/810180622634844202/959308039150796821/Cooperative_Creative_Group__Infinite_Play_Objective__ImagianriumTorus.gif)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -11145,9 +9212,6 @@ wonderful!
 
 been stalking your work a bit more @SatoriD ...feel like will learn a lot trying to systematize and make these more accessible for the more analytic minds
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 definitely many layered
 
@@ -11165,23 +9229,14 @@ Can we have a lil imagination? Can we have a lil magicak? Can we have a lil huma
 
 [https://www.minds.com/icon/463244466052931598/master/1435822087/1612415310/1648792859](https://www.minds.com/icon/463244466052931598/master/1435822087/1612415310/1648792859)
 
-differentiation simple and complex functions [https://www.youtube.com/watch?v=BcOPKQAZcn0](https://www.youtube.com/watch?v=BcOPKQAZcn0)
-
-[Starfish Maths](https://www.youtube.com/channel/UCnztaG5wCuMhedlTXMSOkEg)
-
-Differentiation
+differentiation simple and complex functions 
+[Differentiation](https://www.youtube.com/watch?v=BcOPKQAZcn0)
 
 In this video I show you how to differentiate various simple and more complex functions. We use this to find the gradient, and also cover the second derivative. **Mistake at 5:43 - can you spot it?** Enjoy! Find out more about private tuition and my approach: www.starfishmaths.com Get in touch: starfishmaths@gmail.com
 
 ![https://i.ytimg.com/vi/BcOPKQAZcn0/hqdefault.jpg](https://i.ytimg.com/vi/BcOPKQAZcn0/hqdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c8.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 [https://github.com/BlockScience/cadCAD-Odyssey](https://github.com/BlockScience/cadCAD-Odyssey)
 
@@ -11195,25 +9250,17 @@ Repository for Odyssey Masterclass. Contribute to BlockScience/cadCAD-Odyssey de
 
 so far so good...
 
-did anyone recognized pattern that @Letty is good at bringing into 0mega?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f941.png" width=50 height=50>
+did anyone recognized pattern that @Letty is good at bringing into 0mega? <img src="https://twemoji.maxcdn.com/2/72x72/1f941.png" width=20 height=20>
 
 **integration**
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9e9.png" width=50 height=50>
-
-2
 
 cuz what do you have when you have "modelled a human system" ? Definitely a wrong model.
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/959333928173461504/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/959333928173461504/unknown.png)
 
-[https://www.youtube.com/watch?v=rfG8ce4nNh0](https://www.youtube.com/watch?v=rfG8ce4nNh0)
 
-[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-
-Integration and the fundamental theorem of calculus - Chapter 8, Es...
+[Integration and the fundamental theorem of calculus - Chapter 8, Es...](https://www.youtube.com/watch?v=rfG8ce4nNh0)
 
 What is an integral? How do you think about it? Help fund future projects: [https://www.patreon.com/3blue1brown](https://www.patreon.com/3blue1brown) An equally valuable form of support is to simply share some of the videos. Special thanks to these supporters: [http://3b1b.co/lessons/integration#thanks](http://3b1b.co/lessons/integration#thanks) Check out the Art of Problem Solving: [https://aops.com/3blue1brown](https://aops.com/3blue1brown) --------------...
 
@@ -11229,9 +9276,6 @@ or
 
 a way to **co-create with collective wisdom**
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 *wisdom*
 
@@ -11253,17 +9297,8 @@ If you got lost in the Interstellar dimensions... will you go back find a leader
 
 will you put effort in exercising self-leadership?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/23f3.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
-
-1
 
 (btw. Interstellar is a great movie about the human drive that in the face of extinction even we do not give up, still the move also shows humans have both selfless and selfish source that feeds that drive and if you still haven't read Play of Pattern: "*begin thinking in terms of **complementary opposites**. Rather than using dualities like 'decentralization good, centralization bad'; or 'DeFi is innovative, fiat is boring', this style of thinking recognizes that there is no good without evil; no attraction without repulsion, no North with South, no up without down. We could describe this as "quantum thought" - being able to contemplate both 0 and 1 simultaneously, and the spectrum of probability between. This is not about just both/and thinking, or seeing "both sides" of a debate. It's **seeing both sides and the entire spectrum of possible states between without grasping after certainty**.* " )
 
@@ -11287,17 +9322,8 @@ Process Model of Integral Theory – Integral Review of Books
 
 [https://secure.gravatar.com/blavatar/a663776e183186548e1cacedd01380f5?s=200&ts=1648794826](https://secure.gravatar.com/blavatar/a663776e183186548e1cacedd01380f5?s=200&ts=1648794826)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2b50.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 the compass we talk on is actually not on the map (as I put mistakenly on yesterdays slides for community update) - but is the one inside you, me, we
 
@@ -11351,15 +9377,9 @@ so mastery for me is having integrated all these roles (including their shadows)
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/959354312272773170/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/959354312272773170/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 !praise @SatoriD for making 0mega also engaging for those who have been around since the beginning and still want/need room to grow, thank you for bringing in the play ground that teases our synapses
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -11373,9 +9393,6 @@ _01-Apr-22 03:37 AM_:
 
 !praise @nic for not giving up when on-boarding needs to deal with complexity of nurturing not only newcomers but also needs to keep people engaged along their learning journey that does not have an end in 0mega
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 [https://en.wikipedia.org/wiki/Becoming_(philosophy)](https://en.wikipedia.org/wiki/Becoming_(philosophy))
 
@@ -11458,9 +9475,7 @@ solsista
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
-_01-Apr-22 05:46 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f590.png" width=50 height=50>
+_01-Apr-22 05:46 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f590.png" width=20 height=20>
 
 'rate of change'
 
@@ -11468,21 +9483,14 @@ _01-Apr-22 05:46 AM_:
 
 solsista
 
-[ **integration**](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f941.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+[ **integration**](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f941.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
-_01-Apr-22 05:46 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f596.png" width=50 height=50>
+_01-Apr-22 05:46 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f596.png" width=20 height=20>
 
 'functional entity defined'
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f596.png" width=50 height=50>
-
-1
 
 i can't remember the last time someone said "hey check out this sweet equation" like they were dropping this week's Time magazine on the table
 
@@ -11498,9 +9506,7 @@ _01-Apr-22 06:03 AM_:
 
 welcome to token engineering!
 
-you know this isn't the other side of the crypteconomic flower; we're striving for Unity in Knowledge, right?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+you know this isn't the other side of the crypteconomic flower; we're striving for Unity in Knowledge, right? <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
@@ -11508,23 +9514,13 @@ _01-Apr-22 06:05 AM_:
 
 riemann didn't sum it all up in one day
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f468-200d-1f3a4.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
 
 Jolly LaMa
 
-[ 'rate of change'](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f590.png" width=50 height=50>
+[ 'rate of change'](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f590.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -11567,9 +9563,6 @@ _01-Apr-22 06:21 AM_:
 
 well i think the box could have just been expanded. Brave warrior. maybe a good linking of the two? or fine, we fight for flags. wanna wrestle monkey?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -11593,9 +9586,6 @@ remember it's all calculus 0 value multiplied by 1000 users = 0; a ton of value 
 
 *"A changing quantity has two aspects: One is its value at a particular time, the other is its **rate of change** at that particular time."* that rate is determined by incentives in humans. the direction is determined by purpose. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f442.png" width=50 height=50>
-
-1
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
@@ -11624,9 +9614,7 @@ Jolly LaMa
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _01-Apr-22 06:24 AM_:
-yes read to the end
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+yes read to the end <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
@@ -11634,9 +9622,6 @@ _01-Apr-22 06:24 AM_:
 
 bunch 'O users for zuck
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f636-200d-1f32b.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -11670,9 +9655,6 @@ _01-Apr-22 08:02 AM_:
 
 @solsista I am working on this novel way to help us navigate in this complexity. when my friend should me, he told me I was the first one to instantly "grok" its meaningfulness, well its very useful to understanding 1,3,5 in which 1 is that quantum position, center of the cyclone in satorid sense making, but 3 is your transdisciplinary poles and then 5 because the group/co-creativity of meaningful novelty and bond of interconnection (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 but I also realizing along with @Jolly LaMa the on ramp, the buddy system, is key, as with you individually is true scaling up, meaning, 3= buddy and buddy system on boarding, then working out the 5
 
@@ -11692,24 +9674,16 @@ and its about me unlocking the word, "wyrd" via the handwords in beowulf
 
 *Who is the "Shaper" and what is being shaped? Who adopted this collective set?*
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 poetics of Beowulf, literally spore print in which two opposing belief system are **frozen** together. Christian transcribers defaced with dogma; others contend that its pagan pronouncements are relics of a time its culture outgrew- the poetics equivalent of the human appendix. While fascinating from the standpoint of cultural anthropology, but ultimately lacking a unified theme? Decoding the "striking pattern of hand-words" helps to unlock wyrd so that **WE** can establish that synthesis.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-1
 
 sound->words->concepts<->languages <-> co-creating
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _01-Apr-22 08:16 AM_:
-I have one more challenge for you
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+I have one more challenge for you <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 What is the
 
@@ -11733,9 +9707,6 @@ and there's a question on the board, I feel is the best onboarding question ever
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/959426510928879706/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/959426510928879706/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -11783,9 +9754,6 @@ so there has to be a lil trigger inside every shaman, to be like fuck it, I gues
 
 and perhaps a paradox, and one of those wyrd things were the shaman role is the leaderless leader so part of that, perhaps when the penny is standing right side up instead of landing heads/tail, they just
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f32c.png" width=50 height=50>
-
-️
 
 later they explain everything in wyrd poetry
 
@@ -11793,37 +9761,20 @@ or strange incompleteness theorem
 
 its hard to explain the gremlins in the machine
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f636.png" width=50 height=50>
 
-‍
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f32b.png" width=50 height=50>
-
-️
 
 ooooOOOooo just a silly thought that we should do, have us in a creative jam sense, talk about interstellar or any other movies/media that seem to oddly fit
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 I think doing like list of "top" 3, I think it should be about the "first" 3. this thing jack like to say, first thought best thought, but its working up to freely being comfortable, saying what you actually making connections to inside your mind
 
 then to meaningful express them
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
-
-1
 
 but i think what i'm saying along with everything that has been self reflected, but there are safe ways already to culturally "hack"
 
 buddy system is one of them
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
-
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=20 height=20>
 
 is about sync "vibin" with some you feel like you can be yourself (edited)
 
@@ -11865,9 +9816,6 @@ _01-Apr-22 08:57 AM_:
 
 understanding the significance of your source code words, for me is how I build trust within and now it seem how I been growing my own sense of wyrd
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -11893,9 +9841,6 @@ _01-Apr-22 09:01 AM_:
 
 could offer Monday
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -11993,12 +9938,7 @@ and for some reason I think "pattern language" wind talkers, maybe having someth
 
 @solsista @Letty @nic I been thinking about this too, like this first phase of work on the roles, archetype and poetics, is me working out the prototype, so I can help others, do the same for the other roles. just poetics, tao logic and shaman wyrd, is like my wheel house and I have to do a lil bit of learning from my friend, but we can already put ideas in the different roles buckets, and doing lil quick first 3 list. maybe anyone interesting, do a quick first 3 connects that pop into you mind about the roles. so next 0mega we make time to share some of first 3 connects
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
-so for me source code for satorid is = disembodied poetics(unlocking the wyrd) + maybe logic(Robert Anton Wilson) + Ah Xoc Kin(song + flower =
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+so for me source code for satorid is = disembodied poetics(unlocking the wyrd) + maybe logic(Robert Anton Wilson) + Ah Xoc Kin(song + flower = <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 or imaginarium). which is "type" of shaman, in the bee shaman way
 
@@ -12018,9 +9958,7 @@ for system thinker I pulling from Learning From Leonardo, and i think the over a
 
 I think for this part, what are your 3 must read for DAOs
 
-for coder/builder, I pull from me being a punk, cook, and my friend mindsgaming. being a
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f977.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fe.png" width=50 height=50>
+for coder/builder, I pull from me being a punk, cook, and my friend mindsgaming. being a <img src="https://twemoji.maxcdn.com/2/72x72/1f977.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fe.png" width=20 height=20>
 
 . in the kitchen I did really learn how to be a fucking badass, just task master, that you can begin to play chess on the kitchen board... and I have some actually coding experience from way back when.
 
@@ -12037,9 +9975,7 @@ solsista
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _01-Apr-22 08:10 PM_:
-I would also like to follow up with @Jeanne and @Jolly LaMa from our imaginarium creative jam session, about experimenting with Jeanne, and there is
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9fb.png" width=50 height=50>
+I would also like to follow up with @Jeanne and @Jolly LaMa from our imaginarium creative jam session, about experimenting with Jeanne, and there is <img src="https://twemoji.maxcdn.com/2/72x72/1f9fb.png" width=20 height=20>
 
 and some kind of fruit and I forget the third thing, but we can do this to open up the creative jam session for monday. 9-10am PST? open invite to practice play...
 
@@ -12053,21 +9989,13 @@ Dynamic Energy Budget for Art Creation: Jeanne Bloch/Contemporary Hope 2022 How 
 
 ![https://i.ytimg.com/vi/Q5Z1vOnqCRQ/maxresdefault.jpg](https://i.ytimg.com/vi/Q5Z1vOnqCRQ/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
 SatoriD
 
-[I would also like to follow up with @Jeanne and @Jolly LaMa from our imaginarium creative jam session, about experimenting with Jeanne, and there is  and some kind of fruit and I forget the third thing, but we can do this to open up the creative jam session for monday. 9-10am PST? open invite to practice play...](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9fb.png" width=50 height=50>
+[I would also like to follow up with @Jeanne and @Jolly LaMa from our imaginarium creative jam session, about experimenting with Jeanne, and there is  and some kind of fruit and I forget the third thing, but we can do this to open up the creative jam session for monday. 9-10am PST? open invite to practice play...](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f9fb.png" width=20 height=20>
 
 [https://youtu.be/Q5Z1vOnqCRQ](https://youtu.be/Q5Z1vOnqCRQ)
 
@@ -12077,40 +10005,23 @@ _01-Apr-22 08:25 PM_:
 
 If you write an event description I can set up an event on the discord for you
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 Does the title **TEC 0mega: Imaginarium Creative Jam Session**sound good to you?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _01-Apr-22 08:30 PM_:
 TEC Omega: Imaginarium Creative Jam Session Regarding Dynamic Creativity Energy Flow Open Invite to Practice Play, the Imaginarium Way 4/4/2022 9-10am PST(fluid time slot based on group sync⏳
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
 
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-)
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
 SatoriD
 
-[TEC Omega: Imaginarium Creative Jam Session Regarding Dynamic Creativity Energy Flow Open Invite to Practice Play, the Imaginarium Way 4/4/2022 9-10am PST(fluid time slot based on group sync⏳ ️  )](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
+[TEC Omega: Imaginarium Creative Jam Session Regarding Dynamic Creativity Energy Flow Open Invite to Practice Play, the Imaginarium Way 4/4/2022 9-10am PST(fluid time slot based on group sync⏳ ️  )](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -12118,19 +10029,10 @@ _01-Apr-22 08:32 PM_:
 
 [https://discord.com/events/810180621930070088/959610830222131260](https://discord.com/events/810180621930070088/959610830222131260)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-3
 
 Does the time look correct? Am on different time zone so not sure if conversion was right
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fe.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -12138,26 +10040,14 @@ _02-Apr-22 12:28 AM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/959670738586058782/My_project.jpg](https://cdn.discordapp.com/attachments/810180622634844202/959670738586058782/My_project.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-1
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
 _02-Apr-22 02:15 PM_:
 hulahupsa
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-4
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -12171,17 +10061,8 @@ _03-Apr-22 11:39 AM_:
 
 Thank you soooooo much!! Yes please, bring a toilet paper roll, a pen, an apple or a fruit if you can't find an apple
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -12198,13 +10079,9 @@ good timin to sync just finished this edit: [https://youtu.be/Ijv6_uw3NDQ](https
 
 On Concepts of Imaginarium Creative Style
 
-yes, I see - ok, but then @SatoriD happened
+yes, I see - ok, but then @SatoriD happened <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
-
-and he wanted to share the creative work flow approach
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f449.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f52e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f982.png" width=50 height=50>
+and he wanted to share the creative work flow approach <img src="https://twemoji.maxcdn.com/2/72x72/1f449.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f52e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f982.png" width=20 height=20>
 
 we summoned the power of 3 Living log in Creative Participation of The Whole. Omega; A North Concept for T.E.C./DAOS Imaginarium Creative Commons Open Ecology. Co-Creativity of Commons over frozen time machines. The Internet can be seen a...
 
@@ -12245,35 +10122,20 @@ Jeanne
 _03-Apr-22 01:29 PM_:
 Done
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2604.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-1
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 _04-Apr-22 05:20 AM_:
 
-'Partner' you say? 'Independent'? Contractor?[https://www.youtube.com/watch?v=phieTCxQRLA](https://www.youtube.com/watch?v=phieTCxQRLA)
-
-[LastWeekTonight](https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ)
-
-Trucks: Last Week Tonight with John Oliver (HBO)
+'Partner' you say? 'Independent'? Contractor?
+[Trucks: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=phieTCxQRLA)
 
 John Oliver explains how truck drivers get paid, how they often don’t, and how companies exploit them to increase profits. Connect with Last Week Tonight online... Subscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: www.youtube.com/lastweektonight Find Last Week Tonight on Facebook like your mom wou...
 
 ![https://i.ytimg.com/vi/phieTCxQRLA/maxresdefault.jpg](https://i.ytimg.com/vi/phieTCxQRLA/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -12289,17 +10151,12 @@ Project InsideOut seeks to create a new mindset for engaging communities on our 
 
 ![https://projectinsideout.net/wp-content/uploads/2020/09/Summit.png](https://projectinsideout.net/wp-content/uploads/2020/09/Summit.png)
 
-from my other day job
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+from my other day job <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 and these are recommendation from @Sparrow 🌚 DADA
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/960528001676754984/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/960528001676754984/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/960528078688354354/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/960528078688354354/unknown.png)
 
@@ -12313,23 +10170,16 @@ Regenerative Workflows Research
 
 please share in this new thread "Regenerative Workflows Research" <-- it will include Creative Participation, Group Dynamics, Wanna Play, Research on Workin'style, and valueflows beyond stocks & flows"
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/960529471398633502/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/960529471398633502/unknown.png)
 
-we're channeling our energies
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+we're channeling our energies <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
 solsista
 
-[we're channeling our energies](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+[we're channeling our energies](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -12351,17 +10201,8 @@ I told him, or p.s. this is why I really do any of this, because it makes me "Hi
 
 because for myself, this was a turning point, after that meeting, well this is where we make the design for the imaginarium (starship). I been talking to some friends about it, but my video edits are like lost codex, its a memory aid, its to say hey that moment, was a felt experience, its when things start to flow.... when you begin to feel the howling Tao and begin to plan your next dance steps...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -12375,27 +10216,18 @@ _04-Apr-22 12:02 PM_:
 
 yes
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 _04-Apr-22 12:49 PM_:
 
-[https://www.youtube.com/watch?v=FsTbMfQP7b0&t=559s](https://www.youtube.com/watch?v=FsTbMfQP7b0&t=559s)
 
-[Anton Petrov](https://www.youtube.com/channel/UCciQ8wFcVoIIMi-lfu8-cjQ)
-
-New Experiment Creates Strange Quantum Domain Walls
+[New Experiment Creates Strange Quantum Domain Walls](https://www.youtube.com/watch?v=FsTbMfQP7b0&t=559s)
 
 Good telescope that I've used to learn the basics: [https://amzn.to/35r1jAk](https://amzn.to/35r1jAk) Get a Wonderful Person shirt: [https://teespring.com/stores/whatdamath](https://teespring.com/stores/whatdamath) Alternatively, PayPal donations can be sent here: [http://paypal.me/whatdamath](http://paypal.me/whatdamath) Hello and welcome! My name is Anton and in this video, we will talk about an experiment that created quantum domain walls d...
 
 ![https://i.ytimg.com/vi/FsTbMfQP7b0/maxresdefault.jpg](https://i.ytimg.com/vi/FsTbMfQP7b0/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -12407,13 +10239,7 @@ Colorless Green Ideas Sleep Furiously in android dreams
 
 thanks @Jolly LaMa @stef @Jeanne @streamerd @UniPuff 🜐🐙 @Eclipsingbinary that all came to practice and experiment performative mindful creative play...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -12424,19 +10250,11 @@ SatoriD
 <h3>Eclipsingbinary <img src="https://cdn.discordapp.com/avatars/600781995811012620/8a23b2ad7c8523412a90604314d59b56.png" width=25 height=25></h3>
 
 _04-Apr-22 02:44 PM_:
-lovely exercise by @Jeanne
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+lovely exercise by @Jeanne <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 my apologies I had to leave but I was at work. Great convos though, lots to think about
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
@@ -12444,17 +10262,8 @@ _04-Apr-22 03:53 PM_:
 
 that was fun !- even if I was a fumbly participant as usual. I hope others get to do that! rich with Aha! moments
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483-1f3fe.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/26a1.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -12462,13 +10271,7 @@ _04-Apr-22 03:57 PM_:
 
 hey all, FYI there's a new praise bot, check this message out to learn how to use it [https://discord.com/channels/810180621930070088/810180622336262195/959166443210014720](https://discord.com/channels/810180621930070088/810180622336262195/959166443210014720)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -12482,29 +10285,11 @@ _04-Apr-22 04:39 PM_:
 
 wow nice! thanks for today. maybe have a look at this mandala on 5 flows of time [https://www.clearvoice.com/wp-content/uploads/2017/05/ClearVoice_FlowsOfTime_infographic.pdf](https://www.clearvoice.com/wp-content/uploads/2017/05/ClearVoice_FlowsOfTime_infographic.pdf)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
 
-3
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -12518,9 +10303,6 @@ _04-Apr-22 05:05 PM_:
 
 Thanks to you all for exploring together performative metabolism!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
 
@@ -12542,9 +10324,6 @@ _04-Apr-22 08:44 PM_:
 
 this doc is for WG 0mega groundwork (the "redesign" I've been mentioning), which basically got triggered by @Mert Ozd initiative, identifying that TE Ethics and also the Transdisciplinarity requires more groundwork (and actually topics that we discussed in the first TE Ethics focus groups have beend those that we naturally had groundwork during past 1-2 years)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-1
 
 [https://docs.google.com/document/d/1sgnxwI5seBj6ho_aope7UH3TsKCubobS3Bh5XdM9cj0/edit#](https://docs.google.com/document/d/1sgnxwI5seBj6ho_aope7UH3TsKCubobS3Bh5XdM9cj0/edit#)
 
@@ -12564,9 +10343,6 @@ Workflows
 WG 0mega groundwork Administrative (Mert to document) Describe flow from Research → TE Ethics Participatory Action Research or Funded Initiative fostering Transdisciplinarity → Outcome reusable (i.e. useful and needed) addition to TE Commons Communication/Coordination (Nic onboarding flow) Desc...
 I see how some initiatives can flow value back to TEC#0mega - without the need to spinoff a DAO, but just defined those flows...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
-
-1
 
 I'm not OK with making TE Ethics dependent on a business case, but I'm OK with it growing as the interesting TE Ethical questions get populated and investigated and flow into Participatory Action Research
 
@@ -12576,9 +10352,6 @@ maybe that is a fundamental question of TE Ethics... do we need to sell it? make
 
 the minimum we need to achieve is that those who do want to research TE Ethical topics and make the outcomes useful resource in TE Commons know how to do that
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 and one more insights, working on this doc makes me realize how big of an effort it is to make sense of it all, not to truncate the complexity for a simple let's do x, y, z - but put effort in systematizing and collecting & incorporating all perspectives that then can be described succinctly
 
@@ -12588,9 +10361,6 @@ and one more insights, working on this doc makes me realize how big of an effort
 
 and likely this is the ongoing effort of Steward Ownership, maximize for purpose
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-2
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -12604,9 +10374,6 @@ Table of Contents
 
 (in the face of EU pressing a legislation to make "unhosted wallets", i.e. self-sovereignty of web3 participants, unlawful)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92c.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
 
@@ -12619,23 +10386,15 @@ stef
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _05-Apr-22 04:16 AM_:
-@Sparrow 🌚 DADA @Jolly LaMa look what @stef surfaced
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
+@Sparrow 🌚 DADA @Jolly LaMa look what @stef surfaced <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=20 height=20>
 
 this is so beautiful!!! We've been looking for this for quite some time...
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/960815221918806066/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/960815221918806066/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2b50.png" width=50 height=50>
-
-2
 
 when we use this as the grammar and try to draw our individual working style mandalas then we can better coordinate our energies @Jeanne @nic
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -12651,15 +10410,10 @@ Unlock a groundbreaking approach to time management with the Time Flow Method an
 
 ![https://www.clearvoice.com/wp-content/uploads/2017/05/12.28.18-Hero-1360x646.png](https://www.clearvoice.com/wp-content/uploads/2017/05/12.28.18-Hero-1360x646.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-1
 
 ohhh and it's got something for @Mert Ozd too "So time management — the process through which we order our actions — is really *behavior management.*"
 
-(but ok ok we'll keep the research question focused... but kinda well... it is complex
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+(but ok ok we'll keep the research question focused... but kinda well... it is complex <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 maybe we can map out the incentives space ...currently playing with a piece "It's DAOs all the way down" on self-organization )
 
@@ -12667,34 +10421,17 @@ but in the regenerative workflow research this definitely is a topic
 
 !praise @nic for the robust design of archipelagos it supports very well in weaving the threads of 0mega
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 !praise @Mert Ozd for handling the process work to get inflow of funds and for identifying the need for research as ground work of 0mega
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 let's make use of this Wednesday to nail down improvements in identifying how to channel energies of participants, identifying the needs of the initiatives (funded and to be funded), and sharing the responsibility in documenting what has been / is being done in a way that fosters self-organization and creates room for "apprenticeship" or rather opportunities to learn from each other
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50>
-
-1
-sounds like this infographics was made for 0mega
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+sounds like this infographics was made for 0mega <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/960822312989495296/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/960822312989495296/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -12707,19 +10444,11 @@ solsista
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _05-Apr-22 04:48 AM_:
-one more interesting aspect, there they have given examples of content creation for each type of flow... we could give examples for the type of work we do... maybe not possible for all - but would be great for self-reflection and also for making "our stations" such that people can not just look over the shoulder (which is really tough through discord and asynch
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+one more interesting aspect, there they have given examples of content creation for each type of flow... we could give examples for the type of work we do... maybe not possible for all - but would be great for self-reflection and also for making "our stations" such that people can not just look over the shoulder (which is really tough through discord and asynch <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 )but actually learn through these mandala...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 [https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/0mega-Energies-%26-Initiatives?node-id=1326%3A3655](https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/0mega-Energies-%2526-Initiatives?node-id=1326%253A3655)
 
@@ -12733,9 +10462,7 @@ Created with FigJam
 
 solsista
 
-[@Sparrow 🌚 DADA @Jolly LaMa look what @stef surfaced  this is so beautiful!!! We've been looking for this for quite some time...](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
+[@Sparrow 🌚 DADA @Jolly LaMa look what @stef surfaced  this is so beautiful!!! We've been looking for this for quite some time...](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=20 height=20>
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -12749,9 +10476,6 @@ _05-Apr-22 04:51 AM_:
 
 but maybe not prio... but if anyone is up for it and wants to give it a try, I will too, and we can exchange on what works what doesn't
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483-1f3fe.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -12762,9 +10486,7 @@ Letty
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _05-Apr-22 04:51 AM_:
-totally! let me know when you give it a try... I'm having it in the back of my mind this week
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+totally! let me know when you give it a try... I'm having it in the back of my mind this week <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -12784,9 +10506,7 @@ and I'm still trying to grasp the "dark spaces" ... do you also mean these liter
 
 solsista
 
-[totally! let me know when you give it a try... I'm having it in the back of my mind this week](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[totally! let me know when you give it a try... I'm having it in the back of my mind this week](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -12794,9 +10514,6 @@ _05-Apr-22 04:54 AM_:
 
 It may be our roadmap in the time-value exploration of connection, transdiscipinarity and novelty. The methodology or epistemology on how our energy budgets/purpose bits come into firing with each other. It's replicable and scalable: past, present, future.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -12822,19 +10539,10 @@ _05-Apr-22 04:56 AM_:
 
 Yes, anyone coming with a different blindspot mean holding a different worldview on what has the more value at that specific point of time/paradigm so actions and needs would differ or be "valued" very differently.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-2
 
 "Our blindspots inform our unconscious behaviours and worldviews". That at the individual, collective and global levels ----> firing behavioural connections in the "dark spaces or liminal neruons" of the resonance field.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -12851,13 +10559,7 @@ maybe goes along with that, what "triggers" us in the sympathetic nervous system
 _05-Apr-22 05:27 AM_:
 Yes - perhaps we can even engineer web3 systems or human to machine interactions that heal our nervous systems before neuralink goes rogue
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -12867,9 +10569,6 @@ hahah
 
 Fabian used to say "we already have the interface!"
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -12977,9 +10676,6 @@ _05-Apr-22 05:40 AM_:
 
 "There are only two things certain in life: tax and death". I'd argue we can't make the "thrivability aspects" of life (eg. Omega work) only dependable on transaction fees.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -13047,9 +10743,6 @@ _05-Apr-22 05:49 AM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/960838700651134996/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/960838700651134996/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -13075,13 +10768,7 @@ _05-Apr-22 05:50 AM_:
 
 From my web of trust/value
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f63b.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -13125,17 +10812,11 @@ _05-Apr-22 05:52 AM_:
 
 Hi all I was wondering if anyone is working on the following or has an interest on the token incentive issue where a token gaining value based on speculation can be more of an incentive than the value the product/project brings and how token engineers can try to mitigate this when designing tokens?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2b50.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/760616661983166536/57fa82fe8b83af9a01c56339bf8c945f.png](https://cdn.discordapp.com/avatars/760616661983166536/57fa82fe8b83af9a01c56339bf8c945f.png)
 
@@ -13149,9 +10830,6 @@ _05-Apr-22 05:56 AM_:
 
 I'd be very energized to help you collect research materials, e.g. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915269](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915269) and also this could be related to "Incentives shaping behavior" Research ground work that @Mert Ozd is developing
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/760616661983166536/57fa82fe8b83af9a01c56339bf8c945f.png](https://cdn.discordapp.com/avatars/760616661983166536/57fa82fe8b83af9a01c56339bf8c945f.png)
 
@@ -13200,9 +10878,7 @@ and also this could be related to "Incentives shaping behavior" Research ground 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 _05-Apr-22 06:06 AM_:
-Just reading the abstract of this paper I just resonate with Buterin's frustation at his child creation...
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
+Just reading the abstract of this paper I just resonate with Buterin's frustation at his child creation... <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=20 height=20>
 
 I remember one of our early "Ethics" dialogue calls where some kind of narrative emerged around the inability of Ethereum/crypto OGs to bring forward the mission/purpose they had in mind with the existing tools... feedback on that now @solsista? (edited)
 
@@ -13260,9 +10936,6 @@ Someone whose name I don't want to cite ---> Financial crash (sub-prime derivati
 
 Then massive Quantitative Easing (both EU/US) ---- Mr. Market goes crazy high for a cycle ------ Then ESG "greenwashing" ------- Pandemic and massive supply-chain crisis ------ Energy wars erupt
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -13276,12 +10949,7 @@ _05-Apr-22 06:30 AM_:
 
 @Mert Ozd I think there are multiple comps other than the central banks for that research on "incentives shaping behavior"
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
-one more then I've weaved enough for today
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+one more then I've weaved enough for today <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 " “Every time a civilization is in crisis, there is a return of the commons” Michel Bauwens"
 
@@ -13302,24 +10970,18 @@ Feature Image: Banksy (title unknown). “The top environmental problems are sel
 <h3>Nate0909 <img src="https://cdn.discordapp.com/avatars/760616661983166536/57fa82fe8b83af9a01c56339bf8c945f.png" width=25 height=25></h3>
 
 _05-Apr-22 06:38 AM_:
-Thanks for all the great resources! Have to step away from my computer for a bit but will reply on here a bit later as this is something I'm interested in
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
+Thanks for all the great resources! Have to step away from my computer for a bit but will reply on here a bit later as this is something I'm interested in <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/760616661983166536/57fa82fe8b83af9a01c56339bf8c945f.png](https://cdn.discordapp.com/avatars/760616661983166536/57fa82fe8b83af9a01c56339bf8c945f.png)
 
 Nate0909
 
-[Thanks for all the great resources! Have to step away from my computer for a bit but will reply on here a bit later as this is something I'm interested in](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
+[Thanks for all the great resources! Have to step away from my computer for a bit but will reply on here a bit later as this is something I'm interested in](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _05-Apr-22 08:41 AM_:
-all good
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+all good <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 just over lunch another aspect came to mind: in DeFi speculators became dubbed as "liquidity locusts"
 
@@ -13349,16 +11011,12 @@ Limitations of liquidity mining and liquidity bondage
 
 solsista
 
-[@Sparrow 🌚 DADA @Jolly LaMa look what @stef surfaced  this is so beautiful!!! We've been looking for this for quite some time...](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
+[@Sparrow 🌚 DADA @Jolly LaMa look what @stef surfaced  this is so beautiful!!! We've been looking for this for quite some time...](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _05-Apr-22 11:22 AM_:
-I love
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
+I love <img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=20 height=20>
 
 should we rearrange the archipelagos to be like this mandala? then archipelagos can move. (edited)
 
@@ -13447,13 +11105,7 @@ _05-Apr-22 11:48 AM_:
 _05-Apr-22 12:15 PM_:
 Messages for pinning incoming
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2604.png" width=50 height=50>
 
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f977-1f3fe.png" width=50 height=50>
-
-1
 ✨
 
 **Welcome to 0mega**
@@ -13466,9 +11118,7 @@ Messages for pinning incoming
 
 **Wiki**
 
-[https://cyclic-chanter-e69.notion.site/0mega-Archipelagos-6ff1c97810da411c875ac67f1f2d54c1](https://www.notion.so/0mega-Archipelagos-6ff1c97810da411c875ac67f1f2d54c1)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+[https://cyclic-chanter-e69.notion.site/0mega-Archipelagos-6ff1c97810da411c875ac67f1f2d54c1](https://www.notion.so/0mega-Archipelagos-6ff1c97810da411c875ac67f1f2d54c1) <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 Check out this server's events with 0mega in the title to join our calls! There is research happening in possible ways people can integrate it into their practice and systems: -
 
@@ -13486,31 +11136,21 @@ Check out this server's events with 0mega in the title to join our calls! There 
 
 0mega Archipelagos
 
-This is a central source of knowledge for 0mega and its initiatives.
+This is a central source of knowledge for 0mega and its initiatives. <img src="https://twemoji.maxcdn.com/2/72x72/1f57a.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f57a.png" width=50 height=50>
-
-**Dance with us - How to contribute**
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50>
+**Dance with us - How to contribute** <img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=20 height=20>
 
 Check out this list of useful resources to get familiar with 0mega:
 
 [https://www.notion.so/How-to-Contribute-Join-our-Playgrounds-8128601bf71543e68f84be48e237cadc](https://www.notion.so/How-to-Contribute-Join-our-Playgrounds-8128601bf71543e68f84be48e237cadc)
 
-Once you've had a chance to do so: • say hello in the channel
+Once you've had a chance to do so: • say hello in the channel <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-• take part in the conversation by replying to the messages in the channel
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
+• take part in the conversation by replying to the messages in the channel <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=20 height=20>
 
 • join our calls - our next call is on 8pm CET in this channel:
 
-[https://discord.com/channels/810180621930070088/810180622818869334](https://discord.com/channels/810180621930070088/810180622818869334)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=50 height=50>
+[https://discord.com/channels/810180621930070088/810180622818869334](https://discord.com/channels/810180621930070088/810180622818869334) <img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=20 height=20>
 
 (edited)
 
@@ -13518,13 +11158,7 @@ How to Contribute - Join our Playgrounds
 
 These are docs, videos and resources to onboard our multiple playgrounds in Omega!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 Original message was deleted.
 
@@ -13579,9 +11213,6 @@ SatoriD
 _05-Apr-22 02:20 PM_:
 ok awesome
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f483-1f3fe.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -13589,9 +11220,6 @@ _05-Apr-22 02:20 PM_:
 
 ✅ Praise @nic for all the TEC support so we all have good flow
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -13599,16 +11227,11 @@ _05-Apr-22 03:06 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/960978665695477790/DEB_performative_play_001.gif](https://cdn.discordapp.com/attachments/810180622634844202/960978665695477790/DEB_performative_play_001.gif)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
 _05-Apr-22 03:08 PM_:
-✅ Praise @Jeanne for showing us how to play and have creative fun. report at Omega WG meeting about using the
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9fb.png" width=50 height=50>
+✅ Praise @Jeanne for showing us how to play and have creative fun. report at Omega WG meeting about using the <img src="https://twemoji.maxcdn.com/2/72x72/1f9fb.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -13624,9 +11247,6 @@ Jolly Lama: stef's story reel could win a b-roll award. new genre: t-roll film J
 
 ![https://i.ytimg.com/vi/lYWOYqQRIlo/maxresdefault.jpg](https://i.ytimg.com/vi/lYWOYqQRIlo/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -13643,9 +11263,6 @@ SatoriD
 _06-Apr-22 10:36 AM_:
 haha I love this so much
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f497.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -13661,9 +11278,7 @@ nic
 
 [✨ **Welcome to 0mega** ✨ Participating in 0mega is a practice of integrating learnings (around crypto economic flower and more) into our being, our actions, and our creations. We are all on our independent journey of learning and when we visit 0mega where resources around the crypto-economic flower and more are shared, we learn from the resource itself and the connections formed from the interactions around such topics. We apply those learnings to our lives and creations. We are not told *how* - we all have our own individual ways of integrating and applying. **Wiki**](about:blank#)
 
-[https://cyclic-chanter-e69.notion.site/0mega-Archipelagos-6ff1c97810da411c875ac67f1f2d54c1](https://www.notion.so/0mega-Archipelagos-6ff1c97810da411c875ac67f1f2d54c1)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+[https://cyclic-chanter-e69.notion.site/0mega-Archipelagos-6ff1c97810da411c875ac67f1f2d54c1](https://www.notion.so/0mega-Archipelagos-6ff1c97810da411c875ac67f1f2d54c1) <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 Check out this server's events with 0mega in the title to join our calls! There is research happening in possible ways people can integrate it into their practice and systems: -
 
@@ -13682,17 +11297,13 @@ Check out this server's events with 0mega in the title to join our calls! There 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 _06-Apr-22 12:00 PM_:
-This is great!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+This is great! <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
 
 bear100
 
-[This is great!](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+[This is great!](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -13706,9 +11317,6 @@ _06-Apr-22 01:10 PM_:
 
 **❌ User does not have Praise Giver role** The praise command can only be used by members with the @Praise Giver role. Attend an onboarding-call, or ask a steward or guide for an Intro to Praise.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=50 height=50>
-
-1
 
 Original message was deleted.
 
@@ -13780,9 +11388,6 @@ I need to run now
 
 but I will asyncronusly work this week on what has been discussed !
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-2
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -13810,9 +11415,6 @@ _06-Apr-22 03:40 PM_:
 
 yeah, having this space in mind where the content constellation of the figma board hangs out, kind of sci-fi, with artworks expanding in multiple layers of backgrounds. which 3d tool would be light enough for creating and letting users wander around this environment within a web browser?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>UniPuff 🜐🐙 <img src="https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png" width=25 height=25></h3>
 
@@ -13853,15 +11455,9 @@ _06-Apr-22 03:48 PM_:
 
 this here
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png" width=50 height=50>
-
-1
 
 We need a concentrated and concerted effort from the ones who have been contributing to document their work
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c-1f3fd.png" width=50 height=50>
-
-2
 
 We need TE Consilience library participants/contributors to decide how they want to play:
 
@@ -13874,18 +11470,14 @@ or a mix of both?
 
 Jolly LaMa
 
-[can you imagine listening to this without watching it and trying to make sense of it? or even watching it without listening? and this guy knows full well what he's talking about ... NOTHING!  just cuz it's a do nothing machine doesnt mean it doesnt do something. the space between.](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
+[can you imagine listening to this without watching it and trying to make sense of it? or even watching it without listening? and this guy knows full well what he's talking about ... NOTHING!  just cuz it's a do nothing machine doesnt mean it doesnt do something. the space between.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=20 height=20>
 
 [https://www.youtube.com/watch?v=Bp4tGTNNi1I](https://www.youtube.com/watch?v=Bp4tGTNNi1I)
 
 <h3>MargaritaDave <img src="https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png" width=25 height=25></h3>
 
 _06-Apr-22 03:56 PM_:
-I showed the do nothing machine to my 5yr old and he disagreed with the nothing descriptor. He said the machine made music.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+I showed the do nothing machine to my 5yr old and he disagreed with the nothing descriptor. He said the machine made music. <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>UniPuff 🜐🐙 <img src="https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png" width=25 height=25></h3>
 
@@ -13905,9 +11497,6 @@ _06-Apr-22 03:58 PM_:
 
 A mix sounds like the most reasonable but execution has to be there for sure.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png](https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png)
 
@@ -13969,9 +11558,6 @@ _06-Apr-22 04:07 PM_:
 
 yes there too in the collaboration we can focus, especially wrt the grammar of the "energy flows", on the TE Consilience Library (but that should give insights, or be applicable of course to the rest of the islands)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -13989,17 +11575,12 @@ once the TE Consilience Lib / workflow (energies) research /onboarding feedback 
 
 we can then zoom out, or branch out back to other islands (e.g. TE Ethics needs me, and I need some more supporters etc. but that is not as crucial as getting the TE Consilience now off the ground since it is the most energized area
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
-
-)
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
 solsista
 
-[we can then zoom out, or branch out back to other islands (e.g. TE Ethics needs me, and I need some more supporters etc. but that is not as crucial as getting the TE Consilience now off the ground since it is the most energized area  )](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+[we can then zoom out, or branch out back to other islands (e.g. TE Ethics needs me, and I need some more supporters etc. but that is not as crucial as getting the TE Consilience now off the ground since it is the most energized area  )](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -14029,25 +11610,17 @@ nic
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _06-Apr-22 04:26 PM_:
-but then I don't have energies left for supporting with structuring /documenting supporting TE Lib (and I really really want to play
+but then I don't have energies left for supporting with structuring /documenting supporting TE Lib (and I really really want to play <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+...so this is me in hyper-efficiency mode stacking as much synergistic topics as possible - but I can't be involved in all of the activities; and am putting off TE Ethics a bit more because it is ok to do so, there's more ongoing research that needs to be done anyways etc); we will have synergies through TE Consilience Lib. and in 3-4 weeks I'll be back on the onboarding/workflow level promised <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
-...so this is me in hyper-efficiency mode stacking as much synergistic topics as possible - but I can't be involved in all of the activities; and am putting off TE Ethics a bit more because it is ok to do so, there's more ongoing research that needs to be done anyways etc); we will have synergies through TE Consilience Lib. and in 3-4 weeks I'll be back on the onboarding/workflow level promised
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
-
-already feeling the mandala time flow meshing with the mandala minds
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+already feeling the mandala time flow meshing with the mandala minds <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
 solsista
 
-[but then I don't have energies left for supporting with structuring /documenting supporting TE Lib (and I really really want to play  ...so this is me in hyper-efficiency mode stacking as much synergistic topics as possible - but I can't be involved in all of the activities; and am putting off TE Ethics a bit more because it is ok to do so, there's more ongoing research that needs to be done anyways etc); we will have synergies through TE Consilience Lib. and in 3-4 weeks I'll be back on the onboarding/workflow level promised](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+[but then I don't have energies left for supporting with structuring /documenting supporting TE Lib (and I really really want to play  ...so this is me in hyper-efficiency mode stacking as much synergistic topics as possible - but I can't be involved in all of the activities; and am putting off TE Ethics a bit more because it is ok to do so, there's more ongoing research that needs to be done anyways etc); we will have synergies through TE Consilience Lib. and in 3-4 weeks I'll be back on the onboarding/workflow level promised](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -14055,15 +11628,9 @@ _06-Apr-22 04:27 PM_:
 
 all good Nate, Bear and I can take it on and see what happens
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 luckily all our initiatives help bring each other up
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -14076,17 +11643,12 @@ nic
 _06-Apr-22 04:29 PM_:
 again though, if anything is missing that I should be providing, I'll be on call
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 put this on the playground this morning
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/961362258015957053/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/961362258015957053/unknown.png)
 
-left corner
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+left corner <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 and this is the big challenge/riddle that also gets me going:
 
@@ -14097,17 +11659,8 @@ and this is the big challenge/riddle that also gets me going:
 _06-Apr-22 04:37 PM_:
 ✅ Praise @Letty for leading a brief silent pause in the beginning of 0mega call. It felt soooo nourishing to do that together
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -14131,15 +11684,11 @@ Measuring the stretching of bubbles in the fabric of the universe could be key t
 
 ![https://images.newscientist.com/wp-content/uploads/2012/11/mg21628924.100-1_300.jpg](https://images.newscientist.com/wp-content/uploads/2012/11/mg21628924.100-1_300.jpg)
 
-these voids are definitely speaking to me
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+these voids are definitely speaking to me <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/961371782756048917/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/961371782756048917/unknown.png)
 
-you know what I just realize? if they aren't filled topdown, and if we resist the urge "tell me!" long enough - we will fill those through c0-creation
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
+you know what I just realize? if they aren't filled topdown, and if we resist the urge "tell me!" long enough - we will fill those through c0-creation <img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=20 height=20>
 
 co-visioning, peer learning, [incentives is a big one and deserves a longer exploration], mutual support/peer production, flow
 
@@ -14147,9 +11696,7 @@ incentives...
 
 as a CEO/manager 80% of your time is well spent on designing incentives, the other 20% org/comms structure
 
-if we're just swapping the one CEO (and their board and their investors) with a TE (and the founders and their investors who pay him (yes white male dominance is a constant) I don't see us doing anything differently, just using cadCAD instead of Excel (which does make the world a better place
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=50 height=50>
+if we're just swapping the one CEO (and their board and their investors) with a TE (and the founders and their investors who pay him (yes white male dominance is a constant) I don't see us doing anything differently, just using cadCAD instead of Excel (which does make the world a better place <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
 jk )
 
@@ -14173,32 +11720,20 @@ _06-Apr-22 05:23 PM_:
 
 in TEC#0mega I do believe those voids are responsible for the "expansiveness" and spaciousness we have here
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _06-Apr-22 05:43 PM_:
-nice touch with the stargates @Jolly LaMa and also the where you on-boarded
+nice touch with the stargates @Jolly LaMa and also the where you on-boarded <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
-
-maybe we can link from areas in the play ground that that let the creative juices flow into initiatives, using your stargate system
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+maybe we can link from areas in the play ground that that let the creative juices flow into initiatives, using your stargate system <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 let's see
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 haha and one more, @Michal the co-host and designer of the ecosystem valueflows course, would always help participants come up with "Massive Transformative Purpose" ...
 
-![https://cdn.discordapp.com/attachments/810180622634844202/961381784334004285/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/961381784334004285/unknown.png)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
+![https://cdn.discordapp.com/attachments/810180622634844202/961381784334004285/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/961381784334004285/unknown.png) <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=20 height=20>
 
 that should go into the books as a good example
 
@@ -14210,9 +11745,6 @@ _06-Apr-22 11:22 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/961466078196817990/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/961466078196817990/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -14220,9 +11752,6 @@ _07-Apr-22 12:12 AM_:
 
 Hello
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -14245,9 +11774,7 @@ durgadas
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _07-Apr-22 10:40 AM_:
-yeays welcome back
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50>
+yeays welcome back <img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=20 height=20>
 
 "*efficiency as the the ability to maximize or minimize some set of variables. Effectiveness (or even wisdom) consists of figuring out which variables to choose to maximize or minimize.*" from Eric in Distributed Governance today
 
@@ -14258,43 +11785,25 @@ this is a very good take on what is the value of ethical reasoning, TE Ethics - 
 _07-Apr-22 11:07 AM_:
 ✅ Praise @bear100 for bringing ideas that help improve the user experience for the archipelago. It's going to be so cool once made
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f977-1f3fe.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _07-Apr-22 02:09 PM_:
-So I updated the Agenda for next week - by looking through the threads, and of course after having all things we discussed yesterday marinading in the back of my mind... and then I ask the ones whose topics would be affected if that is a good idea, or another of their topics should be discussed - or rather I did make a suggestion which I thought covers most topics per hour
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+So I updated the Agenda for next week - by looking through the threads, and of course after having all things we discussed yesterday marinading in the back of my mind... and then I ask the ones whose topics would be affected if that is a good idea, or another of their topics should be discussed - or rather I did make a suggestion which I thought covers most topics per hour <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 (yeah that one could take some time to train, but you can always ask people to bring topics forward, and ask them again how to make these into a coherent 1-1.5 hrs
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png" width=50 height=50>
-
-1
 
 [https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.rkgft59mtli9](https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.rkgft59mtli9)
 
 WG 0mega - Agenda (Weekly Wed. 8PM CET)
 
 [exploratory phase doc] As of 09/06/2021 Agenda & Notes of Working Group 0mega Weekly Wednesdays 20:00 CET, in 0mega Voice ChannelShort Description The Working Group 0mega started with a rather big question of “How can we enable Token Engineering Ethos to emerge from such diverse backgrou...
-then I update the slides for the call - which has already started
+then I update the slides for the call - which has already started <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
-
-(yes is a tough day, and fam is waiting for me to come to dinner
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+(yes is a tough day, and fam is waiting for me to come to dinner <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/961689516941385779/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/961689516941385779/unknown.png)
 
@@ -14304,13 +11813,7 @@ I'll praise train tomorrow or later... but you people just rock!
 
 (if anyone wants to try their hand at crafting/updating Agenda, facilitating through the WG calls ping me! I'll be happy to continue shadowing you and helping until you're comfy)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -14332,34 +11835,23 @@ I have some concerns regarding our own scientism
 
 solsista
 
-[then I update the slides for the call - which has already started  (yes is a tough day, and fam is waiting for me to come to dinner](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+[then I update the slides for the call - which has already started  (yes is a tough day, and fam is waiting for me to come to dinner](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _07-Apr-22 09:57 PM_:
-What do you think of adding updating community call slides and joining community call to give updates under the 0mega archipelago? someone else may find it energising to do
+What do you think of adding updating community call slides and joining community call to give updates under the 0mega archipelago? someone else may find it energising to do <img src="https://twemoji.maxcdn.com/2/72x72/1f60f.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60f.png" width=50 height=50>
-
-Could be a good new contributor activity too
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+Could be a good new contributor activity too <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
 nic
 
-[What do you think of adding updating community call slides and joining community call to give updates under the 0mega archipelago? someone else may find it energising to do  Could be a good new contributor activity too   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+[What do you think of adding updating community call slides and joining community call to give updates under the 0mega archipelago? someone else may find it energising to do  Could be a good new contributor activity too   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f60f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -14367,9 +11859,6 @@ _08-Apr-22 01:55 AM_:
 
 so been thinking that underneath "workflow island" we can have the 3 "Process flow" - "Creative Flow" - "Energy Flow" (maybe as triangle, so we can make cross connections)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 and then we can add these procedural tasks (Mert & I will document properly) underneath process flow
 
@@ -14377,19 +11866,10 @@ creative flow takes you directly to play ground via stargate
 
 and around energy flow we synthesize our experimenta/learnings & document how we "engineer energetic value flows and environments" (this is described from my perspective) and all the other perspectives (I know you, Jeanne, Letty have different perspectives viewpoints and see things differently regarding "Energy flow") (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 I have this image in my head, of people "shine light" from where they stand, initially the light spheres might be go on many different directions, illuminate the dark, people feel safer, but still you know... "what are we even trying to do here"... but then they actually start enjoying playing with these spheres of light, appreciate the light of others, learn how to move in space (which was previously dark and well disorienting), ... and then all of a sudden the group of people sees something like this:
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/961869056611352606/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/961869056611352606/unknown.png)
 
@@ -14403,17 +11883,8 @@ it is natural that "progress" looks different in those different spheres
 
 so here's the challenge - how do we value the essense that makes such play of light spheres possible, how do we incentivize for the most optimal flow for individuals and the collective spheres?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -14426,26 +11897,16 @@ SatoriD
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 _08-Apr-22 04:17 AM_:
-❤️‍
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
+❤️‍ <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=20 height=20>
 
 roll it up n smoke it cuz that shi dope
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2604.png" width=50 height=50>
 
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _08-Apr-22 10:22 AM_:
-@Jolly LaMa @Eclipsingbinary @streamerd @stef TEC Omega: Imaginarium Creative Jam Session, we get into Mandala Narrative, NFT self-discovery puzzle game and making meaningful connections
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+@Jolly LaMa @Eclipsingbinary @streamerd @stef TEC Omega: Imaginarium Creative Jam Session, we get into Mandala Narrative, NFT self-discovery puzzle game and making meaningful connections <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 [https://youtu.be/lMrJodopaOk](https://youtu.be/lMrJodopaOk)
 
@@ -14457,9 +11918,6 @@ Regarding Dynamic Creativity Energy Flow Open Invite to Practice Play, the Imagi
 
 ![https://i.ytimg.com/vi/lMrJodopaOk/hqdefault.jpg](https://i.ytimg.com/vi/lMrJodopaOk/hqdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
@@ -14472,9 +11930,7 @@ _08-Apr-22 12:18 PM_:
 
 [https://twitter.com/MarkBeylin/status/1512460799524093956](https://twitter.com/MarkBeylin/status/1512460799524093956)
 
-thoughts on a section of crowdsourced failures in the library? maybe eventually common failures emerge
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+thoughts on a section of crowdsourced failures in the library? maybe eventually common failures emerge <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 (edited)
 
@@ -14517,9 +11973,7 @@ nic
 
 [https://twitter.com/MarkBeylin/status/1512460799524093956](https://twitter.com/MarkBeylin/status/1512460799524093956)
 
-thoughts on a section of crowdsourced failures in the library? maybe eventually common failures emerge
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+thoughts on a section of crowdsourced failures in the library? maybe eventually common failures emerge <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 (edited)
 
@@ -14537,16 +11991,11 @@ _09-Apr-22 08:36 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/962511391858769980/moshed-3-9-17-29-30.png](https://cdn.discordapp.com/attachments/810180622634844202/962511391858769980/moshed-3-9-17-29-30.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _10-Apr-22 08:46 PM_:
-@Jolly LaMa I first uploaded this to joystream, but its having issues processing
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
+@Jolly LaMa I first uploaded this to joystream, but its having issues processing <img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=20 height=20>
 
 so here this gem of co-creativity meaningful Novelty, this is for all my creative partners in Artcrimes:
 
@@ -14560,13 +12009,7 @@ I invited Curryhobo over to Imaginarium TEC DAO hang out and I forgot to check a
 
 ![https://i.ytimg.com/vi/ufHGU0rHREs/maxresdefault.jpg](https://i.ytimg.com/vi/ufHGU0rHREs/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f365.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -14584,9 +12027,6 @@ _10-Apr-22 09:51 PM_:
 
 Is it possible that the Gravity group would want to collaborate with Omega to make the Consilience library a reality? It seems to me that this group would be a good candidate to manage/ take charge of/ or curate the development of one entire petal or section of the crypto flower. One of my favorite pastimes while I was at university was just strolling through the stacks at the library. I would pick a topic, look up and find a book and then wander the stacks, pulling books at random and just cracking them open to see what passage my eyes happened to fall upon. I guess it was a form of analog web surfing. Anyways, I don’t think a library can be made per se; it can only be accommodated, facilitated, or enabled. Maybe in this case it will be more born than facilitated.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-3
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -14596,19 +12036,13 @@ They want to do psychological research. I did give Bianca a heads up on links an
 
 so they could see if they can sync up with us
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa90.png" width=50 height=50>
-
-4
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 _11-Apr-22 06:44 AM_:
 
-[https://www.youtube.com/watch?v=wqn3gR1WTcA](https://www.youtube.com/watch?v=wqn3gR1WTcA) data broke - er?
 
-[LastWeekTonight](https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ)
-
-Data Brokers: Last Week Tonight with John Oliver (HBO)
+[Data Brokers: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=wqn3gR1WTcA)
 
 John Oliver discusses how much data brokers know about us, what they’re doing with our personal information, and one….unusual way to change privacy laws. Connect with Last Week Tonight online... Subscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: www.youtube.com/lastweektonight Find Last Week Tonigh...
 
@@ -14626,13 +12060,7 @@ _11-Apr-22 06:51 AM_:
 
 maybe check with @nic for onboarding to the energies and initiatives, where there s plenty ways to connect to consilience library
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f977-1f3fe.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
@@ -14648,19 +12076,10 @@ Created with FigJam
 
 [https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/thumbnail?ver=thumbnails/b8cfd10d-f2a5-44da-b401-f3efaa06f2ca](https://www.figma.com/file/AXivh3GU1IrHMG1dfcm0XY/thumbnail?ver=thumbnails/b8cfd10d-f2a5-44da-b401-f3efaa06f2ca)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f635.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 put on yer helmet and grab yer towel
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
 
@@ -14674,17 +12093,11 @@ _11-Apr-22 04:26 PM_:
 
 Can I just mention how this Blender design connects so well with many of 'Omega' themes? The 'time nucleus' topic: a maze of 'dark or unseen' energies when you onboard that will become relevant with time or energetic firings... And the 'level of consciousness' color in which anyone onboard (aka AQAL) knowingly or unknowingly: teal surrounded by a light purple...a level of potentiality or non-knowns in which any non-predictible action might arise... also the oracle... the mirror... Oh! and did I mention our own nerdiness in exploring all this? ;)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-5
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png](https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png)
 
@@ -14728,9 +12141,6 @@ I. Intro / background The organization that is SourceCred has been struggling fo
 
 ![https://aws1.discourse-cdn.com/standard11/uploads/sourcecred1/original/1X/986dcce90e935da074dd1c478dfca1da289ee43d.png](https://aws1.discourse-cdn.com/standard11/uploads/sourcecred1/original/1X/986dcce90e935da074dd1c478dfca1da289ee43d.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -14758,9 +12168,6 @@ _12-Apr-22 12:33 PM_:
 
 i like this one too! not crazy about the library gate colors ... a little too nickolodean slime color. they can all change - just practicin and playin
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
-
-1
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
@@ -14831,22 +12238,14 @@ _13-Apr-22 02:26 PM_:
 
 ah ok I am in now
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _13-Apr-22 02:29 PM_:
-@Alex - Regen @BiancaGadelha Welcome
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+@Alex - Regen @BiancaGadelha Welcome <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 Please check out the pinned message in this channel to get some more info, and if you have any questions, just tag me whenever. I can also onboard you once you've read through the pinned messages
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
@@ -14858,9 +12257,6 @@ TEC-0Mega Admin Tasks Guideline
 
 1-Advice Process/Forum Discussion
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-3
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -14883,13 +12279,9 @@ please find the summary and topics that emerged for our next WG call: [https://d
 WG 0mega - Agenda (Weekly Wed. 8PM CET)
 
 [exploratory phase doc] As of 09/06/2021 Agenda & Notes of Working Group 0mega Weekly Wednesdays 20:00 CET, in 0mega Voice ChannelShort Description The Working Group 0mega started with a rather big question of “How can we enable Token Engineering Ethos to emerge from such diverse backgrou...
-super nice to see that Creative Flow, and Energy Flow are fusing
+super nice to see that Creative Flow, and Energy Flow are fusing <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
-
-in #deleted-channelcatching up now
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+in #deleted-channelcatching up now <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 looking forward to next week
 
@@ -14899,9 +12291,7 @@ imv Onboarding is a catalyst for all this fusion to be able to happen
 
 in the 0mega scheme of things, the TE C' Lib level too
 
-and maybe even as "export" product
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+and maybe even as "export" product <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 posting here since this is both #deleted-channel and #deleted-channel relevant @stef @SatoriD and may be even @🐙 octopus [https://arbitrarilyclose.com/2020/07/03/mathartchallenge-82-african-fractals/](https://arbitrarilyclose.com/2020/07/03/mathartchallenge-82-african-fractals/)
 
@@ -14913,9 +12303,6 @@ Two different fractal images based on Ron Eglash’s study of fractals in Africa
 
 ![https://arbitrarilyclosecom.files.wordpress.com/2020/07/img_1703.jpg](https://arbitrarilyclosecom.files.wordpress.com/2020/07/img_1703.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 how African villages used to organize their living structures
 
@@ -14957,9 +12344,6 @@ self-care, collective-care to make these flows possible at all
 
 some deep insights y'all shared today again... need to digest in dreams! see you tomorrow morning with an update for community call update
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -14989,9 +12373,6 @@ _13-Apr-22 04:14 PM_:
 
 try this link [https://www.notion.so/invite/574bc1b7c7323916af375757caed31e7a23f9552?channel=email](https://www.notion.so/invite/574bc1b7c7323916af375757caed31e7a23f9552?channel=email) (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -15001,9 +12382,6 @@ adding info about residencies and needs for development related to rezgauche, to
 
 consilience library
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -15018,13 +12396,7 @@ solsista
 _13-Apr-22 04:56 PM_:
 I miss TEC in general so much, and Omega in particular.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f339.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -15040,9 +12412,6 @@ Durgadas stops by the Imaginarium Creative Jam Session and takes us Beyond the D
 
 ![https://i.ytimg.com/vi/6zpTOIuCLVI/sddefault.jpg](https://i.ytimg.com/vi/6zpTOIuCLVI/sddefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483-1f3fd.png" width=50 height=50>
-
-1
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
@@ -15050,23 +12419,14 @@ _13-Apr-22 07:22 PM_:
 
 'enabling constraints that allow us to go back to complexity and drink from the well - maybe even go back to chaotic again if we *wanted* to' - paid hiatus? R&R? Pajama friday? Ouji wednesdays?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-1
 
-[https://www.youtube.com/watch?v=fW8amMCVAJQ](https://www.youtube.com/watch?v=fW8amMCVAJQ)
-
-[Derek Sivers](https://www.youtube.com/channel/UCVLsq0_WCBBhhCDKX6Gaz4w)
-
-First Follower: Leadership Lessons from Dancing Guy
+[First Follower: Leadership Lessons from Dancing Guy](https://www.youtube.com/watch?v=fW8amMCVAJQ)
 
 Official transcript at [https://sivers.org/ff](https://sivers.org/ff) --- If you've learned a lot about leadership and making a movement, then let's watch a movement happen, start to finish, in under 3 minutes, and dissect some lessons: A leader needs the guts to stand alone and look ridiculous. But what he's doing is so simple, it's almost instructional. This is key. ...
 
 ![https://i.ytimg.com/vi/fW8amMCVAJQ/hqdefault.jpg](https://i.ytimg.com/vi/fW8amMCVAJQ/hqdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -15099,29 +12459,15 @@ Soulbound Reputation_Katy Jeremko
 _14-Apr-22 08:45 AM_:
 I’m not feeling well so I won’t be making much progress the next few days
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f912.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f375.png" width=50 height=50>
 
-3
 
-<img src="https://twemoji.maxcdn.com/2/72x72/23f3.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f915.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
 nic
 
-[I’m not feeling well so I won’t be making much progress the next few days](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f912.png" width=50 height=50>
+[I’m not feeling well so I won’t be making much progress the next few days](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f912.png" width=20 height=20>
 
 <h3>sandrabubbles.btc <img src="https://cdn.discordapp.com/avatars/917879013228302398/4fb678be8c4d60ecf4ca50de649e1526.png" width=25 height=25></h3>
 
@@ -15129,43 +12475,30 @@ _14-Apr-22 09:07 AM_:
 
 Hey @nic Hope you get well soon... If there is anything I can help with please don't hesitate to contact me
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f497.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
 nic
 
-[I’m not feeling well so I won’t be making much progress the next few days](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f912.png" width=50 height=50>
+[I’m not feeling well so I won’t be making much progress the next few days](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f912.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _14-Apr-22 10:58 AM_:
 unplug and get some rest homie.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/262f.png" width=50 height=50>
-
-️
 
 ![https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png](https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png)
 
 🐙 octopus
 
-[I miss TEC in general so much, and Omega in particular.](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f339.png" width=50 height=50>
+[I miss TEC in general so much, and Omega in particular.](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f339.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _14-Apr-22 12:51 PM_:
 I wished we had sabbatical programs for participants like you
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -15180,21 +12513,12 @@ SatoriD
 _14-Apr-22 12:53 PM_:
 wonderful adding this to the community update
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483-1f3fd.png" width=50 height=50>
-
-1
 
 it's ready @Mert Ozd
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/964207294529290240/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/964207294529290240/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -15205,19 +12529,12 @@ SatoriD
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
 _14-Apr-22 02:51 PM_:
-Interesting take on sourcecred you probably would have enjoyed any of the conversations we had at length about the composting weve been facilitating. Many discussions about getting more affluent in transitioning through changes and death as opposed to this insane growth mentality / fetish associated to capitalism. We're simply having a growth spurt. Some people have a hard time knowing when it's time to move on. In reality sourcecred is going through many breakups all at once less so much a death. It's very much alive there just won't be money driving "progress" anymore. [
+Interesting take on sourcecred you probably would have enjoyed any of the conversations we had at length about the composting weve been facilitating. Many discussions about getting more affluent in transitioning through changes and death as opposed to this insane growth mentality / fetish associated to capitalism. We're simply having a growth spurt. Some people have a hard time knowing when it's time to move on. In reality sourcecred is going through many breakups all at once less so much a death. It's very much alive there just won't be money driving "progress" anymore. [ <img src="https://twemoji.maxcdn.com/2/72x72/1f92c.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92c.png" width=50 height=50>
-
-productivity lol] I'm personally interested in what happens to our cultural dynamics when operating from a place of consent vs coercion.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f90c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3ff.png" width=50 height=50>
+productivity lol] I'm personally interested in what happens to our cultural dynamics when operating from a place of consent vs coercion. <img src="https://twemoji.maxcdn.com/2/72x72/1f90c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3ff.png" width=20 height=20>
 
 Acting from a place of pleasure vs scarcity. I think this will have some neat impacts on our container.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
@@ -15264,15 +12581,10 @@ hey all and @nic (hope you are feeling better), @SatoriD @Jolly LaMa @Nate0909 @
 
 [https://www.notion.so/Excess-of-energy-sun-a3c44e851b73475d96b93cd2b9f9bbf7](https://www.notion.so/Excess-of-energy-sun-a3c44e851b73475d96b93cd2b9f9bbf7)
 
-, it's about Solar energy as the ultimate abundant gift, how it can help us reframe our understanding of relation (instead of separation) at a time of climate change and limited resources.... Looking forward for the day we will all be in residence (at RezGauche @stef ?!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+, it's about Solar energy as the ultimate abundant gift, how it can help us reframe our understanding of relation (instead of separation) at a time of climate change and limited resources.... Looking forward for the day we will all be in residence (at RezGauche @stef ?! <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ) to experiment in person
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -15306,13 +12618,9 @@ Jeanne
 
 [https://www.notion.so/Excess-of-energy-sun-a3c44e851b73475d96b93cd2b9f9bbf7](https://www.notion.so/Excess-of-energy-sun-a3c44e851b73475d96b93cd2b9f9bbf7)
 
-, it's about Solar energy as the ultimate abundant gift, how it can help us reframe our understanding of relation (instead of separation) at a time of climate change and limited resources.... Looking forward for the day we will all be in residence (at RezGauche @stef ?!
+, it's about Solar energy as the ultimate abundant gift, how it can help us reframe our understanding of relation (instead of separation) at a time of climate change and limited resources.... Looking forward for the day we will all be in residence (at RezGauche @stef ?! <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
-
-) to experiment in person
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50>
+) to experiment in person <img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=20 height=20>
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -15320,9 +12628,6 @@ _18-Apr-22 05:43 AM_:
 
 Yes that would be fun. July August or from november are possible.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483-1f3fd.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -15330,16 +12635,11 @@ _18-Apr-22 08:45 AM_:
 
 Hey beautiful people, are we meeting today - 9PT/18CET - for a jam on curation/NFT self discovery or using our energies to come up with research and continuation links on Wednesday?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f375.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _18-Apr-22 09:34 AM_:
-@Letty we are still on for having Imaginarium Jam on NFT self-discover game and research/curation links for wednesday
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+@Letty we are still on for having Imaginarium Jam on NFT self-discover game and research/curation links for wednesday <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 [https://discord.com/events/810180621930070088/963877825155334194](https://discord.com/events/810180621930070088/963877825155334194)
 
@@ -15363,9 +12663,6 @@ The NFT self discovery thing is today. I think we’re all gonna go through it t
 
 Wednesday before omega call we are doing deb as usual. Jeanne wrote stuff up on the notion to go over on Wednesday (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f977-1f3fe.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -15387,9 +12684,6 @@ It’s in 48 mins! Hopefully discord events is showing the times right!
 
 Btw what I said above is just what I remembered from Wednesday. Im not actually sure what the actual plan is for todays call I just know the general idea of what is happening
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -15414,9 +12708,6 @@ _18-Apr-22 11:16 AM_:
 
 is the self-discovery game like this?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 [https://metagov.typeform.com/cryptopolitics](https://metagov.typeform.com/cryptopolitics)
 
@@ -15435,26 +12726,14 @@ _18-Apr-22 12:08 PM_:
 0mega-Collective Curation for TE Consilience Library
 
 Share it with your transdisciplinary TE curation collective should be min 2 people each person should have experienced TE rabbit hole tunnel system from the lense of more than 1 discipline When curating for the living library a value-add is your personal annotation: How did this particular refer...
-<img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f977-1f3fe.png" width=50 height=50>
-
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50>
-
-1
 
 <h3>BiancaGadelha <img src="https://cdn.discordapp.com/avatars/869940637594714183/3a19e8e74e29c54ca67342ce050bce03.png" width=25 height=25></h3>
 
 _18-Apr-22 12:14 PM_:
 Sorry, I had to jump out. Thank everybody for the call!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fb.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -15462,13 +12741,7 @@ _18-Apr-22 12:24 PM_:
 
 I had to leave to make it to another appointment, thank you so much @SatoriD for explaining the nft game further and having patience to answer all my questions
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -15498,17 +12771,11 @@ is there a doc/recording for people to catch up on the NFT self-discovery game?
 
 I'm thinking it could be part of many of our offerings actually, instead of a POAP you have a "summary talisman of your discoveries" (this is what came to mind stuck on the road )
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 I think @Letty already hinted at this, but it took me this long to get it haha
 
 like you take part in any of the TE Ethics practice sessions and digest your self-discoveries, and imprint them into NFTs that part visualize the general themes of those sessions and part your personal insights
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-2
 
 @SatoriD @stef wdyt? is this possible? and interesting for artists to contribute to?
 
@@ -15580,9 +12847,6 @@ creative/wyrd slot is were "random" payoff comes, its nothing to "game" just a t
 
 energy is where we "connected" dots, why we are using these concepts and the way we are thinking and how that connects to how we do it in the process
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2b50.png" width=50 height=50>
-
-1
 
 and in the process and lead you to research work and in the invite to the group
 
@@ -15592,9 +12856,6 @@ _18-Apr-22 02:36 PM_:
 
 Hey, missed out on it today, will catch up async, and see you Wednesday..
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -15622,13 +12883,7 @@ SatoriD
 _18-Apr-22 04:08 PM_:
 I think @Jeanne had a plan for the DEB meeting this Wednesday. We will be going over the doc she linked. And I believe 0mega Wednesday meeting is for updates now so everyone can sync their efforts so that would be the perfect time
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fe.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -15636,17 +12891,8 @@ _18-Apr-22 04:23 PM_:
 
 @SatoriD to start making progress on v2 of library prototype app I think I will try to build a UI for curations to start populating the library. Then once your game is ready, put it all together
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa70.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/23f3.png" width=50 height=50>
-
-3
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -15654,27 +12900,15 @@ _18-Apr-22 05:05 PM_:
 
 !praise @SatoriD @nic @BiancaGadelha @streamerd @Letty for weaving on the first iteration on the library UI and Omega NFT onboarding game, great sync!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-3
 
 !praise @nic for having great energy to initiate a first UI to curate a gamified energy connected library for existing and new contributors/avatars!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 !praise @SatoriD and @streamerd for offering to hack a first guide game/role playing back-end!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 !praise @solsista for checking in with the library and self-discovery NFT game, even when at a (spooky) distance! (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -15688,9 +12922,6 @@ _18-Apr-22 05:15 PM_:
 
 hehe, yeah, it finally comes round circle... we talked once about "writers/librarians minting chapters or curations of "the book" to publish/get rewards. Now phase 2 emerges as a redesigned onboarding coupled with a self or collectively curated library energised by a "discovery or talisman game" that enables all flows to be connected and deployed in a mindmap/mandala way... honestly, who wouldn't want to curate in this way? A really novel and interdisciplinar way! Incentivized by a connective web of NFTs accruing value and energy over time!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -15703,15 +12934,10 @@ SatoriD
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _19-Apr-22 04:08 AM_:
-no not another way of putting ppl into boxes and labelling them
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+no not another way of putting ppl into boxes and labelling them <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 it should be the other way round if at all there is a rule, as you say "explore roles" ... btw just wrote this to @nic before coming here to read this haha
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 just wanted to drop a two links for tomorrows deep dive into "process flow"
 
@@ -15731,9 +12957,6 @@ we will be utterly analytic (job of a systematizer, and synthesizer)
 
 however 0mega is about doing this in a wise way
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 integrating "complementary opposites" of play
 
@@ -15765,17 +12988,12 @@ Want to understand the non-linear thought process? Then take a look at this guid
 
 ![https://www.mindmanager.com/static/mm/images/home/mind-manager-fb.png](https://www.mindmanager.com/static/mm/images/home/mind-manager-fb.png)
 
-I'm citing from a tool maker, cuz obviously we'll need tools that allow for this integration in our #deleted-channel and kinda super keen on seeing @nic 's inflateable bridge built out with all this in mind
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+I'm citing from a tool maker, cuz obviously we'll need tools that allow for this integration in our #deleted-channel and kinda super keen on seeing @nic 's inflateable bridge built out with all this in mind <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 please check out at least the linear/non-linear thinking links and do some additional research if new to you, for our synch tomorrow
 
 whilst we'll be "just" mapping our process flow I'll be facilitating to get as creative as possible
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -15787,9 +13005,6 @@ Same here, very hyped on how this will be shaping form...
 
 We're embodying poetics, valueflows and energies traversing the unknown realms of interconnections firing synapses while gaining wisdom energised by the blackness of the lighthouseswe inhabit.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/966290974215143424/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/966290974215143424/unknown.png)
 
@@ -15819,9 +13034,6 @@ And finally this can be the overarching Ontology for anything DEB related in all
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/966307254506770442/Screenshot_2022-04-20_at_13.58.59.png](https://cdn.discordapp.com/attachments/810180622634844202/966307254506770442/Screenshot_2022-04-20_at_13.58.59.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-2
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -15829,9 +13041,6 @@ _20-Apr-22 08:37 AM_:
 
 some more refreshers/new food for today's session, no need to digest before - but glance if you're unfamiliar:
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 [https://en.wikipedia.org/wiki/Flowchart](https://en.wikipedia.org/wiki/Flowchart)
 
@@ -15853,9 +13062,7 @@ Activity diagrams are graphical representations of workflows of stepwise activit
 
 SatoriD
 
-[@Letty we are still on for having Imaginarium Jam on NFT self-discover game and research/curation links for wednesday](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[@Letty we are still on for having Imaginarium Jam on NFT self-discover game and research/curation links for wednesday](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 [https://discord.com/events/810180621930070088/963877825155334194](https://discord.com/events/810180621930070088/963877825155334194)
 
@@ -15874,9 +13081,7 @@ Letty
 <h3>Jeanne <img src="https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png" width=25 height=25></h3>
 
 _20-Apr-22 12:34 PM_:
-I think I agree
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+I think I agree <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -15911,9 +13116,6 @@ Welcome to the Token Engineering Commons Handbook!
 
 ![https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ.png?color=%23FD40FE&logo=https%3A%2F%2F89038353-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-MRe_M_mUIIB11A-MQyZ%252Favatar-rectangle-1616086536325.png%3Fgeneration%3D1616086536797603%26alt%3Dmedia&theme=dark](https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ.png?color=%23FD40FE&logo=https%3A%2F%2F89038353-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-MRe_M_mUIIB11A-MQyZ%252Favatar-rectangle-1616086536325.png%3Fgeneration%3D1616086536797603%26alt%3Dmedia&theme=dark)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -15921,13 +13123,7 @@ _20-Apr-22 02:54 PM_:
 
 @Jeanne @stef if you haven't yet, I recommend joining these two calls to understand the TEC. 1 = Onboarding for TEC, 2 = Community call where everyone shares updates 1 [https://discord.com/events/810180621930070088/965205570527330396](https://discord.com/events/810180621930070088/965205570527330396) 2 [https://discord.com/events/810180621930070088/965205857065402398](https://discord.com/events/810180621930070088/965205857065402398)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
-
-1
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -15947,9 +13143,6 @@ _20-Apr-22 03:24 PM_:
 
 yes all good!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -15957,9 +13150,6 @@ _20-Apr-22 03:25 PM_:
 
 ✅ Praise @bear100 recording the 0mega WG call so that others can catch up to what's happening
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -15967,9 +13157,6 @@ _21-Apr-22 12:20 PM_:
 
 Hey all and @solsista @Mert Ozd I did a quick update on the slides for today's cc - will be celebrating Earth day instead. Difficult to summarize yesterday's wisdom....
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -15983,9 +13170,6 @@ _21-Apr-22 12:47 PM_:
 
 I believe @Mount Manu has been the one speaking of 0mega updates for the community call recently so I’m tagging him just in case it ends up being him again this week (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -16003,9 +13187,6 @@ Imaginarium Creative Jam Session on NFT self-discover game. Satorid talks about 
 
 describing those unseen flows that vitality coalesces into wholeness, an exploration of Transcontextual process...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-2
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -16050,9 +13231,6 @@ Meet new collaborators and learn Complexity Science by doing within diverse team
 
 Keybase is for keeping everyone's chats and files safe, from families to communities to companies. MacOS, Windows, Linux, iPhone, and Android.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -16087,19 +13265,10 @@ _23-Apr-22 04:02 AM_:
 
 Hi, am currently writing proposal for rezgauche in context of motiondao near grant. I would like to connect this with TEC Omega through wildcard residencies and research & development. Specifically the development of transdisciplinary.art 'public foundation' and solidarity economy could be good to research with TEC [https://rezgauche.be/info/#roadmap](https://rezgauche.be/info/#roadmap) Would it be possible to make a little presentation about it sometime during second half of May or beginning of June? (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 Here s info about the proposal: ... rezgauche.be Brussels hub proposal: Development of artist in residency program through: inviting motiondao members and related projects minting residency wildcards [https://rezgauche.be/residency-wildcards/](https://rezgauche.be/residency-wildcards/) local artist network gradual onboarding into wildcard program [https://embed.kumu.io/97984ade6580cd98791604b12ca6f86c#untitled-map](https://embed.kumu.io/97984ade6580cd98791604b12ca6f86c#untitled-map) Research: -solidarity economy ([https://www.mindmeister.com/map/2144061427?t=XiPrJfz0N9)](https://www.mindmeister.com/map/2144061427?t=XiPrJfz0N9)) -web3 tools -transdisciplinary.art public foundation ([https://transdisciplinary.art)](https://transdisciplinary.art)/) _Initiating, engendering and establishing partnerships between MotionDao, Token Engineering Commons Omega Group, Alities, and other potential stakeholders, organizations and artists for cooperative development of our Brussels hub. Enabling local community development and adoption of web3 technology by artists and participants, towards establishing a solidarity economy, durable artistic employment and democratic self-organization through researching, learning, practicing, developing and implementing web3 tools that are complementary to existing artistic production models. Planning Residency Wildcards (more artists are gradually being invited to complete workspace planning): April: Mindora, Anna Doyle. Mai: Alice Van der Wielen, Stav Yeini. June: Irene Occhiato, Delphine Mertens, Lisa Coppi. July: Gordon Williams. September: Sarah Alves, Stephania Assandri, Mariana Carranza. October: Castelie Yalombo. November: Kaliane Meret. and others. Budget (12 months) starting phase: gallery costs total: 9343 $ [https://rezgauche.be/numbers/](https://rezgauche.be/numbers/) .... Just add your name and month (by comment or message), if you would like to be in a workspace residency in 2022-2023, and I'll include you/your project in our planning. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -16121,15 +13290,9 @@ And yes, we really need some kind of UI for the Consilience Library, sort of thi
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/967548079190450216/Screenshot_2022-04-24_at_00.03.56.png](https://cdn.discordapp.com/attachments/810180622634844202/967548079190450216/Screenshot_2022-04-24_at_00.03.56.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 @SatoriD will love it mentioning poetics minds!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -16162,22 +13325,14 @@ yes please put it in Topic List, with your preferred Wednesday date
 
 [https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.crf1ztfc9rws](https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.crf1ztfc9rws)
 
-I understand it will overlap with TE C' Library, and basically you are inviting others to add more overlaps they see, they could be contributing from here, right? In the presentation, we would get clarity. Would love to have transdisciplinary.art/tokenengineering
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+I understand it will overlap with TE C' Library, and basically you are inviting others to add more overlaps they see, they could be contributing from here, right? In the presentation, we would get clarity. Would love to have transdisciplinary.art/tokenengineering <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 maybe we could provide some of our Regenerative Workflow Research insights? etc, Please everyone help connect some more dots, by the time @stef does a presentation & thank you for sharing this opportunity!
 
 WG 0mega - Agenda (Weekly Wed. 8PM CET)
 
 [exploratory phase doc] As of 09/06/2021 Agenda & Notes of Working Group 0mega Weekly Wednesdays 20:00 CET, in 0mega Voice ChannelShort Description The Working Group 0mega started with a rather big question of “How can we enable Token Engineering Ethos to emerge from such diverse backgrou...
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png](https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png)
 
@@ -16196,9 +13351,7 @@ and let me know Keybase username + email, they can add them.
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _25-Apr-22 08:16 AM_:
-well done, Jeanne! This is a great community to connect to
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+well done, Jeanne! This is a great community to connect to <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -16252,15 +13405,10 @@ we add our knowledge of valueflows and now research on dynamic energy budget etc
 
 creative flow
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png" width=50 height=50>
-
-1
 
 but as soon as we know "the what", "the who", and experimenting "the how" we are in the process flow, given that the TEC process is also predetermined down to the level of WGs (but not iniside WGs)
 
-so this is from a project I work with Sparrow and some others from token engineering community: we also compare it to quantum and classical physics metaphorically
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+so this is from a project I work with Sparrow and some others from token engineering community: we also compare it to quantum and classical physics metaphorically <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/968128782567374868/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/968128782567374868/unknown.png)
 
@@ -16302,9 +13450,6 @@ stretch goal would be: even more effective than a hierarchically managed project
 
 over the weekend I had some time to free flow research, and stumbled upon the ***"fractal" and "holographic" principles of self-organization*** in the universe
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -16324,9 +13469,6 @@ _25-Apr-22 04:40 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/968252244367667281/Screenshot_2022-04-25_at_22.48.01.png](https://cdn.discordapp.com/attachments/810180622634844202/968252244367667281/Screenshot_2022-04-25_at_22.48.01.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 the drive to Bond: the value of connection the drive to Comprehend: the value of transdisciplinarity and novelty
 
@@ -16339,25 +13481,17 @@ Letty
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _26-Apr-22 04:38 AM_:
-and connection
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+and connection <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 Hey, here's a request please take some time before our WG Call on Wednesday, please come prepared those of you who (want to) contribute to the TE Consilience Library: *What is the action(s) you want/need to contribute to the Consilience Library that will be the reward in and of itself?*
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/968431145303810088/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/968431145303810088/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
-
-1
 
 (this is from Invisible Economy, and captures the essence of "New Common Sense for the New Commons" one of the benefits of TE C'Lib we identified on the Archipelago)
 
 @Mount Manu please check the agenda, if I captured your point correctly about wanting to see examples of Curations, the Template also has explanations
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c-1f3fb.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -16375,11 +13509,8 @@ I love this one
 
 _26-Apr-22 02:53 PM_:
 
-'...evermore came out by the same door in I went' [https://www.youtube.com/watch?v=03K4inVyWGc](https://www.youtube.com/watch?v=03K4inVyWGc)
-
-[After Skool](https://www.youtube.com/channel/UC1KmNKYC1l0stjctkGswl6g)
-
-Life is NOT Complicated - Alan Watts
+'...evermore came out by the same door in I went' 
+[Life is NOT Complicated - Alan Watts](https://www.youtube.com/watch?v=03K4inVyWGc)
 
 Speech extract from "Do You Do It or Does It Do You?: How to Let the Universe Meditate You" by Alan Watts, courtesy of [https://alanwatts.org](https://alanwatts.org/) Alan Wilson Watts (6 January 1915 – 16 November 1973) was a well-known British philosopher, writer and speaker, best known for his interpretation of Eastern philosophy for Western audiences. He left behi...
 
@@ -16388,27 +13519,17 @@ Speech extract from "Do You Do It or Does It Do You?: How to Let the Universe Me
 <h3>Jeanne <img src="https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png" width=25 height=25></h3>
 
 _27-Apr-22 10:33 AM_:
-Sorry I can't make it today, here is a tribute to Omega Imaginarium straight from London
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+Sorry I can't make it today, here is a tribute to Omega Imaginarium straight from London <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/968882614129811456/IMG_20220427_152259.jpg](https://cdn.discordapp.com/attachments/810180622634844202/968882614129811456/IMG_20220427_152259.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png](https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png)
 
 Jeanne
 
-[Sorry I can't make it today, here is a tribute to Omega Imaginarium straight from London](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+[Sorry I can't make it today, here is a tribute to Omega Imaginarium straight from London](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -16427,15 +13548,10 @@ solsista
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _27-Apr-22 11:22 AM_:
-I’m sorry to say I’ll be missing todays call
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f622.png" width=50 height=50>
+I’m sorry to say I’ll be missing todays call <img src="https://twemoji.maxcdn.com/2/72x72/1f622.png" width=20 height=20>
 
 to answer your question, getting to build the library (system,app,bringing people together) would be rewarding as it’s a chance to show we don’t have to just dream of a better tomorrow and stop there by thinking it’s impossible or in the far out of reach future. We can show it can be brought to reality starting now.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -16443,9 +13559,6 @@ _27-Apr-22 12:23 PM_:
 
 It’s also cool that it just so happens that the library will make it easier to bring such ideas to reality
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -16470,9 +13583,6 @@ _27-Apr-22 02:46 PM_:
 
 I need to run. But even in a week I missed 0mega calls !!!!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -16492,9 +13602,6 @@ _27-Apr-22 03:31 PM_:
 
 ace your finals!!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 about "mimetic desire" (we had just touched upon briefly, but when you're designing "incentives", then learning about motivation is a big area of learning in token engineering)
 
@@ -16549,9 +13656,6 @@ stef
 _27-Apr-22 04:01 PM_:
 "Perhaps the most anti-mimetic attitude of all is an openness to wonder and a desire to let reality surprise you. It rarely disappoints."
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
-
-1
 
 "desire's raison d'etre is to reproduce itself as desire" also rings a bell:
 
@@ -16567,9 +13671,6 @@ accounting for valueflows, capturing the value, and enabling equitable ownership
 
 (in a fully automated manner... which in almost all orgs I experience are lightyears away still - haha a bit exaggerated, but yes, the usability is horrible, it's still people pushing buttons. I see no difference to all the hour accounting and invoicing ping pongs and reminders that typically go on in b2b, now we do it p2p
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
-
-)
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -16603,9 +13704,7 @@ this relates to "Exess of Energy" study @Jeanne and @SatoriD started/shared in #
 
 [http://www.scholarpedia.org/article/Self-organization](http://www.scholarpedia.org/article/Self-organization)
 
-a lot more inspiration for mandalas
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+a lot more inspiration for mandalas <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 Self-organization
 
@@ -16649,9 +13748,6 @@ The easiest way to schedule group meetings.
 
 Dear friends, please put your hours for Monday TE conslience library meeting.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 Original message was deleted.
 
@@ -16667,9 +13763,6 @@ _28-Apr-22 08:04 AM_:
 
 !praise @solsista for unbroken resilience and higher will while providing feedback/analysis and context to improve curation efforts in the Consilience Library
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -16677,15 +13770,10 @@ _28-Apr-22 12:05 PM_:
 
 I wished the environment design can automate me away
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
-
-1
 
 I love the potential, I love your contributions, I get sad that it always needs a person to "coordinate" when that person has limited time that they would love to invest in their personal growth and contributions to 0mega, as this is the only place where it seems possible for me "naturally"... there are other places, but none are this organic as token engineering has been
 
-I'm committed to get us there
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+I'm committed to get us there <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 here's the update for today:
 
@@ -16696,24 +13784,18 @@ here's the update for today:
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 _28-Apr-22 12:09 PM_:
-I may not be able to do
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
+I may not be able to do <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
 
 Mert Ozd
 
-[I may not be able to do](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
+[I may not be able to do](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _28-Apr-22 12:09 PM_:
-all good! no worries - ace those exams, and we celebrate doubly
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+all good! no worries - ace those exams, and we celebrate doubly <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -16745,9 +13827,6 @@ _28-Apr-22 12:12 PM_:
 
 the rationale to go for "Collective Curation" is that a lot of the people who have experience in token engineering (especially the ones who have rolled the ball), are also running an organization, or care for more causes, so if they can get visibility, and/or alignment through working these curations out they have more motivation
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -16803,13 +13882,7 @@ _28-Apr-22 12:14 PM_:
 
 I think one of the improvements in process flow we will see is this: make progress that you contributed to visible
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -16823,21 +13896,12 @@ _28-Apr-22 12:15 PM_:
 
 what I see is mostly empty space when not I or you are documenting for the group
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=50 height=50>
-
-1
 
 so what happens is that areas that do not get our attention look like not having progress - although pure amazingness happening there
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 that's what I meant with "I whish the environment design can automate me away" I "jsut synthesize" and make visible
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
-
-1
 
 another insights that you also had: the exchanges are actually very enlightening, e.g. when you do onboarding, or you synthesize/summarize what is on these boards in an asynch manner
 
@@ -16853,13 +13917,7 @@ _28-Apr-22 12:18 PM_:
 
 acutally everyone should be synthesizing, right? and then feeding back their synthesis etc. (same principle as in Bohm diaologue)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=50 height=50>
-
-1
 
 I think it is just because it is really a lot of effort to dig through, or make time for 1:1 that people do not get the chance to synthesize and make sense
 
@@ -16875,9 +13933,7 @@ _28-Apr-22 12:21 PM_:
 
 Yeah it’s why I want to improve archipelagos
 
-I want it to be easier to look through
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=50 height=50>
+I want it to be easier to look through <img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -16895,9 +13951,7 @@ Also we’re having problems with the file being too big to load on devices now 
 
 nic
 
-[I want it to be easier to look through](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=50 height=50>
+[I want it to be easier to look through](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -16914,9 +13968,7 @@ nic
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _28-Apr-22 12:23 PM_:
-I know, @Jolly LaMa may need to hold the horses with the images
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+I know, @Jolly LaMa may need to hold the horses with the images <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 but I'm cautious not to put things off that board or separate into silos. as that is what we're overcoming right now
 
@@ -16926,17 +13978,12 @@ TE Ethics Participatory Action Research - Regenerative Workflows - and Play need
 
 again we're getting there - and it takes as long as it takes
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
 solsista
 
-[I know, @Jolly LaMa may need to hold the horses with the images  but I'm cautious not to put things off that board or separate into silos. as that is what we're overcoming right now](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[I know, @Jolly LaMa may need to hold the horses with the images  but I'm cautious not to put things off that board or separate into silos. as that is what we're overcoming right now](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -16948,9 +13995,7 @@ Yeah neither are good solutions atm. Am thinking maybe building the library cura
 
 nic
 
-[I want it to be easier to look through](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=50 height=50>
+[I want it to be easier to look through](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -17002,15 +14047,9 @@ you assume that that is the hold up to participation. Having gone through onboar
 
 Let's focus on TE Consilience Library, and continue our procedural improvements to onboarding there - I think it will make clear what the actual causes are, and how the process/tool/environment design can help improve by addressing those causes
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 You might say "ppl don't know what 0mega is" and we need to describe precisely so they can onboard - but that defeats the purpose of 0mega: self-reflection, self-knowledge, self-sovereignty... all things that cannot be thought but only practiced
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
-
-1
 
 but we know "ppl sufficiently know what TE Consilience Library is by looking at its island"
 
@@ -17045,18 +14084,12 @@ solsista
 _28-Apr-22 12:36 PM_:
 Ah ok got it got it
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _28-Apr-22 12:37 PM_:
 take a bet, make an experiment: focus on improving archipelagos from within TE Consilience library island, and see whether those insights are any good for also making 0mega onboarding easier without having to spell out "your 10 steps to ethical clear thinking by embodying the wisdom of web3"
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
-
-1
 
 so although the steps the TE Consilience Lib could be spelled out, we're going to put extra effort not to fall back to business as usual because it is easier... it's not gonna get us to the step change that we need in self-organization
 
@@ -17066,9 +14099,6 @@ _28-Apr-22 12:44 PM_:
 
 ✅ Praise @solsista for challenging me to look at things differently...affecting how I perceive, create and contribute in this space
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -17079,9 +14109,7 @@ nic
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _28-Apr-22 03:04 PM_:
-presenting at the community call I got another epiphany: just opening to discussion (because it might be "business as usual disguised as epiphany" ....these biases have a way on sneaking up on you and sneaking back into
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+presenting at the community call I got another epiphany: just opening to discussion (because it might be "business as usual disguised as epiphany" ....these biases have a way on sneaking up on you and sneaking back into <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 ) - but please juggle a bit with this idea:
 
@@ -17099,16 +14127,9 @@ after that, I guess, only what you share - if that inspires a muse - is your cha
 
 @SatoriD @stef I think we have found a "closed circular economy" with TE C'Lib and Imaginarium/Minds and Rezgauche that could be scaled with the same repeatable process and value exchange model
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
+sry - pasting this into #deleted-channel <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-2
-sry - pasting this into #deleted-channel
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
-
-need to get used to be on topic in thread
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+need to get used to be on topic in thread <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -17140,9 +14161,6 @@ _30-Apr-22 07:21 PM_:
 
 3.1 MB
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 this is will be interesting to doc the progress and even help support in creative web3 ways...
 
@@ -17156,19 +14174,13 @@ Please give a thumbs up if you are okey with the hours
 
 @solsista @nic @Letty @SatoriD @Mount Manu @stef
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fe.png" width=50 height=50>
-
-4
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _01-May-22 04:12 PM_:
 
-[https://www.youtube.com/watch?v=4RqWa_8qwRI](https://www.youtube.com/watch?v=4RqWa_8qwRI)
 
-[Infinite Imaginarium Community](https://www.youtube.com/channel/UCpzN_PFW1uZyzLoyzOqFI7Q)
-
-On Concepts of TE Consilience Library
+[On Concepts of TE Consilience Library](https://www.youtube.com/watch?v=4RqWa_8qwRI)
 
 Instead of a POAP you have a "summary talisman of your discoveries", like you take part in any of the TE Ethics practice sessions and digest your self-discoveries, and imprint them into NFTs that part visualize the general themes of those sessions and part your personal insights. Web3 is as much about technology, as it is about culture and the ...
 
@@ -17219,9 +14231,7 @@ SatoriD
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _02-May-22 11:27 AM_:
-Ok if you could please provide a description and links to docs a new joiner might need would be awesome. Also the times please
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+Ok if you could please provide a description and links to docs a new joiner might need would be awesome. Also the times please <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 (edited)
 
@@ -17283,9 +14293,6 @@ ok I'll set it as that
 _02-May-22 11:48 AM_:
 1.5 hrs is usually how long the go for
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -17293,9 +14300,6 @@ _02-May-22 11:52 AM_:
 
 @SatoriD its on the TEC calendar now which means it will get added to discord events every sunday (for monday) as well (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
 
@@ -17308,17 +14312,8 @@ Mert Ozd
 _02-May-22 12:05 PM_:
 see you in approx 1hr 25 mins in 0mega voice!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -17329,15 +14324,11 @@ nic
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _02-May-22 12:06 PM_:
-I'm having a deja vu
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+I'm having a deja vu <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/970718455894515742/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/970718455894515742/unknown.png)
 
-I'll document the process flow, whilst we're having the creative jam on how the NFT self-discovery game fills the "Connection" value stock
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+I'll document the process flow, whilst we're having the creative jam on how the NFT self-discovery game fills the "Connection" value stock <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 and makes things interesting for both the curators and curations
 
@@ -17383,13 +14374,7 @@ _02-May-22 01:59 PM_:
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
 
@@ -17433,13 +14418,7 @@ _02-May-22 02:11 PM_:
 
 check this previous post for website workflow diagram..
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/970749705728434226/tecstack_V_090210.png](https://cdn.discordapp.com/attachments/810180622634844202/970749705728434226/tecstack_V_090210.png)
 
@@ -17459,13 +14438,7 @@ Created with FigJam
 
 [https://www.figma.com/file/soqXUHRrBcazutqC2FegnW/thumbnail?ver=thumbnails/61f397b0-f384-4b2d-ad18-44c509b2505d](https://www.figma.com/file/soqXUHRrBcazutqC2FegnW/thumbnail?ver=thumbnails/61f397b0-f384-4b2d-ad18-44c509b2505d)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -17489,25 +14462,13 @@ Focus of v1 is getting a few high quality curations, and through that effort hav
 
 we start the testing within #deleted-channel so let's go there those of us who want to curate 1-3 books that help them make sense of Token Engineering & 0mega, i.e. self-sovereignty, unity in diversity, wisdom of web3
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 the challenge is to find the few book(s), article(s), podcast(s), or video(s) that you relate to as many, or as impactfully many (i.e. maybe bridging just two disciplines, but really helping with the mindset shift)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f50d.png" width=50 height=50>
-
-1
 
 thank you all for this wonderful session! love the flow, it really is refreshing <-- I will make an excerpt in the processflow and share in the #deleted-channel
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -17526,17 +14487,12 @@ _02-May-22 03:40 PM_:
 _02-May-22 03:41 PM_:
 hahah someone onboard me plz
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f32c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
 solsista
 
-[hahah someone onboard me plz](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
+[hahah someone onboard me plz](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -17559,9 +14515,7 @@ nic
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _02-May-22 04:16 PM_:
-thanks I needed to catch up on all the messages
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+thanks I needed to catch up on all the messages <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -17669,9 +14623,7 @@ Thank you for clarifying
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _04-May-22 11:39 AM_:
-world of worldviews game here also please
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+world of worldviews game here also please <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 @solsista
 
@@ -17683,9 +14635,7 @@ _04-May-22 11:47 AM_:
 
 Also please link that file in the original initiatives fiile so that others can access and play with it as well
 
-to give an example this selected circle is 3488px by 3488px large and there's lots of them
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+to give an example this selected circle is 3488px by 3488px large and there's lots of them <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/971438575507886120/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/971438575507886120/unknown.png)
 
@@ -17697,9 +14647,7 @@ Sharing settings to this makes it so anyone can access and edit: but sometimes y
 
 nic
 
-[to give an example this selected circle is 3488px by 3488px large and there's lots of them](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+[to give an example this selected circle is 3488px by 3488px large and there's lots of them](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -17716,40 +14664,27 @@ SatoriD
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _04-May-22 11:59 AM_:
-my bad! thank you
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+my bad! thank you <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 _04-May-22 12:44 PM_:
-I just wanted to say that I really want to participate in the energy budget research. It is such an important topic imho, but I also really want to participate in soft gov and they are scheduled in the same time slot. This present hour had no TEC events scheduled, and I was wondering if it would be possible to simply push one of the conflicting events to this hour going forward. I'm essentially trying to participate in every scheduled event in TEC every day, even if I haven't been a regular contributor in the past, and would hope that others who would want to participate in TEC to the same degree could be facilitated in this respect, though I obviously recognize that this may not be either ideal or even possible for reasons beyond what I am aware of.. or capable of understanding.
+I just wanted to say that I really want to participate in the energy budget research. It is such an important topic imho, but I also really want to participate in soft gov and they are scheduled in the same time slot. This present hour had no TEC events scheduled, and I was wondering if it would be possible to simply push one of the conflicting events to this hour going forward. I'm essentially trying to participate in every scheduled event in TEC every day, even if I haven't been a regular contributor in the past, and would hope that others who would want to participate in TEC to the same degree could be facilitated in this respect, though I obviously recognize that this may not be either ideal or even possible for reasons beyond what I am aware of.. or capable of understanding. <img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f90f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="$5" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f90f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="$5" width=50 height=50>
+I'm going to attend soft gov today and talk about this same question with them but just wanted to express my admiration for this group and my appreciation for the depth of intellectual rigor being applied to the really critical underlying issues we all face. Thank you all. <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-I'm going to attend soft gov today and talk about this same question with them but just wanted to express my admiration for this group and my appreciation for the depth of intellectual rigor being applied to the really critical underlying issues we all face. Thank you all.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-✌️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
+✌️ <img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
 
 gene
 
-[I just wanted to say that I really want to participate in the energy budget research. It is such an important topic imho, but I also really want to participate in soft gov and they are scheduled in the same time slot. This present hour had no TEC events scheduled, and I was wondering if it would be possible to simply push one of the conflicting events to this hour going forward. I'm essentially trying to participate in every scheduled event in TEC every day, even if I haven't been a regular contributor in the past, and would hope that others who would want to participate in TEC to the same degree could be facilitated in this respect, though I obviously recognize that this may not be either ideal or even possible for reasons beyond what I am aware of.. or capable of understanding.     I'm going to attend soft gov today and talk about this same question with them but just wanted to express my admiration for this group and my appreciation for the depth of intellectual rigor being applied to the really critical underlying issues we all face. Thank you all.  ✌️    (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f90f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50> 
+[I just wanted to say that I really want to participate in the energy budget research. It is such an important topic imho, but I also really want to participate in soft gov and they are scheduled in the same time slot. This present hour had no TEC events scheduled, and I was wondering if it would be possible to simply push one of the conflicting events to this hour going forward. I'm essentially trying to participate in every scheduled event in TEC every day, even if I haven't been a regular contributor in the past, and would hope that others who would want to participate in TEC to the same degree could be facilitated in this respect, though I obviously recognize that this may not be either ideal or even possible for reasons beyond what I am aware of.. or capable of understanding.     I'm going to attend soft gov today and talk about this same question with them but just wanted to express my admiration for this group and my appreciation for the depth of intellectual rigor being applied to the really critical underlying issues we all face. Thank you all.  ✌️    (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f90f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=20 height=20> 
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
@@ -17818,15 +14753,10 @@ could it be that Jolly used this board because it was the only one? thats someth
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _04-May-22 01:10 PM_:
-TE Ethics Participatory Research + Workflow + Creative Style Sync should be on the same board until we emergent order
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+TE Ethics Participatory Research + Workflow + Creative Style Sync should be on the same board until we emergent order <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -17844,9 +14774,7 @@ ok I'll ask him
 
 nic
 
-[world of worldviews game here also please  @solsista](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+[world of worldviews game here also please  @solsista](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -17901,9 +14829,6 @@ v1 v13n
 _04-May-22 03:05 PM_:
 welcome! feel free to share a bit of background or what resonated with you to lead here
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6e4.png" width=50 height=50>
-
-️
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -17923,29 +14848,11 @@ Hello everyone, It’s been a while, that I’m designing a versioning system fo
 
 ![https://aws1.discourse-cdn.com/standard20/uploads/sonic_pi/original/1X/3dd07a5ad869dacd4a151cd9ab6b38d04ee6cdad.png](https://aws1.discourse-cdn.com/standard20/uploads/sonic_pi/original/1X/3dd07a5ad869dacd4a151cd9ab6b38d04ee6cdad.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f63b.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f344.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -17956,9 +14863,7 @@ Letty
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _04-May-22 03:10 PM_:
-yes, this
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+yes, this <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ❤️
 
@@ -17971,9 +14876,7 @@ nic
 <h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
 _04-May-22 03:10 PM_:
-Hi @nic, thanks for hosting me, I was directed to this meeting after a call with Manu. If I can be honest, I didn't understand much of what was going on, but it's my fault because you were talking about ongoing work and it'll take me a while to get updated and understand the process. But I liked the spirit
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Hi @nic, thanks for hosting me, I was directed to this meeting after a call with Manu. If I can be honest, I didn't understand much of what was going on, but it's my fault because you were talking about ongoing work and it'll take me a while to get updated and understand the process. But I liked the spirit <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 (edited)
 
@@ -17981,20 +14884,14 @@ Hi @nic, thanks for hosting me, I was directed to this meeting after a call with
 
 Incandenza
 
-[Hi @nic, thanks for hosting me, I was directed to this meeting after a call with Manu. If I can be honest, I didn't understand much of what was going on, but it's my fault because you were talking about ongoing work and it'll take me a while to get updated and understand the process. But I liked the spirit   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[Hi @nic, thanks for hosting me, I was directed to this meeting after a call with Manu. If I can be honest, I didn't understand much of what was going on, but it's my fault because you were talking about ongoing work and it'll take me a while to get updated and understand the process. But I liked the spirit   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _04-May-22 03:13 PM_:
-there's no fault in that - it is natural
+there's no fault in that - it is natural <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
-
-@nic has developed and co-created with the group a really valuable onboarding process, definitely recommend doing it... and also if the first questions are already maybe too much (depending on how new you are to token engineering or TEC), again: take your time, and just start sharing here what interest you, draws you to token engineering - that is always a great conversation starter
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+@nic has developed and co-created with the group a really valuable onboarding process, definitely recommend doing it... and also if the first questions are already maybe too much (depending on how new you are to token engineering or TEC), again: take your time, and just start sharing here what interest you, draws you to token engineering - that is always a great conversation starter <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 welcome!
 
@@ -18002,16 +14899,12 @@ welcome!
 
 Incandenza
 
-[Hi @nic, thanks for hosting me, I was directed to this meeting after a call with Manu. If I can be honest, I didn't understand much of what was going on, but it's my fault because you were talking about ongoing work and it'll take me a while to get updated and understand the process. But I liked the spirit   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[Hi @nic, thanks for hosting me, I was directed to this meeting after a call with Manu. If I can be honest, I didn't understand much of what was going on, but it's my fault because you were talking about ongoing work and it'll take me a while to get updated and understand the process. But I liked the spirit   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 _04-May-22 03:16 PM_:
-Welcome
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+Welcome <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/767698114806546443/f2e2fd232a5aa78695053f0033ef0f4a.png](https://cdn.discordapp.com/avatars/767698114806546443/f2e2fd232a5aa78695053f0033ef0f4a.png)
 
@@ -18026,9 +14919,7 @@ streamerd
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _04-May-22 03:19 PM_:
-hey, I just realized: that was your first WG call, too, right? can you tell what is the difference? (you participated in working sessions first right?) why do you hit the ground running?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+hey, I just realized: that was your first WG call, too, right? can you tell what is the difference? (you participated in working sessions first right?) why do you hit the ground running? <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 curious question, I hope you don't mind... but these might be very insightful how we can improve the 0mega experience and also self-improve
 
@@ -18038,13 +14929,7 @@ _04-May-22 03:20 PM_:
 
 Sorry guys, I'm just down today with something I ate yesterday
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f915.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4a7.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/767698114806546443/f2e2fd232a5aa78695053f0033ef0f4a.png](https://cdn.discordapp.com/avatars/767698114806546443/f2e2fd232a5aa78695053f0033ef0f4a.png)
 
@@ -18061,17 +14946,12 @@ streamerd
 _04-May-22 03:22 PM_:
 "music, as an embodied language, yet to be expressed or let generated" just cc/ing @stef may be in for a jam, he had mentioned he wanted to venture into music in/for/out of the Consilience Library
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f63b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
 
 Incandenza
 
-[Hi @nic, thanks for hosting me, I was directed to this meeting after a call with Manu. If I can be honest, I didn't understand much of what was going on, but it's my fault because you were talking about ongoing work and it'll take me a while to get updated and understand the process. But I liked the spirit   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[Hi @nic, thanks for hosting me, I was directed to this meeting after a call with Manu. If I can be honest, I didn't understand much of what was going on, but it's my fault because you were talking about ongoing work and it'll take me a while to get updated and understand the process. But I liked the spirit   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -18104,36 +14984,23 @@ nic
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 _04-May-22 03:45 PM_:
-Same thing
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+Same thing <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 the meeting ran over so I didn't get to ask the group but I'm writing up a similar note to leave there for further discussion =) Thank you nic
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
 solsista
 
-["music, as an embodied language, yet to be expressed or let generated" just cc/ing @stef may be in for a jam, he had mentioned he wanted to venture into music in/for/out of the Consilience Library](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f63b.png" width=50 height=50>
+["music, as an embodied language, yet to be expressed or let generated" just cc/ing @stef may be in for a jam, he had mentioned he wanted to venture into music in/for/out of the Consilience Library](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f63b.png" width=20 height=20>
 
 <h3>streamerd <img src="https://cdn.discordapp.com/avatars/767698114806546443/f2e2fd232a5aa78695053f0033ef0f4a.png" width=25 height=25></h3>
 
 _05-May-22 06:45 AM_:
 hey yeah, it's possible hopefully
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
@@ -18141,29 +15008,15 @@ _05-May-22 07:24 AM_:
 
 Thanks @Mert Ozd @solsista & @nic for the warm welcome! I joined TEC a few days after I read some papers about the philosophy of the project with which I feel I resonate. During my onboarding call with Manu he suggested me to join yesterday's omega call, before that I participated in a call with the gravity group and I felt more at ease because I was more familiar with the topic. But I had the chance to do some work with Aragon too and I know that it takes a while before one starts getting oriented inside a Dao, specially a complex one like TEC! Anyhow, if you have another onboarding process to recommend me, I'll be happy to join it. I already signed in for the Graviton training. My background... long story. Basically I'm the type of dude who likes studying different topics... Master of Arts in literature, another master in Counseling/Coaching, I'm a qualified mindfulness trainer and a vipassana meditator and now I'm completing a specialization in Project Management, plus I've taken single courses in a wide range of topics. I worked mostly as a journalist and as a teacher, but I've also run an office for a while and in my past I've been also a professional cook. In crypto since 2017, mostly for trading and educational purposes, but in the last months I've developed a passion for Daos. My dreams are decentralize education (tokens could help a lot running democratic schools built on an updated version of the Summerhill model) and tokenise help (I'll definitely write more about this). Couchsurfing and hospitality is also something that should definitely be decentralized. I follow the crypto poetry movement and sometimes I write poetry myself. One day I will start a publishing house based only on Nfts (which is another topic that really interest me). I wouldn't mind to become some sort of gallerist and help artists to join this new exciting world. I'd also like to start some meditation classes for the web3 world. And this is it
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-1
 I guess it's your turn now
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _05-May-22 08:06 AM_:
-Guess what! Praise works in threads now
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+Guess what! Praise works in threads now <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
@@ -18173,19 +15026,13 @@ Guess what! Praise works in threads now
 
 _05-May-22 11:36 AM_:
 
-*Self-discovery led by interconnecting mandalas, energy and archetypes* [https://www.youtube.com/watch?v=KN7hfoBbP_0](https://www.youtube.com/watch?v=KN7hfoBbP_0)
-
-[Infinite Imaginarium Community](https://www.youtube.com/channel/UCpzN_PFW1uZyzLoyzOqFI7Q)
-
-TEC Omega: Imaginarium Creative Jam Session #4
+*Self-discovery led by interconnecting mandalas, energy and archetypes* 
+[TEC Omega: Imaginarium Creative Jam Session #4](https://www.youtube.com/watch?v=KN7hfoBbP_0)
 
 "Reward with wisdom" Fractal Rotation Art Time Break from sylos Music, dance, literature As above so below T(E)= ART UX mandalised Highest point of expression Collective intelligence for first starting point Then nature and wisdom show the connections Incentives: digital and human Self-discovery led by interconnecting mandalas, energy and arche...
 
 ![https://i.ytimg.com/vi/KN7hfoBbP_0/maxresdefault.jpg](https://i.ytimg.com/vi/KN7hfoBbP_0/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
 
@@ -18238,15 +15085,10 @@ which #deleted-channel? I mentioned these 3
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _05-May-22 02:01 PM_:
-last minute update
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+last minute update <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/971833950119026688/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/971833950119026688/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f499.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -18280,17 +15122,12 @@ _06-May-22 01:18 AM_:
 
 I'm wondering there are how many islands in the daocean where similar questions are explored? Also, couldn't an inter-island news service help advance those explorations? If so, who would fund it? It reminds me of a story. When virtual communities were born, in the '80s, unbeknownst to each other, we had various vircomms discussing the same topics on computer conferencing systems running on different pieces of software that were neither inter-operable nor compatible. Responding to this situation, in 1985, the Electronic Networking Association launched Netweaver, an electronic, inter-system newsletter connecting those conversations. (You can find a reference to it in Joi Ito's blog [https://joi.ito.com/weblog/2003/02/15/the-meta-networ.html#comment-2375](https://joi.ito.com/weblog/2003/02/15/the-meta-networ.html#comment-2375) and in my comment below it.)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/767698114806546443/f2e2fd232a5aa78695053f0033ef0f4a.png](https://cdn.discordapp.com/avatars/767698114806546443/f2e2fd232a5aa78695053f0033ef0f4a.png)
 
 streamerd
 
-[hey yeah, it's possible hopefully](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[hey yeah, it's possible hopefully](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -18308,9 +15145,6 @@ OVERVIEW Boston Ujima Project is, first and foremost, an experiment in developin
 
 Boston Ujima Project
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fe.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
 
@@ -18332,13 +15166,7 @@ TEC Omega: Imaginarium Creative Flow
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f63b.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 p.s. some fresh wyrd from myself: [https://www.minds.com/SatoriD/blog/chaos-creations-of-the-wyrd-collection-vol-2-1369106426047238164](https://www.minds.com/SatoriD/blog/chaos-creations-of-the-wyrd-collection-vol-2-1369106426047238164)
 
@@ -18347,17 +15175,12 @@ p.s. some fresh wyrd from myself: [https://www.minds.com/SatoriD/blog/chaos-crea
 _07-May-22 04:28 AM_:
 I started going through the material you people suggested me to read and I started thinking that Daos have this tendency to generate an overload of (disorganized) information, like the bureaucracy of a state that gets more and more complex. This of course it's not a prerogative of tec or omega, it's a constant that I noticed in every Dao I joined (so please take this as a reflection and not as a personal criticism, it is not, I really like you), which makes it harder for new people to join as long as the Dao progresses. Like the more it progresses the more exclusive it becomes. And this doesn't happen for the will of their members but for their very constitution. I also checked the playlist @SatoriD shared with me that I'm sure was created with a lot of love and the best possible intentions. but all together those video make up more than 8 hours. I don't know. Spring is here, roses are blossoming, girls start undressing. Maybe it's Saturday morning and I'm just feeling lazy. I enjoyed the website with the poems and the pictures though
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
 
 Incandenza
 
-[I started going through the material you people suggested me to read and I started thinking that Daos have this tendency to generate an overload of (disorganized) information, like the bureaucracy of a state that gets more and more complex. This of course it's not a prerogative of tec or omega, it's a constant that I noticed in every Dao I joined (so please take this as a reflection and not as a personal criticism, it is not, I really like you), which makes it harder for new people to join as long as the Dao progresses. Like the more it progresses the more exclusive it becomes. And this doesn't happen for the will of their members but for their very constitution. I also checked the playlist @SatoriD shared with me that I'm sure was created with a lot of love and the best possible intentions. but all together those video make up more than 8 hours. I don't know. Spring is here, roses are blossoming, girls start undressing. Maybe it's Saturday morning and I'm just feeling lazy. I enjoyed the website with the poems and the pictures though](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[I started going through the material you people suggested me to read and I started thinking that Daos have this tendency to generate an overload of (disorganized) information, like the bureaucracy of a state that gets more and more complex. This of course it's not a prerogative of tec or omega, it's a constant that I noticed in every Dao I joined (so please take this as a reflection and not as a personal criticism, it is not, I really like you), which makes it harder for new people to join as long as the Dao progresses. Like the more it progresses the more exclusive it becomes. And this doesn't happen for the will of their members but for their very constitution. I also checked the playlist @SatoriD shared with me that I'm sure was created with a lot of love and the best possible intentions. but all together those video make up more than 8 hours. I don't know. Spring is here, roses are blossoming, girls start undressing. Maybe it's Saturday morning and I'm just feeling lazy. I enjoyed the website with the poems and the pictures though](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -18369,55 +15192,32 @@ home - consilience library
 
 ![https://consilib90210-39f36.stackbit.app/images/flower5l.png](https://consilib90210-39f36.stackbit.app/images/flower5l.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
 
 Incandenza
 
-[I started going through the material you people suggested me to read and I started thinking that Daos have this tendency to generate an overload of (disorganized) information, like the bureaucracy of a state that gets more and more complex. This of course it's not a prerogative of tec or omega, it's a constant that I noticed in every Dao I joined (so please take this as a reflection and not as a personal criticism, it is not, I really like you), which makes it harder for new people to join as long as the Dao progresses. Like the more it progresses the more exclusive it becomes. And this doesn't happen for the will of their members but for their very constitution. I also checked the playlist @SatoriD shared with me that I'm sure was created with a lot of love and the best possible intentions. but all together those video make up more than 8 hours. I don't know. Spring is here, roses are blossoming, girls start undressing. Maybe it's Saturday morning and I'm just feeling lazy. I enjoyed the website with the poems and the pictures though](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[I started going through the material you people suggested me to read and I started thinking that Daos have this tendency to generate an overload of (disorganized) information, like the bureaucracy of a state that gets more and more complex. This of course it's not a prerogative of tec or omega, it's a constant that I noticed in every Dao I joined (so please take this as a reflection and not as a personal criticism, it is not, I really like you), which makes it harder for new people to join as long as the Dao progresses. Like the more it progresses the more exclusive it becomes. And this doesn't happen for the will of their members but for their very constitution. I also checked the playlist @SatoriD shared with me that I'm sure was created with a lot of love and the best possible intentions. but all together those video make up more than 8 hours. I don't know. Spring is here, roses are blossoming, girls start undressing. Maybe it's Saturday morning and I'm just feeling lazy. I enjoyed the website with the poems and the pictures though](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _07-May-22 08:59 AM_:
 
-yeah, I do think its something going on in every Dao. I have been slowly working on going back and making clips from them. But honestly that last part is an issue for myself as well, general if the edit is longer than hr, that no matter how good or energized I get from it after like I am doing the full edit, i'm like ok i'm good. But I am actually personally doing the edits, so that I can make sense and also know what threads I want to pull on. But with that said, hopefully this one is more digestible and when you got some time (9:33 mins) [https://www.youtube.com/watch?v=pSbxz3x7X_k&t=54s](https://www.youtube.com/watch?v=pSbxz3x7X_k&t=54s)
-
-[Infinite Imaginarium Community](https://www.youtube.com/channel/UCpzN_PFW1uZyzLoyzOqFI7Q)
-
-What Makes Omega An Interesting Place?
+yeah, I do think its something going on in every Dao. I have been slowly working on going back and making clips from them. But honestly that last part is an issue for myself as well, general if the edit is longer than hr, that no matter how good or energized I get from it after like I am doing the full edit, i'm like ok i'm good. But I am actually personally doing the edits, so that I can make sense and also know what threads I want to pull on. But with that said, hopefully this one is more digestible and when you got some time (9:33 mins) 
+[What Makes Omega An Interesting Place?](https://www.youtube.com/watch?v=pSbxz3x7X_k&t=54s)
 
 Exploring the emerging patterns within the crypto-flower. Framing these different topics within the crypto-flower in terms of ecology requires a vision of the health of whole systems as well, which is core to TE Consilience Library. Some Ideas have a density to them, and its we who are in orbits of this concepts and fields of knowledge. What I...
 
 ![https://i.ytimg.com/vi/pSbxz3x7X_k/maxresdefault.jpg](https://i.ytimg.com/vi/pSbxz3x7X_k/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
 
@@ -18435,9 +15235,6 @@ _07-May-22 10:13 AM_:
 
 That's a challenge, specially in a ever changing environment. Avoid redundancy, be comprehensive and maintain clarity without killing complexity... definitely not easy. Maybe a layer system could work, but still keeping it up to day would require a huge amount of coordination and several people completely dedicated to that. I personally hate presentations full of links that takes me everywhere, not the case of what you posted, which is admirable and I'm sure that took a lot of time. I enrolled for TE fundamentals and looking forward to read the Hitchhiker's guide.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -18453,26 +15250,18 @@ _07-May-22 10:14 AM_:
 
 @SatoriD 10 min is my time, I'm a short distance runner when it comes to videos. Loved the ending sentence and the animation. I wish I still smoked pot
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
 
 Incandenza
 
-[I started going through the material you people suggested me to read and I started thinking that Daos have this tendency to generate an overload of (disorganized) information, like the bureaucracy of a state that gets more and more complex. This of course it's not a prerogative of tec or omega, it's a constant that I noticed in every Dao I joined (so please take this as a reflection and not as a personal criticism, it is not, I really like you), which makes it harder for new people to join as long as the Dao progresses. Like the more it progresses the more exclusive it becomes. And this doesn't happen for the will of their members but for their very constitution. I also checked the playlist @SatoriD shared with me that I'm sure was created with a lot of love and the best possible intentions. but all together those video make up more than 8 hours. I don't know. Spring is here, roses are blossoming, girls start undressing. Maybe it's Saturday morning and I'm just feeling lazy. I enjoyed the website with the poems and the pictures though](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[I started going through the material you people suggested me to read and I started thinking that Daos have this tendency to generate an overload of (disorganized) information, like the bureaucracy of a state that gets more and more complex. This of course it's not a prerogative of tec or omega, it's a constant that I noticed in every Dao I joined (so please take this as a reflection and not as a personal criticism, it is not, I really like you), which makes it harder for new people to join as long as the Dao progresses. Like the more it progresses the more exclusive it becomes. And this doesn't happen for the will of their members but for their very constitution. I also checked the playlist @SatoriD shared with me that I'm sure was created with a lot of love and the best possible intentions. but all together those video make up more than 8 hours. I don't know. Spring is here, roses are blossoming, girls start undressing. Maybe it's Saturday morning and I'm just feeling lazy. I enjoyed the website with the poems and the pictures though](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _07-May-22 05:00 PM_:
 we have a digital gardener also newly onboarding /cc @Pedro Parrachia I hope you'll be sharing insights . I love this Creative Conflict
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 But it is important to note, as long as you have not taken a tour of the archipelagos with @nic expecting to onboard 0mega (especially if you are new to the field of Token Engineering itself) over a sunny weekend is surreal. Don't put that much pressure on yourselves!
 
@@ -18486,9 +15275,6 @@ anyways some insights and a bit of a train rolling... this brought me to 0mega o
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/972605014298226778/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/972605014298226778/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 (b) I'm greatfuly for people's contributions that blow my mind! consistently! over time!!
 
@@ -18506,9 +15292,6 @@ _07-May-22 05:09 PM_:
 
 hello everyone! thank you @solsista for inviting me here. @nic I'd love to join this tour of the archipelagos some day
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -18522,9 +15305,7 @@ _07-May-22 05:10 PM_:
 
 Incandenza
 
-[I started going through the material you people suggested me to read and I started thinking that Daos have this tendency to generate an overload of (disorganized) information, like the bureaucracy of a state that gets more and more complex. This of course it's not a prerogative of tec or omega, it's a constant that I noticed in every Dao I joined (so please take this as a reflection and not as a personal criticism, it is not, I really like you), which makes it harder for new people to join as long as the Dao progresses. Like the more it progresses the more exclusive it becomes. And this doesn't happen for the will of their members but for their very constitution. I also checked the playlist @SatoriD shared with me that I'm sure was created with a lot of love and the best possible intentions. but all together those video make up more than 8 hours. I don't know. Spring is here, roses are blossoming, girls start undressing. Maybe it's Saturday morning and I'm just feeling lazy. I enjoyed the website with the poems and the pictures though](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[I started going through the material you people suggested me to read and I started thinking that Daos have this tendency to generate an overload of (disorganized) information, like the bureaucracy of a state that gets more and more complex. This of course it's not a prerogative of tec or omega, it's a constant that I noticed in every Dao I joined (so please take this as a reflection and not as a personal criticism, it is not, I really like you), which makes it harder for new people to join as long as the Dao progresses. Like the more it progresses the more exclusive it becomes. And this doesn't happen for the will of their members but for their very constitution. I also checked the playlist @SatoriD shared with me that I'm sure was created with a lot of love and the best possible intentions. but all together those video make up more than 8 hours. I don't know. Spring is here, roses are blossoming, girls start undressing. Maybe it's Saturday morning and I'm just feeling lazy. I enjoyed the website with the poems and the pictures though](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>Pedro Parrachia <img src="https://cdn.discordapp.com/avatars/340686435268952064/e8992c56ca034abb53c15345b89af0c3.png" width=25 height=25></h3>
 
@@ -18532,13 +15313,7 @@ _07-May-22 05:12 PM_:
 
 yeah, this is a deep issue, with roots on most DAOs for sure. I'm developing a solution for specifically this issue. and focused on ReFi and digital public goods DAOs. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -18564,19 +15339,14 @@ Incentives "What do I get?" becomes "What can I give that energizes me and the c
 
 Resources becomes "Resourcefulness of the group", which is mutual credit - again this is the source of abundance
 
-Action Plan becomes "Contact Improv" [https://www.youtube.com/watch?v=TbjUPAaqkPQ](https://www.youtube.com/watch?v=TbjUPAaqkPQ)
-
-[TEDx Talks](https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q)
-
-We Rise and Fall Together - Contact Improv - Nathan Dryden - TEDxSa...
+Action Plan becomes "Contact Improv" 
+[We Rise and Fall Together - Contact Improv - Nathan Dryden - TEDxSa...](https://www.youtube.com/watch?v=TbjUPAaqkPQ)
 
 Contact Improvisation is a dance form that evolves from spontaneous communication between moving bodies in physical contact. Touch, weight, momentum, balance, and flow give it a continuously emerging shape. It’s researched, taught, and performed across the world by dancers from the very birth of the form in 1972: like Steve Paxton, Nancy Stark ...
 
 ![https://i.ytimg.com/vi/TbjUPAaqkPQ/maxresdefault.jpg](https://i.ytimg.com/vi/TbjUPAaqkPQ/maxresdefault.jpg)
 
-the latest insights is thanks to MotionDAO who are bringing a perspective in that is both new and very deeply rooted in me
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+the latest insights is thanks to MotionDAO who are bringing a perspective in that is both new and very deeply rooted in me <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ❤️
 
@@ -18590,13 +15360,7 @@ A care-full community of hearts and souls in web3.
 
 @Pedro Parrachia do you know Kernel? If not check it out, and I'd definitely recommend joining the next cohort in autumn - it is a collectively curated repository of web3 wisdom
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
 
 ...which rn creates another connection for 0mega... is anyone else beside @nic @ygg_anderson and me a Kernel fellow?
 
@@ -18616,9 +15380,7 @@ _07-May-22 05:42 PM_:
 
 of course, they all have the dancing skill... so for Contact Improv in 0mega to work, people need to be practicing TEs (then you know the value of TE Ethics and Diversity), having learnt from a source like [https://Kernel.community](https://kernel.community/) (not only TE Academy, since the curriculum in TEA is engineering-heavy side of the cryptoeconomic flower) - and/or the upcoming TE #deleted-channel
 
-or in some cases - you are a natural and have never unlearnt it in an industrial education system
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+or in some cases - you are a natural and have never unlearnt it in an industrial education system <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 [https://youtu.be/Gi-OaiQvnTU](https://youtu.be/Gi-OaiQvnTU)
 
@@ -18630,9 +15392,6 @@ Artistic director of the Hakvutza Dance School in Jaffa, Tel Aviv, Itay has been
 
 ![https://i.ytimg.com/vi/Gi-OaiQvnTU/maxresdefault.jpg](https://i.ytimg.com/vi/Gi-OaiQvnTU/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f63b.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -18680,9 +15439,6 @@ _07-May-22 06:41 PM_:
 
 ✅ Praise @stef who transformed the TE Consilience Library with his artful interpretation of the spaces in between people and trandisciplinarity - and capturing The Matrix geek chique we cherish in TE
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -18704,31 +15460,17 @@ solsista
 
 <h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
-_08-May-22 04:32 AM_:
+_08-May-22 04:32 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f3b6.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3b6.png" width=50 height=50>
+Magic hat <img src="https://twemoji.maxcdn.com/2/72x72/1f3b6.png" width=20 height=20>
 
-Magic hat
+Magic hat <img src="https://twemoji.maxcdn.com/2/72x72/1f3b6.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3b6.png" width=50 height=50>
-
-Magic hat
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3b6.png" width=50 height=50>
-
-Put some love in the magic hat
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3b6.png" width=50 height=50>
+Put some love in the magic hat <img src="https://twemoji.maxcdn.com/2/72x72/1f3b6.png" width=20 height=20>
 
 Hugs, acceptance and (spiritual) nudity. Sounds like hippie squad, I'm all in for this, can't wait. Shall I join the next meeting?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/262e.png" width=50 height=50>
 
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -18750,21 +15492,12 @@ _09-May-22 02:55 AM_:
 
 little dance improv on @streamerd ' s stormy music... (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/emojis/835017375405441064.png](https://cdn.discordapp.com/emojis/835017375405441064.png)
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f98b.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-2
 
 <h3>streamerd <img src="https://cdn.discordapp.com/avatars/767698114806546443/f2e2fd232a5aa78695053f0033ef0f4a.png" width=25 height=25></h3>
 
@@ -18820,9 +15553,7 @@ and I love the improv with @streamerd , I felt that suddenly I opened a physical
 
 Incandenza
 
-[Hugs, acceptance and (spiritual) nudity. Sounds like hippie squad, I'm all in for this, can't wait. Shall I join the next meeting?  ️](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/262e.png" width=50 height=50>
+[Hugs, acceptance and (spiritual) nudity. Sounds like hippie squad, I'm all in for this, can't wait. Shall I join the next meeting?  ️](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/262e.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -18831,12 +15562,7 @@ _09-May-22 12:10 PM_:
 Soooo I believe we need a warm-up area ... been chatting with @durgadas that we need something like a study group "Token Engineering & Eastern Philosophy"
 
 I'm a bit worried to mix spiritual nudity 70s hippies style with DeFi liquidity pools... we might as well play with atomic bombs and see what happens ....
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 actually there have been loads of exchange around this , and we might/can continue in #deleted-channel about energy flows
 
@@ -18874,9 +15600,7 @@ a lot of fantastic movements from the 70s got stuck. incl. cybernetics ... and m
 
 ...and I'm using this as a "mental model" that helps make sense of the humany stuff that I have almost no or very limited heuristic access to
 
-I don't believe in any of this more than in a cadCAD model a kickass token engineer can pull up - except that survival over period of 5000 years has a higher lindy score
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+I don't believe in any of this more than in a cadCAD model a kickass token engineer can pull up - except that survival over period of 5000 years has a higher lindy score <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 [https://medium.com/incerto/an-expert-called-lindy-fdb30f146eaf](https://medium.com/incerto/an-expert-called-lindy-fdb30f146eaf)
 
@@ -18964,9 +15688,6 @@ because of this:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/973260777966419968/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/973260777966419968/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
-
-1
 
 it's not spiritual language it is Eastern Philosophy
 
@@ -18976,9 +15697,6 @@ _09-May-22 12:32 PM_:
 
 I'd sure like to see another modern scientific approach to nonduality, but since that doesn't exist, it's hard to talk about it using that language
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 science is quite literally looking for everything except that
 
@@ -19052,9 +15770,6 @@ this is why I made this graphic, to show that this is not true and in fact Bitco
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/973262246832660511/Process-Of-Becoming-A-DAO--Draft5.jpg](https://cdn.discordapp.com/attachments/810180622634844202/973262246832660511/Process-Of-Becoming-A-DAO--Draft5.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f499.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -19090,9 +15805,6 @@ _09-May-22 12:38 PM_:
 
 that's why the suggestion lets have a study group so that people grasp and learn about mental models that help overcoming duality: "good vs. evil", "engineering vs. humanities" etc etc.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -19133,9 +15845,7 @@ nic
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _09-May-22 12:40 PM_:
-oh great, sensor me for offboarding
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+oh great, sensor me for offboarding <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -19179,9 +15889,6 @@ _09-May-22 12:42 PM_:
 
 as a practicing token engineer I find non-duality helpful and am happy that TEC#0mega exists where I can come with questions that have no right/wrong answers
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -19342,9 +16049,7 @@ durgadas
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _09-May-22 12:47 PM_:
-you could teach this in any DAO teaching/learning group
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+you could teach this in any DAO teaching/learning group <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -19476,9 +16181,7 @@ durgadas
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _09-May-22 12:56 PM_:
-first family dinner, then see you in 34 mins - and thank you for this guiding question!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+first family dinner, then see you in 34 mins - and thank you for this guiding question! <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 super helpful
 
@@ -19508,9 +16211,6 @@ _09-May-22 01:04 PM_:
 
 @Jeanne in 24mins in the omega working group voice chat
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -19557,9 +16257,7 @@ Losing the audio now...can't follow either (coherence collapsing?) lol
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 _09-May-22 02:27 PM_:
-I have a meeting in 5 min, I have to hop off
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
+I have a meeting in 5 min, I have to hop off <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -19601,9 +16299,7 @@ I guess the importance is not to get complacent and be driven by "urgency"
 
 I liked @Mert Ozd' pragmatic solution to experiment with part of the budget only - that way we keep both systems, which maybe taxing, but we would have people who want to have an execution plan, execute the part of the plan that is (becomes) clear (i.e. bounties are available with exact plan what is expected etc.) (edited)
 
-whilst keep the experimentation with self-discovery into each action we contribute <-- this experiment is voluntary, for participants who know/feel what they are getting themselves into
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+whilst keep the experimentation with self-discovery into each action we contribute <-- this experiment is voluntary, for participants who know/feel what they are getting themselves into <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 and/or want to practice autonomy and self-agency in collaboration in digital space across time zones (edited)
 
@@ -19639,28 +16335,17 @@ _09-May-22 05:49 PM_:
 
 I really wanted to experiment this as most of the web3 space either conducted with bounties or regular salaries. I wanted to incorporate something that value extra energy within social context not only as extra role.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-3
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _09-May-22 05:53 PM_:
-after you left we actually also talked about how, for example, you really want to do research that is relevant in TE, for TEs - but actually are doing the bulk of administrative work
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+after you left we actually also talked about how, for example, you really want to do research that is relevant in TE, for TEs - but actually are doing the bulk of administrative work <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <-- we're literally wasting TE potential energy here imv
 
 so if we got to a point where process tasks are super clear and bountified, we would be able to free your energies able to flow between admin tasks that you enjoy and TE research groundwork
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -19670,9 +16355,6 @@ Actually, the original table in the proposal Mertz and I prepared had all even n
 
 Ok 15 is odd but you get it (time to sleep) (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -19686,9 +16368,6 @@ _09-May-22 05:59 PM_:
 
 yes I also put it into process flow
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -19705,9 +16384,7 @@ moi aussi
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 _09-May-22 06:00 PM_:
-Todos en CET a dormir!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
+Todos en CET a dormir! <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -19718,24 +16395,18 @@ solsista
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 _09-May-22 06:09 PM_:
-I would die for that to happen
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
+I would die for that to happen <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
 
 Mert Ozd
 
-[I would die for that to happen](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
+[I would die for that to happen](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _09-May-22 06:12 PM_:
-said every scentist/artist/human ... actually "fighting" for the creative space is "fighting" for fundamental human right
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+said every scentist/artist/human ... actually "fighting" for the creative space is "fighting" for fundamental human right <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -19751,9 +16422,7 @@ non-local thoughts in hyperspace
 
 solsista
 
-[said every scentist/artist/human ... actually "fighting" for the creative space is "fighting" for fundamental human right](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[said every scentist/artist/human ... actually "fighting" for the creative space is "fighting" for fundamental human right](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -19763,9 +16432,7 @@ I been musing on this too, about vibrations and shaping space, and we talk about
 
 <h3>withinthevacuum <img src="https://cdn.discordapp.com/avatars/956959106751668236/92d7ddfdc599530a6d3a5336326dc8db.png" width=25 height=25></h3>
 
-_09-May-22 06:59 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f918.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f918.png" width=50 height=50>
+_09-May-22 06:59 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f918.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f918.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -19773,15 +16440,9 @@ _09-May-22 07:11 PM_:
 
 folks let's make sure that we reflect in our threads in which we were active, what contributions/insights we are grateful for
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-2
 
 as we discussed last week, that can help WG Lead and Steward to get an overview: which threads are active with positive energy where progress is happening with ease
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 please also add what you need help/support with blockages
 
@@ -19806,9 +16467,6 @@ I was thinking of a few things from my meaty discussions today
 
 Maybe I can share and you guys can asynch add/critique
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -19897,9 +16555,6 @@ _09-May-22 09:01 PM_:
 
 but I'm calling for a Bohm Diaologue on Wednesday 18th: "What are we optimizing for?"
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -19980,9 +16635,6 @@ TEC Omega: Dynamic Energy Budget #2
 
 ![https://i.ytimg.com/vi/Amh7Es2LxDc/hqdefault.jpg](https://i.ytimg.com/vi/Amh7Es2LxDc/hqdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -20050,9 +16702,6 @@ _10-May-22 04:55 PM_:
 
 There's a cadCAD proposal up for voting/passing now
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -20066,9 +16715,6 @@ _10-May-22 05:02 PM_:
 
 ok, i ll need to learn python to then learn cadcad.org enrolled in a 100days python bootcamp, and local meetup dev support group, for omega would like feedback on presenting with writing a proposal to research a tokeneconomy with transdisciplinary.art and applying it to rezgauche, finding participants both through local art community, tec and commons oriented organisations, this will take a while depending on resources and time available besides artwork and providing for subsistence... (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-2
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -20115,12 +16761,7 @@ are you legit to do so?
 it's ok
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/973893735744176188/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/973893735744176188/unknown.png)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ❤️
 
@@ -20153,13 +16794,9 @@ I am committed to hold space for TE Ethics and Ethos to emerge, and encourage pa
 
 ![https://forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png](https://forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png)
 
-but it emerged that the group also needs structured WG calls
+but it emerged that the group also needs structured WG calls <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
-
-so call to self-organization and taking responsibility especially if you are doing it anyway
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+so call to self-organization and taking responsibility especially if you are doing it anyway <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -20183,9 +16820,7 @@ so these past exchanges and struggling with my and our collective shadows inspir
 
 " and of course
 
-*"Hosting Multiple Worldviews"*
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+*"Hosting Multiple Worldviews"* <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 until August
 
@@ -20194,23 +16829,16 @@ Whoever hears the calling is welcome to collaborate! But I need at least one col
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _11-May-22 10:00 AM_:
-remembered I wanted to share this when you started about soundtracks for the TE C' lib
+remembered I wanted to share this when you started about soundtracks for the TE C' lib <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
 
-[https://www.youtube.com/watch?v=d0nERTFo-Sk](https://www.youtube.com/watch?v=d0nERTFo-Sk)
-
-[Emergent Order](https://www.youtube.com/channel/UCcEDTBdietc2JmgN6TL8wAg)
-
-Fear the Boom and Bust: Keynes vs. Hayek - The Original Economics R...
+[Fear the Boom and Bust: Keynes vs. Hayek - The Original Economics R...](https://www.youtube.com/watch?v=d0nERTFo-Sk)
 
 Subscribe to our channel: [http://www.youtube.com/user/econstories](http://www.youtube.com/user/econstories) If you enjoyed this video, you should watch this one next: [http://youtu.be/Mq2iQAsJAhI](http://youtu.be/Mq2iQAsJAhI) Produced by Emergent Order. Visit us at [http://www.emergentorder.com](http://www.emergentorder.com/). Econstories.tv is a place to learn about the economic way of thinking through the eyes of creative director John Papola a...
 
 ![https://i.ytimg.com/vi/d0nERTFo-Sk/maxresdefault.jpg](https://i.ytimg.com/vi/d0nERTFo-Sk/maxresdefault.jpg)
 
-^^ @Mert Ozd for your research topic
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+^^ @Mert Ozd for your research topic <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
 
@@ -20224,26 +16852,19 @@ _11-May-22 11:03 AM_:
 
 this sounds like a similar process than DEB? Maybe there're some ways to use what we do here? @stef
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
 solsista
 
-[remembered I wanted to share this when you started about soundtracks for the TE C' lib](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[remembered I wanted to share this when you started about soundtracks for the TE C' lib](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 [https://www.youtube.com/watch?v=d0nERTFo-Sk](https://www.youtube.com/watch?v=d0nERTFo-Sk)
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 _11-May-22 11:09 AM_:
-I am a no no for Hayek
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f600.png" width=50 height=50>
+I am a no no for Hayek <img src="https://twemoji.maxcdn.com/2/72x72/1f600.png" width=20 height=20>
 
 most of the time but will watch it.
 
@@ -20278,9 +16899,7 @@ liviade
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 _11-May-22 11:46 AM_:
-I would love to but it conflict with Proposal Inverter weekly meeting
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
+I would love to but it conflict with Proposal Inverter weekly meeting <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -20294,9 +16913,6 @@ _11-May-22 12:46 PM_:
 
 [https://epub.wu.ac.at/7782/1/Foundations%20of%20Cryptoeconomic%20Systems.pdf](https://epub.wu.ac.at/7782/1/Foundations%2520of%2520Cryptoeconomic%2520Systems.pdf)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/973989616845729872/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/973989616845729872/unknown.png)
 
@@ -20316,70 +16932,35 @@ _11-May-22 01:52 PM_:
 
 !praise @solsista for giving time, attention and care to make the point and space for research and experimentation for regenerative workflows research, hopefully to be spread around in the DAO space!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 !praise @SatoriD @streamerd @Jolly LaMa for genious ideas and workflows to come up with an archetypal NFT self-discovery game that will be a gamechanger in TEC and around!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 !praise @nic for such care, minutia and structure to advance all Omega initiatives and TEC onboarding, especially for designing rich Figma boards showcasing all data inputs!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60e.png" width=50 height=50>
-
-2
 
 !praise @Mert Ozd for not forgetting the need of connecting WGs with Omega and be up to date with procedures and protocols inside TEC!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 !praise @durgadas for designing and meditating on the most integral DAO to DDO graphic I've seen in the whole space!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 !praise @Pedro Parrachia and @ActiveInferenceLab for showing in Omega and bringing in new resources and ideas, thank you!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f41c.png" width=50 height=50>
-
-3
 
 !praise @Jeanne and @stef for always keeping us on motion and weaving energies in arts and living dynamic systems!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50>
-
-1
 
 !praise @withinthevacuum for his omega collective curation and reminder of the soulrising effect of music in humans!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _11-May-22 02:03 PM_:
-nice praise train @Letty
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=50 height=50>
+nice praise train @Letty <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
 [https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.gi1c69j48baf](https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.gi1c69j48baf)
 
@@ -20391,17 +16972,8 @@ WG 0mega - Agenda (Weekly Wed. 8PM CET)
 _11-May-22 02:45 PM_:
 thank you all, your minds, sentiments, questions are beautiful, it is an indescribable pleasure to be able to listen to each of you and derive new understanding from all that you say and do.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f495.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f340.png" width=50 height=50>
-
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60c.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
@@ -20413,18 +16985,12 @@ _11-May-22 02:49 PM_:
 
 ✅ Praise @streamerd, @stef for amazing dance and improv, so enlightning!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 _11-May-22 03:05 PM_:
 I need to hop off
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
@@ -20432,9 +16998,6 @@ _11-May-22 03:19 PM_:
 
 Sorry to say I must be going, I really enjoyed the present conversation, @durgadas thanks for sharing and to everyone thanks for having me
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -20460,9 +17023,6 @@ _11-May-22 03:30 PM_:
 
 this is similar to how I personally create/synthesise things. I replace clear need or pain point with vision or possibility I want to create. The solution in my case is not actually a solution, more like a representation of what I learned when applied to possibility I want to create. Its existence *could* help but is not a prescription to others' problem. It's more for me to experience and test myself on my problems. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-1
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -20519,9 +17079,7 @@ We don’t have an official place for 0mega. Closest thing we have is the agenda
 
 [https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit](https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit)
 
-@durgadas loves making graphics though I’m sure he’s got quite a large personal repository of them Best way to catch these illustrations is via active participation in conversations
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f57a.png" width=50 height=50>
+@durgadas loves making graphics though I’m sure he’s got quite a large personal repository of them Best way to catch these illustrations is via active participation in conversations <img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f57a.png" width=20 height=20>
 
 so that in conversation such illustrations may be shared
 
@@ -20536,9 +17094,7 @@ nic
 
 [https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit](https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit)
 
-@durgadas loves making graphics though I’m sure he’s got quite a large personal repository of them Best way to catch these illustrations is via active participation in conversations
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f57a.png" width=50 height=50>
+@durgadas loves making graphics though I’m sure he’s got quite a large personal repository of them Best way to catch these illustrations is via active participation in conversations <img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f57a.png" width=20 height=20>
 
 so that in conversation such illustrations may be shared
 
@@ -20562,21 +17118,9 @@ This image is what being part of 0mega is about. It’s a practice of integratin
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/974052152962056232/IMG_1035.png](https://cdn.discordapp.com/attachments/810180622634844202/974052152962056232/IMG_1035.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/261d.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6d0.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -20584,17 +17128,8 @@ _11-May-22 05:02 PM_:
 
 @Anak @Incandenza @gene you may find the above message helpful ^
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
@@ -20609,9 +17144,7 @@ liviade
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _11-May-22 06:15 PM_:
-sorry missed this!! wednesdays only make it here at 8pm cet for the night shift
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=50 height=50>
+sorry missed this!! wednesdays only make it here at 8pm cet for the night shift <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -20627,9 +17160,6 @@ Me too!
 
 @nic summarized it beautifully
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/722593944466096134/fe5c4e5ca788fffc5fada6675e9bd826.png](https://cdn.discordapp.com/avatars/722593944466096134/fe5c4e5ca788fffc5fada6675e9bd826.png)
 
@@ -20642,9 +17172,6 @@ ActiveInferenceLab
 _11-May-22 06:17 PM_:
 welcome! always enjoy people hit the ground running here - apologies if I have missed you before: would you like to share more what brought you here? background, a question, ... share away
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -20664,15 +17191,9 @@ _11-May-22 06:20 PM_:
 
 @solsista it’s Daniel who was working on Active Inference (Science Adventure), from Kernel DeSci guild. Actually you told him to connect with us back in March! (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 He kindly made notes of our meeting for DEB in the DEB thread
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
 
@@ -20683,9 +17204,7 @@ Incandenza
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _11-May-22 06:24 PM_:
-thank you! I think I react when ppl want "tell me what this is" because it's hard to communicate (for me) [and that's my stuff, starting to own it
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+thank you! I think I react when ppl want "tell me what this is" because it's hard to communicate (for me) [and that's my stuff, starting to own it <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 ] - but actually, once through that discomfort, there's always the next breakthrough around the corner, like so:
 
@@ -20695,9 +17214,6 @@ lovely seeing this acitivity ... looking forward to catching up
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/974075506230186044/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/974075506230186044/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
 
@@ -20712,9 +17228,7 @@ stef
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _11-May-22 06:32 PM_:
-"In demonstrating the many ways that the psychotic is ‘inhabited, possessed by language’, Lacan draws upon Schreber’s own account of his psychosis and upon Freud’s notes on this ‘case of paranoia’. "
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
+"In demonstrating the many ways that the psychotic is ‘inhabited, possessed by language’, Lacan draws upon Schreber’s own account of his psychosis and upon Freud’s notes on this ‘case of paranoia’. " <img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=20 height=20>
 
 literally I've seen this in corporate politics, and "leadership", ... why are all these scholars and philosophers let phrases like "only the paranoids survive" be not just normalized but an "ideal" of throves of MBAs flooding into decision making positions!?
 
@@ -20732,9 +17246,6 @@ Remembering a tech legend by way of some of his most astute quotes.
 
 I just didn't know it's called psychosis, because everyone thinks it is normal.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=50 height=50>
-
-1
 
 not just normal, but "aspirational"
 
@@ -20746,9 +17257,7 @@ so we live in psychosis of the 1% ?!
 
 solsista
 
-[welcome! always enjoy people hit the ground running here - apologies if I have missed you before: would you like to share more what brought you here? background, a question, ... share away](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[welcome! always enjoy people hit the ground running here - apologies if I have missed you before: would you like to share more what brought you here? background, a question, ... share away](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>ActiveInferenceLab <img src="https://cdn.discordapp.com/avatars/722593944466096134/fe5c4e5ca788fffc5fada6675e9bd826.png" width=25 height=25></h3>
 
@@ -20770,9 +17279,6 @@ This video was made in collaboration with Academy of Ideas. They create videos e
 
 ![https://i.ytimg.com/vi/09maaUaRT4M/maxresdefault.jpg](https://i.ytimg.com/vi/09maaUaRT4M/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
@@ -20822,19 +17328,13 @@ _13-May-22 01:48 AM_:
 
 Good morning. Today I will go out and ask the daisies in my garden if they know that one day they will be tokenized. I will let you know what they say, you can ask your daisies too.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 _13-May-22 09:37 AM_:
 
-[https://www.youtube.com/watch?v=CO7gRDzLtds](https://www.youtube.com/watch?v=CO7gRDzLtds)
 
-[Wisdom of the Sages](https://www.youtube.com/channel/UCuV--hDFVXS69PNdFgdyhbw)
-
-658: Prophet Style Interview with Kaustubha Das
+[658: Prophet Style Interview with Kaustubha Das](https://www.youtube.com/watch?v=CO7gRDzLtds)
 
 on friendship / on aging / on marriage / on being a good man / on prayer / on forgiveness / on love Raghunath and Kaustubha's connection goes back to their teens in the New York Hardcore Punk scene of the early 80s, through serving together as Bhakti-yogi monks in the 90's, to sharing their experiences in the world of yoga in the 21st century. ...
 
@@ -20854,9 +17354,6 @@ TEC Omega: Imaginarium Creative Jam Session #5
 
 ![https://i.ytimg.com/vi/4Prdre5i7Zc/maxresdefault.jpg](https://i.ytimg.com/vi/4Prdre5i7Zc/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -20867,9 +17364,7 @@ can you pin important content please? It takes too much scroll up and identify i
 <h3>UniPuff 🜐🐙 <img src="https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png" width=25 height=25></h3>
 
 _13-May-22 03:55 PM_:
-I want to let everybody know that, with MetaGame, we are organizing a virtual 2-week long festival/conference in June called MetaFest2.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f419.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f419.png" width=50 height=50>
+I want to let everybody know that, with MetaGame, we are organizing a virtual 2-week long festival/conference in June called MetaFest2. <img src="https://twemoji.maxcdn.com/2/72x72/1f419.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f419.png" width=20 height=20>
 
 We want to encourage discussions around ambitious and subversive themes like those explored in 0mega so if you want to apply as speaker or performer please do!
 
@@ -20883,20 +17378,12 @@ A virtual festival & conference with the goal of helping you level up & manifest
 
 ![https://metafest-r3f.vercel.app/social.png](https://metafest-r3f.vercel.app/social.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483-1f3fd.png" width=50 height=50>
-
-1
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 _16-May-22 03:34 AM_:
-Hey guys, I will be out of office on monday and tuesday ( I have a long flight). ( I will try my best to catch Monday’s session) Looking forward to see you guys on Wednesday
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50>
+Hey guys, I will be out of office on monday and tuesday ( I have a long flight). ( I will try my best to catch Monday’s session) Looking forward to see you guys on Wednesday <img src="https://twemoji.maxcdn.com/2/72x72/1f91b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/emojis/835017375405441064.png](https://cdn.discordapp.com/emojis/835017375405441064.png)
 
@@ -20908,9 +17395,6 @@ _16-May-22 05:51 AM_:
 
 Happy Monday to all the beautiful Omega team, hope you had an exciting weekend and that your daisies are happy. Question of the week: do you believe that Daos represent an improvement in the conditions of workers (contributors) compared to traditional companies or, being an evolution of capitalism, does the total absence of any form of welfare fail to balance what is gained in terms of freedom? Think about this also considering the learning curve required before being able to be able to contribute to a dao. I would be glad to hear your thoughts on this, I think it is no small ethical issue, and should be discussed
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -20984,9 +17468,6 @@ _16-May-22 03:53 PM_:
 
 !praise @stef @streamerd @SatoriD @Letty for jamming and hacking together the specs for the Library MVP architecture!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -21004,13 +17485,7 @@ Consilience As A Unifying Principle - consilience library
 
 ![https://consilib90210-39f36.stackbit.app/images/flower5l.png](https://consilib90210-39f36.stackbit.app/images/flower5l.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-2
 
 <h3>Jeanne <img src="https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png" width=25 height=25></h3>
 
@@ -21018,9 +17493,6 @@ _17-May-22 06:26 PM_:
 
 Wednesday, dynamic Energy Budget meets at 6pm cet, 9am pacific...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/767698114806546443/f2e2fd232a5aa78695053f0033ef0f4a.png](https://cdn.discordapp.com/avatars/767698114806546443/f2e2fd232a5aa78695053f0033ef0f4a.png)
 
@@ -21035,9 +17507,7 @@ streamerd
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _18-May-22 08:31 AM_:
-this particular text is from our beloved complexity coach @durgadas who has proven himself on many occations as a helpful guide
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+this particular text is from our beloved complexity coach @durgadas who has proven himself on many occations as a helpful guide <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 x the art is from @stef who is a newcomer to TE and is still finding his way but contributes with what he's been gifted... both do actually, we all do actually, we contribute what we have
 
@@ -21049,9 +17519,7 @@ Created with FigJam
 
 [https://www.figma.com/file/soqXUHRrBcazutqC2FegnW/thumbnail?ver=thumbnails/2d1991ca-d890-464f-b123-3c126df150d0](https://www.figma.com/file/soqXUHRrBcazutqC2FegnW/thumbnail?ver=thumbnails/2d1991ca-d890-464f-b123-3c126df150d0)
 
-I have been busy with my two day jobs last week, so today I'll be playing the role of a newcomer almost
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+I have been busy with my two day jobs last week, so today I'll be playing the role of a newcomer almost <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 let's see how our self-organization protocol/game is being played: [https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.z1aiozzcdmzu](https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.z1aiozzcdmzu)
 
@@ -21060,19 +17528,12 @@ WG 0mega - Agenda (Weekly Wed. 8PM CET)
 [exploratory phase doc] As of 09/06/2021 Agenda & Notes of Working Group 0mega Weekly Wednesdays 20:00 CET, in 0mega Voice ChannelShort Description The Working Group 0mega started with a rather big question of “How can we enable Token Engineering Ethos to emerge from such diverse backgrou...
 @Jeanne mentioned this, and I think it's helpful: people need context in the beginning of the call, and it would be interesting if different people provided that context - maybe even multiple people if they have seen the different mutliple sides of 0mega
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 so please also be prepared to take one hosting/facilitating, or at least providing context for a newcomer in the beginning of our call
 
-good thing my day jobs need me as respectively token engineer and "manager" (which I refuse, but the organization is still old school, but they are giving me leeway to experiment, and it works, since all people i "manage" are actually either self-employed or lead agile teams in a similar fashion like I do) , so I think I will be able to contribute to some of the threads I see active to the left
+good thing my day jobs need me as respectively token engineer and "manager" (which I refuse, but the organization is still old school, but they are giving me leeway to experiment, and it works, since all people i "manage" are actually either self-employed or lead agile teams in a similar fashion like I do) , so I think I will be able to contribute to some of the threads I see active to the left <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
-
-[https://management30.com/blog/management-30-teal-organizations/](https://management30.com/blog/management-30-teal-organizations/)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
+[https://management30.com/blog/management-30-teal-organizations/](https://management30.com/blog/management-30-teal-organizations/) <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=20 height=20>
 
 Management 3.0 vs. Teal Organizations - Management 3.0
 
@@ -21080,20 +17541,12 @@ Management 3.0 and Teal Organizations – How are they related? A comparison of 
 
 ![https://management30.com/wp-content/uploads/2019/10/butterfly.jpg](https://management30.com/wp-content/uploads/2019/10/butterfly.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f499.png" width=50 height=50>
-
-2
-Whilst the 0mega collection is coming along very well (a lot about self-knowledge, emergence, network, wisdom...
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f63b.png" width=50 height=50>
+Whilst the 0mega collection is coming along very well (a lot about self-knowledge, emergence, network, wisdom... <img src="https://twemoji.maxcdn.com/2/72x72/1f63b.png" width=20 height=20>
 
 ) , the organizations I work for need their people/participants to learn about cryptoeconomics on the engineering heavy sides too. So I wonder what are our plans to come up with how to engage curations from "practicing" token engineers.
 
 I think the ReFi curation from Long Tail Financial is one such potential
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
@@ -21101,9 +17554,6 @@ _18-May-22 02:58 PM_:
 
 Hey friends, my connection is very bad ( I am in a village). But regarding research groundwork, I suggests us to collaborate with soft gov. One of the feedback from sprint retro was that Omega does not have enough attention. this will both help more integration for omega and will create awaraness. On top of that we can merge our powers to make the best possible research !! Wdyt?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 <h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
@@ -21116,17 +17566,12 @@ If any of you is in Germany, Belgium or the Netherlands, spares some time and fa
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 _18-May-22 06:43 PM_:
-Ok, so I'm still musing on the difficulty to get DEB-based measurements applicable to the Regen Workflows in the Library... How to even find a good enough proxy for human to human energies and human to machine (
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f635.png" width=50 height=50>
+Ok, so I'm still musing on the difficulty to get DEB-based measurements applicable to the Regen Workflows in the Library... How to even find a good enough proxy for human to human energies and human to machine ( <img src="https://twemoji.maxcdn.com/2/72x72/1f635.png" width=20 height=20>
 
 ) interactions? I came back to humanistic management and thought about the thrivability patterns we work with in Omega. So well-being is substantial to those. Can we include a subjective (self-based) well-being measurement while we curate/work on the Library streams? The OECD library has this for us:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/976616134684078110/unknown.jpeg](https://cdn.discordapp.com/attachments/810180622634844202/976616134684078110/unknown.jpeg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33f.png" width=50 height=50>
-
-1
 
 If we can navigate these energies alongside interconnections and time we'll have a good index of well-being measurements of curators related to their curations/energies and a collective gauge. (edited)
 
@@ -21154,9 +17599,6 @@ Beautiful, easy data visualization and storytelling
 
 ![https://flourish.studio/images/share_image.jpg](https://flourish.studio/images/share_image.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 [https://untools.co/](https://untools.co/)
 
@@ -21166,17 +17608,13 @@ Collection of thinking tools and frameworks to help you solve problems, make dec
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
-_19-May-22 06:26 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e2.png" width=50 height=50>
+_19-May-22 06:26 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f4e2.png" width=20 height=20>
 
 Calling all of you that can and want gather today for the
 
 **Twin Experience**
 
-!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
+! <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
 "Making use of our Quantum Twin (Garnier Malet theory) in connection to the C Library ⏲️ Warm-up from
 
@@ -21186,17 +17624,8 @@ Calling all of you that can and want gather today for the
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/976792903122833428/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/976792903122833428/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 Have some water ready.
 
@@ -21204,9 +17633,7 @@ Have some water ready.
 
 Letty
 
-[ Calling all of you that can and want gather today for the **Twin Experience**!  "Making use of our Quantum Twin (Garnier Malet theory) in connection to the C Library ⏲️ Warm-up from **13EST/19CET** **Omega voice channel (checking out before the hour) @withinthevacuum @streamerd @stef @solsista @nic @Jeanne @SatoriD @Mert Ozd @durgadas @UniPuff 🜐🐙 @bear100 @liviade @Incandenza @Andrea @Tam2140 Can someone pls make the TEC Recorder bot work?](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e2.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
+[ Calling all of you that can and want gather today for the **Twin Experience**!  "Making use of our Quantum Twin (Garnier Malet theory) in connection to the C Library ⏲️ Warm-up from **13EST/19CET** **Omega voice channel (checking out before the hour) @withinthevacuum @streamerd @stef @solsista @nic @Jeanne @SatoriD @Mert Ozd @durgadas @UniPuff 🜐🐙 @bear100 @liviade @Incandenza @Andrea @Tam2140 Can someone pls make the TEC Recorder bot work?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f4e2.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
 <h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
@@ -21218,9 +17645,7 @@ Unfortunately I have a CUS session already scheduled at that time, but thanks fo
 
 Letty
 
-[ Calling all of you that can and want gather today for the **Twin Experience**!  "Making use of our Quantum Twin (Garnier Malet theory) in connection to the C Library ⏲️ Warm-up from **13EST/19CET** **Omega voice channel (checking out before the hour) @withinthevacuum @streamerd @stef @solsista @nic @Jeanne @SatoriD @Mert Ozd @durgadas @UniPuff 🜐🐙 @bear100 @liviade @Incandenza @Andrea @Tam2140 Can someone pls make the TEC Recorder bot work?](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e2.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
+[ Calling all of you that can and want gather today for the **Twin Experience**!  "Making use of our Quantum Twin (Garnier Malet theory) in connection to the C Library ⏲️ Warm-up from **13EST/19CET** **Omega voice channel (checking out before the hour) @withinthevacuum @streamerd @stef @solsista @nic @Jeanne @SatoriD @Mert Ozd @durgadas @UniPuff 🜐🐙 @bear100 @liviade @Incandenza @Andrea @Tam2140 Can someone pls make the TEC Recorder bot work?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f4e2.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -21248,9 +17673,6 @@ for the community call update:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/976887622108602448/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/976887622108602448/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -21267,9 +17689,7 @@ The doubling Theory - La Théorie du Dédoublement
 <h3>Andrea <img src="https://cdn.discordapp.com/avatars/865691039468617748/2ba981c149b86d5b0a2b9a98e267bb2f.png" width=25 height=25></h3>
 
 _19-May-22 01:52 PM_:
-@Letty this is great thank you.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+@Letty this is great thank you. <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -21277,33 +17697,23 @@ _19-May-22 01:57 PM_:
 
 **❌ Receivers Not Mentioned** This command requires atleast one valid receiver to be mentioned, in order for praise to get dished.
 
-✅ Praise @nic, @Letty Thank you for sharing the Twin Experience. I felt that the valule and joy created was invaluable. Thank you
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
+✅ Praise @nic, @Letty Thank you for sharing the Twin Experience. I felt that the valule and joy created was invaluable. Thank you <img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=20 height=20>
 
 ✅ Praise @Letty for hosting the Twin Experience for us. It was honestly such an amazing experience. I think your energy specifically created that warm/safe space feeling and helped me feel open to the experience. It's so cool to see the visualisations of the TE Library experience. I'll definitely be trying this nightly. The experience itself was very rejuvenating too, so it's nice to experience this in a place of 'work'. Thank you for being you and in doing so making such a difference!
 
-✅ Praise @bear100 for recording our Twin Experience session and making it easy for us to access and watch again to re-exprience the space. And he was able to do it on such short notice as well. Very much appreciated
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+✅ Praise @bear100 for recording our Twin Experience session and making it easy for us to access and watch again to re-exprience the space. And he was able to do it on such short notice as well. Very much appreciated <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 _19-May-22 05:50 PM_:
 
-[https://www.youtube.com/watch?v=RX5PwC75cxU](https://www.youtube.com/watch?v=RX5PwC75cxU) #omegaTube
 
-[The Human Excellence Project](https://www.youtube.com/channel/UC7JWd8tpezAUFFhw-6TrEkw)
-
-Ram Dass On Work & Money
+[Ram Dass On Work & Money](https://www.youtube.com/watch?v=RX5PwC75cxU)
 
 Ram Dass answering questions in 1989. Ram Dass also uses some of his brilliant stories to explain his position on money. This is such an important listen for our times.
 
 ![https://i.ytimg.com/vi/RX5PwC75cxU/maxresdefault.jpg](https://i.ytimg.com/vi/RX5PwC75cxU/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50>
-
-1
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
@@ -21329,9 +17739,6 @@ _20-May-22 01:23 PM_:
 
 I will be 7 min late
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
 
@@ -21363,13 +17770,7 @@ Scalable, secure, cross-device and enterprise-ready team collaboration whiteboar
 
 ![https://miro.com/static/images/share/miro.png?00002](https://miro.com/static/images/share/miro.png?00002)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/270f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f58c.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -21403,9 +17804,6 @@ _22-May-22 03:33 PM_:
 
 I created some more wireframes !! Please give feedback and drop sticky notes
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -21417,15 +17815,9 @@ TEC Omega: Insights and Wisdoms of The Commons
 
 ![https://i.ytimg.com/vi/sUMsq_rFRBE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCofsRKTsTT0lApyTlIXJs_DxdaTQ&days_since_epoch=19135](https://i.ytimg.com/vi/sUMsq_rFRBE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCofsRKTsTT0lApyTlIXJs_DxdaTQ&days_since_epoch=19135)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
-
-2
 
 so I plan to do some editing this week and clip some stuff I been wanting to do for minute and I think from there we create adventures, thru the emerging research/narrative first one I working on is journey thru what we been research and talking about in DEB
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 and I also want to clip some stuff from the imaginarium that I refer to as Beyond the Dao
 
@@ -21447,9 +17839,6 @@ IRL activities taking a toll on my contributor capacity :))
 
 I can definitely write up our TE Ethics results from the initial focus group
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
 
 and trying to find ways to consolidate, contribution to Lib, e.g. through the TE book's supporters and contributors as well wdyt?
 
@@ -21488,9 +17877,6 @@ Hey everyone! Here is the 0mega WG Agenda [https://docs.google.com/document/d/1S
 WG 0mega - Agenda (Weekly Wed. 8PM CET)
 
 [exploratory phase doc] As of 09/06/2021 Agenda & Notes of Working Group 0mega Weekly Wednesdays 20:00 CET, in 0mega Voice ChannelShort Description The Working Group 0mega started with a rather big question of “How can we enable Token Engineering Ethos to emerge from such diverse backgrou...
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -21500,9 +17886,6 @@ Thoughts on this Community call update?
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/979097122274160712/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/979097122274160712/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f63b.png" width=50 height=50>
-
-3
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -21510,17 +17893,11 @@ _25-May-22 03:20 PM_:
 
 What are your thoughts on doing a soft-gov <> 0mega collab session where we take 14 minutes to do a collective reflection session? @liviade @solsista @Letty How it works is that there are 6 prompts. Participants are given 2 minutes to share as many sentence endings for each prompt as they can. The idea is that participants are encouraged to type what they immediately think of without calculating/rationalising/reasoning away why they shouldn't type it, so as to allow self expression without self-censorship. This way they can honestly share their thoughts. We can do it on figma or people can type under the bullet point prompts on a google doc, whichever is easier for people. The prompts are centred around where they spend energy and how energy flows back to them, as well as brainstorming how to learn from others and share knowledge with others when we are short on time and energy, and what could energise people to share more or be more open to learning from others. Here are the prompts that I'm thinking of asking: - I use my energy towards… - Energy flows back to me when… - Ways for others to learn from me without needing a lot of time and energy from me are… - I would be more excited to make time and direct energy towards sharing my knowledge with others if… - Ways for me to learn from others without needing a lot of time and energy from me are… - I would be more excited to make time and direct energy towards learning from others if… - If any of what I wrote is true, it might be helpful if I... The thoughts shared will be used as part of the user research for TE Consilience Library, as well as Dynamic Energy Budget Research.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
 2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -21534,9 +17911,6 @@ _26-May-22 12:22 PM_:
 
 sounds beautiful Nic! thanks for articulating this - would next week during soft gov time work for everyone?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 or we can open a lettucemeet to find the best time
 
@@ -21552,19 +17926,11 @@ _27-May-22 11:31 AM_:
 
 Soft gov time works for me!
 
-Please everyone let me know if 1 hour before 0mega WG call doesn’t work for you for the exercise mentioned above. React with
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+Please everyone let me know if 1 hour before 0mega WG call doesn’t work for you for the exercise mentioned above. React with <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 or
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-5
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44e.png" width=50 height=50>
-
-1
 
 <h3>bends <img src="https://cdn.discordapp.com/avatars/805467270762856490/a8cb02682bdcc263545a6fe1cf21de89.png" width=25 height=25></h3>
 
@@ -21576,24 +17942,18 @@ _27-May-22 12:11 PM_:
 
 nic
 
-[Please everyone let me know if 1 hour before 0mega WG call doesn’t work for you for the exercise mentioned above. React with  or](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44e.png" width=50 height=50>
+[Please everyone let me know if 1 hour before 0mega WG call doesn’t work for you for the exercise mentioned above. React with  or](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44e.png" width=20 height=20>
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 _27-May-22 01:05 PM_:
-It is same time as proposal inverter
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
+It is same time as proposal inverter <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
 
 Mert Ozd
 
-[It is same time as proposal inverter](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
+[It is same time as proposal inverter](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -21601,19 +17961,13 @@ _27-May-22 01:06 PM_:
 
 ooo thanks for letting me know! Maybe we do 15 mins before soft-gov call?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
 _29-May-22 09:42 AM_:
 
-[https://www.youtube.com/watch?v=QsCxgpKesMk](https://www.youtube.com/watch?v=QsCxgpKesMk)
 
-[World Economic Forum](https://www.youtube.com/channel/UCw-kH-Od73XDAt7qtH9uBYA)
-
-Financing Net Zero: Moving from Commitment to Action - Davos - #WEF22
+[Financing Net Zero: Moving from Commitment to Action - Davos - #WEF22](https://www.youtube.com/watch?v=QsCxgpKesMk)
 
 The recovery from the COVID-19 crisis has been deeply uneven within and between countries, depending on their access to fiscal resources and vaccines. Food, fuel and resource crises now risk further derailing an equitable recovery. How can a broader set of foundations for growth ensure long-term economic prosperity and a return to international...
 
@@ -21645,9 +17999,6 @@ images, backgrounds, icons, etc. Contribute to Consilience-Library/visuals devel
 
 [https://opengraph.githubassets.com/ed3405aec97460e3fdaf8e5acc50709c5368b917b1d10616721036a33e88f32f/Consilience-Library/visuals](https://opengraph.githubassets.com/ed3405aec97460e3fdaf8e5acc50709c5368b917b1d10616721036a33e88f32f/Consilience-Library/visuals)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-2
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
@@ -21663,9 +18014,6 @@ Here are three wonderful case studies on the power of incentives to create a res
 
 ![https://149664534.v2.pressablecdn.com/wp-content/uploads/2016/05/Incentives-Gone-Wrong.jpg](https://149664534.v2.pressablecdn.com/wp-content/uploads/2016/05/Incentives-Gone-Wrong.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 [https://fs.blog/incentives-gone-wrong/](https://fs.blog/incentives-gone-wrong/)
 
@@ -21689,9 +18037,6 @@ Ted Rau leads Sociocracy for All - a non-profit dedicated to enabling sociocracy
 
 ![https://cdn.lu.ma/event-covers/md/105faae5-39c9-49d9-bdb6-abc5c657d66b.gif](https://cdn.lu.ma/event-covers/md/105faae5-39c9-49d9-bdb6-abc5c657d66b.gif)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
@@ -21712,9 +18057,7 @@ Incandenza
 <h3>withinthevacuum <img src="https://cdn.discordapp.com/avatars/956959106751668236/92d7ddfdc599530a6d3a5336326dc8db.png" width=25 height=25></h3>
 
 _30-May-22 04:15 PM_:
-thanks
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+thanks <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/emojis/835017375405441064.png](https://cdn.discordapp.com/emojis/835017375405441064.png)
 
@@ -21724,16 +18067,12 @@ thanks
 
 withinthevacuum
 
-[thanks](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[thanks](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
 _30-May-22 04:16 PM_:
-Very welcome @withinthevacuum, have a look at their website if you want to know more. It was pretty interesting
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Very welcome @withinthevacuum, have a look at their website if you want to know more. It was pretty interesting <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://www.sociocracyforall.org/](https://www.sociocracyforall.org/)
 
@@ -21767,9 +18106,6 @@ Again, this brings me back to- WHY are we using Google and Discord, two obviousl
 
 Every message I or anyone else has ever sent is know, unencrypted and used to leverage or change things on a world stage
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3af.png" width=50 height=50>
-
-2
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -21849,9 +18185,6 @@ _01-Jun-22 08:50 AM_:
 
 I'll be there today
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -21933,9 +18266,6 @@ _01-Jun-22 10:52 AM_:
 
 yes Matrix is coming up a lot, I guess it just needs tipping point, migration commitment from the flock. can happen fast as it did from slack to discord
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 the "unencrypted" part isn't the issue since we're in open source space, but I didn't know the evil side of discord, will learn about it
 
@@ -21943,9 +18273,6 @@ tbh anythin that sucks less and is more nonlinear yet connected would be heaven
 
 with "curation" features embedded
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -21990,18 +18317,12 @@ yes!!
 _01-Jun-22 02:59 PM_:
 haha love your new profile pic @stef
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 _01-Jun-22 03:07 PM_:
 a puppy!!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -22009,9 +18330,6 @@ _01-Jun-22 03:14 PM_:
 
 learnings from today's call: - try not to self-censor, share what you think for example, what should the library be? What should be v1? What should be in v2? - It’s ok to continue working on ideas, just cause someone works on them doesn't mean it’s the way the entire group is doing. - We need to work on things until the fruits can be shared. Rather than plucking at the fruit before it exists.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -22029,15 +18347,9 @@ trying to conform to the "schizophrenia that lies at the nucleus of the capitali
 
 the whole "marginal cost" also applies to factory output - not to people creating
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
-
-1
 
 and certainly not to people collaborating (instead of competing)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -22053,9 +18365,6 @@ Community Call updates:
 
 haha thanks for updating the date
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -22103,9 +18412,6 @@ _01-Jun-22 03:30 PM_:
 
 it feels very web3 - decentralised frontends..etc (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -22145,9 +18451,6 @@ _01-Jun-22 03:35 PM_:
 
 that's why the ground truth is: do not do/contribute something that you wouldn't do anyways
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 "intrinsic motivation"
 
@@ -22170,9 +18473,6 @@ Satori has mentioned that before as well as something he tells Imaginarium parti
 _01-Jun-22 03:37 PM_:
 things we do out of "responsibility" are intrinsic, but do they come from a safe and happy place, or from a self-sacrificing, detrimental place ... why would I want to be/create from such a place; if I could use my energy/focus to really dig for intrinsic motivation (which is the entrance to the most interesting rabbit hole found in all of web 3
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
-
-)
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -22180,9 +18480,6 @@ _01-Jun-22 03:38 PM_:
 
 How would work be financially compensated? Will there be more compensation for creators of fruits that *are* being used? That would create competition. So what do we want to emerge and incentivise? Intrinsic motivation? If so, do we then pay everyone who is working on something they would have done so for free anyway? How do we know its really something they would've done for free? What if they do want to work on it for free but human needs in critical condition hence not desiring to work on it for free? (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -22226,9 +18523,6 @@ _01-Jun-22 03:41 PM_:
 
 again we have the budget to test this with; 15k, people who have already contributed in activities that made that happen, and now also same and more people contributing --> let's distribute some of those funds as @Mert Ozd suggested in UBI fashion, and if people are ok with it experiment with the rest, if we come up with an experiment in #deleted-channel
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 if not yet, then let's continue distributing - but it is important that we have the alpha community of the TE C Lib also on board
 
@@ -22252,21 +18546,12 @@ just one example:
 
 however, 15k is not enough to pull this off - meaning if we weren't going to do it anyways, then the perfect distribution of funds will not make it happen either
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
-
-1
 
 ask yourselves if the Lib is something you want to see in the TEC world and if so let's do it
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 (building it is a learning experience in an of itself which one gets for free now)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -22277,9 +18562,7 @@ solsista
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _01-Jun-22 03:52 PM_:
-yes good catch - my business as usual stroke back... but at the same time this whole "public good funding through taxes that we call something else" isn't quite the end of web3 wisdom either
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+yes good catch - my business as usual stroke back... but at the same time this whole "public good funding through taxes that we call something else" isn't quite the end of web3 wisdom either <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 again all of this is a learning / experimentation space in itself, which I hoped TEC would be for TE
 
@@ -22301,9 +18584,7 @@ Brain Enhancement Techniques Listed In a CIA Document
 
 _02-Jun-22 10:39 PM_:
 
-I would like to propose a new call structure for Wednesday calls. Would love to know what you think: **10 minutes - ✏️ Initiatives Updates** Everyone updates the initiative they worked on in the Figma archipelagos including links to their work. In red sticky notes, or in threads, mention problems/blockers, if any. This way others in the TEC and in 0mega working group can keep up to date with what we’ve been up to. Maybe it creates opportunities to jam with each other. Maybe we can support each other when we encounter blocks. Make your energy investments visible. If new to 0mega, introduce yourself in 0mega channel and spend this time to explore archipelagos, or 0mega threads. **10 minutes -  Energy Flow Reflection** Spend 3 minutes writing sentence endings to This past week, I directed energy towards…. Then 3 minutes for This past week, energy flowed back to me by…. Then finally, 4 minutes on It might be helpful if I…. Together, we can reflect on our energy flow and think about how to regenerate ourselves. **40 minutes or more -  Flow** What do you feel like doing now? Dance together? Write together? Do yoga together? Meditate together? Get to know each other deeper? Discuss a topic? Music jam? Let’s go with the flow. Ps if you do like this new structure, it won’t be applied until the 15th as next call is Lydia and Felix presenting their research initiative. Will do a write up of updated changes and reasoning (edited)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f300.png" width=50 height=50>
+I would like to propose a new call structure for Wednesday calls. Would love to know what you think: **10 minutes - ✏️ Initiatives Updates** Everyone updates the initiative they worked on in the Figma archipelagos including links to their work. In red sticky notes, or in threads, mention problems/blockers, if any. This way others in the TEC and in 0mega working group can keep up to date with what we’ve been up to. Maybe it creates opportunities to jam with each other. Maybe we can support each other when we encounter blocks. Make your energy investments visible. If new to 0mega, introduce yourself in 0mega channel and spend this time to explore archipelagos, or 0mega threads. **10 minutes -  Energy Flow Reflection** Spend 3 minutes writing sentence endings to This past week, I directed energy towards…. Then 3 minutes for This past week, energy flowed back to me by…. Then finally, 4 minutes on It might be helpful if I…. Together, we can reflect on our energy flow and think about how to regenerate ourselves. **40 minutes or more -  Flow** What do you feel like doing now? Dance together? Write together? Do yoga together? Meditate together? Get to know each other deeper? Discuss a topic? Music jam? Let’s go with the flow. Ps if you do like this new structure, it won’t be applied until the 15th as next call is Lydia and Felix presenting their research initiative. Will do a write up of updated changes and reasoning (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f300.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
@@ -22317,55 +18598,28 @@ I believe this new call structure removes the need for onboarding to 0mega. Ther
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
-_03-Jun-22 03:30 AM_:
+_03-Jun-22 03:30 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=50 height=50>
-
-❤️‍
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
+❤️‍ <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/emojis/835409757183279134.png](https://cdn.discordapp.com/emojis/835409757183279134.png)
 
 This is just wonderful
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f54a.png" width=50 height=50>
-
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/262e.png" width=50 height=50>
-
-️
 
 feeling a flow of freedom rn
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 I will miss two calls as there's school holiday and we're away with family
 
 Could we have the #deleted-channel synch/harvesting next Monday? Some more people show interest, and I have a new idea, how we could motivate TE orgs to curate a section in the lib, in addition to the beautiful mandalas of @withinthevacuum
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 who can 7:30 pm CET on Monday?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -22380,21 +18634,15 @@ for the 22nd I could prep an "intuitive movement" meditation (will be my first e
 
 *in case*
 
-the group feels like to "dance" with their cameras off
+the group feels like to "dance" with their cameras off <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
-
-Look very much forward to this new structure I hope all give it a try more than once
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+Look very much forward to this new structure I hope all give it a try more than once <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
 nic
 
-[I would like to propose a new call structure for Wednesday calls. Would love to know what you think: **10 minutes - ✏️ Initiatives Updates** Everyone updates the initiative they worked on in the Figma archipelagos including links to their work. In red sticky notes, or in threads, mention problems/blockers, if any. This way others in the TEC and in 0mega working group can keep up to date with what we’ve been up to. Maybe it creates opportunities to jam with each other. Maybe we can support each other when we encounter blocks. Make your energy investments visible. If new to 0mega, introduce yourself in 0mega channel and spend this time to explore archipelagos, or 0mega threads. **10 minutes -  Energy Flow Reflection** Spend 3 minutes writing sentence endings to This past week, I directed energy towards…. Then 3 minutes for This past week, energy flowed back to me by…. Then finally, 4 minutes on It might be helpful if I…. Together, we can reflect on our energy flow and think about how to regenerate ourselves. **40 minutes or more -  Flow** What do you feel like doing now? Dance together? Write together? Do yoga together? Meditate together? Get to know each other deeper? Discuss a topic? Music jam? Let’s go with the flow. Ps if you do like this new structure, it won’t be applied until the 15th as next call is Lydia and Felix presenting their research initiative. Will do a write up of updated changes and reasoning  (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f300.png" width=50 height=50>
+[I would like to propose a new call structure for Wednesday calls. Would love to know what you think: **10 minutes - ✏️ Initiatives Updates** Everyone updates the initiative they worked on in the Figma archipelagos including links to their work. In red sticky notes, or in threads, mention problems/blockers, if any. This way others in the TEC and in 0mega working group can keep up to date with what we’ve been up to. Maybe it creates opportunities to jam with each other. Maybe we can support each other when we encounter blocks. Make your energy investments visible. If new to 0mega, introduce yourself in 0mega channel and spend this time to explore archipelagos, or 0mega threads. **10 minutes -  Energy Flow Reflection** Spend 3 minutes writing sentence endings to This past week, I directed energy towards…. Then 3 minutes for This past week, energy flowed back to me by…. Then finally, 4 minutes on It might be helpful if I…. Together, we can reflect on our energy flow and think about how to regenerate ourselves. **40 minutes or more -  Flow** What do you feel like doing now? Dance together? Write together? Do yoga together? Meditate together? Get to know each other deeper? Discuss a topic? Music jam? Let’s go with the flow. Ps if you do like this new structure, it won’t be applied until the 15th as next call is Lydia and Felix presenting their research initiative. Will do a write up of updated changes and reasoning  (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f300.png" width=20 height=20>
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -22402,17 +18650,12 @@ _03-Jun-22 05:36 AM_:
 
 I think that structure is great!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
 solsista
 
-[ who can 7:30 pm CET on Monday?](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+[ who can 7:30 pm CET on Monday?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -22420,9 +18663,6 @@ _03-Jun-22 05:44 AM_:
 
 I can, are we using this call also to sync with more TEs that may have an interest in the Library so we make a full intro/overview? I shared the invite in the Longtail Financial server as Shawn also suggested we did so prior to ReFi bootcamp!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 @nic can we set up a calendar event and also share a tweet/notification in the broader ecosystem?
 
@@ -22438,17 +18678,12 @@ _03-Jun-22 07:54 AM_:
 
 Can do!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
 solsista
 
-[for the 22nd I could prep an "intuitive movement" meditation (will be my first ever!) *in case* the group feels like to "dance" with their cameras off  Look very much forward to this new structure I hope all give it a try more than once](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+[for the 22nd I could prep an "intuitive movement" meditation (will be my first ever!) *in case* the group feels like to "dance" with their cameras off  Look very much forward to this new structure I hope all give it a try more than once](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -22456,17 +18691,13 @@ _03-Jun-22 07:56 AM_:
 
 Sounds great! I’ll add a section in agenda where people can add what they want to do if there’s specific dates they want to do it at!
 
-@Letty @solsista looks like that’s at the same time as @SatoriD ‘s Imaginarium creative flow call. Is that all good? Do you want me to make the event at a different voice channel? Or Satori is it ok the creative call will change for this one time? Let me know how you want to proceed
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+@Letty @solsista looks like that’s at the same time as @SatoriD ‘s Imaginarium creative flow call. Is that all good? Do you want me to make the event at a different voice channel? Or Satori is it ok the creative call will change for this one time? Let me know how you want to proceed <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
 nic
 
-[@Letty @solsista looks like that’s at the same time as @SatoriD ‘s Imaginarium creative flow call. Is that all good? Do you want me to make the event at a different voice channel? Or Satori is it ok the creative call will change for this one time? Let me know how you want to proceed](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+[@Letty @solsista looks like that’s at the same time as @SatoriD ‘s Imaginarium creative flow call. Is that all good? Do you want me to make the event at a different voice channel? Or Satori is it ok the creative call will change for this one time? Let me know how you want to proceed](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -22474,9 +18705,6 @@ _03-Jun-22 09:49 AM_:
 
 yeah let's jam out in Imaginarium!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -22487,15 +18715,10 @@ SatoriD
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _03-Jun-22 09:50 AM_:
-Haha yessss
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50>
+Haha yessss <img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=20 height=20>
 
 ok once all the events are created in the server, I’ll edit imaginarium agenda for this coming week to reflect the above! Thank you! (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -22503,9 +18726,7 @@ _03-Jun-22 12:41 PM_:
 
 @stef [https://forum.tecommons.org/t/rules-of-praise/667](https://forum.tecommons.org/t/rules-of-praise/667)
 
-Rules of Praise
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+Rules of Praise <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 Who can praise? Anyone who wishes to do so. To activate your praise powers go to the praise channel on Discord and type: /activate to link your eth address to your Discord account. ✍ How to praise? To praise, use the /praise command in any TEC discord channel. You can use working group channels to praise contributions specific to that work...
 
@@ -22522,15 +18743,10 @@ nic
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
 _03-Jun-22 12:45 PM_:
-hartelijk dank. heel gezellig
+hartelijk dank. heel gezellig <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://www.youtube.com/watch?v=ruAi4VBoBSM](https://www.youtube.com/watch?v=ruAi4VBoBSM)
-
-[Fatboy Slim](https://www.youtube.com/channel/UCW2OOu7DabBsnNPPSjrfK7Q)
-
-Fatboy Slim - Praise You [Official Video]
+[Fatboy Slim - Praise You [Official Video]](https://www.youtube.com/watch?v=ruAi4VBoBSM)
 
 You're Watching The Official Video Of Praise You by Fatboy Slim The signature hit by Fatboy Slim which chart topped at no.1 in the UK charts and 36 in the US charts. Having won multiple MTV video music awards, this is a Spike Jones produced video and cost $800 to make. In 2001 it was voted no.1 of the 100 best music videos of all time, in a p...
 
@@ -22540,9 +18756,7 @@ You're Watching The Official Video Of Praise You by Fatboy Slim The signature hi
 
 stef
 
-[hartelijk dank. heel gezellig](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[hartelijk dank. heel gezellig](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://www.youtube.com/watch?v=ruAi4VBoBSM](https://www.youtube.com/watch?v=ruAi4VBoBSM)
 
@@ -22551,9 +18765,6 @@ stef
 _03-Jun-22 12:48 PM_:
 cool I learned a different way to say thank you in Dutch! I only know Dank je wel or Bedankt
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -22565,21 +18776,9 @@ Docs
 
 Share your docs, repositories, work and links. Document your process, meeting, and explorations so that others can learn from you and see what you’ve been up to. Guess what, you can search! Click + New to add a new Doc under your initiative.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -22615,9 +18814,6 @@ I also made an **0mega wiki** so that we no longer have to hunt for files or lin
 
 This is a central source of knowledge for 0mega and its initiatives.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-4
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
@@ -22626,9 +18822,7 @@ This is a central source of knowledge for 0mega and its initiatives.
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _03-Jun-22 07:01 PM_:
-Stay up to date with 0mega
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
+Stay up to date with 0mega <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=20 height=20>
 
 Check out
 
@@ -22644,9 +18838,6 @@ What's New
 
 Sharing weekly updates on each initiative so that people can check it out at a glance.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 Original message was deleted.
 
@@ -22676,9 +18867,6 @@ _04-Jun-22 04:42 AM_:
 
 This is great work
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
@@ -22694,9 +18882,6 @@ Introduction   Together on June 8 my Grade 6 class from John McCrae Public Scho
 
 ![https://richbaxterca.files.wordpress.com/2022/05/img-1581.jpg](https://richbaxterca.files.wordpress.com/2022/05/img-1581.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f392.png" width=50 height=50>
-
-4
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -22750,13 +18935,7 @@ _04-Jun-22 06:25 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/982772138517856397/giphy_-_2022-06-04T152502.000.gif](https://cdn.discordapp.com/attachments/810180622634844202/982772138517856397/giphy_-_2022-06-04T152502.000.gif)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
 
@@ -22769,9 +18948,7 @@ Incandenza
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _05-Jun-22 01:02 PM_:
-actually something similar is coming up for TE Consilience Lib
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+actually something similar is coming up for TE Consilience Lib <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 (edited)
 
@@ -22788,9 +18965,6 @@ _05-Jun-22 01:04 PM_:
 _05-Jun-22 01:05 PM_:
 question: energizing? or are you exhausted hunting down all the links @nic ? (w/o self-censoring
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
-
-)
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -22801,17 +18975,13 @@ SatoriD
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _05-Jun-22 01:06 PM_:
-we can extend into for "Art & Knowledge Creation"
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+we can extend into for "Art & Knowledge Creation" <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
 solsista
 
-[question: energizing? or are you exhausted hunting down all the links @nic ? (w/o self-censoring  )](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+[question: energizing? or are you exhausted hunting down all the links @nic ? (w/o self-censoring  )](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -22819,9 +18989,6 @@ _05-Jun-22 01:54 PM_:
 
 Exhausted lol but the new call structure puts the responsibility and the power to share about your work back to all of you
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
-
-1
 
 Actually there was some energy that came back to me being able to create what I wanted to which is this centralised source of knowledge about 0mega. I think what exhausted me was my physical body not being able to go as fast as what my mind wanted to create. And also reflecting that when I set my goals this month (which has 30 days) 30 of them are all 0mega. And I realised I needed to pull out of some projects or set more defined boundaries when I do work here. Like I’ve mentioned before I do art by code and design so maybe these other projects can just be self expression rather than I’m becoming a tool and I provide code and design as a service.
 
@@ -22839,13 +19006,7 @@ What does Dynamic Energy Budget look like for the broader sense? Dynamic -- Thro
 
 ![https://i.ytimg.com/vi/8J13tS9uWSY/maxresdefault.jpg](https://i.ytimg.com/vi/8J13tS9uWSY/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2744.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -22856,9 +19017,7 @@ _05-Jun-22 08:04 PM_:
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 _06-Jun-22 06:59 AM_:
-Frens I will be 30 min late to our meeting fyi
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f495.png" width=50 height=50>
+Frens I will be 30 min late to our meeting fyi <img src="https://twemoji.maxcdn.com/2/72x72/1f495.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -22884,9 +19043,6 @@ _06-Jun-22 09:52 AM_:
 
 I'm ok if we start at 20CET!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
 
 <h3>irenioskamoska <img src="https://cdn.discordapp.com/avatars/802300216656003102/91c34be1ab2422faff94781e9eb7d625.png" width=25 height=25></h3>
 
@@ -22910,16 +19066,11 @@ TEC Omega: Insights and Wisdoms of The Commons
 
 ![https://i.ytimg.com/vi/8J13tS9uWSY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD_2FCKBsx9Mv3ldio1F9byPtSk2w&days_since_epoch=19149](https://i.ytimg.com/vi/8J13tS9uWSY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD_2FCKBsx9Mv3ldio1F9byPtSk2w&days_since_epoch=19149)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _06-Jun-22 12:51 PM_:
-In about one hour!!!!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f631.png" width=50 height=50>
+In about one hour!!!! <img src="https://twemoji.maxcdn.com/2/72x72/1f631.png" width=20 height=20>
 
 [https://discord.com/events/810180621930070088/982726466091491429](https://discord.com/events/810180621930070088/982726466091491429)
 
@@ -22935,12 +19086,7 @@ alphabetical [http://aletheia.systems/](http://aletheia.systems/) [http://future
 omega central discord
 
 griff (
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
-
-,
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=20 height=20>
 
 ) — 24/02/2021THIS BRIDGE DOESNT WORK 26 February 2021 geleeroyale — 26/02/2021 2 2 March 2021 solsistaBOT — 02/03/2021agenda update with link the question list & proposal for structuring questions:
 
@@ -22951,9 +19097,7 @@ griff (
 
 nic
 
-[In about one hour!!!!](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f631.png" width=50 height=50>
+[In about one hour!!!!](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f631.png" width=20 height=20>
 
 [https://discord.com/events/810180621930070088/982726466091491429](https://discord.com/events/810180621930070088/982726466091491429)
 
@@ -22986,9 +19130,7 @@ Mert Ozd
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _06-Jun-22 01:32 PM_:
-im all good, just a call with doc. Which got pushed back btw so I might be late still
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f622.png" width=50 height=50>
+im all good, just a call with doc. Which got pushed back btw so I might be late still <img src="https://twemoji.maxcdn.com/2/72x72/1f622.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -23028,13 +19170,7 @@ So far so good!
 
 I'm in a governance lab mentored by a LATAM feminist institute called SILO. It's happening in the countryside and rn internet connection is unstable. I'm eager to start collaborating and bringing digital gardening proposals into the fold. But I'd rather start doing it at another time, with better internet connection
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33f.png" width=50 height=50>
-
-1
 
 <h3>Pedro Parrachia <img src="https://cdn.discordapp.com/avatars/340686435268952064/e8992c56ca034abb53c15345b89af0c3.png" width=25 height=25></h3>
 
@@ -23042,9 +19178,6 @@ _06-Jun-22 02:32 PM_:
 
 Yes, I second Steven there h/t
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 Will do, later this week! (edited)
 
@@ -23058,20 +19191,13 @@ _06-Jun-22 02:46 PM_:
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
 _06-Jun-22 02:55 PM_:
-✅ Praise @SatoriD, @solsista, @nic, @streamerd, @stef, @Letty for the coolest improv presentation I've ever had the pleasure to be part of
+✅ Praise @SatoriD, @solsista, @nic, @streamerd, @stef, @Letty for the coolest improv presentation I've ever had the pleasure to be part of <img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-❤️‍
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
+❤️‍ <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=20 height=20>
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -23083,15 +19209,10 @@ and it is amazing
 
 with the 0mega curation (humanities heavy, but leaning towards engineering), and the LTF ReFi curation (engineering heavy but leaning towards humanities) we also have really interesting seed curations that set the bar high for "transdisciplinarity"
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50>
-
-2
 
 and cover all of cryptoeconomics flower
 
-Serendipitious >> Agile
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+Serendipitious >> Agile <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 [https://age-of-product.com/food-agile-thought-255-serendipity-driven-innovation/](https://age-of-product.com/food-agile-thought-255-serendipity-driven-innovation/)
 
@@ -23111,15 +19232,9 @@ _06-Jun-22 05:03 PM_:
 
 ✅ Praise @Zeptimus for recording the TE Consilience Library call at such short notice. Giving us a chance to share this video to other TEs who were unable to attend the call but are interested in the progress made for the project.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 ✅ Praise @bear100 for providing an alternative solution despite not being able to record a call himself. He saved 0mega a lot of trouble for recording the TE Consilience Library Call (which we intended to share to TEs who were unable to attend)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -23143,11 +19258,8 @@ _07-Jun-22 03:53 PM_:
 
 _07-Jun-22 07:59 PM_:
 
-[https://www.youtube.com/watch?v=qZetGh9sptU&t=1s](https://www.youtube.com/watch?v=qZetGh9sptU&t=1s)
 
-[Infinite Imaginarium Community](https://www.youtube.com/channel/UCpzN_PFW1uZyzLoyzOqFI7Q)
-
-Self-Replicating Scroll
+[Self-Replicating Scroll](https://www.youtube.com/watch?v=qZetGh9sptU&t=1s)
 
 it doesn't have a conclusive end but it got to what UniPuff was getting at it's mostly text but there is a certain poetry to it Using Inspiration from H.R. Maturana's & F. J. Varela's work on Autopoiesis and Cognition. Creating a internal and external loop, a self-replicating scroll. Closure is eternal loneliness Metabolism is Organism Mastu...
 
@@ -23233,9 +19345,6 @@ _08-Jun-22 02:59 PM_:
 
 thank you for joining!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -23261,13 +19370,7 @@ thanks! curious to try it, cause my alter ego AK (aka abraham kelly) takes ages 
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/984172369084047471/four_and_a_half_doors.png](https://cdn.discordapp.com/attachments/810180622634844202/984172369084047471/four_and_a_half_doors.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
 
@@ -23278,9 +19381,7 @@ stef
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _08-Jun-22 03:11 PM_:
-I've heard of artists feeding their art into the ai for it to learn from and generate images from, and some enter prompts and then alter the produced image afterwards digitally (photoshop etc). Super excited to see what Abraham Kelly does
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+I've heard of artists feeding their art into the ai for it to learn from and generate images from, and some enter prompts and then alter the produced image afterwards digitally (photoshop etc). Super excited to see what Abraham Kelly does <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -23288,21 +19389,13 @@ _08-Jun-22 03:28 PM_:
 
 What do you think of creating a thread where we invite everyone at the TEC to just post what they envision the TEC library would be like…keeping it super open ended so no limitations. Maybe the prompt can even be improved to I imagine the library to….so that……. We share what we think too just like everyone else. Then from there we can group together/categorise. And then use those ideas to inform our designs. This way people are co-designing with us rather than us just coming up with our own ideas. And we can get a gauge of everyone’s expectations. Can do the same for what regenerative participation in a dao would look like (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
 nic
 
-[I've heard of artists feeding their art into the ai for it to learn from and generate images from, and some enter prompts and then alter the produced image afterwards digitally (photoshop etc). Super excited to see what Abraham Kelly does](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+[I've heard of artists feeding their art into the ai for it to learn from and generate images from, and some enter prompts and then alter the produced image afterwards digitally (photoshop etc). Super excited to see what Abraham Kelly does](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
@@ -23330,9 +19423,6 @@ Reprint: R0312C Companies spend lots of time and money on complex tools to asses
 
 ![https://hbr.org/resources/images/hbr_opengraph_940x490.png](https://hbr.org/resources/images/hbr_opengraph_940x490.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -23357,13 +19447,7 @@ _09-Jun-22 10:50 AM_:
 TEC Community Call Updates
 
 COMMUNITY CALL 86 Weekly updates from the TEC June 9th tecommons.org General Voice Channel
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -23381,21 +19465,15 @@ May be worth checking out metafest to learn from the various orgs, communities a
 
 [MetaGame 🐙 (@MetaFam)](https://twitter.com/MetaFam)
 
-Wot wooot! Its that time again
+Wot wooot! Its that time again <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-Starting TODAY, we got 2 weeks packed!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f631.png" width=50 height=50>
+Starting TODAY, we got 2 weeks packed! <img src="https://twemoji.maxcdn.com/2/72x72/1f631.png" width=20 height=20>
 
 From metaverse explorations & treasure hunts, over talks & workshops in anything related to DAOs, ReFi & DeSci to a job fair &
 
 *checks notes*
 
-a fashion show. Read moar
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=50 height=50>
+a fashion show. Read moar <img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=20 height=20>
 
 [https://t.co/6w6y1uQ8QS](https://t.co/6w6y1uQ8QS)
 
@@ -23405,9 +19483,6 @@ a fashion show. Read moar
 
 Twitter • 09-Jun-22 06:55 AM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f419.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -23425,9 +19500,6 @@ _09-Jun-22 03:34 PM_:
 
 I will be presenting Proposal Inverter !!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -23447,13 +19519,7 @@ Clarity 2.0 is our biggest update ever. This release is full of features that em
 
 ![https://uploads-ssl.webflow.com/60bea3333161d207a8f7e2bf/6299165a4edd032464c2762d_metatag-product.png](https://uploads-ssl.webflow.com/60bea3333161d207a8f7e2bf/6299165a4edd032464c2762d_metatag-product.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -23469,9 +19535,6 @@ _09-Jun-22 05:49 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/984575101964009563/Dreamtime_Bee_Shaman_TradingCard.jpg](https://cdn.discordapp.com/attachments/810180622634844202/984575101964009563/Dreamtime_Bee_Shaman_TradingCard.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f499.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -23509,27 +19572,18 @@ _09-Jun-22 07:50 PM_:
 
 No I haven’t even finished linking what we have so far and we’ve filled half the file limit for the free one
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f636-200d-1f32b.png" width=50 height=50>
-
-2
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _09-Jun-22 09:07 PM_:
 
-Thanks, LTF Refi @irenioskamoska @liviade @Pedro Parrachia @Steven Foord @Taz for giving us some time and space to learn about 0mega Collective Curation test and we look forward to seeing what new connections and contact points that will emerge [https://www.youtube.com/watch?v=JvJ9t9gnu2Y](https://www.youtube.com/watch?v=JvJ9t9gnu2Y)
-
-[Infinite Imaginarium Community](https://www.youtube.com/channel/UCpzN_PFW1uZyzLoyzOqFI7Q)
-
-Omega Collective Curation Test
+Thanks, LTF Refi @irenioskamoska @liviade @Pedro Parrachia @Steven Foord @Taz for giving us some time and space to learn about 0mega Collective Curation test and we look forward to seeing what new connections and contact points that will emerge 
+[Omega Collective Curation Test](https://www.youtube.com/watch?v=JvJ9t9gnu2Y)
 
 With the 0mega curation (humanities heavy, but leaning towards engineering), and the LTF ReFi curation (engineering heavy but leaning towards humanities) we also have really interesting seed curations that set the bar high for "transdisciplinarity" and cover all of cryptoeconomics flower Thanks for LTF Refi joining Omega and discussing more abo...
 
 ![https://i.ytimg.com/vi/JvJ9t9gnu2Y/maxresdefault.jpg](https://i.ytimg.com/vi/JvJ9t9gnu2Y/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f30a.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
 
@@ -23545,9 +19599,6 @@ _09-Jun-22 09:38 PM_:
 
 Thank you! I will check it out!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -23603,19 +19654,13 @@ _10-Jun-22 04:25 PM_:
 
 I wouldn't count Clarity out - esp if we can get good pricing. It's a very powerful tool and the knowledge graph alone could be very useful for the library
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-3
 
 <h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 _10-Jun-22 07:08 PM_:
 
-[https://www.youtube.com/watch?v=smUCKnnBQBg](https://www.youtube.com/watch?v=smUCKnnBQBg) pretty topical debate to get the blood flowing (edited)
 
-[VICE News](https://www.youtube.com/channel/UCZaT_X_mc0BI-djXOlfhqWQ)
-
-Has Capitalism Killed the American Dream?
+[Has Capitalism Killed the American Dream?](https://www.youtube.com/watch?v=smUCKnnBQBg)
 
 Jacobin founding editor, Socialist Manifesto author, and former co-chair of the Democratic Socialists for America Bhaskar Sunkara squares off with Libertarian Nick Gillespie, editor at large of Reason and host of the podcast, The Reason Interview, to determine whether capitalism is the best economic system for the country, or are we in dire need...
 
@@ -23633,13 +19678,7 @@ _11-Jun-22 04:04 AM_:
 
 hi, there's this description from our manifesto: "The TE Consilience Library is a crowdsourced, curated database of knowledge under the Venn diagram of disciplines related to crypto economic systems engineering." -- I've been volunteering with artwork/design to help omega realise an mvp for a v1 consilience library site: [https://www.figma.com/file/sVcjdCpgkmqInXaHfbIVVg/site-UX?node-id=0%3A1](https://www.figma.com/file/sVcjdCpgkmqInXaHfbIVVg/site-UX?node-id=0%253A1) at this stage this entails these elements for an economy to be build, developed, expanded upon: - library (with crowdsourcing curations: through library discord, praise, etc) - nft games (tokenisation of knowledge/wisdom) - dynamic energy budget -- and here are some examples of TEC omega working group stakeholders' work: - mockup of notion page/sketch site [https://dreamy-brattain-5cdc88.netlify.app/te-consilience-library-manifesto/](https://dreamy-brattain-5cdc88.netlify.app/te-consilience-library-manifesto/) - a visualisation/ux of curation template [https://eu.jotform.com/form/221371929028053](https://eu.jotform.com/form/221371929028053) - the architecture / workflow [https://www.figma.com/file/soqXUHRrBcazutqC2FegnW/TE-Consilience-Library](https://www.figma.com/file/soqXUHRrBcazutqC2FegnW/TE-Consilience-Library) - repository [https://github.com/Consilience-Library/visuals/](https://github.com/Consilience-Library/visuals/) - the initiatives [https://www.notion.so/0mega-Archipelagos-6ff1c97810da411c875ac67f1f2d54c1](https://www.notion.so/0mega-Archipelagos-6ff1c97810da411c875ac67f1f2d54c1) - dynamic energy budget [https://www.notion.so/INTRO-to-DEB-d9df46e42ef74523898091f0eb10e67d](https://www.notion.so/INTRO-to-DEB-d9df46e42ef74523898091f0eb10e67d) - library notion [https://www.notion.so/Start-Here-a1c6ca9660f6428380238000e8892164](https://www.notion.so/Start-Here-a1c6ca9660f6428380238000e8892164) - nft discovery games [https://www.youtube.com/channel/UCpzN_PFW1uZyzLoyzOqFI7Q/videos](https://www.youtube.com/channel/UCpzN_PFW1uZyzLoyzOqFI7Q/videos) __ i'm sure other omega members and stewards can elaborate on this.. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -23659,9 +19698,6 @@ Create amazing works of art in seconds with the power of AI!
 
 [https://app.wombo.art/_next/image?url=https%3A%2F%2Fprod-wombo-paint.s3.amazonaws.com%2Fexports%2F53257277-b52e-4351-a1d8-d663c62b629b%2Fpublished.jpg%3FAWSAccessKeyId%3DAKIAWGXQXQ6WCOB7PP5J%26Signature%3De%252B3fPmVMJuOq%252FQZ5HVq44PMFGps%253D%26Expires%3D1662715308&w=640&q=75](https://app.wombo.art/_next/image?url=https%3A%2F%2Fprod-wombo-paint.s3.amazonaws.com%2Fexports%2F53257277-b52e-4351-a1d8-d663c62b629b%2Fpublished.jpg%3FAWSAccessKeyId%3DAKIAWGXQXQ6WCOB7PP5J%26Signature%3De%252B3fPmVMJuOq%252FQZ5HVq44PMFGps%253D%26Expires%3D1662715308&w=640&q=75)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
@@ -23681,17 +19717,8 @@ this one came out pretty good, I been looking for something like this, for like 
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/985184812530819132/TE_Consilience_Library_001.png](https://cdn.discordapp.com/attachments/810180622634844202/985184812530819132/TE_Consilience_Library_001.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4d6.png" width=50 height=50>
 
-3
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-3
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -23711,9 +19738,6 @@ _11-Jun-22 01:31 PM_:
 
 Really like this. The symmetry is like a book opening.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -23757,9 +19781,7 @@ playing on nightcafe... [https://creator.nightcafe.studio/](https://creator.nigh
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/985642627263250462/consilience_libray_omega_2.jpg](https://cdn.discordapp.com/attachments/810180622634844202/985642627263250462/consilience_libray_omega_2.jpg)
 
-![https://cdn.discordapp.com/attachments/810180622634844202/985642627506532372/consilience_libray_omega.jpg](https://cdn.discordapp.com/attachments/810180622634844202/985642627506532372/consilience_libray_omega.jpg)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f5bc.png" width=50 height=50>
+![https://cdn.discordapp.com/attachments/810180622634844202/985642627506532372/consilience_libray_omega.jpg](https://cdn.discordapp.com/attachments/810180622634844202/985642627506532372/consilience_libray_omega.jpg) <img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f5bc.png" width=20 height=20>
 
 AI Art Generator, AI Art Maker
 
@@ -23767,9 +19789,6 @@ AI Art Generator App. ✅ Fast ✅ Free ✅ Easy. Create amazing artworks using 
 
 ![https://images.nightcafe.studio//assets/colourful-cubist-parrot.png?tr=w-1200,c-at_max](https://images.nightcafe.studio//assets/colourful-cubist-parrot.png?tr=w-1200,c-at_max)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-2
 
 <h3>Jeanne <img src="https://cdn.discordapp.com/avatars/630667848355807233/3d10fd3e5486b87210e3883bd24d3e26.png" width=25 height=25></h3>
 
@@ -23783,17 +19802,12 @@ The Alumni Showcase features 22 Adventures from previous KERNEL Blocks who may b
 
 [https://cdn.lu.ma/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=1000,height=500/event-covers/rm/8d157996-f343-4a4b-a78a-fb99a59f0363](https://cdn.lu.ma/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=1000,height=500/event-covers/rm/8d157996-f343-4a4b-a78a-fb99a59f0363)
 
-I plan to be very radical in questioning the lazy status quo and all feeling good "solutions" since DEB is a disruptive proposition... we will also test the pitch at Imaginarium on Monday, all insights / feedback/participation are welcome
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+I plan to be very radical in questioning the lazy status quo and all feeling good "solutions" since DEB is a disruptive proposition... we will also test the pitch at Imaginarium on Monday, all insights / feedback/participation are welcome <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 (edited)
 
 #🙏｜praise @SatoriD for awesome visual DEB contributions + non visual DEB descriptions @nic for strong analytical and generous support @ActiveInferenceLab for always awesome insights (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-3
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -23809,9 +19823,6 @@ Welcome to TE Consilience Library Dynamic Work Flow 001
 
 ![https://i.ytimg.com/vi/EpCXTcfcam8/maxresdefault.jpg](https://i.ytimg.com/vi/EpCXTcfcam8/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -23831,9 +19842,6 @@ _13-Jun-22 10:27 AM_:
 
 @Gideonro Funding and Research of the multiple work flows of TE Consilience Library and Testing Omega Collective Curations of the Cryptoeconomic Flower.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -23847,9 +19855,6 @@ _13-Jun-22 10:59 AM_:
 
 Thanks @SatoriD. I will replace this with what I had. I guess my only suggestion would be to try to think about this from the perspective of someone who has no idea what a "Consilience Library" is or "Testing Omega Collective Curations" or even a "Cryptoeconomic Flower". Is there a way to phrase it so anyone with at least a web3 background would get it? I know it's a compelx project, but I think that simplicity will really help people to get even more excited about it.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
 
@@ -23869,9 +19874,6 @@ _13-Jun-22 11:26 AM_:
 
 @Gideonro thank you for providing context. Satori has shared an option here’s another option for you: Funding for multiple work streams building a 3-phased multidisciplinary library on token engineering to provide a learning, creating and research environment for our community (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -23891,16 +19893,8 @@ _13-Jun-22 11:30 AM_:
 
 @Jeanne I made a video hopefully it’s easier to see how to praise.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
-
-1
-Would anyone else like to host this weeks 0mega WG call? Next week it will be @solsista doing the Intuitive Movement Meditation
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
+Would anyone else like to host this weeks 0mega WG call? Next week it will be @solsista doing the Intuitive Movement Meditation <img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=20 height=20>
 
 (edited)
 
@@ -23908,23 +19902,14 @@ Would anyone else like to host this weeks 0mega WG call? Next week it will be @s
 
 _13-Jun-22 12:12 PM_:
 
-Reminder that today is tooling day in **MetaFest2** [https://www.youtube.com/watch?v=Bv1mOF4JYBc](https://www.youtube.com/watch?v=Bv1mOF4JYBc). @nic told me that 0mega is now experimenting with various open and free software for hosting the wiki and we will have **Bip.so** and **Clarity.so** which are great alternatives to Notion. Here's today's schedule: 4:30 PM UTC **Clarity.so** - Richie Bonilla 5:00 PM UTC MetaGame Questing System - vid, dan13ram 5:30 PM UTC **bip.so** - Rajkaria 6:00 PM UTC Coordinape - Zemm 6:30 PM UTC Collab.Land - Vanilladelphia.eth 7:00 PM UTC DeWork - Lonis 7:30 PM UTC SourceCred - SBEN 8:30 PM UTC Tooling Panel - Rajkaria(bip.so), Richie Bonilla(clarity.so), Zemm(Coordinape), Lonis(DeWork)
-
-[MetaMedia](https://www.youtube.com/channel/UC6gdZ6Q7Fwfvn-Uu4QKDyhg)
-
-MetaFest2: Tooling
+Reminder that today is tooling day in **MetaFest2** 
+[MetaFest2: Tooling](https://www.youtube.com/watch?v=Bv1mOF4JYBc)
 
 Powered by Metagame [https://metagame.wtf](https://metagame.wtf/) We stood on top of this toolbox to close it. Careful when opening. Catch DAO organizational platforms, bounty/ achievement systems, and more. Discover the emerging tools of web3.
 
 ![https://i.ytimg.com/vi/Bv1mOF4JYBc/maxresdefault_live.jpg](https://i.ytimg.com/vi/Bv1mOF4JYBc/maxresdefault_live.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -23938,9 +19923,6 @@ _13-Jun-22 12:43 PM_:
 
 Thanks @nic and @SatoriD - I can use either of these. Thank you. I also am offering a 3rd option: "Funding and development of a 3-phased multidisciplinary library to facilitate learning, building, and research in the field of token engineering" Not attached to it at all. You decide which of the 3 you like and just let me know. Need to lock this down this afternoon. Thanks for you help. This is a message to token holders, helping us to remain accountable to them. So just want to highlight your work in the best and clearest way possible.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-4
 
 ![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
 
@@ -23972,21 +19954,9 @@ _13-Jun-22 01:05 PM_:
 
 It does - in the 3rd option I'd only substitute *building* for *creating*, as Nic suggested and given that building is taken for granted when development is mentioned before.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 @Gideonro
 
@@ -23996,17 +19966,12 @@ _13-Jun-22 04:33 PM_:
 
 ✅ Praise @durgadas, @Jeanne, @streamerd, @withinthevacuum for jamming out with Dynamic Energy Budget for Value Flow
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
 nic
 
-[Would anyone else like to host this weeks 0mega WG call? Next week it will be @solsista doing the Intuitive Movement Meditation   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
+[Would anyone else like to host this weeks 0mega WG call? Next week it will be @solsista doing the Intuitive Movement Meditation   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=20 height=20>
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -24014,9 +19979,6 @@ _13-Jun-22 05:26 PM_:
 
 I can host this week Omega WG call, I got something stuff I'm thinking and working on (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -24027,9 +19989,7 @@ SatoriD
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _13-Jun-22 05:30 PM_:
-thank you! Exciting
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
+thank you! Exciting <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=20 height=20>
 
 please feel free to share more here in the calendar
 
@@ -24039,21 +19999,13 @@ please feel free to share more here in the calendar
 
 Check out our @0mega WG Meeting Structure.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _13-Jun-22 05:39 PM_:
 DEB for Consilience Library Contributors, Narrative Mandala and NFT Self-Discovery Cards
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
-after tomorrow I hope to have all the pieces to have a nice shared figma board, for us to play around with
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fe.png" width=50 height=50>
+after tomorrow I hope to have all the pieces to have a nice shared figma board, for us to play around with <img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fe.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -24105,9 +20057,6 @@ During the whole process we realized that we don't want to do business as usuall
 
 ![https://i.ytimg.com/vi/SCIlIiEKUFA/maxresdefault.jpg](https://i.ytimg.com/vi/SCIlIiEKUFA/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f63b.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -24125,13 +20074,7 @@ _14-Jun-22 09:43 PM_:
 
 We want to do "business as usual" for how cells, organisms, and ecosystems do it -- not the caricature of how it was done from 19XX to 20XX.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -24139,9 +20082,6 @@ _15-Jun-22 12:12 PM_:
 
 ✅ Praise @SatoriD for his great help, support and participation to DEB presentation at Alumni Kernel Showcase, we have moved a step forward with this project..:)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -24159,9 +20099,6 @@ Fact-of-Existing ~
 
 .-. The higher purpose is the commitment of what we want to contribute to the world. .-. This project is an attempt to create a unique hybrid model, that can build inner awareness and affirm the core values that can help navigate safely and with authenticity, connecting real and virtual ecosyst...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -24215,17 +20152,12 @@ Old updates have been moved to their respective initiative Changelogs. A Changel
 
 **for the week of June 16-22 post updates on What’s New doc**
 
-. For the week of 8-15 please message here and I’ll add on to Changelog. @stef @Mert Ozd @Letty @Jeanne Thank you @SatoriD for posting an update
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+. For the week of 8-15 please message here and I’ll add on to Changelog. @stef @Mert Ozd @Letty @Jeanne Thank you @SatoriD for posting an update <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 (edited)
 
 The day before the working group call, what is within What’s New will be moved to their respective initiative Changelog. So what is to be posted in What’s new is what’s happening this week **(please when you work on stuff this week post them on what’s new this week)**. So that we won’t have to go over it in calls, or ask each other what everyone is doing. Please share your work. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fe.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
 
@@ -24239,28 +20171,17 @@ _16-Jun-22 12:01 PM_:
 
 Have these been linked in Docs?
 
-I see the deb brainstorming linked
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
+I see the deb brainstorming linked <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=20 height=20>
 
 but not the other two
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _16-Jun-22 12:12 PM_:
 @SatoriD also please tag them in what’s new under the initiative they belong to. You’re doing great providing updates
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f636-200d-1f32b.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
-
-2
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -24268,31 +20189,19 @@ _16-Jun-22 12:47 PM_:
 
 [https://discord.gg/dk3R2zeg?event=984889714651836478](https://discord.gg/dk3R2zeg?event=984889714651836478)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f490.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 _16-Jun-22 02:38 PM_:
 
-[https://www.youtube.com/watch?v=nI8q5thiubA](https://www.youtube.com/watch?v=nI8q5thiubA)
 
-[Regenerative Living institute](https://www.youtube.com/channel/UCGr70r291iU16iUyy743Xzg)
-
-Regeneration: Linking Science & Spirituality: Restoring + Regenerat...
+[Regeneration: Linking Science & Spirituality: Restoring + Regenerat...](https://www.youtube.com/watch?v=nI8q5thiubA)
 
 Regeneration: Linking Science & Spirituality, as part of the Restoring + Regenerating Place series with Leah Gibbons of the Regenerative Living Institute. Leah shares why both science and spirituality, and their integration, are necessary for humans to be conscious catalysts for all life to thrive. Some practical tools and examples will be share...
 
 ![https://i.ytimg.com/vi/nI8q5thiubA/sddefault.jpg](https://i.ytimg.com/vi/nI8q5thiubA/sddefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/722593944466096134/fe5c4e5ca788fffc5fada6675e9bd826.png](https://cdn.discordapp.com/avatars/722593944466096134/fe5c4e5ca788fffc5fada6675e9bd826.png)
 
@@ -24340,9 +20249,7 @@ I know but it is not something that will happen periodically? or in general, it 
 
 and thank you for interacting with the group and helping to frame the Consilience Lib in simple terms, we definitely need that!
 
-but kind of knee deep in all sorts of other experimentation
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
+but kind of knee deep in all sorts of other experimentation <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=20 height=20>
 
 that we piggy back onto the Lib building - which are actually super useful research that will also add to the TE knowledge commons. Just food for thought for the group, especially those doing research on/through th TE Consilience Lib, e.g. Onboarding, Regen Workflows, DEB - let's also think about how to explain that in simple terms and/or continue asking for support from better wordsmiths that we know
 
@@ -24355,9 +20262,7 @@ and everyone, really sorry to see that WG call agenda/update did/didn't happen? 
 WG 0mega - Agenda (Weekly Wed. 8PM CET)
 
 [exploratory phase doc] As of 09/06/2021 Agenda & Notes of Working Group 0mega Weekly Wednesdays 20:00 CET, in 0mega Voice ChannelShort Description The Working Group 0mega started with a rather big question of “How can we enable Token Engineering Ethos to emerge from such diverse backgrou...
-I take it partly because the TE Ethics folks didn't show up
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+I take it partly because the TE Ethics folks didn't show up <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 @Lydia 's flight got delayed, she messaged me on TG - which I only read much later when I finally arrived at home:
 
@@ -24394,9 +20299,6 @@ June 1 - 8 2022
 _17-Jun-22 08:01 PM_:
 I won’t be around as much btw. I’ll try to still do the library work that I intended to but I’ll be busy with something else so not making any promises. Please volunteer to facilitate calls (and choose the activity that can be done together to connect and flow together) in the notion calendar
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -24418,9 +20320,7 @@ ohhhh so sorry I missed this - ok need to get the habit out :))
 
 don't have edit rights - the issue with notion is that it costs a lot if it's not free for all to edit - if it's free for all to edit, we have the risk that someone comes in and deletes it all
 
-accidentally
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+accidentally <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 reminds me of
 
@@ -24444,21 +20344,14 @@ but please definitely give me edit rights, want to add this as 0mega compass:
 
 and also would love to hear more feedback about your experience effectively co-stewarding 0mega for quite some time, @nic - and whether if you see 0mega as a place you'd drop by for self-reflection coming from practicing token engineering (assuming you remain close to token engineering? or is your path taking you to farther links?)
 
-we'll miss your presence
+we'll miss your presence <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-and super happy to hear that you intend to continue contributing to the lib, in which you had a big contribution in co-visioning
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+and super happy to hear that you intend to continue contributing to the lib, in which you had a big contribution in co-visioning <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 feel free your conributions will always be welcome no matter in what cadence they come!
 
 actually this is the fundamental of these mandalas idea, right? that we can figure out contact points and possibility for syncrhonicity in a highly asynchronous yet highly connecte network
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 one comment:
 
@@ -24472,9 +20365,7 @@ we only have 1 funded initiative: TE Consilience Library
 
 and budding research around Regenerative Workflows (to which Dynamic Energy Budget and Imaginarium Creative Flow fully contribute)
 
-we need to make clear these distinctions, e.g. [https://gitcoin.co/grants/798/a-hitchhikers-guide-to-token-engineering](https://gitcoin.co/grants/798/a-hitchhikers-guide-to-token-engineering) is a distinct initiative outside of 0mega, but we see it can somewhat contribute to the TE Consilience Lib - but I am reluctant to list it, unless we have started to try figure out how, e.g. get to a place where Imaginarium is already - the contributions create amazing, useful artifacts that add value to 0mega initiatives and research
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4b0.png" width=50 height=50>
+we need to make clear these distinctions, e.g. [https://gitcoin.co/grants/798/a-hitchhikers-guide-to-token-engineering](https://gitcoin.co/grants/798/a-hitchhikers-guide-to-token-engineering) is a distinct initiative outside of 0mega, but we see it can somewhat contribute to the TE Consilience Lib - but I am reluctant to list it, unless we have started to try figure out how, e.g. get to a place where Imaginarium is already - the contributions create amazing, useful artifacts that add value to 0mega initiatives and research <img src="https://twemoji.maxcdn.com/2/72x72/1f4b0.png" width=20 height=20>
 
 A Hitchhiker's Guide to Token Engineering - Grants
 
@@ -24508,12 +20399,7 @@ In his classic essay "The Usefulness of Useless Knowledge," Abraham Flexner, the
 
 ![https://nias.knaw.nl/wp-content/uploads/2017/12/Glass-Ceiling_cc-by-nc-by-Olly-Coffey.jpg](https://nias.knaw.nl/wp-content/uploads/2017/12/Glass-Ceiling_cc-by-nc-by-Olly-Coffey.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
-and I am not alone
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+and I am not alone <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 - but we need to be aware of the "environmental realilties"
 
@@ -24531,9 +20417,6 @@ we are about to figure out a way to value clean air without having to botttle it
 
 we don't look up because our frames of references are unable to capture what we need to understand, we need a new paradigm, which doesn't yell at capitalism but just transcends it gracefully
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33f.png" width=50 height=50>
-
-1
 
 are you curious? do you have an intuition that there is a way? that's enough.
 
@@ -24565,9 +20448,7 @@ Sure yeah I can
 
 solsista
 
-[and super happy to hear that you intend to continue contributing to the lib, in which you had a big contribution in co-visioning  feel free your conributions will always be welcome no matter in what cadence they come!](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+[and super happy to hear that you intend to continue contributing to the lib, in which you had a big contribution in co-visioning  feel free your conributions will always be welcome no matter in what cadence they come!](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -24587,25 +20468,15 @@ _19-Jun-22 11:10 AM_:
 
 I’ve made the changes for this
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
-@solsista re notion problems thanks to @UniPuff 🜐🐙 I heard of bip.so and I was going to switch over to bip.so which allows for branching and merging of docs. it’s easier to use than gitbook by a mile and it’s completely free. But that was before the whole decision to refocus
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+@solsista re notion problems thanks to @UniPuff 🜐🐙 I heard of bip.so and I was going to switch over to bip.so which allows for branching and merging of docs. it’s easier to use than gitbook by a mile and it’s completely free. But that was before the whole decision to refocus <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 <h3>Orion Reed <img src="https://cdn.discordapp.com/avatars/145553948139323392/1d66df98d44fdfe242648de9e59d290b.png" width=25 height=25></h3>
 
 _19-Jun-22 02:47 PM_:
-@nic would you be able to add me to the Consillience Library thread? Been talking to Sebnem (on Telegram, not sure what their discord handle is) and am trying to get up to speed with the work going on here
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+@nic would you be able to add me to the Consillience Library thread? Been talking to Sebnem (on Telegram, not sure what their discord handle is) and am trying to get up to speed with the work going on here <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -24621,9 +20492,6 @@ _20-Jun-22 01:23 PM_:
 
 The Usefulness of Useless Knowledge, it was in the early days of Imaginarium, and I expressed this way to a friend "Finally have a use of all my useless knowledge" *The unobstructed pursuit of useless knowledge, and the search for answers to deep questions, motivated solely by curiosity and without concern for applications. They had done their work with thought of use and that throughout the whole history of science most of the really great discoveries which had ultimately proved to be beneficial to mankind had been made by men and women who were driven not by the desire to be useful but merely the desire to satisfy their curiosity.*
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -24639,15 +20507,10 @@ solsista
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
-_20-Jun-22 04:07 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+_20-Jun-22 04:07 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 I can totally see how the audio-visual NFTs that curators and learners mint as part of their (self) discoveries, captures and encodes many more dimensions of value for TE Consilience Lib
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2744.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -24661,9 +20524,6 @@ _20-Jun-22 04:12 PM_:
 
 I think we did already but I really need to do it once more!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -24673,9 +20533,6 @@ _20-Jun-22 04:13 PM_:
 
 ✅ Praise @nic for building out the TE Consilience lib architecture and helping connect/document the various activities through the Archipelago/Island metaphors
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -24693,9 +20550,6 @@ actually in this doc explains the steps, if you follow linearly. The previous st
 
 This meeting happens every Wednesday at 8PM CET
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -24711,9 +20565,6 @@ Updates from Imaginarium Creative Flow on the develop of spore mandalas and maki
 
 ![https://i.ytimg.com/vi/0P9xRvE3eqc/maxresdefault.jpg](https://i.ytimg.com/vi/0P9xRvE3eqc/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2744.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -24724,9 +20575,6 @@ I have troubles with the call, here is the document Felix and me prepared for th
 Focus Group Discussion Sessions
 
 Focus Group Discussion Sessions Lydia & Felix Omega Working Group, TEC Community Focus Group #1 July 2022 (date and time to be defined) Value system of the TEC community What are core values of the TEC community? How do community members approach these values? What are variations a...
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -24744,9 +20592,6 @@ thanks a lot @Lydia, and sorry I was in bed - still recovering.
 
 Focus group #1 prep we should definitely involve at least @Lydia with SoftGov - but also I believe would be relevant to have other WGs who build on the values of TEC as well as TEC holders @Mert Ozd can you get feedback on this in the next Stewards call? I can
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 I can already mention it today in our Community Call update
 
@@ -24775,15 +20620,10 @@ So I won't be joining the call to explain, as the information is already availab
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _23-Jun-22 11:53 AM_:
-we should definitely try it once
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+we should definitely try it once <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 it's less about explaining, but facilitating so people experience it once and then we can likely run with it. I will try and do my best to initiate it asap maybe next week... @Letty @SatoriD would you feel confident enough to co-facilitate with me? we need distribution of stewards power to the point of anyone feeling a steward of what we co-create; especially because it is about self-sovereignty, yet collective cohesion...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -24805,9 +20645,6 @@ Community update:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/989569497100845136/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/989569497100845136/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 I'll be there to
 
@@ -24815,9 +20652,6 @@ I'll be there to
 
 ![https://media.tenor.com/Hsi2ZC8F9TMAAAAD/represent-fabolous.png](https://media.tenor.com/Hsi2ZC8F9TMAAAAD/represent-fabolous.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
@@ -24831,25 +20665,15 @@ _23-Jun-22 02:45 PM_:
 
 I really really dig this: inner work - learn - curate - create
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f496.png" width=50 height=50>
-
-2
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _23-Jun-22 03:39 PM_:
-just realize it is not from @SatoriD ...so someone else had this experience before us?!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
+just realize it is not from @SatoriD ...so someone else had this experience before us?! <img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=20 height=20>
 
 'cuz it is THE 0mega Compass hahah, incl the rotations etc.... how can this be?!
-gimme scientific explanation!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+gimme scientific explanation! <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 it also fits so well with [https://sign.kernel.community/essay](https://sign.kernel.community/essay)
 
@@ -24859,9 +20683,6 @@ Make eternally beautiful marks
 
 ![https://www.kernel.community/images/shares/sig-eco.png](https://www.kernel.community/images/shares/sig-eco.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2744.png" width=50 height=50>
-
-1
 
 the direction is very similar to where we're heading, only it is very simple wrt layout
 
@@ -24879,30 +20700,19 @@ _23-Jun-22 04:10 PM_:
 
 Yes for sure !
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
 solsista
 
-[we should definitely try it once  it's less about explaining, but facilitating so people experience it once and then we can likely run with it. I will try and do my best to initiate it asap maybe next week... @Letty @SatoriD would you feel confident enough to co-facilitate with me? we need distribution of stewards power to the point of anyone feeling a steward of what we co-create; especially because it is about self-sovereignty, yet collective cohesion...](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[we should definitely try it once  it's less about explaining, but facilitating so people experience it once and then we can likely run with it. I will try and do my best to initiate it asap maybe next week... @Letty @SatoriD would you feel confident enough to co-facilitate with me? we need distribution of stewards power to the point of anyone feeling a steward of what we co-create; especially because it is about self-sovereignty, yet collective cohesion...](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 _24-Jun-22 12:58 PM_:
 Yes, sure, self-sovereign but united in purpose. Co-facilitating... So much so I fell ill at the same time as you did (in wellness and sickness...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61d.png" width=50 height=50>
 
-)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
@@ -24918,34 +20728,21 @@ This meaningful novelty and the narrative mandala started to form. withinthevacu
 
 ![https://i.ytimg.com/vi/1DVS7eTgIvs/maxresdefault.jpg](https://i.ytimg.com/vi/1DVS7eTgIvs/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
 
 solsista
 
-[we should definitely try it once  it's less about explaining, but facilitating so people experience it once and then we can likely run with it. I will try and do my best to initiate it asap maybe next week... @Letty @SatoriD would you feel confident enough to co-facilitate with me? we need distribution of stewards power to the point of anyone feeling a steward of what we co-create; especially because it is about self-sovereignty, yet collective cohesion...](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[we should definitely try it once  it's less about explaining, but facilitating so people experience it once and then we can likely run with it. I will try and do my best to initiate it asap maybe next week... @Letty @SatoriD would you feel confident enough to co-facilitate with me? we need distribution of stewards power to the point of anyone feeling a steward of what we co-create; especially because it is about self-sovereignty, yet collective cohesion...](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _25-Jun-22 01:25 PM_:
-I’m sorry I really don’t want to join a call for a while, I should’ve said earlier. @SatoriD volunteered in notion to facilitate
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f495.png" width=50 height=50>
+I’m sorry I really don’t want to join a call for a while, I should’ve said earlier. @SatoriD volunteered in notion to facilitate <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f495.png" width=20 height=20>
 
 and I trust in his abilities to facilitate.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-2
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -24961,9 +20758,6 @@ _28-Jun-22 06:41 AM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/991292193291649024/Screenshot_2022-06-28_at_12.40.55.png](https://cdn.discordapp.com/attachments/810180622634844202/991292193291649024/Screenshot_2022-06-28_at_12.40.55.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 <h3>withinthevacuum <img src="https://cdn.discordapp.com/avatars/956959106751668236/92d7ddfdc599530a6d3a5336326dc8db.png" width=25 height=25></h3>
 
@@ -25001,12 +20795,7 @@ _29-Jun-22 03:47 AM_:
 
 wow yes, that was the connection/culmination we were seeing - hence, #Regenerative Workflows Research / DEB is ethical; since community and incentives is the heart of applied token engineering, I agree it is also TE Ethical - but again this discussion must come from an empowered place, these are the participatory protocols wer are creating , the least we can do is to say, no, and draw boundaries to self-exploitation. If we keep exploiting ourselves (and our earth), don't look within, only look out to policymakers (with or without token) to please fix it, what will happen?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-3
-Look forward to todays call - although time-pressed between events
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Look forward to todays call - although time-pressed between events <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/956959106751668236/92d7ddfdc599530a6d3a5336326dc8db.png](https://cdn.discordapp.com/avatars/956959106751668236/92d7ddfdc599530a6d3a5336326dc8db.png)
 
@@ -25020,9 +20809,6 @@ _29-Jun-22 03:49 AM_:
 
 haha yes, this will happen.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f928.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -25039,12 +20825,7 @@ Wales is giving people £1,600 month in a trial of basic income. The Welsh Gover
 [https://t.co/BjuO7oubP0](https://t.co/BjuO7oubP0)
 
 Here's what you need to know
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=50 height=50>
-
-/
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9f5.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f9f5.png" width=20 height=20>
 
 Likes
 
@@ -25133,9 +20914,6 @@ My church is You. My church is Love.
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/991868059910422590/IMG20220629225750_00.jpg](https://cdn.discordapp.com/attachments/810180622634844202/991868059910422590/IMG20220629225750_00.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 Here it is: [https://youtu.be/iw3h0LLgalE](https://youtu.be/iw3h0LLgalE)
 
@@ -25161,9 +20939,6 @@ _30-Jun-22 12:38 AM_:
 
 An option more than a "solution"?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 It definitely can help many people
 
@@ -25190,17 +20965,12 @@ Mert Ozd
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _30-Jun-22 10:53 AM_:
-thanks for this multisided view, and yes agree with the latter... so we need to get to the source of abundance
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+thanks for this multisided view, and yes agree with the latter... so we need to get to the source of abundance <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/992080536455614494/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/992080536455614494/unknown.png)
 
 here's the update too quickly done - won't make it today
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 thanks @Mert Ozd for joining the community update!
 
@@ -25208,9 +20978,7 @@ thanks @Mert Ozd for joining the community update!
 
 solsista
 
-[thanks for this multisided view, and yes agree with the latter... so we need to get to the source of abundance](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[thanks for this multisided view, and yes agree with the latter... so we need to get to the source of abundance](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
@@ -25226,17 +20994,8 @@ The World Economic Forum "circular economy" very interesting
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/992628700816363570/WEF.png](https://cdn.discordapp.com/attachments/810180622634844202/992628700816363570/WEF.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9d0.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f636-200d-1f32b.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-1
 
 [https://intelligence.weforum.org/](https://intelligence.weforum.org/)
 
@@ -25304,22 +21063,13 @@ This can be a source of abundance:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/993984221880274974/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/993984221880274974/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _05-Jul-22 05:33 PM_:
 haha Letty we're surfing the same idea space again
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3c4-200d-2640.png" width=50 height=50>
-
-1
 
 [https://youtu.be/breDQqrkikM?t=931](https://youtu.be/breDQqrkikM?t=931)
 
@@ -25331,17 +21081,8 @@ This fascinating talk presents the scientific research that shows the interconne
 
 ![https://i.ytimg.com/vi/breDQqrkikM/sddefault.jpg](https://i.ytimg.com/vi/breDQqrkikM/sddefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f333.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ed.png" width=50 height=50>
-
-1
 
 relationships and reciprocity, mututal support
 
@@ -25359,22 +21100,10 @@ It's about timing. This long bubbling creative process making space to reflect a
 
 ![https://i.ytimg.com/vi/rxq8qHaeYME/maxresdefault.jpg](https://i.ytimg.com/vi/rxq8qHaeYME/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f438.png" width=50 height=50>
-
-1
 also sidenote: I will miss this week Omega WG meeting, i'll be on the road, hope to have some fun and also do some writing. and editing so i'll still be working on creative mazes for the library and having some fun in Imagine Station, but hope to be around next week, sharing my weird tales
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f30a.png" width=50 height=50>
-
-1
 
 <h3>withinthevacuum <img src="https://cdn.discordapp.com/avatars/956959106751668236/92d7ddfdc599530a6d3a5336326dc8db.png" width=25 height=25></h3>
 
@@ -25382,9 +21111,6 @@ _05-Jul-22 07:28 PM_:
 
 I've made a sequence using wavelength to illustrate different aspects of creation, time and interaction
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-2
 
 first the frequency range that we can perceive with our senses
 
@@ -25404,9 +21130,6 @@ Interaction / Iteration
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/994024017424035840/Screen_Shot_2022-07-04_at_19.57.04.png](https://cdn.discordapp.com/attachments/810180622634844202/994024017424035840/Screen_Shot_2022-07-04_at_19.57.04.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-4
 
 The source of abundance is in the center of the interaction... where the high frequencies are
 
@@ -25442,9 +21165,6 @@ Docs
 
 Share your docs, repositories, work and links. Document your process, meeting, and explorations so that others can learn from you and see what you’ve been up to. Did you see a profound message shared in 0mega channel or threads, screenshot it and document it here and share your thoughts on it. Guess what, you can search! Click + New to add a ne...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f495.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -25466,13 +21186,7 @@ _06-Jul-22 07:39 AM_:
 
 Due to events happening and people travelling, I suggest we postpone today's Omega weekly call till next week. Keep on inspiring yourselves with any archipelago within Omega!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -25494,13 +21208,7 @@ Created with FigJam
 
 [https://www.figma.com/file/soqXUHRrBcazutqC2FegnW/thumbnail?ver=thumbnails/33db8abe-cb1e-4654-a651-10032cf4ad4e](https://www.figma.com/file/soqXUHRrBcazutqC2FegnW/thumbnail?ver=thumbnails/33db8abe-cb1e-4654-a651-10032cf4ad4e)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
 
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f499.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
 
@@ -25565,9 +21273,7 @@ Mert Ozd
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _07-Jul-22 09:13 AM_:
-I understand Mert. It's all good
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91d.png" width=50 height=50>
+I understand Mert. It's all good <img src="https://twemoji.maxcdn.com/2/72x72/1f91d.png" width=20 height=20>
 
 Another question, this UBI means it does not matter how much work someone has done, everyone gets the same amount?
 
@@ -25581,9 +21287,6 @@ _07-Jul-22 03:50 PM_:
 
 Hey @Mert Ozd @nic @solsista @SatoriD @stef Distribution time! In hindsight, the most valuable retribution I've had is rewards by wisdom (at times wisdom received and others wisdom gifted)... We're still in the process of innovatively/integrally/dynamically come up with better and more regenerative workflows that account for our contributions. Til then, it makes high sense to distribute 60% of v1 xDAI 15k as passed by the Library proposal (xDAI 9k). The remaining 40% will still be used to experiment with a DEB/gifting manner as we loosely agreed to.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
@@ -25593,15 +21296,9 @@ This is my suggestion, I feel it somehow conveys our contributions since that fa
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/994692545328193637/Screenshot_2022-07-07_at_21.45.50.png](https://cdn.discordapp.com/attachments/810180622634844202/994692545328193637/Screenshot_2022-07-07_at_21.45.50.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-5
 
 Our original understanding was that "bounties " (I hate this word!) were to be included in phase 2. We've had recent incredible contributions by @withinthevacuum and @streamerd who have shown willingness to keep building the library and I've considered those contributions too. May v2 and our timelines be a better representation of our AMAZING work that existing units of account alone can't give enough credit to! (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -25612,9 +21309,7 @@ Letty
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 _07-Jul-22 04:21 PM_:
-this is much detailed than mine
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+this is much detailed than mine <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -25642,26 +21337,15 @@ _07-Jul-22 05:54 PM_:
 
 It this what's included in the Bot board on the figma? I don't see the text you referred to. But I guess it's the ai design to be included in the regen app, can that also be in the Discord you created for the library? (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _08-Jul-22 02:58 AM_:
-I believe even in v2 we need to develop in a minimally viable fashion - e.g. meaningful connections between curators - curations - learners (this is the core value) - then novelty (which is being designed alongside anyways, because it comes from a place of abundance
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+I believe even in v2 we need to develop in a minimally viable fashion - e.g. meaningful connections between curators - curations - learners (this is the core value) - then novelty (which is being designed alongside anyways, because it comes from a place of abundance <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ) ... the transdisciplinary bit we nailed I would say, even in our test curation in 0mega - it is a very good origin to model curations after
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2744.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -25677,16 +21361,8 @@ _08-Jul-22 03:06 AM_:
 
 However, I would like to kickoff a redistribution based on this, and based on what "budget" I have: the 1k I have is more an acknowledgement of my general efforts I would assume - it does not reflect my efforts towards TE C' Lib - especially now in comparison to some others, whose efforts (even if new) I would like to boost: so I'd like to flow from the 1k from solsista: 500 to @withinthevacuum and 500 to @streamerd as part of our DEB experiment. From the list, they were the most energizing coming in quite late, but also creating a lot of momentum, and incentivizing to engage more with curations any much more. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
-I hope you'll roll with this DEB experiment!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+I hope you'll roll with this DEB experiment! <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 a huge praise to all participants ❤️
 
@@ -25697,13 +21373,7 @@ and writing this ... actually it makes no sense whatsoever, try to see this as "
 _08-Jul-22 03:09 AM_:
 Thank you so much @solsista
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2600.png" width=50 height=50>
 
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -25713,9 +21383,7 @@ we should start to see tokens/money as one-dimensional information stream, not a
 
 let's reflect on the potential of subjective redistributions, as reconfiguring weights ... like that a lot (which was also part of Sourcecred mechanics--- but I think they could have done it with tokens directly instead of emojis (which conflates a lot without improving much)
 
-hey look at us, improving Sourcecred on the go
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+hey look at us, improving Sourcecred on the go <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 also I would like to reflect on "what emotions" such open/public redistributions create ... (we have zeroknowledge tech coming up - so as long as this group can observe their emotions to go through this experiment, we'll be wiser - but not necessarily something that can be expected from anyone, I guess... )
 
