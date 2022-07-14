@@ -138,7 +138,7 @@ do we have reading material to get familiar with the topic? can someone point me
 
 Anak
 
-[do we have reading material to get familiar with the topic? can someone point me to it plz thanks](about:blank#)
+do we have reading material to get familiar with the topic? can someone point me to it plz thanks
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -177,7 +177,7 @@ Llama enables decentralized communities to allocate their treasuries and assess 
 
 rex
 
-[is there a whitepaper or overview of token mechanics, too?](about:blank#)
+is there a whitepaper or overview of token mechanics, too?
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -195,7 +195,7 @@ that's right, yeah. not sure how far we can get into stratification of buying an
 
 enti
 
-[btw, I know @natesuits on his document shared some thoughts about the TEC investing, these guys have worked with some big projects on the space, sharing bc it may be worth to give it a shot](about:blank#)
+btw, I know @natesuits on his document shared some thoughts about the TEC investing, these guys have worked with some big projects on the space, sharing bc it may be worth to give it a shot
 
 [https://llama.xyz/](https://llama.xyz/)
 
@@ -211,7 +211,7 @@ where do we get data? I can get started.
 
 Anak
 
-[what exactly do you mean to share? the link just redirects to landing page. I see there is a mirror.xyz link logo you can click to read blog.  (edited)](about:blank#)
+what exactly do you mean to share? the link just redirects to landing page. I see there is a mirror.xyz link logo you can click to read blog.  (edited)
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -225,7 +225,7 @@ i've got a friend who recently started contributing there, if it seems of intere
 
 enti
 
-[i've got a friend who recently started contributing there, if it seems of interest he may be able to schedule a meeting or something](about:blank#)
+i've got a friend who recently started contributing there, if it seems of interest he may be able to schedule a meeting or something
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -237,7 +237,7 @@ got u. Thanks!
 
 Anak
 
-[where do we get data? I can get started.](about:blank#)
+where do we get data? I can get started.
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
@@ -257,7 +257,7 @@ Do we have page for Specialist to list they skillset?
 
 rex
 
-[do any of you know if there's an alternative to this?](about:blank#)
+do any of you know if there's an alternative to this?
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -277,7 +277,7 @@ is that possible under Dune?
 
 rex
 
-[is that possible under Dune?](about:blank#)
+is that possible under Dune?
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -334,7 +334,7 @@ _04-May-22 02:35 PM_:
 
 Gideonro
 
-[@Anak @rex and @gene - so glad that you're up for diving into the analysis work. Give me a little bit to figure out how we structure that and I'll get back to you with a process for plugging in. OK?](about:blank#)
+@Anak @rex and @gene - so glad that you're up for diving into the analysis work. Give me a little bit to figure out how we structure that and I'll get back to you with a process for plugging in. OK?
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -348,7 +348,7 @@ We chit chatted for a few minutes yesterday and gave ourselves the task of getti
 
 gene
 
-[We chit chatted for a few minutes yesterday and gave ourselves the task of getting a copy of each working groups budget/ledger, categorizing the spending, and quantifying the rate of burn per category. Rex also suggested looking at Open Collective's UI to get an idea of how they demonstrate how spending works there and possibly being able to fork and adapt their work to our needs. But it was late yesterday for those two being in London and Florida, so I don't think anyone has made any progress yet and we'll defer to you for next steps. =)](about:blank#)
+We chit chatted for a few minutes yesterday and gave ourselves the task of getting a copy of each working groups budget/ledger, categorizing the spending, and quantifying the rate of burn per category. Rex also suggested looking at Open Collective's UI to get an idea of how they demonstrate how spending works there and possibly being able to fork and adapt their work to our needs. But it was late yesterday for those two being in London and Florida, so I don't think anyone has made any progress yet and we'll defer to you for next steps. =)
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -394,7 +394,7 @@ Also, @Anak and @rex -- and anyone interested in collaborating in Sampo, please 
 
 Anak
 
-[I have a paper to finish up today and tmr. so I will be able to start working on it at all on Friday.](about:blank#)
+I have a paper to finish up today and tmr. so I will be able to start working on it at all on Friday.
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
@@ -406,7 +406,7 @@ same with me - Friday's best, anytime after 6pm GMT+1 time
 
 rex
 
-[same with me - Friday's best, anytime after 6pm GMT+1 time](about:blank#)
+same with me - Friday's best, anytime after 6pm GMT+1 time
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -418,7 +418,7 @@ See my request above about meeting. tks
 
 gene
 
-[We chit chatted for a few minutes yesterday and gave ourselves the task of getting a copy of each working groups budget/ledger, categorizing the spending, and quantifying the rate of burn per category. Rex also suggested looking at Open Collective's UI to get an idea of how they demonstrate how spending works there and possibly being able to fork and adapt their work to our needs. But it was late yesterday for those two being in London and Florida, so I don't think anyone has made any progress yet and we'll defer to you for next steps. =)](about:blank#)
+We chit chatted for a few minutes yesterday and gave ourselves the task of getting a copy of each working groups budget/ledger, categorizing the spending, and quantifying the rate of burn per category. Rex also suggested looking at Open Collective's UI to get an idea of how they demonstrate how spending works there and possibly being able to fork and adapt their work to our needs. But it was late yesterday for those two being in London and Florida, so I don't think anyone has made any progress yet and we'll defer to you for next steps. =)
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -451,7 +451,7 @@ Also I’d love to join you guys on that call
 
 bear100
 
-[I did some financial statements (balance sheet, income statement, cash flow, operating expenses) for gravity in the past weeks for some proposal I did for them so I was thinking they could help with the analysis of the WGs. My plan was also to start doing those statements for other wgs at some point so maybe now can be a good time. But also I don’t wanna us to overlap on the work so let me know what you guys think](about:blank#)
+I did some financial statements (balance sheet, income statement, cash flow, operating expenses) for gravity in the past weeks for some proposal I did for them so I was thinking they could help with the analysis of the WGs. My plan was also to start doing those statements for other wgs at some point so maybe now can be a good time. But also I don’t wanna us to overlap on the work so let me know what you guys think
 
 [https://docs.google.com/spreadsheets/d/1Pd8feP0zW_mKaFesocYOMtpqTZMIUzWgZcQMUKmL6bI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Pd8feP0zW_mKaFesocYOMtpqTZMIUzWgZcQMUKmL6bI/edit?usp=sharing)
 
@@ -467,7 +467,7 @@ Is there a reason why there isn't a separate line item on the March income state
 
 gene
 
-[Is there a reason why there isn't a separate line item on the March income statement for the income from the Gitcoin grant? Sorry, I'm not an accountant. But I am planning to do some grant writing for the TEC and some of the individual working groups; would it be correct to account for grant receipts as something like "unearned income?"](about:blank#)
+Is there a reason why there isn't a separate line item on the March income statement for the income from the Gitcoin grant? Sorry, I'm not an accountant. But I am planning to do some grant writing for the TEC and some of the individual working groups; would it be correct to account for grant receipts as something like "unearned income?"
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -493,7 +493,7 @@ Doodle is the simplest way to schedule meetings with clients, colleagues, or fri
 
 gene
 
-[Sincere apologies all for the pings and fumbles in configuring this meeting. Should be ready now. @Gideonro @rex @Anak @bear100 @Zeptimus @bends](about:blank#)
+Sincere apologies all for the pings and fumbles in configuring this meeting. Should be ready now. @Gideonro @rex @Anak @bear100 @Zeptimus @bends
 
 [https://doodle.com/meeting/participate/id/dR6VxRwd](https://doodle.com/meeting/participate/id/dR6VxRwd)
 
@@ -516,7 +516,7 @@ how does the final calendar date get settled in this app?
 
 bear100
 
-[Yes, that’s some of the questions I had myself too while doing this. I have a background in business but not specifically in accounting so I think there are some specifics that would be good to get advise on, specially for the balance sheet as I had a hard time figuring out how the different assets/liabilities/equity would look like for wgs. To what you are saying I think that could be right but maybe as part of the balance sheet instead? For the income statement I would leave it for direct income wgs could have based on sales of some service/product](about:blank#)
+Yes, that’s some of the questions I had myself too while doing this. I have a background in business but not specifically in accounting so I think there are some specifics that would be good to get advise on, specially for the balance sheet as I had a hard time figuring out how the different assets/liabilities/equity would look like for wgs. To what you are saying I think that could be right but maybe as part of the balance sheet instead? For the income statement I would leave it for direct income wgs could have based on sales of some service/product
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -548,7 +548,7 @@ Anak 08-May-22 08:56 AM
 
 Anak
 
-[what part of the bookeeping can we automate?](about:blank#)
+what part of the bookeeping can we automate?
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -560,7 +560,7 @@ Thats a really good question. I think going for automation in most of our proces
 
 Anak
 
-[Just an idea (we could ignore it for now): I recommend using text-based double-entry accounting for ledger. advantage 1. data is easy to clean, collect, modify (because it is text base) 2. easy to filter parts of information that we want while minimize human error. the image shows that we can do things like get balance of X account (can be nested infinitely).](about:blank#)
+Just an idea (we could ignore it for now): I recommend using text-based double-entry accounting for ledger. advantage 1. data is easy to clean, collect, modify (because it is text base) 2. easy to filter parts of information that we want while minimize human error. the image shows that we can do things like get balance of X account (can be nested infinitely).
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -572,7 +572,7 @@ I didnt know about this. Looks interesting, and I think it would be worth taking
 
 bear100
 
-[Thats a really good question. I think going for automation in most of our processes should be one of the goals but I dont really know how to do it and the tools needed. Right now the most automated thing I can think of is Dune dahsboard and dework for compensation. It would be interesting to find a way to incorporate that data and translate it into more structured reports that could make the analysis easier and automated](about:blank#)
+Thats a really good question. I think going for automation in most of our processes should be one of the goals but I dont really know how to do it and the tools needed. Right now the most automated thing I can think of is Dune dahsboard and dework for compensation. It would be interesting to find a way to incorporate that data and translate it into more structured reports that could make the analysis easier and automated
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -586,7 +586,7 @@ I plan to do this. the things that dune can't do is budget categorization. (I be
 
 bear100
 
-[I didnt know about this. Looks interesting, and I think it would be worth taking it in consideration](about:blank#)
+I didnt know about this. Looks interesting, and I think it would be worth taking it in consideration
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -614,7 +614,7 @@ Token-based compensation, a new and powerful form of incentive alignment, introd
 
 Anak
 
-[@bear100 from the highlights in pics. costs is included per-event right? one of the goal is to determine burn rate within each expenses category that can be reduced. First thing to look at is duplicate expenses, but the detail of expense is lagging to make any decision. any ideas how to find out duplicate expense that can be reduced? also, are the variable costs montly expenses, recurring, per-project? This information is important because we can identify duplicate cost that occurs in different months.  (edited)](about:blank#)
+@bear100 from the highlights in pics. costs is included per-event right? one of the goal is to determine burn rate within each expenses category that can be reduced. First thing to look at is duplicate expenses, but the detail of expense is lagging to make any decision. any ideas how to find out duplicate expense that can be reduced? also, are the variable costs montly expenses, recurring, per-project? This information is important because we can identify duplicate cost that occurs in different months.  (edited)
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -632,7 +632,7 @@ GRAPHS
 
 Anak
 
-[@bear100 from the highlights in pics. costs is included per-event right? one of the goal is to determine burn rate within each expenses category that can be reduced. First thing to look at is duplicate expenses, but the detail of expense is lagging to make any decision. any ideas how to find out duplicate expense that can be reduced? also, are the variable costs montly expenses, recurring, per-project? This information is important because we can identify duplicate cost that occurs in different months.  (edited)](about:blank#)
+@bear100 from the highlights in pics. costs is included per-event right? one of the goal is to determine burn rate within each expenses category that can be reduced. First thing to look at is duplicate expenses, but the detail of expense is lagging to make any decision. any ideas how to find out duplicate expense that can be reduced? also, are the variable costs montly expenses, recurring, per-project? This information is important because we can identify duplicate cost that occurs in different months.  (edited)
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -647,7 +647,7 @@ I need to go now but ill continue with the conversation in a few hours
 
 bear100
 
-[Correct, so there were two cases in april 300 each = 600 for both cases. I agree on what you are saying about detail lagging. And thats an interesting challenge as well because so far what Ive encounter is that each WG does things differently including how they report their expenses and the detail with it. In this case with Gravity they have this document](about:blank#)
+Correct, so there were two cases in april 300 each = 600 for both cases. I agree on what you are saying about detail lagging. And thats an interesting challenge as well because so far what Ive encounter is that each WG does things differently including how they report their expenses and the detail with it. In this case with Gravity they have this document
 
 [https://docs.google.com/spreadsheets/d/1-Mh6vJ2Xqrsw8Gkd1v-D7r7zoyz87-pFFpdIrddBjGQ/edit#gid=860672135](https://docs.google.com/spreadsheets/d/1-Mh6vJ2Xqrsw8Gkd1v-D7r7zoyz87-pFFpdIrddBjGQ/edit#gid=860672135)
 
@@ -671,7 +671,7 @@ Any info about "initial token distribution" of TEC? (edited)
 
 Anak
 
-[highly recommend. Its friendly for data analyst team because we don't need to do much work on cleaning data. I can't see what downside of it is compared to traditional google sheet style.](about:blank#)
+highly recommend. Its friendly for data analyst team because we don't need to do much work on cleaning data. I can't see what downside of it is compared to traditional google sheet style.
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -697,7 +697,7 @@ Something I would point out here would be the differentiation between expenses t
 
 Anak
 
-[do you happen to know who are treasury manager, coordination manager, and operation manager? its better I talk to them directly.](about:blank#)
+do you happen to know who are treasury manager, coordination manager, and operation manager? its better I talk to them directly.
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -718,7 +718,7 @@ Also in this doc I created a forecast comparing its actual spending vs budgeted.
 
 Anak
 
-[we should set a protocol for reporting to include minimum information. Adding more column in the sheets would do. Once we agree on category. we can have google sheet group expense up based on description.](about:blank#)
+we should set a protocol for reporting to include minimum information. Adding more column in the sheets would do. Once we agree on category. we can have google sheet group expense up based on description.
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -730,7 +730,7 @@ Totally agreed. This is something that was being discussed in the transparency c
 
 Anak
 
-[Any info about "initial token distribution" of TEC?  (edited)](about:blank#)
+Any info about "initial token distribution" of TEC?  (edited)
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -756,7 +756,7 @@ _09-May-22 12:51 AM_:
 
 Gideonro
 
-[@gene @bear100 @Zeptimus -- we have a time for the first Sampo Analyst call. Tuesday at 11:00 AM ESt. @rex, sorry you are the only one who indicated you can't make that time. Hopefully, something opens up for you. This meeting is open to anyone interested in helping the TEC to analyze our financial information. We will meet in the Sampo voice channel.](about:blank#)
+@gene @bear100 @Zeptimus -- we have a time for the first Sampo Analyst call. Tuesday at 11:00 AM ESt. @rex, sorry you are the only one who indicated you can't make that time. Hopefully, something opens up for you. This meeting is open to anyone interested in helping the TEC to analyze our financial information. We will meet in the Sampo voice channel.
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -774,7 +774,7 @@ I will join the schedule that is agree upon. I am quite flexible.
 
 Gideonro
 
-[@gene @bear100 @Zeptimus -- we have a time for the first Sampo Analyst call. Tuesday at 11:00 AM ESt. @rex, sorry you are the only one who indicated you can't make that time. Hopefully, something opens up for you. This meeting is open to anyone interested in helping the TEC to analyze our financial information. We will meet in the Sampo voice channel.](about:blank#)
+@gene @bear100 @Zeptimus -- we have a time for the first Sampo Analyst call. Tuesday at 11:00 AM ESt. @rex, sorry you are the only one who indicated you can't make that time. Hopefully, something opens up for you. This meeting is open to anyone interested in helping the TEC to analyze our financial information. We will meet in the Sampo voice channel.
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
@@ -844,7 +844,7 @@ I will be there !! @Gideonro
 
 Gideonro
 
-[@Sampo can you hear me?](about:blank#)
+@Sampo can you hear me?
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -862,7 +862,7 @@ Hello! Is there already a logo for this working group? I need to add the info fo
 
 casale.eth
 
-[Hello! Is there already a logo for this working group? I need to add the info for this WG to the website](about:blank#)
+Hello! Is there already a logo for this working group? I need to add the info for this WG to the website
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -876,7 +876,7 @@ Or maybe, @markop - do you know?
 
 Gideonro
 
-[Or maybe, @markop - do you know?](about:blank#)
+Or maybe, @markop - do you know?
 
 <h3>markop <img src="https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png" width=25 height=25></h3>
 
@@ -891,7 +891,7 @@ Where can I read about it?
 
 markop
 
-[I did, yes](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+I did, yes  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -919,7 +919,7 @@ Monday, May 9th, 2022 Hello <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.p
 
 markop
 
-[I did, yes](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+I did, yes  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -956,7 +956,7 @@ mic's broken on this PC*
 
 enti
 
-[btw, I know @natesuits on his document shared some thoughts about the TEC investing, these guys have worked with some big projects on the space, sharing bc it may be worth to give it a shot](about:blank#)
+btw, I know @natesuits on his document shared some thoughts about the TEC investing, these guys have worked with some big projects on the space, sharing bc it may be worth to give it a shot
 
 [https://llama.xyz/](https://llama.xyz/)
 
@@ -970,7 +970,7 @@ _10-May-22 04:57 PM_:
 
 enti
 
-[@Gideonro](about:blank#)
+@Gideonro
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -983,7 +983,7 @@ Man, I wish I could tell what they even do. It looks interesting but I'm getting
 
 Gideonro
 
-[Man, I wish I could tell what they even do. It looks interesting but I'm getting kind of sick of web3 orgs feeling like web2 is so passé that they don't even need a website that explains who/what they are. Can you tell?](about:blank#)
+Man, I wish I could tell what they even do. It looks interesting but I'm getting kind of sick of web3 orgs feeling like web2 is so passé that they don't even need a website that explains who/what they are. Can you tell?
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -1005,7 +1005,7 @@ just wanna share the following because I think it is important to understand the
 
 Anak
 
-[just wanna share the following because I think it is important to understand the overview of DAO components based on existing provided services. you can use this to think about what TCE currently has and what TCE will need. #🕊｜gravity is - [[Decentralized Autonomous Organization (DAO)/services/Treasury Management]] "Sampo Analysts" is - [[Decentralized Autonomous Organization (DAO)/services/Treasury Management]] #💸｜sampo is - [[Decentralized Autonomous Organization (DAO)/services/Growth]] #💸｜reward-system is - [[Decentralized Autonomous Organization (DAO)/services/Token services]] #🏘｜communitas is - [[Decentralized Autonomous Organization (DAO)/services/Community]] - [[Decentralized Autonomous Organization (DAO)/services/Growth/User onboarding]] #🕵｜transparency is - [[Decentralized Autonomous Organization (DAO)/services/Operations/Project Management]] #🧩｜te-governance-guild and #🙌🏽｜soft-gov are - [[Decentralized Autonomous Organization (DAO)/services/Governance]] TEA is - [[Decentralized Autonomous Organization (DAO)/services/Growth/Education]] - [[Decentralized Autonomous Organization (DAO)/services/Growth/Research]] #🔬｜labs is - [[Decentralized Autonomous Organization (DAO)/services/Growth/Education]] #📡｜comms is - [[Decentralized Autonomous Organization (DAO)/services/Growth/Education]] - [[Decentralized Autonomous Organization (DAO)/services/Growth/User onboarding]] I think we missed one. (I am sure we don't need it right now) - [[Decentralized Autonomous Organization (DAO)/services/Risk Management]]. Example is hiring of Gauntlet by Compond.  (edited)](about:blank#)
+just wanna share the following because I think it is important to understand the overview of DAO components based on existing provided services. you can use this to think about what TCE currently has and what TCE will need. #🕊｜gravity is - [[Decentralized Autonomous Organization (DAO)/services/Treasury Management]] "Sampo Analysts" is - [[Decentralized Autonomous Organization (DAO)/services/Treasury Management]] #💸｜sampo is - [[Decentralized Autonomous Organization (DAO)/services/Growth]] #💸｜reward-system is - [[Decentralized Autonomous Organization (DAO)/services/Token services]] #🏘｜communitas is - [[Decentralized Autonomous Organization (DAO)/services/Community]] - [[Decentralized Autonomous Organization (DAO)/services/Growth/User onboarding]] #🕵｜transparency is - [[Decentralized Autonomous Organization (DAO)/services/Operations/Project Management]] #🧩｜te-governance-guild and #🙌🏽｜soft-gov are - [[Decentralized Autonomous Organization (DAO)/services/Governance]] TEA is - [[Decentralized Autonomous Organization (DAO)/services/Growth/Education]] - [[Decentralized Autonomous Organization (DAO)/services/Growth/Research]] #🔬｜labs is - [[Decentralized Autonomous Organization (DAO)/services/Growth/Education]] #📡｜comms is - [[Decentralized Autonomous Organization (DAO)/services/Growth/Education]] - [[Decentralized Autonomous Organization (DAO)/services/Growth/User onboarding]] I think we missed one. (I am sure we don't need it right now) - [[Decentralized Autonomous Organization (DAO)/services/Risk Management]]. Example is hiring of Gauntlet by Compond.  (edited)
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -1017,7 +1017,7 @@ that's an interesting graph. tks. Hey, are you in Clarity, @Anak - and if so, ca
 
 Gideonro
 
-[that's an interesting graph. tks. Hey, are you in Clarity, @Anak - and if so, can you change your profile name so we know it's you?](about:blank#)
+that's an interesting graph. tks. Hey, are you in Clarity, @Anak - and if so, can you change your profile name so we know it's you?
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -1073,7 +1073,7 @@ this looks great - but surely this seems like part of transparency rather than s
 
 Gideonro
 
-[Hey @Sampo! Here is the document detailing the Sampo strategy we went through on Tuesday's call. This is version 1.0 and still rough. Once we get your feedback, I'll revise, clean it up, and we'll take it out to a broader base of advisors as part of the TEC's advice process:](about:blank#)
+Hey @Sampo! Here is the document detailing the Sampo strategy we went through on Tuesday's call. This is version 1.0 and still rough. Once we get your feedback, I'll revise, clean it up, and we'll take it out to a broader base of advisors as part of the TEC's advice process:
 
 [https://docs.google.com/document/d/1RpHCuXykoVk2nqHfk5uBwdZg7nOaZdJ-QfSAU4rBR9M/edit?usp=sharing](https://docs.google.com/document/d/1RpHCuXykoVk2nqHfk5uBwdZg7nOaZdJ-QfSAU4rBR9M/edit?usp=sharing)
 
@@ -1115,7 +1115,7 @@ Connect your wallet, share token-gated documents, coordinate projects and propos
 
 bear100
 
-[This is great Gideon! It is a great overview of what Sampo is looking to achieve. I think having these 3 phases will provide a lot of clarity and focus between the members of the wg towards generating and achieving very specific objectives within each phase](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
+This is great Gideon! It is a great overview of what Sampo is looking to achieve. I think having these 3 phases will provide a lot of clarity and focus between the members of the wg towards generating and achieving very specific objectives within each phase  <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -1169,7 +1169,7 @@ Advancing the field of token engineering in a regenerative way. Stewarding the c
 
 casale.eth
 
-[By the way, Sampo is now in](about:blank#)
+By the way, Sampo is now in
 
 [https://tecommons.org/workgroups](https://tecommons.org/workgroups)
 
@@ -1182,7 +1182,7 @@ Looks great, @casale.eth! Thanks so much! <img src="https://twemoji.maxcdn.com/2
 
 Gideonro
 
-[Looks great, @casale.eth! Thanks so much!](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+Looks great, @casale.eth! Thanks so much!  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>casale.eth <img src="https://cdn.discordapp.com/avatars/159125298384863233/9e9193209460bcb47935b4d8c2cfa5aa.png" width=25 height=25></h3>
 
@@ -1211,7 +1211,7 @@ Please do provide feedback and more questions, as we've started to already do th
 
 rex
 
-[Hey there @Sampo I've edited this piece in Clarity giving a step-by-step of what we need to do over the next 2-3weeks.](about:blank#)
+Hey there @Sampo I've edited this piece in Clarity giving a step-by-step of what we need to do over the next 2-3weeks.
 
 [https://app.clarity.so/Sampo/notes/16ab8d40-14b9-433d-bf91-5cc5df8287c3](https://app.clarity.so/Sampo/notes/16ab8d40-14b9-433d-bf91-5cc5df8287c3)
 
@@ -1278,7 +1278,7 @@ Learn more
 
 bear100
 
-[Hi everyone. Just wanted to share a general overview and graph about the finances of all the WGs Ive been working on. Its all based on dune and hopefully can help us get a clearer picture and add on to the sampo initiatives. Comment any thoughts or questions you may have.](about:blank#)
+Hi everyone. Just wanted to share a general overview and graph about the finances of all the WGs Ive been working on. Its all based on dune and hopefully can help us get a clearer picture and add on to the sampo initiatives. Comment any thoughts or questions you may have.
 
 [https://docs.google.com/spreadsheets/d/1a1L3SWiQ118ZMC1CYukpykrhjMfZR0rTKvwBb2_ROvM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1a1L3SWiQ118ZMC1CYukpykrhjMfZR0rTKvwBb2_ROvM/edit?usp=sharing)
 
@@ -1292,7 +1292,7 @@ This looks great
 
 rex
 
-[This looks great](about:blank#)
+This looks great
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
@@ -1305,7 +1305,7 @@ I'll try recreating your exact table on dune later today too (edited)
 
 rex
 
-[I'll try recreating your exact table on dune later today too  (edited)](about:blank#)
+I'll try recreating your exact table on dune later today too  (edited)
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -1339,7 +1339,7 @@ Connect your wallet, share token-gated documents, coordinate projects and propos
 
 bear100
 
-[Hi everyone. Just wanted to share a general overview and graph about the finances of all the WGs Ive been working on. Its all based on dune and hopefully can help us get a clearer picture and add on to the sampo initiatives. Comment any thoughts or questions you may have.](about:blank#)
+Hi everyone. Just wanted to share a general overview and graph about the finances of all the WGs Ive been working on. Its all based on dune and hopefully can help us get a clearer picture and add on to the sampo initiatives. Comment any thoughts or questions you may have.
 
 [https://docs.google.com/spreadsheets/d/1a1L3SWiQ118ZMC1CYukpykrhjMfZR0rTKvwBb2_ROvM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1a1L3SWiQ118ZMC1CYukpykrhjMfZR0rTKvwBb2_ROvM/edit?usp=sharing)
 
@@ -1354,7 +1354,7 @@ this is awesome - need to digest this a bit between now and the call today. grea
 
 bear100
 
-[That would be awesome](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
+That would be awesome  <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
@@ -1366,7 +1366,7 @@ _24-May-22 02:45 PM_:
 
 rex
 
-[@bear100 Here's the dune counterpart. Need to pivot to draw the chart, but there it is for now:](about:blank#)
+@bear100 Here's the dune counterpart. Need to pivot to draw the chart, but there it is for now:
 
 [https://dune.com/queries/839327](https://dune.com/queries/839327)
 
@@ -1382,7 +1382,7 @@ not exact... -for now- (edited)
 
 rex
 
-[@bear100 Here's the dune counterpart. Need to pivot to draw the chart, but there it is for now:](about:blank#)
+@bear100 Here's the dune counterpart. Need to pivot to draw the chart, but there it is for now:
 
 [https://dune.com/queries/839327](https://dune.com/queries/839327)
 
@@ -1419,7 +1419,7 @@ Twitter • 24-May-22 03:00 PM
 
 bear100
 
-[It’s looking great. Once it’s all done it will be a super resource to have!](about:blank#)
+It’s looking great. Once it’s all done it will be a super resource to have!
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
@@ -1448,7 +1448,7 @@ I'll clean out the tokens to be just out and show ya that again
 
 rex
 
-[I've requested access to your sheet, I believe we can trend that out and see when we'd hit the '11%'](about:blank#)
+I've requested access to your sheet, I believe we can trend that out and see when we'd hit the '11%'
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -1460,7 +1460,7 @@ I just gave you access to it. Yeah, that would be great
 
 rex
 
-[can we add a row being TEC treasury balance on the 1st of that month  (edited)](about:blank#)
+can we add a row being TEC treasury balance on the 1st of that month  (edited)
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -1622,7 +1622,7 @@ Lively conversation on the Sampo funding proposal on the forum. I just replied t
 
 gene
 
-[A little thought experiment, but one I mean quite literally. "What would be required for Sampo and TEC at large, to earn its first dollar/s of income today? Like literally before the end of the day. Is it possible? Why or why not? How would we do it? etc etc This is an attempt at, and experiment in, rapid triage response.](about:blank#)
+A little thought experiment, but one I mean quite literally. "What would be required for Sampo and TEC at large, to earn its first dollar/s of income today? Like literally before the end of the day. Is it possible? Why or why not? How would we do it? etc etc This is an attempt at, and experiment in, rapid triage response.
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -1686,7 +1686,7 @@ hey sampo
 
 durgadas
 
-[It might make sense to look at the Sanpo group in a larger effort of the Balanced Scorecard- Sanpo being the Financial side](about:blank#)
+It might make sense to look at the Sanpo group in a larger effort of the Balanced Scorecard- Sanpo being the Financial side
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -1698,7 +1698,7 @@ yes, that's an interesting frame. Sampo is actually a mix of finance, business a
 
 gene
 
-[Thanks @Gideonro for the kind response. I'm also particularly interested to hear what ideas others might have. I suspect that there are some serious gems right below the surface here just waiting to be unearthed. @kristofer mentioned now is the time for "controversial ideas" and I still agree. I'm drafting a forum post for a safe space to speak about controversial/"dumb"/moonshot ideas because I think there exists potential for people to remain quiet despite the fact that they may have a wonderful idea but are either afraid, or not sufficiently encouraged to share it. We need to mitigate that fear, and encourage that confidence. Ideas don't even have to be complete. Indeed the beginnings of the best ideas rarely, if ever, are. Just an inkling or a glimmer of suspicion could lead us to the abundance we seek. That just might be the Sampo machine reimagined, redesigned, re-divined.](about:blank#)      <img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="$5" width=20 height=20>
+Thanks @Gideonro for the kind response. I'm also particularly interested to hear what ideas others might have. I suspect that there are some serious gems right below the surface here just waiting to be unearthed. @kristofer mentioned now is the time for "controversial ideas" and I still agree. I'm drafting a forum post for a safe space to speak about controversial/"dumb"/moonshot ideas because I think there exists potential for people to remain quiet despite the fact that they may have a wonderful idea but are either afraid, or not sufficiently encouraged to share it. We need to mitigate that fear, and encourage that confidence. Ideas don't even have to be complete. Indeed the beginnings of the best ideas rarely, if ever, are. Just an inkling or a glimmer of suspicion could lead us to the abundance we seek. That just might be the Sampo machine reimagined, redesigned, re-divined.      <img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
@@ -1744,7 +1744,7 @@ Connect your wallet, share token-gated documents, coordinate projects and propos
 
 gene
 
-[A little thought experiment, but one I mean quite literally. "What would be required for Sampo and TEC at large, to earn its first dollar/s of income today? Like literally before the end of the day. Is it possible? Why or why not? How would we do it? etc etc This is an attempt at, and experiment in, rapid triage response.](about:blank#)
+A little thought experiment, but one I mean quite literally. "What would be required for Sampo and TEC at large, to earn its first dollar/s of income today? Like literally before the end of the day. Is it possible? Why or why not? How would we do it? etc etc This is an attempt at, and experiment in, rapid triage response.
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -1756,7 +1756,7 @@ Considering that our products/services/token utility are still in development pr
 
 bear100
 
-[Considering that our products/services/token utility are still in development process and might be more of a medium to long term revenue stream, I’ve been thinking that something we could sell in the short term, and to answer to your question, is the VISION/FUTURE of what we want the TEC to become and then focus on not just deliver that, but to over deliver in what we promise. One of the most obvious ways to achieve this probably is through fundraising, but we can get more creative as well, and in my opinion, and a model that’s been proven to work extremely well to raise money in a short amount of time, is a NFT 10,000 PFP collection. I don’t see why a llamas/pickles/apes collection could raise those amounts of money and not us. But there’s a big difference in the value proposition, the culture, the community and the plans the TEC has compared to those other projects, and I think that would make the difference in the long term.](about:blank#)
+Considering that our products/services/token utility are still in development process and might be more of a medium to long term revenue stream, I’ve been thinking that something we could sell in the short term, and to answer to your question, is the VISION/FUTURE of what we want the TEC to become and then focus on not just deliver that, but to over deliver in what we promise. One of the most obvious ways to achieve this probably is through fundraising, but we can get more creative as well, and in my opinion, and a model that’s been proven to work extremely well to raise money in a short amount of time, is a NFT 10,000 PFP collection. I don’t see why a llamas/pickles/apes collection could raise those amounts of money and not us. But there’s a big difference in the value proposition, the culture, the community and the plans the TEC has compared to those other projects, and I think that would make the difference in the long term.
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -1793,7 +1793,7 @@ _07-Jun-22 04:49 PM_:
 
 ygg_anderson
 
-[Goodwork on the dashboard @bear100 and @rex. That data can be piped into the proposal inverter. You should discuss with the PI backend team.](about:blank#)
+Goodwork on the dashboard @bear100 and @rex. That data can be piped into the proposal inverter. You should discuss with the PI backend team.
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
@@ -1809,7 +1809,7 @@ If there's another reserve address somewhere, or a contract with a non zero bala
 
 rex
 
-[If there's another reserve address somewhere, or a contract with a non zero balance, I can add it to the visualisation](about:blank#)
+If there's another reserve address somewhere, or a contract with a non zero balance, I can add it to the visualisation
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -1827,7 +1827,7 @@ Gnosis Safe is the most trusted platform to manage digital assets on Ethereum
 
 ygg_anderson
 
-[PI funds are on ETH mainnet;](about:blank#)
+PI funds are on ETH mainnet;
 
 [https://gnosis-safe.io/app/eth:0x954Ccb8E7828e29246740E29F02efba1de0467BE/home](https://gnosis-safe.io/app/eth:0x954Ccb8E7828e29246740E29F02efba1de0467BE/home)
 
@@ -1863,7 +1863,7 @@ DeFi made simple.
 
 mitch (🍔, 🍔)
 
-[what do you guys think about these protocols for passive income?](about:blank#)
+what do you guys think about these protocols for passive income?
 
 [https://app.ribbon.finance/](https://app.ribbon.finance/)
 
@@ -1885,7 +1885,7 @@ I spent a little time digging into yearn the other night after Trent indicated t
 
 mitch (🍔, 🍔)
 
-[what do you guys think about these protocols for passive income?](about:blank#)
+what do you guys think about these protocols for passive income?
 
 [https://app.ribbon.finance/](https://app.ribbon.finance/)
 
@@ -1972,7 +1972,7 @@ _09-Jun-22 03:49 PM_:
 
 enti
 
-[sadly enough i don't think a PFP collection would work for us, Gnosis afaik doesn't have a established NFT market and the perks those other projects offer aren't as compelling to the members of a community like the TEC](about:blank#)
+sadly enough i don't think a PFP collection would work for us, Gnosis afaik doesn't have a established NFT market and the perks those other projects offer aren't as compelling to the members of a community like the TEC
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -1992,7 +1992,7 @@ Sampo Fund Managers
 
 bear100
 
-[I think that’s where we could get creative and innovative with the perks and utility offered in the collection that is compelling for the Te community but also to new people that might not know about it but could be interested. Maybe even thinking about incorporating $TEC utility and the abc to it. On the technical side, I guess we could drop it on another chain like polygon and then bridge the funds when decided. Additionally I think it could add a really cool and fun cultural layer to the TEC](about:blank#)
+I think that’s where we could get creative and innovative with the perks and utility offered in the collection that is compelling for the Te community but also to new people that might not know about it but could be interested. Maybe even thinking about incorporating $TEC utility and the abc to it. On the technical side, I guess we could drop it on another chain like polygon and then bridge the funds when decided. Additionally I think it could add a really cool and fun cultural layer to the TEC
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
@@ -2023,7 +2023,7 @@ Clarity is the most advanced DAO contribution platform. Share task boards & docs
 
 Gideonro
 
-[Here's the agenda for tomorrow's Sampo call:](about:blank#)
+Here's the agenda for tomorrow's Sampo call:
 
 [https://app.clarity.so/Sampo/pages/d57ffb3e-9042-43ce-9342-4859084888bc](https://app.clarity.so/Sampo/pages/d57ffb3e-9042-43ce-9342-4859084888bc)
 
@@ -2039,7 +2039,7 @@ Just wondering, do TEC make any distinction between WG and project? In some DAOs
 
 innov8tor3
 
-[Just wondering, do TEC make any distinction between WG and project? In some DAOs, a proposal needs to be formally passed before it can become a project, and even needs support before it can become a proposal. How are TEC handling this? I'll happily redirect this question as needed.  (edited)](about:blank#)
+Just wondering, do TEC make any distinction between WG and project? In some DAOs, a proposal needs to be formally passed before it can become a project, and even needs support before it can become a proposal. How are TEC handling this? I'll happily redirect this question as needed.  (edited)
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -2061,7 +2061,7 @@ _14-Jun-22 06:00 PM_:
 
 Gideonro
 
-[There is definitely a distinction between a working group and other types of projects. Having just set up Sampo, there is a fair amount of process that goes into a working group set up (manifesto, etc.). And there is an advice process that you go through before putting the manifesto up on the forum:](about:blank#)
+There is definitely a distinction between a working group and other types of projects. Having just set up Sampo, there is a fair amount of process that goes into a working group set up (manifesto, etc.). And there is an advice process that you go through before putting the manifesto up on the forum:
 
 [https://token-engineering-commons.gitbook.io/tec-handbook/governance/advice-process](https://token-engineering-commons.gitbook.io/tec-handbook/governance/advice-process)
 
@@ -2077,7 +2077,7 @@ Wonderful, this is something I look for especially, and great to know it's here.
 
 innov8tor3
 
-[Wonderful, this is something I look for especially, and great to know it's here. I shall devour with interest. My process is a very simple one, and I'd like to see similar tooling used across many other DAOs. Idea ➡️ Sponsors and Supporters ➡️ Proposal ➡️ Project ➡️ Product ➡️ Data Analytics ➡️ Sustainability and Longevity Analysing those projects which get through, and why, would be sustaining to many DAOs. I've had RnDAO express interest, but I'd rather it were hosted by a practical DAO than a research DAO. Any suggestions about where best to locate this?  (edited)](about:blank#)
+Wonderful, this is something I look for especially, and great to know it's here. I shall devour with interest. My process is a very simple one, and I'd like to see similar tooling used across many other DAOs. Idea ➡️ Sponsors and Supporters ➡️ Proposal ➡️ Project ➡️ Product ➡️ Data Analytics ➡️ Sustainability and Longevity Analysing those projects which get through, and why, would be sustaining to many DAOs. I've had RnDAO express interest, but I'd rather it were hosted by a practical DAO than a research DAO. Any suggestions about where best to locate this?  (edited)
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -2089,7 +2089,7 @@ Sounds like something that spans the work of Soft-Gov and the individual working
 
 Gideonro
 
-[Sounds like something that spans the work of Soft-Gov and the individual working groups. We are working on our project management flows within Sampo and you're welcome to join our calls.](about:blank#)
+Sounds like something that spans the work of Soft-Gov and the individual working groups. We are working on our project management flows within Sampo and you're welcome to join our calls.
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -2114,7 +2114,7 @@ Hey everyone, so I'm about to start testing a few token gating tools so we can h
 
 enti
 
-[Hey everyone, so I'm about to start testing a few token gating tools so we can have a more direct way to talk to token holders as well as probably offer some other things down the road - I was going to wait till the next Sampo meeting but I think we can perfectly have this discussion async for the most part](about:blank#)
+Hey everyone, so I'm about to start testing a few token gating tools so we can have a more direct way to talk to token holders as well as probably offer some other things down the road - I was going to wait till the next Sampo meeting but I think we can perfectly have this discussion async for the most part
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -2126,7 +2126,7 @@ Will think more about this but one thing for sure is support for ERC 1155 so tha
 
 Gideonro
 
-[Will think more about this but one thing for sure is support for ERC 1155 so that we could gate $TEC as well as a possible member NFT.](about:blank#)
+Will think more about this but one thing for sure is support for ERC 1155 so that we could gate $TEC as well as a possible member NFT.
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -2148,7 +2148,7 @@ AND would probably do it. Not sure whether we'd ever need OR
 
 ygg_anderson
 
-[@here For the squad that is interested in doing modelling with Sampo. I am suggesting that we sync in a 15 minute slot in the weekly WG instead of creating additional calls. I'm selfishly proposing this because the Sampo WG call is very good timing for me, and I want to avoid the overhead of setting up additional calls. I don't want to discourage people to continue connecting and collaborating, that's amazing. But for my personal involvement, I really prefer to make sync progress during the WG hour to set ourselves up for async work throughout the week. Cheers! PS don't let the markets get you down, pretty cool that TEC is backed by stables at this time.](about:blank#)
+@here For the squad that is interested in doing modelling with Sampo. I am suggesting that we sync in a 15 minute slot in the weekly WG instead of creating additional calls. I'm selfishly proposing this because the Sampo WG call is very good timing for me, and I want to avoid the overhead of setting up additional calls. I don't want to discourage people to continue connecting and collaborating, that's amazing. But for my personal involvement, I really prefer to make sync progress during the WG hour to set ourselves up for async work throughout the week. Cheers! PS don't let the markets get you down, pretty cool that TEC is backed by stables at this time.
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -2160,7 +2160,7 @@ _16-Jun-22 01:59 PM_:
 
 innov8tor3
 
-[I've thought further since my last post, but will try to synch in. Are all WG discussions recorded? Or is there a Sampo group folder with documents I could browse?](about:blank#)
+I've thought further since my last post, but will try to synch in. Are all WG discussions recorded? Or is there a Sampo group folder with documents I could browse?
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -2190,7 +2190,7 @@ _16-Jun-22 05:52 PM_:
 
 ygg_anderson
 
-[@here For the squad that is interested in doing modelling with Sampo. I am suggesting that we sync in a 15 minute slot in the weekly WG instead of creating additional calls. I'm selfishly proposing this because the Sampo WG call is very good timing for me, and I want to avoid the overhead of setting up additional calls. I don't want to discourage people to continue connecting and collaborating, that's amazing. But for my personal involvement, I really prefer to make sync progress during the WG hour to set ourselves up for async work throughout the week. Cheers! PS don't let the markets get you down, pretty cool that TEC is backed by stables at this time.](about:blank#)
+@here For the squad that is interested in doing modelling with Sampo. I am suggesting that we sync in a 15 minute slot in the weekly WG instead of creating additional calls. I'm selfishly proposing this because the Sampo WG call is very good timing for me, and I want to avoid the overhead of setting up additional calls. I don't want to discourage people to continue connecting and collaborating, that's amazing. But for my personal involvement, I really prefer to make sync progress during the WG hour to set ourselves up for async work throughout the week. Cheers! PS don't let the markets get you down, pretty cool that TEC is backed by stables at this time.
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -2217,7 +2217,7 @@ Here's an interesting thread on treasury patterns in DAOs at Gnosis/Zodiac - mig
 
 akrtws (TE Academy)
 
-[Here's an interesting thread on treasury patterns in DAOs at Gnosis/Zodiac - might be interesting for TEC as well:](about:blank#)
+Here's an interesting thread on treasury patterns in DAOs at Gnosis/Zodiac - might be interesting for TEC as well:
 
 [https://discord.gg/vZ8jEWj3](https://discord.gg/vZ8jEWj3)
 
@@ -2245,7 +2245,7 @@ _21-Jun-22 05:03 PM_:
 
 enti
 
-[@Gideonro hey wanted to ask as well, for the token gating thing should I try to get in touch with someone at Bankless handling their strategy on that part?](about:blank#)
+@Gideonro hey wanted to ask as well, for the token gating thing should I try to get in touch with someone at Bankless handling their strategy on that part?
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -2259,7 +2259,7 @@ I know someone at Forefront too who might have some valuable insight to share - 
 
 Gideonro
 
-[I know someone at Forefront too who might have some valuable insight to share - she's super busy though, but I can ask](about:blank#)
+I know someone at Forefront too who might have some valuable insight to share - she's super busy though, but I can ask
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -2465,7 +2465,7 @@ Can someone point me to a Clarity primer...signed into Clarity with my MetaMask 
 
 davidlidz
 
-[Can someone point me to a Clarity primer...signed into Clarity with my MetaMask wallet but I wasn't allowed into the Treasury board.](about:blank#)
+Can someone point me to a Clarity primer...signed into Clarity with my MetaMask wallet but I wasn't allowed into the Treasury board.
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -2485,7 +2485,7 @@ anything else lmk, i'm just a ping away :p
 
 enti
 
-[if you do, click on the "Groups" button at the top and join all the groups you may be interested in working, the one we were looking at today is "Sampo Fund Managers"](about:blank#)
+if you do, click on the "Groups" button at the top and join all the groups you may be interested in working, the one we were looking at today is "Sampo Fund Managers"
 
 <h3>davidlidz <img src="https://cdn.discordapp.com/avatars/901044103746289706/e95fe228c21c6e763fccd4d3642be34a.png" width=25 height=25></h3>
 
@@ -2498,7 +2498,7 @@ That worked - I tried again and I’m in! Thanks so much!
 
 gene
 
-[When is the Sampo Fund Managers call?](about:blank#)
+When is the Sampo Fund Managers call?
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 

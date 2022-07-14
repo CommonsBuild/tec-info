@@ -221,7 +221,7 @@ The Global Governance Gathering: Two full days entirely dedicated to manifesting
 
 angieberryberry
 
-[TE Academy will be at DAOist GGG in Amsterdam next week! Meet us for panels and a workshop on #tokenengineering in DAOs. #OwnYourEconomy  Monday, April 18 Livestream available!](about:blank#)
+TE Academy will be at DAOist GGG in Amsterdam next week! Meet us for panels and a workshop on #tokenengineering in DAOs. #OwnYourEconomy  Monday, April 18 Livestream available!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f4c5.png](https://twemoji.maxcdn.com/2/72x72/1f4c5.png)
 
@@ -307,7 +307,7 @@ _03-Jun-22 11:50 AM_:
 
 chuygarcia.eth
 
-[@everyone Proposal Inverter AMA starting now!](about:blank#)
+@everyone Proposal Inverter AMA starting now!
 
 [https://twitter.com/i/spaces/1mrGmaZoWzkGy/peek](https://twitter.com/i/spaces/1mrGmaZoWzkGy/peek)
 

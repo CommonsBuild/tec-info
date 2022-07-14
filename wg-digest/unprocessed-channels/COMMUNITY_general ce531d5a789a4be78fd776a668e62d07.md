@@ -721,7 +721,7 @@ _01-Apr-21 09:26 AM_:
 
 markop
 
-[If anyone is feeling down, struggling, going through a tough time and need someone to talk about it please reach out to me, I'd be glad to listen and help however I can. We all know how hard it gets sometimes when things are pressing us and it's easier to overcome this together. Our wellbeing should be our priority. Just wanted to drop this here for anyone who ever needed it knowing you're not alone.](about:blank#) 
+If anyone is feeling down, struggling, going through a tough time and need someone to talk about it please reach out to me, I'd be glad to listen and help however I can. We all know how hard it gets sometimes when things are pressing us and it's easier to overcome this together. Our wellbeing should be our priority. Just wanted to drop this here for anyone who ever needed it knowing you're not alone. 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
@@ -875,7 +875,7 @@ honeyswap (re @markop: Where can I get some WXDAI to test this?)
 
 markop
 
-[Where can I get some WXDAI to test this? (re @paulo_c2d: Hello everyone!. It tooks us more time than we expected but Sem and I finally deployed the hatch demo . You can play with it here:](about:blank#)
+Where can I get some WXDAI to test this? (re @paulo_c2d: Hello everyone!. It tooks us more time than we expected but Sem and I finally deployed the hatch demo . You can play with it here:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
 
@@ -919,7 +919,7 @@ This is still a test right?
 
 griff (💜, 💜)
 
-[@everyone Every CSTK token holder got some more wxDai (the token you need to send to the Hatch) and xDai (the coin needed to pay gas) from Caga Tio last night  Make sure you are using your Trusted Seed address that holds CSTK or you can't get into the Hatch!](about:blank#)
+@everyone Every CSTK token holder got some more wxDai (the token you need to send to the Hatch) and xDai (the coin needed to pay gas) from Caga Tio last night  Make sure you are using your Trusted Seed address that holds CSTK or you can't get into the Hatch!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -965,7 +965,7 @@ TEC Hatch
 
 rubenrussel7
 
-[does CSTK token have a new contract adress? i can’t seem to see it in my wallet.. (re @geleeroyale_bot: griff @everyone Every CSTK token holder got some more wxDai (the token you need to send to the Hatch) and xDai (the coin needed to pay gas) from Caga Tio last night  Make sure you are using your Trusted Seed address that holds CSTK or you can't get into the Hatch!](about:blank#)
+does CSTK token have a new contract adress? i can’t seem to see it in my wallet.. (re @geleeroyale_bot: griff @everyone Every CSTK token holder got some more wxDai (the token you need to send to the Hatch) and xDai (the coin needed to pay gas) from Caga Tio last night  Make sure you are using your Trusted Seed address that holds CSTK or you can't get into the Hatch!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -1120,7 +1120,7 @@ _02-Apr-21 12:48 PM_:
 
 santigs
 
-[I love how TEC is respawning Caga Tió Spring version!!!!](about:blank#)
+I love how TEC is respawning Caga Tió Spring version!!!!
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -1134,7 +1134,7 @@ _02-Apr-21 01:23 PM_:
 
 JamesF
 
-[This is still a test right?](about:blank#)
+This is still a test right?
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -1218,7 +1218,7 @@ Do I need to hold CSTK before I can mint?
 
 osycross(🦎🦎)
 
-[Do I need to hold CSTK before I can mint?](about:blank#)
+Do I need to hold CSTK before I can mint?
 
 <h3>KZ Flyer <img src="https://cdn.discordapp.com/avatars/433877864849473557/426992a96a4d443fd0931bfe92ff1515.png" width=25 height=25></h3>
 
@@ -1230,7 +1230,7 @@ Yes, you need to have CSTK, which you get by being a member of the Trusted Seed.
 
 osycross(🦎🦎)
 
-[Do I need to hold CSTK before I can mint?](about:blank#)
+Do I need to hold CSTK before I can mint?
 
 <h3>KZ Flyer <img src="https://cdn.discordapp.com/avatars/433877864849473557/426992a96a4d443fd0931bfe92ff1515.png" width=25 height=25></h3>
 
@@ -1279,7 +1279,7 @@ Token Engineering Commons TEC Tokens There are two primary ways to accrue TEC To
 
 osycross(🦎🦎)
 
-[I have applied](about:blank#)
+I have applied
 
 <h3>KZ Flyer <img src="https://cdn.discordapp.com/avatars/433877864849473557/426992a96a4d443fd0931bfe92ff1515.png" width=25 height=25></h3>
 
@@ -1901,7 +1901,7 @@ Advancing the field of token engineering in a regenerative way. Stewarding the c
 
 kristoferkristofer
 
-[Now there is a join page on tecommons.org!](about:blank#)
+Now there is a join page on tecommons.org!
 
 [https://tecommons.org/join](https://tecommons.org/join)
 
@@ -2295,7 +2295,7 @@ _04-May-21 03:14 PM_:
 
 griff (💜, 💜)
 
-[!praise @VitorNunes @fabiomendes @ygg_anderson @sem(🌸,🐝) Jake @santteegt @mitch (🍔, 🍔) @Nuggan @Lauren @markop @kristofer @griff (💜, 💜) for the countless hours put into building this dashboard... WHICH IS SO READY TO PLAY WITH!!!](about:blank#)
+!praise @VitorNunes @fabiomendes @ygg_anderson @sem(🌸,🐝) Jake @santteegt @mitch (🍔, 🍔) @Nuggan @Lauren @markop @kristofer @griff (💜, 💜) for the countless hours put into building this dashboard... WHICH IS SO READY TO PLAY WITH!!!
 
 <h3>KZ Flyer <img src="https://cdn.discordapp.com/avatars/433877864849473557/426992a96a4d443fd0931bfe92ff1515.png" width=25 height=25></h3>
 
@@ -2353,7 +2353,7 @@ asked this in a different channel but not sure if it was the right one. I'm glad
 
 Tengeki
 
-[asked this in a different channel but not sure if it was the right one. I'm glad to have found this community to ask questions. Is there a position/role in token engineering for someone with no technical experience?](about:blank#)
+asked this in a different channel but not sure if it was the right one. I'm glad to have found this community to ask questions. Is there a position/role in token engineering for someone with no technical experience?
 
 <h3>markop <img src="https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png" width=25 height=25></h3>
 
@@ -2534,7 +2534,7 @@ Hello TEC community, I have been playing with the Hatch dashboard and analyzing 
 
 JeffEmmett
 
-[Hey all, I posted some comments and questions in the TEC forum about the distribution of Impact Hours and what I think we should do about it before the Hatch:](about:blank#)
+Hey all, I posted some comments and questions in the TEC forum about the distribution of Impact Hours and what I think we should do about it before the Hatch:
 
 [https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376](https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376)
 
@@ -2578,7 +2578,7 @@ Wednesday, 4pm CET
 
 jantanner
 
-[Hey Guys, I think I need a little guidance regarding TEC. I read through the forum and kept an eye on the different discords (Commons stack; TEC and TE) for a couple of days. I have the following questions: 1. What is the difference between the Commons STack, TEC and TE? I am not sure which one I should follow and engage with for what purpose 2. I have a genuine interest in both the Tech Stack and the Organisation you are trying to build. It is something what I was looking for for many years. How can I contribute with my profile 3.I am interested in the processes and tech for a project of my own and need a sparring partner to discuss the use of each aspect and tokenomics. How could I find this type of "tandem partner" I can have chats with to improve my idea/approach? Thanks in Advance!  (edited)](about:blank#)
+Hey Guys, I think I need a little guidance regarding TEC. I read through the forum and kept an eye on the different discords (Commons stack; TEC and TE) for a couple of days. I have the following questions: 1. What is the difference between the Commons STack, TEC and TE? I am not sure which one I should follow and engage with for what purpose 2. I have a genuine interest in both the Tech Stack and the Organisation you are trying to build. It is something what I was looking for for many years. How can I contribute with my profile 3.I am interested in the processes and tech for a project of my own and need a sparring partner to discuss the use of each aspect and tokenomics. How could I find this type of "tandem partner" I can have chats with to improve my idea/approach? Thanks in Advance!  (edited)
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -2691,7 +2691,7 @@ Was just going to comment my support for 8 when I saw the comments, haha. Guess 
 
 bends
 
-[Was just going to comment my support for 8 when I saw the comments, haha. Guess I'll support it here. 8s all the way!](about:blank#)
+Was just going to comment my support for 8 when I saw the comments, haha. Guess I'll support it here. 8s all the way!
 
 <h3>KZ Flyer <img src="https://cdn.discordapp.com/avatars/433877864849473557/426992a96a4d443fd0931bfe92ff1515.png" width=25 height=25></h3>
 
@@ -2968,7 +2968,7 @@ I think it would be really cool if we all use all our votes :D
 
 liviade
 
-[I think it would be really cool if we all use all our votes :D](about:blank#)
+I think it would be really cool if we all use all our votes :D
 
 <h3>markop <img src="https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png" width=25 height=25></h3>
 
@@ -2986,7 +2986,7 @@ wont be future proposals :p
 
 markop
 
-[If we do that does that mean we won't have weight to vote on future proposals?](about:blank#)
+If we do that does that mean we won't have weight to vote on future proposals?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3026,7 +3026,7 @@ Wednesday, 4pm CET
 
 markop
 
-[How much votes is "ok" to add for a proposal? I put in 10 votes.](about:blank#)
+How much votes is "ok" to add for a proposal? I put in 10 votes.
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -3050,7 +3050,7 @@ _19-May-21 03:06 PM_:
 
 Suga
 
-[@MehighCB┃ARKANAUTS yes, that was to be led by @griff (💜, 💜). It looks like he had to cancel. Sorry, I don’t know any details!](about:blank#)
+@MehighCB┃ARKANAUTS yes, that was to be led by @griff (💜, 💜). It looks like he had to cancel. Sorry, I don’t know any details!
 
 <h3>MehighCB┃ARKANAUTS <img src="https://cdn.discordapp.com/avatars/754295268228202617/4fc50b778e05509c020141f3386f5ab9.png" width=25 height=25></h3>
 
@@ -3138,7 +3138,7 @@ Is there anyone in our community that can help us finish launching the TEC swag 
 
 Tam2140
 
-[Call for help!!  Is there anyone in our community that can help us finish launching the TEC swag shop? It's based on Origin Protocol's Dshop. (](about:blank#)
+Call for help!!  Is there anyone in our community that can help us finish launching the TEC swag shop? It's based on Origin Protocol's Dshop. (
 
 ![https://twemoji.maxcdn.com/2/72x72/1f977.png](https://twemoji.maxcdn.com/2/72x72/1f977.png)
 
@@ -3161,7 +3161,7 @@ feel free to tag me on any. my github is kzflyer
 
 KZ Flyer
 
-[I'd be happy to help out with any non-tech issues.  feel free to tag me on any. my github is kzflyer](about:blank#)
+I'd be happy to help out with any non-tech issues.  feel free to tag me on any. my github is kzflyer
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -3182,7 +3182,7 @@ I could maybe help with deployment/certificates/seo/metadata
 
 JeffEmmett
 
-[This is super cool @🐙 octopus, thanks for documenting the process so it's clear what kind of steps are part of data science techniques!](about:blank#) 
+This is super cool @🐙 octopus, thanks for documenting the process so it's clear what kind of steps are part of data science techniques! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
@@ -3303,7 +3303,7 @@ Thought these two events might be relevant to TE folks... as part of Metagov's g
 
 MehighCB┃ARKANAUTS
 
-[wasn't there supposed to be a param debate now?  (edited)](about:blank#)
+wasn't there supposed to be a param debate now?  (edited)
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -3440,7 +3440,7 @@ Wednesday, 4pm CET
 
 dawg
 
-[(so many channels that I have no idea who to tag... @liviade can u hepl?) Hey guys](about:blank#)
+(so many channels that I have no idea who to tag... @liviade can u hepl?) Hey guys
 
 [https://ethstaker.cc/road-to-devcon/](https://ethstaker.cc/road-to-devcon/)
 
@@ -3707,7 +3707,7 @@ oops
 
 Call Reminder
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -3979,7 +3979,7 @@ Twitter • 21-Jun-21 08:57 AM
 
 markop
 
-[DAO resources](about:blank#)
+DAO resources
 
 [https://www.notion.so/DAO-Tools-and-Resources-cecc1368c32041fc89515a63f00bae28](https://www.notion.so/DAO-Tools-and-Resources-out-of-date-cecc1368c32041fc89515a63f00bae28)
 
@@ -4153,7 +4153,7 @@ o hallo
 
 chair
 
-[o hallo](about:blank#)
+o hallo
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -4275,7 +4275,7 @@ Hi @Walyd! Welcome to the TEC. This is an open collaboration and all are welcome
 
 Tam2140
 
-[Hi @Walyd! Welcome to the TEC. This is an open collaboration and all are welcome to participate and contribute. Have a look at the pinned message on #🚸｜orientation where you will find some advice and link for anyone new to our community.](about:blank#)
+Hi @Walyd! Welcome to the TEC. This is an open collaboration and all are welcome to participate and contribute. Have a look at the pinned message on #🚸｜orientation where you will find some advice and link for anyone new to our community.
 
 <h3>Walyd <img src="https://cdn.discordapp.com/avatars/712231299292856352/03c4f8a75b920b62bea34f841edcb721.png" width=25 height=25></h3>
 
@@ -4287,7 +4287,7 @@ Thank you, I was taking a look at that. But wanted to clarify to see if I got it
 
 Walyd
 
-[Thank you, I was taking a look at that. But wanted to clarify to see if I got it right. Basically I am a founder working on a platform that accelerates the adoption of open digital economies. And am seeking partners, collaborators that might want to join. Hence I am asking if this community is centered around one particular aspect initiated only internally for TEC or can we also meet and work together on other frontiers. Thanks alot.](about:blank#)
+Thank you, I was taking a look at that. But wanted to clarify to see if I got it right. Basically I am a founder working on a platform that accelerates the adoption of open digital economies. And am seeking partners, collaborators that might want to join. Hence I am asking if this community is centered around one particular aspect initiated only internally for TEC or can we also meet and work together on other frontiers. Thanks alot.
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -4369,7 +4369,7 @@ Done
 
 Tam2140
 
-[Hi @Walyd I invite you to share more about your platform to allow anyone interested in collaborating to contact you. This community is centered around the goal of advancing token engineering in the long term and deploying a Commons to support that goal in the short term. New well-aligned initiatives are welcome.](about:blank#)
+Hi @Walyd I invite you to share more about your platform to allow anyone interested in collaborating to contact you. This community is centered around the goal of advancing token engineering in the long term and deploying a Commons to support that goal in the short term. New well-aligned initiatives are welcome.
 
 <h3>Walyd <img src="https://cdn.discordapp.com/avatars/712231299292856352/03c4f8a75b920b62bea34f841edcb721.png" width=25 height=25></h3>
 
@@ -4627,7 +4627,7 @@ Anyone here proficient in cadCAD and available to chat?
 
 vikram
 
-[@Mettodo and I will be re-starting the TE Book Club today at UTC+3 Sun, 4 Jul 2021, if anyone is interested in joining. We'll be starting with the first half of Ch 1 of Ostrom's Governing the Commons and logistics of this round. We'll be at the DAO Book Club Discord.](about:blank#)
+@Mettodo and I will be re-starting the TE Book Club today at UTC+3 Sun, 4 Jul 2021, if anyone is interested in joining. We'll be starting with the first half of Ch 1 of Ostrom's Governing the Commons and logistics of this round. We'll be at the DAO Book Club Discord.
 
 <h3>vikram <img src="https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png" width=25 height=25></h3>
 
@@ -4697,7 +4697,7 @@ Advancing the field of token engineering in a regenerative way. Stewarding the c
 
 kristofer
 
-[The TEC web got a backrub and a foot massage! A bunch of small issues have been fixed but most notably, now there is a workgroup page with descriptions, calendar links etc!](about:blank#)
+The TEC web got a backrub and a foot massage! A bunch of small issues have been fixed but most notably, now there is a workgroup page with descriptions, calendar links etc!
 
 [https://tecommons.org/workgroups](https://tecommons.org/workgroups)
 
@@ -4758,7 +4758,7 @@ Welcome to the Transparency Audit Index! We gather all the audits in this index 
 
 kristofer
 
-[The TEC web got a backrub and a foot massage! A bunch of small issues have been fixed but most notably, now there is a workgroup page with descriptions, calendar links etc!](about:blank#)
+The TEC web got a backrub and a foot massage! A bunch of small issues have been fixed but most notably, now there is a workgroup page with descriptions, calendar links etc!
 
 [https://tecommons.org/workgroups](https://tecommons.org/workgroups)
 
@@ -4819,7 +4819,7 @@ Folks, anyone has a cadcad course discount for Adrià, who helped us reviewing t
 
 sembrestels
 
-[Folks, anyone has a cadcad course discount for Adrià, who helped us reviewing the smart contracts?](about:blank#)
+Folks, anyone has a cadcad course discount for Adrià, who helped us reviewing the smart contracts?
 
 <h3>JessicaZartler <img src="https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png" width=25 height=25></h3>
 
@@ -4885,7 +4885,7 @@ Thursday, 8pm CET
 
 Call Reminder
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -4911,7 +4911,7 @@ Sheet1 messaged,dm's blocked,heard back,on metagame huxwell,x,x oxandrei,x,x cry
 
 st4rgard3n
 
-[Hey TEC masterminds! Metagame is conducting an active recruitment campaign for our aligned communities DAO ecosystem. That means we are telling HackMoney participants about your community, your values and why they should join! Why are we providing such an awesome service for your community without any quid pro quo? Because our mission is to change the way people coordinate around solving problems and creating value! We are making the mission of Metagame true; by supporting the organizations that create value for everyone. If we were a corporation we would have to very closely make sure that this project *doesn't* create value for other orgs. We are creating value for you; because you are creating value for everyone with no strings attached either. Also we created a POAP called "MetaPass" for these verified HackMoney participants. The POAP event ID is 3873 if you want to use it to streamline onboarding, authentication and permissions. If you have any specific preference for skillsets please let us know! Do you need UI/UX, podcast personalities or writers? Do you have a specific stack that you're working with?](about:blank#)
+Hey TEC masterminds! Metagame is conducting an active recruitment campaign for our aligned communities DAO ecosystem. That means we are telling HackMoney participants about your community, your values and why they should join! Why are we providing such an awesome service for your community without any quid pro quo? Because our mission is to change the way people coordinate around solving problems and creating value! We are making the mission of Metagame true; by supporting the organizations that create value for everyone. If we were a corporation we would have to very closely make sure that this project *doesn't* create value for other orgs. We are creating value for you; because you are creating value for everyone with no strings attached either. Also we created a POAP called "MetaPass" for these verified HackMoney participants. The POAP event ID is 3873 if you want to use it to streamline onboarding, authentication and permissions. If you have any specific preference for skillsets please let us know! Do you need UI/UX, podcast personalities or writers? Do you have a specific stack that you're working with?
 
 <h3>st4rgard3n <img src="https://cdn.discordapp.com/avatars/313822952003076108/48eee648c9e0de4662bb84f198e28577.png" width=25 height=25></h3>
 
@@ -4923,7 +4923,7 @@ Does anyone have feedback on the above message? I know that TEC uses Python for 
 
 anna-marie
 
-[Hey folks. It looks like I'll likely be heading up to Paris for The DAOist event on the 23rd July Are you all staying on and attending that post-conference? Be great to actually meet some of you! I see that TEC and CS are among those logged as participating/supporting...](about:blank#)
+Hey folks. It looks like I'll likely be heading up to Paris for The DAOist event on the 23rd July Are you all staying on and attending that post-conference? Be great to actually meet some of you! I see that TEC and CS are among those logged as participating/supporting...
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -4935,7 +4935,7 @@ where can I learn more about the DAOist event?
 
 mitch (🍔, 🍔)
 
-[where can I learn more about the DAOist event?](about:blank#)
+where can I learn more about the DAOist event?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5015,7 +5015,7 @@ _11-Jul-21 12:03 AM_:
 
 vikram
 
-[@here TE Book Club will be starting in 6 hours time. Will be going through second half of the first chapter of Governing the Commons by Elinor Ostrom.](about:blank#)
+@here TE Book Club will be starting in 6 hours time. Will be going through second half of the first chapter of Governing the Commons by Elinor Ostrom.
 
 <h3>vikram <img src="https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png" width=25 height=25></h3>
 
@@ -5075,7 +5075,7 @@ lol
 
 Vyvy-vi
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>sandpiper <img src="https://cdn.discordapp.com/avatars/579830927287386126/1381798c3bb36e75de39d60378efca63.png" width=25 height=25></h3>
 
@@ -5115,7 +5115,7 @@ Just wanted to say im extremely pleased I found this community, and so impressed
 
 vikram
 
-[Call will start in 2 mins.](about:blank#)
+Call will start in 2 mins.
 
 <h3>vikram <img src="https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png" width=25 height=25></h3>
 
@@ -5134,7 +5134,7 @@ Where's that happening? I couldn't find the discord channel for the book club. (
 
 markop
 
-[Where's that happening? I couldn't find the discord channel for the book club. (re @geleeroyale_bot: witwiki for next week's Book Club we'll be going over the entire chapter 2. Same time and place.)](about:blank#)
+Where's that happening? I couldn't find the discord channel for the book club. (re @geleeroyale_bot: witwiki for next week's Book Club we'll be going over the entire chapter 2. Same time and place.)
 
 <h3>Mettodo <img src="https://cdn.discordapp.com/avatars/379260345228722176/8c32dc39634d530e713bcd2eaefcef57.png" width=25 height=25></h3>
 
@@ -5153,7 +5153,7 @@ Ah thanks! I was looking at wrong place
 
 storypup
 
-[Just wanted to say im extremely pleased I found this community, and so impressed with what I’ve seen so far. I’m not sure i have the professional knowledge or skills to contribute anything yet, but the more I learn about what this community is about the more eager I am to get involved. Thanks to everyone involved for your work in creating something will help shape the future in a good way, a future I can advocate for](about:blank#)
+Just wanted to say im extremely pleased I found this community, and so impressed with what I’ve seen so far. I’m not sure i have the professional knowledge or skills to contribute anything yet, but the more I learn about what this community is about the more eager I am to get involved. Thanks to everyone involved for your work in creating something will help shape the future in a good way, a future I can advocate for
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -5318,7 +5318,7 @@ Thursday, 8pm CET
 
 Call Reminder
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -5344,7 +5344,7 @@ Foton NFT Marketplace
 
 jabur
 
-[Anyone looking for a [BLOCKCHAIN] or [FRONTEND] Engineer? Please DM Me. I've just finished an NFT Marketplace UI project:](about:blank#)
+Anyone looking for a [BLOCKCHAIN] or [FRONTEND] Engineer? Please DM Me. I've just finished an NFT Marketplace UI project:
 
 [https://nft-marketplace-smoky.vercel.app/](https://nft-marketplace-smoky.vercel.app/)
 
@@ -5405,7 +5405,7 @@ done :D
 
 Vyvy-vi
 
-[thoughts?  (I forked hernando's discord-price-bot and queried the Hatch subgraph to get the Hatch data)](about:blank#)
+thoughts?  (I forked hernando's discord-price-bot and queried the Hatch subgraph to get the Hatch data)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f643.png](https://twemoji.maxcdn.com/2/72x72/1f643.png)
 
@@ -5450,7 +5450,7 @@ _20-Jul-21 02:10 AM_:
 
 satorid
 
-[ooo TE Book club next sunday, what time?](about:blank#)
+ooo TE Book club next sunday, what time?
 
 <h3>Mettodo <img src="https://cdn.discordapp.com/avatars/379260345228722176/8c32dc39634d530e713bcd2eaefcef57.png" width=25 height=25></h3>
 
@@ -5494,7 +5494,7 @@ Wednesday, 6pm CET
 
 Call Reminder
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -5546,7 +5546,7 @@ Hiii everyone, Met a lot of beautiful people involved with TEC yesterday in Pari
 
 Marcel | Toucan
 
-[Hiii everyone, Met a lot of beautiful people involved with TEC yesterday in Paris and i'm happy to be here](about:blank#) 
+Hiii everyone, Met a lot of beautiful people involved with TEC yesterday in Paris and i'm happy to be here 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -5587,7 +5587,7 @@ Hello there, I am a member of Bankless DAO and am doing some research on tokenom
 
 Nico
 
-[Are the community calls recorded somewhere?](about:blank#)
+Are the community calls recorded somewhere?
 
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
@@ -5633,7 +5633,7 @@ Capsule Social, Inc. has a remote job opening for Token Specialist (published: 1
 
 PhilH
 
-[hi there, I can't post on the #📝｜job-board, maybe someone will be interested to share this FYI Capsule is looking for a token engineer:](about:blank#)
+hi there, I can't post on the #📝｜job-board, maybe someone will be interested to share this FYI Capsule is looking for a token engineer:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f447.png](https://twemoji.maxcdn.com/2/72x72/1f447.png)
 
@@ -5649,7 +5649,7 @@ Hmmm. @PhilH It looks like anyone with Acknowledged CC role can post there. Can 
 
 Tam2140
 
-[Hmmm. @PhilH It looks like anyone with Acknowledged CC role can post there. Can you test again, that might have been recently changed. I'll post it there in the mean time.](about:blank#)
+Hmmm. @PhilH It looks like anyone with Acknowledged CC role can post there. Can you test again, that might have been recently changed. I'll post it there in the mean time.
 
 <h3>PhilH <img src="https://cdn.discordapp.com/avatars/165910079416041473/da578821b560dd694e1db8d8fb572e13.png" width=25 height=25></h3>
 
@@ -5663,7 +5663,7 @@ thank you! (attaching the screenshot to show the message saying I can't post the
 
 iviangita
 
-[Hello Nico! You can find the recorded community calls on the TEC Youtube channel](about:blank#) 
+Hello Nico! You can find the recorded community calls on the TEC Youtube channel 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -5681,7 +5681,7 @@ there are just too much to watch them all, will check the latest ones and the fi
 
 PhilH
 
-[thank you! (attaching the screenshot to show the message saying I can't post there)](about:blank#)
+thank you! (attaching the screenshot to show the message saying I can't post there)
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -5705,7 +5705,7 @@ Hey folks. I'd like to create some visuals to share some ideas, ideally on a Mir
 
 gav
 
-[Hello there, I am a member of Bankless DAO and am doing some research on tokenomic designs. Is there anyone here that can help point me in the right direction as to where are the best resources to do some research? Thanks in advance](about:blank#) 
+Hello there, I am a member of Bankless DAO and am doing some research on tokenomic designs. Is there anyone here that can help point me in the right direction as to where are the best resources to do some research? Thanks in advance 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -5719,7 +5719,7 @@ Hi @gav ! That’s a great question. Thoughts @Tam2140 ? Thanks!
 
 anna-marie
 
-[Hey folks. I'd like to create some visuals to share some ideas, ideally on a Miro board. But I only have the basic Miro account where it can be seen by a small team. Does the TEC have a Miro account I could use? So that I can share it and anyone can jump in and add to it/amend?](about:blank#)
+Hey folks. I'd like to create some visuals to share some ideas, ideally on a Miro board. But I only have the basic Miro account where it can be seen by a small team. Does the TEC have a Miro account I could use? So that I can share it and anyone can jump in and add to it/amend?
 
 <h3>JustinKalland <img src="https://cdn.discordapp.com/avatars/838325190182174720/d09c6a57f0d2631ae075d882a3f24174.png" width=25 height=25></h3>
 
@@ -5737,7 +5737,7 @@ Ideate, brainstorm, diagram, moodboard, and more. FigJam is easy to use and coll
 
 JustinKalland
 
-[What about Figma? It has unlimited users free (team spaces are limited to three files) and FigJam is awesome!](about:blank#)
+What about Figma? It has unlimited users free (team spaces are limited to three files) and FigJam is awesome!
 
 [https://www.figma.com/figjam/](https://www.figma.com/figjam/)
 
@@ -5751,7 +5751,7 @@ Thanks Justin. This looks possible. If we do have access to a group Miro, that w
 
 anna-marie
 
-[Thanks Justin. This looks possible. If we do have access to a group Miro, that would be preferable - I know there're other TEC Miro boards out there, so that means people don't have to learn to use a new tool. Plus, I might need more than three going fowards.](about:blank#)
+Thanks Justin. This looks possible. If we do have access to a group Miro, that would be preferable - I know there're other TEC Miro boards out there, so that means people don't have to learn to use a new tool. Plus, I might need more than three going fowards.
 
 <h3>JustinKalland <img src="https://cdn.discordapp.com/avatars/838325190182174720/d09c6a57f0d2631ae075d882a3f24174.png" width=25 height=25></h3>
 
@@ -5763,7 +5763,7 @@ I’m very new here, but from what I can tell the community already uses Figma (
 
 JustinKalland
 
-[I’m very new here, but from what I can tell the community already uses Figma (basically all product driven teams do).](about:blank#)
+I’m very new here, but from what I can tell the community already uses Figma (basically all product driven teams do).
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -5793,7 +5793,7 @@ and hi @JustinKalland. I know you from proof of humanity
 
 mheuer (Michael)
 
-[Hi everybody  and hi @JustinKalland. I know you from proof of humanity](about:blank#) 
+Hi everybody  and hi @JustinKalland. I know you from proof of humanity 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -5816,7 +5816,7 @@ Hey the bot says that AMAs are hosted every Wednesday at 4pm CET, but the calend
 
 CarsonCase
 
-[Hey the bot says that AMAs are hosted every Wednesday at 4pm CET, but the calendar says AMA is at 6PM CET? Does anyone know for sure which one it is? I'm very interested in learning token engineering but have no idea where to start and this seems like the place](about:blank#)
+Hey the bot says that AMAs are hosted every Wednesday at 4pm CET, but the calendar says AMA is at 6PM CET? Does anyone know for sure which one it is? I'm very interested in learning token engineering but have no idea where to start and this seems like the place
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -5828,7 +5828,7 @@ _27-Jul-21 05:56 PM_:
 
 nic
 
-[6PM is the correct time I think. That's when we had it 2 weeks ago. Which channel did the chat bot say it was 4pm?](about:blank#)
+6PM is the correct time I think. That's when we had it 2 weeks ago. Which channel did the chat bot say it was 4pm?
 
 <h3>CarsonCase <img src="https://cdn.discordapp.com/avatars/324750468037476352/c7464d984b1aa8699a930355578288d2.png" width=25 height=25></h3>
 
@@ -5841,7 +5841,7 @@ It said #🏓｜community-hall
 
 Suga
 
-[Hi @gav ! That’s a great question. Thoughts @Tam2140 ? Thanks!](about:blank#)
+Hi @gav ! That’s a great question. Thoughts @Tam2140 ? Thanks!
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -5857,7 +5857,7 @@ Hi @gav and welcome to the TEC! Happy to have you here! Many of us here are big 
 
 CarsonCase
 
-[Hey the bot says that AMAs are hosted every Wednesday at 4pm CET, but the calendar says AMA is at 6PM CET? Does anyone know for sure which one it is? I'm very interested in learning token engineering but have no idea where to start and this seems like the place](about:blank#)
+Hey the bot says that AMAs are hosted every Wednesday at 4pm CET, but the calendar says AMA is at 6PM CET? Does anyone know for sure which one it is? I'm very interested in learning token engineering but have no idea where to start and this seems like the place
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -5870,7 +5870,7 @@ hey @CarsonCase You’re right! The AMA would be the best place to start. It had
 
 anna-marie
 
-[Oh, OK. I hadn't seen that. Well, again, if we do have Miro that would also be best for me since I then don't have to use a new tool!   @Suga Do you know if we have one? If not, might be a good thing to add to our onboarding ideas - a list of tools used by TEC, where to find them, and what options we have for each of them.](about:blank#)
+Oh, OK. I hadn't seen that. Well, again, if we do have Miro that would also be best for me since I then don't have to use a new tool!   @Suga Do you know if we have one? If not, might be a good thing to add to our onboarding ideas - a list of tools used by TEC, where to find them, and what options we have for each of them.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f606.png](https://twemoji.maxcdn.com/2/72x72/1f606.png)
 
@@ -5906,7 +5906,7 @@ Wednesday, 6pm CET
 
 Tam2140
 
-[hey @CarsonCase You’re right! The AMA would be the best place to start. It had been at 4pm but was changed to 6pm CET to make it friendlier to more time zones. Kudos to @nic for jumping in with a quick answer!!](about:blank#) 
+hey @CarsonCase You’re right! The AMA would be the best place to start. It had been at 4pm but was changed to 6pm CET to make it friendlier to more time zones. Kudos to @nic for jumping in with a quick answer!! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
@@ -5985,7 +5985,7 @@ ok, so we can do a lot more with this then this...
 
 Suga
 
-[Yes! I think @Tam2140 has the details there.](about:blank#)
+Yes! I think @Tam2140 has the details there.
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -5997,7 +5997,7 @@ _02-Aug-21 01:45 PM_:
 
 Tam2140
 
-[@anna-marie We do not have a group plan. I know a handful of us have boards that are shared by default on the free plan. So far, I haven’t run into share limits so I would encourage you to try out the free plan too. I had scoped the subscription plans but the prices are quite high so didn’t move forward with it as the free plan still seems to be working ok.](about:blank#)
+@anna-marie We do not have a group plan. I know a handful of us have boards that are shared by default on the free plan. So far, I haven’t run into share limits so I would encourage you to try out the free plan too. I had scoped the subscription plans but the prices are quite high so didn’t move forward with it as the free plan still seems to be working ok.
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -6009,7 +6009,7 @@ Ah, cool. No worries. I have the free plan but always out of shared board option
 
 anna-marie
 
-[Ah, cool. No worries. I have the free plan but always out of shared board options!! Yes, very high prices.](about:blank#)
+Ah, cool. No worries. I have the free plan but always out of shared board options!! Yes, very high prices.
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -6021,7 +6021,7 @@ There is no limit to the board itself, I find it very doable to use the same boa
 
 Tam2140
 
-[There is no limit to the board itself, I find it very doable to use the same board for related works.](about:blank#)
+There is no limit to the board itself, I find it very doable to use the same board for related works.
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -6033,7 +6033,7 @@ I know - it's just that I have many different projects running at the same time 
 
 anna-marie
 
-[I know - it's just that I have many different projects running at the same time and mostly they're related to different communities or orgs! But all good, I'll work it out, cheers.](about:blank#)
+I know - it's just that I have many different projects running at the same time and mostly they're related to different communities or orgs! But all good, I'll work it out, cheers.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -6097,7 +6097,7 @@ Just wanted to say everything about this community is amazing, I'm lurking due t
 
 Eylon
 
-[Just wanted to say everything about this community is amazing, I'm lurking due to time issues at the moment, but I want to contribute more in the near future!](about:blank#)
+Just wanted to say everything about this community is amazing, I'm lurking due to time issues at the moment, but I want to contribute more in the near future!
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -6384,7 +6384,7 @@ r/nextfuckinglevel - KGB defector Yuri Bezmenov predicts word for w...
 
 liviade
 
-[feel free to use the TEC retrospective board! you can make a frame in one of its open spaces and label it so we can have the same board for multiple TEC uses :)](about:blank#)
+feel free to use the TEC retrospective board! you can make a frame in one of its open spaces and label it so we can have the same board for multiple TEC uses :)
 
 [https://miro.com/app/board/o9J_lYcRTik=/](https://miro.com/app/board/o9J_lYcRTik=/)
 
@@ -6436,7 +6436,7 @@ Tokenized volatility protocol ✨ Live on the Ethereum and Polygon mainnet now. 
 
 bierlingm.hc
 
-[Not sure whether this is the right channel and whether this type of post is appropriate here or not (feel free to tell me), but be aware that someone seems to be trying to impersonate @JessicaZartler on Telegram to scam people out of crypto  (edited)](about:blank#)
+Not sure whether this is the right channel and whether this type of post is appropriate here or not (feel free to tell me), but be aware that someone seems to be trying to impersonate @JessicaZartler on Telegram to scam people out of crypto  (edited)
 
 <h3>JessicaZartler <img src="https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png" width=25 height=25></h3>
 
@@ -6451,7 +6451,7 @@ Oh nooooo! That's def NOT me! Oy, thank you for letting me know @bierlingm.hc !!
 
 JessicaZartler
 
-[Oh nooooo! That's def NOT me! Oy, thank you for letting me know @bierlingm.hc !!! @Kris is there anything I can do to protect my account or do you know anyone that could help me recapture my telegram??   (edited)](about:blank#)
+Oh nooooo! That's def NOT me! Oy, thank you for letting me know @bierlingm.hc !!! @Kris is there anything I can do to protect my account or do you know anyone that could help me recapture my telegram??   (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
@@ -6483,7 +6483,7 @@ Thursday, 8pm CET
 
 JessicaZartler
 
-[Oh nooooo! That's def NOT me! Oy, thank you for letting me know @bierlingm.hc !!! @Kris is there anything I can do to protect my account or do you know anyone that could help me recapture my telegram??   (edited)](about:blank#)
+Oh nooooo! That's def NOT me! Oy, thank you for letting me know @bierlingm.hc !!! @Kris is there anything I can do to protect my account or do you know anyone that could help me recapture my telegram??   (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
@@ -6620,7 +6620,7 @@ I'm wondering, could we remove/shadow-ban impersonators from telegram?
 
 Vyvy-vi
 
-[I'm wondering, could we remove/shadow-ban impersonators from telegram?](about:blank#)
+I'm wondering, could we remove/shadow-ban impersonators from telegram?
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -6644,7 +6644,7 @@ What is the difference between TEC and commonsstack?
 
 NaN
 
-[What is the difference between TEC and commonsstack?](about:blank#)
+What is the difference between TEC and commonsstack?
 
 <h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
@@ -6725,7 +6725,7 @@ Hello everybody, I heard about this project from another channel. Any recommenda
 
 0xVoider
 
-[Hello everybody, I heard about this project from another channel. Any recommendations for me to catch up to what the project is up to? Thanks](about:blank#) 
+Hello everybody, I heard about this project from another channel. Any recommendations for me to catch up to what the project is up to? Thanks 
 
 ![https://cdn.discordapp.com/emojis/823193404422094848.png](https://cdn.discordapp.com/emojis/823193404422094848.png)
 
@@ -6794,7 +6794,7 @@ Here is why we need agreements
 
 anna-marie
 
-[Hey @New Member Next week I'm going to be looking at the TEC agreements (you can find them here in our handbook).](about:blank#)
+Hey @New Member Next week I'm going to be looking at the TEC agreements (you can find them here in our handbook).
 
 [https://token-engineering-commons.gitbook.io/tec-handbook/tec-agreements-1/why-do-we-need-agreements](https://token-engineering-commons.gitbook.io/tec-handbook/tec-agreements-1/why-do-we-need-agreements)
 
@@ -6968,7 +6968,7 @@ doink BOT 20-Aug-21 12:04 AM
 
 Tam2140
 
-[The Hatch Outreach working group is celebrating our very last session with a little party celebrating our successful Hatch. Please feel free to join us!](about:blank#)
+The Hatch Outreach working group is celebrating our very last session with a little party celebrating our successful Hatch. Please feel free to join us!
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -6991,7 +6991,7 @@ Have a fabulous weekend everybody!!
 
 anna-marie
 
-[Hey @New Member Next week I'm going to be looking at the TEC agreements (you can find them here in our handbook).](about:blank#)
+Hey @New Member Next week I'm going to be looking at the TEC agreements (you can find them here in our handbook).
 
 [https://token-engineering-commons.gitbook.io/tec-handbook/tec-agreements-1/why-do-we-need-agreements](https://token-engineering-commons.gitbook.io/tec-handbook/tec-agreements-1/why-do-we-need-agreements)
 
@@ -7023,7 +7023,7 @@ We're going to be bringing guest speakers into dOrg's bi-weekly community meetin
 
 anna-marie
 
-[Hey lovelies  We're going to be bringing guest speakers into dOrg's bi-weekly community meetings, much as we often do at our community calls here. Would a TEC @Stewards be up for being one of those guest speakers? They're on a Thursday and we'd bring you in at 7.10pm so that you'd be ready to speak at 7.15pm, doing a 'show and tell' for 10 mins and then having 5 mins for questions. I know it's a really short amount of time but I'd love for the TEC to come and talk to us - perhaps you could 'show and tell' the dashboard, or an aspect of voting. It would be great to keep it technically focused as we have so many devs and engineers. They're every other Thursday from next Thursday 2nd Sept - be great to book you in for one of them!  (edited)](about:blank#)
+Hey lovelies  We're going to be bringing guest speakers into dOrg's bi-weekly community meetings, much as we often do at our community calls here. Would a TEC @Stewards be up for being one of those guest speakers? They're on a Thursday and we'd bring you in at 7.10pm so that you'd be ready to speak at 7.15pm, doing a 'show and tell' for 10 mins and then having 5 mins for questions. I know it's a really short amount of time but I'd love for the TEC to come and talk to us - perhaps you could 'show and tell' the dashboard, or an aspect of voting. It would be great to keep it technically focused as we have so many devs and engineers. They're every other Thursday from next Thursday 2nd Sept - be great to book you in for one of them!  (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
 
@@ -7038,7 +7038,7 @@ this sounds amazing!
 
 anna-marie
 
-[Hey lovelies  We're going to be bringing guest speakers into dOrg's bi-weekly community meetings, much as we often do at our community calls here. Would a TEC @Stewards be up for being one of those guest speakers? They're on a Thursday and we'd bring you in at 7.10pm so that you'd be ready to speak at 7.15pm, doing a 'show and tell' for 10 mins and then having 5 mins for questions. I know it's a really short amount of time but I'd love for the TEC to come and talk to us - perhaps you could 'show and tell' the dashboard, or an aspect of voting. It would be great to keep it technically focused as we have so many devs and engineers. They're every other Thursday from next Thursday 2nd Sept - be great to book you in for one of them!  (edited)](about:blank#)
+Hey lovelies  We're going to be bringing guest speakers into dOrg's bi-weekly community meetings, much as we often do at our community calls here. Would a TEC @Stewards be up for being one of those guest speakers? They're on a Thursday and we'd bring you in at 7.10pm so that you'd be ready to speak at 7.15pm, doing a 'show and tell' for 10 mins and then having 5 mins for questions. I know it's a really short amount of time but I'd love for the TEC to come and talk to us - perhaps you could 'show and tell' the dashboard, or an aspect of voting. It would be great to keep it technically focused as we have so many devs and engineers. They're every other Thursday from next Thursday 2nd Sept - be great to book you in for one of them!  (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
 
@@ -7052,7 +7052,7 @@ i'd love to volunteer! this would be 7pm CET, right?
 
 chuygarcia.eth
 
-[i'd love to volunteer! this would be 7pm CET, right?](about:blank#)
+i'd love to volunteer! this would be 7pm CET, right?
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -7067,7 +7067,7 @@ Yes. You'd be welcome to join any time after 7pm CET and then at 7.15pm CET you'
 
 anna-marie
 
-[Whoop whoop! Thank you  Yes. You'd be welcome to join any time after 7pm CET and then at 7.15pm CET you'd have ten minutes for the show and tell, and then we have 5 mins for questions and close at 7.30pm. Would you be free on the 16th September?](about:blank#)
+Whoop whoop! Thank you  Yes. You'd be welcome to join any time after 7pm CET and then at 7.15pm CET you'd have ten minutes for the show and tell, and then we have 5 mins for questions and close at 7.30pm. Would you be free on the 16th September?
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -7084,7 +7084,7 @@ yes, i can make it on the 16th
 
 chuygarcia.eth
 
-[yes, i can make it on the 16th](about:blank#)
+yes, i can make it on the 16th
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -7233,7 +7233,7 @@ Thursday, 8pm CET
 
 Caeser (PST)
 
-[Hi everyone, just wrote something on DAO treasuries, and thought it might be useful (even though not applicable to TEC itself with conviction voting).](about:blank#)
+Hi everyone, just wrote something on DAO treasuries, and thought it might be useful (even though not applicable to TEC itself with conviction voting).
 
 [https://medium.com/@westrick/managing-dao-treasuries-190c5b0dffa9](https://medium.com/@westrick/managing-dao-treasuries-190c5b0dffa9)
 
@@ -7428,7 +7428,7 @@ Wednesday, 6pm CET
 
 Call Reminder
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>liquid <img src="https://cdn.discordapp.com/avatars/807647608940003348/220c519485721302bc6fa2c26915aa34.png" width=25 height=25></h3>
 
@@ -7473,7 +7473,7 @@ Hey Guys! Can I ask permission please? I'd like to ask two very skilled educator
 
 innov8tor3
 
-[Hey Guys! Can I ask permission please? I'd like to ask two very skilled educators to come into the TEC Discord community, and I'd do a quick video walkthrough tour beforehand, so they know why they want to come and look at what is - for them - new tech. I'm thinking TEC are publicising the server on Twitter, and then the channels are open once folk arrive at the server. So it should be okay, right? If they like the idea, and they like the idea of tokens as a means of greasing the wheels, we could have a whole new form of education. And I think Discord think this too. I can talk more, but waiting to see who will pick this up and explore with me. @anna-marie says maybe @Edu - TEC Steward. ? Thanks everyone!](about:blank#)
+Hey Guys! Can I ask permission please? I'd like to ask two very skilled educators to come into the TEC Discord community, and I'd do a quick video walkthrough tour beforehand, so they know why they want to come and look at what is - for them - new tech. I'm thinking TEC are publicising the server on Twitter, and then the channels are open once folk arrive at the server. So it should be okay, right? If they like the idea, and they like the idea of tokens as a means of greasing the wheels, we could have a whole new form of education. And I think Discord think this too. I can talk more, but waiting to see who will pick this up and explore with me. @anna-marie says maybe @Edu - TEC Steward. ? Thanks everyone!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -7563,7 +7563,7 @@ But I'm sure it's not the only source for scholarship or ethical intentions on t
 
 dahlberry
 
-[I've been looking for a place to learn more about crypto related mechanism design](about:blank#)
+I've been looking for a place to learn more about crypto related mechanism design
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -7659,7 +7659,7 @@ Because tokens don't engineer themselves!
 
 dahlberry
 
-[❤️](about:blank#)
+❤️
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -7740,7 +7740,7 @@ Got this message saying praise "will be" converted to tokens once #TECMNS hatche
 
 innov8tor3
 
-[Got this message saying praise "will be" converted to tokens once #TECMNS hatches. Am I right in understanding that this has now happened, and that therefore a change in status or message is imminent? Not sure which @Stewards to tag, apologies. Thanks!](about:blank#)
+Got this message saying praise "will be" converted to tokens once #TECMNS hatches. Am I right in understanding that this has now happened, and that therefore a change in status or message is imminent? Not sure which @Stewards to tag, apologies. Thanks!
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -7793,7 +7793,7 @@ thanks to you @Suga !!
 
 Suga
 
-[Thanks for the message, innov8tor3! Yes! That is a super great question, but I don’t have the exact particulars for the answer, so I will work with you to get more info! @liviade @Tam2140 @Zeptimus](about:blank#)
+Thanks for the message, innov8tor3! Yes! That is a super great question, but I don’t have the exact particulars for the answer, so I will work with you to get more info! @liviade @Tam2140 @Zeptimus
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -7805,7 +7805,7 @@ Thank you!
 
 Zeptimus
 
-[Actually, it will be converted to tokens after the commons upgrade probably the confusion was the praise bot text was written before the decision of launching in 2 phases for our legal strategy. That being said check out](about:blank#)
+Actually, it will be converted to tokens after the commons upgrade probably the confusion was the praise bot text was written before the decision of launching in 2 phases for our legal strategy. That being said check out
 
 [https://forum.tecommons.org/t/reward-system-moving-forward/570/6](https://forum.tecommons.org/t/reward-system-moving-forward/570/6)
 
@@ -7833,7 +7833,7 @@ Cool stuff!
 
 Suga
 
-[Thanks for the message, innov8tor3! Yes! That is a super great question, but I don’t have the exact particulars for the answer, so I will work with you to get more info! @liviade @Tam2140 @Zeptimus](about:blank#)
+Thanks for the message, innov8tor3! Yes! That is a super great question, but I don’t have the exact particulars for the answer, so I will work with you to get more info! @liviade @Tam2140 @Zeptimus
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -7874,7 +7874,7 @@ IMPOSTER
 
 mitch (🍔, 🍔)
 
-[that's something exactly a bot would say...](about:blank#)
+that's something exactly a bot would say...
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -7912,7 +7912,7 @@ _04-Sep-21 12:41 AM_:
 
 liviade
 
-[@innov8tor3 great call, we should update that praise message now. Every person who received praise up until 2 weeks prior to the hatch, (because there was a last quantification) and who activated their Trusted Seed membership before that deadline as well, will receive TEC tokens once the bonding curve is initiated. The praise dished after that period will be rewarded by the DAO once we are up and running after the Commons upgrade.](about:blank#)
+@innov8tor3 great call, we should update that praise message now. Every person who received praise up until 2 weeks prior to the hatch, (because there was a last quantification) and who activated their Trusted Seed membership before that deadline as well, will receive TEC tokens once the bonding curve is initiated. The praise dished after that period will be rewarded by the DAO once we are up and running after the Commons upgrade.
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -7939,7 +7939,7 @@ Can we talk about the onboarding channel? No commands seem to be doing anything 
 
 ALOYSIOUS
 
-[Can we talk about the onboarding channel? No commands seem to be doing anything and it's been like this for a while. Do we need it or need to change how it's being used?](about:blank#)
+Can we talk about the onboarding channel? No commands seem to be doing anything and it's been like this for a while. Do we need it or need to change how it's being used?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -8008,7 +8008,7 @@ Hi everyone! this little event is starting in less than 10 minutes, drop by if y
 
 gene
 
-[Is it acceptable to answer this  or meant for specific members?](about:blank#)
+Is it acceptable to answer this  or meant for specific members?
 
 ![https://twemoji.maxcdn.com/2/72x72/1f446.png](https://twemoji.maxcdn.com/2/72x72/1f446.png)
 
@@ -8024,7 +8024,7 @@ Hi @gene - it is for everyone & you can really help out the research group behin
 
 gene
 
-[Is it acceptable to answer this  or meant for specific members?](about:blank#)
+Is it acceptable to answer this  or meant for specific members?
 
 ![https://twemoji.maxcdn.com/2/72x72/1f446.png](https://twemoji.maxcdn.com/2/72x72/1f446.png)
 
@@ -8084,7 +8084,7 @@ _10-Sep-21 04:10 PM_:
 
 luigy 𝗹𝗲𝗺𝗼𝗻
 
-[What does TAO mean?](about:blank#)
+What does TAO mean?
 
 <h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
@@ -8123,7 +8123,7 @@ Hello guys
 
 MEHDI
 
-[Hello guys](about:blank#)
+Hello guys
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -8455,7 +8455,7 @@ yeaah! i wanna be in too
 
 anna-marie
 
-[Does anyone know if we have a 'Trusted Seed' BrightID group set up so that we can connect with each other? Happy to set it up if it's not already done](about:blank#) 
+Does anyone know if we have a 'Trusted Seed' BrightID group set up so that we can connect with each other? Happy to set it up if it's not already done 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f60d.png](https://twemoji.maxcdn.com/2/72x72/1f60d.png)
 
@@ -8471,7 +8471,7 @@ I'm talking about this in brightID welcome back @anna-marie Wanna link up soon?
 
 ALOYSIOUS
 
-[I'm talking about this in brightID welcome back @anna-marie Wanna link up soon?](about:blank#)
+I'm talking about this in brightID welcome back @anna-marie Wanna link up soon?
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -8603,7 +8603,7 @@ Twitter • 07-Sep-21 04:06 AM
 
 Adam Stallard
 
-[Ok so to make this BrightID seed group happen, we should make a group connection to each other (slider under my code). Then someone creates the groups and adds admins. Then we fill out this form. Seed nomination:](about:blank#)
+Ok so to make this BrightID seed group happen, we should make a group connection to each other (slider under my code). Then someone creates the groups and adds admins. Then we fill out this form. Seed nomination:
 
 [https://forms.gle/fCM9SRq8RmTCszjT6](https://forms.gle/fCM9SRq8RmTCszjT6)
 
@@ -8624,7 +8624,7 @@ Hey Adam. Maybe link up with @ALOYSIOUS ? I think they're trying to sort out the
 
 Adam Stallard
 
-[Ok so to make this BrightID seed group happen, we should make a group connection to each other (slider under my code). Then someone creates the groups and adds admins. Then we fill out this form. Seed nomination:](about:blank#)
+Ok so to make this BrightID seed group happen, we should make a group connection to each other (slider under my code). Then someone creates the groups and adds admins. Then we fill out this form. Seed nomination:
 
 [https://forms.gle/fCM9SRq8RmTCszjT6](https://forms.gle/fCM9SRq8RmTCszjT6)
 
@@ -8697,7 +8697,7 @@ Twitter • 22-Sep-21 11:49 AM
 
 Adam Stallard
 
-[Ok so to make this BrightID seed group happen, we should make a group connection to each other (slider under my code). Then someone creates the groups and adds admins. Then we fill out this form. Seed nomination:](about:blank#)
+Ok so to make this BrightID seed group happen, we should make a group connection to each other (slider under my code). Then someone creates the groups and adds admins. Then we fill out this form. Seed nomination:
 
 [https://forms.gle/fCM9SRq8RmTCszjT6](https://forms.gle/fCM9SRq8RmTCszjT6)
 
@@ -8717,7 +8717,7 @@ how do i connect with you? I can only find messages in bot channels lol
 
 Adam Stallard
 
-[Ok so to make this BrightID seed group happen, we should make a group connection to each other (slider under my code). Then someone creates the groups and adds admins. Then we fill out this form. Seed nomination:](about:blank#)
+Ok so to make this BrightID seed group happen, we should make a group connection to each other (slider under my code). Then someone creates the groups and adds admins. Then we fill out this form. Seed nomination:
 
 [https://forms.gle/fCM9SRq8RmTCszjT6](https://forms.gle/fCM9SRq8RmTCszjT6)
 
@@ -8737,7 +8737,7 @@ I'm definitely up for this. Already a trusted seed and brightid verified AND a g
 
 ALOYSIOUS
 
-[Ha this is great. @griff (💜, 💜) I imagine knows who the admins are For that part of the form. I haven't had a chance to speak with anyone there in realtime I'm curious about learning more about nodes and the cyber security aspect of it too. I'm happy to lend a hand in any way with doing some things with trusted seeds and brightID. I'd like to get sourcecred listed as a place that can authenticate too. I say fill out the form! I was going to scoop this under my wing but I'm just whittling along. I'm heading in to learn as much as I can about them I have questions beyond what the end product can do.](about:blank#)
+Ha this is great. @griff (💜, 💜) I imagine knows who the admins are For that part of the form. I haven't had a chance to speak with anyone there in realtime I'm curious about learning more about nodes and the cyber security aspect of it too. I'm happy to lend a hand in any way with doing some things with trusted seeds and brightID. I'd like to get sourcecred listed as a place that can authenticate too. I say fill out the form! I was going to scoop this under my wing but I'm just whittling along. I'm heading in to learn as much as I can about them I have questions beyond what the end product can do.
 
 <h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
@@ -8749,7 +8749,7 @@ I like this idea. I will follow Adam's initial steps above. Pacific daytime good
 
 ALOYSIOUS
 
-[how do i connect with you? I can only find messages in bot channels lol](about:blank#)
+how do i connect with you? I can only find messages in bot channels lol
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -8769,7 +8769,7 @@ I think Adam Stallard isn't in our discord server. Those messages are bridged fr
 
 Vyvy-vi
 
-[I think Adam Stallard isn't in our discord server. Those messages are bridged from telegram by a webhook. You could contact them on telegram - castall (C. Adam Stallard) Or, you can use their discord handle and DM them - Adam Stallard#5971 (you should be able to send them DMs, since they're in the CommonsStack discord server)  (edited)](about:blank#)
+I think Adam Stallard isn't in our discord server. Those messages are bridged from telegram by a webhook. You could contact them on telegram - castall (C. Adam Stallard) Or, you can use their discord handle and DM them - Adam Stallard#5971 (you should be able to send them DMs, since they're in the CommonsStack discord server)  (edited)
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -8782,7 +8782,7 @@ Thank you!!
 
 David D. | TEC
 
-[I like this idea. I will follow Adam's initial steps above. Pacific daytime good for me too.  (edited)](about:blank#)
+I like this idea. I will follow Adam's initial steps above. Pacific daytime good for me too.  (edited)
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -8820,7 +8820,7 @@ looks like community call is full
 
 nic
 
-[looks like community call is full   (edited)](about:blank#)
+looks like community call is full   (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f605.png](https://twemoji.maxcdn.com/2/72x72/1f605.png)
 
@@ -8838,7 +8838,7 @@ Starting tomorrow 24th sept and ending on monday 27th sept! Vote on snapshot to 
 
 anna-marie
 
-[I'm up for joining a call if it ends up being between 10am and 8pm CET. But cool it not  I'm guessing we don't need me to set up a Trusted Seed group if this is being set up?](about:blank#)
+I'm up for joining a call if it ends up being between 10am and 8pm CET. But cool it not  I'm guessing we don't need me to set up a Trusted Seed group if this is being set up?
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -8872,7 +8872,7 @@ The last calendar event with Trusted Seed in it was early August. I'm a new trus
 
 ryeder (they/them)
 
-[I would like to know about a Trusted Seed  group if there is one. Searching the discord now for hints](about:blank#) 
+I would like to know about a Trusted Seed  group if there is one. Searching the discord now for hints 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f331.png](https://twemoji.maxcdn.com/2/72x72/1f331.png)
 
@@ -8951,7 +8951,7 @@ Friday, 5pm CET
 
 ryeder (they/them)
 
-[The last calendar event with Trusted Seed in it was early August. I'm a new trusted seed and I'm looking for somewhere to meet others and also be able to ask questions](about:blank#)
+The last calendar event with Trusted Seed in it was early August. I'm a new trusted seed and I'm looking for somewhere to meet others and also be able to ask questions
 
 <h3>Yineisy Mota <img src="https://cdn.discordapp.com/avatars/869989877960298536/2d19ec6c82aec9e8454392c2fe40b54b.png" width=25 height=25></h3>
 
@@ -8977,7 +8977,7 @@ Hello @everyone! I just want to remind you to participate this weekend in the 75
 
 JuankBell
 
-[Hello @everyone! I just want to remind you to participate this weekend in the 75% governance giveback vote on snapshot!](about:blank#)
+Hello @everyone! I just want to remind you to participate this weekend in the 75% governance giveback vote on snapshot!
 
 [https://snapshot.org/#/tecommons.eth](https://snapshot.org/#/tecommons.eth)
 
@@ -9009,7 +9009,7 @@ Twitter • 24-Sep-21 11:54 PM
 
 anna-marie
 
-[I'm up for joining a call if it ends up being between 10am and 8pm CET. But cool it not  I'm guessing we don't need me to set up a Trusted Seed group if this is being set up?](about:blank#)
+I'm up for joining a call if it ends up being between 10am and 8pm CET. But cool it not  I'm guessing we don't need me to set up a Trusted Seed group if this is being set up?
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -9023,7 +9023,7 @@ Just wondering, do we have a curated library? So when a noob like me says, what 
 
 innov8tor3
 
-[Just wondering, do we have a curated library? So when a noob like me says, what is a definition for a Trusted Seed, then some simple reading can get noobs up to speed alongside the AMA sessions. Empowering the community to self serve / self educate will free up time to work on other community matters, I suggest. Other DAOs use Notion, for example, which has fantastic nesting and media capabilities, and can be a superb knowledge store if curated and structured properly ...](about:blank#)
+Just wondering, do we have a curated library? So when a noob like me says, what is a definition for a Trusted Seed, then some simple reading can get noobs up to speed alongside the AMA sessions. Empowering the community to self serve / self educate will free up time to work on other community matters, I suggest. Other DAOs use Notion, for example, which has fantastic nesting and media capabilities, and can be a superb knowledge store if curated and structured properly ...
 
 <h3>Caeser (PST) <img src="https://cdn.discordapp.com/avatars/532764098107146252/6c652f3d6ba6ab1fd1a349fa8300332b.png" width=25 height=25></h3>
 
@@ -9065,7 +9065,7 @@ hey @everyone just to let you know. The TE Book Club will be finishing the last 
 
 Suga
 
-[TEC Handbook](about:blank#)
+TEC Handbook
 
 [https://token-engineering-commons.gitbook.io/tec-handbook/](https://token-engineering-commons.gitbook.io/tec-handbook/)
 
@@ -9085,7 +9085,7 @@ Seeing Like a State by James C Scott would be a good consideration for the book 
 
 innov8tor3
 
-[Thanks! And interesting! I was apparently seeking the same place from two different directions!](about:blank#)
+Thanks! And interesting! I was apparently seeking the same place from two different directions!
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -9108,7 +9108,7 @@ _25-Sep-21 08:26 AM_:
 
 Caeser (PST)
 
-[@liviade can we share a link a to the gitbook?](about:blank#)
+@liviade can we share a link a to the gitbook?
 
 <h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
@@ -9241,7 +9241,7 @@ Hello TEC. Had a morning chat with @kristofer and I am looking forward to doing 
 
 Striker
 
-[Hello TEC. Had a morning chat with @kristofer and I am looking forward to doing some frontend work on the Praise system. Have a great day](about:blank#) 
+Hello TEC. Had a morning chat with @kristofer and I am looking forward to doing some frontend work on the Praise system. Have a great day 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f919.png](https://twemoji.maxcdn.com/2/72x72/1f919.png)
 
@@ -9326,7 +9326,7 @@ Hey Paul, in general think it’s a great to explore DAO to DAO governance and o
 
 DecentralizeSDGs
 
-[Hey Paul, in general think it’s a great to explore DAO to DAO governance and optimal token designs. My view would be to focus on technical and policy parameters for creating a configurable DAO-DAO ecosystem. Thinking in the vein of a TEC vision for a better Aragon and similar progeny that brings in best practices of token engineering and social impact.](about:blank#)
+Hey Paul, in general think it’s a great to explore DAO to DAO governance and optimal token designs. My view would be to focus on technical and policy parameters for creating a configurable DAO-DAO ecosystem. Thinking in the vein of a TEC vision for a better Aragon and similar progeny that brings in best practices of token engineering and social impact.
 
 <h3>Paul Haas <img src="https://cdn.discordapp.com/avatars/595513452542558239/ef2a6d04d49d3430224ef3334874a698.png" width=25 height=25></h3>
 
@@ -9389,7 +9389,7 @@ _30-Sep-21 12:59 PM_:
 
 Rohekbenitez
 
-[@Tam2140 To be on board as a designer , should I do something special?](about:blank#)
+@Tam2140 To be on board as a designer , should I do something special?
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -9409,7 +9409,7 @@ What @chuygarcia.eth said
 
 Tam2140
 
-[@Rohekbenitez Very glad you're here and interested in the TEC. Look forward to future collaborations together!](about:blank#)
+@Rohekbenitez Very glad you're here and interested in the TEC. Look forward to future collaborations together!
 
 ![https://cdn.discordapp.com/avatars/766413634607775774/a_814e4777b063a67c0fb225bbd2455cef.gif](https://cdn.discordapp.com/avatars/766413634607775774/a_814e4777b063a67c0fb225bbd2455cef.gif)
 
@@ -9444,7 +9444,7 @@ hello we can't get into the community call
 
 nic
 
-[hello we can't get into the community call](about:blank#) 
+hello we can't get into the community call 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f626.png](https://twemoji.maxcdn.com/2/72x72/1f626.png)
 
@@ -9469,7 +9469,7 @@ nonviolent-communication-a-language-of-life-marshall-b-rosenberg-.pdf
 
 nic
 
-[hello we can't get into the community call](about:blank#) 
+hello we can't get into the community call 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f626.png](https://twemoji.maxcdn.com/2/72x72/1f626.png)
 
@@ -9484,7 +9484,7 @@ _30-Sep-21 02:54 PM_:
 
 chuygarcia.eth
 
-[@Tam2140 now that we're revising the community call structure it might be a good idea to move it to a stage channel, where @Stewards could be able to take the stage so more new members can fit in the room](about:blank#)
+@Tam2140 now that we're revising the community call structure it might be a good idea to move it to a stage channel, where @Stewards could be able to take the stage so more new members can fit in the room
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -9504,7 +9504,7 @@ one of the limitations might be screen sharing but vyvy will probably know how t
 
 chuygarcia.eth
 
-[one of the limitations might be screen sharing but vyvy will probably know how to get around it](about:blank#) 
+one of the limitations might be screen sharing but vyvy will probably know how to get around it 
 
 ![https://cdn.discordapp.com/emojis/720324878825422889.png](https://cdn.discordapp.com/emojis/720324878825422889.png)
 
@@ -9522,7 +9522,7 @@ Project Management and Software Development with GitHub | ZenHub
 
 chuygarcia.eth
 
-[one of the limitations might be screen sharing but vyvy will probably know how to get around it](about:blank#) 
+one of the limitations might be screen sharing but vyvy will probably know how to get around it 
 
 ![https://cdn.discordapp.com/emojis/720324878825422889.png](https://cdn.discordapp.com/emojis/720324878825422889.png)
 
@@ -9566,7 +9566,7 @@ if anybody would like an example there's an Agave AMA happening right now in the
 
 chuygarcia.eth
 
-[if anybody would like an example there's an Agave AMA happening right now in their server and they use a stage channel:](about:blank#)
+if anybody would like an example there's an Agave AMA happening right now in their server and they use a stage channel:
 
 [https://discord.gg/gjkuAqEX](https://discord.gg/gjkuAqEX)
 
@@ -9580,7 +9580,7 @@ Joined to experience what Discord's Stage is. Very Clubhouse or Twitter Spaces. 
 
 Tam2140
 
-[Joined to experience what Discord's Stage is. Very Clubhouse or Twitter Spaces. Does anyone happen to know whether screen share works for the "stage" folk? I'm not seeing it on the Agave call right now. Is it audio only?](about:blank#)
+Joined to experience what Discord's Stage is. Very Clubhouse or Twitter Spaces. Does anyone happen to know whether screen share works for the "stage" folk? I'm not seeing it on the Agave call right now. Is it audio only?
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -9594,7 +9594,7 @@ You can send invites to people not in attendance without having to navigate arou
 
 chuygarcia.eth
 
-[@Tam2140 now that we're revising the community call structure it might be a good idea to move it to a stage channel, where @Stewards could be able to take the stage so more new members can fit in the room](about:blank#)
+@Tam2140 now that we're revising the community call structure it might be a good idea to move it to a stage channel, where @Stewards could be able to take the stage so more new members can fit in the room
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -9608,7 +9608,7 @@ We would have to shift the community call to another platform
 
 Vyvy-vi
 
-[The issue with Discord Stages is that it's audio only :(](about:blank#)
+The issue with Discord Stages is that it's audio only :(
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -9644,7 +9644,7 @@ Is it common practice to dm discord members here?
 
 poopster
 
-[Is it common practice to dm discord members here?](about:blank#)
+Is it common practice to dm discord members here?
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -9671,7 +9671,7 @@ _02-Oct-21 03:06 PM_:
 
 Mount Manu
 
-[No, this is a special case in that I'm doing user testing  If you don't like anonymous people messaging you I suggest you edit your settings so that you can only be messaged by friends](about:blank#) 
+No, this is a special case in that I'm doing user testing  If you don't like anonymous people messaging you I suggest you edit your settings so that you can only be messaged by friends 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f917.png](https://twemoji.maxcdn.com/2/72x72/1f917.png)
 
@@ -9691,7 +9691,7 @@ i would suggest letting community members here know that you plan to reach out v
 
 poopster
 
-[i would suggest letting community members here know that you plan to reach out via direct message before you contact them to be safe](about:blank#)
+i would suggest letting community members here know that you plan to reach out via direct message before you contact them to be safe
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -9710,7 +9710,7 @@ I thought about that but I feel an @.everyone message would annoy users as well
 
 poopster
 
-[i would suggest letting community members here know that you plan to reach out via direct message before you contact them to be safe](about:blank#)
+i would suggest letting community members here know that you plan to reach out via direct message before you contact them to be safe
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9722,7 +9722,7 @@ Thank you for your Feedback! We will incorporate it on our next Communitas Worki
 
 Mount Manu
 
-[I thought about that but I feel an @.everyone message would annoy users as well  ... might reconsider and do it. Thanks for the input, I'm always looking for ways to improve my outreach](about:blank#) 
+I thought about that but I feel an @.everyone message would annoy users as well  ... might reconsider and do it. Thanks for the input, I'm always looking for ways to improve my outreach 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f914.png](https://twemoji.maxcdn.com/2/72x72/1f914.png)
 
@@ -9772,7 +9772,7 @@ More of a random question, I wanted to know how to build better NGO's using dece
 
 doink
 
-[More of a random question, I wanted to know how to build better NGO's using decentralized cryptocoins, is it possible to practically work?](about:blank#)
+More of a random question, I wanted to know how to build better NGO's using decentralized cryptocoins, is it possible to practically work?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9830,7 +9830,7 @@ Thank you for sharing! Can I ask if you have seen of this leaving example in oth
 
 Edu - TEC Steward.
 
-[Thank you for sharing! Can I ask if you have seen of this leaving example in other organizations/DAOs?](about:blank#)
+Thank you for sharing! Can I ask if you have seen of this leaving example in other organizations/DAOs?
 
 <h3>Caeser (PST) <img src="https://cdn.discordapp.com/avatars/532764098107146252/6c652f3d6ba6ab1fd1a349fa8300332b.png" width=25 height=25></h3>
 
@@ -9842,7 +9842,7 @@ Not that I am aware of. Although I am not the first person to offer this viewpoi
 
 Caeser (PST)
 
-[Not that I am aware of. Although I am not the first person to offer this viewpoint. In fact, if anything, a number of the largest DAOs are frankly best known for their leadership.](about:blank#)
+Not that I am aware of. Although I am not the first person to offer this viewpoint. In fact, if anything, a number of the largest DAOs are frankly best known for their leadership.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9862,7 +9862,7 @@ A Roadmap item could include a "road to self-sustainability" or similar
 
 siebold_magnolia
 
-[A Roadmap item could include a "road to self-sustainability" or similar](about:blank#)
+A Roadmap item could include a "road to self-sustainability" or similar
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9874,7 +9874,7 @@ This is a concept that should be explored more, like, how leadership can actuall
 
 Edu - TEC Steward.
 
-[What interests me is, when is the right moment to leave the DAO? Like, what mechanisms do we have to measure at what point that's a good decision?](about:blank#)
+What interests me is, when is the right moment to leave the DAO? Like, what mechanisms do we have to measure at what point that's a good decision?
 
 <h3>Caeser (PST) <img src="https://cdn.discordapp.com/avatars/532764098107146252/6c652f3d6ba6ab1fd1a349fa8300332b.png" width=25 height=25></h3>
 
@@ -9886,7 +9886,7 @@ The hardest part of being in uncharted water is just asking the question. Once w
 
 Edu - TEC Steward.
 
-[This is a concept that should be explored more, like, how leadership can actually block self-sustainability](about:blank#)
+This is a concept that should be explored more, like, how leadership can actually block self-sustainability
 
 <h3>Caeser (PST) <img src="https://cdn.discordapp.com/avatars/532764098107146252/6c652f3d6ba6ab1fd1a349fa8300332b.png" width=25 height=25></h3>
 
@@ -9967,7 +9967,7 @@ Whats the best way for a newb to get up to date with the technical challenges th
 
 siebold_magnolia
 
-[Oh an interesting project here, I wonder how many of these will iterate before the balance of social-blockchain is struck by some major project](about:blank#)
+Oh an interesting project here, I wonder how many of these will iterate before the balance of social-blockchain is struck by some major project
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10044,7 +10044,7 @@ I contributed with a server improvement with nitro, greetings to all here
 
 cider
 
-[Whats the best way for a newb to get up to date with the technical challenges that DEX and AMM developers are tackling?](about:blank#)
+Whats the best way for a newb to get up to date with the technical challenges that DEX and AMM developers are tackling?
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -10056,7 +10056,7 @@ Probably by engaging in a decentralized community that maintains a DEX or AMM. 1
 
 Broodsugar
 
-[Are there any famous cases of apps selling tokenized assets straight through Apple's app store APIs?](about:blank#)
+Are there any famous cases of apps selling tokenized assets straight through Apple's app store APIs?
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -10068,7 +10068,7 @@ I think I've heard of some apps getting blocked for being associated with tokens
 
 Call Reminder
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>MS <img src="https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png" width=25 height=25></h3>
 
@@ -10081,7 +10081,7 @@ Really enjoyed the orientation call today!
 
 MS
 
-[Really enjoyed the orientation call today!](about:blank#)
+Really enjoyed the orientation call today!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10100,7 +10100,7 @@ Hello all. Does anyone know of a good solution for building an internal eth wall
 
 galactictourist
 
-[Hello all. Does anyone know of a good solution for building an internal eth wallet into an app. This is mainly so newbies won't need to understand crypto off the bat, sort of like what NBA Topshots did. Would an open source solution be better than a 3rd party integration or vice versa? Also if this is the wrong channel for this let me know and also if you know of another discord group that might be more appropriate for this sort of question please let me know. thanks.](about:blank#)
+Hello all. Does anyone know of a good solution for building an internal eth wallet into an app. This is mainly so newbies won't need to understand crypto off the bat, sort of like what NBA Topshots did. Would an open source solution be better than a 3rd party integration or vice versa? Also if this is the wrong channel for this let me know and also if you know of another discord group that might be more appropriate for this sort of question please let me know. thanks.
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -10146,7 +10146,7 @@ Follow the instructions at the top of the repo to get started: [https://github.c
 
 Rohekbenitez
 
-[good afternoon  I contributed with a server improvement with nitro, greetings to all here](about:blank#)  
+good afternoon  I contributed with a server improvement with nitro, greetings to all here  
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -10191,7 +10191,7 @@ WHAT’S IN A TOKEN? 7th Oct 2021 7 PM CET → Join via Zoom, add to Calendar SY
 
 solsista
 
-[hello everyone! It's that Thursday again: 7PM CET A Hitchhiker's guide to Token Engineering, this time we'll synch on "What's in a Token?" what concrete values have been encoded into smart contracts used in funding projects, DeFi, NFTs](about:blank#)
+hello everyone! It's that Thursday again: 7PM CET A Hitchhiker's guide to Token Engineering, this time we'll synch on "What's in a Token?" what concrete values have been encoded into smart contracts used in funding projects, DeFi, NFTs
 
 [https://docs.google.com/presentation/d/1lTC8z7KeUJKVLm4j2EejegKJdHjYZTF8GPQaaRNiq0Q/edit#slide=id.gf5a3f03f89_0_0](https://docs.google.com/presentation/d/1lTC8z7KeUJKVLm4j2EejegKJdHjYZTF8GPQaaRNiq0Q/edit#slide=id.gf5a3f03f89_0_0)
 
@@ -10207,7 +10207,7 @@ _07-Oct-21 06:49 AM_:
 
 Edu - TEC Steward.
 
-[Oh wao! Thank you so much for that!](about:blank#) 
+Oh wao! Thank you so much for that! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
 
@@ -10223,7 +10223,7 @@ it's my grain of sand, greetings, don't forget to have a nice cup of coffee
 
 Rohekbenitez
 
-[good afternoon  I contributed with a server improvement with nitro, greetings to all here](about:blank#)  
+good afternoon  I contributed with a server improvement with nitro, greetings to all here  
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -10254,7 +10254,7 @@ Thank you @Rohekbenitez ... looping in @Vyvy-vi on this news as the person who w
 
 Tam2140
 
-[Thank you @Rohekbenitez ... looping in @Vyvy-vi on this news as the person who will know how we most benefit.](about:blank#)   
+Thank you @Rohekbenitez ... looping in @Vyvy-vi on this news as the person who will know how we most benefit.   
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
@@ -10276,7 +10276,7 @@ Rohekbenitez 07-Oct-21 11:54 AM
 
 Rohekbenitez
 
-[good afternoon  I contributed with a server improvement with nitro, greetings to all here](about:blank#)  
+good afternoon  I contributed with a server improvement with nitro, greetings to all here  
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -10298,7 +10298,7 @@ We've got level-2 nitro perks!
 
 Vyvy-vi
 
-[Thank you so much!](about:blank#)
+Thank you so much!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10331,7 +10331,7 @@ is it me or this call sounds so nice and sharp?
 
 Vyvy-vi
 
-[We've got level-2 nitro perks!](about:blank#)
+We've got level-2 nitro perks!
 
 ![https://cdn.discordapp.com/avatars/766413634607775774/a_814e4777b063a67c0fb225bbd2455cef.gif](https://cdn.discordapp.com/avatars/766413634607775774/a_814e4777b063a67c0fb225bbd2455cef.gif)
 
@@ -10438,7 +10438,7 @@ hey i joined in the hatch-got some tech tokens, yet have to involve more in the 
 
 Lin
 
-[hey i joined in the hatch-got some tech tokens, yet have to involve more in the community. would love to give some feedback later, im adding u as friend for dms @Mount Manu  (edited)](about:blank#)
+hey i joined in the hatch-got some tech tokens, yet have to involve more in the community. would love to give some feedback later, im adding u as friend for dms @Mount Manu  (edited)
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -10466,7 +10466,7 @@ Excited for another awesome week of meetings and conversations with everyone
 
 MS
 
-[Excited for another awesome week of meetings and conversations with everyone](about:blank#) 
+Excited for another awesome week of meetings and conversations with everyone 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f60e.png](https://twemoji.maxcdn.com/2/72x72/1f60e.png)
 
@@ -10508,7 +10508,7 @@ I would like to know how many tokens I should mint, at what price, etc etc.
 
 vikram
 
-[Just a FYI for folks that can make the times for the weekly book club. All info regarding it will be posted in this pinned thread at the top of the #🎫｜general channel @here. Saying that, book club will be on in 4.5 hours from this post. Times are mentioned in the thread.  (edited)](about:blank#)
+Just a FYI for folks that can make the times for the weekly book club. All info regarding it will be posted in this pinned thread at the top of the #🎫｜general channel @here. Saying that, book club will be on in 4.5 hours from this post. Times are mentioned in the thread.  (edited)
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -10543,7 +10543,7 @@ Wednesday, 6pm CET
 
 Tam2140
 
-[@vikram @Mettodo This look ok for book club graphic? I made some small tweaks to the version @acidlazzer made. Is there a better way to say the Asian based time zones that AEDT?? Would it be better to use another one?](about:blank#)
+@vikram @Mettodo This look ok for book club graphic? I made some small tweaks to the version @acidlazzer made. Is there a better way to say the Asian based time zones that AEDT?? Would it be better to use another one?
 
 <h3>vikram <img src="https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png" width=25 height=25></h3>
 
@@ -10595,7 +10595,7 @@ Supply chain resilience, interesting to see whether more local 3D Printing can b
 
 innov8tor3
 
-[!praise @ALOYSIOUS they are so good at guiding my stumblings!](about:blank#)
+!praise @ALOYSIOUS they are so good at guiding my stumblings!
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -10681,7 +10681,7 @@ Friday, 5pm CET
 
 ALOYSIOUS
 
-[@Kris is this your doing?](about:blank#)
+@Kris is this your doing?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10693,7 +10693,7 @@ that's an interesting warning hahaha, probably something was mispelled?
 
 maxgrok
 
-[Anyone going to ETHLisbon? /Lisbon Blockchain week? Long time lurker in the channels looking to learn more and meet token engineering folks irl! Hmu](about:blank#)
+Anyone going to ETHLisbon? /Lisbon Blockchain week? Long time lurker in the channels looking to learn more and meet token engineering folks irl! Hmu
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10719,7 +10719,7 @@ hey kris!! param party right now!
 
 Zeptimus
 
-[hey kris!! param party right now!](about:blank#)
+hey kris!! param party right now!
 
 <h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
@@ -10737,7 +10737,7 @@ Can I still get poap? Thank you
 
 Etherscanart.nft
 
-[Can I still get poap? Thank you](about:blank#)
+Can I still get poap? Thank you
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10778,7 +10778,7 @@ Happy Sunday everybody
 
 anna-marie
 
-[Hey lovelies  Just saying hi! I pop on to the server from time to time to see how it's all going and see how busy you are! It's brilliant. I'm super busy with my two paid roles, which I'm loving, but I know we'll keep running into each other](about:blank#) 
+Hey lovelies  Just saying hi! I pop on to the server from time to time to see how it's all going and see how busy you are! It's brilliant. I'm super busy with my two paid roles, which I'm loving, but I know we'll keep running into each other 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
 
@@ -10795,7 +10795,7 @@ So nice to see you! I am glad you are loving it! We are missing you a lot in Com
 
 David D. | TEC
 
-[Happy Sunday everybody](about:blank#)
+Happy Sunday everybody
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10878,7 +10878,7 @@ That is great news :)
 
 durgadas
 
-[Taking a break from TEC to focus on my yoga center opening](about:blank#)
+Taking a break from TEC to focus on my yoga center opening
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10949,7 +10949,7 @@ Yeahh
 
 Edu - TEC Steward.
 
-[Hello @New Member, we will have our weekly orientation call, TODAY Wednesday at 6PM CET - 9 AM PST, on our Community Hall voice channel, we look forward to welcome and guide you through our organization!   (edited)](about:blank#)
+Hello @New Member, we will have our weekly orientation call, TODAY Wednesday at 6PM CET - 9 AM PST, on our Community Hall voice channel, we look forward to welcome and guide you through our organization!   (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -10963,7 +10963,7 @@ is the call on discord?
 
 Metaversive
 
-[is the call on discord?](about:blank#)
+is the call on discord?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10987,7 +10987,7 @@ Don't miss it guys
 
 Edu - TEC Steward.
 
-[Hello @New Member, we will have our weekly orientation call, TODAY Wednesday at 6PM CET - 9 AM PST, on our Community Hall voice channel, we look forward to welcome and guide you through our organization!   (edited)](about:blank#)
+Hello @New Member, we will have our weekly orientation call, TODAY Wednesday at 6PM CET - 9 AM PST, on our Community Hall voice channel, we look forward to welcome and guide you through our organization!   (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -11175,7 +11175,7 @@ About
 
 Edu - TEC Steward.
 
-[@New Member TEC Lounge is about to start! Join a conversation, meet members of our community or share how was your week! We will be at the Community Hall voice channel for the next hour!](about:blank#)
+@New Member TEC Lounge is about to start! Join a conversation, meet members of our community or share how was your week! We will be at the Community Hall voice channel for the next hour!
 
 <h3>bfa <img src="https://cdn.discordapp.com/avatars/371606921733603329/23b91976fa83f5f1609c897302077b9b.png" width=25 height=25></h3>
 
@@ -11196,7 +11196,7 @@ Hey TEC folk, I have a question please. If I don't claim my POAP - through techn
 
 innov8tor3
 
-[Hey TEC folk, I have a question please. If I don't claim my POAP - through technical ignorance - from attending Graviton Training Series 2 sessions, do I lose it, and therefore the chance to be classified as a Graviton? Thanks!  (edited)](about:blank#)
+Hey TEC folk, I have a question please. If I don't claim my POAP - through technical ignorance - from attending Graviton Training Series 2 sessions, do I lose it, and therefore the chance to be classified as a Graviton? Thanks!  (edited)
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11209,7 +11209,7 @@ I think the qualified person to answer this is @Juankbell!
 
 bfa
 
-[Missed this ‍♂️?](about:blank#)
+Missed this ‍♂️?
 
 ![https://twemoji.maxcdn.com/2/72x72/1f926.png](https://twemoji.maxcdn.com/2/72x72/1f926.png)
 
@@ -11229,7 +11229,7 @@ gm* (edited)
 
 Edu - TEC Steward.
 
-[Oh sorry! We have it every week! 5PM CET! Join us next session!](about:blank#)
+Oh sorry! We have it every week! 5PM CET! Join us next session!
 
 <h3>bfa <img src="https://cdn.discordapp.com/avatars/371606921733603329/23b91976fa83f5f1609c897302077b9b.png" width=25 height=25></h3>
 
@@ -11269,7 +11269,7 @@ Yes simplify the economics, but "make it flow" somehow, anyhow...that's how you 
 
 Edu - TEC Steward.
 
-[I think the qualified person to answer this is @Juankbell!](about:blank#) 
+I think the qualified person to answer this is @Juankbell! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -11283,7 +11283,7 @@ Thanks Eduardo. I notice you tagged Juan, but that folk don't tag so frequently 
 
 Javi | jgonz.eth
 
-[Yeah in some sense I am leaning towards simplifying the tokenomics and then building governance tools for things like distribution, vesting, etc. I go back and forth on this though](about:blank#)
+Yeah in some sense I am leaning towards simplifying the tokenomics and then building governance tools for things like distribution, vesting, etc. I go back and forth on this though
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11301,7 +11301,7 @@ Advancing the field of token engineering in a regenerative way. Stewarding the c
 
 Javi | jgonz.eth
 
-[Hey all, I am so interested in this space. I am much less into the academic and steeped in praxis as a software developer. In web2 we were told to move fast and break things, but this is obviously suboptimal for the web 3 world. I have been approached by a few people to help define their tokenomic model for a DAO and am working on making that process streamlined and productized. Obviously there is a lot in common with what commons stack is trying to do. Is there a place where I could reference an implementation of the augmented bonding curve model, or is it still in the theoretical phase? Sorry for my ignorance. I am trying to orient myself as well as I can in your platform, and signed up to the governauts course next month.](about:blank#)
+Hey all, I am so interested in this space. I am much less into the academic and steeped in praxis as a software developer. In web2 we were told to move fast and break things, but this is obviously suboptimal for the web 3 world. I have been approached by a few people to help define their tokenomic model for a DAO and am working on making that process streamlined and productized. Obviously there is a lot in common with what commons stack is trying to do. Is there a place where I could reference an implementation of the augmented bonding curve model, or is it still in the theoretical phase? Sorry for my ignorance. I am trying to orient myself as well as I can in your platform, and signed up to the governauts course next month.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11313,7 +11313,7 @@ And if you are interested on bonding curve and so on, we are currently on the Pa
 
 Edu - TEC Steward.
 
-[And if you are interested on bonding curve and so on, we are currently on the Parameters working group, working on the parameters of our bonding curve, you can also join their calls, to learn on the spot!](about:blank#)
+And if you are interested on bonding curve and so on, we are currently on the Parameters working group, working on the parameters of our bonding curve, you can also join their calls, to learn on the spot!
 
 <h3>Javi | jgonz.eth <img src="https://cdn.discordapp.com/avatars/575099071858081822/5ec1d5cc2da20f26edce4a9c21320734.png" width=25 height=25></h3>
 
@@ -11325,7 +11325,7 @@ Thank you for the reply and the pointing to the right working groups. Will try t
 
 Javi | jgonz.eth
 
-[Thank you for the reply and the pointing to the right working groups. Will try to make the orientation and the Omega working group to see where I am able to contribute.](about:blank#)
+Thank you for the reply and the pointing to the right working groups. Will try to make the orientation and the Omega working group to see where I am able to contribute.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11337,7 +11337,7 @@ No problem! Don't hesitate to reach out in case you have questions!
 
 innov8tor3
 
-[Thanks Eduardo. I notice you tagged Juan, but that folk don't tag so frequently in Discord, unlike in FB where it's needed to hear the signal from the noise. Am I best sending him a DM, or is the issue that everyone is just incredibly busy? Or do some folk work weekdays only and not weekends? (And I fully respect that, I'm similar, but I can poach some time early mornings!)](about:blank#)
+Thanks Eduardo. I notice you tagged Juan, but that folk don't tag so frequently in Discord, unlike in FB where it's needed to hear the signal from the noise. Am I best sending him a DM, or is the issue that everyone is just incredibly busy? Or do some folk work weekdays only and not weekends? (And I fully respect that, I'm similar, but I can poach some time early mornings!)
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11398,7 +11398,7 @@ where to get poap?
 
 StillnefWoT
 
-[where to get poap?](about:blank#)
+where to get poap?
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -11528,7 +11528,7 @@ Hi, where can we go to connect with people to review tokenomic analysis? I'd lov
 
 Tam2140
 
-[Hello! Please support the TE Academy by voting on the Gnosis forum for the Governauts proposal. This vote is open to everyone and does not require tokens to vote!](about:blank#)
+Hello! Please support the TE Academy by voting on the Gnosis forum for the Governauts proposal. This vote is open to everyone and does not require tokens to vote!
 
 [https://forum.gnosis.io/t/gip-15-governauts-rewards-systems-research-initiative/1857](https://forum.gnosis.io/t/gip-15-governauts-rewards-systems-research-initiative/1857)
 
@@ -11543,7 +11543,7 @@ Will do!
 
 EvoMensch
 
-[Will do!](about:blank#)
+Will do!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11555,7 +11555,7 @@ Thank you so much!
 
 satchel | PST
 
-[Hi, where can we go to connect with people to review tokenomic analysis? I'd love to do a walk through live with one person who has been doing token engineering....maybe open the discussion](about:blank#)
+Hi, where can we go to connect with people to review tokenomic analysis? I'd love to do a walk through live with one person who has been doing token engineering....maybe open the discussion
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11658,7 +11658,7 @@ I heard about Token Engineering from Griff’s interview on Bankless Layer 0. Ve
 
 tigeroid
 
-[I heard about Token Engineering from Griff’s interview on Bankless Layer 0. Very intrigued. Where should I start learning?](about:blank#)
+I heard about Token Engineering from Griff’s interview on Bankless Layer 0. Very intrigued. Where should I start learning?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11678,7 +11678,7 @@ This handbook is meant to help you understand, navigate and contribute to the To
 
 Edu - TEC Steward.
 
-[Hello there! Welcome to our community! We have orientation call today at 6PM CET (in aprox two hours)! That's a good starting point, if you want to do some reading yourself, here a guide document!](about:blank#)
+Hello there! Welcome to our community! We have orientation call today at 6PM CET (in aprox two hours)! That's a good starting point, if you want to do some reading yourself, here a guide document!
 
 [https://hackmd.io/Ov89FStBQmeTOK2YfoPH3Q](https://hackmd.io/Ov89FStBQmeTOK2YfoPH3Q)
 
@@ -11696,7 +11696,7 @@ How do I join? I’m based in Asia, Singapore, but should be able to attend and 
 
 tigeroid
 
-[How do I join? I’m based in Asia, Singapore, but should be able to attend and listen in.](about:blank#)
+How do I join? I’m based in Asia, Singapore, but should be able to attend and listen in.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11860,7 +11860,7 @@ never really sure where to put questions, but yeah, here we go. So I have notice
 
 Tam2140
 
-[Hi @belikewater and welcome!  What timezone are you in? Let's see if we can accommodate a session in that timezone. This is the only Orientation call we have right now. It's not quite the same as being there but you can watch the Orientation call that just happened:](about:blank#)
+Hi @belikewater and welcome!  What timezone are you in? Let's see if we can accommodate a session in that timezone. This is the only Orientation call we have right now. It's not quite the same as being there but you can watch the Orientation call that just happened:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f308.png](https://twemoji.maxcdn.com/2/72x72/1f308.png)
 
@@ -11954,7 +11954,7 @@ gm
 
 drllau
 
-[For those not quite up to the R&D courses like cadCad](about:blank#)
+For those not quite up to the R&D courses like cadCad
 
 [https://www.futurelearn.com/courses/defi-exploring-decentralised-finance-with-blockchain-technologies](https://www.futurelearn.com/courses/defi-exploring-decentralised-finance-with-blockchain-technologies)
 
@@ -12081,7 +12081,7 @@ Hi, any places where I can read about the TEC reward system? just watched a call
 
 miguel567
 
-[Hi, any places where I can read about the TEC reward system? just watched a call where this was being discussed, but cannot find a primer on the whole topic.](about:blank#)
+Hi, any places where I can read about the TEC reward system? just watched a call where this was being discussed, but cannot find a primer on the whole topic.
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -12112,7 +12112,7 @@ gm
 
 durgadas
 
-[OK so I claimed my ENS tokens, and delegated to @griff (💜, 💜) but... $150 in gas fees to claim? SERIOUSLY?](about:blank#)
+OK so I claimed my ENS tokens, and delegated to @griff (💜, 💜) but... $150 in gas fees to claim? SERIOUSLY?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12131,7 +12131,7 @@ gm
 
 miguel567
 
-[Hi, any places where I can read about the TEC reward system? just watched a call where this was being discussed, but cannot find a primer on the whole topic.](about:blank#)
+Hi, any places where I can read about the TEC reward system? just watched a call where this was being discussed, but cannot find a primer on the whole topic.
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -12203,7 +12203,7 @@ doink BOT 10-Nov-21 09:51 AM
 
 mitch (🍔, 🍔)
 
-[gm](about:blank#)
+gm
 
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
@@ -12253,7 +12253,7 @@ yes! its in the panvala discord server, i'll dm you an invite link
 
 chuygarcia.eth
 
-[yes! its in the panvala discord server, i'll dm you an invite link](about:blank#)
+yes! its in the panvala discord server, i'll dm you an invite link
 
 <h3>Lutzar <img src="https://cdn.discordapp.com/avatars/564974398176755712/aafac8df7c5d23ccf557350b84d9f71d.png" width=25 height=25></h3>
 
@@ -12342,7 +12342,7 @@ Hello everyone! It's the first time I've been in a community call and I was fasc
 
 Edgar Arellano
 
-[Hello everyone! It's the first time I've been in a community call and I was fascinated. Right now I'm looking at all the work groups to see which one catches my attention. A pleasure to be here](about:blank#)
+Hello everyone! It's the first time I've been in a community call and I was fascinated. Right now I'm looking at all the work groups to see which one catches my attention. A pleasure to be here
 
 <h3>Pythagorean <img src="https://cdn.discordapp.com/avatars/722925809916182558/5bfb07fdbb7befeebbf9a1e63fbb8a95.png" width=25 height=25></h3>
 
@@ -12371,7 +12371,7 @@ Thanks to @ZER8🧠 for this awesome initiative (edited)
 
 acidlazzer
 
-[Hey @everyone! Sneak peek of one of the PFP Buzzing Bees NFTs collection for 1Hive! Representing TEC!   Thanks to @ZER8🧠 for this awesome initiative  (edited)](about:blank#)
+Hey @everyone! Sneak peek of one of the PFP Buzzing Bees NFTs collection for 1Hive! Representing TEC!   Thanks to @ZER8🧠 for this awesome initiative  (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f41d.png](https://twemoji.maxcdn.com/2/72x72/1f41d.png)
 
@@ -12394,7 +12394,7 @@ Wowza it's fresh
 
 acidlazzer
 
-[Hey @everyone! Sneak peek of one of the PFP Buzzing Bees NFTs collection for 1Hive! Representing TEC!   Thanks to @ZER8🧠 for this awesome initiative  (edited)](about:blank#)
+Hey @everyone! Sneak peek of one of the PFP Buzzing Bees NFTs collection for 1Hive! Representing TEC!   Thanks to @ZER8🧠 for this awesome initiative  (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f41d.png](https://twemoji.maxcdn.com/2/72x72/1f41d.png)
 
@@ -12411,7 +12411,7 @@ Thank you for joining us! Your bees will sell out
 
 Edgar Arellano
 
-[Hello everyone! It's the first time I've been in a community call and I was fascinated. Right now I'm looking at all the work groups to see which one catches my attention. A pleasure to be here](about:blank#)
+Hello everyone! It's the first time I've been in a community call and I was fascinated. Right now I'm looking at all the work groups to see which one catches my attention. A pleasure to be here
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12434,7 +12434,7 @@ This handbook is meant to help you understand, navigate and contribute to the To
 
 Pythagorean
 
-[Hola! What team here is fostering exchange between TEC and Regen Network/Foundation?](about:blank#)
+Hola! What team here is fostering exchange between TEC and Regen Network/Foundation?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12447,7 +12447,7 @@ Right now we have members from Regen Network on the discord, regarding exchange 
 
 Edu - TEC Steward.
 
-[Right now we have members from Regen Network on the discord, regarding exchange @griff (💜, 💜) is the guy to answer this](about:blank#) 
+Right now we have members from Regen Network on the discord, regarding exchange @griff (💜, 💜) is the guy to answer this 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -12461,7 +12461,7 @@ Gracias!
 
 Edu - TEC Steward.
 
-[Hey there Edgar! It's amazing to have you here! I can recommend you to take a look to our gitbook, there is a lot of info there](about:blank#) 
+Hey there Edgar! It's amazing to have you here! I can recommend you to take a look to our gitbook, there is a lot of info there 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -12505,7 +12505,7 @@ Hi all! Just wanted to articulate my journey so far, interest in what's next, an
 
 innov8tor3
 
-[Hi all! Just wanted to articulate my journey so far, interest in what's next, and ask for guidance. 1. I walked in a while ago, courtesy of @JeffEmmett in Twitter 2. Interested in Gravity, Soft Gov, Reward Systems and Communitas 3. Taking the Graviton course, and loving it 4. Had a chat with @Tam2140 about forward path 5. Hard to attend all the community calls, which I think is a big barrier. I'm more an asynch kinda person, also having my own community based projects. Many, many good things happening here, just I'm not sure if I'm able to contribute in ways that work for TEC. That said, I'm committed to what's happening here, and would hate to walk away. I'm a fan and advocate of asynch working, and can show evidence of steady growth in that respect over some years. I do have projects I'd like to submit. Not sure which WG to go to with this.  (edited)](about:blank#)
+Hi all! Just wanted to articulate my journey so far, interest in what's next, and ask for guidance. 1. I walked in a while ago, courtesy of @JeffEmmett in Twitter 2. Interested in Gravity, Soft Gov, Reward Systems and Communitas 3. Taking the Graviton course, and loving it 4. Had a chat with @Tam2140 about forward path 5. Hard to attend all the community calls, which I think is a big barrier. I'm more an asynch kinda person, also having my own community based projects. Many, many good things happening here, just I'm not sure if I'm able to contribute in ways that work for TEC. That said, I'm committed to what's happening here, and would hate to walk away. I'm a fan and advocate of asynch working, and can show evidence of steady growth in that respect over some years. I do have projects I'd like to submit. Not sure which WG to go to with this.  (edited)
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -12532,7 +12532,7 @@ i have begun the concept design that will be our proving grounds for the moloch 
 
 innov8tor3
 
-[Hi all! Just wanted to articulate my journey so far, interest in what's next, and ask for guidance. 1. I walked in a while ago, courtesy of @JeffEmmett in Twitter 2. Interested in Gravity, Soft Gov, Reward Systems and Communitas 3. Taking the Graviton course, and loving it 4. Had a chat with @Tam2140 about forward path 5. Hard to attend all the community calls, which I think is a big barrier. I'm more an asynch kinda person, also having my own community based projects. Many, many good things happening here, just I'm not sure if I'm able to contribute in ways that work for TEC. That said, I'm committed to what's happening here, and would hate to walk away. I'm a fan and advocate of asynch working, and can show evidence of steady growth in that respect over some years. I do have projects I'd like to submit. Not sure which WG to go to with this.  (edited)](about:blank#)
+Hi all! Just wanted to articulate my journey so far, interest in what's next, and ask for guidance. 1. I walked in a while ago, courtesy of @JeffEmmett in Twitter 2. Interested in Gravity, Soft Gov, Reward Systems and Communitas 3. Taking the Graviton course, and loving it 4. Had a chat with @Tam2140 about forward path 5. Hard to attend all the community calls, which I think is a big barrier. I'm more an asynch kinda person, also having my own community based projects. Many, many good things happening here, just I'm not sure if I'm able to contribute in ways that work for TEC. That said, I'm committed to what's happening here, and would hate to walk away. I'm a fan and advocate of asynch working, and can show evidence of steady growth in that respect over some years. I do have projects I'd like to submit. Not sure which WG to go to with this.  (edited)
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12544,7 +12544,7 @@ Hello there! Nice to see that you have taken a path down the rabbit hole hahahah
 
 innov8tor3
 
-[One other thing. In FB, I've been able to build some great friendships over the years, even in asynch ways, which I know is harder. Here, I suspect my lower ability to attend community calls will hamper friendship building. Any suggestions, anyone?](about:blank#)
+One other thing. In FB, I've been able to build some great friendships over the years, even in asynch ways, which I know is harder. Here, I suspect my lower ability to attend community calls will hamper friendship building. Any suggestions, anyone?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12557,7 +12557,7 @@ Regarding the Async, I don't think it will hamper friendship building. It's true
 
 Edu - TEC Steward.
 
-[Hello there! Nice to see that you have taken a path down the rabbit hole hahahah. I think you have identified the WG that you are interested in. I can think on many options: 1. Pick one WG call that aligns with your current projects and timing. 2. Pick one that aligns with something you would like to learn and syncs with your timing too (You are already partially doing with Graviton). 3. Depending on the nature of the projects that you have, it could be submitted for funding, feedback or support, so I would go wherever there is people who can relate to those projects.](about:blank#)
+Hello there! Nice to see that you have taken a path down the rabbit hole hahahah. I think you have identified the WG that you are interested in. I can think on many options: 1. Pick one WG call that aligns with your current projects and timing. 2. Pick one that aligns with something you would like to learn and syncs with your timing too (You are already partially doing with Graviton). 3. Depending on the nature of the projects that you have, it could be submitted for funding, feedback or support, so I would go wherever there is people who can relate to those projects.
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -12569,7 +12569,7 @@ Wonderful reply, thank you. If I said solar panel projects in Africa, does that 
 
 Edu - TEC Steward.
 
-[Regarding the Async, I don't think it will hamper friendship building. It's true that sometimes here the rythm is faster than other enviroments, but being a contributor on a WG will definitely foster your relationship with other members, by the collaborative nature of the TEC](about:blank#) 
+Regarding the Async, I don't think it will hamper friendship building. It's true that sometimes here the rythm is faster than other enviroments, but being a contributor on a WG will definitely foster your relationship with other members, by the collaborative nature of the TEC 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -12590,7 +12590,7 @@ From my friend Tibi in the Sensorica DAO, considering the value OS development p
 
 innov8tor3
 
-[Wonderful reply, thank you. If I said solar panel projects in Africa, does that help in directing me towards a particular WG?](about:blank#)
+Wonderful reply, thank you. If I said solar panel projects in Africa, does that help in directing me towards a particular WG?
 
 <h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
@@ -12603,7 +12603,7 @@ Great direction! Looking forward to chatting one of these days
 
 innov8tor3
 
-[Wonderful reply, thank you. If I said solar panel projects in Africa, does that help in directing me towards a particular WG?](about:blank#)
+Wonderful reply, thank you. If I said solar panel projects in Africa, does that help in directing me towards a particular WG?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12629,7 +12629,7 @@ pls
 
 HBesso31🐙
 
-[can anyone share with me the link to the simulator?](about:blank#)
+can anyone share with me the link to the simulator?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -12658,7 +12658,7 @@ How can I attend the ones on schedule?
 
 bishara.eth
 
-[How can I attend the ones on schedule?](about:blank#)
+How can I attend the ones on schedule?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12687,7 +12687,7 @@ Hi all! A friend of mine is looking to get into Solidity development. What's the
 
 markop
 
-[Hi all! A friend of mine is looking to get into Solidity development. What's the best way to start?](about:blank#)
+Hi all! A friend of mine is looking to get into Solidity development. What's the best way to start?
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -12711,7 +12711,7 @@ Thanks a lot!
 
 nic
 
-[@metaverde is starting a series on solidity development,  #🔬｜labs](about:blank#)
+@metaverde is starting a series on solidity development,  #🔬｜labs
 
 ![https://twemoji.maxcdn.com/2/72x72/1f440.png](https://twemoji.maxcdn.com/2/72x72/1f440.png)
 
@@ -12735,7 +12735,7 @@ Any practical work will benefit IMO.
 
 Edu - TEC Steward.
 
-[I would ask, what would you need for that solar panel project to work (related to us)? Do you need to have a governance consensus with other members? Do you need a token? Or you just want to create a community around the solar panel project? More questions could be relevant, but to identify how your collaboration could be reflected into this project (or any other), you should identify what's that you need.](about:blank#)
+I would ask, what would you need for that solar panel project to work (related to us)? Do you need to have a governance consensus with other members? Do you need a token? Or you just want to create a community around the solar panel project? More questions could be relevant, but to identify how your collaboration could be reflected into this project (or any other), you should identify what's that you need.
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -12791,7 +12791,7 @@ is there a place here where i can post a job offer?
 
 HBesso31🐙
 
-[is there a place here where i can post a job offer?](about:blank#)
+is there a place here where i can post a job offer?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12830,7 +12830,7 @@ by the way, for the params party is there any specific economy we should be desi
 
 QZ
 
-[by the way, for the params party is there any specific economy we should be designing for?](about:blank#)
+by the way, for the params party is there any specific economy we should be designing for?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -12865,7 +12865,7 @@ Hello, amazing token engineering community! Very basic question: I want to run a
 
 stepa.eth
 
-[Hello, amazing token engineering community! Very basic question: I want to run an entry-level workshop for my colleagues and friends to explain why protocols matter, how tokenomics works and how does one approach token engineering. I'm looking for a deck or some materials that I can re-use. This is free workshop and only be shown internally. Thank you in advance](about:blank#) 
+Hello, amazing token engineering community! Very basic question: I want to run an entry-level workshop for my colleagues and friends to explain why protocols matter, how tokenomics works and how does one approach token engineering. I'm looking for a deck or some materials that I can re-use. This is free workshop and only be shown internally. Thank you in advance 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
@@ -12879,7 +12879,7 @@ Hello there! Are you familiar with Token Academy and the work of @akrtws (TE Aca
 
 stepa.eth
 
-[Hello, amazing token engineering community! Very basic question: I want to run an entry-level workshop for my colleagues and friends to explain why protocols matter, how tokenomics works and how does one approach token engineering. I'm looking for a deck or some materials that I can re-use. This is free workshop and only be shown internally. Thank you in advance](about:blank#) 
+Hello, amazing token engineering community! Very basic question: I want to run an entry-level workshop for my colleagues and friends to explain why protocols matter, how tokenomics works and how does one approach token engineering. I'm looking for a deck or some materials that I can re-use. This is free workshop and only be shown internally. Thank you in advance 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
@@ -12976,7 +12976,7 @@ Griff speaking at Economics Design. [https://discord.gg/EkMw4Mtt](https://discor
 
 tigeroid
 
-[Griff speaking at Economics Design.](about:blank#)
+Griff speaking at Economics Design.
 
 [https://discord.gg/EkMw4Mtt](https://discord.gg/EkMw4Mtt)
 
@@ -13042,7 +13042,7 @@ Because, LLCEs are sought to be almost wholely self incentivised, through innova
 
 Kojak
 
-[[thread]: Maybe you should reframe your initiative on the lines of what Peter Diamandis uses in his X-Prize/Singularity University backed themes which are based on a Massively Transformative Purpose (MTP) / and within the MTP an exponentiality releasing Moonshot. Token Engineering can lend a very powerful granularity to the concept, especially @Solista's pov that funding becomes a feature, if well defined. I redefine it as MTP <-> Moonshot <-> ABC. The true powerfulnes of this approach is it draws people to it, and there is no quiçk pivoting away to another profitable opportunity. You redefine or find another Moonshot within this framework. My initiative Local Level Circular Economies ( LLCEs) is closely aligned to what you are attempting. Except, when LLCEs are applied to village economies, the priority for me is food self sufficiency within the village itself. This becomes really important in the context of climate change, supply chain collapse etc. Education is a close next. And mobiles have to be powered through solar power. In India, Ela Bhatt a prominent social worker has created the concept of Anubandh - total self sufficiency within a 100 mile radius. We plan to begin with self sufficiency in food at the village level.](about:blank#)
+[thread]: Maybe you should reframe your initiative on the lines of what Peter Diamandis uses in his X-Prize/Singularity University backed themes which are based on a Massively Transformative Purpose (MTP) / and within the MTP an exponentiality releasing Moonshot. Token Engineering can lend a very powerful granularity to the concept, especially @Solista's pov that funding becomes a feature, if well defined. I redefine it as MTP <-> Moonshot <-> ABC. The true powerfulnes of this approach is it draws people to it, and there is no quiçk pivoting away to another profitable opportunity. You redefine or find another Moonshot within this framework. My initiative Local Level Circular Economies ( LLCEs) is closely aligned to what you are attempting. Except, when LLCEs are applied to village economies, the priority for me is food self sufficiency within the village itself. This becomes really important in the context of climate change, supply chain collapse etc. Education is a close next. And mobiles have to be powered through solar power. In India, Ela Bhatt a prominent social worker has created the concept of Anubandh - total self sufficiency within a 100 mile radius. We plan to begin with self sufficiency in food at the village level.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -13061,7 +13061,7 @@ Have been looking at Grassroot Economics, talked a bit to Will Ruddick, studying
 
 Kojak
 
-[[thread]: Maybe you should reframe your initiative on the lines of what Peter Diamandis uses in his X-Prize/Singularity University backed themes which are based on a Massively Transformative Purpose (MTP) / and within the MTP an exponentiality releasing Moonshot. Token Engineering can lend a very powerful granularity to the concept, especially @Solista's pov that funding becomes a feature, if well defined. I redefine it as MTP <-> Moonshot <-> ABC. The true powerfulnes of this approach is it draws people to it, and there is no quiçk pivoting away to another profitable opportunity. You redefine or find another Moonshot within this framework. My initiative Local Level Circular Economies ( LLCEs) is closely aligned to what you are attempting. Except, when LLCEs are applied to village economies, the priority for me is food self sufficiency within the village itself. This becomes really important in the context of climate change, supply chain collapse etc. Education is a close next. And mobiles have to be powered through solar power. In India, Ela Bhatt a prominent social worker has created the concept of Anubandh - total self sufficiency within a 100 mile radius. We plan to begin with self sufficiency in food at the village level.](about:blank#)
+[thread]: Maybe you should reframe your initiative on the lines of what Peter Diamandis uses in his X-Prize/Singularity University backed themes which are based on a Massively Transformative Purpose (MTP) / and within the MTP an exponentiality releasing Moonshot. Token Engineering can lend a very powerful granularity to the concept, especially @Solista's pov that funding becomes a feature, if well defined. I redefine it as MTP <-> Moonshot <-> ABC. The true powerfulnes of this approach is it draws people to it, and there is no quiçk pivoting away to another profitable opportunity. You redefine or find another Moonshot within this framework. My initiative Local Level Circular Economies ( LLCEs) is closely aligned to what you are attempting. Except, when LLCEs are applied to village economies, the priority for me is food self sufficiency within the village itself. This becomes really important in the context of climate change, supply chain collapse etc. Education is a close next. And mobiles have to be powered through solar power. In India, Ela Bhatt a prominent social worker has created the concept of Anubandh - total self sufficiency within a 100 mile radius. We plan to begin with self sufficiency in food at the village level.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -13087,7 +13087,7 @@ I know some people who are learning to be web3 developers who would love to star
 
 nic
 
-[I know some people who are learning to be web3 developers who would love to start a smart contract study group. We are in need of people with expertise on smart contracts. Farza from buildspace is willing to put 0.2 ETH for the experts to come in as guests to lead each session. Does anyone here know who might be interested/have the expertise?](about:blank#)
+I know some people who are learning to be web3 developers who would love to start a smart contract study group. We are in need of people with expertise on smart contracts. Farza from buildspace is willing to put 0.2 ETH for the experts to come in as guests to lead each session. Does anyone here know who might be interested/have the expertise?
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -13105,7 +13105,7 @@ Start building cool web3 projects, earn NFTs, access secret work opportunities i
 
 Letty
 
-[Are you referring to this? -](about:blank#)
+Are you referring to this? -
 
 [https://buildspace.so/](https://buildspace.so/)
 
@@ -13139,7 +13139,7 @@ Sounds great - have you posted on TE Labs and Long Tail Financials channels?
 
 Letty
 
-[Sounds great - have you posted on TE Labs and Long Tail Financials channels?](about:blank#)
+Sounds great - have you posted on TE Labs and Long Tail Financials channels?
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -13160,7 +13160,7 @@ Also, this should eventually go as part of the mapping out in our "integral cons
 
 Letty
 
-[Also, this should eventually go as part of the mapping out in our "integral consilience curriculum" or study playbook](about:blank#)
+Also, this should eventually go as part of the mapping out in our "integral consilience curriculum" or study playbook
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -13179,7 +13179,7 @@ yes! Omega's work!
 
 Letty
 
-[yes! Omega's work!](about:blank#)
+yes! Omega's work!
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -13192,7 +13192,7 @@ I wonder if there's something we can do to help them now
 
 nic
 
-[I wonder if there's something we can do to help them now](about:blank#) 
+I wonder if there's something we can do to help them now 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f914.png](https://twemoji.maxcdn.com/2/72x72/1f914.png)
 
@@ -13206,7 +13206,7 @@ Yesss! So in very practical terms building a basic template/wiki/markdown/struct
 
 Letty
 
-[Yesss! So in very practical terms building a basic template/wiki/markdown/structure upon which many token engineer's worldviews may be built and expanded: This could go as (being discussed in focus groups at the moment): Collab with MetaGame: use MyMeta for curator Profiles, Contribute to MetaLibrary the section of Cryptoeconomics from TE First Principles: Structure in Notion Pages? layout draft feedback session improve](about:blank#)
+Yesss! So in very practical terms building a basic template/wiki/markdown/structure upon which many token engineer's worldviews may be built and expanded: This could go as (being discussed in focus groups at the moment): Collab with MetaGame: use MyMeta for curator Profiles, Contribute to MetaLibrary the section of Cryptoeconomics from TE First Principles: Structure in Notion Pages? layout draft feedback session improve
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -13219,7 +13219,7 @@ sorry, I meant the devs who want to learn
 
 Letty
 
-[Yesss! So in very practical terms building a basic template/wiki/markdown/structure upon which many token engineer's worldviews may be built and expanded: This could go as (being discussed in focus groups at the moment): Collab with MetaGame: use MyMeta for curator Profiles, Contribute to MetaLibrary the section of Cryptoeconomics from TE First Principles: Structure in Notion Pages? layout draft feedback session improve](about:blank#)
+Yesss! So in very practical terms building a basic template/wiki/markdown/structure upon which many token engineer's worldviews may be built and expanded: This could go as (being discussed in focus groups at the moment): Collab with MetaGame: use MyMeta for curator Profiles, Contribute to MetaLibrary the section of Cryptoeconomics from TE First Principles: Structure in Notion Pages? layout draft feedback session improve
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -13249,7 +13249,7 @@ CryptoZombies is The Most Popular, Interactive Solidity Tutorial That Will Help 
 
 ryeder (they/them)
 
-[Maybe heard this from @akrtws (TE Academy) but does anyone know where to find the upcoming](about:blank#)
+Maybe heard this from @akrtws (TE Academy) but does anyone know where to find the upcoming
 
 [https://cryptozombies.io/](https://cryptozombies.io/)
 
@@ -13265,7 +13265,7 @@ its with @metaverde in #🔬｜labs . though I'm not sure at what time and when!
 
 nic
 
-[its with @metaverde in #🔬｜labs . though I'm not sure at what time and when! I think it's on fridays. It only started last week.](about:blank#)
+its with @metaverde in #🔬｜labs . though I'm not sure at what time and when! I think it's on fridays. It only started last week.
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -13277,7 +13277,7 @@ thank you!!
 
 nic
 
-[its with @metaverde in #🔬｜labs . though I'm not sure at what time and when! I think it's on fridays. It only started last week.](about:blank#)
+its with @metaverde in #🔬｜labs . though I'm not sure at what time and when! I think it's on fridays. It only started last week.
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -13316,7 +13316,7 @@ Hello everyone! sorry I coudnt join today's call. Is there somewhere I can liste
 
 Lalocripto.eth🏴
 
-[Hello everyone! sorry I coudnt join today's call. Is there somewhere I can listen to it?](about:blank#)
+Hello everyone! sorry I coudnt join today's call. Is there somewhere I can listen to it?
 
 <h3>Pythagorean <img src="https://cdn.discordapp.com/avatars/722925809916182558/5bfb07fdbb7befeebbf9a1e63fbb8a95.png" width=25 height=25></h3>
 
@@ -13336,7 +13336,7 @@ The Token Engineering Commons is building the tools for safe digital economies t
 
 Pythagorean
 
-[Hola! I recommend subscribing to the youtube channel so you're notified when something new is updated. They do a good job of keeping it current. Praise to the transparency team I believe for helping to make this happen.](about:blank#)
+Hola! I recommend subscribing to the youtube channel so you're notified when something new is updated. They do a good job of keeping it current. Praise to the transparency team I believe for helping to make this happen.
 
 [https://www.youtube.com/c/TokenEngineeringCommons/videos](https://www.youtube.com/c/TokenEngineeringCommons/videos)
 
@@ -13472,7 +13472,7 @@ _29-Nov-21 01:23 PM_:
 
 osycross(🦎🦎)
 
-[@acidlazzer the POAP link sent to me is not valid](about:blank#)
+@acidlazzer the POAP link sent to me is not valid
 
 <h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
@@ -13511,7 +13511,7 @@ how to claim poap?
 
 2km
 
-[how to claim poap?](about:blank#)
+how to claim poap?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -13523,7 +13523,7 @@ Hello there! @acidlazzer can help you with that!
 
 Edu - TEC Steward.
 
-[Hello there! @acidlazzer can help you with that!](about:blank#)
+Hello there! @acidlazzer can help you with that!
 
 <h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
@@ -13542,7 +13542,7 @@ Hi all, anyone know what time zone the calls are based on?
 
 Spaghettios
 
-[Hi all, anyone know what time zone the calls are based on?](about:blank#)
+Hi all, anyone know what time zone the calls are based on?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -13589,7 +13589,7 @@ Twitter • 30-Nov-21 08:41 AM
 
 tigeroid
 
-[How can we join the AMA on how we use the bonding curve?](about:blank#)
+How can we join the AMA on how we use the bonding curve?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -13601,7 +13601,7 @@ Hello there! I sent you an invite! is on our partner's server: [https://discord.
 
 innov8tor3
 
-[Saw this about Discord partnership in another server. TLDR Hey Community Admins & Mods! It's time for another update: calendar Events feature is now live to all servers We're excited to share a better way to organize raid nights, study groups, trivia nights, or your next holiday gathering. You'll now be able to create and schedule Events that are directly displayed in your server. Members can RSVP, share, and will also be notified when the event starts. - Events can be in Voice channels, Stage channels, or in a "free-form" location (Twitch link, IRL, a text channel). - Only Members with Manage Events permission can create Events. This is default-off, so admins will need to grant it to others. - The Events tab only shows to Members if there is an upcoming event. - Both Community and non-Community servers can utilize Events. - HC Article here:](about:blank#)
+Saw this about Discord partnership in another server. TLDR Hey Community Admins & Mods! It's time for another update: calendar Events feature is now live to all servers We're excited to share a better way to organize raid nights, study groups, trivia nights, or your next holiday gathering. You'll now be able to create and schedule Events that are directly displayed in your server. Members can RSVP, share, and will also be notified when the event starts. - Events can be in Voice channels, Stage channels, or in a "free-form" location (Twitch link, IRL, a text channel). - Only Members with Manage Events permission can create Events. This is default-off, so admins will need to grant it to others. - The Events tab only shows to Members if there is an upcoming event. - Both Community and non-Community servers can utilize Events. - HC Article here:
 
 [https://dis.gd/events](https://dis.gd/events)
 
@@ -13738,7 +13738,7 @@ _01-Dec-21 12:09 PM_:
 
 ALOYSIOUS
 
-[@NikosamA98 is that a shirt, a sweater? It's absolutely incredible. Welcome to this corner of the blockchain!](about:blank#)
+@NikosamA98 is that a shirt, a sweater? It's absolutely incredible. Welcome to this corner of the blockchain!
 
 <h3>NikosamA98 <img src="https://cdn.discordapp.com/avatars/321011444755726337/c545d0b39aadd5d720466bed7fc925c2.png" width=25 height=25></h3>
 
@@ -13750,7 +13750,7 @@ Thanks! It's a sweater. I bought it in San Pedro de Atacama, Chile (Atacama Dese
 
 NikosamA98
 
-[Thanks! It's a sweater. I bought it in San Pedro de Atacama, Chile (Atacama Desert) a month ago. It's made by natives of the region and I absolutely love it! Fav sweater rn :B](about:blank#)
+Thanks! It's a sweater. I bought it in San Pedro de Atacama, Chile (Atacama Desert) a month ago. It's made by natives of the region and I absolutely love it! Fav sweater rn :B
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -13826,7 +13826,7 @@ Something else for us to discuss! After a chat, I'd be happy to publish a Twitte
 
 Juankbell
 
-[Hey eveyone! I will be hosting a params party right now in the Params voice channel, feel free to jump to create params or discuss about the ones that are already posted.](about:blank#)
+Hey eveyone! I will be hosting a params party right now in the Params voice channel, feel free to jump to create params or discuss about the ones that are already posted.
 
 [https://tokenlog.xyz/CommonsBuild/commons-config-proposals](https://tokenlog.xyz/CommonsBuild/commons-config-proposals)
 
@@ -13840,7 +13840,7 @@ how many of you in team? (edited)
 
 John V
 
-[Where can I find the "How to DAO" training course? Thanks for all the inclusion!](about:blank#)
+Where can I find the "How to DAO" training course? Thanks for all the inclusion!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -13904,7 +13904,7 @@ If you want to join in have your phone handy and a solid internet connection - Y
 
 Call Reminder
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>osycross(🦎🦎) <img src="https://cdn.discordapp.com/avatars/746649091672637460/dc6a99993b76d5eab01fa3af8fa57326.png" width=25 height=25></h3>
 
@@ -13929,7 +13929,7 @@ i like tecommons
 
 Notes
 
-[hi guys](about:blank#)
+hi guys
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -13941,7 +13941,7 @@ Hello there! Nice to have you here, would you like to share a bit about yourself
 
 Edu - TEC Steward.
 
-[Hello there! Nice to have you here, would you like to share a bit about yourself?](about:blank#)
+Hello there! Nice to have you here, would you like to share a bit about yourself?
 
 <h3>Notes <img src="https://cdn.discordapp.com/avatars/835765145451888660/af15665cd36d13f0b49f7dd267b3307b.png" width=25 height=25></h3>
 
@@ -13971,7 +13971,7 @@ bm
 
 mitch (🍔, 🍔)
 
-[bm](about:blank#)
+bm
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -14014,7 +14014,7 @@ I barely know about solidity, but I still have the smart contract address
 
 CMD Burrito
 
-[Hello TEC](about:blank#)
+Hello TEC
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -14101,7 +14101,7 @@ Twitter • 05-Dec-21 08:03 AM
 
 Spaghettios
 
-[Are the previous solidity classes available somewhere I saw the study group started nov18th @metaverde ?](about:blank#)
+Are the previous solidity classes available somewhere I saw the study group started nov18th @metaverde ?
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -14120,7 +14120,7 @@ gm guys,new day
 
 Michael Keating
 
-[Guys](about:blank#)
+Guys
 
 [https://twitter.com/nyt_first_said/status/1467479726235295750?s=21](https://twitter.com/nyt_first_said/status/1467479726235295750?s=21)
 
@@ -14188,7 +14188,7 @@ gm
 
 Tengeki
 
-[Hey curious to know how a token engineering role pays?](about:blank#)
+Hey curious to know how a token engineering role pays?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -14207,7 +14207,7 @@ Hi @innov8tor3 ! I would appreciate the introductions
 
 Edu - TEC Steward.
 
-[Hello there! It really depends on your area of expertise. If you are a developer, I believe it will bring a lot of value to your work. Token Engineering has the system design part and the theory part. So you can either create tools that will be used on the creation of tokenized systems or you can research and propose for example, ethical and good practices that will be implemented. A lot of these things are new. But we are seeing how DAOs are starting to catch up.  (edited)](about:blank#)
+Hello there! It really depends on your area of expertise. If you are a developer, I believe it will bring a lot of value to your work. Token Engineering has the system design part and the theory part. So you can either create tools that will be used on the creation of tokenized systems or you can research and propose for example, ethical and good practices that will be implemented. A lot of these things are new. But we are seeing how DAOs are starting to catch up.  (edited)
 
 <h3>Luis Otra Vez <img src="https://cdn.discordapp.com/avatars/186187669074739201/b8c3d53d742f68588208f6a639f6bae3.png" width=25 height=25></h3>
 
@@ -14219,7 +14219,7 @@ What would you suggest the role of a non technical individual could be?
 
 Luis Otra Vez
 
-[What would you suggest the role of a non technical individual could be?](about:blank#)
+What would you suggest the role of a non technical individual could be?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -14232,7 +14232,7 @@ The mission, vision and objectives of the token, the community building around t
 
 Luis Otra Vez
 
-[Hi @innov8tor3 ! I would appreciate the introductions](about:blank#)
+Hi @innov8tor3 ! I would appreciate the introductions
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -14244,7 +14244,7 @@ Thanks for tagging me! Hey @Juankbell @durgadas ! @Luis Otra Vez is the person I
 
 innov8tor3
 
-[Thanks for tagging me! Hey @Juankbell @durgadas ! @Luis Otra Vez is the person I mentioned just earlier. They have a dispute situation, quite complex by the look of it, spilling over into Twitter, and I felt that our more experienced team members could discuss the situation with both sides seeking a resolution / negotiation / agreement. And I feel some technical expertise will be needed! Over to you guys, how shall we proceed?](about:blank#)
+Thanks for tagging me! Hey @Juankbell @durgadas ! @Luis Otra Vez is the person I mentioned just earlier. They have a dispute situation, quite complex by the look of it, spilling over into Twitter, and I felt that our more experienced team members could discuss the situation with both sides seeking a resolution / negotiation / agreement. And I feel some technical expertise will be needed! Over to you guys, how shall we proceed?
 
 <h3>Luis Otra Vez <img src="https://cdn.discordapp.com/avatars/186187669074739201/b8c3d53d742f68588208f6a639f6bae3.png" width=25 height=25></h3>
 
@@ -14256,7 +14256,7 @@ I should clarify: I have almost no experience in tokenomics but if there is some
 
 Luis Otra Vez
 
-[I should clarify: I have almost no experience in tokenomics but if there is something I could do to help, I would love to. It feels like an important case study on how to solve internal issues](about:blank#)
+I should clarify: I have almost no experience in tokenomics but if there is something I could do to help, I would love to. It feels like an important case study on how to solve internal issues
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -14269,7 +14269,7 @@ No worries. Let's understand what's happening and see what can be done.
 
 Luis Otra Vez
 
-[I should clarify: I have almost no experience in tokenomics but if there is something I could do to help, I would love to. It feels like an important case study on how to solve internal issues](about:blank#)
+I should clarify: I have almost no experience in tokenomics but if there is something I could do to help, I would love to. It feels like an important case study on how to solve internal issues
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -14287,7 +14287,7 @@ Hi! I'm Clayton, I am with UMA project. So I've watched the 2 minute video, and 
 
 Clayton | UMA
 
-[Hi! I'm Clayton, I am with UMA project. So I've watched the 2 minute video, and poked around here. I understand all the words I'm reading (commons, token engineering) but I don't quite.... get it yet. Why are ya'll doing this nerdy stuff? What's the incentive model? I saw this thing about "buidling things for the community" which sounded self-referential. (To be clear: I'm not demanding there be a clear incentive, it's interesting if there isn't!)](about:blank#)
+Hi! I'm Clayton, I am with UMA project. So I've watched the 2 minute video, and poked around here. I understand all the words I'm reading (commons, token engineering) but I don't quite.... get it yet. Why are ya'll doing this nerdy stuff? What's the incentive model? I saw this thing about "buidling things for the community" which sounded self-referential. (To be clear: I'm not demanding there be a clear incentive, it's interesting if there isn't!)
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -14303,7 +14303,7 @@ Mission, Vision and Values
 
 Clayton | UMA
 
-[Hi! I'm Clayton, I am with UMA project. So I've watched the 2 minute video, and poked around here. I understand all the words I'm reading (commons, token engineering) but I don't quite.... get it yet. Why are ya'll doing this nerdy stuff? What's the incentive model? I saw this thing about "buidling things for the community" which sounded self-referential. (To be clear: I'm not demanding there be a clear incentive, it's interesting if there isn't!)](about:blank#)
+Hi! I'm Clayton, I am with UMA project. So I've watched the 2 minute video, and poked around here. I understand all the words I'm reading (commons, token engineering) but I don't quite.... get it yet. Why are ya'll doing this nerdy stuff? What's the incentive model? I saw this thing about "buidling things for the community" which sounded self-referential. (To be clear: I'm not demanding there be a clear incentive, it's interesting if there isn't!)
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -14329,7 +14329,7 @@ Which channel would be the right place for me to ask questions about your model 
 
 Clayton | UMA
 
-[Which channel would be the right place for me to ask questions about your model here in Gitbook?](about:blank#)
+Which channel would be the right place for me to ask questions about your model here in Gitbook?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -14342,7 +14342,7 @@ We have the help channel above this one, but if it's specific to a topic, like r
 
 Clayton | UMA
 
-[(And thanks, @Edu - TEC Steward. )](about:blank#)
+(And thanks, @Edu - TEC Steward. )
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -14354,7 +14354,7 @@ _07-Dec-21 11:18 AM_:
 
 innov8tor3
 
-[Suggestion: can you find the Gravity channel here? We may be best starting discussion there, and maybe a thread, so as to keep the channel clear for other discussion. You could lay out some of what is happening, in a way you feel comfortable with, and we can make a start there.](about:blank#)
+Suggestion: can you find the Gravity channel here? We may be best starting discussion there, and maybe a thread, so as to keep the channel clear for other discussion. You could lay out some of what is happening, in a way you feel comfortable with, and we can make a start there.
 
 <h3>Luis Otra Vez <img src="https://cdn.discordapp.com/avatars/186187669074739201/b8c3d53d742f68588208f6a639f6bae3.png" width=25 height=25></h3>
 
@@ -14366,7 +14366,7 @@ I just saw that and it seems awesome. Soft skills are vital when managing a comm
 
 innov8tor3
 
-[Thanks for tagging me! Hey @Juankbell @durgadas ! @Luis Otra Vez is the person I mentioned just earlier. They have a dispute situation, quite complex by the look of it, spilling over into Twitter, and I felt that our more experienced team members could discuss the situation with both sides seeking a resolution / negotiation / agreement. And I feel some technical expertise will be needed! Over to you guys, how shall we proceed?](about:blank#)
+Thanks for tagging me! Hey @Juankbell @durgadas ! @Luis Otra Vez is the person I mentioned just earlier. They have a dispute situation, quite complex by the look of it, spilling over into Twitter, and I felt that our more experienced team members could discuss the situation with both sides seeking a resolution / negotiation / agreement. And I feel some technical expertise will be needed! Over to you guys, how shall we proceed?
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -14460,7 +14460,7 @@ If you want to join in have your phone handy and a solid internet connection - Y
 
 bilardo agarrandose la cabeza
 
-[hi people, I was wondering where i could get some resources (videos, books, etc) about token engineering, because to be honest, I dont understand shit about all this. Thanks!](about:blank#)
+hi people, I was wondering where i could get some resources (videos, books, etc) about token engineering, because to be honest, I dont understand shit about all this. Thanks!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -14477,7 +14477,7 @@ This is a growing list of resources and applications of token engineering techno
 
 bilardo agarrandose la cabeza
 
-[hi people, I was wondering where i could get some resources (videos, books, etc) about token engineering, because to be honest, I dont understand shit about all this. Thanks!](about:blank#)
+hi people, I was wondering where i could get some resources (videos, books, etc) about token engineering, because to be honest, I dont understand shit about all this. Thanks!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -14493,7 +14493,7 @@ The Hitchhiker’s Guide
 
 bilardo agarrandose la cabeza
 
-[hi people, I was wondering where i could get some resources (videos, books, etc) about token engineering, because to be honest, I dont understand shit about all this. Thanks!](about:blank#)
+hi people, I was wondering where i could get some resources (videos, books, etc) about token engineering, because to be honest, I dont understand shit about all this. Thanks!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -14614,7 +14614,7 @@ gm
 
 durgadas
 
-[Be AWARE of Javageddon:](about:blank#)
+Be AWARE of Javageddon:
 
 [https://www.cyberkendra.com/2021/12/apache-log4j-vulnerability-details-and.html](https://www.cyberkendra.com/2021/12/apache-log4j-vulnerability-details-and.html)
 
@@ -14680,7 +14680,7 @@ Twitter • 11-Dec-21 01:09 PM
 
 ClintBeastwood
 
-[Working in this project TEC fam! Pls would love the support and any advice . Thnx in advance](about:blank#)
+Working in this project TEC fam! Pls would love the support and any advice . Thnx in advance
 
 [https://twitter.com/CyborgApesNFT/status/1469731171772899328?s=20](https://twitter.com/CyborgApesNFT/status/1469731171772899328?s=20)
 
@@ -14694,7 +14694,7 @@ Hello there! Would you like to share more information about it? We would love to
 
 Edu - TEC Steward.
 
-[Hello there! Would you like to share more information about it? We would love to know more! Hahaha](about:blank#)
+Hello there! Would you like to share more information about it? We would love to know more! Hahaha
 
 <h3>ClintBeastwood <img src="https://cdn.discordapp.com/avatars/539145098613489676/d67803df42687d810b57f1b0388084c8.png" width=25 height=25></h3>
 
@@ -14750,7 +14750,7 @@ Gn
 
 zhoujielun
 
-[have a nice day bro](about:blank#)
+have a nice day bro
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -14762,7 +14762,7 @@ gm!
 
 Nate0909
 
-[hey i was wondering what the popular data science techniques/methods are in token engineering](about:blank#)
+hey i was wondering what the popular data science techniques/methods are in token engineering
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -14812,7 +14812,7 @@ At the DAO Rewards Systems Assemblage, Angela mentioned that this week there's g
 
 GraceRachmany
 
-[At the DAO Rewards Systems Assemblage, Angela mentioned that this week there's going to be a presentation of the final works of the current TE Cohort. How do we register for that event?](about:blank#)
+At the DAO Rewards Systems Assemblage, Angela mentioned that this week there's going to be a presentation of the final works of the current TE Cohort. How do we register for that event?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -14878,7 +14878,7 @@ Hi all I was wondering if anyone knows the current demand and expected grown of 
 
 Nate0909
 
-[Hi all I was wondering if anyone knows the current demand and expected grown of token engineers/token simulation?](about:blank#)
+Hi all I was wondering if anyone knows the current demand and expected grown of token engineers/token simulation?
 
 <h3>Notes <img src="https://cdn.discordapp.com/avatars/835765145451888660/af15665cd36d13f0b49f7dd267b3307b.png" width=25 height=25></h3>
 
@@ -14890,7 +14890,7 @@ i think it grown
 
 Nate0909
 
-[Hi all I was wondering if anyone knows the current demand and expected grown of token engineers/token simulation?](about:blank#)
+Hi all I was wondering if anyone knows the current demand and expected grown of token engineers/token simulation?
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -14934,7 +14934,7 @@ have a nice day
 
 zhoujielun
 
-[have a nice day](about:blank#)
+have a nice day
 
 ![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
 
@@ -15007,7 +15007,7 @@ What is the overall Commons Configuration strategy? Based on Sunday’s debates 
 
 Tam2140
 
-[Today's debate left me with some new angles to consider. I revised the original to incorporate that thinking and would like to express gratitude to Paul H, Phil H, Simon de la Rouviere and Decentralized SDGs especially. If you like these ideas, please vote for #135!](about:blank#)
+Today's debate left me with some new angles to consider. I revised the original to incorporate that thinking and would like to express gratitude to Paul H, Phil H, Simon de la Rouviere and Decentralized SDGs especially. If you like these ideas, please vote for #135!
 
 [# 4.20 Public Open Meets Ostrom’s $1M Hatch, Fledge & Fly! #135](https://github.com/CommonsBuild/commons-config-proposals/issues/135)
 
@@ -15054,7 +15054,7 @@ _20-Dec-21 04:54 PM_:
 
 Tam2140
 
-[Hi @Nate0909 if you mean in terms of demand for those skills I think it's safe to say the demand is very high and should continue to grow. Token Engineering is a nascent field and foundational to building in web3. Does that help answer your question?](about:blank#)
+Hi @Nate0909 if you mean in terms of demand for those skills I think it's safe to say the demand is very high and should continue to grow. Token Engineering is a nascent field and foundational to building in web3. Does that help answer your question?
 
 <h3>Nate0909 <img src="https://cdn.discordapp.com/avatars/760616661983166536/57fa82fe8b83af9a01c56339bf8c945f.png" width=25 height=25></h3>
 
@@ -15066,7 +15066,7 @@ Thanks yep that does answer my question!
 
 Notes
 
-[i think it grown](about:blank#)
+i think it grown
 
 <h3>Nate0909 <img src="https://cdn.discordapp.com/avatars/760616661983166536/57fa82fe8b83af9a01c56339bf8c945f.png" width=25 height=25></h3>
 
@@ -15085,7 +15085,7 @@ sadly u cant redeem ur votes (re @geleeroyale_bot: PhilH Friends, do you know if
 
 aar0n
 
-[[thread]: I am trying to get my idea started, so if you want to talk about my idea I’d be happy to share my vision for it](about:blank#)
+[thread]: I am trying to get my idea started, so if you want to talk about my idea I’d be happy to share my vision for it
 
 <h3>Nate0909 <img src="https://cdn.discordapp.com/avatars/760616661983166536/57fa82fe8b83af9a01c56339bf8c945f.png" width=25 height=25></h3>
 
@@ -15177,7 +15177,7 @@ Hi bro
 
 innov8tor3
 
-[With the 420 vote, I feel like people are voting for the headline large market cap, to express confidence in TEC, with a big headline splash up front. If this is all still pretty new, would not a more conservative approach be beneficial, at least at first? Is this a big gamble to take in the early days of TEC? Also, why choose only one? Won't different proposals need different approaches, and therefore different params? Or we are still testing, still finding this all out? (Am I even allowed to ask questions like this in an open forum?)](about:blank#)
+With the 420 vote, I feel like people are voting for the headline large market cap, to express confidence in TEC, with a big headline splash up front. If this is all still pretty new, would not a more conservative approach be beneficial, at least at first? Is this a big gamble to take in the early days of TEC? Also, why choose only one? Won't different proposals need different approaches, and therefore different params? Or we are still testing, still finding this all out? (Am I even allowed to ask questions like this in an open forum?)
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -15251,7 +15251,7 @@ John V 22-Dec-21 11:25 AM
 
 John V
 
-[@mitch (🍔, 🍔) I’m having trouble locating the “calling all quantifiers” channel. Maybe I’m missing something? Sent you a friend request so I can DM you as well. Would love to get involved.](about:blank#)
+@mitch (🍔, 🍔) I’m having trouble locating the “calling all quantifiers” channel. Maybe I’m missing something? Sent you a friend request so I can DM you as well. Would love to get involved.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -15269,7 +15269,7 @@ hi folks just saw TEC browsing the internet. Are there upcoming community calls 
 
 Slacking
 
-[hi folks just saw TEC browsing the internet. Are there upcoming community calls I can join in to listen and learn?](about:blank#)
+hi folks just saw TEC browsing the internet. Are there upcoming community calls I can join in to listen and learn?
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -15286,7 +15286,7 @@ You can find more calls to join here (top left, under server name): (edited)
 
 Tam2140
 
-[Hi @innov8tor3 and thank you for this feedback. You will see a lot of rationale went into the 420 proposal itself (if anything, if I had more time I would have edited it down!) but the change between the first version of this proposal and this last one was influeced by conversations from the Sunday debates. The price change is intended to provide some protection from synchronized manipulation not just to try to to increase profits. I did a poor job of explaining that change well enough.  (edited)](about:blank#)
+Hi @innov8tor3 and thank you for this feedback. You will see a lot of rationale went into the 420 proposal itself (if anything, if I had more time I would have edited it down!) but the change between the first version of this proposal and this last one was influeced by conversations from the Sunday debates. The price change is intended to provide some protection from synchronized manipulation not just to try to to increase profits. I did a poor job of explaining that change well enough.  (edited)
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -15375,7 +15375,7 @@ _23-Dec-21 07:20 PM_:
 
 acidlazzer
 
-[New POAP on the way, I'll be sending it these days ❤️](about:blank#)
+New POAP on the way, I'll be sending it these days ❤️
 
 <h3>zhoujielun <img src="https://cdn.discordapp.com/avatars/890786336653594724/8a4b004fa9b3fd3c1e0b57524efbfcbc.png" width=25 height=25></h3>
 
@@ -15413,7 +15413,7 @@ where can I read what this is about
 
 Letty
 
-[Looks great for aspiring devs:](about:blank#)
+Looks great for aspiring devs:
 
 [https://www.web3.university/](https://www.web3.university/)
 
@@ -15485,7 +15485,7 @@ Merry Christmas y’all
 
 durgadasji
 
-[Merry Christmas everyone!](about:blank#)
+Merry Christmas everyone!
 
 <h3>casale.eth <img src="https://cdn.discordapp.com/avatars/159125298384863233/9e9193209460bcb47935b4d8c2cfa5aa.png" width=25 height=25></h3>
 
@@ -15503,7 +15503,7 @@ no
 
 ComandoBurrito
 
-[no](about:blank#)
+no
 
 <h3>casale.eth <img src="https://cdn.discordapp.com/avatars/159125298384863233/9e9193209460bcb47935b4d8c2cfa5aa.png" width=25 height=25></h3>
 
@@ -15527,7 +15527,7 @@ _26-Dec-21 11:46 PM_:
 
 ComandoBurrito
 
-[is a bridge](about:blank#)
+is a bridge
 
 <h3>casale.eth <img src="https://cdn.discordapp.com/avatars/159125298384863233/9e9193209460bcb47935b4d8c2cfa5aa.png" width=25 height=25></h3>
 
@@ -15560,7 +15560,7 @@ Hi TEC friends, I’m looking for tokenomics resources for Kernel’s tokenomics
 
 Michael Keating
 
-[Hi TEC friends, I’m looking for tokenomics resources for Kernel’s tokenomics curriculum. One good question that came up that I would love to be able to answer: Are there any lists of different tokenomic models / mechanics that one could review to get a sense of the current landscape of incentive systems?](about:blank#)
+Hi TEC friends, I’m looking for tokenomics resources for Kernel’s tokenomics curriculum. One good question that came up that I would love to be able to answer: Are there any lists of different tokenomic models / mechanics that one could review to get a sense of the current landscape of incentive systems?
 
 <h3>natesuits <img src="https://cdn.discordapp.com/avatars/417979381332443136/d145fdbe6fea9d40b4a5e729859a2a2f.png" width=25 height=25></h3>
 
@@ -15572,7 +15572,7 @@ I've actually been looking for this myself, and have yet to find anything. Compl
 
 Michael Keating
 
-[Hi TEC friends, I’m looking for tokenomics resources for Kernel’s tokenomics curriculum. One good question that came up that I would love to be able to answer: Are there any lists of different tokenomic models / mechanics that one could review to get a sense of the current landscape of incentive systems?](about:blank#)
+Hi TEC friends, I’m looking for tokenomics resources for Kernel’s tokenomics curriculum. One good question that came up that I would love to be able to answer: Are there any lists of different tokenomic models / mechanics that one could review to get a sense of the current landscape of incentive systems?
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -15599,7 +15599,7 @@ Live Sessions ahead on Token Model Generation & Cryptoeconomics Patterns
 
 acidlazzer
 
-[New POAP on the way, I'll be sending it these days ❤️](about:blank#)
+New POAP on the way, I'll be sending it these days ❤️
 
 <h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
@@ -15639,7 +15639,7 @@ Can someone explain to me how a protocol can have more in its treasury then its 
 
 nic
 
-[Session 2 of this series by @solsista may help you. It will be about Value Capturing Mechanisms. It’s next Monday.](about:blank#) 
+Session 2 of this series by @solsista may help you. It will be about Value Capturing Mechanisms. It’s next Monday. 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
 
@@ -15661,7 +15661,7 @@ Fantastic article and great read
 
 mitch (🍔, 🍔)
 
-[@everyone The New Reward System is gearing up for it's first quantification and I am once again humbly asking for **more Quantifiers** to participate in processing all of the wonderful praise action happening in the TEC. If you're a new member or even a seasoned contributor I would like to invite you to participate in this crucial role within our Commons. Quantifiers will even receive TEC tokens (post Commons Upgrade) for their valuable work! Time commitment will be **1-2 hours bi-weekly**, however many hands make for light work so we need as many members as possible to join our Quantifier Pool! We're currently building the onboarding process so especially in this moment, this is the opportunity to provide a **simple and very meaningful contribution** to the evolution of the TEC with your participation and feedback! To learn more about the Reward System (and the Quantifier's role) read up on this forum post -](about:blank#)
+@everyone The New Reward System is gearing up for it's first quantification and I am once again humbly asking for **more Quantifiers** to participate in processing all of the wonderful praise action happening in the TEC. If you're a new member or even a seasoned contributor I would like to invite you to participate in this crucial role within our Commons. Quantifiers will even receive TEC tokens (post Commons Upgrade) for their valuable work! Time commitment will be **1-2 hours bi-weekly**, however many hands make for light work so we need as many members as possible to join our Quantifier Pool! We're currently building the onboarding process so especially in this moment, this is the opportunity to provide a **simple and very meaningful contribution** to the evolution of the TEC with your participation and feedback! To learn more about the Reward System (and the Quantifier's role) read up on this forum post -
 
 [https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646](https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646)
 
@@ -15678,7 +15678,7 @@ Hi! I would like to participate too
 
 Michael Keating
 
-[Hi TEC friends, I’m looking for tokenomics resources for Kernel’s tokenomics curriculum. One good question that came up that I would love to be able to answer: Are there any lists of different tokenomic models / mechanics that one could review to get a sense of the current landscape of incentive systems?](about:blank#)
+Hi TEC friends, I’m looking for tokenomics resources for Kernel’s tokenomics curriculum. One good question that came up that I would love to be able to answer: Are there any lists of different tokenomic models / mechanics that one could review to get a sense of the current landscape of incentive systems?
 
 <h3>tmoindustries <img src="https://cdn.discordapp.com/avatars/840999107656417282/10afb2b60264f7342adcae7a5c620522.png" width=25 height=25></h3>
 
@@ -15696,7 +15696,7 @@ Friends, the new year is coming soon. Do you have any new year wishes?
 
 tmoindustries
 
-[+1 would love to see this also](about:blank#)
++1 would love to see this also
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -15708,7 +15708,7 @@ _31-Dec-21 01:36 PM_:
 
 Downey
 
-[Friends, the new year is coming soon. Do you have any new year wishes?](about:blank#)
+Friends, the new year is coming soon. Do you have any new year wishes?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -15797,7 +15797,7 @@ Join the Volmex community on Discord!
 
 cole | volmex.finance
 
-[ Join the Volmex community on Discord!](about:blank#)
+ Join the Volmex community on Discord!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -15814,7 +15814,7 @@ Thanks for sharing! What is the project about?
 
 Edu - TEC Steward.
 
-[@akrtws (TE Academy) is probably one of the people than can provide a direction on this, if there is one](about:blank#)
+@akrtws (TE Academy) is probably one of the people than can provide a direction on this, if there is one
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
@@ -15826,7 +15826,7 @@ Second to the comment earlier: atm there are no registries/libraries/repositorie
 
 akrtws (TE Academy)
 
-[Second to the comment earlier: atm there are no registries/libraries/repositories with an overview on cryptoeconomic building blocks today. Would love to see one at some point, happy to support any initiative in this sector.](about:blank#)
+Second to the comment earlier: atm there are no registries/libraries/repositories with an overview on cryptoeconomic building blocks today. Would love to see one at some point, happy to support any initiative in this sector.
 
 [https://discord.com/channels/810180621930070088/810180622165213218/925449396907290675](https://discord.com/channels/810180621930070088/810180622165213218/925449396907290675)
 
@@ -15841,7 +15841,7 @@ _03-Jan-22 09:45 AM_:
 
 akrtws (TE Academy)
 
-[Second to the comment earlier: atm there are no registries/libraries/repositories with an overview on cryptoeconomic building blocks today. Would love to see one at some point, happy to support any initiative in this sector.](about:blank#)
+Second to the comment earlier: atm there are no registries/libraries/repositories with an overview on cryptoeconomic building blocks today. Would love to see one at some point, happy to support any initiative in this sector.
 
 [https://discord.com/channels/810180621930070088/810180622165213218/925449396907290675](https://discord.com/channels/810180621930070088/810180622165213218/925449396907290675)
 
@@ -15863,7 +15863,7 @@ Hi! Many thanks for the invitation. Love the Hatch project. A question! I want t
 
 Bergman
 
-[Hi! Many thanks for the invitation. Love the Hatch project. A question! I want to organize my web2 app as a DAO/cooperative. There are several parties/apps willing to help: Aragon, DAOhaus, Squads, Astro. If you have any thoughts or recommendations, it would be great to learn more.](about:blank#)
+Hi! Many thanks for the invitation. Love the Hatch project. A question! I want to organize my web2 app as a DAO/cooperative. There are several parties/apps willing to help: Aragon, DAOhaus, Squads, Astro. If you have any thoughts or recommendations, it would be great to learn more.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -15882,7 +15882,7 @@ Good evening Gentlemen
 
 Ezekiel_Solomons
 
-[Good evening Gentlemen](about:blank#)
+Good evening Gentlemen
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -15910,7 +15910,7 @@ Zoom is the leader in modern enterprise video communications, with an easy, reli
 
 Edu - TEC Steward.
 
-[Nice, congrats on your project, do you have any article to share or links? And if you could develop further, what would you like recommendations on?](about:blank#) 
+Nice, congrats on your project, do you have any article to share or links? And if you could develop further, what would you like recommendations on? 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -15938,7 +15938,7 @@ Rewards System Process The purpose of this system is to create a way to record, 
 
 mitch (🍔, 🍔)
 
-[@everyone The New Reward System is gearing up for it's first quantification and I am once again humbly asking for **more Quantifiers** to participate in processing all of the wonderful praise action happening in the TEC. **The test run for Quantification will be starting within the next couple of weeks! Now is the time to jump in!** If you're a new member or even a seasoned contributor I would like to invite you to participate in this crucial role within our Commons. Quantifiers will even receive TEC tokens (post Commons Upgrade) for their valuable work! Time commitment will be **1-2 hours bi-weekly**, however many hands make for light work so we need as many members as possible to join our Quantifier Pool! We're currently building the onboarding process so especially in this moment, this is the opportunity to provide a **simple and very meaningful contribution** to the evolution of the TEC with your participation and feedback! To learn more about the Reward System (and the Quantifier's role) read up on this forum post -](about:blank#)
+@everyone The New Reward System is gearing up for it's first quantification and I am once again humbly asking for **more Quantifiers** to participate in processing all of the wonderful praise action happening in the TEC. **The test run for Quantification will be starting within the next couple of weeks! Now is the time to jump in!** If you're a new member or even a seasoned contributor I would like to invite you to participate in this crucial role within our Commons. Quantifiers will even receive TEC tokens (post Commons Upgrade) for their valuable work! Time commitment will be **1-2 hours bi-weekly**, however many hands make for light work so we need as many members as possible to join our Quantifier Pool! We're currently building the onboarding process so especially in this moment, this is the opportunity to provide a **simple and very meaningful contribution** to the evolution of the TEC with your participation and feedback! To learn more about the Reward System (and the Quantifier's role) read up on this forum post -
 
 [https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646](https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646)
 
@@ -16029,7 +16029,7 @@ Why does it seem that after so much economic growth, our system is so fragile? W
 
 Bergman
 
-[May I DM you?](about:blank#)
+May I DM you?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -16042,7 +16042,7 @@ sure! go ahead!
 
 Ezekiel_Solomons
 
-[So when do we start? Love all this!](about:blank#)
+So when do we start? Love all this!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -16074,7 +16074,7 @@ Details of the Institutional Analysis and Development Framework The IAD framewor
 
 graial
 
-[Good evening all and happy new year. Im curious if anybody is aware of any open soucre applications of the IAD framework as described by Ostrum in the book `Rules, Games and Common Pool Resources'? Also described here:](about:blank#)
+Good evening all and happy new year. Im curious if anybody is aware of any open soucre applications of the IAD framework as described by Ostrum in the book `Rules, Games and Common Pool Resources'? Also described here:
 
 [https://ocsdnet.org/about-ocsdnet/about-ocs/iad-framework/](https://ocsdnet.org/about-ocsdnet/about-ocs/iad-framework/)
 
@@ -16108,7 +16108,7 @@ hey all, question: is the bot in #your-guide custom built? is it available for o
 
 graial
 
-[Good evening all and happy new year. Im curious if anybody is aware of any open soucre applications of the IAD framework as described by Ostrum in the book `Rules, Games and Common Pool Resources'? Also described here:](about:blank#)
+Good evening all and happy new year. Im curious if anybody is aware of any open soucre applications of the IAD framework as described by Ostrum in the book `Rules, Games and Common Pool Resources'? Also described here:
 
 [https://ocsdnet.org/about-ocsdnet/about-ocs/iad-framework/](https://ocsdnet.org/about-ocsdnet/about-ocs/iad-framework/)
 
@@ -16151,7 +16151,7 @@ I'll be glad to discuss about what I'm exploring, when I'll feel ready to be cha
 
 nic
 
-[@Michael Keating @natesuits @russlive215 (🧙🏾, 🧙🏾)︱40ACRES @tmoindustries @durgadas Session 2 of A Hitchhiker's guide to Token Engineering has begun:](about:blank#)
+@Michael Keating @natesuits @russlive215 (🧙🏾, 🧙🏾)︱40ACRES @tmoindustries @durgadas Session 2 of A Hitchhiker's guide to Token Engineering has begun:
 
 [https://ahitchhikers.substack.com/p/new-years-special-session-2-value](https://ahitchhikers.substack.com/p/new-years-special-session-2-value)
 
@@ -16171,7 +16171,7 @@ This looks cool, I just read through the document. Are these going to be repeate
 
 satchel | PST
 
-[This looks cool, I just read through the document. Are these going to be repeated sessions to discuss existing models or improve token economic designs?](about:blank#)
+This looks cool, I just read through the document. Are these going to be repeated sessions to discuss existing models or improve token economic designs?
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -16192,7 +16192,7 @@ Do try to join next Monday at 2:30ET for the final session. It should still be h
 
 nic
 
-[There is one session left, next Monday for this series. I’ve asked @solsista if there will be other things you can join though and I’ll message you as soon as I know more. The omega working group are also working on building a Token Engineering library. There is a token engineering bootcamp in the works at Longtail Financial](about:blank#)
+There is one session left, next Monday for this series. I’ve asked @solsista if there will be other things you can join though and I’ll message you as soon as I know more. The omega working group are also working on building a Token Engineering library. There is a token engineering bootcamp in the works at Longtail Financial
 
 [https://discord.gg/QN2nuqtr](https://discord.gg/QN2nuqtr)
 
@@ -16214,7 +16214,7 @@ Cool thanks is there a public calendar so I can join?
 
 satchel | PST
 
-[Cool thanks is there a public calendar so I can join?](about:blank#)
+Cool thanks is there a public calendar so I can join?
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -16236,7 +16236,7 @@ Oh cool thanks.
 
 liviade
 
-[  The TEC Community Covenant is up for voting on Snapshot](about:blank#)
+  The TEC Community Covenant is up for voting on Snapshot
 
 ![https://twemoji.maxcdn.com/2/72x72/1f4e2.png](https://twemoji.maxcdn.com/2/72x72/1f4e2.png)
 
@@ -16254,7 +16254,7 @@ I tried to vote but was unable!
 
 zôÖma
 
-[Hey there  Just joining here, and I wanted to say thank you all, for your amazing work Currently working hard on a TE topic, you provided such great & useful ressources  I'll be glad to discuss about what I'm exploring, when I'll feel ready to be challenged! (I guess place for this is in #🙏｜praise but too much people to tag for this time  ) Cheers from Paris!](about:blank#) 
+Hey there  Just joining here, and I wanted to say thank you all, for your amazing work Currently working hard on a TE topic, you provided such great & useful ressources  I'll be glad to discuss about what I'm exploring, when I'll feel ready to be challenged! (I guess place for this is in #🙏｜praise but too much people to tag for this time  ) Cheers from Paris! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -16274,7 +16274,7 @@ Hello there! That's so nice that we could be of help! You can always share your 
 
 matthewchaim
 
-[hey all, question: is the bot in #your-guide custom built? is it available for other servers to install? thx](about:blank#)
+hey all, question: is the bot in #your-guide custom built? is it available for other servers to install? thx
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -16286,7 +16286,7 @@ It is custom built, it was done by our Bot Lord @Vyvy-vi, he can answer your que
 
 innov8tor3
 
-[I tried to vote but was unable!](about:blank#)
+I tried to vote but was unable!
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -16304,7 +16304,7 @@ Zoom is the leader in modern enterprise video communications, with an easy, reli
 
 liviade
 
-[hey everyone @phacker and I are starting a cadCAD bootcamp walkthrough if you're interested to join!](about:blank#)
+hey everyone @phacker and I are starting a cadCAD bootcamp walkthrough if you're interested to join!
 
 [https://us02web.zoom.us/j/86934882255](https://us02web.zoom.us/j/86934882255)
 
@@ -16320,7 +16320,7 @@ Any chance there will be a recording available?
 
 nic
 
-[Any chance there will be a recording available?](about:blank#)
+Any chance there will be a recording available?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -16333,7 +16333,7 @@ yeah, I'll share when we have it :)
 
 liviade
 
-[hey Graial, happy new year! I'm not aware of it, thanks for bringing this framework to my attention, looks really interesting - maybe @JeffEmmett has something here?](about:blank#)
+hey Graial, happy new year! I'm not aware of it, thanks for bringing this framework to my attention, looks really interesting - maybe @JeffEmmett has something here?
 
 <h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
@@ -16346,7 +16346,7 @@ Ok, no worries. I may present a mini-project along those lines in the coming mon
 
 graial
 
-[Ok, no worries. I may present a mini-project along those lines in the coming months. Its just on the drawing board atm.](about:blank#)
+Ok, no worries. I may present a mini-project along those lines in the coming months. Its just on the drawing board atm.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -16387,7 +16387,7 @@ A big topic for myself is governance structures for Houses and for Rome, with an
 
 liviade
 
-[hi @innov8tor3 you need to have TECH tokens to vote - so for now only people who participated in the hatch are able to](about:blank#)
+hi @innov8tor3 you need to have TECH tokens to vote - so for now only people who participated in the hatch are able to
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -16399,7 +16399,7 @@ Thanks. But ... Other help needed, please, can you direct me? If I'm getting pra
 
 innov8tor3
 
-[Thanks. But ... Other help needed, please, can you direct me? If I'm getting praise, a) where do I see that accumulated? b) can I exchange that for something IRL?](about:blank#)
+Thanks. But ... Other help needed, please, can you direct me? If I'm getting praise, a) where do I see that accumulated? b) can I exchange that for something IRL?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -16422,7 +16422,7 @@ is there a community call or i'm tripping?
 
 liviade
 
-[after this, you will be able to see your score and you'll receive TEC tokens every 2 weeks. TEC tokens will have both governance and financial value](about:blank#)
+after this, you will be able to see your score and you'll receive TEC tokens every 2 weeks. TEC tokens will have both governance and financial value
 
 <h3>shawn <img src="https://cdn.discordapp.com/avatars/759534214025707621/0b4afd0ddd7a1ad11302e8e2817366ba.png" width=25 height=25></h3>
 
@@ -16434,7 +16434,7 @@ Hi liviade, do we have schedule when Commons Upgrade will finish?
 
 liviade
 
-[we are working on improvements for the reward system now, so praise quantification has stopped since the hatch, and will resume soon - we have a test quant next week if you're interested to join!](about:blank#)
+we are working on improvements for the reward system now, so praise quantification has stopped since the hatch, and will resume soon - we have a test quant next week if you're interested to join!
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -16446,7 +16446,7 @@ Testing for sure is important. Timings matter, for me, to fit things in. When wo
 
 shawn
 
-[Hi liviade, do we have schedule when Commons Upgrade will finish?](about:blank#)
+Hi liviade, do we have schedule when Commons Upgrade will finish?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -16464,7 +16464,7 @@ Commons Upgrade Voter Pamphlet Pick a time to join one of our debates! Reading t
 
 liviade
 
-[yeah! On friday the runoff votes for the commons upgrade params will take place. It ends on the following thursday. The winning params will be submitted to the hatch DAO with one more week voting process and that should be it. Give it a couple of days buffer but we are around 15 days away. -- Check out the voting pamphlets for the upcoming runoff votes :)](about:blank#)
+yeah! On friday the runoff votes for the commons upgrade params will take place. It ends on the following thursday. The winning params will be submitted to the hatch DAO with one more week voting process and that should be it. Give it a couple of days buffer but we are around 15 days away. -- Check out the voting pamphlets for the upcoming runoff votes :)
 
 [https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit#slide=id.g10a2af6295c_2_0](https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit#slide=id.g10a2af6295c_2_0)
 
@@ -16478,7 +16478,7 @@ Great. We are waiting for so long
 
 innov8tor3
 
-[Testing for sure is important. Timings matter, for me, to fit things in. When would this be, and can I work asynch on it?](about:blank#)
+Testing for sure is important. Timings matter, for me, to fit things in. When would this be, and can I work asynch on it?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -16491,7 +16491,7 @@ yeah! you can work mostly async on it - I just tagged you in the "calling all qu
 
 Ezekiel_Solomons
 
-[is there a community call or i'm tripping?](about:blank#)
+is there a community call or i'm tripping?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -16509,7 +16509,7 @@ If I want to be a token engineer what should I be paying attention to and what s
 
 TΞN
 
-[If I want to be a token engineer what should I be paying attention to and what should I endeavour to learn ? Would prefer it if you were as specific as possible. Thanks](about:blank#)
+If I want to be a token engineer what should I be paying attention to and what should I endeavour to learn ? Would prefer it if you were as specific as possible. Thanks
 
 <h3>Ezekiel_Solomons <img src="https://cdn.discordapp.com/avatars/685576579388276776/8ff15b7daaf8e488f8c4428478bf6291.png" width=25 height=25></h3>
 
@@ -16521,7 +16521,7 @@ That's an excellent question
 
 Ezekiel_Solomons
 
-[That's an excellent question](about:blank#)
+That's an excellent question
 
 <h3>TΞN <img src="https://cdn.discordapp.com/avatars/592138907873968178/fc33d5f912aa2bc97b45943d4a13b8ef.png" width=25 height=25></h3>
 
@@ -16545,7 +16545,7 @@ _07-Jan-22 12:55 PM_:
 
 zcq
 
-[@mitch (🍔, 🍔) Hello!](about:blank#)
+@mitch (🍔, 🍔) Hello!
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -16575,7 +16575,7 @@ greetings. Its my first rodeo. Im building a DeFi protocol governed by a DAO. Co
 
 B cryptsky
 
-[greetings. Its my first rodeo. Im building a DeFi protocol governed by a DAO. Concept has product market fit and the tech will be good too. Just need to figure the token design/ tokenomics out. Anyone here with the knowledge want to jump on board or willing to help me out? i have a model, just not sure if it will work](about:blank#)
+greetings. Its my first rodeo. Im building a DeFi protocol governed by a DAO. Concept has product market fit and the tech will be good too. Just need to figure the token design/ tokenomics out. Anyone here with the knowledge want to jump on board or willing to help me out? i have a model, just not sure if it will work
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -16587,7 +16587,7 @@ Um, @griff (💜, 💜) , who should I be directing B cryptsky towards?
 
 innov8tor3
 
-[Um, @griff (💜, 💜) , who should I be directing B cryptsky towards?](about:blank#)
+Um, @griff (💜, 💜) , who should I be directing B cryptsky towards?
 
 <h3>B cryptsky <img src="https://cdn.discordapp.com/avatars/834878486534553651/8a001777c393d49ec21dbee81f6799b3.png" width=25 height=25></h3>
 
@@ -16601,7 +16601,7 @@ I’m open to partnership or paid services, whatever suits the person/persons pr
 
 B cryptsky
 
-[ I’m open to partnership or paid services, whatever suits the person/persons proving the support I need. I think the project details may spark some interest for a partnership arrangement however.](about:blank#)
+ I’m open to partnership or paid services, whatever suits the person/persons proving the support I need. I think the project details may spark some interest for a partnership arrangement however.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
@@ -16615,7 +16615,7 @@ I should note it's pretty busy here, and folk are usually around to pick up loos
 
 innov8tor3
 
-[I should note it's pretty busy here, and folk are usually around to pick up loose threads and bring them into the working fabric. This time you got me, I'm generally helpful, but not at the core of the working groups, apart from Gravity, which is DAO Governance. I think Gravity comes further down the line, and I don't know the other Working Groups so well. A key suggestion, if you see an online discussion, jump into it and ask for directions!](about:blank#)
+I should note it's pretty busy here, and folk are usually around to pick up loose threads and bring them into the working fabric. This time you got me, I'm generally helpful, but not at the core of the working groups, apart from Gravity, which is DAO Governance. I think Gravity comes further down the line, and I don't know the other Working Groups so well. A key suggestion, if you see an online discussion, jump into it and ask for directions!
 
 <h3>B cryptsky <img src="https://cdn.discordapp.com/avatars/834878486534553651/8a001777c393d49ec21dbee81f6799b3.png" width=25 height=25></h3>
 
@@ -16629,7 +16629,7 @@ I’m kinda confused as to how to benefit from this channel and getting some sup
 
 B cryptsky
 
-[greetings. Its my first rodeo. Im building a DeFi protocol governed by a DAO. Concept has product market fit and the tech will be good too. Just need to figure the token design/ tokenomics out. Anyone here with the knowledge want to jump on board or willing to help me out? i have a model, just not sure if it will work](about:blank#)
+greetings. Its my first rodeo. Im building a DeFi protocol governed by a DAO. Concept has product market fit and the tech will be good too. Just need to figure the token design/ tokenomics out. Anyone here with the knowledge want to jump on board or willing to help me out? i have a model, just not sure if it will work
 
 <h3>MΞLK <img src="https://cdn.discordapp.com/avatars/507916856821284894/c93063f3b6cdb694b839fe934fb569aa.png" width=25 height=25></h3>
 
@@ -16662,7 +16662,7 @@ _08-Jan-22 12:03 PM_:
 
 Edu - TEC Steward.
 
-[@MΞLK @B cryptsky Hello there! We aren't currently not providing consultancy for projects, but we are encouraging people participation on our community as a way to learn and receive meaningful feedback for your projects. I can suggest to post a job offering or paid consultancy on the Job Board channel, below this one. You can also engage with our Working Groups, like parameters and common swarm, and check if someone there is knowledgable on topics related to yours and engage privately with them if you feel like it. And finally, i am sending you an invitation to the Token Engineering discord server, which have also a lot of Token Engineers that may be interested on helping you!](about:blank#)
+@MΞLK @B cryptsky Hello there! We aren't currently not providing consultancy for projects, but we are encouraging people participation on our community as a way to learn and receive meaningful feedback for your projects. I can suggest to post a job offering or paid consultancy on the Job Board channel, below this one. You can also engage with our Working Groups, like parameters and common swarm, and check if someone there is knowledgable on topics related to yours and engage privately with them if you feel like it. And finally, i am sending you an invitation to the Token Engineering discord server, which have also a lot of Token Engineers that may be interested on helping you!
 
 [https://discord.gg/m3wPpTCt](https://discord.gg/m3wPpTCt)
 
@@ -16678,7 +16678,7 @@ Thanks for the clarification
 
 B cryptsky
 
-[greetings. Its my first rodeo. Im building a DeFi protocol governed by a DAO. Concept has product market fit and the tech will be good too. Just need to figure the token design/ tokenomics out. Anyone here with the knowledge want to jump on board or willing to help me out? i have a model, just not sure if it will work](about:blank#)
+greetings. Its my first rodeo. Im building a DeFi protocol governed by a DAO. Concept has product market fit and the tech will be good too. Just need to figure the token design/ tokenomics out. Anyone here with the knowledge want to jump on board or willing to help me out? i have a model, just not sure if it will work
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -16725,7 +16725,7 @@ _08-Jan-22 12:57 PM_:
 
 nic
 
-[If you're wanting to DIY rather than hire a token engineer, I recommend joining these sessions](about:blank#)
+If you're wanting to DIY rather than hire a token engineer, I recommend joining these sessions
 
 [https://ahitchhikers.substack.com/p/new-years-special-series-when-the](https://ahitchhikers.substack.com/p/new-years-special-series-when-the)
 
@@ -16755,7 +16755,7 @@ Problem is I have more than one model depending on the route I take. I want to d
 
 bigaj94
 
-[[thread]: HI! I'd love to discuss your DAO in more detail. We are building tools to help DAO founders solve this exact problem.](about:blank#)
+[thread]: HI! I'd love to discuss your DAO in more detail. We are building tools to help DAO founders solve this exact problem.
 
 <h3>B cryptsky <img src="https://cdn.discordapp.com/avatars/834878486534553651/8a001777c393d49ec21dbee81f6799b3.png" width=25 height=25></h3>
 
@@ -16767,7 +16767,7 @@ Please get in touch my man
 
 B cryptsky
 
-[Problem is I have more than one model depending on the route I take. I want to do a fair distribution via platform rewards but that means less initial capital to make the project successful. I’m assuming fundraising means higher market cap on TGE and less organic growth. Also I’m not sure in either scenario if my APR models for token distribution will constitute to a failure of the economic system when taking into account token price scenarios. With or without fundraising I’m not even sure what amounts I should initialize the liquidity pool with and how much of a buffer for market making is required to manage the validity of the model. I just feel that through the sessions I will be going further down the rabbit hole without building an optimal model. Without the support/services of someone with experience I feel ill just be trying to wing it, which isn’t fair on the community I’m trying to build via this project. I’m willing to pay for such services but would prefer an mix of partnership and paid service.](about:blank#)
+Problem is I have more than one model depending on the route I take. I want to do a fair distribution via platform rewards but that means less initial capital to make the project successful. I’m assuming fundraising means higher market cap on TGE and less organic growth. Also I’m not sure in either scenario if my APR models for token distribution will constitute to a failure of the economic system when taking into account token price scenarios. With or without fundraising I’m not even sure what amounts I should initialize the liquidity pool with and how much of a buffer for market making is required to manage the validity of the model. I just feel that through the sessions I will be going further down the rabbit hole without building an optimal model. Without the support/services of someone with experience I feel ill just be trying to wing it, which isn’t fair on the community I’m trying to build via this project. I’m willing to pay for such services but would prefer an mix of partnership and paid service.
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -16785,7 +16785,7 @@ We design, model, and verify complex tokenomic systems proven to boost your fund
 
 nic
 
-[based on what you said, it does sound like you're better off hiring. I saw you already posted on the job board so that's great! You could check this out too](about:blank#)
+based on what you said, it does sound like you're better off hiring. I saw you already posted on the job board so that's great! You could check this out too
 
 [https://www.longtailfinancial.com/](https://www.longtailfinancial.com/)
 
@@ -16802,7 +16802,7 @@ Thanks Bud
 
 ubuku💥
 
-[[thread]: Hello to you and @MΞLK happy to help or consult.](about:blank#)
+[thread]: Hello to you and @MΞLK happy to help or consult.
 
 <h3>B cryptsky <img src="https://cdn.discordapp.com/avatars/834878486534553651/8a001777c393d49ec21dbee81f6799b3.png" width=25 height=25></h3>
 
@@ -16836,7 +16836,7 @@ _08-Jan-22 11:41 PM_:
 
 B cryptsky
 
-[So it’s more of asking questions and getting some guidance rather than direct support?](about:blank#)
+So it’s more of asking questions and getting some guidance rather than direct support?
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -16848,7 +16848,7 @@ There is support, but because of the decentralising, it could come from several 
 
 B cryptsky
 
-[I’m kinda confused as to how to benefit from this channel and getting some support for my token design/architecture](about:blank#)
+I’m kinda confused as to how to benefit from this channel and getting some support for my token design/architecture
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -16860,7 +16860,7 @@ One suggestion is to have an outline description of what you want to do that you
 
 B cryptsky
 
-[Problem is I have more than one model depending on the route I take. I want to do a fair distribution via platform rewards but that means less initial capital to make the project successful. I’m assuming fundraising means higher market cap on TGE and less organic growth. Also I’m not sure in either scenario if my APR models for token distribution will constitute to a failure of the economic system when taking into account token price scenarios. With or without fundraising I’m not even sure what amounts I should initialize the liquidity pool with and how much of a buffer for market making is required to manage the validity of the model. I just feel that through the sessions I will be going further down the rabbit hole without building an optimal model. Without the support/services of someone with experience I feel ill just be trying to wing it, which isn’t fair on the community I’m trying to build via this project. I’m willing to pay for such services but would prefer an mix of partnership and paid service.](about:blank#)
+Problem is I have more than one model depending on the route I take. I want to do a fair distribution via platform rewards but that means less initial capital to make the project successful. I’m assuming fundraising means higher market cap on TGE and less organic growth. Also I’m not sure in either scenario if my APR models for token distribution will constitute to a failure of the economic system when taking into account token price scenarios. With or without fundraising I’m not even sure what amounts I should initialize the liquidity pool with and how much of a buffer for market making is required to manage the validity of the model. I just feel that through the sessions I will be going further down the rabbit hole without building an optimal model. Without the support/services of someone with experience I feel ill just be trying to wing it, which isn’t fair on the community I’m trying to build via this project. I’m willing to pay for such services but would prefer an mix of partnership and paid service.
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 

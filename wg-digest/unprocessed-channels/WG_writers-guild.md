@@ -64,7 +64,7 @@ are you a writer, @Incandenza?
 
 Gideonro
 
-[are you a writer, @Incandenza?](about:blank#)
+are you a writer, @Incandenza?
 
 <h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
@@ -78,7 +78,7 @@ Hi @Gideonro, I used to be a journalist and I've done some creative writing. Wha
 
 Incandenza
 
-[Hi @Gideonro, I used to be a journalist and I've done some creative writing. What's this guild about?](about:blank#)
+Hi @Gideonro, I used to be a journalist and I've done some creative writing. What's this guild about?
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -109,7 +109,7 @@ When will your next meeting be? Couldn't find it on the calendar!
 
 Incandenza
 
-[When will your next meeting be? Couldn't find it on the calendar!](about:blank#)
+When will your next meeting be? Couldn't find it on the calendar!
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -126,7 +126,7 @@ Thanks @jasontphelpsNH! That might be too late for me though, I'm in Europe <img
 
 Incandenza
 
-[Thanks @jasontphelpsNH! That might be too late for me though, I'm in Europe](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+Thanks @jasontphelpsNH! That might be too late for me though, I'm in Europe  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -149,7 +149,7 @@ Also, I'm writing a Medium article too so I'd like to know how to best do it
 
 durgadas
 
-[We're having the Gravity Web site meeting on Fridays. Today it's in 5 min (2pm) but I'll move it earlier next week.](about:blank#)
+We're having the Gravity Web site meeting on Fridays. Today it's in 5 min (2pm) but I'll move it earlier next week.
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -238,7 +238,7 @@ Let's add setting the featured image to our publishing checklist - otherwise no 
 
 Gideonro
 
-[Let's add setting the featured image to our publishing checklist - otherwise no image when it's shared⬆︎](about:blank#)
+Let's add setting the featured image to our publishing checklist - otherwise no image when it's shared⬆︎
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -302,7 +302,7 @@ getting folks from like-minded communities to contribute, or setting up informal
 
 taxil
 
-[was blown away by this piece](about:blank#)
+was blown away by this piece
 
 [https://www.makery.info/en/2022/04/30/english-the-real-crypto-movement/](https://www.makery.info/en/2022/04/30/english-the-real-crypto-movement/)
 
@@ -343,7 +343,7 @@ I'd like to get started on the "What is Tokenomics?" article. Is there any reaso
 
 Gaian
 
-[I'd like to get started on the "What is Tokenomics?" article. Is there any reason not to start reaching out to the folks in labs? Any considerations on length, format, etc?](about:blank#)
+I'd like to get started on the "What is Tokenomics?" article. Is there any reason not to start reaching out to the folks in labs? Any considerations on length, format, etc?
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -355,7 +355,7 @@ We would love to have an active queue of works so I think it would be great to g
 
 jasontphelpsNH
 
-[We would love to have an active queue of works so I think it would be great to get it moving. Let us know how we can help.](about:blank#)
+We would love to have an active queue of works so I think it would be great to get it moving. Let us know how we can help.
 
 <h3>Gaian <img src="https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png" width=25 height=25></h3>
 
@@ -369,7 +369,7 @@ Is it an article that can be of any length? Is it a paragraph nestled within a c
 
 Gaian
 
-[What is the context it will be presented in?](about:blank#)
+What is the context it will be presented in?
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -405,7 +405,7 @@ It would be Communitas due to its applicability to the FAQ and web site. Looking
 
 Gaian
 
-[I'd like to get started on the "What is Tokenomics?" article. Is there any reason not to start reaching out to the folks in labs? Any considerations on length, format, etc?](about:blank#)
+I'd like to get started on the "What is Tokenomics?" article. Is there any reason not to start reaching out to the folks in labs? Any considerations on length, format, etc?
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -423,7 +423,7 @@ I think we should do a story on the TEC's conviction voting - it's pretty cool
 
 Gideonro
 
-[I think we should do a story on the TEC's conviction voting - it's pretty cool](about:blank#)
+I think we should do a story on the TEC's conviction voting - it's pretty cool
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -435,7 +435,7 @@ Definitely a great idea. Any clue as to what other DAOs might use this same proc
 
 Gideonro
 
-[Need to hold off on these ones for right now - still thinking through where this would go. What about the piece on Tam's talk, @Gaian - are you still on for that one?](about:blank#)
+Need to hold off on these ones for right now - still thinking through where this would go. What about the piece on Tam's talk, @Gaian - are you still on for that one?
 
 <h3>Gaian <img src="https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png" width=25 height=25></h3>
 
@@ -448,7 +448,7 @@ Sure, I can do that one first.
 
 Incandenza
 
-[Thanks @jasontphelpsNH! That might be too late for me though, I'm in Europe](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+Thanks @jasontphelpsNH! That might be too late for me though, I'm in Europe  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -509,7 +509,7 @@ would it be poss for me to get a diff't role -- just to avoid the new member pin
 
 taxil
 
-[would it be poss for me to get a diff't role -- just to avoid the new member pings?](about:blank#)
+would it be poss for me to get a diff't role -- just to avoid the new member pings?
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -535,7 +535,7 @@ Connect your wallet, share token-gated documents, coordinate projects and propos
 
 Gideonro
 
-[let me take a look](about:blank#)
+let me take a look
 
 ![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
 
@@ -547,7 +547,7 @@ ty ty ty
 
 jasontphelpsNH
 
-[Here's the agenda for the 6/7 Writers Guild meeting. You will find us in our voice channel at 5 PM EST.](about:blank#)
+Here's the agenda for the 6/7 Writers Guild meeting. You will find us in our voice channel at 5 PM EST.
 
 [https://app.clarity.so/tecwriters/pages/91fa6565-8136-46ca-84d4-1ab5e6a8928e](https://app.clarity.so/tecwriters/pages/91fa6565-8136-46ca-84d4-1ab5e6a8928e)
 
@@ -563,7 +563,7 @@ i'll have to miss today's meeting, apologies -- i'll be having way more fun at t
 
 taxil
 
-[i'll have to miss today's meeting, apologies -- i'll be having way more fun at the dentist](about:blank#)
+i'll have to miss today's meeting, apologies -- i'll be having way more fun at the dentist
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -587,7 +587,7 @@ I went ahead and created a "Writers" role with a small icon last night. If anyon
 
 gene
 
-[I went ahead and created a "Writers" role with a small icon last night. If anyone would like the icon/color scheme to be different, let me know and I'll make the changes this evening.](about:blank#)   <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=20 height=20>
+I went ahead and created a "Writers" role with a small icon last night. If anyone would like the icon/color scheme to be different, let me know and I'll make the changes this evening.   <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=20 height=20>
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -600,7 +600,7 @@ Neat, thank you!
 
 gene
 
-[I went ahead and created a "Writers" role with a small icon last night. If anyone would like the icon/color scheme to be different, let me know and I'll make the changes this evening.](about:blank#)   <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=20 height=20>
+I went ahead and created a "Writers" role with a small icon last night. If anyone would like the icon/color scheme to be different, let me know and I'll make the changes this evening.   <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=20 height=20>
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -614,7 +614,7 @@ I actually noticed that yesterday and was wondering how that happened!
 
 jasontphelpsNH
 
-[Felt pretty good to click publish on my first blog piece in over 5 years. I am tending to the gardens at home again, and I wrote about the 20+ year home gardening journey we've been on where I am currently living.](about:blank#)
+Felt pretty good to click publish on my first blog piece in over 5 years. I am tending to the gardens at home again, and I wrote about the 20+ year home gardening journey we've been on where I am currently living.
 
 [https://medium.com/@jasonphelpsnh/back-in-the-garden-b4ac93ac93a3](https://medium.com/@jasonphelpsnh/back-in-the-garden-b4ac93ac93a3)
 
@@ -633,7 +633,7 @@ Nice piece Jason! I'm thoroughly envious of your garden and woodlands. Living in
 
 gene
 
-[Nice piece Jason! I'm thoroughly envious of your garden and woodlands. Living in the desert has its benefits (no snow  ) and its detriments (few gardens beyond cacti  ). I hope to have the opportunity to be as brave as you and "go back to the roots" someday. Cheers m8.](about:blank#)   <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f37b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="$5" width=20 height=20>
+Nice piece Jason! I'm thoroughly envious of your garden and woodlands. Living in the desert has its benefits (no snow  ) and its detriments (few gardens beyond cacti  ). I hope to have the opportunity to be as brave as you and "go back to the roots" someday. Cheers m8.   <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f37b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -660,7 +660,7 @@ Message to TEC Token Holders Draft 1.0 It’s been a little over four months sin
 
 Gideonro
 
-[Hey @Writer I've got a message to TEC token holders that could use some eyes on it. It's already fairly far down the review process, having gotten feedback from the stewards and a bunch of resulting changes. So, no major directional changes. What I am looking for are areas that seem unclear or could be said with more concision. Could I get some help? @taxil, I'm also wondering whether you would be willing and able to do an editorial pass, on say Wed of next week?](about:blank#)
+Hey @Writer I've got a message to TEC token holders that could use some eyes on it. It's already fairly far down the review process, having gotten feedback from the stewards and a bunch of resulting changes. So, no major directional changes. What I am looking for are areas that seem unclear or could be said with more concision. Could I get some help? @taxil, I'm also wondering whether you would be willing and able to do an editorial pass, on say Wed of next week?
 
 [https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing](https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing) <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
@@ -674,7 +674,7 @@ I only found one grammatical issue after a pass through. I am musing over the en
 
 jasontphelpsNH
 
-[I only found one grammatical issue after a pass through. I am musing over the entire letter from the perspective of a shareholder update or similar documentation. I've been involved in helping portfolio managers prepare information for institutional fund managers so I have a few different experiences to reflect on. I'll let you know if I come up with anything useful.](about:blank#)
+I only found one grammatical issue after a pass through. I am musing over the entire letter from the perspective of a shareholder update or similar documentation. I've been involved in helping portfolio managers prepare information for institutional fund managers so I have a few different experiences to reflect on. I'll let you know if I come up with anything useful.
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 

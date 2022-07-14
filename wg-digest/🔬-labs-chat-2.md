@@ -86,7 +86,7 @@ ConsenSys Academy Courses Bootcamp - ConsenSys
 
 blairv
 
-[The idea is to gather some study buddies together to go through the cadCAD Foundations Bootcamp this spring. @ygg_anderson has graciously offered up the TEC Lab Friday slot for a few weeks for us to meet. Format: alternate people leading through their work on that weeks module and helping each other when we are stuck. Also, the cadCAD Academy team is preparing some advanced "Hacks", or model use-cases, that serve as stand alone modules. His team has agreed to drop in for a session or two to lead a Q&A. I think having them demo the Hacks would be a good use of time or they can answer general questions. Proposed schedule: April 2nd for 5 weeks...we can compress the first few setup classes and leave more time for the capstone and visiting cadCAD prof's Q&A. Sound good?  (edited)](about:blank#)
+The idea is to gather some study buddies together to go through the cadCAD Foundations Bootcamp this spring. @ygg_anderson has graciously offered up the TEC Lab Friday slot for a few weeks for us to meet. Format: alternate people leading through their work on that weeks module and helping each other when we are stuck. Also, the cadCAD Academy team is preparing some advanced "Hacks", or model use-cases, that serve as stand alone modules. His team has agreed to drop in for a session or two to lead a Q&A. I think having them demo the Hacks would be a good use of time or they can answer general questions. Proposed schedule: April 2nd for 5 weeks...we can compress the first few setup classes and leave more time for the capstone and visiting cadCAD prof's Q&A. Sound good?  (edited)
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -98,7 +98,7 @@ _23-Mar-21 09:50 AM_:
 
 phacker
 
-[@blairv @ygg_anderson saw the post in the comms channel about this - I'd love to be involved! If you need a hand with organizing the classes, curriculum, content, etc. let me know! otherwise, I'll for sure be there on the 2nd](about:blank#)
+@blairv @ygg_anderson saw the post in the comms channel about this - I'd love to be involved! If you need a hand with organizing the classes, curriculum, content, etc. let me know! otherwise, I'll for sure be there on the 2nd
 
 <h3>blairv <img src="https://cdn.discordapp.com/avatars/484862180370677761/b430b9edbb6602da725c07f9e6b3d517.png" width=25 height=25></h3>
 
@@ -343,7 +343,7 @@ Hi guys! Not sure am I using the right channel for the question, but I'd be than
 
 JessicaZartler
 
-[Hey guys, sadly I won't make the Bootcamp today  totally forgot we have Commons Stack sprint retro every other Friday at Noon - so I will be joining you every other Friday.. For accountabilibuddies: I went over sections 1 & 2 of the course and installed the Jupyter notebook for cadCADedu and ran the practice scripts.. couldn't see the data visulization so will have to figure out why (I will ask you YGG in our sync next week).. otherwise, great! Over the weekend will dive into Section 3 Python crash course... I did the robot & marbles tutorial some months ago.. have fun today everyone and see you next Friday!  *Sharing again this link for those who missed it last week/above: cadCAD Onboarding TL;DR](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=20 height=20>
+Hey guys, sadly I won't make the Bootcamp today  totally forgot we have Commons Stack sprint retro every other Friday at Noon - so I will be joining you every other Friday.. For accountabilibuddies: I went over sections 1 & 2 of the course and installed the Jupyter notebook for cadCADedu and ran the practice scripts.. couldn't see the data visulization so will have to figure out why (I will ask you YGG in our sync next week).. otherwise, great! Over the weekend will dive into Section 3 Python crash course... I did the robot & marbles tutorial some months ago.. have fun today everyone and see you next Friday!  *Sharing again this link for those who missed it last week/above: cadCAD Onboarding TL;DR <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=20 height=20>
 
 [https://www.notion.so/cadCAD-Onboarding-TL-DR-e0da826e676344ee94d71d39d65d4fc2](https://www.notion.so/cadCAD-Onboarding-TL-DR-e0da826e676344ee94d71d39d65d4fc2)
 
@@ -575,7 +575,7 @@ Contribute to CommonsBuild/praise-quantification development by creating an acco
 
 Lauren
 
-[Hey friends, I never used screencast before, but a bit after the lab started today (featuring @danlessa  ) I decided to try it out so that anyone who missed the session could still get in on it! So apologies for starting late, but I got most of it!](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=20 height=20>
+Hey friends, I never used screencast before, but a bit after the lab started today (featuring @danlessa  ) I decided to try it out so that anyone who missed the session could still get in on it! So apologies for starting late, but I got most of it! <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=20 height=20>
 
 [https://www.screencast.com/t/jLd8mGyr8i1T](https://www.screencast.com/t/jLd8mGyr8i1T)
 
@@ -644,7 +644,7 @@ Analyzing Praise. Contribute to CommonsBuild/praiseanalysis development by creat
 
 randomshinichi
 
-[Something wrong with the RTC server? I can't join the call anymore, it just says RTC Connecting](about:blank#)
+Something wrong with the RTC server? I can't join the call anymore, it just says RTC Connecting
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -684,7 +684,7 @@ hey @ygg_anderson @sem(🌸,🐝) @JessicaZartler I won't be able to join the se
 
 liviade
 
-[hey @ygg_anderson @sem(🌸,🐝) @JessicaZartler I won't be able to join the session today, but wanted to share 2 points we discussed in soft gov that could be interesting. 1. How would the results look if we played with the percentage of IH that went to paid contributors. Right now we have 15%. We could look into 30, 40 and 50 for example. 2. Is there a way to map the double praises just to look at them grouped?  (edited)](about:blank#)
+hey @ygg_anderson @sem(🌸,🐝) @JessicaZartler I won't be able to join the session today, but wanted to share 2 points we discussed in soft gov that could be interesting. 1. How would the results look if we played with the percentage of IH that went to paid contributors. Right now we have 15%. We could look into 30, 40 and 50 for example. 2. Is there a way to map the double praises just to look at them grouped?  (edited)
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -696,7 +696,7 @@ _24-May-21 12:50 AM_:
 
 Lauren
 
-[Hey friends, I never used screencast before, but a bit after the lab started today (featuring @danlessa  ) I decided to try it out so that anyone who missed the session could still get in on it! So apologies for starting late, but I got most of it!](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=20 height=20>
+Hey friends, I never used screencast before, but a bit after the lab started today (featuring @danlessa  ) I decided to try it out so that anyone who missed the session could still get in on it! So apologies for starting late, but I got most of it! <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=20 height=20>
 
 [https://www.screencast.com/t/jLd8mGyr8i1T](https://www.screencast.com/t/jLd8mGyr8i1T)
 
@@ -710,7 +710,7 @@ This is an awesome resource @Lauren thanks for catching that. Screencast looks i
 
 liviade
 
-[hey @ygg_anderson @sem(🌸,🐝) @JessicaZartler I won't be able to join the session today, but wanted to share 2 points we discussed in soft gov that could be interesting. 1. How would the results look if we played with the percentage of IH that went to paid contributors. Right now we have 15%. We could look into 30, 40 and 50 for example. 2. Is there a way to map the double praises just to look at them grouped?  (edited)](about:blank#)
+hey @ygg_anderson @sem(🌸,🐝) @JessicaZartler I won't be able to join the session today, but wanted to share 2 points we discussed in soft gov that could be interesting. 1. How would the results look if we played with the percentage of IH that went to paid contributors. Right now we have 15%. We could look into 30, 40 and 50 for example. 2. Is there a way to map the double praises just to look at them grouped?  (edited)
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -752,7 +752,7 @@ Extreme technologist. Hyper connected computing scientist. Early crypto adopter.
 
 ygg_anderson
 
-[I think we can have interesting results in two weeks from tomorrow. That would be June 9th. This research could certainly be expanded into something like an 8 week project scope. That kind of thing could be facilitated by the token engineering academy. If sessions are on Sundays and Wednesday mornings PST, then I'm happy to hack on this for at least a few weeks. Hope that helps. Meeting this Wednesday 9am PST.](about:blank#)
+I think we can have interesting results in two weeks from tomorrow. That would be June 9th. This research could certainly be expanded into something like an 8 week project scope. That kind of thing could be facilitated by the token engineering academy. If sessions are on Sundays and Wednesday mornings PST, then I'm happy to hack on this for at least a few weeks. Hope that helps. Meeting this Wednesday 9am PST.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -805,7 +805,7 @@ Last month I presented a model that simulated the size of my monstera house plan
 
 ygg_anderson
 
-[I'm just thinking about the above. Should labs be its own WG outside of params? This would make a lot of sense in terms of covering the surface are of the cadcad bootcamp and study sessions being lead by @blairv and @phacker . <<>> I would be happy to champion a labs working group -- I think this would be a good. - Then in the weekly community call there would be a space to announce study groups, research groups, research results, ect.](about:blank#)
+I'm just thinking about the above. Should labs be its own WG outside of params? This would make a lot of sense in terms of covering the surface are of the cadcad bootcamp and study sessions being lead by @blairv and @phacker . <<>> I would be happy to champion a labs working group -- I think this would be a good. - Then in the weekly community call there would be a space to announce study groups, research groups, research results, ect.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -817,7 +817,7 @@ yesss!!!!!!!
 
 phacker
 
-[Hey Labs peeps! Has anyone been working on a cool model or learned anything exciting in cadCAD recently? I'm looking for someone to show off their model off in the monthly cadCAD community call next wednesday  For the group that recently wrapped up the boot camp, the capstone models would be perfect content! (@blairv @Lauren @DecentralizeSDGs @Letty @johann @mateodaza ) If you'd be interested, plz reach out](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f4c8.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
+Hey Labs peeps! Has anyone been working on a cool model or learned anything exciting in cadCAD recently? I'm looking for someone to show off their model off in the monthly cadCAD community call next wednesday  For the group that recently wrapped up the boot camp, the capstone models would be perfect content! (@blairv @Lauren @DecentralizeSDGs @Letty @johann @mateodaza ) If you'd be interested, plz reach out  <img src="https://twemoji.maxcdn.com/2/72x72/1f4c8.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -829,7 +829,7 @@ _27-May-21 02:27 PM_:
 
 ygg_anderson
 
-[I'm just thinking about the above. Should labs be its own WG outside of params? This would make a lot of sense in terms of covering the surface are of the cadcad bootcamp and study sessions being lead by @blairv and @phacker . <<>> I would be happy to champion a labs working group -- I think this would be a good. - Then in the weekly community call there would be a space to announce study groups, research groups, research results, ect.](about:blank#)
+I'm just thinking about the above. Should labs be its own WG outside of params? This would make a lot of sense in terms of covering the surface are of the cadcad bootcamp and study sessions being lead by @blairv and @phacker . <<>> I would be happy to champion a labs working group -- I think this would be a good. - Then in the weekly community call there would be a space to announce study groups, research groups, research results, ect.
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -918,7 +918,7 @@ Pinned a message.
 
 ygg_anderson
 
-[Hi everyone! We are initializing a 30 minute weekly sync for labs updates to help everyone track what's unfolding! I feel like Friday's at 9:00amPST/6PMCET is actually a good time. This would take the cadcad bootcamp slot prior to it being rebooted @phacker @blairv - would this work? Maybe cadcad bootcamp gets shifted to 6:30PMCET?  (edited)](about:blank#)
+Hi everyone! We are initializing a 30 minute weekly sync for labs updates to help everyone track what's unfolding! I feel like Friday's at 9:00amPST/6PMCET is actually a good time. This would take the cadcad bootcamp slot prior to it being rebooted @phacker @blairv - would this work? Maybe cadcad bootcamp gets shifted to 6:30PMCET?  (edited)
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -972,7 +972,7 @@ CVTEMP
 
 Craig
 
-[@ygg_anderson here is an example of the kind of applications i work on. grad work actually in snow hydrology (snowmelt runoff/snowpack metamorphism/energy balance modeling) but cut my teeth developing flow and water temperature models for grand canyon. lots and lots of field work  alas, that was a few decades ago. some nice visualizations in here. happy to share other resources.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
+@ygg_anderson here is an example of the kind of applications i work on. grad work actually in snow hydrology (snowmelt runoff/snowpack metamorphism/energy balance modeling) but cut my teeth developing flow and water temperature models for grand canyon. lots and lots of field work  alas, that was a few decades ago. some nice visualizations in here. happy to share other resources. <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 [https://oceanview.pfeg.noaa.gov/CVTEMP/](https://oceanview.pfeg.noaa.gov/CVTEMP/)
 
@@ -1132,7 +1132,7 @@ A quick reminder for the two meetings tomorrow: - MVP working group @ 1430 - 160
 
 phacker
 
-[A quick reminder for the two meetings tomorrow: - MVP working group @ 1430 - 1600 CET - Conceptual Ecosystem Mapping @ 1800 CET If you're interested in kicking off a WG of your own, definitely make it to the second meeting as we're planning a deep brainstorm sesh on topics like Service Marketplace Design, DAO mechanics, cadCAD modeling, and Organizational Partnerships](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
+A quick reminder for the two meetings tomorrow: - MVP working group @ 1430 - 1600 CET - Conceptual Ecosystem Mapping @ 1800 CET If you're interested in kicking off a WG of your own, definitely make it to the second meeting as we're planning a deep brainstorm sesh on topics like Service Marketplace Design, DAO mechanics, cadCAD modeling, and Organizational Partnerships  <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 <h3>ejlsh-dt <img src="https://cdn.discordapp.com/avatars/829003069449961503/c4d3de7268aaee2eb82860b43c400e50.png" width=25 height=25></h3>
 
@@ -1198,7 +1198,7 @@ A new tool that blends your everyday work apps into one. It's the all-in-one wor
 
 phacker
 
-[For anyone who missed the kick-off meeting, we've now got the Recording uploaded to youtube](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
+For anyone who missed the kick-off meeting, we've now got the Recording uploaded to youtube  <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 [https://www.youtube.com/watch?v=DwEbpwgeWVg](https://www.youtube.com/watch?v=DwEbpwgeWVg)
 
@@ -1217,7 +1217,7 @@ For praise analysis, to run the force directed graph in outputs/fdg python3 -m h
 
 phacker
 
-[A quick reminder for the two meetings tomorrow: - MVP working group @ 1430 - 1600 CET - Conceptual Ecosystem Mapping @ 1800 CET If you're interested in kicking off a WG of your own, definitely make it to the second meeting as we're planning a deep brainstorm sesh on topics like Service Marketplace Design, DAO mechanics, cadCAD modeling, and Organizational Partnerships](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
+A quick reminder for the two meetings tomorrow: - MVP working group @ 1430 - 1600 CET - Conceptual Ecosystem Mapping @ 1800 CET If you're interested in kicking off a WG of your own, definitely make it to the second meeting as we're planning a deep brainstorm sesh on topics like Service Marketplace Design, DAO mechanics, cadCAD modeling, and Organizational Partnerships  <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -1229,7 +1229,7 @@ The first meeting should be on the calendar? It's not showing for me.
 
 metaverde
 
-[The first meeting should be on the calendar? It's not showing for me.](about:blank#)
+The first meeting should be on the calendar? It's not showing for me.
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -1240,7 +1240,7 @@ These were both one-time meetings last week, but we’ll have another MVP WG mee
 
 phacker
 
-[These were both one-time meetings last week, but we’ll have another MVP WG meeting on Friday this week 1500 CET. It will be on the community calendar soon](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+These were both one-time meetings last week, but we’ll have another MVP WG meeting on Friday this week 1500 CET. It will be on the community calendar soon  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -1276,7 +1276,7 @@ _16-Jun-21 05:41 PM_:
 
 phacker
 
-[MVP WG - awesome meeting  here's the links / next steps we discussed: - Miro board:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f942.png" width=20 height=20>
+MVP WG - awesome meeting  here's the links / next steps we discussed: - Miro board: <img src="https://twemoji.maxcdn.com/2/72x72/1f942.png" width=20 height=20>
 
 [https://miro.com/welcomeonboard/bWxOQmU4M1RQOUluOFR1YVlKbEpuMncyVk5HaU5KNVowcmJ2QUZSd3c4TFB2bHlmZ1hRSEJ6Zm9ZS0JjaDBjanwzMDc0NDU3MzU0NTc3MDc4ODQ3](https://miro.com/welcomeonboard/bWxOQmU4M1RQOUluOFR1YVlKbEpuMncyVk5HaU5KNVowcmJ2QUZSd3c4TFB2bHlmZ1hRSEJ6Zm9ZS0JjaDBjanwzMDc0NDU3MzU0NTc3MDc4ODQ3)
 
@@ -1312,7 +1312,7 @@ A new tool that blends your everyday work apps into one. It's the all-in-one wor
 
 phacker
 
-[Quick reminder for the Value Flows MVP meeting tomorrow - please have a chance to chip in on the stakeholders in the Miro board and, if you have extra time, look into the IAMM tech  (tagging those who attended last week @freedumbs00 @liviade @PhilKK @nathalia @akrtws (TE Academy))](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+Quick reminder for the Value Flows MVP meeting tomorrow - please have a chance to chip in on the stakeholders in the Miro board and, if you have extra time, look into the IAMM tech  (tagging those who attended last week @freedumbs00 @liviade @PhilKK @nathalia @akrtws (TE Academy)) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
@@ -1324,7 +1324,7 @@ adding @eli_ here
 
 akrtws (TE Academy)
 
-[adding @eli_ here](about:blank#)
+adding @eli_ here
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -1414,7 +1414,7 @@ Tanner - the founder of IAMM was working on this with us @liviade
 
 JessicaZartler
 
-[1st session recording](about:blank#)
+1st session recording
 
 [https://www.youtube.com/watch?v=qsGXqyaR94o&feature=youtu.be](https://www.youtube.com/watch?v=qsGXqyaR94o&feature=youtu.be)
 
@@ -1561,7 +1561,7 @@ sweet, just sent an invite. if anyone else would like to join LMK!
 
 JessicaZartler
 
-[Had to jump thanks guys!](about:blank#)
+Had to jump thanks guys!
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -1692,7 +1692,7 @@ on July 5th I'll be catching a flight, but happy to watch a recording later.
 
 akrtws (TE Academy)
 
-[Let's continue: - 2nd session hacking on value flows scenarios: Thursday 7pm CEST ? - 2nd call with Tannr: July 5th?](about:blank#)
+Let's continue: - 2nd session hacking on value flows scenarios: Thursday 7pm CEST ? - 2nd call with Tannr: July 5th?
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -1704,7 +1704,7 @@ Yes I’m free Thursday! I’ll also upload the recording from today, and had ta
 
 akrtws (TE Academy)
 
-[Let's continue: - 2nd session hacking on value flows scenarios: Thursday 7pm CEST ? - 2nd call with Tannr: July 5th?](about:blank#)
+Let's continue: - 2nd session hacking on value flows scenarios: Thursday 7pm CEST ? - 2nd call with Tannr: July 5th?
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -1727,7 +1727,7 @@ Epic UBI Dashboard made by @maghaali [https://praisedistributions.herokuapp.com/
 
 ygg_anderson
 
-[Epic UBI Dashboard made by @maghaali](about:blank#)
+Epic UBI Dashboard made by @maghaali
 
 [https://praisedistributions.herokuapp.com/app](https://praisedistributions.herokuapp.com/app)
 
@@ -1759,7 +1759,7 @@ lmk what you think!
 
 phacker
 
-[Hey @ygg_anderson @sem(🌸,🐝) @JeffEmmett wanted to touch bases regarding the Bonding Curves meeting planned later - Tl;DR from my side, I think it’s an important topic to dive into but I personally haven’t had enough time to mull it over, so maybe we aren’t quite ready yet to meet. From my perspective, i see the upcoming hatch and prospect of actual value flows from TE services/education kicking off in the coming months () as a perfect opportunity to develop a cadCAD model of the TE ecosystem + neighboring DAOs that would even add value beyond the TEC! And, I think this could be a really awesome initiative for the #Labs WG to run with! @ygg_anderson , curious about your thoughts there and I would love to chip in as well That said, a brainstorm around bonding curves & modeling DAO2DAO relationships would definitely come up in said workstream.. so, maybe this evening is the perfect time to kick things off? Or if you 3 already have plans for the discussion then by all means we can keep the time  lmk what you think!](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+Hey @ygg_anderson @sem(🌸,🐝) @JeffEmmett wanted to touch bases regarding the Bonding Curves meeting planned later - Tl;DR from my side, I think it’s an important topic to dive into but I personally haven’t had enough time to mull it over, so maybe we aren’t quite ready yet to meet. From my perspective, i see the upcoming hatch and prospect of actual value flows from TE services/education kicking off in the coming months () as a perfect opportunity to develop a cadCAD model of the TE ecosystem + neighboring DAOs that would even add value beyond the TEC! And, I think this could be a really awesome initiative for the #Labs WG to run with! @ygg_anderson , curious about your thoughts there and I would love to chip in as well That said, a brainstorm around bonding curves & modeling DAO2DAO relationships would definitely come up in said workstream.. so, maybe this evening is the perfect time to kick things off? Or if you 3 already have plans for the discussion then by all means we can keep the time  lmk what you think! <img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>sem(🌸,🐝) <img src="https://cdn.discordapp.com/avatars/676517295643820032/bfcde0fd88f9b8e9c184906a5080c128.png" width=25 height=25></h3>
 
@@ -1777,7 +1777,7 @@ I need to slide out to another meeting.
 
 phacker
 
-[Hey @ygg_anderson @sem(🌸,🐝) @JeffEmmett wanted to touch bases regarding the Bonding Curves meeting planned later - Tl;DR from my side, I think it’s an important topic to dive into but I personally haven’t had enough time to mull it over, so maybe we aren’t quite ready yet to meet. From my perspective, i see the upcoming hatch and prospect of actual value flows from TE services/education kicking off in the coming months () as a perfect opportunity to develop a cadCAD model of the TE ecosystem + neighboring DAOs that would even add value beyond the TEC! And, I think this could be a really awesome initiative for the #Labs WG to run with! @ygg_anderson , curious about your thoughts there and I would love to chip in as well That said, a brainstorm around bonding curves & modeling DAO2DAO relationships would definitely come up in said workstream.. so, maybe this evening is the perfect time to kick things off? Or if you 3 already have plans for the discussion then by all means we can keep the time  lmk what you think!](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+Hey @ygg_anderson @sem(🌸,🐝) @JeffEmmett wanted to touch bases regarding the Bonding Curves meeting planned later - Tl;DR from my side, I think it’s an important topic to dive into but I personally haven’t had enough time to mull it over, so maybe we aren’t quite ready yet to meet. From my perspective, i see the upcoming hatch and prospect of actual value flows from TE services/education kicking off in the coming months () as a perfect opportunity to develop a cadCAD model of the TE ecosystem + neighboring DAOs that would even add value beyond the TEC! And, I think this could be a really awesome initiative for the #Labs WG to run with! @ygg_anderson , curious about your thoughts there and I would love to chip in as well That said, a brainstorm around bonding curves & modeling DAO2DAO relationships would definitely come up in said workstream.. so, maybe this evening is the perfect time to kick things off? Or if you 3 already have plans for the discussion then by all means we can keep the time  lmk what you think! <img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>JeffEmmett <img src="https://cdn.discordapp.com/avatars/379773201405706260/ef3f53d5871426014623b8af291e195d.png" width=25 height=25></h3>
 
@@ -1794,7 +1794,7 @@ awesome - let's do it then!!
 
 metaverde
 
-[I need to slide out to another meeting.](about:blank#)
+I need to slide out to another meeting.
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -1882,7 +1882,7 @@ Does anyone know how they have the vertical & horizontal presentation controls? 
 
 🐙 octopus
 
-[Does anyone know how they have the vertical & horizontal presentation controls? Is that done in **remark** or something else?](about:blank#)
+Does anyone know how they have the vertical & horizontal presentation controls? Is that done in **remark** or something else?
 
 <h3>maghaali <img src="https://cdn.discordapp.com/avatars/768695037835083826/f9219f1ed8376cd97ea8b097e47025db.png" width=25 height=25></h3>
 
@@ -1925,7 +1925,7 @@ Extend Voting Impact hours is a huge deal for everyone in this economy. Some inc
 
 vikram
 
-[just watching the soft gov meeting from last week about the praise analysis. I had a question regarding it. Is there data coming from other social channels other than tweets?](about:blank#)
+just watching the soft gov meeting from last week about the praise analysis. I had a question regarding it. Is there data coming from other social channels other than tweets?
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -1937,7 +1937,7 @@ Interesting question. Social channels are Twtter (tweets/retweets) and Discord (
 
 ygg_anderson
 
-[Interesting question. Social channels are Twtter (tweets/retweets) and Discord (calls) and to a much lesser extent, Telegram (praise).](about:blank#)
+Interesting question. Social channels are Twtter (tweets/retweets) and Discord (calls) and to a much lesser extent, Telegram (praise).
 
 <h3>vikram <img src="https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png" width=25 height=25></h3>
 
@@ -1949,7 +1949,7 @@ youtube?
 
 vikram
 
-[youtube?](about:blank#)
+youtube?
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -1961,7 +1961,7 @@ Yes! Good point.
 
 vikram
 
-[just watching the soft gov meeting from last week about the praise analysis. I had a question regarding it. Is there data coming from other social channels other than tweets?](about:blank#)
+just watching the soft gov meeting from last week about the praise analysis. I had a question regarding it. Is there data coming from other social channels other than tweets?
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -2054,7 +2054,7 @@ More deets in this message:
 
 phacker
 
-[Hello, me again! just dropping an FYI that cadCAD study sessions are starting up again next Tuesday @ 1700 CET. Excited to get a group together again, hope everyone interested can make it! Even planning to use the #🔬｜labs voice channel to meet, so you won't have to go very far  More deets in this message:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f60e.png" width=20 height=20>
+Hello, me again! just dropping an FYI that cadCAD study sessions are starting up again next Tuesday @ 1700 CET. Excited to get a group together again, hope everyone interested can make it! Even planning to use the #🔬｜labs voice channel to meet, so you won't have to go very far  More deets in this message: <img src="https://twemoji.maxcdn.com/2/72x72/1f60e.png" width=20 height=20>
 
 [https://discord.com/channels/701149241107808327/771811616072794192/870672845099900939](https://discord.com/channels/701149241107808327/771811616072794192/870672845099900939)
 
@@ -2068,7 +2068,7 @@ Is there a morning session? Say 1000 cet? Happy to start one if not. (edited)
 
 vikram
 
-[Is there a morning session? Say 1000 cet? Happy to start one if not.  (edited)](about:blank#)
+Is there a morning session? Say 1000 cet? Happy to start one if not.  (edited)
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -2080,7 +2080,7 @@ unfortunately only one session at the moment, we went with a later time slot to 
 
 phacker
 
-[unfortunately only one session at the moment, we went with a later time slot to be PST friendly. But yea, no reason there can't be two sessions running!](about:blank#)
+unfortunately only one session at the moment, we went with a later time slot to be PST friendly. But yea, no reason there can't be two sessions running!
 
 <h3>vikram <img src="https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png" width=25 height=25></h3>
 
@@ -2102,7 +2102,7 @@ cadCAD Edu
 
 vikram
 
-[live in Oceania so I could cater for PST and Asia as well. What do I need to do to start cadCAD study sessions on this longitude of time? p.s.: I'm learning myself.  (edited)](about:blank#)
+live in Oceania so I could cater for PST and Asia as well. What do I need to do to start cadCAD study sessions on this longitude of time? p.s.: I'm learning myself.  (edited)
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -2126,7 +2126,7 @@ there are some awesome topics on the schedule for the
 
 ygg_anderson
 
-[@Taz @Austin @BK @SweptbackCat @🐙 octopus @maghaali @johann ^^](about:blank#)
+@Taz @Austin @BK @SweptbackCat @🐙 octopus @maghaali @johann ^^
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -2150,7 +2150,7 @@ yup I've done the beginner and hacks courses
 
 phacker
 
-[definitely no skill requirements (I'm a beginner myself), just plan the time and let people know so they can join you! I can help you get it up on the right community calendars, and we should try and stay in-sync on resources / content if you do! so keep me posted   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
+definitely no skill requirements (I'm a beginner myself), just plan the time and let people know so they can join you! I can help you get it up on the right community calendars, and we should try and stay in-sync on resources / content if you do! so keep me posted   (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 <h3>vikram <img src="https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png" width=25 height=25></h3>
 
@@ -2162,7 +2162,7 @@ ok cool! Will start with an arbitrary time atm until more ppl in this time zone 
 
 phacker
 
-[definitely no skill requirements (I'm a beginner myself), just plan the time and let people know so they can join you! I can help you get it up on the right community calendars, and we should try and stay in-sync on resources / content if you do! so keep me posted   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
+definitely no skill requirements (I'm a beginner myself), just plan the time and let people know so they can join you! I can help you get it up on the right community calendars, and we should try and stay in-sync on resources / content if you do! so keep me posted   (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 <h3>vikram <img src="https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png" width=25 height=25></h3>
 
@@ -2174,7 +2174,7 @@ also do you have a format/roadmap of content that's normally covered or come up 
 
 vikram
 
-[also do you have a format/roadmap of content that's normally covered or come up with my own?](about:blank#)
+also do you have a format/roadmap of content that's normally covered or come up with my own?
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -2261,7 +2261,7 @@ With Google's free online calendar, it’s easy to keep track of life’s import
 
 dipa
 
-[Hi! I am new in the community, not even make an introduction in the join-here channel just trying to understand how all this works. In the calendar figure a cadCad study group meeting for today but it says HOLD, I was wondering if there is going to be a session today or not. My name is Matias, I am not a native English speaker, so sorry if there is a typo. Thanks!](about:blank#)
+Hi! I am new in the community, not even make an introduction in the join-here channel just trying to understand how all this works. In the calendar figure a cadCad study group meeting for today but it says HOLD, I was wondering if there is going to be a session today or not. My name is Matias, I am not a native English speaker, so sorry if there is a typo. Thanks!
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -2280,7 +2280,7 @@ Thank you @phacker for the response. Yes, I will join next week. I ve just finis
 
 dipa
 
-[Thank you @phacker for the response. Yes, I will join next week. I ve just finished the beginner cadCad course.](about:blank#)
+Thank you @phacker for the response. Yes, I will join next week. I ve just finished the beginner cadCad course.
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -2315,7 +2315,7 @@ cadCAD study grp APAC, same time next week unless a newly requested time.
 
 BK
 
-[Proposal Inverter HAckmd:](about:blank#)
+Proposal Inverter HAckmd:
 
 [https://hackmd.io/34vxVwJsTS-xgfYWSorxgg?both](https://hackmd.io/34vxVwJsTS-xgfYWSorxgg?both)
 
@@ -2538,7 +2538,7 @@ TEC Labs Rewards Research Manifesto
 
 ygg_anderson
 
-[Rewards Research Manifest:](about:blank#)
+Rewards Research Manifest:
 
 [https://docs.google.com/document/d/1uYW6vKdCkxWnMjjfo982xwO150tVaE6EiJ676B_6W1A/edit?usp=sharing](https://docs.google.com/document/d/1uYW6vKdCkxWnMjjfo982xwO150tVaE6EiJ676B_6W1A/edit?usp=sharing)
 
@@ -2553,7 +2553,7 @@ Hey all, I read over all the things mentioned yesterday again during the labs se
 
 Thomas
 
-[Hey all, I read over all the things mentioned yesterday again during the labs session and attempted to synthesize them into one research manifest. It wasn’t quite able to get there in the end imo. I nevertheless left my attempt in the research manifest maybe it helps otherhs  @Nuggan I think you took the right approach with consulting the Lit. first. Let me know if I can help](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+Hey all, I read over all the things mentioned yesterday again during the labs session and attempted to synthesize them into one research manifest. It wasn’t quite able to get there in the end imo. I nevertheless left my attempt in the research manifest maybe it helps otherhs  @Nuggan I think you took the right approach with consulting the Lit. first. Let me know if I can help <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -2594,7 +2594,7 @@ I'd like to find out how and where they see SourceCred integrating with Coordina
 
 kristofer
 
-[I'd like to find out how and where they see SourceCred integrating with Coordinape. @Nuggan do you know more or know someone to talk to?](about:blank#)
+I'd like to find out how and where they see SourceCred integrating with Coordinape. @Nuggan do you know more or know someone to talk to?
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -2606,7 +2606,7 @@ They mention it in the docs, but there isn't a lot of info about it. I've asked 
 
 kristofer
 
-[One area where praise really takes a different approach is just this, focusing on individuals rather than on teams/circles. Which means both strengths and weaknesses. - Strength: Ability to praise a person loosely affiliated with the TEC e.g, !praise @outsider for writing that token engineering report - Weakness: The praise system doesn't assist in building a more structured organisation (which coordinape certainly seem to do).](about:blank#)
+One area where praise really takes a different approach is just this, focusing on individuals rather than on teams/circles. Which means both strengths and weaknesses. - Strength: Ability to praise a person loosely affiliated with the TEC e.g, !praise @outsider for writing that token engineering report - Weakness: The praise system doesn't assist in building a more structured organisation (which coordinape certainly seem to do).
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -2618,7 +2618,7 @@ Yeah, I agree with your take there. Technically you could achieve something simi
 
 Nuggan
 
-[Yeah, I agree with your take there. Technically you could achieve something similar with a circle with a very lax vouching process, but the focus is definitely on "fixed" teams](about:blank#)
+Yeah, I agree with your take there. Technically you could achieve something similar with a circle with a very lax vouching process, but the focus is definitely on "fixed" teams
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2630,7 +2630,7 @@ Yup, like a catch all "Community circle" for contributions and people outside al
 
 Nuggan
 
-[I've hacked together an overview of Coordinape. I put a link on the research manifesto doc, but here it is again separately:](about:blank#)
+I've hacked together an overview of Coordinape. I put a link on the research manifesto doc, but here it is again separately:
 
 [https://docs.google.com/document/d/1GNwLeHJ90si1IgsHklzcWG3Ma81mPjrdA7mbIZ5iBi0/edit#](https://docs.google.com/document/d/1GNwLeHJ90si1IgsHklzcWG3Ma81mPjrdA7mbIZ5iBi0/edit#)
 
@@ -2644,7 +2644,7 @@ Hey @Nuggan what an excellent overview/analysis! This is exactly what I needed -
 
 Nuggan
 
-[Yeah, I agree with your take there. Technically you could achieve something similar with a circle with a very lax vouching process, but the focus is definitely on "fixed" teams](about:blank#)
+Yeah, I agree with your take there. Technically you could achieve something similar with a circle with a very lax vouching process, but the focus is definitely on "fixed" teams
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2656,7 +2656,7 @@ I wonder how difficult it would be to add "group praising" to our current praise
 
 Nuggan
 
-[I've hacked together an overview of Coordinape. I put a link on the research manifesto doc, but here it is again separately:](about:blank#)
+I've hacked together an overview of Coordinape. I put a link on the research manifesto doc, but here it is again separately:
 
 [https://docs.google.com/document/d/1GNwLeHJ90si1IgsHklzcWG3Ma81mPjrdA7mbIZ5iBi0/edit#](https://docs.google.com/document/d/1GNwLeHJ90si1IgsHklzcWG3Ma81mPjrdA7mbIZ5iBi0/edit#)
 
@@ -2669,7 +2669,7 @@ _15-Sep-21 07:43 AM_:
 
 kristofer
 
-[I wonder how difficult it would be to add "group praising" to our current praise model, similar to the team bucket? Seems like it is something we definitely will want to have further on. !praise #📡｜comms for the successful launch of xxx](about:blank#)
+I wonder how difficult it would be to add "group praising" to our current praise model, similar to the team bucket? Seems like it is something we definitely will want to have further on. !praise #📡｜comms for the successful launch of xxx
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -2689,7 +2689,7 @@ There's already roles for the stewards and gravity working groups, we couldset u
 
 Vyvy-vi
 
-[I think we could do that, though we'll have to make role assignments for people in that working group.](about:blank#)
+I think we could do that, though we'll have to make role assignments for people in that working group.
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2707,7 +2707,7 @@ That can be done, I think... Maybe we can let anyone with the <WG-group-name> ro
 
 Tam2140
 
-[Hey @Nuggan what an excellent overview/analysis! This is exactly what I needed - an easily digestable summary about Coordinape! It's a little buried in here though, would you mind posting it on the Forum where it should get more eyes!](about:blank#)
+Hey @Nuggan what an excellent overview/analysis! This is exactly what I needed - an easily digestable summary about Coordinape! It's a little buried in here though, would you mind posting it on the Forum where it should get more eyes!
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -2719,7 +2719,7 @@ Thanks! Will do
 
 kristofer
 
-[I'd like to find out how and where they see SourceCred integrating with Coordinape. @Nuggan do you know more or know someone to talk to?](about:blank#)
+I'd like to find out how and where they see SourceCred integrating with Coordinape. @Nuggan do you know more or know someone to talk to?
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -2732,7 +2732,7 @@ Ok I just got an answer. Seems like the team themselves aren't integrating sourc
 
 Nuggan
 
-[Ok I just got an answer. Seems like the team themselves aren't integrating sourcecred, but a DAO is using sourcecred data as input to determine how many GIVE tokens each member gets. I'll look into it and update the report](about:blank#)
+Ok I just got an answer. Seems like the team themselves aren't integrating sourcecred, but a DAO is using sourcecred data as input to determine how many GIVE tokens each member gets. I'll look into it and update the report
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2744,7 +2744,7 @@ Thanks for following up on that!
 
 Nuggan
 
-[Thanks a lot for that summary!](about:blank#)
+Thanks a lot for that summary!
 
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
@@ -2847,7 +2847,7 @@ wow i find all the cool meetings! that was great yall ive been talking about coo
 
 ALOYSIOUS
 
-[wow i find all the cool meetings! that was great yall ive been talking about coordinape at sourcecred i think it pairs well with what we are trying to create. I dont think its competition so much as i think its just another tool in the deck](about:blank#)
+wow i find all the cool meetings! that was great yall ive been talking about coordinape at sourcecred i think it pairs well with what we are trying to create. I dont think its competition so much as i think its just another tool in the deck
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -2872,7 +2872,7 @@ _22-Sep-21 12:56 PM_:
 
 ALOYSIOUS
 
-[@phacker I have a curiosity I'm hoping to get some assistance / direction in brainstorming. I thought you might be able to help orient me. I work with folx on sourcecred the visual output of all the data we are capturing in regards to various labor is well, not what we want it to be. its a number, and some graph. Im curious how we can visualize the data in other ways. is this where cadcad comes in? Are there folx who might be interested in digging into our graph](about:blank#)
+@phacker I have a curiosity I'm hoping to get some assistance / direction in brainstorming. I thought you might be able to help orient me. I work with folx on sourcecred the visual output of all the data we are capturing in regards to various labor is well, not what we want it to be. its a number, and some graph. Im curious how we can visualize the data in other ways. is this where cadcad comes in? Are there folx who might be interested in digging into our graph
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -2893,7 +2893,7 @@ Stop plotting your data - annotate your data and let it visualize itself.
 
 phacker
 
-[Hey! So cadCAD wouldn’t help with the data visualization (it is more on the data output side), but there are other powerful data visualization packages in Python like HoloViews (](about:blank#)
+Hey! So cadCAD wouldn’t help with the data visualization (it is more on the data output side), but there are other powerful data visualization packages in Python like HoloViews (
 
 [https://holoviews.org/)](https://holoviews.org/))
 
@@ -2924,7 +2924,7 @@ Hey everyone! Gama from PrimeDao here. I heard that tomorrow labs will start wor
 
 Gami
 
-[Hey everyone! Gama from PrimeDao here. I heard that tomorrow labs will start working on the proposal inverter. Thats great! I wanted to let prime community know and be there ofc. What time are the calls?](about:blank#)
+Hey everyone! Gama from PrimeDao here. I heard that tomorrow labs will start working on the proposal inverter. Thats great! I wanted to let prime community know and be there ofc. What time are the calls?
 
 <h3>Austin <img src="https://cdn.discordapp.com/avatars/427313151587909632/33058b7ca47c14cae6e7a806265fe4ac.png" width=25 height=25></h3>
 
@@ -2937,7 +2937,7 @@ the calls are on Fridays 9AM PST, and you may also find the agenda topics in the
 
 Gami
 
-[Hey everyone! Gama from PrimeDao here. I heard that tomorrow labs will start working on the proposal inverter. Thats great! I wanted to let prime community know and be there ofc. What time are the calls?](about:blank#)
+Hey everyone! Gama from PrimeDao here. I heard that tomorrow labs will start working on the proposal inverter. Thats great! I wanted to let prime community know and be there ofc. What time are the calls?
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -2957,7 +2957,7 @@ Hi everyone! I will be jumping in here more to be more active in building this a
 
 ygg_anderson
 
-[Gama if you can confirm that you will be available tomorrow then we can open up the proposal inverter work. We might want to make an additional recurring block that is a co-development workshop between PrimeDAO TEC and LTF](about:blank#)
+Gama if you can confirm that you will be available tomorrow then we can open up the proposal inverter work. We might want to make an additional recurring block that is a co-development workshop between PrimeDAO TEC and LTF
 
 <h3>Gami <img src="https://cdn.discordapp.com/avatars/725532461936935002/c66719eaed65e1ac9b6ffb0661139942.png" width=25 height=25></h3>
 
@@ -2969,7 +2969,7 @@ Tnx ygg. I can definitively be there–looking forward to touch base on this. Bu
 
 Gami
 
-[Tnx ygg. I can definitively be there–looking forward to touch base on this. But only if you are all ready :) I am not exactly in Prime's DAO2DAO squad but me & @Ata can pull some people from there. What do you think?](about:blank#)
+Tnx ygg. I can definitively be there–looking forward to touch base on this. But only if you are all ready :) I am not exactly in Prime's DAO2DAO squad but me & @Ata can pull some people from there. What do you think?
 
 <h3>Ata <img src="https://cdn.discordapp.com/avatars/720204738997649429/f03ad25e921f76f73fd8cc399e0f57f4.png" width=25 height=25></h3>
 
@@ -3038,7 +3038,7 @@ a combination of the delegator and revenue sharing models - GitHub - CommonsBuil
 
 ygg_anderson
 
-[Proposal inverter work being done:](about:blank#)
+Proposal inverter work being done:
 
 [https://github.com/CommonsBuild/proposal-inverter](https://github.com/CommonsBuild/proposal-inverter)
 
@@ -3076,7 +3076,7 @@ Thanks!
 
 David D. - TEC
 
-[Please invite me to longtail financial discord server.](about:blank#)
+Please invite me to longtail financial discord server.
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -3089,7 +3089,7 @@ _30-Sep-21 04:32 PM_:
 
 niksteel123
 
-[Hi Guys, I believe that we have a major flaw in our society, the people and organisations that provide the most value to society are not fairly compensated. This is because a large part of what we consider valuable lies outside the realm of profit/money and no bridge exists connecting the two. After all, Public Goods are Inefficient Markets and no method exists to profitably invest in projects providing non-monetary value to society. I have designed a solution that will build a bridge between Nonprofit and For Profit sectors, enabling private investors to fund projects providing non-monetary value profitably and sustainably, without the need for government intermediaries. The Samurai will be a layer 1.5 technology, providing the economic framework for entrepreneurs to build functional markets around public goods as well as creating new business models for existing sectors i.e. Think Twitch but without advertising, where anyone can invest in a content creator and make a profit if that content creator hits X views/followers on the platform. The Samurai Protocol will provide a new paradigm of collaboration between people. Our Ethos is "Making Money by Doing Good". Samurai Materials:](about:blank#)
+Hi Guys, I believe that we have a major flaw in our society, the people and organisations that provide the most value to society are not fairly compensated. This is because a large part of what we consider valuable lies outside the realm of profit/money and no bridge exists connecting the two. After all, Public Goods are Inefficient Markets and no method exists to profitably invest in projects providing non-monetary value to society. I have designed a solution that will build a bridge between Nonprofit and For Profit sectors, enabling private investors to fund projects providing non-monetary value profitably and sustainably, without the need for government intermediaries. The Samurai will be a layer 1.5 technology, providing the economic framework for entrepreneurs to build functional markets around public goods as well as creating new business models for existing sectors i.e. Think Twitch but without advertising, where anyone can invest in a content creator and make a profit if that content creator hits X views/followers on the platform. The Samurai Protocol will provide a new paradigm of collaboration between people. Our Ethos is "Making Money by Doing Good". Samurai Materials:
 
 [https://drive.google.com/drive/folders/1kgiZs207bz3ZznKi5-eYHbIKHttAbCzT?usp=sharing](https://drive.google.com/drive/folders/1kgiZs207bz3ZznKi5-eYHbIKHttAbCzT?usp=sharing)
 
@@ -3421,7 +3421,7 @@ Hi everyone. I got hit with a pretty intense flu this week and am taking the day
 
 ygg_anderson
 
-[Hi everyone. I got hit with a pretty intense flu this week and am taking the day off today. There will be no TEC Lab today. Have a good weekend everyone.](about:blank#)
+Hi everyone. I got hit with a pretty intense flu this week and am taking the day off today. There will be no TEC Lab today. Have a good weekend everyone.
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -3445,7 +3445,7 @@ Theia Protocol One Pager The Theia Protocol introduces a new and disruptive mode
 
 ygg_anderson
 
-[Hi everyone. I got hit with a pretty intense flu this week and am taking the day off today. There will be no TEC Lab today. Have a good weekend everyone.](about:blank#)
+Hi everyone. I got hit with a pretty intense flu this week and am taking the day off today. There will be no TEC Lab today. Have a good weekend everyone.
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -3474,7 +3474,7 @@ _17-Nov-21 01:17 PM_:
 
 Yashmanso
 
-[@ygg_anderson: Hey there, during the orientation call, my attention was attracted to labs working group. It would be great to get a bit involved here and learn. I hope you get well soon](about:blank#)
+@ygg_anderson: Hey there, during the orientation call, my attention was attracted to labs working group. It would be great to get a bit involved here and learn. I hope you get well soon
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -3486,7 +3486,7 @@ Hello @Yashmanso . I hope to see you tomorrow in the lab. I'll be leading the gr
 
 metaverde
 
-[Hello @Yashmanso . I hope to see you tomorrow in the lab. I'll be leading the group through the first lesson of CryptoZombies.](about:blank#)
+Hello @Yashmanso . I hope to see you tomorrow in the lab. I'll be leading the group through the first lesson of CryptoZombies.
 
 <h3>Yashmanso <img src="https://cdn.discordapp.com/avatars/493796432130867211/2694f91889fa1f1a19c7389f6d49874f.png" width=25 height=25></h3>
 
@@ -3517,7 +3517,7 @@ CryptoZombies is The Most Popular, Interactive Solidity Tutorial That Will Help 
 
 ygg_anderson
 
-[Thanks @David D. - TEC and @Yashmanso ! Feeling better! Unfortunately I can't make it to the cryptozombies today because I'm in the rewards research block at this time  cryptozombies is going to be so fun and educational!](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
+Thanks @David D. - TEC and @Yashmanso ! Feeling better! Unfortunately I can't make it to the cryptozombies today because I'm in the rewards research block at this time  cryptozombies is going to be so fun and educational! <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -3536,7 +3536,7 @@ Hello all, I'm interested in finding out more about the Longtail and blockscienc
 
 Dylan
 
-[Hello all, I'm interested in finding out more about the Longtail and blockscience open office that was mentioned in the Community Call 57. Can I get some more details?](about:blank#)
+Hello all, I'm interested in finding out more about the Longtail and blockscience open office that was mentioned in the Community Call 57. Can I get some more details?
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -3551,7 +3551,7 @@ the calls happen mostly in the Longtail Financial server, though I think recentl
 
 nic
 
-[I can help with the Longtail financial part of your question  the calls happen mostly in the Longtail Financial server, though I think recently they started experimenting with using twitter spaces. I highly recommend joining the server to stay up to date on where the calls will be happening. A longtailor usually posts reminders in the general chat. The office hour calls are on Tuesday and Thursday at 9pmCET.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=20 height=20>
+I can help with the Longtail financial part of your question  the calls happen mostly in the Longtail Financial server, though I think recently they started experimenting with using twitter spaces. I highly recommend joining the server to stay up to date on where the calls will be happening. A longtailor usually posts reminders in the general chat. The office hour calls are on Tuesday and Thursday at 9pmCET. <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=20 height=20>
 
 [https://discord.gg/D47b54Yj](https://discord.gg/D47b54Yj)
 
@@ -3565,7 +3565,7 @@ Thanks
 
 metaverde
 
-[I'm planning to host the labs from 19 November through 25 February. Thank you so much @ygg_anderson for inviting me to do this. I'll have support material for CryptoZombies up soon. Atm the next and back buttons aren't working on the site, so I've been changing the chapter number in the address bar. Sigh. Oh. The CryptoZombies site:](about:blank#)
+I'm planning to host the labs from 19 November through 25 February. Thank you so much @ygg_anderson for inviting me to do this. I'll have support material for CryptoZombies up soon. Atm the next and back buttons aren't working on the site, so I've been changing the chapter number in the address bar. Sigh. Oh. The CryptoZombies site:
 
 [https://cryptozombies.io/en/lesson/1](https://cryptozombies.io/en/lesson/1)
 
@@ -3639,7 +3639,7 @@ Learn how to make an ERC 20 Token and deploy using remix I feel like it's the ne
 
 nic
 
-[@ryeder (they/them) cryptozombies is happening now](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
+@ryeder (they/them) cryptozombies is happening now  <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -3670,7 +3670,7 @@ If this happens again in 2022 I want to prioritize it on my calendar
 
 ryeder (they/them)
 
-[If this happens again in 2022 I want to prioritize it on my calendar ️](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f5d3.png" width=20 height=20>
+If this happens again in 2022 I want to prioritize it on my calendar ️ <img src="https://twemoji.maxcdn.com/2/72x72/1f5d3.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -3683,7 +3683,7 @@ Honestly, just start CryptoZombies and if you run into any blockers dm me and I'
 
 metaverde
 
-[Honestly, just start CryptoZombies and if you run into any blockers dm me and I'll help you out.](about:blank#)
+Honestly, just start CryptoZombies and if you run into any blockers dm me and I'll help you out.
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -3732,7 +3732,7 @@ How it always goes.
 
 metaverde
 
-[@Nuggan @billyjitsu Searching it now, kind of want to get started on coding.  How it always goes.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=20 height=20>
+@Nuggan @billyjitsu Searching it now, kind of want to get started on coding.  How it always goes. <img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/731709354461364274/a_2195338a9ff0f9891570bf68a76365dd.gif](https://cdn.discordapp.com/avatars/731709354461364274/a_2195338a9ff0f9891570bf68a76365dd.gif)
 
@@ -3850,7 +3850,7 @@ Where is the solidity class going on?
 
 peyton
 
-[Hey @Monoma23 I'm in a similar place as you: I know some C++, learning Solidity now, and I want to learn Javascript!](about:blank#)
+Hey @Monoma23 I'm in a similar place as you: I know some C++, learning Solidity now, and I want to learn Javascript!
 
 <h3>Monoma23 <img src="https://cdn.discordapp.com/avatars/897131023995916319/0c261f961683bb4c6b99283f64563aed.png" width=25 height=25></h3>
 
@@ -3893,7 +3893,7 @@ CryptoZombies Lesson 1/ Soon to be a TEC lab!
 
 metaverde
 
-[Here's a link to my roughout of Lesson 1.](about:blank#)
+Here's a link to my roughout of Lesson 1.
 
 [https://forum.1hive.org/t/cryptozombies-lesson-1-soon-to-be-a-tec-lab/4581?u=metaverde](https://forum.1hive.org/t/cryptozombies-lesson-1-soon-to-be-a-tec-lab/4581?u=metaverde)
 
@@ -3966,7 +3966,7 @@ powershell etc
 
 metaverde
 
-[Lab starts at the top of the hour. We'll be going through CryptoZombies lesson 2. After this and next week we can start on Austin Griffith's Scaffold-Eth challenges.](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=20 height=20>
+Lab starts at the top of the hour. We'll be going through CryptoZombies lesson 2. After this and next week we can start on Austin Griffith's Scaffold-Eth challenges.  <img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=20 height=20>
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -3984,7 +3984,7 @@ I played with Ethernaut for at least a couple hours, and for Questbook maybe hal
 
 BK
 
-[Try virtual fish](about:blank#)
+Try virtual fish
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -3995,7 +3995,7 @@ Thanks a bunch @BK had never heard of fish shell, gonna try it now <img src="htt
 
 gene
 
-[apologies for the bother, but could anyone recommend a basic linux enivornment resource? I'm currently, as in the last 12 hours, trying to get up and moving on three different projects, cadcad bootcamp, ethspeedrun, and near certification, and having different issues with each. really hurtin my street cred out here](about:blank#)     <img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="$5" width=20 height=20>
+apologies for the bother, but could anyone recommend a basic linux enivornment resource? I'm currently, as in the last 12 hours, trying to get up and moving on three different projects, cadcad bootcamp, ethspeedrun, and near certification, and having different issues with each. really hurtin my street cred out here     <img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4009,7 +4009,7 @@ Idk Questbook. I wouldn't mess with coding on a phone.
 
 gene
 
-[apologies for the bother, but could anyone recommend a basic linux enivornment resource? I'm currently, as in the last 12 hours, trying to get up and moving on three different projects, cadcad bootcamp, ethspeedrun, and near certification, and having different issues with each. really hurtin my street cred out here](about:blank#)     <img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="$5" width=20 height=20>
+apologies for the bother, but could anyone recommend a basic linux enivornment resource? I'm currently, as in the last 12 hours, trying to get up and moving on three different projects, cadcad bootcamp, ethspeedrun, and near certification, and having different issues with each. really hurtin my street cred out here     <img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4148,7 +4148,7 @@ I won't be in the lab this morning as I'm working overtime this week. Next week 
 
 metaverde
 
-[I won't be in the lab this morning as I'm working overtime this week. Next week let's mess with Scaffold-Eth and talk about a team for the EthDenver hackathon.](about:blank#)
+I won't be in the lab this morning as I'm working overtime this week. Next week let's mess with Scaffold-Eth and talk about a team for the EthDenver hackathon.
 
 <h3>Monoma23 <img src="https://cdn.discordapp.com/avatars/897131023995916319/0c261f961683bb4c6b99283f64563aed.png" width=25 height=25></h3>
 
@@ -4196,7 +4196,7 @@ _07-Jan-22 12:41 PM_:
 
 metaverde
 
-[@bends and anyone else, feel free to dm me for help and also I'm down to also do CryptoZombies.](about:blank#)
+@bends and anyone else, feel free to dm me for help and also I'm down to also do CryptoZombies.
 
 <h3>bends <img src="https://cdn.discordapp.com/avatars/805467270762856490/a8cb02682bdcc263545a6fe1cf21de89.png" width=25 height=25></h3>
 
@@ -4265,7 +4265,7 @@ _08-Jan-22 09:36 AM_:
 
 metaverde
 
-[@BK hmu if you don't get it worked out.](about:blank#)
+@BK hmu if you don't get it worked out.
 
 <h3>BK <img src="https://cdn.discordapp.com/avatars/708865402943438929/39b0b449fa6ee3b5535304f31e9cc9c0.png" width=25 height=25></h3>
 
@@ -4373,7 +4373,7 @@ _14-Jan-22 12:01 PM_:
 
 metaverde
 
-[@graial You're cutting out... You said something about Coffeezilla?](about:blank#)
+@graial You're cutting out... You said something about Coffeezilla?
 
 <h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
@@ -4423,7 +4423,7 @@ Hey Metaverde good to see you in here also
 
 mattishere
 
-[Hey Metaverde good to see you in here also](about:blank#)
+Hey Metaverde good to see you in here also
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4507,7 +4507,7 @@ You too!
 
 graial
 
-[Challenge 1 requires me to actually think!  I shouldve suspected after the first one was so nicely prepared and packaged like that haha  (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f915.png" width=20 height=20>
+Challenge 1 requires me to actually think!  I shouldve suspected after the first one was so nicely prepared and packaged like that haha  (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f915.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4524,7 +4524,7 @@ You can hmu if you're stuck. I won't just give you the answer. I'll help. As bes
 
 metaverde
 
-[You can hmu if you're stuck. I won't just give you the answer. I'll help. As best I can.  (edited)](about:blank#)
+You can hmu if you're stuck. I won't just give you the answer. I'll help. As best I can.  (edited)
 
 <h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
@@ -4536,7 +4536,7 @@ Word, was thinking about it today. Maybe in the next sesh itd be cool to see if 
 
 graial
 
-[Word, was thinking about it today. Maybe in the next sesh itd be cool to see if we can get the NFT showing up after sending it and submitting it as a PR. Seems like thatd be nice 'outta the box' functionality for a hack-a-thon](about:blank#)
+Word, was thinking about it today. Maybe in the next sesh itd be cool to see if we can get the NFT showing up after sending it and submitting it as a PR. Seems like thatd be nice 'outta the box' functionality for a hack-a-thon
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4796,7 +4796,7 @@ Im werkin on an metamask auth script for my project at the moment. When that is 
 
 graial
 
-[Im werkin on an metamask auth script for my project at the moment. When that is setup, Ill get deeper into the contract part](about:blank#)
+Im werkin on an metamask auth script for my project at the moment. When that is setup, Ill get deeper into the contract part
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4893,7 +4893,7 @@ Integrate your service with Discord — whether it's a bot or a game or whatever
 
 ygg_anderson
 
-[Summoning a Discord Bot Army - Home Page](about:blank#)
+Summoning a Discord Bot Army - Home Page
 
 [https://www.notion.so/Summoning-a-Discord-Bot-Army-TEC-Lab-Series-ed2ab33c86634dbfa09823628a449af3](https://www.notion.so/Summoning-a-Discord-Bot-Army-TEC-Lab-Series-ed2ab33c86634dbfa09823628a449af3)
 
@@ -4981,7 +4981,7 @@ Visual Studio Code is free and available on your favorite platform - Linux, macO
 
 ygg_anderson
 
-[Summoning a Discord Bot Army - Home Page](about:blank#)
+Summoning a Discord Bot Army - Home Page
 
 [https://www.notion.so/Summoning-a-Discord-Bot-Army-TEC-Lab-Series-ed2ab33c86634dbfa09823628a449af3](https://www.notion.so/Summoning-a-Discord-Bot-Army-TEC-Lab-Series-ed2ab33c86634dbfa09823628a449af3)
 
@@ -5070,7 +5070,7 @@ Hi everyone, unfortunately, no lab today. @Vyvy-vi is on holidays. I was going t
 
 ygg_anderson
 
-[Hi everyone, unfortunately, no lab today. @Vyvy-vi is on holidays. I was going to take over for today but I got quite sick last night and will need to rest today. Let's pickup next week and please feel free to continue building bots async! See you next week.  (edited)](about:blank#)
+Hi everyone, unfortunately, no lab today. @Vyvy-vi is on holidays. I was going to take over for today but I got quite sick last night and will need to rest today. Let's pickup next week and please feel free to continue building bots async! See you next week.  (edited)
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -5097,7 +5097,7 @@ To provide some support and context, I'll be doing a "Working Hours" kind-of ses
 
 Vyvy-vi
 
-[To provide some support and context, I'll be doing a "Working Hours" kind-of session tomorrow (<t:1647702000:F>). I would be adding some features to the PraiseBot and the onboardingBot, while trying to give you some context about how to do certain things](about:blank#)
+To provide some support and context, I'll be doing a "Working Hours" kind-of session tomorrow (<t:1647702000:F>). I would be adding some features to the PraiseBot and the onboardingBot, while trying to give you some context about how to do certain things
 
 <h3>bends <img src="https://cdn.discordapp.com/avatars/805467270762856490/a8cb02682bdcc263545a6fe1cf21de89.png" width=25 height=25></h3>
 
@@ -5109,7 +5109,7 @@ Hey vyvy, would this be an okay time to pick your brain on pulling some discord 
 
 bends
 
-[Hey vyvy, would this be an okay time to pick your brain on pulling some discord metrics?](about:blank#)
+Hey vyvy, would this be an okay time to pick your brain on pulling some discord metrics?
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -5179,7 +5179,7 @@ Hey there! I totally missed "Summoning a Discord Bot Army - TEC Lab Series" Can 
 
 Sha
 
-[Hey there! I totally missed "Summoning a Discord Bot Army - TEC Lab Series" Can I join in? I saw that there is only one meeting recording, are the other ones available? how can I catchup?](about:blank#)
+Hey there! I totally missed "Summoning a Discord Bot Army - TEC Lab Series" Can I join in? I saw that there is only one meeting recording, are the other ones available? how can I catchup?
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -5203,7 +5203,7 @@ Agenda
 
 nic
 
-[There has only been one ‘working’ session (the other was just intro) and you can follow along here](about:blank#)
+There has only been one ‘working’ session (the other was just intro) and you can follow along here
 
 [https://www.notion.so/Session-2-b1e803f0a30440cda02b616f219c696a](https://www.notion.so/Session-2-b1e803f0a30440cda02b616f219c696a)
 
@@ -5221,7 +5221,7 @@ Great! thanks, is it this Friday?
 
 Sha
 
-[Great! thanks, is it this Friday?](about:blank#)
+Great! thanks, is it this Friday?
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -5232,7 +5232,7 @@ Yes <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 Sha
 
-[Great! thanks, is it this Friday?](about:blank#)
+Great! thanks, is it this Friday?
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -5245,7 +5245,7 @@ _22-Mar-22 07:40 AM_:
 
 Vyvy-vi
 
-[sure :D ;) one of the things I might be working on would include measuring some metrics (of sorts)](about:blank#)
+sure :D ;) one of the things I might be working on would include measuring some metrics (of sorts)
 
 <h3>bends <img src="https://cdn.discordapp.com/avatars/805467270762856490/a8cb02682bdcc263545a6fe1cf21de89.png" width=25 height=25></h3>
 
@@ -5419,7 +5419,7 @@ Sorry, I don’t know if anyone else could do it?
 
 bear100
 
-[I was going to record the psychology session. I wouldn’t be able to record both at the same time](about:blank#)
+I was going to record the psychology session. I wouldn’t be able to record both at the same time
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -5623,7 +5623,7 @@ _22-Apr-22 08:40 PM_:
 
 Vyvy-vi
 
-[oh crap, today's Friday I'm so sorry for being absent at this week's session If you're all available, we could maybe have some more TEC-labs extras/afters/working-hours session -](about:blank#)
+oh crap, today's Friday I'm so sorry for being absent at this week's session If you're all available, we could maybe have some more TEC-labs extras/afters/working-hours session -
 
 [https://lettucemeet.com/l/Ax42J](https://lettucemeet.com/l/Ax42J)
 
@@ -5648,7 +5648,7 @@ maybe we can query that subgraph in one of the sessions and make the bot reflect
 
 Vyvy-vi
 
-[ maybe we can query that subgraph in one of the sessions and make the bot reflect the state of TEC tokens](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f643.png" width=20 height=20>
+ maybe we can query that subgraph in one of the sessions and make the bot reflect the state of TEC tokens <img src="https://twemoji.maxcdn.com/2/72x72/1f643.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -5720,7 +5720,7 @@ _30-Apr-22 10:56 AM_:
 
 Vyvy-vi
 
-[yes, slash commands can work in threads, provided the user has permissions to use application commands in the thread / parent channel. The access can be restricted in code by checking the interaction.channel property](about:blank#)
+yes, slash commands can work in threads, provided the user has permissions to use application commands in the thread / parent channel. The access can be restricted in code by checking the interaction.channel property
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -5744,7 +5744,7 @@ praise should work in threads <img src="https://twemoji.maxcdn.com/2/72x72/1f914
 
 Vyvy-vi
 
-[praise should work in threads   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
+praise should work in threads   (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -5764,7 +5764,7 @@ Also another question, can bots be limited to just one channel and the threads w
 
 nic
 
-[Also another question, can bots be limited to just one channel and the threads within that channel? I think that would be so helpful cause then different WG can have different bots](about:blank#)
+Also another question, can bots be limited to just one channel and the threads within that channel? I think that would be so helpful cause then different WG can have different bots
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -5776,7 +5776,7 @@ yes, that's possible. Another thing we could do is make 1 bot and restrict each 
 
 nic
 
-[@Vyvy-vi if I wanted to build a bot that will be used in 0mega, can I show you the bot + code for approval for use inside this server if 0mega does want it?](about:blank#)
+@Vyvy-vi if I wanted to build a bot that will be used in 0mega, can I show you the bot + code for approval for use inside this server if 0mega does want it?
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -5788,7 +5788,7 @@ sure. It would be great if you can put the code in a repo and share that with me
 
 Vyvy-vi
 
-[yes, that's possible. Another thing we could do is make 1 bot and restrict each set of features to each WG channel (this would be a modular bot, and doing this would save a ton of hosting resources)](about:blank#)
+yes, that's possible. Another thing we could do is make 1 bot and restrict each set of features to each WG channel (this would be a modular bot, and doing this would save a ton of hosting resources)
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -5800,7 +5800,7 @@ ok yeah that sounds good!
 
 Vyvy-vi
 
-[sure. It would be great if you can put the code in a repo and share that with me, along with some context about the bot. Once I'm done with safety checks, etc., we can get the bot hosted on TEC's bot droplet. It would be great if we can sync on this.  (edited)](about:blank#)
+sure. It would be great if you can put the code in a repo and share that with me, along with some context about the bot. Once I'm done with safety checks, etc., we can get the bot hosted on TEC's bot droplet. It would be great if we can sync on this.  (edited)
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -5840,7 +5840,7 @@ _20-May-22 11:03 AM_:
 
 Vyvy-vi
 
-[@labs-notifications Hey y'all, I'm in labs right now, and we'd be making a project today (Quiz Bot)  (edited)](about:blank#)
+@labs-notifications Hey y'all, I'm in labs right now, and we'd be making a project today (Quiz Bot)  (edited)
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -5900,7 +5900,7 @@ Hey folks, Flo from Tokenomics DAO here. I just had a chat with @liviade to disc
 
 ffstrauf - UTC +11
 
-[Hey folks, Flo from Tokenomics DAO here. I just had a chat with @liviade to discuss modes of collaboration. We'll have an open discussion on ETH2.0 on Friday. If you're interested, check it out here:](about:blank#)
+Hey folks, Flo from Tokenomics DAO here. I just had a chat with @liviade to discuss modes of collaboration. We'll have an open discussion on ETH2.0 on Friday. If you're interested, check it out here:
 
 [https://discord.gg/KGGrZ9YnPw?event=977314044551757874](https://discord.gg/KGGrZ9YnPw?event=977314044551757874)
 
@@ -5921,7 +5921,7 @@ Hi @Vyvy-vi I remember I've seen a proposal to run a Machinations study group at
 
 akrtws (TE Academy)
 
-[Hi @Vyvy-vi I remember I've seen a proposal to run a Machinations study group at TEC Labs. Is this this valid? One of the TEA host would be interested to run/support the study group - who should he best talk to?](about:blank#)
+Hi @Vyvy-vi I remember I've seen a proposal to run a Machinations study group at TEC Labs. Is this this valid? One of the TEA host would be interested to run/support the study group - who should he best talk to?
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -5940,7 +5940,7 @@ I havn't seen the proposal. If someone can point to it that would help. Labs wor
 
 ygg_anderson
 
-[I havn't seen the proposal. If someone can point to it that would help. Labs working group is paused due to low participation. Currently looking for collaborators to work on a re-structuring. Meanwhile we are looking at collaborating with Sampo WG to create financial modelling for TEC.](about:blank#)
+I havn't seen the proposal. If someone can point to it that would help. Labs working group is paused due to low participation. Currently looking for collaborators to work on a re-structuring. Meanwhile we are looking at collaborating with Sampo WG to create financial modelling for TEC.
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 

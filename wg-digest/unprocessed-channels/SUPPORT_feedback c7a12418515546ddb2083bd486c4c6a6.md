@@ -40,7 +40,7 @@ start-here channel? I&#39;m pretty new here, trying to wrap my head around all t
 
 markop
 
-[I created an issues for this](about:blank#)
+I created an issues for this
 
 [https://github.com/TECommons/coordination/issues/554](https://github.com/TECommons/coordination/issues/554)
 
@@ -113,7 +113,7 @@ These things aren’t criticism. They are really just suggestions to fill needs 
 
 Vyvy-vi
 
-[ I don't see a voice channel for Hatch Outreach in the server right now  (edited)](about:blank#)
+ I don't see a voice channel for Hatch Outreach in the server right now  (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f914.png](https://twemoji.maxcdn.com/2/72x72/1f914.png)
 
@@ -128,7 +128,7 @@ Oh! Where'd it go!?
 
 storypup
 
-[These things aren’t criticism. They are really just suggestions to fill needs that might not be met. 1. More analysis.. of everything. Individual functions, past decisions, the system as a whole, more perspective of how it can be utilized. Even if it takes slowing down progress and duration of voting before proposals are accepted. 2. A new working group for future-proofing. They could be tasked with very specific well audited goals like finding loopholes, exploits, anything that can be used to hold the entire project at ransom. (They would obviously need to be very diligent about communicating their work, and have a great understanding of features and public goods.](about:blank#)
+These things aren’t criticism. They are really just suggestions to fill needs that might not be met. 1. More analysis.. of everything. Individual functions, past decisions, the system as a whole, more perspective of how it can be utilized. Even if it takes slowing down progress and duration of voting before proposals are accepted. 2. A new working group for future-proofing. They could be tasked with very specific well audited goals like finding loopholes, exploits, anything that can be used to hold the entire project at ransom. (They would obviously need to be very diligent about communicating their work, and have a great understanding of features and public goods.
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -153,7 +153,7 @@ Oh cool! I'm happy you liked it. The Discord looks sharp.
 
 Vyvy-vi
 
-[I edited the channel names a bit to make this more readable (essentialy the emojis and the characters/alphabets fused together on some screen sizes, leading to this looking weird). Thanks to @metaverde for sharing that seperating by ｜ looks neat](about:blank#)
+I edited the channel names a bit to make this more readable (essentialy the emojis and the characters/alphabets fused together on some screen sizes, leading to this looking weird). Thanks to @metaverde for sharing that seperating by ｜ looks neat
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -171,7 +171,7 @@ I went to my first community hall and it felt pretty broad / open-ended. Wonderi
 
 ryeder (they/them)
 
-[I went to my first community hall and it felt pretty broad / open-ended. Wondering if it would be useful to have another call added or a rotating of calls that focus very much on new members. I also have ideas of how to do that if people are interested in iterating on it.](about:blank#)
+I went to my first community hall and it felt pretty broad / open-ended. Wondering if it would be useful to have another call added or a rotating of calls that focus very much on new members. I also have ideas of how to do that if people are interested in iterating on it.
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -197,7 +197,7 @@ Just sharing a bit of feedback re: praise notifications. At first, it was really
 
 LBS
 
-[Just sharing a bit of feedback re: praise notifications. At first, it was really helpful/fun to receive a private message notifying me whenever I got praised. But now that I know where the channel is and it lights up whenever I'm praised (tagged), I find myself doing a "yeah, I get it" whenever I get a new praise dm and have to go look at my private messages *and* the channel it in order to get the notifications to go away. I still get a little thrill with the private message, but it's being overtaken slowly by the frustration. Hope that's helpful, not an urgent issue for me by any means.](about:blank#)
+Just sharing a bit of feedback re: praise notifications. At first, it was really helpful/fun to receive a private message notifying me whenever I got praised. But now that I know where the channel is and it lights up whenever I'm praised (tagged), I find myself doing a "yeah, I get it" whenever I get a new praise dm and have to go look at my private messages *and* the channel it in order to get the notifications to go away. I still get a little thrill with the private message, but it's being overtaken slowly by the frustration. Hope that's helpful, not an urgent issue for me by any means.
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -225,7 +225,7 @@ that would be amazing!
 
 Vyvy-vi
 
-[We could make it opt-out](about:blank#)
+We could make it opt-out
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -258,7 +258,7 @@ Did TEC end up keeping praise in one channel? This was an urgent suggestion I ha
 
 ryeder (they/them)
 
-[Did TEC end up keeping praise in one channel? This was an urgent suggestion I had a couple weeks ago.... and it looks like folks heeded my warnings? Unsure (I've been offline) but it looks like it!](about:blank#)
+Did TEC end up keeping praise in one channel? This was an urgent suggestion I had a couple weeks ago.... and it looks like folks heeded my warnings? Unsure (I've been offline) but it looks like it!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -270,7 +270,7 @@ Ryeder! I think we have kept the praise on every channel!
 
 Vyvy-vi
 
-[We could make it opt-out](about:blank#)
+We could make it opt-out
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -289,7 +289,7 @@ Thank you so much for the DAOe workshop :) learned lots of new stuff
 
 octavioesc
 
-[Thank you so much for the DAOe workshop :) learned lots of new stuff](about:blank#) 
+Thank you so much for the DAOe workshop :) learned lots of new stuff 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44f.png](https://twemoji.maxcdn.com/2/72x72/1f44f.png)
 
@@ -304,7 +304,7 @@ Glad you enjoy it!
 
 Edu - TEC Steward.
 
-[Ryeder! I think we have kept the praise on every channel!](about:blank#)
+Ryeder! I think we have kept the praise on every channel!
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -329,7 +329,7 @@ so when I’m having a conversation I need to go to both servers to get rid of t
 
 nic
 
-[I’m getting tagged both on here and the token engineering academy server due to the bridge  so when I’m having a conversation I need to go to both servers to get rid of the notifications. I know I can mute mentions but I’m wondering if there’s a better alternative. Maybe we can direct TE Academy people to here instead of bridging? ‍♀️ I wonder if there’s a way to tell how many TE academy members are also here.](about:blank#)
+I’m getting tagged both on here and the token engineering academy server due to the bridge  so when I’m having a conversation I need to go to both servers to get rid of the notifications. I know I can mute mentions but I’m wondering if there’s a better alternative. Maybe we can direct TE Academy people to here instead of bridging? ‍♀️ I wonder if there’s a way to tell how many TE academy members are also here.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f605.png](https://twemoji.maxcdn.com/2/72x72/1f605.png)
 
@@ -345,7 +345,7 @@ There was a conversation about that the other day. Do you mean the TE Academy ch
 
 Edu - TEC Steward.
 
-[There was a conversation about that the other day. Do you mean the TE Academy channel on TE server?](about:blank#)
+There was a conversation about that the other day. Do you mean the TE Academy channel on TE server?
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -383,7 +383,7 @@ So nice here that learned a plenty of new knowledge and stuff, Best wishes to al
 
 Fobey
 
-[So nice here that learned a plenty of new knowledge and stuff, Best wishes to all the gentlemen and ladies who have worked hard for TEC, thank you very much！](about:blank#)
+So nice here that learned a plenty of new knowledge and stuff, Best wishes to all the gentlemen and ladies who have worked hard for TEC, thank you very much！
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -418,7 +418,7 @@ This is great feedback! youu are right, it's not clear what is the action to tak
 
 Edu - TEC Steward.
 
-[This is great feedback! youu are right, it's not clear what is the action to take @Vyvy-vi, is it possible to add a line that serves as a explainer?](about:blank#)
+This is great feedback! youu are right, it's not clear what is the action to take @Vyvy-vi, is it possible to add a line that serves as a explainer?
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -431,7 +431,7 @@ yes!
 
 Edu - TEC Steward.
 
-[I am glad to hear that! Can I ask which was your favorite part of your learning process around here?](about:blank#)
+I am glad to hear that! Can I ask which was your favorite part of your learning process around here?
 
 <h3>Fobey <img src="https://cdn.discordapp.com/avatars/792307840961740811/ca5c5d09c5ad7bd398cee89ec08154b2.png" width=25 height=25></h3>
 
@@ -444,7 +444,7 @@ maybe Labs as well as omega part lol.Really nice！thank for sharing.
 
 Edu - TEC Steward.
 
-[This is great feedback! youu are right, it's not clear what is the action to take @Vyvy-vi, is it possible to add a line that serves as a explainer?](about:blank#)
+This is great feedback! youu are right, it's not clear what is the action to take @Vyvy-vi, is it possible to add a line that serves as a explainer?
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -468,7 +468,7 @@ What is this issue about? Give as much detail as you can. This. Also this is a p
 
 Tam2140
 
-[@Vyvy-vi and I got to chatting about this and it's possible to even use this survey question to assign roles on Discord. We would want to revisit the categorization but it can server a deeper purpose. Dropping this on your radar too @MS @Gideonro](about:blank#)
+@Vyvy-vi and I got to chatting about this and it's possible to even use this survey question to assign roles on Discord. We would want to revisit the categorization but it can server a deeper purpose. Dropping this on your radar too @MS @Gideonro
 
 [https://github.com/CommonsBuild/coordination/issues/1163](https://github.com/CommonsBuild/coordination/issues/1163)
 
@@ -498,7 +498,7 @@ I currently update the weekly Events for this server which are based on the comm
 
 Ratio13
 
-[I currently update the weekly Events for this server which are based on the community calendar. As such, I am recommending the use of a bot for this task such as Apollo or Sesh. This would drastically remove repetitive work. Events, if recurring, could be created one time. Using this bot will require the creation of a new events channel where events will be listed instead of using the built-in Events feature of Discord. As always, pros/cons exist. Not my decision here so just throwing this out there. Attached is a screenshot for an event created by the bot. Thanks for reading.](about:blank#)
+I currently update the weekly Events for this server which are based on the community calendar. As such, I am recommending the use of a bot for this task such as Apollo or Sesh. This would drastically remove repetitive work. Events, if recurring, could be created one time. Using this bot will require the creation of a new events channel where events will be listed instead of using the built-in Events feature of Discord. As always, pros/cons exist. Not my decision here so just throwing this out there. Attached is a screenshot for an event created by the bot. Thanks for reading.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -523,7 +523,7 @@ Apollo is free to create recurring meetings, Sesh requires a premium subscriptio
 
 Vyvy-vi
 
-[That bot would be super useful, however I've been working on that feature in the meeting tracker bot](about:blank#)
+That bot would be super useful, however I've been working on that feature in the meeting tracker bot
 
 <h3>irenioskamoska <img src="https://cdn.discordapp.com/avatars/802300216656003102/91c34be1ab2422faff94781e9eb7d625.png" width=25 height=25></h3>
 
@@ -545,7 +545,7 @@ we could roll that into the announcement made by the bot
 
 irenioskamoska
 
-[Could the events have an "add to my calendar" feature?](about:blank#)
+Could the events have an "add to my calendar" feature?
 
 <h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
@@ -558,7 +558,7 @@ The Apollo bot offers that for Google calendar not iOS.
 
 Ratio13
 
-[I currently update the weekly Events for this server which are based on the community calendar. As such, I am recommending the use of a bot for this task such as Apollo or Sesh. This would drastically remove repetitive work. Events, if recurring, could be created one time. Using this bot will require the creation of a new events channel where events will be listed instead of using the built-in Events feature of Discord. As always, pros/cons exist. Not my decision here so just throwing this out there. Attached is a screenshot for an event created by the bot. Thanks for reading.](about:blank#)
+I currently update the weekly Events for this server which are based on the community calendar. As such, I am recommending the use of a bot for this task such as Apollo or Sesh. This would drastically remove repetitive work. Events, if recurring, could be created one time. Using this bot will require the creation of a new events channel where events will be listed instead of using the built-in Events feature of Discord. As always, pros/cons exist. Not my decision here so just throwing this out there. Attached is a screenshot for an event created by the bot. Thanks for reading.
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 

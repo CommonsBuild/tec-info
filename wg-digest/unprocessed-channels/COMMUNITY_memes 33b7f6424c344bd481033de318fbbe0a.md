@@ -37,7 +37,7 @@ _19-Mar-21 04:00 PM_:
 
 Zeptimus
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -184,7 +184,7 @@ _23-Mar-21 09:13 AM_:
 
 griff (💜, 💜)
 
-[@everyone We do meme parties Every Friday! If you have topics that you want Meme'd but can't come to the party, please just say the topic here!](about:blank#)
+@everyone We do meme parties Every Friday! If you have topics that you want Meme'd but can't come to the party, please just say the topic here!
 
 <h3>blairv <img src="https://cdn.discordapp.com/avatars/484862180370677761/b430b9edbb6602da725c07f9e6b3d517.png" width=25 height=25></h3>
 
@@ -559,7 +559,7 @@ Image tagged in don't shoot
 
 griff (💜, 💜)
 
-[^^^ need to add some faces here](about:blank#)
+^^^ need to add some faces here
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -1210,7 +1210,7 @@ hahahaha
 
 Juankbell
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
@@ -1297,7 +1297,7 @@ _02-Apr-21 05:19 PM_:
 
 Kris
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>JessicaZartler <img src="https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png" width=25 height=25></h3>
 
@@ -1310,7 +1310,7 @@ _03-Apr-21 11:53 AM_:
 
 JessicaZartler
 
-[@Kris do you have a link for this one? Have some other ideas](about:blank#) 
+@Kris do you have a link for this one? Have some other ideas 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -1387,7 +1387,7 @@ _06-Apr-21 03:23 PM_:
 
 Vyvy-vi
 
-[***disclaimer** - This site has a large amount of swearing, however this really touches on points like non-inclusive sites that are incompatible and have large load times:](about:blank#)
+***disclaimer** - This site has a large amount of swearing, however this really touches on points like non-inclusive sites that are incompatible and have large load times:
 
 [https://motherfuckingwebsite.com/](https://motherfuckingwebsite.com/)
 
@@ -1660,7 +1660,7 @@ _09-Apr-21 04:45 PM_:
 
 Zeptimus
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -1690,7 +1690,7 @@ _09-Apr-21 05:08 PM_:
 
 Vyvy-vi
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
@@ -2338,7 +2338,7 @@ Sad Pablo Escobar
 
 Juankbell
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
@@ -2881,7 +2881,7 @@ Image tagged in canadian parliament
 
 Vyvy-vi
 
-[oh no :(](about:blank#)
+oh no :(
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -2895,7 +2895,7 @@ free the nipple
 
 mitch (🍔, 🍔)
 
-[it was so good to](about:blank#)
+it was so good to
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -4866,7 +4866,7 @@ _04-Jun-21 05:14 PM_:
 
 griff (💜, 💜)
 
-[!praise @KZ Flyer for the ROCKING memes pre-meme party!!](about:blank#)
+!praise @KZ Flyer for the ROCKING memes pre-meme party!!
 
 <h3>KZ Flyer <img src="https://cdn.discordapp.com/avatars/433877864849473557/426992a96a4d443fd0931bfe92ff1515.png" width=25 height=25></h3>
 
@@ -5064,7 +5064,7 @@ _11-Jun-21 04:26 PM_:
 
 Kris
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -5225,7 +5225,7 @@ _17-Jun-21 02:40 PM_:
 
 Vyvy-vi
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
@@ -5409,7 +5409,7 @@ They're The Same Picture
 
 Kris
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
@@ -5666,7 +5666,7 @@ _19-Jul-21 11:15 AM_:
 
 Vyvy-vi
 
-[(from the conversation during Praise-Audit, about Griff getting a van)](about:blank#)
+(from the conversation during Praise-Audit, about Griff getting a van)
 
 [https://imgflip.com/i/5gyqx3](https://imgflip.com/i/5gyqx3)
 
@@ -5759,7 +5759,7 @@ _30-Jul-21 04:20 PM_:
 
 mateodaza
 
-[we missed the 69,420 WXDAI, but I'll say 'nice' anyway nice.](about:blank#)
+we missed the 69,420 WXDAI, but I'll say 'nice' anyway nice.
 
 <h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
@@ -5890,7 +5890,7 @@ _30-Jul-21 05:00 PM_:
 
 Kris
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -5902,7 +5902,7 @@ hahaha yes!!
 
 mateodaza
 
-[hahaha yes!!](about:blank#)
+hahaha yes!!
 
 <h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
@@ -7139,7 +7139,7 @@ for context, most of our bots use discord.py, which is getting archived and will
 
 Kris
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -7155,7 +7155,7 @@ That could be a cool TEC intro
 
 Vyvy-vi
 
-[for context, most of our bots use discord.py, which is getting archived and will become deprecated soon (ref:](about:blank#)
+for context, most of our bots use discord.py, which is getting archived and will become deprecated soon (ref:
 
 [https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
 
@@ -7171,7 +7171,7 @@ oh man, that is some context for sure lol! And yes, we should start planning for
 
 Vyvy-vi
 
-[ That could be a cool TEC intro](about:blank#)
+ That could be a cool TEC intro
 
 ![https://twemoji.maxcdn.com/2/72x72/1f602.png](https://twemoji.maxcdn.com/2/72x72/1f602.png)
 
@@ -7202,7 +7202,7 @@ Image tagged in ark of the covenant
 
 Kris
 
-[oh man, that is some context for sure lol! And yes, we should start planning for this](about:blank#)
+oh man, that is some context for sure lol! And yes, we should start planning for this
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -7397,7 +7397,7 @@ _24-Sep-21 05:15 PM_:
 
 Kris
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
@@ -7432,7 +7432,7 @@ you are a photopea wizard sir. Amazing fades! (edited)
 
 Kris
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -7972,7 +7972,7 @@ Thanks so much for all the memes!!!
 
 Kris
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -8447,7 +8447,7 @@ Futurama Fry
 
 Vyvy-vi
 
-[After reading the Forum Posts and going through the dashboard](about:blank#)
+After reading the Forum Posts and going through the dashboard
 
 [https://imgflip.com/i/5rgax7](https://imgflip.com/i/5rgax7)
 
@@ -8651,7 +8651,7 @@ credits to @liviade and @kristofer for making this association! (What if... ther
 
 Vyvy-vi
 
-[credits to @liviade and @kristofer for making this association! (What if... there was a way to verify people as "people", using the fact that they have been praised over at the TEC?)](about:blank#)
+credits to @liviade and @kristofer for making this association! (What if... there was a way to verify people as "people", using the fact that they have been praised over at the TEC?)
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -8663,7 +8663,7 @@ Yeah, that is super interesting!
 
 Mount Manu
 
-[Credit goes to @acidlazzer for unearthing this gem](about:blank#)
+Credit goes to @acidlazzer for unearthing this gem
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -8676,7 +8676,7 @@ this is very relatable
 
 Vyvy-vi
 
-[credits to @liviade and @kristofer for making this association! (What if... there was a way to verify people as "people", using the fact that they have been praised over at the TEC?)](about:blank#)
+credits to @liviade and @kristofer for making this association! (What if... there was a way to verify people as "people", using the fact that they have been praised over at the TEC?)
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8689,7 +8689,7 @@ Hahaha you’re so quick!!! Love the meme
 
 Mount Manu
 
-[Credit goes to @acidlazzer for unearthing this gem](about:blank#)
+Credit goes to @acidlazzer for unearthing this gem
 
 <h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
@@ -8705,7 +8705,7 @@ _03-Nov-21 04:27 PM_:
 
 Vyvy-vi
 
-[credits to @liviade and @kristofer for making this association! (What if... there was a way to verify people as "people", using the fact that they have been praised over at the TEC?)](about:blank#)
+credits to @liviade and @kristofer for making this association! (What if... there was a way to verify people as "people", using the fact that they have been praised over at the TEC?)
 
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
@@ -8726,7 +8726,7 @@ I dreamt with this meme and i had to wake up to do it
 
 Juankbell
 
-[Proof of token engineering? (like proof of humanity)](about:blank#) 
+Proof of token engineering? (like proof of humanity) 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f92f.png](https://twemoji.maxcdn.com/2/72x72/1f92f.png)
 
@@ -9134,7 +9134,7 @@ i saw this one in the twitter planning, i think its from @ZER8🧠 or @chuygarci
 
 Juankbell
 
-[ i saw this one in the twitter planning, i think its from @ZER8🧠 or @chuygarcia.eth  (edited)](about:blank#)
+ i saw this one in the twitter planning, i think its from @ZER8🧠 or @chuygarcia.eth  (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -9228,7 +9228,7 @@ would love to see some onboardooooor forks
 
 Tam2140
 
-[With all the praise and accolades this Sprint, it sure is feeling a lot like the season of the @mitch (🍔, 🍔)](about:blank#) 
+With all the praise and accolades this Sprint, it sure is feeling a lot like the season of the @mitch (🍔, 🍔) 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
 
@@ -9621,7 +9621,7 @@ _07-Jan-22 04:04 PM_:
 
 Juankbell
 
-[jajajajajaja that was me some days ago](about:blank#)
+jajajajajaja that was me some days ago
 
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
@@ -9937,7 +9937,7 @@ _07-Jan-22 04:31 PM_:
 
 durgadas
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -9963,7 +9963,7 @@ Hard To Swallow Pills
 
 pab🐝🐙
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -9991,7 +9991,7 @@ Sad Pablo Escobar
 
 durgadas
 
-[I wish there were other proposals with serious opening prices that value ourselves and our work](about:blank#)
+I wish there were other proposals with serious opening prices that value ourselves and our work
 
 <h3>pab🐝🐙 <img src="https://cdn.discordapp.com/avatars/135294406499631105/acf9eb17ea21508960cda3f3eee38ddc.png" width=25 height=25></h3>
 
@@ -10003,7 +10003,7 @@ I think the opening price doesnt necessarily need to reflect the full value of o
 
 pab🐝🐙
 
-[I think the opening price doesnt necessarily need to reflect the full value of our work right out of the gate, but rather function as a price discovery mechanism to eventually reach a price that does reflect it](about:blank#)
+I think the opening price doesnt necessarily need to reflect the full value of our work right out of the gate, but rather function as a price discovery mechanism to eventually reach a price that does reflect it
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -10578,7 +10578,7 @@ Two Buttons
 
 Fred.
 
-[@McKennedy you around for some meme magic making?](about:blank#) 
+@McKennedy you around for some meme magic making? 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f440.png](https://twemoji.maxcdn.com/2/72x72/1f440.png)
 
@@ -11149,7 +11149,7 @@ _15-Apr-22 03:35 PM_:
 
 Mert Ozd
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -11161,7 +11161,7 @@ _15-Apr-22 03:35 PM_:
 
 Mount Manu
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -11315,7 +11315,7 @@ _15-Apr-22 04:26 PM_:
 
 Mert Ozd
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>EFRA <img src="https://cdn.discordapp.com/avatars/769621045489172480/5d0540617e5e5c0d66ec5ba30dd6b612.png" width=25 height=25></h3>
 

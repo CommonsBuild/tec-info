@@ -57,7 +57,7 @@ _26-Mar-21 12:42 PM_:
 
 Vyvy-vi
 
-[Hello, the server joining application has been sorta set-up(just the bare-bones) -> people log in -> people are added to the server by the integration Could someone test this out? (I'll deploy a version of this on repl/nginx, if someone wants) Current remaining things are captcha verification and UI It's in Flask, so can be hosted on heroku (alternatively, we could port this to Javascript and host on github-pages)  (edited)](about:blank#)
+Hello, the server joining application has been sorta set-up(just the bare-bones) -> people log in -> people are added to the server by the integration Could someone test this out? (I'll deploy a version of this on repl/nginx, if someone wants) Current remaining things are captcha verification and UI It's in Flask, so can be hosted on heroku (alternatively, we could port this to Javascript and host on github-pages)  (edited)
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -243,7 +243,7 @@ VitaDAO, a novel decentralised biopharma organization (DAO), is looking for an e
 
 modernchaosmj
 
-[Does anyone have recommendations for ventures that build tokens for centralized platforms? (not sure where would be the best place to post this question!)](about:blank#)
+Does anyone have recommendations for ventures that build tokens for centralized platforms? (not sure where would be the best place to post this question!)
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -275,7 +275,7 @@ Digitaly cultivated NFTs that grow in a DeFi habitat
 
 modernchaosmj
 
-[Does anyone have recommendations for ventures that build tokens for centralized platforms? (not sure where would be the best place to post this question!)](about:blank#)
+Does anyone have recommendations for ventures that build tokens for centralized platforms? (not sure where would be the best place to post this question!)
 
 <h3>storypup <img src="https://cdn.discordapp.com/avatars/110852901919801344/32b1c4735f9d6def5db762aa49e192dd.png" width=25 height=25></h3>
 
@@ -508,7 +508,7 @@ Please DM me and I will connect you
 
 David D. | TEC
 
-[Hey gang a researcher from Gitcoin is seeking a token engineer. I was asked: “Thought of asking if you knew someone in TEC knowledgeable in incentive design + token engineering who would be open to advise on tokenomics? “](about:blank#)
+Hey gang a researcher from Gitcoin is seeking a token engineer. I was asked: “Thought of asking if you knew someone in TEC knowledgeable in incentive design + token engineering who would be open to advise on tokenomics? “
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -527,7 +527,7 @@ Hi all, I lead ecosystem and growth for Alkemi Network. We are looking for a par
 
 Erdogan
 
-[Hi all, I lead ecosystem and growth for Alkemi Network. We are looking for a partner to work with us on our v2 release, with an emphasis on evolving the design of our token economics and governance. Looking for expertise in modeling and simulation. Do you know of any groups/firms/teams who would be interested, beyond BlockScience, Gauntlet etc? Thank you!](about:blank#)
+Hi all, I lead ecosystem and growth for Alkemi Network. We are looking for a partner to work with us on our v2 release, with an emphasis on evolving the design of our token economics and governance. Looking for expertise in modeling and simulation. Do you know of any groups/firms/teams who would be interested, beyond BlockScience, Gauntlet etc? Thank you!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -540,7 +540,7 @@ Hello there! @ygg_anderson may know recommendations about this
 
 Edu - TEC Steward.
 
-[Hello there! @ygg_anderson may know recommendations about this](about:blank#) 
+Hello there! @ygg_anderson may know recommendations about this 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -554,7 +554,7 @@ Hi @Erdogan at the moment @ygg_anderson is KO with the flu but his group, Long T
 
 Tam2140
 
-[Hi @Erdogan at the moment @ygg_anderson is KO with the flu but his group, Long Tail Financial, may be able to assist with your query. Their discord server:](about:blank#)
+Hi @Erdogan at the moment @ygg_anderson is KO with the flu but his group, Long Tail Financial, may be able to assist with your query. Their discord server:
 
 [https://discord.gg/VB9h8wrw](https://discord.gg/VB9h8wrw)
 
@@ -581,7 +581,7 @@ _18-Nov-21 01:21 PM_:
 
 Tint.eth
 
-[@markop what past experience are they looking for ?](about:blank#)
+@markop what past experience are they looking for ?
 
 <h3>markop <img src="https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png" width=25 height=25></h3>
 
@@ -607,7 +607,7 @@ _18-Nov-21 01:49 PM_:
 
 markop
 
-[A friend of mine is looking for someone to work on tokenomics for a project that's going to be a fork of Balancer on Moonbeam. Anyone here interested or can introduce me to someone who would be?](about:blank#)
+A friend of mine is looking for someone to work on tokenomics for a project that's going to be a fork of Balancer on Moonbeam. Anyone here interested or can introduce me to someone who would be?
 
 <h3>Renato M <img src="https://cdn.discordapp.com/avatars/572084242276679684/a086e547199ee8c83cdd55e0080cb21f.png" width=25 height=25></h3>
 
@@ -641,7 +641,7 @@ Hi TEC friends, I'm launching HERE Mobility, a Web3 protocol to radically expand
 
 Michael Keating
 
-[Hi TEC friends, I'm launching HERE Mobility, a Web3 protocol to radically expand access to personal electric mobility. If you are familiar with Helium, I take significant inspiration from what they have done in wireless data. In my past life, I founded Scoot, the first electric mobility app, which I sold to Bird two years ago. We are looking for contributors on software engineering, product, and growth. DM me if you are interested in learning more.](about:blank#)
+Hi TEC friends, I'm launching HERE Mobility, a Web3 protocol to radically expand access to personal electric mobility. If you are familiar with Helium, I take significant inspiration from what they have done in wireless data. In my past life, I founded Scoot, the first electric mobility app, which I sold to Bird two years ago. We are looking for contributors on software engineering, product, and growth. DM me if you are interested in learning more.
 
 <h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
@@ -653,7 +653,7 @@ HERE as in here.com? The group that started out in GPS?
 
 graial
 
-[HERE as in here.com? The group that started out in GPS?](about:blank#)
+HERE as in here.com? The group that started out in GPS?
 
 <h3>Michael Keating <img src="https://cdn.discordapp.com/avatars/415358390957637642/f3c0ab1bc2145fb3a18e1077be815126.png" width=25 height=25></h3>
 
@@ -665,7 +665,7 @@ No affiliation.
 
 Michael Keating
 
-[No affiliation.](about:blank#)
+No affiliation.
 
 <h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
@@ -689,7 +689,7 @@ Hello everyone! I’m looking for a Product Owner/Product Manager for a Crypto c
 
 Lalocripto.eth🏴
 
-[Hello everyone! I’m looking for a Product Owner/Product Manager for a Crypto company in Latam. Requirements: - Crypto knowledge - languages: Spanish and English - Product knowledge](about:blank#)
+Hello everyone! I’m looking for a Product Owner/Product Manager for a Crypto company in Latam. Requirements: - Crypto knowledge - languages: Spanish and English - Product knowledge
 
 ![https://cdn.discordapp.com/avatars/768973489532305428/a_178e04338f524808c09a7257cda0b9c2.gif](https://cdn.discordapp.com/avatars/768973489532305428/a_178e04338f524808c09a7257cda0b9c2.gif)
 
@@ -748,7 +748,7 @@ Hi all I was wondering if anyone knows the current demand and expected grown of 
 
 Nate0909
 
-[Hi all I was wondering if anyone knows the current demand and expected grown of token engineers/token simulation?](about:blank#)
+Hi all I was wondering if anyone knows the current demand and expected grown of token engineers/token simulation?
 
 <h3>MS <img src="https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png" width=25 height=25></h3>
 
@@ -795,7 +795,7 @@ Twitter • 30-Dec-21 07:53 PM
 
 niksteel123
 
-[Looking for full time & Long term blockchain developer. Includes a lot of innovation with bonding curves. Hiring Details:](about:blank#)
+Looking for full time & Long term blockchain developer. Includes a lot of innovation with bonding curves. Hiring Details:
 
 [https://cryptocurrencyjobs.co/engineering/theia-finance-blockchain-engineer/](https://cryptocurrencyjobs.co/engineering/theia-finance-blockchain-engineer/)
 
@@ -813,7 +813,7 @@ Thanks for sharing, and for the clarity of the job application. Hopefully you wi
 
 tmoindustries
 
-[Are you a tokenomics designer or token engineer? Or know one? Last minute need for one in basinDAO to work on climate solutions](about:blank#)
+Are you a tokenomics designer or token engineer? Or know one? Last minute need for one in basinDAO to work on climate solutions
 
 [https://twitter.com/tmoindustries/status/1476718207113203714?s=20](https://twitter.com/tmoindustries/status/1476718207113203714?s=20)
 
@@ -899,7 +899,7 @@ The Theia Protocol introduces a new and disruptive model for crowdfunding projec
 
 A3
 
-[Hi guys, Im looking for a tokenomics designers to work with us in GameFi mechanics for our NFT fashion platform. Anyone interested?](about:blank#)
+Hi guys, Im looking for a tokenomics designers to work with us in GameFi mechanics for our NFT fashion platform. Anyone interested?
 
 <h3>mattishere <img src="https://cdn.discordapp.com/avatars/588083888857940061/a5de4f6e9f0a1840fd7aa0c7583471f5.png" width=25 height=25></h3>
 
@@ -911,7 +911,7 @@ Hello, I am actually approaching this same challenge in an early stage product I
 
 mattishere
 
-[Hello, I am actually approaching this same challenge in an early stage product I am developing as well as contributing to larger scale tokenomics systems in other areas so I'd really like to chat](about:blank#)
+Hello, I am actually approaching this same challenge in an early stage product I am developing as well as contributing to larger scale tokenomics systems in other areas so I'd really like to chat
 
 <h3>A3 <img src="https://cdn.discordapp.com/avatars/778574570202333224/10ec9cfed5937337150e72bb25fb5993.png" width=25 height=25></h3>
 
@@ -923,7 +923,7 @@ Great! What is the best way to organize a convo? Just invited you to friend so w
 
 A3
 
-[Great! What is the best way to organize a convo? Just invited you to friend so we can DM](about:blank#)
+Great! What is the best way to organize a convo? Just invited you to friend so we can DM
 
 <h3>mattishere <img src="https://cdn.discordapp.com/avatars/588083888857940061/a5de4f6e9f0a1840fd7aa0c7583471f5.png" width=25 height=25></h3>
 
@@ -983,7 +983,7 @@ Who are we looking for? We need an experienced Devops Specialist working in Web3
 
 hanners717
 
-[@everyone We have three open positions over at Giveth. Find out more about these positions by following the links below. Be a part of the Future of Giving](about:blank#) 
+@everyone We have three open positions over at Giveth. Find out more about these positions by following the links below. Be a part of the Future of Giving 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f49c.png](https://twemoji.maxcdn.com/2/72x72/1f49c.png)
 
@@ -1034,7 +1034,7 @@ Hey, there's a project looking for **Token Engineers**: "I am the CEO of Erovers
 
 HBesso31🐙
 
-[Hey, there's a project looking for **Token Engineers**: "I am the CEO of Eroverse.io, an adult gaming platform that is currently being developed. Our token $ERO has been launched on Dec 15th. All transactions have 8% tax: 4% goes to marketing wallet, 3% to the rewards pool and 1% are reflections. In 2 weeks are going to launch our adult gaming platform. The basic idea is that $ERO holders that hold a certain amount of tokens will be able to access the aplication, where based on other requisites, they'll be able to play games, some with play2earn mechanics. The games with play2earn system will have achievements defined, each of which will trigger a reward amount in BNB to be sent from our rewards pool to the player. Developers can launch and sell NFTs to get income and we would keep a certain amount as royalties. We need to figure out the economy for the platform. Since the rewards pool is filled from the transactions, is higly dependant on trading volume. Calculations for individual rewards amount, variables to adjust to market changes, etc, need to be defined to make the system sustainable. Some % of the rewards pool is also to be distributed between developers on a monthly basis. Our token contract allows us to change the tax %" Anyone interested in the job? I can put u in direct contact with this person. Please DM me, otherwise the conversation might get lost.  (edited)](about:blank#)
+Hey, there's a project looking for **Token Engineers**: "I am the CEO of Eroverse.io, an adult gaming platform that is currently being developed. Our token $ERO has been launched on Dec 15th. All transactions have 8% tax: 4% goes to marketing wallet, 3% to the rewards pool and 1% are reflections. In 2 weeks are going to launch our adult gaming platform. The basic idea is that $ERO holders that hold a certain amount of tokens will be able to access the aplication, where based on other requisites, they'll be able to play games, some with play2earn mechanics. The games with play2earn system will have achievements defined, each of which will trigger a reward amount in BNB to be sent from our rewards pool to the player. Developers can launch and sell NFTs to get income and we would keep a certain amount as royalties. We need to figure out the economy for the platform. Since the rewards pool is filled from the transactions, is higly dependant on trading volume. Calculations for individual rewards amount, variables to adjust to market changes, etc, need to be defined to make the system sustainable. Some % of the rewards pool is also to be distributed between developers on a monthly basis. Our token contract allows us to change the tax %" Anyone interested in the job? I can put u in direct contact with this person. Please DM me, otherwise the conversation might get lost.  (edited)
 
 <h3>HBesso31🐙 <img src="https://cdn.discordapp.com/avatars/492783003676835842/ff4b6fc0e86d1d8a056a03edbe7d3a52.png" width=25 height=25></h3>
 
@@ -1070,7 +1070,7 @@ vangelis 28-Feb-22 01:49 AM
 
 KL.Harambe
 
-[Good afternoon all, with the release of an up an coming project we are looking for some community mods. We will be paying weekly and have huge plans! Please reach out for further details if your interested!](about:blank#)
+Good afternoon all, with the release of an up an coming project we are looking for some community mods. We will be paying weekly and have huge plans! Please reach out for further details if your interested!
 
 <h3>Datta12 <img src="https://cdn.discordapp.com/avatars/717606072365350912/1375426571f40b502eb9a50433c24ad3.png" width=25 height=25></h3>
 
@@ -1132,7 +1132,7 @@ Who are we at General Magic? We’re an elite squad of designers, developers, sy
 
 HBesso31🐙
 
-[Hey, there's a project looking for **Token Engineers**: "I am the CEO of Eroverse.io, an adult gaming platform that is currently being developed. Our token $ERO has been launched on Dec 15th. All transactions have 8% tax: 4% goes to marketing wallet, 3% to the rewards pool and 1% are reflections. In 2 weeks are going to launch our adult gaming platform. The basic idea is that $ERO holders that hold a certain amount of tokens will be able to access the aplication, where based on other requisites, they'll be able to play games, some with play2earn mechanics. The games with play2earn system will have achievements defined, each of which will trigger a reward amount in BNB to be sent from our rewards pool to the player. Developers can launch and sell NFTs to get income and we would keep a certain amount as royalties. We need to figure out the economy for the platform. Since the rewards pool is filled from the transactions, is higly dependant on trading volume. Calculations for individual rewards amount, variables to adjust to market changes, etc, need to be defined to make the system sustainable. Some % of the rewards pool is also to be distributed between developers on a monthly basis. Our token contract allows us to change the tax %" Anyone interested in the job? I can put u in direct contact with this person. Please DM me, otherwise the conversation might get lost.  (edited)](about:blank#)
+Hey, there's a project looking for **Token Engineers**: "I am the CEO of Eroverse.io, an adult gaming platform that is currently being developed. Our token $ERO has been launched on Dec 15th. All transactions have 8% tax: 4% goes to marketing wallet, 3% to the rewards pool and 1% are reflections. In 2 weeks are going to launch our adult gaming platform. The basic idea is that $ERO holders that hold a certain amount of tokens will be able to access the aplication, where based on other requisites, they'll be able to play games, some with play2earn mechanics. The games with play2earn system will have achievements defined, each of which will trigger a reward amount in BNB to be sent from our rewards pool to the player. Developers can launch and sell NFTs to get income and we would keep a certain amount as royalties. We need to figure out the economy for the platform. Since the rewards pool is filled from the transactions, is higly dependant on trading volume. Calculations for individual rewards amount, variables to adjust to market changes, etc, need to be defined to make the system sustainable. Some % of the rewards pool is also to be distributed between developers on a monthly basis. Our token contract allows us to change the tax %" Anyone interested in the job? I can put u in direct contact with this person. Please DM me, otherwise the conversation might get lost.  (edited)
 
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
@@ -1178,7 +1178,7 @@ if I push to get them
 
 KL.Harambe
 
-[Good afternoon all, with the release of an up an coming project we are looking for some community mods. We will be paying weekly and have huge plans! Please reach out for further details if your interested!](about:blank#)
+Good afternoon all, with the release of an up an coming project we are looking for some community mods. We will be paying weekly and have huge plans! Please reach out for further details if your interested!
 
 <h3>Danniecius <img src="https://cdn.discordapp.com/avatars/756956357634162818/08d6d91add862f8506af6d75b86ebafb.png" width=25 height=25></h3>
 
@@ -1196,7 +1196,7 @@ anyone still need help with anything
 
 mattishere
 
-[Looking for small tasks I can complete tonight in exchange for fiat to help cover immediate expenses. I have been a developer since 2007.](about:blank#)
+Looking for small tasks I can complete tonight in exchange for fiat to help cover immediate expenses. I have been a developer since 2007.
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -1223,7 +1223,7 @@ Hey everyone, I'm looking for someone who has experience or knowledge with launc
 
 vibinium
 
-[Hey everyone, I'm looking for someone who has experience or knowledge with launching stablecoins. Will pay $100, specifically to answer this question: 1. How do you keep a stablecoin pegged to $1 on a DEX? If I provide liquidity to a DEX and someone swaps a big amount of the token, how do we keep the price from free floating, especially when it's the only DEX the stable is available to swap on and we can't depend on arbitrage. Thanks!](about:blank#)
+Hey everyone, I'm looking for someone who has experience or knowledge with launching stablecoins. Will pay $100, specifically to answer this question: 1. How do you keep a stablecoin pegged to $1 on a DEX? If I provide liquidity to a DEX and someone swaps a big amount of the token, how do we keep the price from free floating, especially when it's the only DEX the stable is available to swap on and we can't depend on arbitrage. Thanks!
 
 <h3>mattishere <img src="https://cdn.discordapp.com/avatars/588083888857940061/a5de4f6e9f0a1840fd7aa0c7583471f5.png" width=25 height=25></h3>
 
@@ -1235,7 +1235,7 @@ answered in dm
 
 Tam2140
 
-[Hi @mattishere and welcome to the TEC.  This channel is used more for posting open positions in the wider ecosystem. There are many here already and many other good resources to find work in web3. You seem to have many skills and I hope you find what you are looking for quickly. If you are interested in learning more about the TEC and Token Engineering, you are very welcome to join our weekly Orientation call on Wednesdays or our Community call every Thursday. You will find these, and all Working Group calls, on our TEC calendar:](about:blank#)
+Hi @mattishere and welcome to the TEC.  This channel is used more for posting open positions in the wider ecosystem. There are many here already and many other good resources to find work in web3. You seem to have many skills and I hope you find what you are looking for quickly. If you are interested in learning more about the TEC and Token Engineering, you are very welcome to join our weekly Orientation call on Wednesdays or our Community call every Thursday. You will find these, and all Working Group calls, on our TEC calendar:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f338.png](https://twemoji.maxcdn.com/2/72x72/1f338.png)
 
@@ -1251,7 +1251,7 @@ Thank you. I will try to attend one of these. I am much so into token engineerin
 
 mattishere
 
-[answered in dm](about:blank#)
+answered in dm
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -1263,7 +1263,7 @@ Thanks! I'll check my dm now
 
 vibinium
 
-[Thanks! I'll check my dm now](about:blank#)
+Thanks! I'll check my dm now
 
 <h3>Datta12 <img src="https://cdn.discordapp.com/avatars/717606072365350912/1375426571f40b502eb9a50433c24ad3.png" width=25 height=25></h3>
 
@@ -1300,7 +1300,7 @@ Hello i'm sophia i have great team works for marketing on twitter and telegram (
 
 Hicham
 
-[Hi guys, i am looking for an experienced Token engineer to assist in modeling and assessing the self sufficiency of the token economy of a client. Please reach out to me if you find yourself suitable for the job. Payment will be discussed over a call.](about:blank#)
+Hi guys, i am looking for an experienced Token engineer to assist in modeling and assessing the self sufficiency of the token economy of a client. Please reach out to me if you find yourself suitable for the job. Payment will be discussed over a call.
 
 <h3>camelotking <img src="https://cdn.discordapp.com/avatars/923395052254933033/a57cb9fe253c77f1fc6db4cf85def196.png" width=25 height=25></h3>
 
@@ -1312,7 +1312,7 @@ hit my PMs.
 
 Scott_M
 
-[Hi All, I am a looking for a token engineer to help think through the tokenization of a community. The community is creating asset back NFTs in a segment of the market called Real World Assets (RWA). We'd like help mapping out use cases for the token outside of traditional governance. Prefer a experienced token engineer with references. DMs open.](about:blank#)
+Hi All, I am a looking for a token engineer to help think through the tokenization of a community. The community is creating asset back NFTs in a segment of the market called Real World Assets (RWA). We'd like help mapping out use cases for the token outside of traditional governance. Prefer a experienced token engineer with references. DMs open.
 
 <h3>camelotking <img src="https://cdn.discordapp.com/avatars/923395052254933033/a57cb9fe253c77f1fc6db4cf85def196.png" width=25 height=25></h3>
 
@@ -1381,7 +1381,7 @@ Hey!!! I'm searching for a recent graduate or researcher to help me with a few s
 
 allbombs
 
-[Hey!!! I'm searching for a recent graduate or researcher to help me with a few small web3 and social impact projects. 10-40 hours per month, perfect for students or those juggling other discord projects. Please slide into my DMs for more details!  (edited)](about:blank#)
+Hey!!! I'm searching for a recent graduate or researcher to help me with a few small web3 and social impact projects. 10-40 hours per month, perfect for students or those juggling other discord projects. Please slide into my DMs for more details!  (edited)
 
 <h3>Datta12 <img src="https://cdn.discordapp.com/avatars/717606072365350912/1375426571f40b502eb9a50433c24ad3.png" width=25 height=25></h3>
 
@@ -1393,7 +1393,7 @@ Kindly Check dm.
 
 allbombs
 
-[Hey!!! I'm searching for a recent graduate or researcher to help me with a few small web3 and social impact projects. 10-40 hours per month, perfect for students or those juggling other discord projects. Please slide into my DMs for more details!  (edited)](about:blank#)
+Hey!!! I'm searching for a recent graduate or researcher to help me with a few small web3 and social impact projects. 10-40 hours per month, perfect for students or those juggling other discord projects. Please slide into my DMs for more details!  (edited)
 
 <h3>Sunnybeee <img src="https://cdn.discordapp.com/avatars/945592804036476968/a0e836408259d7ac2685563dd0a9cbd7.png" width=25 height=25></h3>
 
@@ -1411,7 +1411,7 @@ Need intern for Decentralisation also need flutter and dart coder
 
 allbombs
 
-[Hey!!! I'm searching for a recent graduate or researcher to help me with a few small web3 and social impact projects. 10-40 hours per month, perfect for students or those juggling other discord projects. Please slide into my DMs for more details!  (edited)](about:blank#)
+Hey!!! I'm searching for a recent graduate or researcher to help me with a few small web3 and social impact projects. 10-40 hours per month, perfect for students or those juggling other discord projects. Please slide into my DMs for more details!  (edited)
 
 <h3>Matus <img src="https://cdn.discordapp.com/avatars/542162126354120705/716a2e565de1890e6a714f80233a625a.png" width=25 height=25></h3>
 
@@ -1466,7 +1466,7 @@ We have more than 100 empolyes can do any missions asked from them
 
 Crypto Love
 
-[We have more than 100 empolyes can do any missions asked from them](about:blank#)
+We have more than 100 empolyes can do any missions asked from them
 
 <h3>Crypto Love <img src="https://cdn.discordapp.com/avatars/831859905689419868/ee612d8fa5b51c37678ba816dbefe719.png" width=25 height=25></h3>
 
@@ -1478,7 +1478,7 @@ On on twitter
 
 DisruptiveNina
 
-[Hi there community  .I'm Nina from Mandana,and i'm here to share our CTO job open position.If you think you're a good fit please let us know!](about:blank#) 
+Hi there community  .I'm Nina from Mandana,and i'm here to share our CTO job open position.If you think you're a good fit please let us know! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f596.png](https://twemoji.maxcdn.com/2/72x72/1f596.png)
 
@@ -1521,7 +1521,7 @@ The future belongs to those who believe in the beauty of their dreams.
 
 DisruptiveNina
 
-[Hi there beautiful community  I'm Nina from Mandana and i'm here to share our CTO and Full Stack Marketer Job Open position. If you are interested and think you're a good fit, please let us know](about:blank#) 
+Hi there beautiful community  I'm Nina from Mandana and i'm here to share our CTO and Full Stack Marketer Job Open position. If you are interested and think you're a good fit, please let us know 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f596.png](https://twemoji.maxcdn.com/2/72x72/1f596.png)
 
@@ -1545,7 +1545,7 @@ I am working on multiple projects so few projects you work on will be paid by to
 
 rx
 
-[I am working on multiple projects so few projects you work on will be paid by tokens or shares all the position are open so don’t be hesitate to DM me especially I need marketing , analysts , graphic design, flutter and dart developers](about:blank#)
+I am working on multiple projects so few projects you work on will be paid by tokens or shares all the position are open so don’t be hesitate to DM me especially I need marketing , analysts , graphic design, flutter and dart developers
 
 <h3>Datta12 <img src="https://cdn.discordapp.com/avatars/717606072365350912/1375426571f40b502eb9a50433c24ad3.png" width=25 height=25></h3>
 
@@ -1557,7 +1557,7 @@ Kindly check dm.
 
 rx
 
-[I am working on multiple projects so few projects you work on will be paid by tokens or shares all the position are open so don’t be hesitate to DM me especially I need marketing , analysts , graphic design, flutter and dart developers](about:blank#)
+I am working on multiple projects so few projects you work on will be paid by tokens or shares all the position are open so don’t be hesitate to DM me especially I need marketing , analysts , graphic design, flutter and dart developers
 
 <h3>Whiteyzero1 <img src="https://cdn.discordapp.com/avatars/928544223530217473/b55edc6d07e24bd7989506b80a3ddaae.png" width=25 height=25></h3>
 
@@ -1581,7 +1581,7 @@ Hello, we are looking for someone to write blog posts about Blockchain technolog
 
 Bismarckzuckerberg
 
-[Hello, we are looking for someone to write blog posts about Blockchain technologies.](about:blank#)
+Hello, we are looking for someone to write blog posts about Blockchain technologies.
 
 <h3>sharkie <img src="https://cdn.discordapp.com/avatars/695224043116167168/4996f427f1decfcec3a866f9cf7ef8ef.png" width=25 height=25></h3>
 
@@ -1616,7 +1616,7 @@ I am Community Manager based in Europe, working in the industry for the two and 
 
 Evergreen
 
-[Hi, everyone.  I am Community Manager based in Europe, working in the industry for the two and a half years, worked on multiple projects (NFT mainly), on platforms such as Telegram and Discord with my main duties of managing the communities and providing support. Right now, I am open to join another project on a part time basis, with my availability being ~20-30 hours a week. Please do let me know of your interest by tagging me here with a message, before adding me as a friend, at which point we can chat more. Thank you.](about:blank#)
+Hi, everyone.  I am Community Manager based in Europe, working in the industry for the two and a half years, worked on multiple projects (NFT mainly), on platforms such as Telegram and Discord with my main duties of managing the communities and providing support. Right now, I am open to join another project on a part time basis, with my availability being ~20-30 hours a week. Please do let me know of your interest by tagging me here with a message, before adding me as a friend, at which point we can chat more. Thank you.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -1630,7 +1630,7 @@ Community manager for any DAO’s or defi projects?
 
 noah_saav
 
-[Community manager for any DAO’s or defi projects?](about:blank#)
+Community manager for any DAO’s or defi projects?
 
 <h3>Evergreen <img src="https://cdn.discordapp.com/avatars/273509788778758144/2ba73da2db9506b3a0a27d5d2587a0f1.png" width=25 height=25></h3>
 

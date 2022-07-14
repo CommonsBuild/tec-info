@@ -88,7 +88,7 @@ I just contributed without an error!
 
 trangnv
 
-[I just contributed without an error!](about:blank#)
+I just contributed without an error!
 
 <h3>Raul | Forta | EthicHub <img src="https://cdn.discordapp.com/avatars/433574151983202305/cd9b1d7146c99401ee4fcf4b0e4b660d.png" width=25 height=25></h3>
 
@@ -112,7 +112,7 @@ There are some issues with the config tool on mobile browsers. It doesn't happen
 
 Yashmanso
 
-[There are some issues with the config tool on mobile browsers. It doesn't happen all the time, but it does happen often](about:blank#)
+There are some issues with the config tool on mobile browsers. It doesn't happen all the time, but it does happen often
 
 <h3>Laurence Ion | VitaDAO steward <img src="https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png" width=25 height=25></h3>
 
@@ -128,7 +128,7 @@ Yup
 
 Yashmanso
 
-[There are some issues with the config tool on mobile browsers. It doesn't happen all the time, but it does happen often](about:blank#)
+There are some issues with the config tool on mobile browsers. It doesn't happen all the time, but it does happen often
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -140,7 +140,7 @@ _18-Nov-21 09:17 AM_:
 
 Yashmanso
 
-[There are some issues with the config tool on mobile browsers. It doesn't happen all the time, but it does happen often](about:blank#)
+There are some issues with the config tool on mobile browsers. It doesn't happen all the time, but it does happen often
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -158,7 +158,7 @@ Praisebot fails to strip some recipients from the reason. Take note of this prai
 
 graial
 
-[Praisebot fails to strip some recipients from the reason. Take note of this praise:](about:blank#)
+Praisebot fails to strip some recipients from the reason. Take note of this praise:
 
 [https://discord.com/channels/776352358832930816/778150291706609703/915651865054695444](https://discord.com/channels/776352358832930816/778150291706609703/915651865054695444)
 
@@ -178,7 +178,7 @@ Hey there, sorry, can you explain the "stripped from the reason"?
 
 graial
 
-[Praisebot fails to strip some recipients from the reason. Take note of this praise:](about:blank#)
+Praisebot fails to strip some recipients from the reason. Take note of this praise:
 
 [https://discord.com/channels/776352358832930816/778150291706609703/915651865054695444](https://discord.com/channels/776352358832930816/778150291706609703/915651865054695444)
 
@@ -198,7 +198,7 @@ I can also suggest to tag/mention other quantifiers so they can provide feedback
 
 graial
 
-[Praisebot fails to strip some recipients from the reason. Take note of this praise:](about:blank#)
+Praisebot fails to strip some recipients from the reason. Take note of this praise:
 
 [https://discord.com/channels/776352358832930816/778150291706609703/915651865054695444](https://discord.com/channels/776352358832930816/778150291706609703/915651865054695444)
 
@@ -218,7 +218,7 @@ _07-Dec-21 11:40 AM_:
 
 Edu - TEC Steward.
 
-[Hey there, sorry, can you explain the "stripped from the reason"?](about:blank#)
+Hey there, sorry, can you explain the "stripped from the reason"?
 
 <h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
@@ -265,7 +265,7 @@ Instruction to quantifiers
 
 graial
 
-[Praisebot fails to strip some recipients from the reason. Take note of this praise:](about:blank#)
+Praisebot fails to strip some recipients from the reason. Take note of this praise:
 
 [https://discord.com/channels/776352358832930816/778150291706609703/915651865054695444](https://discord.com/channels/776352358832930816/778150291706609703/915651865054695444)
 
@@ -285,7 +285,7 @@ thankfully, this bug is only affecting the reason and not the number of people b
 
 Vyvy-vi
 
-[thankfully, this bug is only affecting the reason and not the number of people being dished... An alternate parser I drafted up for the praise audit can be found here -](about:blank#)
+thankfully, this bug is only affecting the reason and not the number of people being dished... An alternate parser I drafted up for the praise audit can be found here -
 
 [https://github.com/hurek/Praise-Bot-Discord/blob/main/ext/scrape_praise.py](https://github.com/hurek/Praise-Bot-Discord/blob/main/ext/scrape_praise.py)
 
@@ -303,7 +303,7 @@ unless there is a recipient in the middle of the string. But the it also makes t
 
 Vyvy-vi
 
-[thankfully, this bug is only affecting the reason and not the number of people being dished... An alternate parser I drafted up for the praise audit can be found here -](about:blank#)
+thankfully, this bug is only affecting the reason and not the number of people being dished... An alternate parser I drafted up for the praise audit can be found here -
 
 [https://github.com/hurek/Praise-Bot-Discord/blob/main/ext/scrape_praise.py](https://github.com/hurek/Praise-Bot-Discord/blob/main/ext/scrape_praise.py)
 
@@ -319,7 +319,7 @@ I agree. As far as I can tell, all the recipients still get logged even if the n
 
 graial
 
-[What Ive been doing is stripping the leading 'for' from the reason which has the added side effect of stripping out any recipients that the bot missed](about:blank#)
+What Ive been doing is stripping the leading 'for' from the reason which has the added side effect of stripping out any recipients that the bot missed
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -366,7 +366,7 @@ which is a
 
 aljz
 
-[Hello, I report a small redirection-link-bug from Welcome to the TEC! BOT (your-guide). When the button "**How to make a proposal"** is clicked, the bot answers :](about:blank#)
+Hello, I report a small redirection-link-bug from Welcome to the TEC! BOT (your-guide). When the button "**How to make a proposal"** is clicked, the bot answers :
 
 "In order to submit a proposal for funding for a project, the first step is to share it on the TEC Forum for Advice Process. You can do that **here**."
 
@@ -395,7 +395,7 @@ Hello there! So sorry for that, we are updating links and this was slipped throu
 
 aljz
 
-[Hello, I report a small redirection-link-bug from Welcome to the TEC! BOT (your-guide). When the button "**How to make a proposal"** is clicked, the bot answers :](about:blank#)
+Hello, I report a small redirection-link-bug from Welcome to the TEC! BOT (your-guide). When the button "**How to make a proposal"** is clicked, the bot answers :
 
 "In order to submit a proposal for funding for a project, the first step is to share it on the TEC Forum for Advice Process. You can do that **here**."
 
@@ -466,7 +466,7 @@ Hola Humber! it must be that you are trying to make the proposal with the TEC yo
 
 Juankbell
 
-[Hola Humber! it must be that you are trying to make the proposal with the TEC you have from the Hatch, but this fee must be paid with TEC from the Bonding curve (as the hatch tokens are vested and non trasferable)](about:blank#)
+Hola Humber! it must be that you are trying to make the proposal with the TEC you have from the Hatch, but this fee must be paid with TEC from the Bonding curve (as the hatch tokens are vested and non trasferable)
 
 <h3>HBesso31🐙 <img src="https://cdn.discordapp.com/avatars/492783003676835842/ff4b6fc0e86d1d8a056a03edbe7d3a52.png" width=25 height=25></h3>
 
@@ -486,7 +486,7 @@ _25-Mar-22 12:25 PM_:
 
 nic
 
-[@Vyvy-vi btw was playing around with the guide bot, onclick of 'What is Token Engineering?' it gets stuck..been stuck for 10 mins now  (edited)](about:blank#)
+@Vyvy-vi btw was playing around with the guide bot, onclick of 'What is Token Engineering?' it gets stuck..been stuck for 10 mins now  (edited)
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -508,7 +508,7 @@ Maybe something broke when the recent changes were made
 
 Vyvy-vi
 
-[I'll take a look  Maybe something broke when the recent changes were made](about:blank#)
+I'll take a look  Maybe something broke when the recent changes were made
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
@@ -529,7 +529,7 @@ It has been fixed! (edited)
 
 Vyvy-vi
 
-[It has been fixed!  (edited)](about:blank#)
+It has been fixed!  (edited)
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -555,7 +555,7 @@ The TEC envisions a world with safe digital economies that protect and support p
 
 Incandenza
 
-[Hi guys, sorry to introduce myself with a bug report, but in this presentation page (](about:blank#)
+Hi guys, sorry to introduce myself with a bug report, but in this presentation page (
 
 [https://medium.com/token-engineering-commons/kicking-off-the-token-engineering-commons-be6a253cba81)](https://medium.com/token-engineering-commons/kicking-off-the-token-engineering-commons-be6a253cba81))
 
@@ -579,7 +579,7 @@ where is channel for sampo? can't find it
 
 Anak
 
-[where is channel for sampo? can't find it](about:blank#)
+where is channel for sampo? can't find it
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -601,7 +601,7 @@ And only when I closed the modal to check, it did not let me resubmit.
 
 Marcel | Toucan
 
-[I think I found a bug in the QV system due to signature submission. I was able to cast 37 votes on a single project, even though i only have 1125 TRUST, but Sqrt(1125)=35.5.](about:blank#)
+I think I found a bug in the QV system due to signature submission. I was able to cast 37 votes on a single project, even though i only have 1125 TRUST, but Sqrt(1125)=35.5.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -613,7 +613,7 @@ Thanks for sharing. Will cc: @Tam2140 @Yineisy Mota
 
 Edu - TEC Steward.
 
-[Thanks for sharing. Will cc: @Tam2140 @Yineisy Mota](about:blank#)
+Thanks for sharing. Will cc: @Tam2140 @Yineisy Mota
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -641,7 +641,7 @@ Frens of Commonstack! @Yineisy Mota on the TokenLog, your avatar is the TEC one!
 
 Edu - TEC Steward.
 
-[Frens of Commonstack! @Yineisy Mota on the TokenLog, your avatar is the TEC one!](about:blank#) 
+Frens of Commonstack! @Yineisy Mota on the TokenLog, your avatar is the TEC one! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 

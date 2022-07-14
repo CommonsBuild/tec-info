@@ -20,7 +20,7 @@ Hi guys, I saw your write up about the project on gitcoin and I like it, how can
 
 osycross(🦎🦎)
 
-[Hi guys, I saw your write up about the project on gitcoin and I like it, how can I get involve?](about:blank#)
+Hi guys, I saw your write up about the project on gitcoin and I like it, how can I get involve?
 
 <h3>baartch <img src="https://cdn.discordapp.com/avatars/711810969755451414/5d53f1fe2190fde0e04bf37eab2adc59.png" width=25 height=25></h3>
 
@@ -70,7 +70,7 @@ Ending our Collective Psychosis Around Public Goods - @thegrifft of @commonsstac
 
 osycross(🦎🦎)
 
-[Hi guys, I saw your write up about the project on gitcoin and I like it, how can I get involve?](about:blank#)
+Hi guys, I saw your write up about the project on gitcoin and I like it, how can I get involve?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -118,7 +118,7 @@ Hello
 
 paul2
 
-[Hello TEC! Noob here - just got off the Wednesday AMA where I got a few sips of the firehose. My professional background is in marketing and operations for startups in a few industries, but I've been VERY excited specifically in the applications for crypto in the public goods sphere for a while now. If you're interested here's a write up I did on how public goods might be tokenized effectively:](about:blank#)
+Hello TEC! Noob here - just got off the Wednesday AMA where I got a few sips of the firehose. My professional background is in marketing and operations for startups in a few industries, but I've been VERY excited specifically in the applications for crypto in the public goods sphere for a while now. If you're interested here's a write up I did on how public goods might be tokenized effectively:
 
 [https://medium.com/@paulglavin/tokenized-public-goods-a-new-store-of-value-83b91c53d436](https://medium.com/@paulglavin/tokenized-public-goods-a-new-store-of-value-83b91c53d436)
 
@@ -151,7 +151,7 @@ _29-Mar-21 05:50 AM_:
 
 globalyou
 
-[Hello](about:blank#)
+Hello
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -163,7 +163,7 @@ hey there! Welcome :D Feel free to introduce yourself ✨
 
 paul2
 
-[Hello TEC! Noob here - just got off the Wednesday AMA where I got a few sips of the firehose. My professional background is in marketing and operations for startups in a few industries, but I've been VERY excited specifically in the applications for crypto in the public goods sphere for a while now. If you're interested here's a write up I did on how public goods might be tokenized effectively:](about:blank#)
+Hello TEC! Noob here - just got off the Wednesday AMA where I got a few sips of the firehose. My professional background is in marketing and operations for startups in a few industries, but I've been VERY excited specifically in the applications for crypto in the public goods sphere for a while now. If you're interested here's a write up I did on how public goods might be tokenized effectively:
 
 [https://medium.com/@paulglavin/tokenized-public-goods-a-new-store-of-value-83b91c53d436](https://medium.com/@paulglavin/tokenized-public-goods-a-new-store-of-value-83b91c53d436)
 
@@ -229,7 +229,7 @@ Please drop requests, insights and thoughts on how to make the onboarding journe
 
 griff (💜, 💜)
 
-[Is there any specific help you feel like you would be especially excited to give? Maybe then we can optimize your fun and your time](about:blank#) 
+Is there any specific help you feel like you would be especially excited to give? Maybe then we can optimize your fun and your time 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -278,7 +278,7 @@ Would like to hear your feedback on the governance structure that we've come up 
 
 KZ Flyer
 
-[Oh boy, major life decision on day one!  I've spent last night and tonight going through some of the channels and the forum. Trying to sort through what is old and what is new, and going from there. Saw there's some voting to do, so I was going to check those out. Honestly, I am happy to help anywhere I can. I enjoy working through the chaos behind the scenes. I once took over the day to day benefits administration for about 1,100 employees for about 6 months - with no prior experience....that was one of my favorite roles. If its not too complex, doesn't require advanced (or sometimes remedial) education, I'm happy to learn as I work on it. I'm not the most tech savvy, but as a user, I'm decent. The last time I did any sort of coding was back in the 90's, probably in C++, so I would probably do more damage than good in that area. I could definitely test whatever is built though. I used to do UAT and regression testing on some of the banking programs.](about:blank#)
+Oh boy, major life decision on day one!  I've spent last night and tonight going through some of the channels and the forum. Trying to sort through what is old and what is new, and going from there. Saw there's some voting to do, so I was going to check those out. Honestly, I am happy to help anywhere I can. I enjoy working through the chaos behind the scenes. I once took over the day to day benefits administration for about 1,100 employees for about 6 months - with no prior experience....that was one of my favorite roles. If its not too complex, doesn't require advanced (or sometimes remedial) education, I'm happy to learn as I work on it. I'm not the most tech savvy, but as a user, I'm decent. The last time I did any sort of coding was back in the 90's, probably in C++, so I would probably do more damage than good in that area. I could definitely test whatever is built though. I used to do UAT and regression testing on some of the banking programs.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f602.png](https://twemoji.maxcdn.com/2/72x72/1f602.png)
 
@@ -296,7 +296,7 @@ it will happen here in the Params voice channel
 
 griff (💜, 💜)
 
-[If you can drop in at any point during that sesh we can set you at it and give us feed back](about:blank#)
+If you can drop in at any point during that sesh we can set you at it and give us feed back
 
 <h3>KZ Flyer <img src="https://cdn.discordapp.com/avatars/433877864849473557/426992a96a4d443fd0931bfe92ff1515.png" width=25 height=25></h3>
 
@@ -377,7 +377,7 @@ Pinned a message.
 
 anna-marie
 
-[Hey folks. I just activated my Trusted Seed membership and attended an AMA session with Commons Stack last week. Very pleased to have found you  A bit about me: I mostly help people and orgs doing good things in the world find greater clarity and alignment so that we can bring that into strategy, communications, design, and their internal environments. I am a member of Enspiral and donate a little of my time to Seeds. This year I've been deep-diving into DeFi and DAOs and the potential of Web3 to shift our global systems and bring decision-making, commoning, and wealth into the hands of the communities and groups that are marginalised and harmed by our current systems. I'm absolutely fascinated by commons, and about 18 months ago spent six months working on this commons-based project:](about:blank#)
+Hey folks. I just activated my Trusted Seed membership and attended an AMA session with Commons Stack last week. Very pleased to have found you  A bit about me: I mostly help people and orgs doing good things in the world find greater clarity and alignment so that we can bring that into strategy, communications, design, and their internal environments. I am a member of Enspiral and donate a little of my time to Seeds. This year I've been deep-diving into DeFi and DAOs and the potential of Web3 to shift our global systems and bring decision-making, commoning, and wealth into the hands of the communities and groups that are marginalised and harmed by our current systems. I'm absolutely fascinated by commons, and about 18 months ago spent six months working on this commons-based project:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -429,7 +429,7 @@ Hi @ddan, reach out to @iviangita, who can help with both.
 
 anna-marie
 
-[Hey folks. I just activated my Trusted Seed membership and attended an AMA session with Commons Stack last week. Very pleased to have found you  A bit about me: I mostly help people and orgs doing good things in the world find greater clarity and alignment so that we can bring that into strategy, communications, design, and their internal environments. I am a member of Enspiral and donate a little of my time to Seeds. This year I've been deep-diving into DeFi and DAOs and the potential of Web3 to shift our global systems and bring decision-making, commoning, and wealth into the hands of the communities and groups that are marginalised and harmed by our current systems. I'm absolutely fascinated by commons, and about 18 months ago spent six months working on this commons-based project:](about:blank#)
+Hey folks. I just activated my Trusted Seed membership and attended an AMA session with Commons Stack last week. Very pleased to have found you  A bit about me: I mostly help people and orgs doing good things in the world find greater clarity and alignment so that we can bring that into strategy, communications, design, and their internal environments. I am a member of Enspiral and donate a little of my time to Seeds. This year I've been deep-diving into DeFi and DAOs and the potential of Web3 to shift our global systems and bring decision-making, commoning, and wealth into the hands of the communities and groups that are marginalised and harmed by our current systems. I'm absolutely fascinated by commons, and about 18 months ago spent six months working on this commons-based project:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -461,7 +461,7 @@ We are getting closer and closer to the highly anticipated Hatch of the Token En
 
 Tam2140
 
-[Hi AnnaMarieSwan! We’re glad to have you here! Feel free to jump into any of the meetings that interest you. All are welcome! Note on the calendar that @metaverde sent that there is a weekly **Onboarding AMA and it happens tomorrow at 4pm CET**. That’s a great starting point for you as there will be Stewards available to answer specific questions you might have. Also, I’m dropping this link to the latest bi-weekly blog post which highlights the most recent things happening in the TEC. I look forward to meeting you soon.](about:blank#)
+Hi AnnaMarieSwan! We’re glad to have you here! Feel free to jump into any of the meetings that interest you. All are welcome! Note on the calendar that @metaverde sent that there is a weekly **Onboarding AMA and it happens tomorrow at 4pm CET**. That’s a great starting point for you as there will be Stewards available to answer specific questions you might have. Also, I’m dropping this link to the latest bi-weekly blog post which highlights the most recent things happening in the TEC. I look forward to meeting you soon.
 
 [https://medium.com/token-engineering-commons/tec-mission-vision-and-values-introducing-1st-gen-gravitons-a4822eb6d769](https://medium.com/token-engineering-commons/tec-mission-vision-and-values-introducing-1st-gen-gravitons-a4822eb6d769)
 
@@ -601,7 +601,7 @@ Specially on Soft Gov working group where we've been investigating how to implem
 
 Si Chen
 
-[Hi everybody, We're working on a blockchain DAO for validating climate claims (products' carbon intensity, validity of carbon offsets, companies' climate initiatives). We came up with the governance of the DAO's voting scheme here, including quadratic voting:](about:blank#)
+Hi everybody, We're working on a blockchain DAO for validating climate claims (products' carbon intensity, validity of carbon offsets, companies' climate initiatives). We came up with the governance of the DAO's voting scheme here, including quadratic voting:
 
 [https://wiki.hyperledger.org/display/CASIG/DAO+Project](https://wiki.hyperledger.org/display/CASIG/DAO+Project)
 
@@ -623,7 +623,7 @@ _20-Apr-21 08:45 PM_:
 
 Si Chen
 
-[@liviade Thanks. I'll join your call next tuesday. Can you add me to your agenda?](about:blank#)
+@liviade Thanks. I'll join your call next tuesday. Can you add me to your agenda?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -641,7 +641,7 @@ Hi is the Soft Gov call going to be here in about 5 minutes?
 
 Si Chen
 
-[Hi is the Soft Gov call going to be here in about 5 minutes?](about:blank#)
+Hi is the Soft Gov call going to be here in about 5 minutes?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -665,7 +665,7 @@ Hi @Si Chen Could you head over to #🔮｜verification and acknowledge the CC?
 
 Vyvy-vi
 
-[Hi @Si Chen Could you head over to #🔮｜verification and acknowledge the CC?](about:blank#)
+Hi @Si Chen Could you head over to #🔮｜verification and acknowledge the CC?
 
 <h3>Si Chen <img src="https://cdn.discordapp.com/avatars/598541984516538379/a6bc64f25aaf805bd61021c2ec32b06d.png" width=25 height=25></h3>
 
@@ -740,7 +740,7 @@ UNicoins is a digital future of work solution to incentivize and make visible cr
 
 joeinternet
 
-[Good day everyone! I'm looking for token engineers to work with us prior to launching on Balancer LBP. If you are interested, please send me a message to hear more about our exciting project.](about:blank#)
+Good day everyone! I'm looking for token engineers to work with us prior to launching on Balancer LBP. If you are interested, please send me a message to hear more about our exciting project.
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -762,7 +762,7 @@ I'd like to hire a token engineer to help validate our tokenomics prior to launc
 
 joeinternet
 
-[I'd like to hire a token engineer to help validate our tokenomics prior to launching on the Balancer LBP. Looking for someone with experience. Please message me if you are interested and I'll share our project.](about:blank#)
+I'd like to hire a token engineer to help validate our tokenomics prior to launching on the Balancer LBP. Looking for someone with experience. Please message me if you are interested and I'll share our project.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -775,7 +775,7 @@ _11-May-21 11:48 AM_:
 
 liviade
 
-[@ygg_anderson @phacker  (edited)](about:blank#)
+@ygg_anderson @phacker  (edited)
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -913,7 +913,7 @@ The Token Engineering Commons (TEC) is building a world with safe digital socio-
 
 DecentralizeSDGs
 
-[Anyone more into technical research and writing and would like to volunteer for Token Engineering Technical Specifications Research and Drafting for UNicoins prototype - Apply here -](about:blank#)
+Anyone more into technical research and writing and would like to volunteer for Token Engineering Technical Specifications Research and Drafting for UNicoins prototype - Apply here -
 
 [https://www.onlinevolunteering.org/en/un-innovation-network/token-engineering-technical-specifications-research-and-drafting-unicoins](https://www.onlinevolunteering.org/en/un-innovation-network/token-engineering-technical-specifications-research-and-drafting-unicoins)
 
@@ -1138,7 +1138,7 @@ Thanks:D
 
 innov8tor3
 
-[Great to see an orientation channel! Do you have any YouTube videos for us absolute beginners? I've done MetaMask, but no clue what to do next to: a) earn tokens b) find eg bio intensive projects c) find where folk are seeking resource d) find things to spend tokens on Note, I'm hoping to earn tokens, which is a route in to tokenomics for any newbie!](about:blank#)
+Great to see an orientation channel! Do you have any YouTube videos for us absolute beginners? I've done MetaMask, but no clue what to do next to: a) earn tokens b) find eg bio intensive projects c) find where folk are seeking resource d) find things to spend tokens on Note, I'm hoping to earn tokens, which is a route in to tokenomics for any newbie!
 
 <h3>KZ Flyer <img src="https://cdn.discordapp.com/avatars/433877864849473557/426992a96a4d443fd0931bfe92ff1515.png" width=25 height=25></h3>
 
@@ -1241,7 +1241,7 @@ Oh no.. I did the time conversion wrong. I was thinking it was late at night for
 
 storypup
 
-[Oh no.. I did the time conversion wrong. I was thinking it was late at night for me. Just got back to work : (](about:blank#)
+Oh no.. I did the time conversion wrong. I was thinking it was late at night for me. Just got back to work : (
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -1366,7 +1366,7 @@ I have to go! Thanks so much @Suga - super helpful! Really enjoyed it
 
 Suga
 
-[TEC MVV:](about:blank#)
+TEC MVV:
 
 [https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/mission-vision-and-values](https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/mission-vision-and-values)
 
@@ -1383,7 +1383,7 @@ _14-Jul-21 12:57 PM_:
 
 Suga
 
-[@innov8tor3 you can earn "Impact Hours" by contributing in the community and being praised. Those in turn become tokens! Reach out any time.](about:blank#)
+@innov8tor3 you can earn "Impact Hours" by contributing in the community and being praised. Those in turn become tokens! Reach out any time.
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -1395,7 +1395,7 @@ Thank you!
 
 Suga
 
-[TEC MVV:](about:blank#)
+TEC MVV:
 
 [https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/mission-vision-and-values](https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/mission-vision-and-values)
 
@@ -1423,7 +1423,7 @@ We are committed to creating and fostering a diverse community of aligned indivi
 
 Suga
 
-[@innov8tor3 there is a scholarship!](about:blank#)
+@innov8tor3 there is a scholarship!
 
 [https://medium.com/commonsstack/trusted-seed-swiss-membership-scholarship-application-f2d07bc2fc90](https://medium.com/commonsstack/trusted-seed-swiss-membership-scholarship-application-f2d07bc2fc90)
 
@@ -1449,7 +1449,7 @@ _15-Jul-21 04:38 PM_:
 
 innov8tor3
 
-[I think this is what you have been looking for @Atotsm , the immediate link has mission vision and values - MVV - is preceded by behaviours and succeeded by projects in progress. In time, I expect the project roster will grow and become a project register, something I have sought for a good few years ...](about:blank#)
+I think this is what you have been looking for @Atotsm , the immediate link has mission vision and values - MVV - is preceded by behaviours and succeeded by projects in progress. In time, I expect the project roster will grow and become a project register, something I have sought for a good few years ...
 
 <h3>Atotsm <img src="https://cdn.discordapp.com/avatars/834548116514013206/a0bff6c95bfc23e093941416f9510639.png" width=25 height=25></h3>
 
@@ -1469,7 +1469,7 @@ _16-Jul-21 03:53 AM_:
 
 Suga
 
-[@Atotsm Mission, vision and values.](about:blank#) 
+@Atotsm Mission, vision and values. 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -1625,7 +1625,7 @@ The Token Engineering Commons (TEC) is building a world with safe digital socio-
 
 Vyvy-vi
 
-[I think it should be about 0.72 UKP per DAI (DAI's a stable coin thats at $1)](about:blank#)
+I think it should be about 0.72 UKP per DAI (DAI's a stable coin thats at $1)
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -1683,7 +1683,7 @@ _23-Jul-21 12:35 AM_:
 
 Kojak
 
-[@Alp Hello Alp. Interested in understanding what you did in the agritech start-up regarding a circular approach.](about:blank#)
+@Alp Hello Alp. Interested in understanding what you did in the agritech start-up regarding a circular approach.
 
 <h3>Alp <img src="https://cdn.discordapp.com/avatars/841089783324213278/becbeb030b2bbc7ed154054513d0be4e.png" width=25 height=25></h3>
 
@@ -1696,7 +1696,7 @@ Sure @Kojak , in short, we automated a short supply chain to buy fruits and vegg
 
 Alp
 
-[Hello everyone, another noob here. Wanted to do a quick introduction to get comfortable around as I am researching the available content provided by the community. My professional background is in business development and investment banking/consultancy, and also I founded 2 startups, exited one. (agritech with circular economic approach). Currently I am devoting my full time to learn about token economics and mechanism design. I am looking forward to be a help around here and contribute to whatever I can!](about:blank#)
+Hello everyone, another noob here. Wanted to do a quick introduction to get comfortable around as I am researching the available content provided by the community. My professional background is in business development and investment banking/consultancy, and also I founded 2 startups, exited one. (agritech with circular economic approach). Currently I am devoting my full time to learn about token economics and mechanism design. I am looking forward to be a help around here and contribute to whatever I can!
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -1710,7 +1710,7 @@ With business development I think you'll be made welcome quite quickly. To note,
 
 Alp
 
-[Sure @Kojak , in short, we automated a short supply chain to buy fruits and veggies that regional farmers couldn't sell last minute, turned them into freeze-dried snack, powder and paste, then provided to processors/b2b channels/retail. In the meantime we would donate the inedible parts to upcycling or waste management companies. For example, we would produce olive snacks, and the olive stone we would donate to a company which was producing bio-filament from olive stones, then they would provide us with packages made from the exact bio-filament which was 70% (unfortunately) biodegradable.  (edited)](about:blank#)
+Sure @Kojak , in short, we automated a short supply chain to buy fruits and veggies that regional farmers couldn't sell last minute, turned them into freeze-dried snack, powder and paste, then provided to processors/b2b channels/retail. In the meantime we would donate the inedible parts to upcycling or waste management companies. For example, we would produce olive snacks, and the olive stone we would donate to a company which was producing bio-filament from olive stones, then they would provide us with packages made from the exact bio-filament which was 70% (unfortunately) biodegradable.  (edited)
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -1722,7 +1722,7 @@ I have a contact in Palestine wants to start with an olive products business, so
 
 innov8tor3
 
-[I have a contact in Palestine wants to start with an olive products business, so keen to discuss further if your model can be ported into a token environment. I have seen DAOs where this is happening, just taking a while to find my feet and navigate ...](about:blank#)
+I have a contact in Palestine wants to start with an olive products business, so keen to discuss further if your model can be ported into a token environment. I have seen DAOs where this is happening, just taking a while to find my feet and navigate ...
 
 <h3>Alp <img src="https://cdn.discordapp.com/avatars/841089783324213278/becbeb030b2bbc7ed154054513d0be4e.png" width=25 height=25></h3>
 
@@ -1734,7 +1734,7 @@ I haven't thought about it to be honest. When we were doing our operations, it w
 
 Alp
 
-[I haven't thought about it to be honest. When we were doing our operations, it was hard enough to attract farmers to even use a supply chain management systems most of the time. I guess our model should be first tried to be applied to Food Banks that are partnered with food logistic companies.](about:blank#)
+I haven't thought about it to be honest. When we were doing our operations, it was hard enough to attract farmers to even use a supply chain management systems most of the time. I guess our model should be first tried to be applied to Food Banks that are partnered with food logistic companies.
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -1774,7 +1774,7 @@ And looking to find a way to merge them.
 
 Kojak
 
-[We should look at Tokenomics and community tokens as enablers of both functionality and finance as a feature. Bring in mobile based apps, with tried and tested Arab based UIs and it becomes eminently more feasible. Am developing the concept of Local Level ( technology enabled) Circular Economies which are largely self incentivised. In the sense they do not need large dollops of external funding to be viable and grow.  (edited)](about:blank#)
+We should look at Tokenomics and community tokens as enablers of both functionality and finance as a feature. Bring in mobile based apps, with tried and tested Arab based UIs and it becomes eminently more feasible. Am developing the concept of Local Level ( technology enabled) Circular Economies which are largely self incentivised. In the sense they do not need large dollops of external funding to be viable and grow.  (edited)
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -1786,7 +1786,7 @@ I'm working with circular economy folks myself, so keen to talkke more.
 
 Kojak
 
-[Can you send you the paper if anyone is interested. We mention the air dropping of tokens there.](about:blank#)
+Can you send you the paper if anyone is interested. We mention the air dropping of tokens there.
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -1798,7 +1798,7 @@ Yes please!
 
 Kojak
 
-[@innov8tor3 Am new to Discord and finding my way about. Just discovered, I have two identities here #Kojak and #JoseK.](about:blank#)
+@innov8tor3 Am new to Discord and finding my way about. Just discovered, I have two identities here #Kojak and #JoseK.
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -1810,7 +1810,7 @@ I think we can have a unique identity on each Discord Server. Trying to decide o
 
 Kojak
 
-[And looking to find a way to merge them.](about:blank#)
+And looking to find a way to merge them.
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -2127,7 +2127,7 @@ Marcel | Toucan 28-Jul-21 12:52 PM
 
 Kojak
 
-[#innov8tor3 Supposing we want to understand each other a bit more and would like to take the Circular Economy concept under the Token Engineering umbrella, how do we do it?](about:blank#)
+#innov8tor3 Supposing we want to understand each other a bit more and would like to take the Circular Economy concept under the Token Engineering umbrella, how do we do it?
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -2151,7 +2151,7 @@ I think this is very often a good place to start, @Kojak ...
 
 Suga
 
-[Stewards Wishlist!](about:blank#)
+Stewards Wishlist!
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -2166,7 +2166,7 @@ Also, @Kojak , the above from @Suga is a very comprehensive list of documentatio
 
 innov8tor3
 
-[Suppose this were published in social media, @Suga , would that be okay and helpful for stewards?](about:blank#)
+Suppose this were published in social media, @Suga , would that be okay and helpful for stewards?
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -2278,7 +2278,7 @@ Hi. I'm wondering if there is a process for checking on the status of one's appl
 
 Gideonro
 
-[Hi. I'm wondering if there is a process for checking on the status of one's application to the Trusted Seed. I don't seem to see any mention of decision timelines or how decisions are communicated. Does anyone have advice or a pointer to some documentation? Thanks!](about:blank#)
+Hi. I'm wondering if there is a process for checking on the status of one's application to the Trusted Seed. I don't seem to see any mention of decision timelines or how decisions are communicated. Does anyone have advice or a pointer to some documentation? Thanks!
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -2376,7 +2376,7 @@ Democratize your open-source software project. A better way for projects to coll
 
 Suga
 
-[TEC Tools TEC Discord:](about:blank#)
+TEC Tools TEC Discord:
 
 [https://discord.com/channels/810180621930070088/814861743053471784](https://discord.com/channels/810180621930070088/814861743053471784)
 
@@ -2414,7 +2414,7 @@ Hey @Suga ! Thanks for these great posts! Is it possible to pin a string or chai
 
 innov8tor3
 
-[Hey @Suga ! Thanks for these great posts! Is it possible to pin a string or chain of them in this channel, say one post replying to another, replying to another etc to create the chain, and then pinning the last one of the chain in the channel, so we always have that reference? Or, maybe if you prefer, there could be a key resources channel, so folk always know where to look. This would save you from needing to post regularly, and you would then only need to reply to folks making enquiries ... Just a thought ...  (edited)](about:blank#)
+Hey @Suga ! Thanks for these great posts! Is it possible to pin a string or chain of them in this channel, say one post replying to another, replying to another etc to create the chain, and then pinning the last one of the chain in the channel, so we always have that reference? Or, maybe if you prefer, there could be a key resources channel, so folk always know where to look. This would save you from needing to post regularly, and you would then only need to reply to folks making enquiries ... Just a thought ...  (edited)
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -2426,7 +2426,7 @@ Hey @innov8tor3 I was wondering if the fact that many of these are already in th
 
 anna-marie
 
-[Hey @innov8tor3 I was wondering if the fact that many of these are already in the pinned message on this channel would cover what you're thinking of (as a starting point) We have many of our resources and links saved there and these are available for anyone at any time. Then, @Suga, maybe we could add making a more permanent solution to this, like creating a section in the handbook with all these links and resources, so they're in one place and we can point all new members to that...  (edited)](about:blank#)
+Hey @innov8tor3 I was wondering if the fact that many of these are already in the pinned message on this channel would cover what you're thinking of (as a starting point) We have many of our resources and links saved there and these are available for anyone at any time. Then, @Suga, maybe we could add making a more permanent solution to this, like creating a section in the handbook with all these links and resources, so they're in one place and we can point all new members to that...  (edited)
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -2438,7 +2438,7 @@ My bad! Where do I find the pinned message then please? Or how? Ah. Okay. Discor
 
 innov8tor3
 
-[My bad! Where do I find the pinned message then please? Or how? Ah. Okay. Discord not Telegram. Right swipe on my Android phone? So it is possible to just advise folk that pinned onboarding messages are there, and whether they are updated?  (edited)](about:blank#)
+My bad! Where do I find the pinned message then please? Or how? Ah. Okay. Discord not Telegram. Right swipe on my Android phone? So it is possible to just advise folk that pinned onboarding messages are there, and whether they are updated?  (edited)
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -2474,7 +2474,7 @@ Looks like this on Android, with a right swipe to find the pin icon ... My bad, 
 
 innov8tor3
 
-[Looks like this on Android, with a right swipe to find the pin icon ... My bad, @anna-marie , I'm still finding my way round ... Thanks for your concern and consideration!  (edited)](about:blank#)
+Looks like this on Android, with a right swipe to find the pin icon ... My bad, @anna-marie , I'm still finding my way round ... Thanks for your concern and consideration!  (edited)
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -2489,7 +2489,7 @@ Please do keep asking your questions. It's great to have you here and we underst
 
 anna-marie
 
-[Aha! Interesting. Now I'll know where to go when on mobile  Please do keep asking your questions. It's great to have you here and we understand there's a lot to learn when joining us. Please be reassured that we do understand the steep learning curve here and are hard at work to find ways to make it easier for our new members.](about:blank#)
+Aha! Interesting. Now I'll know where to go when on mobile  Please do keep asking your questions. It's great to have you here and we understand there's a lot to learn when joining us. Please be reassured that we do understand the steep learning curve here and are hard at work to find ways to make it easier for our new members.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -2618,7 +2618,7 @@ The call will be in the #community-hall channel here on Discord.
 
 anna-marie
 
-[@New Member We have our onboarding AMA in one hour! We'd love to have you join us  The call will be in the #community-hall channel here on Discord.](about:blank#)
+@New Member We have our onboarding AMA in one hour! We'd love to have you join us  The call will be in the #community-hall channel here on Discord.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
 
@@ -2632,7 +2632,7 @@ Hi Ana Marie, Missed the onboarding AMA, will try to catch the next one. Thanks 
 
 GCF
 
-[Hi Ana Marie, Missed the onboarding AMA, will try to catch the next one. Thanks Sean](about:blank#)
+Hi Ana Marie, Missed the onboarding AMA, will try to catch the next one. Thanks Sean
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -2657,7 +2657,7 @@ Hi @New Member! Please join us today in the community hall at 6pm CET for an ori
 
 Suga
 
-[Hi @New Member! Please join us today in the community hall at 6pm CET for an orientation/AMA!](about:blank#)
+Hi @New Member! Please join us today in the community hall at 6pm CET for an orientation/AMA!
 
 <h3>SteveWright <img src="https://cdn.discordapp.com/avatars/689889685492990112/8be4e33ef93acea49f6ceb705b6ef4da.png" width=25 height=25></h3>
 
@@ -2692,7 +2692,7 @@ Hello everyone!
 
 imranistan
 
-[Hello everyone!](about:blank#)
+Hello everyone!
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -2825,7 +2825,7 @@ Project Management and Software Development with GitHub | ZenHub
 
 Suga
 
-[Oh no! We don’t.  Alternatively, @SteveWright we could have a different session that suits your schedule for sure!](about:blank#)
+Oh no! We don’t.  Alternatively, @SteveWright we could have a different session that suits your schedule for sure!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f626.png](https://twemoji.maxcdn.com/2/72x72/1f626.png)
 
@@ -2855,7 +2855,7 @@ _28-Aug-21 02:49 PM_:
 
 Suga
 
-[Hi @GCF and thanks for the message and question! We definitely have ways for you to jump in without tech background. Here for example is a "wishlist" (that I plan to update next week), where each working group is requested to submit somewhere they need help. You can contact the steward for any of the working groups to get involved (and even if the role is not what you have in mind --just reaching out to the working group is a great idea! There is room for you and your skills, I promise!). Also, we have a "for contributors" set of issues in Zenhub that can be grabbed by anyone. If something is unclear, just reach out to anyone marked in the issue. And if you are unfamiliar with Zenhub, we can also go through a tutorial!](about:blank#)
+Hi @GCF and thanks for the message and question! We definitely have ways for you to jump in without tech background. Here for example is a "wishlist" (that I plan to update next week), where each working group is requested to submit somewhere they need help. You can contact the steward for any of the working groups to get involved (and even if the role is not what you have in mind --just reaching out to the working group is a great idea! There is room for you and your skills, I promise!). Also, we have a "for contributors" set of issues in Zenhub that can be grabbed by anyone. If something is unclear, just reach out to anyone marked in the issue. And if you are unfamiliar with Zenhub, we can also go through a tutorial!
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -2868,7 +2868,7 @@ I'm just wondering about a navigation map in eg Miro? Some great knowledge asset
 
 Suga
 
-[Hi @GCF and thanks for the message and question! We definitely have ways for you to jump in without tech background. Here for example is a "wishlist" (that I plan to update next week), where each working group is requested to submit somewhere they need help. You can contact the steward for any of the working groups to get involved (and even if the role is not what you have in mind --just reaching out to the working group is a great idea! There is room for you and your skills, I promise!). Also, we have a "for contributors" set of issues in Zenhub that can be grabbed by anyone. If something is unclear, just reach out to anyone marked in the issue. And if you are unfamiliar with Zenhub, we can also go through a tutorial!](about:blank#)
+Hi @GCF and thanks for the message and question! We definitely have ways for you to jump in without tech background. Here for example is a "wishlist" (that I plan to update next week), where each working group is requested to submit somewhere they need help. You can contact the steward for any of the working groups to get involved (and even if the role is not what you have in mind --just reaching out to the working group is a great idea! There is room for you and your skills, I promise!). Also, we have a "for contributors" set of issues in Zenhub that can be grabbed by anyone. If something is unclear, just reach out to anyone marked in the issue. And if you are unfamiliar with Zenhub, we can also go through a tutorial!
 
 <h3>GCF <img src="https://cdn.discordapp.com/avatars/409774043168768008/5a4e75daf65c7e7ae99040bc1daba496.png" width=25 height=25></h3>
 
@@ -2884,7 +2884,7 @@ Hi @Suga Thanks for all of the information above. I will follow up on all of thi
 
 natesuits
 
-[@SteveWright I would love to meet up with you on one of those times! Please DM me which time/day you prefer and we will make it happen!](about:blank#)
+@SteveWright I would love to meet up with you on one of those times! Please DM me which time/day you prefer and we will make it happen!
 
 <h3>SteveWright <img src="https://cdn.discordapp.com/avatars/689889685492990112/8be4e33ef93acea49f6ceb705b6ef4da.png" width=25 height=25></h3>
 
@@ -2897,7 +2897,7 @@ Sorry for late reply. School is tough this year so tough to find time for a side
 
 innov8tor3
 
-[I'm just wondering about a navigation map in eg Miro? Some great knowledge assets in TEC, and maybe a large Miro map could help folk navigate to find out what's here?](about:blank#)
+I'm just wondering about a navigation map in eg Miro? Some great knowledge assets in TEC, and maybe a large Miro map could help folk navigate to find out what's here?
 
 <h3>SteveWright <img src="https://cdn.discordapp.com/avatars/689889685492990112/8be4e33ef93acea49f6ceb705b6ef4da.png" width=25 height=25></h3>
 
@@ -2965,7 +2965,7 @@ Building safe digital economies that protect and support public goods
 
 SteveWright
 
-[One of the things we need to get right is knowledge management because KM is, IMHO, one of the major blockers to a more participatory economy/society. The best KM community I have seen is KM4Dev which is International Development professionals. This group is quite good as well.](about:blank#)
+One of the things we need to get right is knowledge management because KM is, IMHO, one of the major blockers to a more participatory economy/society. The best KM community I have seen is KM4Dev which is International Development professionals. This group is quite good as well.
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -2977,7 +2977,7 @@ I'm seeing a few good things, which likely will continue to get better. A great 
 
 Suga
 
-[TEC Gitbook (Cultural Build section):](about:blank#)
+TEC Gitbook (Cultural Build section):
 
 [https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/the-cultural-build](https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/the-cultural-build)
 
@@ -2992,7 +2992,7 @@ Very well written
 
 Alp
 
-[Hello everyone, another noob here. Wanted to do a quick introduction to get comfortable around as I am researching the available content provided by the community. My professional background is in business development and investment banking/consultancy, and also I founded 2 startups, exited one. (agritech with circular economic approach). Currently I am devoting my full time to learn about token economics and mechanism design. I am looking forward to be a help around here and contribute to whatever I can!](about:blank#)
+Hello everyone, another noob here. Wanted to do a quick introduction to get comfortable around as I am researching the available content provided by the community. My professional background is in business development and investment banking/consultancy, and also I founded 2 startups, exited one. (agritech with circular economic approach). Currently I am devoting my full time to learn about token economics and mechanism design. I am looking forward to be a help around here and contribute to whatever I can!
 
 <h3>theoverarch <img src="https://cdn.discordapp.com/avatars/152507629397213185/9e7432ee215ef74c36491e6461a4fef2.png" width=25 height=25></h3>
 
@@ -3006,7 +3006,7 @@ Looking for others who're in the mechanism design as well,
 
 natesuits
 
-[@SteveWright I would love to meet up with you on one of those times! Please DM me which time/day you prefer and we will make it happen!](about:blank#)
+@SteveWright I would love to meet up with you on one of those times! Please DM me which time/day you prefer and we will make it happen!
 
 <h3>SteveWright <img src="https://cdn.discordapp.com/avatars/689889685492990112/8be4e33ef93acea49f6ceb705b6ef4da.png" width=25 height=25></h3>
 
@@ -3030,7 +3030,7 @@ Hi @Orientation Coordinators! Since the TEC AMA call has been changed to "Welcom
 
 iviangita
 
-[Hi @Orientation Coordinators! Since the TEC AMA call has been changed to "Welcome to Orientation" in our calendar, perhaps we should also change it in our Twitter announcement? Instead of TEC AMA, we can say something like "Orientation Call" or "TEC Orientation". Appreciate your feedback!](about:blank#)  
+Hi @Orientation Coordinators! Since the TEC AMA call has been changed to "Welcome to Orientation" in our calendar, perhaps we should also change it in our Twitter announcement? Instead of TEC AMA, we can say something like "Orientation Call" or "TEC Orientation". Appreciate your feedback!  
 
 ![https://twemoji.maxcdn.com/2/72x72/1f60a.png](https://twemoji.maxcdn.com/2/72x72/1f60a.png)
 
@@ -3049,7 +3049,7 @@ I think it's a great idea! thanks for looking into that Ivi!!
 
 iviangita
 
-[Hi @Orientation Coordinators! Since the TEC AMA call has been changed to "Welcome to Orientation" in our calendar, perhaps we should also change it in our Twitter announcement? Instead of TEC AMA, we can say something like "Orientation Call" or "TEC Orientation". Appreciate your feedback!](about:blank#)  
+Hi @Orientation Coordinators! Since the TEC AMA call has been changed to "Welcome to Orientation" in our calendar, perhaps we should also change it in our Twitter announcement? Instead of TEC AMA, we can say something like "Orientation Call" or "TEC Orientation". Appreciate your feedback!  
 
 ![https://twemoji.maxcdn.com/2/72x72/1f60a.png](https://twemoji.maxcdn.com/2/72x72/1f60a.png)
 
@@ -3129,7 +3129,7 @@ Hi! I signed up for the Graviton training starting tomorrow, but I'm a bit lost 
 
 Leen
 
-[Hi! I signed up for the Graviton training starting tomorrow, but I'm a bit lost in where exactly this is gonna take place. Can anybody lead me to the right place? ️](about:blank#)
+Hi! I signed up for the Graviton training starting tomorrow, but I'm a bit lost in where exactly this is gonna take place. Can anybody lead me to the right place? ️
 
 ![https://twemoji.maxcdn.com/2/72x72/2600.png](https://twemoji.maxcdn.com/2/72x72/2600.png)
 
@@ -3160,7 +3160,7 @@ Where can we attend the orientation?
 
 diganta.eth
 
-[Where can we attend the orientation?](about:blank#)
+Where can we attend the orientation?
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -3175,7 +3175,7 @@ on Wed at 6pm CET in the community hall channel
 
 nic
 
-[on Wed at 6pm CET in the community hall channel](about:blank#)
+on Wed at 6pm CET in the community hall channel
 
 [https://discord.gg/xfFVyRrr](https://discord.gg/xfFVyRrr)
 
@@ -3192,7 +3192,7 @@ Thank you
 
 iviangita
 
-[Hi @Orientation Coordinators! Since the TEC AMA call has been changed to "Welcome to Orientation" in our calendar, perhaps we should also change it in our Twitter announcement? Instead of TEC AMA, we can say something like "Orientation Call" or "TEC Orientation". Appreciate your feedback!](about:blank#)  
+Hi @Orientation Coordinators! Since the TEC AMA call has been changed to "Welcome to Orientation" in our calendar, perhaps we should also change it in our Twitter announcement? Instead of TEC AMA, we can say something like "Orientation Call" or "TEC Orientation". Appreciate your feedback!  
 
 ![https://twemoji.maxcdn.com/2/72x72/1f60a.png](https://twemoji.maxcdn.com/2/72x72/1f60a.png)
 
@@ -3213,7 +3213,7 @@ I guess AMA helps folk in the know to attend, and Orientation helps noobs. How a
 
 Suga
 
-[Meanwhile, @New Member, I wanted to share the new TEC Source, which is a resource of all the active and archived documents of the TEC! Everything from manifestos and agendas to working group calendars and recorded meetings. Check it out:](about:blank#)
+Meanwhile, @New Member, I wanted to share the new TEC Source, which is a resource of all the active and archived documents of the TEC! Everything from manifestos and agendas to working group calendars and recorded meetings. Check it out:
 
 [https://app.gitbook.com/@token-engineering-commons/s/tec-source/](https://app.gitbook.com/@token-engineering-commons/s/tec-source/)
 
@@ -3257,7 +3257,7 @@ hey @変 tù.úk'z welcome! are you brazilian? :))
 
 liviade
 
-[hey @変 tù.úk'z welcome! are you brazilian? :))](about:blank#)
+hey @変 tù.úk'z welcome! are you brazilian? :))
 
 <h3>BiancaGadelha <img src="https://cdn.discordapp.com/avatars/869940637594714183/3a19e8e74e29c54ca67342ce050bce03.png" width=25 height=25></h3>
 
@@ -3275,7 +3275,7 @@ _23-Sep-21 01:44 AM_:
 
 liviade
 
-[hey @変 tù.úk'z welcome! are you brazilian? :))](about:blank#)
+hey @変 tù.úk'z welcome! are you brazilian? :))
 
 <h3>Gami <img src="https://cdn.discordapp.com/avatars/725532461936935002/c66719eaed65e1ac9b6ffb0661139942.png" width=25 height=25></h3>
 
@@ -3290,7 +3290,7 @@ I confirm this info :D @変 tù.úk'z
 
 BiancaGadelha
 
-[Hello @lividade how are you doing? I'm brazilian haha](about:blank#)
+Hello @lividade how are you doing? I'm brazilian haha
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3303,7 +3303,7 @@ Ah! I am too ❤️ happy to see more Brazil around here, feel free to ask me an
 
 liviade
 
-[Ah! I am too ❤️ happy to see more Brazil around here, feel free to ask me any questions and I hope you have a great time in the TEC](about:blank#)
+Ah! I am too ❤️ happy to see more Brazil around here, feel free to ask me any questions and I hope you have a great time in the TEC
 
 <h3>BiancaGadelha <img src="https://cdn.discordapp.com/avatars/869940637594714183/3a19e8e74e29c54ca67342ce050bce03.png" width=25 height=25></h3>
 
@@ -3321,7 +3321,7 @@ Hey TEC people, is this the right place forme to pop-up a thousand questions? Tr
 
 Zeugh
 
-[Hey TEC people, is this the right place forme to pop-up a thousand questions? Trying to understand better what is the main goal here, what is being built and with what tools, but can't really find the info I'm looking for. A general direction pointing towards FAQ and documentation would probably solve a big part of my doubts before having the need for someone to baby sit my onboarding lol](about:blank#)
+Hey TEC people, is this the right place forme to pop-up a thousand questions? Trying to understand better what is the main goal here, what is being built and with what tools, but can't really find the info I'm looking for. A general direction pointing towards FAQ and documentation would probably solve a big part of my doubts before having the need for someone to baby sit my onboarding lol
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -3390,7 +3390,7 @@ TEC Source is here to provide easy access to active and archived documents withi
 
 nic
 
-[These might answer some of your questions:  How to Join the TEC](about:blank#)
+These might answer some of your questions:  How to Join the TEC
 
 ![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
 
@@ -3430,7 +3430,7 @@ will be taking a good look trough
 
 Suga
 
-[Speaking of great TEC diagrams, @innov8tor3 , today’s a great day to share again the “visual explainer” of the Hatch and Commons upgrade with @New Member s! Found on the front page of the TEC handbook:](about:blank#)
+Speaking of great TEC diagrams, @innov8tor3 , today’s a great day to share again the “visual explainer” of the Hatch and Commons upgrade with @New Member s! Found on the front page of the TEC handbook:
 
 [https://token-engineering-commons.gitbook.io/tec-handbook/](https://token-engineering-commons.gitbook.io/tec-handbook/)
 
@@ -3469,7 +3469,7 @@ yep brazilian too... I'm catching up to Discord right now! Reading all the infos
 
 変 tù.úk'z
 
-[hey @liviade @Gami !!! hey y'all!     yep brazilian too... I'm catching up to Discord right now! Reading all the infos! Wish you a great week!](about:blank#)
+hey @liviade @Gami !!! hey y'all!     yep brazilian too... I'm catching up to Discord right now! Reading all the infos! Wish you a great week!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f308.png](https://twemoji.maxcdn.com/2/72x72/1f308.png)
 
@@ -3530,7 +3530,7 @@ Hello all... I too have just joined. after meeting Griff at the Wyoming event...
 
 Danada
 
-[Hello all... I too have just joined. after meeting Griff at the Wyoming event..... Alot going on here and I hope to engage.](about:blank#)
+Hello all... I too have just joined. after meeting Griff at the Wyoming event..... Alot going on here and I hope to engage.
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -3562,7 +3562,7 @@ hey @Danada that is the 0mega WG. Please feel free to post in the #🎑｜omega 
 
 Pradhumna Pancholi
 
-[Hey everyone  , Just joined this channel as I am exploring more on tokenomics and it's social impacts. To provide some back, I am software developer who is currently going through Secureum Bootcamp (Smart contract security and auditing). I am working on Defipedia and BanklessDAO.](about:blank#)
+Hey everyone  , Just joined this channel as I am exploring more on tokenomics and it's social impacts. To provide some back, I am software developer who is currently going through Secureum Bootcamp (Smart contract security and auditing). I am working on Defipedia and BanklessDAO.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -3576,7 +3576,7 @@ Welcome Pradhumna! We have some WG that may be of your interests, here is our ca
 
 Pradhumna Pancholi
 
-[Hey everyone  , Just joined this channel as I am exploring more on tokenomics and it's social impacts. To provide some back, I am software developer who is currently going through Secureum Bootcamp (Smart contract security and auditing). I am working on Defipedia and BanklessDAO.](about:blank#)
+Hey everyone  , Just joined this channel as I am exploring more on tokenomics and it's social impacts. To provide some back, I am software developer who is currently going through Secureum Bootcamp (Smart contract security and auditing). I am working on Defipedia and BanklessDAO.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -3623,7 +3623,7 @@ thanks @Edu - TEC Steward. , I will dig into it later tonight
 
 Pradhumna Pancholi
 
-[thanks @Edu - TEC Steward. , I will dig into it later tonight](about:blank#)
+thanks @Edu - TEC Steward. , I will dig into it later tonight
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -3657,7 +3657,7 @@ Hi there! I’m in the process of setting up a new token ecosystem. Since I’m 
 
 Edu - TEC Steward.
 
-[Welcome @p1gp3n to our Server! It's amazing that you hear about us from the Forefront Forecast, would you mind sharing the link?](about:blank#) 
+Welcome @p1gp3n to our Server! It's amazing that you hear about us from the Forefront Forecast, would you mind sharing the link? 
 
 ![https://twemoji.maxcdn.com/2/72x72/1fac2.png](https://twemoji.maxcdn.com/2/72x72/1fac2.png)
 
@@ -3677,7 +3677,7 @@ Forefront is an insight aggregator across the social token landscape.
 
 p1gp3n
 
-[ForeFront is here, though this isn't a direct link to their podcast. I believe they have only released 2 podcasts to date.](about:blank#)
+ForeFront is here, though this isn't a direct link to their podcast. I believe they have only released 2 podcasts to date.
 
 [https://forefront.market/](https://forefront.market/)
 
@@ -3691,7 +3691,7 @@ Thank you so much for sharing, we didn't have this on our radar!
 
 Jürgen
 
-[Hi there! I’m in the process of setting up a new token ecosystem. Since I’m new to the crypto world, I need help with the tokenomics set up. Is anyone in this group capable and willing to help me?](about:blank#)
+Hi there! I’m in the process of setting up a new token ecosystem. Since I’m new to the crypto world, I need help with the tokenomics set up. Is anyone in this group capable and willing to help me?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -3703,7 +3703,7 @@ Hello Jürgen! Welcome to the TEC! Would you like to provide more insight on you
 
 Edu - TEC Steward.
 
-[Thank you so much for sharing, we didn't have this on our radar!](about:blank#)
+Thank you so much for sharing, we didn't have this on our radar!
 
 <h3>p1gp3n <img src="https://cdn.discordapp.com/avatars/587970330778140688/8a076d8bdd60d417f76d8ce98989decf.png" width=25 height=25></h3>
 
@@ -3715,7 +3715,7 @@ absolutely! I'm very interested in TEC as I'm working with a few other groups to
 
 p1gp3n
 
-[absolutely! I'm very interested in TEC as I'm working with a few other groups to help shape their DAO approach. can you maybe recommend a place to start engaging with the TEC community?](about:blank#)
+absolutely! I'm very interested in TEC as I'm working with a few other groups to help shape their DAO approach. can you maybe recommend a place to start engaging with the TEC community?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -3727,7 +3727,7 @@ Yes! We have orientation call, Wednesday 6PM CET, it's a good place to start, we
 
 p1gp3n
 
-[absolutely! I'm very interested in TEC as I'm working with a few other groups to help shape their DAO approach. can you maybe recommend a place to start engaging with the TEC community?](about:blank#)
+absolutely! I'm very interested in TEC as I'm working with a few other groups to help shape their DAO approach. can you maybe recommend a place to start engaging with the TEC community?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -3747,7 +3747,7 @@ I'm currently working on a concept I call Blissful Living. The whole concept sho
 
 Jürgen
 
-[I'm currently working on a concept I call Blissful Living. The whole concept should help to solve 3 critical issues we see in the world now; - How we as humankind look at health and healthcare - How we as humankind can live more sustainably - Having the ability (especially for younger generations) to create financial peace of mind Basically I would like to change the way we as mankind live; more energetic and more sustainable. Since there's a real demand for housing in the Netherlands and in the UK (in the end I would also like to branch out to Germany and North America), I figured why not start there? Essentially the real estate will provide rental income. Additionally, some units will be tokenized and sold as investment vehicles for investors To help bring the change to a healthier lifestyle, I would like to create an online platform where; - Users, health coaches and advertisers can create their own profile Users and health coaches get rewarded with the Blissful Living cryptocurrency for portraying "healthy" behaviour (e.g. a health coach can get tokens rewarded for giving a yoga class, a user gets rewarded for following the class) I would like there to be one crypto currency within this ecosystem. The online platform will be available once people start living and working in the developed communities. Regarding the tokenomics I have the following in mind; - the platform users should be rewarded for certain activities on the platform - I would like the tokens to be tradeable on a well known exchange - I have a token distribution in mind where a set percentage of the minted tokens will go to the team, community, charity and others. - I would like to implement a deflationary token ecosystem by burning tokens with company profits I was told I should model and test the token ecosystem to be able know how many tokens I should mint for instance. Since I’m fairly new to the crypto world, I need help with the tokenomics set up… Is this enough information?](about:blank#)
+I'm currently working on a concept I call Blissful Living. The whole concept should help to solve 3 critical issues we see in the world now; - How we as humankind look at health and healthcare - How we as humankind can live more sustainably - Having the ability (especially for younger generations) to create financial peace of mind Basically I would like to change the way we as mankind live; more energetic and more sustainable. Since there's a real demand for housing in the Netherlands and in the UK (in the end I would also like to branch out to Germany and North America), I figured why not start there? Essentially the real estate will provide rental income. Additionally, some units will be tokenized and sold as investment vehicles for investors To help bring the change to a healthier lifestyle, I would like to create an online platform where; - Users, health coaches and advertisers can create their own profile Users and health coaches get rewarded with the Blissful Living cryptocurrency for portraying "healthy" behaviour (e.g. a health coach can get tokens rewarded for giving a yoga class, a user gets rewarded for following the class) I would like there to be one crypto currency within this ecosystem. The online platform will be available once people start living and working in the developed communities. Regarding the tokenomics I have the following in mind; - the platform users should be rewarded for certain activities on the platform - I would like the tokens to be tradeable on a well known exchange - I have a token distribution in mind where a set percentage of the minted tokens will go to the team, community, charity and others. - I would like to implement a deflationary token ecosystem by burning tokens with company profits I was told I should model and test the token ecosystem to be able know how many tokens I should mint for instance. Since I’m fairly new to the crypto world, I need help with the tokenomics set up… Is this enough information?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -3768,7 +3768,7 @@ Thank you brother
 
 Jürgen
 
-[Thank you brother ️. How do I find these groups?](about:blank#)
+Thank you brother ️. How do I find these groups?
 
 ![https://twemoji.maxcdn.com/2/72x72/263a.png](https://twemoji.maxcdn.com/2/72x72/263a.png)
 
@@ -3813,7 +3813,7 @@ let me know so we can guide you there! (edited)
 
 Edu - TEC Steward.
 
-[@Alexandre_ Hello there! Welcome to the TEC! Did you had time to take a look at the Gravity Course timing?  let me know so we can guide you there!  (edited)](about:blank#)
+@Alexandre_ Hello there! Welcome to the TEC! Did you had time to take a look at the Gravity Course timing?  let me know so we can guide you there!  (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -3833,7 +3833,7 @@ _14-Oct-21 12:27 PM_:
 
 Alexandre_
 
-[Thank you! Yes, I already marked my calendar!](about:blank#)
+Thank you! Yes, I already marked my calendar!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -3846,7 +3846,7 @@ Nice! I hope you enjoy the Gravity Sessions and the server!
 
 Edu - TEC Steward.
 
-[Welcome @Metaversive! So nice to see you here! We are welcoming everyone who joins the server, and specially if you came from the DAOhaus course! Let me know if you have any question! We have orientation calls Wednesdays 6PM CET in case you are interested! You can DM also if you feel lost](about:blank#) 
+Welcome @Metaversive! So nice to see you here! We are welcoming everyone who joins the server, and specially if you came from the DAOhaus course! Let me know if you have any question! We have orientation calls Wednesdays 6PM CET in case you are interested! You can DM also if you feel lost 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -3904,7 +3904,7 @@ My pleasure! I saw that you are building a project in web3, whenever you feel li
 
 Edu - TEC Steward.
 
-[Welcome @will, @SydneyJason, @ExtraHummus, @ore_eth, @bfa, @Ricardo246, @earth2travis, @CeaBasstard, @Emma_13 to our server! Looking forward to see y'all on our community! We have an Orientation call tomorrow Wednesday at 6PM CET - 9AM PST, you can pass by and say hi, introduce yourself or ask any question you may have! You can take a look also to our calendar to find things you wanna dive in:](about:blank#)
+Welcome @will, @SydneyJason, @ExtraHummus, @ore_eth, @bfa, @Ricardo246, @earth2travis, @CeaBasstard, @Emma_13 to our server! Looking forward to see y'all on our community! We have an Orientation call tomorrow Wednesday at 6PM CET - 9AM PST, you can pass by and say hi, introduce yourself or ask any question you may have! You can take a look also to our calendar to find things you wanna dive in:
 
 [https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin)
 
@@ -3923,7 +3923,7 @@ Queen Elizabeth
 
 Edu - TEC Steward.
 
-[My pleasure! I saw that you are building a project in web3, whenever you feel like, you are invited to share links to your projects!](about:blank#) 
+My pleasure! I saw that you are building a project in web3, whenever you feel like, you are invited to share links to your projects! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -3956,7 +3956,7 @@ DIGIFIZZY is the first in-depth Metaverse Magazine bringing together top voices 
 
 Emma_13
 
-[oh thanks! yes it's DIGITALAX— a web3 fashion protocol ,founded last year .... actually we also have a monthly metaverse magazine DIGIFIZZY where we cover the entire web3 space from the inside and we have featured TEC in a few issues in our open source community section](about:blank#) 
+oh thanks! yes it's DIGITALAX— a web3 fashion protocol ,founded last year .... actually we also have a monthly metaverse magazine DIGIFIZZY where we cover the entire web3 space from the inside and we have featured TEC in a few issues in our open source community section 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f923.png](https://twemoji.maxcdn.com/2/72x72/1f923.png)
 
@@ -3970,7 +3970,7 @@ Oh wao, hahaha I just took a look at it and joined your server! Will keep explor
 
 Edu - TEC Steward.
 
-[Oh wao, hahaha I just took a look at it and joined your server! Will keep exploring it! How did you meet us? I didn't know about the Magazine! I am sure our guys of Comms would love to take a look at it @Mount Manu @chuygarcia.eth!](about:blank#)
+Oh wao, hahaha I just took a look at it and joined your server! Will keep exploring it! How did you meet us? I didn't know about the Magazine! I am sure our guys of Comms would love to take a look at it @Mount Manu @chuygarcia.eth!
 
 <h3>Emma_13 <img src="https://cdn.discordapp.com/avatars/819933518804942938/66d05e277b3250e3ccbab8d46fe1e276.png" width=25 height=25></h3>
 
@@ -4010,7 +4010,7 @@ Thanks - sorry that's 5am our time
 
 jeromehartigan
 
-[Thanks - sorry that's 5am our time](about:blank#) 
+Thanks - sorry that's 5am our time 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -4035,7 +4035,7 @@ Project Management and Software Development with GitHub | ZenHub
 
 Edu - TEC Steward.
 
-[Oh, bad timing! Maybe the Community Call at 8PM CET is better! It gives you a round idea of what's going on in the TEC, but you can also DM me if you have any question!](about:blank#) 
+Oh, bad timing! Maybe the Community Call at 8PM CET is better! It gives you a round idea of what's going on in the TEC, but you can also DM me if you have any question! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -4057,7 +4057,7 @@ Hello
 
 0x0
 
-[Hello](about:blank#) 
+Hello 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -4093,7 +4093,7 @@ _23-Oct-21 11:13 PM_:
 
 Jerome | freeos.io | freedao.io
 
-[hi everyone, glad to be here. @jeromehartigan glad to see you joined as well.](about:blank#)
+hi everyone, glad to be here. @jeromehartigan glad to see you joined as well.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -4109,7 +4109,7 @@ Mission, Vision and Values
 
 Edu - TEC Steward.
 
-[Hello there George! Welcome to the TEC! You joined from the TE discord right?](about:blank#) 
+Hello there George! Welcome to the TEC! You joined from the TE discord right? 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -4123,7 +4123,7 @@ Yep
 
 0x0
 
-[Yep](about:blank#)
+Yep
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -4152,7 +4152,7 @@ Welcome @taxil @shivam97 to our discord and our community!
 
 Edu - TEC Steward.
 
-[Welcome @taxil @shivam97 to our discord and our community!](about:blank#)
+Welcome @taxil @shivam97 to our discord and our community!
 
 ![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
 
@@ -4212,7 +4212,7 @@ oh, YT, nvm. I'm good, thanks yall
 
 Lutzar
 
-[am I in the wrong place?](about:blank#)
+am I in the wrong place?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -4260,7 +4260,7 @@ I’m new here. I represent clients/investors who are entering into the crypto s
 
 Diemofu
 
-[ I’m new here. I represent clients/investors who are entering into the crypto space for the first time, who are either trying to create a new product and/or ecosystem or tokenizing their assets and companies.](about:blank#)
+ I’m new here. I represent clients/investors who are entering into the crypto space for the first time, who are either trying to create a new product and/or ecosystem or tokenizing their assets and companies.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -4326,7 +4326,7 @@ _30-Oct-21 05:55 AM_:
 
 Diemofu
 
-[@satchel | PST all across the board. Mostly tech, finance, gems/jewels, real estate….](about:blank#)
+@satchel | PST all across the board. Mostly tech, finance, gems/jewels, real estate….
 
 <h3>satchel | PST <img src="https://cdn.discordapp.com/avatars/876908960563724288/a447a7b7ca6efdf93abd451512d95202.png" width=25 height=25></h3>
 
@@ -4338,7 +4338,7 @@ Do they have a specific geography? I would be interested in seeing how I could h
 
 gene
 
-[Hi @anson parker | utc -4 !  Awesome to see you at the Commons Config Dashboard session earlier today and to now share a jointly-named proposal!  It's great that you are jumping right into participating and we are so glad to have you as a member of the TEC community, please don't hesitate to ask if I can help you in any way  You have a brilliant skillset and I personally share your desire to advocate for those facing homelessness  Is there a particular working group or task that you feel drawn to more than another?](about:blank#)
+Hi @anson parker | utc -4 !  Awesome to see you at the Commons Config Dashboard session earlier today and to now share a jointly-named proposal!  It's great that you are jumping right into participating and we are so glad to have you as a member of the TEC community, please don't hesitate to ask if I can help you in any way  You have a brilliant skillset and I personally share your desire to advocate for those facing homelessness  Is there a particular working group or task that you feel drawn to more than another?
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -4372,7 +4372,7 @@ _30-Oct-21 04:52 PM_:
 
 anson parker | utc -4
 
-[Hi Gene - I got a lot of ideas listening to your approach.... when i want to get involved is probably where i'm least useful right now = programming...](about:blank#)
+Hi Gene - I got a lot of ideas listening to your approach.... when i want to get involved is probably where i'm least useful right now = programming...
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -4389,7 +4389,7 @@ Your opinion is valuable too. A diversity of ideas enriches the community imo (e
 
 anson parker | utc -4
 
-[Hi Gene - I got a lot of ideas listening to your approach.... when i want to get involved is probably where i'm least useful right now = programming...](about:blank#)
+Hi Gene - I got a lot of ideas listening to your approach.... when i want to get involved is probably where i'm least useful right now = programming...
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -4401,7 +4401,7 @@ Anson! That's amazing. I think we need a lot of documentation still to be done, 
 
 Edu - TEC Steward.
 
-[Anson! That's amazing. I think we need a lot of documentation still to be done, the Params team will need support, and of course @natesuits also with our Gitbook/Medium, to update it with the process that we are going through. We are actually looking for contributors to our Medium, so, even if it looks that you can't be useful, you actually would be extremely needed hahahaha](about:blank#)
+Anson! That's amazing. I think we need a lot of documentation still to be done, the Params team will need support, and of course @natesuits also with our Gitbook/Medium, to update it with the process that we are going through. We are actually looking for contributors to our Medium, so, even if it looks that you can't be useful, you actually would be extremely needed hahahaha
 
 <h3>anson parker | utc -4 <img src="https://cdn.discordapp.com/avatars/476474330352451584/d5ea4e12c1c2c446befb58cf5a48c3a3.png" width=25 height=25></h3>
 
@@ -4419,7 +4419,7 @@ An opportunity to use our diverse talents and perspectives to create better tech
 
 nic
 
-[Your opinion is valuable too. A diversity of ideas enriches the community imo  (edited)](about:blank#)
+Your opinion is valuable too. A diversity of ideas enriches the community imo  (edited)
 
 <h3>anson parker | utc -4 <img src="https://cdn.discordapp.com/avatars/476474330352451584/d5ea4e12c1c2c446befb58cf5a48c3a3.png" width=25 height=25></h3>
 
@@ -4434,7 +4434,7 @@ there are some neat projects going on globally, and it's cool working to connect
 
 anson parker | utc -4
 
-[thanks nic  there are some neat projects going on globally, and it's cool working to connect them locally](about:blank#)
+thanks nic  there are some neat projects going on globally, and it's cool working to connect them locally
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -4468,7 +4468,7 @@ Please feel free to ask myself, @Edu or any of the other stewards at any time! W
 
 gene
 
-[Hello @yekdtm @eth6666.near┃BeHype @billyjitsu We are absolutely delighted that you've found your way to the TEC discord server and are now a part of our community  I am curious what if any particular motivating factor that brought each of you here, and if there is anything I can do to help you find a working group that you might be interested in, or any further information you might be looking for  Please feel free to ask myself, @Edu or any of the other stewards at any time! Welcome!](about:blank#) 
+Hello @yekdtm @eth6666.near┃BeHype @billyjitsu We are absolutely delighted that you've found your way to the TEC discord server and are now a part of our community  I am curious what if any particular motivating factor that brought each of you here, and if there is anything I can do to help you find a working group that you might be interested in, or any further information you might be looking for  Please feel free to ask myself, @Edu or any of the other stewards at any time! Welcome! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
@@ -4486,7 +4486,7 @@ Hey Gene! Actually 1hive brought me here. Saw a few posts about you guys. Fairly
 
 billyjitsu
 
-[Hey Gene! Actually 1hive brought me here. Saw a few posts about you guys. Fairly green dev. Working on projects currently. Figured I'd check you guys out. Been a bit swamped with real life responsibilities and chainlinks hackathon content that I haven't had a really good chance to sit down and absorb this discord](about:blank#)
+Hey Gene! Actually 1hive brought me here. Saw a few posts about you guys. Fairly green dev. Working on projects currently. Figured I'd check you guys out. Been a bit swamped with real life responsibilities and chainlinks hackathon content that I haven't had a really good chance to sit down and absorb this discord
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -4505,7 +4505,7 @@ Apologies it wasn't until this morning
 
 gene
 
-[That's quite alright; we're just super happy to have you! Are you actively involved with 1hive? I'm actually an aspiring dev of sorts myself. That's awesome you're in to hackathons. I've joined half a dozen in the past 6 months or so but have yet to complete even the beginning stages of a project.](about:blank#) 
+That's quite alright; we're just super happy to have you! Are you actively involved with 1hive? I'm actually an aspiring dev of sorts myself. That's awesome you're in to hackathons. I've joined half a dozen in the past 6 months or so but have yet to complete even the beginning stages of a project. 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f605.png](https://twemoji.maxcdn.com/2/72x72/1f605.png)
 
@@ -4519,7 +4519,7 @@ Yes. Its a tough adjustment. I'd like to help with that in the future. Get more 
 
 gene
 
-[I understand life responsibilities taking over intentions I promise. A friend of mine called me Friday night and said he was getting evicted, so I've spent all weekend with him boxing and moving a household. Had quite a few other things I intended to do over the weekend if I'm honest, including welcome you  Apologies it wasn't until this morning](about:blank#)
+I understand life responsibilities taking over intentions I promise. A friend of mine called me Friday night and said he was getting evicted, so I've spent all weekend with him boxing and moving a household. Had quite a few other things I intended to do over the weekend if I'm honest, including welcome you  Apologies it wasn't until this morning
 
 ![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
@@ -4533,7 +4533,7 @@ Oh man. Hope it all turns out ok
 
 billyjitsu
 
-[Oh man. Hope it all turns out ok](about:blank#)
+Oh man. Hope it all turns out ok
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -4548,7 +4548,7 @@ What's your chainlink project about?
 
 Diemofu
 
-[@satchel | PST mostly the US right now. That sounds interesting, sure.](about:blank#)
+@satchel | PST mostly the US right now. That sounds interesting, sure.
 
 <h3>satchel | PST <img src="https://cdn.discordapp.com/avatars/876908960563724288/a447a7b7ca6efdf93abd451512d95202.png" width=25 height=25></h3>
 
@@ -4575,7 +4575,7 @@ Hello @UncleBimBim Welcome to the TEC and thank you so much for responding to Ch
 
 billyjitsu
 
-[Hey Gene! Actually 1hive brought me here. Saw a few posts about you guys. Fairly green dev. Working on projects currently. Figured I'd check you guys out. Been a bit swamped with real life responsibilities and chainlinks hackathon content that I haven't had a really good chance to sit down and absorb this discord](about:blank#)
+Hey Gene! Actually 1hive brought me here. Saw a few posts about you guys. Fairly green dev. Working on projects currently. Figured I'd check you guys out. Been a bit swamped with real life responsibilities and chainlinks hackathon content that I haven't had a really good chance to sit down and absorb this discord
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -4588,7 +4588,7 @@ im doing the chainlink hackathon too!
 
 nic
 
-[im doing the chainlink hackathon too!](about:blank#) 
+im doing the chainlink hackathon too! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
 
@@ -4602,7 +4602,7 @@ What's your project on nic?
 
 gene
 
-[What's your project on nic?](about:blank#)
+What's your project on nic?
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -4615,7 +4615,7 @@ not sure yet! mostly joined for portfolio building. I want my portfolio to be al
 
 gene
 
-[What's your project on nic?](about:blank#)
+What's your project on nic?
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -4627,7 +4627,7 @@ if I can find a way maybe do a staking app, some sort of nft project - or maybe 
 
 nic
 
-[if I can find a way maybe do a staking app, some sort of nft project - or maybe a DAO, and a dex, + the portfolio/blog](about:blank#)
+if I can find a way maybe do a staking app, some sort of nft project - or maybe a DAO, and a dex, + the portfolio/blog
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -4639,7 +4639,7 @@ All sound great to me; I hoped into the celo one on devpost last week, and I'm j
 
 gene
 
-[All sound great to me; I hoped into the celo one on devpost last week, and I'm just reading up on chainlink since you said you were in and it sound more than reasonable to just join for the chance to learn something if nothing else](about:blank#)
+All sound great to me; I hoped into the celo one on devpost last week, and I'm just reading up on chainlink since you said you were in and it sound more than reasonable to just join for the chance to learn something if nothing else
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -4651,7 +4651,7 @@ they did say that even a portfolio is fine to submit if youre there to learn
 
 nic
 
-[they did say that even a portfolio is fine to submit if youre there to learn](about:blank#)
+they did say that even a portfolio is fine to submit if youre there to learn
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -4663,7 +4663,7 @@ Brilliant ty, I didn't notice that
 
 gene
 
-[Brilliant ty, I didn't notice that](about:blank#)
+Brilliant ty, I didn't notice that
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -4676,7 +4676,7 @@ it was just mentioned in one of their workshops cause someone asked if its ok to
 
 gene
 
-[Hello @UncleBimBim Welcome to the TEC and thank you so much for responding to Chuy's overtures for your participation. Your years of professional experience will be such a wonderful asset for the community, and I am personally particularly interested in hearing your thoughts on brand management, as well as seeing what kind of great graphics you will develop here  ️ It's also fantastic that you found your way straight into the Comms working group area. If I can help you in any way to further your intentions, or make you feel more comfortable, please don't hesitate to give me a shout](about:blank#)  
+Hello @UncleBimBim Welcome to the TEC and thank you so much for responding to Chuy's overtures for your participation. Your years of professional experience will be such a wonderful asset for the community, and I am personally particularly interested in hearing your thoughts on brand management, as well as seeing what kind of great graphics you will develop here  ️ It's also fantastic that you found your way straight into the Comms working group area. If I can help you in any way to further your intentions, or make you feel more comfortable, please don't hesitate to give me a shout  
 
 ![https://twemoji.maxcdn.com/2/72x72/1f440.png](https://twemoji.maxcdn.com/2/72x72/1f440.png)
 
@@ -4699,7 +4699,7 @@ I’m looking forward to getting more involved
 
 UncleBimBim
 
-[Thank you Gene  I’m looking forward to getting more involved](about:blank#)
+Thank you Gene  I’m looking forward to getting more involved
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -4713,7 +4713,7 @@ I really can't wait to learn about brand strategy from you; it's such a critical
 
 gene
 
-[I really can't wait to learn about brand strategy from you; it's such a critical topic and skill for us in the DAO space while something so few seem to possess](about:blank#)
+I really can't wait to learn about brand strategy from you; it's such a critical topic and skill for us in the DAO space while something so few seem to possess
 
 <h3>UncleBimBim <img src="https://cdn.discordapp.com/avatars/453867647164219393/836921b4b8cd069b988c777be8140877.png" width=25 height=25></h3>
 
@@ -4733,7 +4733,7 @@ Even in traditional business models it’s severely misunderstood. It’s primar
 
 nic
 
-[im doing the chainlink hackathon too!](about:blank#) 
+im doing the chainlink hackathon too! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
 
@@ -4747,7 +4747,7 @@ Awesome my dude! Ya learning alot of little things here and there. My focus righ
 
 billyjitsu
 
-[Awesome my dude! Ya learning alot of little things here and there. My focus right now it NFT and possibly gaming. Done a few mini personal portfolio projects. I severely really learn more React for front end but ya... maybe one day connect or something.. via here in the commons!](about:blank#)
+Awesome my dude! Ya learning alot of little things here and there. My focus right now it NFT and possibly gaming. Done a few mini personal portfolio projects. I severely really learn more React for front end but ya... maybe one day connect or something.. via here in the commons!
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -4759,7 +4759,7 @@ are you in a team? @gene and I are gonna work together on something (edited)
 
 nic
 
-[are you in a team? @gene and I are gonna work together on something  (edited)](about:blank#)
+are you in a team? @gene and I are gonna work together on something  (edited)
 
 ![https://cdn.discordapp.com/avatars/731709354461364274/a_2195338a9ff0f9891570bf68a76365dd.gif](https://cdn.discordapp.com/avatars/731709354461364274/a_2195338a9ff0f9891570bf68a76365dd.gif)
 
@@ -4771,7 +4771,7 @@ no, no team. I didn't even look for one. haha. I missed all the activities for t
 
 billyjitsu
 
-[no, no team. I didn't even look for one. haha. I missed all the activities for that. ya I'll definitely pitch in what I can. I'm fairly green dev](about:blank#)
+no, no team. I didn't even look for one. haha. I missed all the activities for that. ya I'll definitely pitch in what I can. I'm fairly green dev
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -4783,7 +4783,7 @@ I just wanted to learn mostly so I didn't bother looking for a team either but w
 
 nic
 
-[I just wanted to learn mostly so I didn't bother looking for a team either but we could figure something out!](about:blank#)
+I just wanted to learn mostly so I didn't bother looking for a team either but we could figure something out!
 
 ![https://cdn.discordapp.com/avatars/731709354461364274/a_2195338a9ff0f9891570bf68a76365dd.gif](https://cdn.discordapp.com/avatars/731709354461364274/a_2195338a9ff0f9891570bf68a76365dd.gif)
 
@@ -4834,7 +4834,7 @@ With Google's free online calendar, it’s easy to keep track of life’s import
 
 Edu - TEC Steward.
 
-[Welcome Arvin @Arvin! Thanks for joining our community! If you are interested on Tokeneconomics, I strongly suggest you to take a look at our Paramaters Working Group, they are having right now "Params Party", which is an open space to learn and discuss Token Economics among other members of the community (We are hosting Parties almost on a daily basis) Jump in! Here is the calendar for the Parties:](about:blank#)
+Welcome Arvin @Arvin! Thanks for joining our community! If you are interested on Tokeneconomics, I strongly suggest you to take a look at our Paramaters Working Group, they are having right now "Params Party", which is an open space to learn and discuss Token Economics among other members of the community (We are hosting Parties almost on a daily basis) Jump in! Here is the calendar for the Parties:
 
 [https://calendar.google.com/calendar/u/0?cid=ZHRpbnQzYmE2NnY0cDJqN25uZWdlZnB2dmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ](https://calendar.google.com/calendar/u/0?cid=ZHRpbnQzYmE2NnY0cDJqN25uZWdlZnB2dmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
@@ -4849,7 +4849,7 @@ ok sure !
 
 Arvin
 
-[ok sure !](about:blank#)
+ok sure !
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -4888,7 +4888,7 @@ Project Management and Software Development with GitHub | ZenHub
 
 Tam2140
 
-[Hi @BiancaGadelha - here is the Zenhub link!](about:blank#)
+Hi @BiancaGadelha - here is the Zenhub link!
 
 [https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322,349409011](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322,349409011)
 
@@ -4909,7 +4909,7 @@ _03-Nov-21 01:47 PM_:
 
 Edu - TEC Steward.
 
-[Welcome Itamar @ItamarGo to our community! May I ask which medium post got you here? And if you can share how was your graviton training! Thanks for Joining!](about:blank#)
+Welcome Itamar @ItamarGo to our community! May I ask which medium post got you here? And if you can share how was your graviton training! Thanks for Joining!
 
 <h3>ItamarGo <img src="https://cdn.discordapp.com/avatars/539221068146278425/a9bd014240d7082a40c046f18075dca6.png" width=25 height=25></h3>
 
@@ -4945,7 +4945,7 @@ Hello everyone am new and want to learn
 
 JPEGbodega
 
-[hello everyone. new member here](about:blank#)
+hello everyone. new member here
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -4957,7 +4957,7 @@ _04-Nov-21 12:01 PM_:
 
 🌻Damilola.eth🌻🐝
 
-[Hello everyone am new and want to learn](about:blank#)
+Hello everyone am new and want to learn
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -4969,7 +4969,7 @@ You may also want to join our Community Call, today at 7PM CET, or join our Labs
 
 octavioesc
 
-[Hi, Octavio from DaoEducation here :). I heard that there will be a workshop given by TEC to DaoE and I'm interested in learning more about TEC and TE Academy :D](about:blank#)
+Hi, Octavio from DaoEducation here :). I heard that there will be a workshop given by TEC to DaoE and I'm interested in learning more about TEC and TE Academy :D
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -4988,7 +4988,7 @@ Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang
 
 Edu - TEC Steward.
 
-[Hey Octavio! Welcome! Happy to have you here. I don't know much about that workshop, but we can ask around, and maybe @griff (💜, 💜) knows more about this! For TE Academy, you can go to this link and learn more](about:blank#)
+Hey Octavio! Welcome! Happy to have you here. I don't know much about that workshop, but we can ask around, and maybe @griff (💜, 💜) knows more about this! For TE Academy, you can go to this link and learn more
 
 [https://discord.gg/dBCxpMb5](https://discord.gg/dBCxpMb5)
 
@@ -5004,7 +5004,7 @@ Thank you so much :D, can i join the wednesday's orientation call?
 
 octavioesc
 
-[Thank you so much :D, can i join the wednesday's orientation call?](about:blank#)
+Thank you so much :D, can i join the wednesday's orientation call?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5020,7 +5020,7 @@ Yes of course! You can join that call and any other! We are an open community, f
 
 Edu - TEC Steward.
 
-[Yes of course! You can join that call and any other! We are an open community, feel free to jump to any call you see that picks your interest. Here is also our calendar of calls](about:blank#) 
+Yes of course! You can join that call and any other! We are an open community, feel free to jump to any call you see that picks your interest. Here is also our calendar of calls 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -5037,7 +5037,7 @@ Thank you!
 
 ItamarGo
 
-[it was this one:](about:blank#)
+it was this one:
 
 [https://medium.com/token-engineering-commons/graviton-training-season-2-8f9817cf404d](https://medium.com/token-engineering-commons/graviton-training-season-2-8f9817cf404d)
 
@@ -5077,7 +5077,7 @@ Hello everyone, I'm new here and want to learn
 
 divine
 
-[Hello all I heard @griff (💜, 💜) speaking at Kernel  side chat and I wanted to get involved and learn. I seen this channel and it seemed like the obvious place to start.](about:blank#)
+Hello all I heard @griff (💜, 💜) speaking at Kernel  side chat and I wanted to get involved and learn. I seen this channel and it seemed like the obvious place to start.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
 
@@ -5096,7 +5096,7 @@ Hello there! How are you! Welcome to the TEC community! Can I asked what got you
 
 tixter.eth
 
-[Hello everyone, I'm new here and want to learn](about:blank#)
+Hello everyone, I'm new here and want to learn
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5108,7 +5108,7 @@ Hello there! So nice to have you here! May I ask what is your main subject of in
 
 detactical
 
-[Hi, I'm doing some research to start a DAO among several nonprofits across europe and maybe including India. I initially envision token holders to be the organizations themselves rather than individuals - is there a precedent for such thing?](about:blank#)
+Hi, I'm doing some research to start a DAO among several nonprofits across europe and maybe including India. I initially envision token holders to be the organizations themselves rather than individuals - is there a precedent for such thing?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5122,7 +5122,7 @@ Hello there! Maybe @JeffEmmett or @liviade can be helpful on this
 
 detactical
 
-[Hi, I'm doing some research to start a DAO among several nonprofits across europe and maybe including India. I initially envision token holders to be the organizations themselves rather than individuals - is there a precedent for such thing?](about:blank#)
+Hi, I'm doing some research to start a DAO among several nonprofits across europe and maybe including India. I initially envision token holders to be the organizations themselves rather than individuals - is there a precedent for such thing?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5189,7 +5189,7 @@ Thanks!!
 
 Edu - TEC Steward.
 
-[Hello there! How are you! Welcome to the TEC community! Can I asked what got your attention from @griff (💜, 💜) talk? We have orientation every Wednesday at 6PM CET on the Community Hall Voice Channel, but on this calendar link of our calls, you can jump into any call you find interesting](about:blank#) 
+Hello there! How are you! Welcome to the TEC community! Can I asked what got your attention from @griff (💜, 💜) talk? We have orientation every Wednesday at 6PM CET on the Community Hall Voice Channel, but on this calendar link of our calls, you can jump into any call you find interesting 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -5207,7 +5207,7 @@ Well I struggled with how Web3 is actually changing what we have in Web2, basica
 
 Edu - TEC Steward.
 
-[Hello there! How are you! Welcome to the TEC community! Can I asked what got your attention from @griff (💜, 💜) talk? We have orientation every Wednesday at 6PM CET on the Community Hall Voice Channel, but on this calendar link of our calls, you can jump into any call you find interesting](about:blank#) 
+Hello there! How are you! Welcome to the TEC community! Can I asked what got your attention from @griff (💜, 💜) talk? We have orientation every Wednesday at 6PM CET on the Community Hall Voice Channel, but on this calendar link of our calls, you can jump into any call you find interesting 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -5233,7 +5233,7 @@ Hi Token Engineering Commons, I'm Michael, a Kernel Fellow in block 4. I organiz
 
 Michael Keating
 
-[Hi Token Engineering Commons, I'm Michael, a Kernel Fellow in block 4. I organize a weekly session on tokenomics for fellows interested in learning more about a specific token or protocol. In past weeks we have studied Olympus and Klima, Arweave, and Panvala, often with the protocols' founders as guests. I joined the Token Engineering Commons discord to continue learning about token engineering both to benefit what I am doing at Kernel and to help inform my work in local electric mobility, where I am a startup founder.](about:blank#)
+Hi Token Engineering Commons, I'm Michael, a Kernel Fellow in block 4. I organize a weekly session on tokenomics for fellows interested in learning more about a specific token or protocol. In past weeks we have studied Olympus and Klima, Arweave, and Panvala, often with the protocols' founders as guests. I joined the Token Engineering Commons discord to continue learning about token engineering both to benefit what I am doing at Kernel and to help inform my work in local electric mobility, where I am a startup founder.
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -5245,7 +5245,7 @@ Hi @Michael Keating Welcome to the TEC! Those sessions sounds like a great initi
 
 Tam2140
 
-[Hi @Michael Keating Welcome to the TEC! Those sessions sounds like a great initiative. I would imagine some in our community would be interested in joining. Where do you host it and at what time?](about:blank#)
+Hi @Michael Keating Welcome to the TEC! Those sessions sounds like a great initiative. I would imagine some in our community would be interested in joining. Where do you host it and at what time?
 
 <h3>Michael Keating <img src="https://cdn.discordapp.com/avatars/415358390957637642/f3c0ab1bc2145fb3a18e1077be815126.png" width=25 height=25></h3>
 
@@ -5269,7 +5269,7 @@ A curated community of brilliance in web3.
 
 Michael Keating
 
-[Hi @Tam2140, most sessions are being recorded and posted to Kernel’s YouTube channel and summaries and related documents are linked from the program’s Kernel pages but live participation is limited to Kernel participants for now.](about:blank#)
+Hi @Tam2140, most sessions are being recorded and posted to Kernel’s YouTube channel and summaries and related documents are linked from the program’s Kernel pages but live participation is limited to Kernel participants for now.
 
 [https://m.youtube.com/channel/UC2kUaSgR0L-uzGkNsOxSxzw](https://m.youtube.com/channel/UC2kUaSgR0L-uzGkNsOxSxzw)
 
@@ -5289,7 +5289,7 @@ We are excited for our first Param Party with @Lauren later this week! So TEC is
 
 Michael Keating
 
-[We are excited for our first Param Party with @Lauren later this week! So TEC is already informing our studies](about:blank#) 
+We are excited for our first Param Party with @Lauren later this week! So TEC is already informing our studies 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -5303,7 +5303,7 @@ Hi Micheal when is the Param Party btw I am also a KB4 Fellow (edited)
 
 divine
 
-[Hi Micheal when is the Param Party btw I am also a KB4 Fellow  (edited)](about:blank#)
+Hi Micheal when is the Param Party btw I am also a KB4 Fellow  (edited)
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5335,7 +5335,7 @@ Hello @GMoney, @SJ, @johnjonas, @jackgill, @Block Invest, @YNSG, @BenC, @Lauren
 
 Edu - TEC Steward.
 
-[Hello @GMoney, @SJ, @johnjonas, @jackgill, @Block Invest, @YNSG, @BenC, @Laurence Ion | VitaDAO steward, @JerryDGreat, @StephenOche, @aleemrehmtulla @0x124 @Kaito | かいと! Welcome to the TEC! Our community is open and inclusive, so we have an orientation call for you, as a starting point on your journey at the TEC! Orientation call are every **Wednesday 6PM, CET at our Community Hall Voice channel**. We look forward to have you there! Bring questions, doubts, suggestions or feedback that you may have encountered! If you want to take a step ahead, this document can help you:](about:blank#)
+Hello @GMoney, @SJ, @johnjonas, @jackgill, @Block Invest, @YNSG, @BenC, @Laurence Ion | VitaDAO steward, @JerryDGreat, @StephenOche, @aleemrehmtulla @0x124 @Kaito | かいと! Welcome to the TEC! Our community is open and inclusive, so we have an orientation call for you, as a starting point on your journey at the TEC! Orientation call are every **Wednesday 6PM, CET at our Community Hall Voice channel**. We look forward to have you there! Bring questions, doubts, suggestions or feedback that you may have encountered! If you want to take a step ahead, this document can help you:
 
 [https://hackmd.io/Ov89FStBQmeTOK2YfoPH3Q](https://hackmd.io/Ov89FStBQmeTOK2YfoPH3Q)
 
@@ -5387,7 +5387,7 @@ New here! Sounds very interesting. Where can one join this orientation call?
 
 Clay | Blockdaemon
 
-[New here! Sounds very interesting. Where can one join this orientation call?](about:blank#)
+New here! Sounds very interesting. Where can one join this orientation call?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5438,7 +5438,7 @@ or not
 
 YNSG
 
-[today we have a call](about:blank#)
+today we have a call
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -5465,7 +5465,7 @@ Thank you so much for sharing @Tam2140 can’t wait.
 
 divine
 
-[Hi Micheal when is the Param Party btw I am also a KB4 Fellow  (edited)](about:blank#)
+Hi Micheal when is the Param Party btw I am also a KB4 Fellow  (edited)
 
 <h3>Michael Keating <img src="https://cdn.discordapp.com/avatars/415358390957637642/f3c0ab1bc2145fb3a18e1077be815126.png" width=25 height=25></h3>
 
@@ -5481,7 +5481,7 @@ _10-Nov-21 04:23 PM_:
 
 Edu - TEC Steward.
 
-[Welcome @TobiMini! Are you interested on Polycentric governance? I recommend you the Soft Gov! @liviade is the Steward leading the conversation on this topics. All our calls are open and so is the discord text channels of the Soft Gov working groups, in case you want to go ahead and poke around, I will drop you our calendar in case you wish to engage more:](about:blank#)
+Welcome @TobiMini! Are you interested on Polycentric governance? I recommend you the Soft Gov! @liviade is the Steward leading the conversation on this topics. All our calls are open and so is the discord text channels of the Soft Gov working groups, in case you want to go ahead and poke around, I will drop you our calendar in case you wish to engage more:
 
 [https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin)
 
@@ -5506,7 +5506,7 @@ I just found out about this session, and I just missed it. Will this be posted o
 
 ProofOfAbility
 
-[I just found out about this session, and I just missed it. Will this be posted on YouTube to review? If not, I'm looking forward to Dec. 15 session. Thank you.](about:blank#)
+I just found out about this session, and I just missed it. Will this be posted on YouTube to review? If not, I'm looking forward to Dec. 15 session. Thank you.
 
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
@@ -5533,7 +5533,7 @@ Where i can join the call
 
 domhs
 
-[Where i can join the call](about:blank#)
+Where i can join the call
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5545,7 +5545,7 @@ in the community voice channel!
 
 domhs
 
-[Where i can join the call](about:blank#)
+Where i can join the call
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5558,7 +5558,7 @@ if you scroll down you will see a bunch of us there!
 
 Tam2140
 
-[Hey @russlive215 (🧙🏾, 🧙🏾)︱40ACRES this is the course Introduction to Token Engineering and the next course is *tomorrow*!! You can sign up here:](about:blank#)
+Hey @russlive215 (🧙🏾, 🧙🏾)︱40ACRES this is the course Introduction to Token Engineering and the next course is *tomorrow*!! You can sign up here:
 
 [https://docs.google.com/forms/d/e/1FAIpQLSdJ3iNmt4rDGl6256wTf7MQmUAEIT57QsCmvydeG5xi01o5rA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdJ3iNmt4rDGl6256wTf7MQmUAEIT57QsCmvydeG5xi01o5rA/viewform)
 
@@ -5589,7 +5589,7 @@ Hi I was wondering what time zone is the calendar ?
 
 divine
 
-[Hi I was wondering what time zone is the calendar ?](about:blank#)
+Hi I was wondering what time zone is the calendar ?
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -5607,7 +5607,7 @@ heard about TEC from @griff (💜, 💜) yesterday at the Gitcoin PR call! aweso
 
 QZ
 
-[heard about TEC from @griff (💜, 💜) yesterday at the Gitcoin PR call! awesome work y'all are doing here](about:blank#)
+heard about TEC from @griff (💜, 💜) yesterday at the Gitcoin PR call! awesome work y'all are doing here
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5619,7 +5619,7 @@ Hey there! Thanks! So nice to have you here! What caught your attention if I may
 
 Edu - TEC Steward.
 
-[Hey there! Thanks! So nice to have you here! What caught your attention if I may ask? :D](about:blank#)
+Hey there! Thanks! So nice to have you here! What caught your attention if I may ask? :D
 
 <h3>QZ <img src="https://cdn.discordapp.com/avatars/735842065849647144/3631bc8504b1f790435c5121ed66abb3.png" width=25 height=25></h3>
 
@@ -5631,7 +5631,7 @@ Firstly, griff is awesome. Okay that’s out now so lets talk about TEC haha I w
 
 Tam2140
 
-[Hi @divine When you open the calendar in google, you should see it overlayed your own calendar. That way you will see the calls as they are in your own time zone.](about:blank#)
+Hi @divine When you open the calendar in google, you should see it overlayed your own calendar. That way you will see the calls as they are in your own time zone.
 
 <h3>divine <img src="https://cdn.discordapp.com/avatars/438466973471342593/403e4a0329dd86618509ebb29a747c44.png" width=25 height=25></h3>
 
@@ -5643,7 +5643,7 @@ thank you
 
 QZ
 
-[Firstly, griff is awesome. Okay that’s out now so lets talk about TEC haha I work at gitcoin’s public goods workstream and I think we deal with many different protocols for the grant rounds. In my day job we work with different l1s and we’re one of those few web2 companies that accept tokens too. I’ve interacted with a few folks that do mechanism design in college and i kinda miss this part of the world](about:blank#)
+Firstly, griff is awesome. Okay that’s out now so lets talk about TEC haha I work at gitcoin’s public goods workstream and I think we deal with many different protocols for the grant rounds. In my day job we work with different l1s and we’re one of those few web2 companies that accept tokens too. I’ve interacted with a few folks that do mechanism design in college and i kinda miss this part of the world
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5656,7 +5656,7 @@ Nice, thanks for the thoughtful answer. First of all, i am going to drop our cal
 
 QZ
 
-[Firstly, griff is awesome. Okay that’s out now so lets talk about TEC haha I work at gitcoin’s public goods workstream and I think we deal with many different protocols for the grant rounds. In my day job we work with different l1s and we’re one of those few web2 companies that accept tokens too. I’ve interacted with a few folks that do mechanism design in college and i kinda miss this part of the world](about:blank#)
+Firstly, griff is awesome. Okay that’s out now so lets talk about TEC haha I work at gitcoin’s public goods workstream and I think we deal with many different protocols for the grant rounds. In my day job we work with different l1s and we’re one of those few web2 companies that accept tokens too. I’ve interacted with a few folks that do mechanism design in college and i kinda miss this part of the world
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5723,7 +5723,7 @@ Join the community call on Discord on Thursdays at 7pm CET.
 
 lee0007
 
-[Hi is there a calendar invite for the orientation call? I could not identify this in the shared calendar and I'm not sure if we join one or the other, or both of these calls. I am UTC+13 Thanks!](about:blank#)
+Hi is there a calendar invite for the orientation call? I could not identify this in the shared calendar and I'm not sure if we join one or the other, or both of these calls. I am UTC+13 Thanks!
 
 ❓ Please join our weekly orientation Call with your questions, suggestions or feedback on Wednesdays at 6pm CET on our #!community-hall voic channel on TEC Discord.
 
@@ -5752,7 +5752,7 @@ HELLO!!!
 
 Edu - TEC Steward.
 
-[**Welcome** @0xRancho, @sidcode, @spitty! Lovely to have you here! I can see how @griff (💜, 💜) inspired you to join our community! During your first week, is there anything that caught your interest? And in case you wanna take a deeper dive, my DMs are open for any question, or you can also join our open session of Orientation, Wednesday, 6PM CET at the Community Hall Voice Channel! Looking forward to hear from you!](about:blank#)
+**Welcome** @0xRancho, @sidcode, @spitty! Lovely to have you here! I can see how @griff (💜, 💜) inspired you to join our community! During your first week, is there anything that caught your interest? And in case you wanna take a deeper dive, my DMs are open for any question, or you can also join our open session of Orientation, Wednesday, 6PM CET at the Community Hall Voice Channel! Looking forward to hear from you!
 
 ![https://cdn.discordapp.com/avatars/861513367700111360/a_2192b510966b75661b83deabc917d812.gif](https://cdn.discordapp.com/avatars/861513367700111360/a_2192b510966b75661b83deabc917d812.gif)
 
@@ -5771,7 +5771,7 @@ Hey there. Thanks for your message. I knew about the work of your group from som
 
 Yashmanso
 
-[Hey there. Thanks for your message. I knew about the work of your group from some time ago but never delved deep into it until I spoke to @liviade a few days ago after quite a long time. I’m planning to show up at the orientation session today. What is the best way to know how one can get involved to contribute? Livia told me about different streams and workgroups. I checked them out but it was a bit overwhelming to figure that out. I am interested in the parameters and soft governance primarily.](about:blank#)
+Hey there. Thanks for your message. I knew about the work of your group from some time ago but never delved deep into it until I spoke to @liviade a few days ago after quite a long time. I’m planning to show up at the orientation session today. What is the best way to know how one can get involved to contribute? Livia told me about different streams and workgroups. I checked them out but it was a bit overwhelming to figure that out. I am interested in the parameters and soft governance primarily.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5785,7 +5785,7 @@ I will see you today at the Orientation call! The easiest way, is exactly what y
 
 sidcode
 
-[You are doing a fabulous job at engaging the community, @Edu - TEC Steward. :D Yeah, Griff and I were talking for a long time in one of the Kernel sessions about the courage it takes to start a new field of engineering from scratch. Quite inspiring! I am also coming from GitcoinDAO, Complexity Weekend, Active Inference Lab, and MetaGov like most awesome folks here and just started on my Governauts journey yesterday with TEC. I also attended a Param Party where @Zeptimus and @Tam2140 kindly answered my noob questions. Way too many friends and too much overlap in all these worlds, so I applied to be a trusted seed as well! Really grateful to the folks from TEC who agreed to do two events with Gitcoin's Public Goods workstream in a week. The twitter spaces was a blast. We have one more with Griff today at 4pm UTC :)](about:blank#)
+You are doing a fabulous job at engaging the community, @Edu - TEC Steward. :D Yeah, Griff and I were talking for a long time in one of the Kernel sessions about the courage it takes to start a new field of engineering from scratch. Quite inspiring! I am also coming from GitcoinDAO, Complexity Weekend, Active Inference Lab, and MetaGov like most awesome folks here and just started on my Governauts journey yesterday with TEC. I also attended a Param Party where @Zeptimus and @Tam2140 kindly answered my noob questions. Way too many friends and too much overlap in all these worlds, so I applied to be a trusted seed as well! Really grateful to the folks from TEC who agreed to do two events with Gitcoin's Public Goods workstream in a week. The twitter spaces was a blast. We have one more with Griff today at 4pm UTC :)
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5798,7 +5798,7 @@ hey! Thanks for that! Appreciated! I saw the Twitter space! what an amazing init
 
 lee0007
 
-[Hi is there a calendar invite for the orientation call? I could not identify this in the shared calendar and I'm not sure if we join one or the other, or both of these calls. I am UTC+13 Thanks!](about:blank#)
+Hi is there a calendar invite for the orientation call? I could not identify this in the shared calendar and I'm not sure if we join one or the other, or both of these calls. I am UTC+13 Thanks!
 
 ❓ Please join our weekly orientation Call with your questions, suggestions or feedback on Wednesdays at 6pm CET on our #!community-hall voic channel on TEC Discord.
 
@@ -5820,7 +5820,7 @@ Hello there! the Call is named TEC Orientation! This link is direct to it! [http
 
 Edu - TEC Steward.
 
-[hey! Thanks for that! Appreciated! I saw the Twitter space! what an amazing initiative, feel free to share the next ones on our "Amplify" channel, I am sure TEC folks will tune in! Let me know if anything gets complicated or confusing so we can provide support and guidance](about:blank#) 
+hey! Thanks for that! Appreciated! I saw the Twitter space! what an amazing initiative, feel free to share the next ones on our "Amplify" channel, I am sure TEC folks will tune in! Let me know if anything gets complicated or confusing so we can provide support and guidance 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -5853,7 +5853,7 @@ very cool
 
 durgadas
 
-[Hi @Yashmanso Say hi and ask any questions you have](about:blank#)
+Hi @Yashmanso Say hi and ask any questions you have
 
 <h3>Yashmanso <img src="https://cdn.discordapp.com/avatars/493796432130867211/2694f91889fa1f1a19c7389f6d49874f.png" width=25 height=25></h3>
 
@@ -5881,7 +5881,7 @@ Excellent! Thank you for sharing this @sidcode !
 
 Edu - TEC Steward.
 
-[Hello there! the Call is named TEC Orientation! This link is direct to it!](about:blank#)
+Hello there! the Call is named TEC Orientation! This link is direct to it!
 
 [https://www.google.com/calendar/event?eid=bTliMGlxNGVrc29uYjAzZWY5djJndG5wZTFfMjAyMTExMTdUMTcwMDAwWiA1bWtlcDFhZDFqODYwazZnN2k3ZnI4cGxxMEBn&ctz=Europe/Berlin](https://www.google.com/calendar/event?eid=bTliMGlxNGVrc29uYjAzZWY5djJndG5wZTFfMjAyMTExMTdUMTcwMDAwWiA1bWtlcDFhZDFqODYwazZnN2k3ZnI4cGxxMEBn&ctz=Europe/Berlin)
 
@@ -5907,7 +5907,7 @@ by the way, for the params party is there any specific economy we should be desi
 
 lee0007
 
-[Thank you couldn't see the trees for the forest in my calendar. This is at the same time as our Business Development meeting. Are there any other orientation calls?](about:blank#)
+Thank you couldn't see the trees for the forest in my calendar. This is at the same time as our Business Development meeting. Are there any other orientation calls?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5919,7 +5919,7 @@ We have them every Wednesday at the same time, so if it conflicts with your agen
 
 YetiDrinker
 
-[Hi All, I am new here thank you for having me!](about:blank#)
+Hi All, I am new here thank you for having me!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5962,7 +5962,7 @@ ShapeShift Param Party Rep!
 
 paythetoll
 
-[ShapeShift Param Party Rep!](about:blank#)
+ShapeShift Param Party Rep!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5976,7 +5976,7 @@ Nice to see you here! What caught your interest from the Param Party?
 
 wyoman
 
-[Hello everyone, I am new here. I am looking to start a farm and a bitcoin mining company. I have been thinking about how I could use the DAO as a way to get my community involved in these projects. We’re planning to grow all kinds of fruits and vegetables, pigs, chickens and beef. Also here in Gillette we live on top of a giant bed of natural gas that we would like to use for off-grid bitcoin mining. We plan to take the stranded energy and store it in the form of bitcoin which we can use later to build up a solar farm.](about:blank#)
+Hello everyone, I am new here. I am looking to start a farm and a bitcoin mining company. I have been thinking about how I could use the DAO as a way to get my community involved in these projects. We’re planning to grow all kinds of fruits and vegetables, pigs, chickens and beef. Also here in Gillette we live on top of a giant bed of natural gas that we would like to use for off-grid bitcoin mining. We plan to take the stranded energy and store it in the form of bitcoin which we can use later to build up a solar farm.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6021,7 +6021,7 @@ Welcome @NeoCornelius to the TEC! How we caught the attention of a social scient
 
 Edu - TEC Steward.
 
-[Welcome @NeoCornelius to the TEC! How we caught the attention of a social scientist?](about:blank#) 
+Welcome @NeoCornelius to the TEC! How we caught the attention of a social scientist? 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -6038,7 +6038,7 @@ I teach classes on sociotechnical information systems and support online courses
 
 NeoCornelius
 
-[Hi there! I am an academic by trade, I guess  I teach classes on sociotechnical information systems and support online courses at the University of Illinois. I've been intrigued by the idea of DAOs for the past few months and reading about them. Recently joined ADADAO (Cardano blockchain) to get more experience with the tech and they told me to check out you guys!  (edited)](about:blank#)
+Hi there! I am an academic by trade, I guess  I teach classes on sociotechnical information systems and support online courses at the University of Illinois. I've been intrigued by the idea of DAOs for the past few months and reading about them. Recently joined ADADAO (Cardano blockchain) to get more experience with the tech and they told me to check out you guys!  (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f609.png](https://twemoji.maxcdn.com/2/72x72/1f609.png)
 
@@ -6052,7 +6052,7 @@ That sounds like something we could also learn about "sociotechnical information
 
 Edu - TEC Steward.
 
-[That sounds like something we could also learn about "sociotechnical information systems". Is there something specific you would like to learn about DAOs?](about:blank#)
+That sounds like something we could also learn about "sociotechnical information systems". Is there something specific you would like to learn about DAOs?
 
 <h3>NeoCornelius <img src="https://cdn.discordapp.com/avatars/315641923333259264/c7e723ea4bd86361fb1852737382ce59.png" width=25 height=25></h3>
 
@@ -6065,7 +6065,7 @@ I really want to dig into the legal and policy considerations of keeping DAOs de
 
 NeoCornelius
 
-[I really want to dig into the legal and policy considerations of keeping DAOs decentralized. How can we make sure that an organization won't attract regulatory scrutiny? Can we protect the participants from being treated as "partners" in an enterprise by their respective legal jurisdictions? I fear a situation where members of a DAO in the US (as an example) are ordered to pay taxes on all financial activities of the organization instead of just paying their share of income tax for money earned doing work for the DAO.](about:blank#)
+I really want to dig into the legal and policy considerations of keeping DAOs decentralized. How can we make sure that an organization won't attract regulatory scrutiny? Can we protect the participants from being treated as "partners" in an enterprise by their respective legal jurisdictions? I fear a situation where members of a DAO in the US (as an example) are ordered to pay taxes on all financial activities of the organization instead of just paying their share of income tax for money earned doing work for the DAO.
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -6116,7 +6116,7 @@ Mission, Vision and Values
 
 Edu - TEC Steward.
 
-[Hello @EurekaJohn! So nice to see you here and thanks @Lauren for connecting us! I would love to have you on today's orientation call! Is at 8PM CET / 12 PM ET, feel free to join at any time! And looking forward to hear more from you!](about:blank#)
+Hello @EurekaJohn! So nice to see you here and thanks @Lauren for connecting us! I would love to have you on today's orientation call! Is at 8PM CET / 12 PM ET, feel free to join at any time! And looking forward to hear more from you!
 
 <h3>EurekaJohn <img src="https://cdn.discordapp.com/avatars/702949985699889171/b4a37be8f42e5e000dd3b2793fed83ea.png" width=25 height=25></h3>
 
@@ -6128,7 +6128,7 @@ Thanks for the welcome Edu. I already have a meeting starting at 10:45, so if it
 
 Edu - TEC Steward.
 
-[@RayKanani! Welcome to the TEC! I want to also invite you to our Orientation call today at 8PM CET / 12 PM ET on the Community Hall Voice channel! Also, we would love to help you or assist you with your research! Let us know if you need anything! You can also take a look at our Gitbook, is a good starting point:](about:blank#)
+@RayKanani! Welcome to the TEC! I want to also invite you to our Orientation call today at 8PM CET / 12 PM ET on the Community Hall Voice channel! Also, we would love to help you or assist you with your research! Let us know if you need anything! You can also take a look at our Gitbook, is a good starting point:
 
 [https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/mission-vision-and-values](https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/mission-vision-and-values)
 
@@ -6142,7 +6142,7 @@ Thank you for the warm welcome. I'll check out the materials. I have a conflicti
 
 Edu - TEC Steward.
 
-[Hello there Tyler! Do you have previous experiences in DAOs? Your project is interesting, we are aiming here to help people create their own economy. We have two Working Groups dedicated to Community: Communitas (for community building) and Soft Gov (for governance and culture). You can learn more about it here:](about:blank#)
+Hello there Tyler! Do you have previous experiences in DAOs? Your project is interesting, we are aiming here to help people create their own economy. We have two Working Groups dedicated to Community: Communitas (for community building) and Soft Gov (for governance and culture). You can learn more about it here:
 
 [https://tecommons.org/workgroups](https://tecommons.org/workgroups)
 
@@ -6156,7 +6156,7 @@ I don’t have any experience in DAO’s but I have a decent understanding. I’
 
 wyoman
 
-[I don’t have any experience in DAO’s but I have a decent understanding. I’m interested in learning more but I have limited technical ability on computers.](about:blank#)
+I don’t have any experience in DAO’s but I have a decent understanding. I’m interested in learning more but I have limited technical ability on computers.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6168,7 +6168,7 @@ would you like to join our orientation call? is live now!
 
 NeoCornelius
 
-[I really want to dig into the legal and policy considerations of keeping DAOs decentralized. How can we make sure that an organization won't attract regulatory scrutiny? Can we protect the participants from being treated as "partners" in an enterprise by their respective legal jurisdictions? I fear a situation where members of a DAO in the US (as an example) are ordered to pay taxes on all financial activities of the organization instead of just paying their share of income tax for money earned doing work for the DAO.](about:blank#)
+I really want to dig into the legal and policy considerations of keeping DAOs decentralized. How can we make sure that an organization won't attract regulatory scrutiny? Can we protect the participants from being treated as "partners" in an enterprise by their respective legal jurisdictions? I fear a situation where members of a DAO in the US (as an example) are ordered to pay taxes on all financial activities of the organization instead of just paying their share of income tax for money earned doing work for the DAO.
 
 <h3>wyoman <img src="https://cdn.discordapp.com/avatars/618333853316284426/c9e6ad1fc23890794a6e2b1202c29426.png" width=25 height=25></h3>
 
@@ -6182,7 +6182,7 @@ Sure
 
 Edu - TEC Steward.
 
-[would you like to join our orientation call? is live now!](about:blank#)
+would you like to join our orientation call? is live now!
 
 <h3>wyoman <img src="https://cdn.discordapp.com/avatars/618333853316284426/c9e6ad1fc23890794a6e2b1202c29426.png" width=25 height=25></h3>
 
@@ -6204,7 +6204,7 @@ When is next orientation?
 
 JBZ
 
-[Dang - I'm trying to join the Orientation, and I just keep getting rotating boxes...](about:blank#)
+Dang - I'm trying to join the Orientation, and I just keep getting rotating boxes...
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6223,7 +6223,7 @@ Great call today. Very informative!
 
 Edu - TEC Steward.
 
-[oh, I am sorry, did you manage to hear anything?](about:blank#)
+oh, I am sorry, did you manage to hear anything?
 
 <h3>JBZ <img src="https://cdn.discordapp.com/avatars/762150095163621406/d204ff480d89aba7f5dbaec7972dc9e2.png" width=25 height=25></h3>
 
@@ -6241,7 +6241,7 @@ Hi! I just joined. When will the next orientation take place?
 
 NikosamA98
 
-[Hi! I just joined. When will the next orientation take place?](about:blank#)
+Hi! I just joined. When will the next orientation take place?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6261,7 +6261,7 @@ Thanks
 
 JBZ
 
-[I didn't hear anything either. Have you seen this before? Did I miss a step somewhere? Your help is appreciated.](about:blank#)
+I didn't hear anything either. Have you seen this before? Did I miss a step somewhere? Your help is appreciated.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6273,7 +6273,7 @@ No worries! Sometimes discord server gives problems. We can have an 1-1 or you a
 
 wyoman
 
-[Sure](about:blank#)
+Sure
 
 <h3>wyoman <img src="https://cdn.discordapp.com/avatars/618333853316284426/c9e6ad1fc23890794a6e2b1202c29426.png" width=25 height=25></h3>
 
@@ -6285,7 +6285,7 @@ I joined in for a bit yesterday, but had some things to do and didn’t catch mu
 
 wyoman
 
-[I joined in for a bit yesterday, but had some things to do and didn’t catch much of it. I’m excited to hear next week.](about:blank#)
+I joined in for a bit yesterday, but had some things to do and didn’t catch much of it. I’m excited to hear next week.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6303,7 +6303,7 @@ John V 29-Nov-21 08:39 AM
 
 John V
 
-[@Edu - TEC Steward. I’m looking to get involved. Can you point me towards some resources to study before the Wednesday call. I am very open to a 1 on 1 as well.](about:blank#)
+@Edu - TEC Steward. I’m looking to get involved. Can you point me towards some resources to study before the Wednesday call. I am very open to a 1 on 1 as well.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6319,7 +6319,7 @@ Mission, Vision and Values
 
 John V
 
-[@Edu - TEC Steward. I’m looking to get involved. Can you point me towards some resources to study before the Wednesday call. I am very open to a 1 on 1 as well.](about:blank#)
+@Edu - TEC Steward. I’m looking to get involved. Can you point me towards some resources to study before the Wednesday call. I am very open to a 1 on 1 as well.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6344,7 +6344,7 @@ Hello! My name is Matthew. I'm so glad to have found this organization and I am 
 
 John V
 
-[Woah, I’ve been reading since you sent that. I’ve applied to trustless seed and am going to take a break. I’m decently in the right place.](about:blank#)
+Woah, I’ve been reading since you sent that. I’ve applied to trustless seed and am going to take a break. I’m decently in the right place.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6356,7 +6356,7 @@ I am glad to hear that :D, looking forward to see more of you around! (edited)
 
 delightfulabyss.eth
 
-[Hello! My name is Matthew. I'm so glad to have found this organization and I am looking forward to learning more about how I can contribute. I'm a full-stack Ethereum developer, so I'm happy to contribute on the development side, if needed. See you all at the orientation call tomorrow!](about:blank#) 
+Hello! My name is Matthew. I'm so glad to have found this organization and I am looking forward to learning more about how I can contribute. I'm a full-stack Ethereum developer, so I'm happy to contribute on the development side, if needed. See you all at the orientation call tomorrow! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -6430,7 +6430,7 @@ _30-Nov-21 05:27 PM_:
 
 PadInLa
 
-[It was informative, I got really curious about the project since then](about:blank#)
+It was informative, I got really curious about the project since then
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6454,7 +6454,7 @@ Hmm I would like to know a bit more about how it works, since I didn't understan
 
 Edu - TEC Steward.
 
-[**Welcome** @trainfarb, @nanashow13, @Terexitarius, @Allusian, @0xbrIronman, @ernnnnnesto, @RayKanani, we are happy to have you in our community! We invite you to join our next **Orientation call,** tomorrow at **6PM CET / 12PM EST**. You can also use the channels "your-guide" above this one to learn more, or join any of our calls, they are open to everyone! You can check them here:](about:blank#)
+**Welcome** @trainfarb, @nanashow13, @Terexitarius, @Allusian, @0xbrIronman, @ernnnnnesto, @RayKanani, we are happy to have you in our community! We invite you to join our next **Orientation call,** tomorrow at **6PM CET / 12PM EST**. You can also use the channels "your-guide" above this one to learn more, or join any of our calls, they are open to everyone! You can check them here:
 
 [https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin)
 
@@ -6468,7 +6468,7 @@ Thanks excited to get more involved! Looking forward to the call tomorrow
 
 PadInLa
 
-[Hmm I would like to know a bit more about how it works, since I didn't understand everything clearly in the talk.](about:blank#)
+Hmm I would like to know a bit more about how it works, since I didn't understand everything clearly in the talk.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6486,7 +6486,7 @@ Design a Commons and propose it to the TEC community.
 
 Edu - TEC Steward.
 
-[you mean the configuration dashboard?](about:blank#)
+you mean the configuration dashboard?
 
 [https://config.tecommons.org/](https://config.tecommons.org/)
 
@@ -6500,7 +6500,7 @@ I got the gist of it now, I'll try to join tomorrow's orientation call with some
 
 PadInLa
 
-[I got the gist of it now, I'll try to join tomorrow's orientation call with some questions I have to further understand, thank you for the assistance!](about:blank#)
+I got the gist of it now, I'll try to join tomorrow's orientation call with some questions I have to further understand, thank you for the assistance!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6519,7 +6519,7 @@ _01-Dec-21 10:53 AM_:
 
 Edu - TEC Steward.
 
-[@New Member GM everyone! Orientation call starts in an hour! On the Community Hall Voice Channel! Looking forward to connect with y'all!  (edited)](about:blank#)
+@New Member GM everyone! Orientation call starts in an hour! On the Community Hall Voice Channel! Looking forward to connect with y'all!  (edited)
 
 ![https://cdn.discordapp.com/embed/avatars/2.png](https://cdn.discordapp.com/embed/avatars/2.png)
 
@@ -6531,7 +6531,7 @@ Where's the link for the call??
 
 Sohan
 
-[Where's the link for the call??](about:blank#)
+Where's the link for the call??
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6550,7 +6550,7 @@ Ohh, great, alright, its starting in 26 minutes to be precise, right?
 
 Sohan
 
-[Ohh, great, alright, its starting in 26 minutes to be precise, right?](about:blank#)
+Ohh, great, alright, its starting in 26 minutes to be precise, right?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6568,7 +6568,7 @@ Alright, and do you guys have a call tomorrow too incase i miss today's call?
 
 Sohan
 
-[Alright, and do you guys have a call tomorrow too incase i miss today's call?](about:blank#)
+Alright, and do you guys have a call tomorrow too incase i miss today's call?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6601,7 +6601,7 @@ Co-own and co-create the global home for underground electronic culture. Join th
 
 jonty_harrison
 
-[Hi everyone. @zadok7.eth kindly brought me here. I'm on the lookout for potential DAO advisors with an interest in electronic music. I'm currently building a DAO with a mission to own and operate a global network of nightclubs. More info here:](about:blank#)
+Hi everyone. @zadok7.eth kindly brought me here. I'm on the lookout for potential DAO advisors with an interest in electronic music. I'm currently building a DAO with a mission to own and operate a global network of nightclubs. More info here:
 
 [https://www.twtdao.xyz/about](https://www.twtdao.xyz/about)
 
@@ -6617,7 +6617,7 @@ Hello there! @chuygarcia.eth is also interested on the entertainment industry! I
 
 jonty_harrison
 
-[Hi everyone. @zadok7.eth kindly brought me here. I'm on the lookout for potential DAO advisors with an interest in electronic music. I'm currently building a DAO with a mission to own and operate a global network of nightclubs. More info here:](about:blank#)
+Hi everyone. @zadok7.eth kindly brought me here. I'm on the lookout for potential DAO advisors with an interest in electronic music. I'm currently building a DAO with a mission to own and operate a global network of nightclubs. More info here:
 
 [https://www.twtdao.xyz/about](https://www.twtdao.xyz/about)
 
@@ -6654,7 +6654,7 @@ Appreciate！any chinese folk group here？
 
 Edu - TEC Steward.
 
-[@New Member Community Call is happenning now! Praise and Working Groups recap!](about:blank#)
+@New Member Community Call is happenning now! Praise and Working Groups recap!
 
 <h3>lee0007 <img src="https://cdn.discordapp.com/avatars/842640544101433354/dafcc01362d2905006e021db4bc0932f.png" width=25 height=25></h3>
 
@@ -6666,7 +6666,7 @@ I've attended a community call couple of weeks back, and prob. three param party
 
 lee0007
 
-[I've attended a community call couple of weeks back, and prob. three param party and debate how long do we continue to get pings from this channel?](about:blank#)
+I've attended a community call couple of weeks back, and prob. three param party and debate how long do we continue to get pings from this channel?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6720,7 +6720,7 @@ Steer protocol is a platform for cross-chain automated strategies with secure on
 
 Edu - TEC Steward.
 
-[Hello there @mango123, @Dozier, @Rare Vandal, @Derek Barrera! All you filled the form and we are honored that you choose the TEC as a possible partner for your projects! Would you like to share with our community a bit about your projects and what are you building at the moment?](about:blank#)
+Hello there @mango123, @Dozier, @Rare Vandal, @Derek Barrera! All you filled the form and we are honored that you choose the TEC as a possible partner for your projects! Would you like to share with our community a bit about your projects and what are you building at the moment?
 
 <h3>mango123 <img src="https://cdn.discordapp.com/avatars/851713311242584084/6f7b4858c821f56c764fb62325138b4a.png" width=25 height=25></h3>
 
@@ -6759,7 +6759,7 @@ oh maybe it's just me that can't see the events?
 
 Luis Otra Vez
 
-[for the next one, would it be possible for the event to be posted as a Discord Event?](about:blank#)
+for the next one, would it be possible for the event to be posted as a Discord Event?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6772,7 +6772,7 @@ noted! it slipped this week!
 
 Luis Otra Vez
 
-[I know there is calendars already but maybe that's easier to follow?](about:blank#)
+I know there is calendars already but maybe that's easier to follow?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6798,7 +6798,7 @@ Thank you all for the insightful meeting. Looking forward to join the community
 
 Luis Otra Vez
 
-[will join the next one!](about:blank#)
+will join the next one!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6812,7 +6812,7 @@ looking forward to see you there!
 
 iori1748
 
-[Thank you all for the insightful meeting. Looking forward to join the community](about:blank#)
+Thank you all for the insightful meeting. Looking forward to join the community
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6837,7 +6837,7 @@ How do I shed my New Member status?
 
 Michael Keating
 
-[How do I shed my New Member status?](about:blank#)
+How do I shed my New Member status?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6875,7 +6875,7 @@ _11-Dec-21 08:20 PM_:
 
 bentolman
 
-[I love all of this so much ❤️](about:blank#)
+I love all of this so much ❤️
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6975,7 +6975,7 @@ here.
 
 gene
 
-[and welcome to you @Morpheus How can we feed you're curiosity and convince you this is the ..️ ?  Don't worry, only **Agents** for **Good** here.](about:blank#) 
+and welcome to you @Morpheus How can we feed you're curiosity and convince you this is the ..️ ?  Don't worry, only **Agents** for **Good** here. 
 
 ![https://twemoji.maxcdn.com/2/72x72/261d.png](https://twemoji.maxcdn.com/2/72x72/261d.png)
 
@@ -6999,7 +6999,7 @@ I wanted to know more about your product before I asked any questions, (and in t
 
 gene
 
-[and welcome to you @Morpheus How can we feed you're curiosity and convince you this is the ..️ ?  Don't worry, only **Agents** for **Good** here.](about:blank#) 
+and welcome to you @Morpheus How can we feed you're curiosity and convince you this is the ..️ ?  Don't worry, only **Agents** for **Good** here. 
 
 ![https://twemoji.maxcdn.com/2/72x72/261d.png](https://twemoji.maxcdn.com/2/72x72/261d.png)
 
@@ -7017,7 +7017,7 @@ I wonder if the project will be usable / transcribed on Tezos, because I find th
 
 Morpheus
 
-[Hello, thanks for asking the question. And for your benevolence! After attending the meeting, I am not sure that I have seized all the opportunities that the project brings. Tokenomics are my daily life today, so I slipped you into my "to do list"  I wanted to know more about your product before I asked any questions, (and in the short term I'm busy), but seeing as you ask ^^ I understood that a dao can organize its bonding curve, however I have the impression that it is necessary to limit itself to buying / selling. and I do not know if it is a simple complementary tool or if your project is supposed to manage the whole of the offer. my curiosity is to know if the tools also make it possible to manage a currency which does not have its fixed supply, or which is not premine. For some projects, my creativity pushed me to choose that some actions of a protocol allow to have an inflationary action and others to burn. If the tool allows a natively centralized protocol to become fully decentralized a few months later, it's exciting, if the tool is only intended for natively dao projects, that's fine too, but will not cover not my medium term need.  (edited)](about:blank#)
+Hello, thanks for asking the question. And for your benevolence! After attending the meeting, I am not sure that I have seized all the opportunities that the project brings. Tokenomics are my daily life today, so I slipped you into my "to do list"  I wanted to know more about your product before I asked any questions, (and in the short term I'm busy), but seeing as you ask ^^ I understood that a dao can organize its bonding curve, however I have the impression that it is necessary to limit itself to buying / selling. and I do not know if it is a simple complementary tool or if your project is supposed to manage the whole of the offer. my curiosity is to know if the tools also make it possible to manage a currency which does not have its fixed supply, or which is not premine. For some projects, my creativity pushed me to choose that some actions of a protocol allow to have an inflationary action and others to burn. If the tool allows a natively centralized protocol to become fully decentralized a few months later, it's exciting, if the tool is only intended for natively dao projects, that's fine too, but will not cover not my medium term need.  (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f605.png](https://twemoji.maxcdn.com/2/72x72/1f605.png)
 
@@ -7138,7 +7138,7 @@ hello
 
 Risen
 
-[hello](about:blank#)
+hello
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -7201,7 +7201,7 @@ I had problems with my audio and couldn't hear anything that you were saying @Ed
 
 UniPuff 🜐🐙
 
-[I had problems with my audio and couldn't hear anything that you were saying @Edu - TEC Steward. some minutes ago, so you can repeat any questions here.](about:blank#) 
+I had problems with my audio and couldn't hear anything that you were saying @Edu - TEC Steward. some minutes ago, so you can repeat any questions here. 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f60a.png](https://twemoji.maxcdn.com/2/72x72/1f60a.png)
 
@@ -7225,7 +7225,7 @@ Here some cross-chain projects about research and R&D in Governance. (edited)
 
 JBZ
 
-[I cannot connect! This is on-going, as I've tried many times to get into the orientation voice channel with no success...](about:blank#)
+I cannot connect! This is on-going, as I've tried many times to get into the orientation voice channel with no success...
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -7254,7 +7254,7 @@ With Google's free online calendar, it’s easy to keep track of life’s import
 
 gene
 
-[@Slacking We're delighted that you found your way to our community discord! Taking a leap of faith following griff somewhere is never a bad option in my experience   Have you found a particular topic while exploring web3, DAOs, and token engineering that interests you the most? If you haven't attended an orientation yet, we will go over the various resources and working groups this Wednesday!](about:blank#)
+@Slacking We're delighted that you found your way to our community discord! Taking a leap of faith following griff somewhere is never a bad option in my experience   Have you found a particular topic while exploring web3, DAOs, and token engineering that interests you the most? If you haven't attended an orientation yet, we will go over the various resources and working groups this Wednesday!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f605.png](https://twemoji.maxcdn.com/2/72x72/1f605.png)
 
@@ -7282,7 +7282,7 @@ Design a Commons and propose it to the TEC community.
 
 Slacking
 
-[thank you gene! I was looking at the calls and wasn't sure which one was for newcomers exactly, but your suggestion helps! I've been more into the tokenization from the financial/economic perspective predominantly. I also just enjoy DAO "watching" i.e seeing participant behaviours](about:blank#)
+thank you gene! I was looking at the calls and wasn't sure which one was for newcomers exactly, but your suggestion helps! I've been more into the tokenization from the financial/economic perspective predominantly. I also just enjoy DAO "watching" i.e seeing participant behaviours
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -7354,7 +7354,7 @@ Hope to do something for the great community
 
 gene
 
-[@omobhThanks for your interest in the TEC! and Congratulations for demonstrating the wisdom required to discern the signal from the noise on the infamous "Crypto Twitter"!  We're delighted you're here and would encourage you to come learn more at our next orientation this Wednesday morning at 9 PST, or feel free to AMA and I'd be happy to offer you guidance!](about:blank#)   
+@omobhThanks for your interest in the TEC! and Congratulations for demonstrating the wisdom required to discern the signal from the noise on the infamous "Crypto Twitter"!  We're delighted you're here and would encourage you to come learn more at our next orientation this Wednesday morning at 9 PST, or feel free to AMA and I'd be happy to offer you guidance!   
 
 ![https://twemoji.maxcdn.com/2/72x72/1f605.png](https://twemoji.maxcdn.com/2/72x72/1f605.png)
 
@@ -7374,7 +7374,7 @@ thanks very much! Im trying to be part of this community but Im so busy at work 
 
 omobh
 
-[thanks very much! Im trying to be part of this community but Im so busy at work in these days. Happy to be here!](about:blank#)
+thanks very much! Im trying to be part of this community but Im so busy at work in these days. Happy to be here!
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -7395,7 +7395,7 @@ if you can potentially spare a few minutes though 6-7 hrs from now, we'd love to
 
 yzh811
 
-[Gm,nice to here](about:blank#)
+Gm,nice to here
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -7447,7 +7447,7 @@ Would you have the time or bandwidth to join us in the Community Hall voice chan
 
 gene
 
-[hello @coyotespike we're delighted that you've joined us here in the TEC! Honestly we are all still learning everything all the time, so it demonstrates great humility that you acknowledge that as well while obviously being a functioning professional    Would you have the time or bandwidth to join us in the Community Hall voice channel in just over an hour for a New Member Community orientation call? If today doesn't work, we do it every Wednesday at 9am PST. ️ Feel free to msg me or any steward. My DMs in particular are always open.    (edited)](about:blank#)
+hello @coyotespike we're delighted that you've joined us here in the TEC! Honestly we are all still learning everything all the time, so it demonstrates great humility that you acknowledge that as well while obviously being a functioning professional    Would you have the time or bandwidth to join us in the Community Hall voice channel in just over an hour for a New Member Community orientation call? If today doesn't work, we do it every Wednesday at 9am PST. ️ Feel free to msg me or any steward. My DMs in particular are always open.    (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f9e0.png](https://twemoji.maxcdn.com/2/72x72/1f9e0.png)
 
@@ -7472,7 +7472,7 @@ aww thank you @gene! I was sick then and the next few weeks look a little nuts b
 
 coyotespike
 
-[aww thank you @gene! I was sick then and the next few weeks look a little nuts but I look forward to joining toward the end of Jan!](about:blank#)
+aww thank you @gene! I was sick then and the next few weeks look a little nuts but I look forward to joining toward the end of Jan!
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -7494,7 +7494,7 @@ Hello
 
 JPEGbodega
 
-[Hello](about:blank#)
+Hello
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -7543,7 +7543,7 @@ Discord is the easiest way to communicate over voice, video, and text. Chat, han
 
 JonathanWein
 
-[Thanks for the orientation invite. I'm afraid I was lost. Didn't read the background required to follow along and wasn't able to find the documents being discussed. I was asked to sign a "doodle" and couldn't find it. Spent 20 min looking through discord and found the commons upgrade presentation here:](about:blank#)
+Thanks for the orientation invite. I'm afraid I was lost. Didn't read the background required to follow along and wasn't able to find the documents being discussed. I was asked to sign a "doodle" and couldn't find it. Spent 20 min looking through discord and found the commons upgrade presentation here:
 
 [https://discord.com/channels/810180621930070088/810180622479917063/927985765953183744](https://discord.com/channels/810180621930070088/810180622479917063/927985765953183744)
 
@@ -7577,7 +7577,7 @@ we still doing it?
 
 Ezekiel_Solomons
 
-[greetings don't we have at 6 CET a meeting?](about:blank#)
+greetings don't we have at 6 CET a meeting?
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -7589,7 +7589,7 @@ Hi @Ezekiel_Solomons The orientation call is Wed at 6pm CET, so it happened yest
 
 Tam2140
 
-[Hi @Ezekiel_Solomons The orientation call is Wed at 6pm CET, so it happened yesterday. We will soon have the weekly Community call which will give you a high level overview of what the Working Groups have been up to. It's at 8pm CET on the Community Hall voice channel.](about:blank#)
+Hi @Ezekiel_Solomons The orientation call is Wed at 6pm CET, so it happened yesterday. We will soon have the weekly Community call which will give you a high level overview of what the Working Groups have been up to. It's at 8pm CET on the Community Hall voice channel.
 
 <h3>Ezekiel_Solomons <img src="https://cdn.discordapp.com/avatars/685576579388276776/8ff15b7daaf8e488f8c4428478bf6291.png" width=25 height=25></h3>
 
@@ -7615,7 +7615,7 @@ What are good tools you guy use for creating DAOs and taking in votes and giving
 
 Apollo | Retroworld
 
-[What are good tools you guy use for creating DAOs and taking in votes and giving ideas for people to vote on. whats the best tool](about:blank#)
+What are good tools you guy use for creating DAOs and taking in votes and giving ideas for people to vote on. whats the best tool
 
 <h3>MΞLK <img src="https://cdn.discordapp.com/avatars/507916856821284894/c93063f3b6cdb694b839fe934fb569aa.png" width=25 height=25></h3>
 
@@ -7627,7 +7627,7 @@ Snapshot
 
 Apollo | Retroworld
 
-[What are good tools you guy use for creating DAOs and taking in votes and giving ideas for people to vote on. whats the best tool](about:blank#)
+What are good tools you guy use for creating DAOs and taking in votes and giving ideas for people to vote on. whats the best tool
 
 ![https://cdn.discordapp.com/avatars/782652975457239060/a_da51ce0e9e998d3da3d0f7528c7f2a09.gif](https://cdn.discordapp.com/avatars/782652975457239060/a_da51ce0e9e998d3da3d0f7528c7f2a09.gif)
 
@@ -7639,7 +7639,7 @@ zcq 09-Jan-22 01:28 PM
 
 Apollo | Retroworld
 
-[What are good tools you guy use for creating DAOs and taking in votes and giving ideas for people to vote on. whats the best tool](about:blank#)
+What are good tools you guy use for creating DAOs and taking in votes and giving ideas for people to vote on. whats the best tool
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -7663,7 +7663,7 @@ Hello all @New Member - This week's Orientation call is exceptionally cancelled 
 
 Tam2140
 
-[Hello all @New Member - This week's Orientation call is exceptionally cancelled today. The final debate for the Commons upgrade parameter proposals will happen on the #🤖｜parameters channel and we invite you all to join that instead and come back next week for the orientation call. Feel free to reach out to @Edu - TEC Steward. or myself if you have any questions in the mean time.](about:blank#)
+Hello all @New Member - This week's Orientation call is exceptionally cancelled today. The final debate for the Commons upgrade parameter proposals will happen on the #🤖｜parameters channel and we invite you all to join that instead and come back next week for the orientation call. Feel free to reach out to @Edu - TEC Steward. or myself if you have any questions in the mean time.
 
 <h3>gerlindgrosse <img src="https://cdn.discordapp.com/avatars/928414362417389608/81dec51ddcfcb548358b4fc108da5e99.png" width=25 height=25></h3>
 
@@ -7675,7 +7675,7 @@ What time? And where is the orientation call next week?
 
 gerlindgrosse
 
-[What time? And where is the orientation call next week?](about:blank#)
+What time? And where is the orientation call next week?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -7687,7 +7687,7 @@ Hello there! Orientation call will be for next Wednesday, 6PM CET, here on the C
 
 gerlindgrosse
 
-[What time? And where is the orientation call next week?](about:blank#)
+What time? And where is the orientation call next week?
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -7717,7 +7717,7 @@ Is there maybe a crashcourse for absolute beginners in web3 somewhere?
 
 gerlindgrosse
 
-[I am still not sure, if I can contribute anything to TEC if I am not a programming person. I would like to learn about web3-ideas and then bring that knowledge into school.](about:blank#)
+I am still not sure, if I can contribute anything to TEC if I am not a programming person. I would like to learn about web3-ideas and then bring that knowledge into school.
 
 <h3>Atotsm <img src="https://cdn.discordapp.com/avatars/834548116514013206/a0bff6c95bfc23e093941416f9510639.png" width=25 height=25></h3>
 
@@ -7729,7 +7729,7 @@ Some of my crypto I bought through Binance (an exchange). I also know people who
 
 gerlindgrosse
 
-[My task for today is buy my first crypto-currency. However, I feel very unsecure. I have opened a "Trust Wallet", but it doesn't work in the browser. Is it secure? Should I rather use a hardware wallet? With Bluetooth or without? Which currency? Thank you for helpful comments.](about:blank#)
+My task for today is buy my first crypto-currency. However, I feel very unsecure. I have opened a "Trust Wallet", but it doesn't work in the browser. Is it secure? Should I rather use a hardware wallet? With Bluetooth or without? Which currency? Thank you for helpful comments.
 
 <h3>Atotsm <img src="https://cdn.discordapp.com/avatars/834548116514013206/a0bff6c95bfc23e093941416f9510639.png" width=25 height=25></h3>
 
@@ -7747,7 +7747,7 @@ _17-Jan-22 03:15 PM_:
 
 gerlindgrosse
 
-[I am still not sure, if I can contribute anything to TEC if I am not a programming person. I would like to learn about web3-ideas and then bring that knowledge into school.](about:blank#)
+I am still not sure, if I can contribute anything to TEC if I am not a programming person. I would like to learn about web3-ideas and then bring that knowledge into school.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -7775,7 +7775,7 @@ The intention of this Working Group is to nurture, grow and guide the TEC commun
 
 Jeremy&TheGospelOfChange
 
-[I love this call. It shows the intention of care that is a latent resource for those of us new to the TEC. For me this information changes the way being new feels, more at ease less angsty wallflower](about:blank#)
+I love this call. It shows the intention of care that is a latent resource for those of us new to the TEC. For me this information changes the way being new feels, more at ease less angsty wallflower
 
 [https://youtu.be/WYMQMB7bC2s](https://youtu.be/WYMQMB7bC2s)
 
@@ -7802,7 +7802,7 @@ _19-Jan-22 10:24 AM_:
 
 Edu - TEC Steward.
 
-[@New Member Orientation call will start in an hour and half! Looking forward to welcome you to our community, bring your questions and curiosity. See y'all in a bit in the Community Hall Voice Channel!](about:blank#)
+@New Member Orientation call will start in an hour and half! Looking forward to welcome you to our community, bring your questions and curiosity. See y'all in a bit in the Community Hall Voice Channel!
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -7822,7 +7822,7 @@ what an efficient flow
 
 Edu - TEC Steward.
 
-[@New Member Orientation call will start in an hour and half! Looking forward to welcome you to our community, bring your questions and curiosity. See y'all in a bit in the Community Hall Voice Channel!](about:blank#)
+@New Member Orientation call will start in an hour and half! Looking forward to welcome you to our community, bring your questions and curiosity. See y'all in a bit in the Community Hall Voice Channel!
 
 <h3>gerlindgrosse <img src="https://cdn.discordapp.com/avatars/928414362417389608/81dec51ddcfcb548358b4fc108da5e99.png" width=25 height=25></h3>
 
@@ -7841,7 +7841,7 @@ _20-Jan-22 02:01 PM_:
 
 gerlindgrosse
 
-[Thank you for the invite. Unfortunately, couldn't attent. Is there a recording of the Session?](about:blank#)
+Thank you for the invite. Unfortunately, couldn't attent. Is there a recording of the Session?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -7901,7 +7901,7 @@ Hey all I am looking for some help here to untangle my praise situation. Apparen
 
 dawg
 
-[Hey all I am looking for some help here to untangle my praise situation. Apparently I was under the impression that the TE Server is the same as the TEC Server and never properly onboarded. NOw I missed the hatch and all but afaik there is some overlap between the commonsstack, te and tec praise accounting? Would love to have someone hepl](about:blank#)
+Hey all I am looking for some help here to untangle my praise situation. Apparently I was under the impression that the TE Server is the same as the TEC Server and never properly onboarded. NOw I missed the hatch and all but afaik there is some overlap between the commonsstack, te and tec praise accounting? Would love to have someone hepl
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -7921,7 +7921,7 @@ Hey all, I am taking the first steps in cryptocurrencies and blockchain world. N
 
 LinasGuru
 
-[Hey all, I am taking the first steps in cryptocurrencies and blockchain world. Nevertheless, I am trying to understand where could I start learning token creation mysteries (as non-tech guy - but I am eager to learn coding if needed). In other words, I have a good attitude but do not know where can I get hands-on experience. Is here anyone who could guide me or maybe offer internship in any position related to token creation/DAO?](about:blank#)
+Hey all, I am taking the first steps in cryptocurrencies and blockchain world. Nevertheless, I am trying to understand where could I start learning token creation mysteries (as non-tech guy - but I am eager to learn coding if needed). In other words, I have a good attitude but do not know where can I get hands-on experience. Is here anyone who could guide me or maybe offer internship in any position related to token creation/DAO?
 
 <h3>Atotsm <img src="https://cdn.discordapp.com/avatars/834548116514013206/a0bff6c95bfc23e093941416f9510639.png" width=25 height=25></h3>
 
@@ -7968,7 +7968,7 @@ Wednesday Feb. 3rd we will have an Orientation call at the Community Voice Chann
 
 mr.day
 
-[Hi guys, do have a new orientation meeting?](about:blank#)
+Hi guys, do have a new orientation meeting?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -8001,7 +8001,7 @@ Thanks!
 
 Apollo | Retroworld
 
-[What are good tools you guy use for creating DAOs and taking in votes and giving ideas for people to vote on. whats the best tool](about:blank#)
+What are good tools you guy use for creating DAOs and taking in votes and giving ideas for people to vote on. whats the best tool
 
 <h3>KnightStalker <img src="https://cdn.discordapp.com/avatars/597973844317306891/dbab4b5ae33cf06367b6ef3d0e0da0b7.png" width=25 height=25></h3>
 
@@ -8025,7 +8025,7 @@ _02-Feb-22 06:21 AM_:
 
 Edu - TEC Steward.
 
-[@New Member Just a quick reminder! We will be having orientation call **TODAY at 6PM CET / 12 PM EST at the Community Hall voice channel**. Join us at any moment of the call! And if you have any question, bring them, we will be more than happy to assist you!  (edited)](about:blank#)
+@New Member Just a quick reminder! We will be having orientation call **TODAY at 6PM CET / 12 PM EST at the Community Hall voice channel**. Join us at any moment of the call! And if you have any question, bring them, we will be more than happy to assist you!  (edited)
 
 <h3>Adebola🤴 <img src="https://cdn.discordapp.com/avatars/895772262513401919/ef246d9de98336c9cfd459eb8f675797.png" width=25 height=25></h3>
 
@@ -8037,7 +8037,7 @@ Cool
 
 Edu - TEC Steward.
 
-[@New Member Just a quick reminder! We will be having orientation call **TODAY at 6PM CET / 12 PM EST at the Community Hall voice channel**. Join us at any moment of the call! And if you have any question, bring them, we will be more than happy to assist you!  (edited)](about:blank#)
+@New Member Just a quick reminder! We will be having orientation call **TODAY at 6PM CET / 12 PM EST at the Community Hall voice channel**. Join us at any moment of the call! And if you have any question, bring them, we will be more than happy to assist you!  (edited)
 
 <h3>guccikudo <img src="https://cdn.discordapp.com/avatars/346599926769254402/5f3e305156086f3320db873723c62957.png" width=25 height=25></h3>
 
@@ -8055,7 +8055,7 @@ _02-Feb-22 01:26 PM_:
 
 guccikudo
 
-[@Edu - TEC Steward. Friendly reminder for the link to the academy discord. Would love to take part in the educational sessions](about:blank#)
+@Edu - TEC Steward. Friendly reminder for the link to the academy discord. Would love to take part in the educational sessions
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -8122,7 +8122,7 @@ It's so great to have you with us; how do you contribute with Hakka and what mig
 
 gene
 
-[@0x𐂂  Welcome Lucien  It's so great to have you with us; how do you contribute with Hakka and what might you be interested in here with us? ️](about:blank#)
+@0x𐂂  Welcome Lucien  It's so great to have you with us; how do you contribute with Hakka and what might you be interested in here with us? ️
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -8167,7 +8167,7 @@ just say hello
 
 ZGMF-X20A StrikeFreedom
 
-[just say hello](about:blank#)
+just say hello
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -8189,7 +8189,7 @@ When is the next orientation meeting, I went to one a while back but I wanted to
 
 divine
 
-[When is the next orientation meeting, I went to one a while back but I wanted to go to another one as I finally have some free time to contribute](about:blank#)
+When is the next orientation meeting, I went to one a while back but I wanted to go to another one as I finally have some free time to contribute
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -8207,7 +8207,7 @@ free time! Check this out
 
 nic
 
-[ free time! Check this out](about:blank#) 
+ free time! Check this out 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
 
@@ -8360,7 +8360,7 @@ I'm trained in nonviolent comunication and I saw there are some great working gr
 
 Mattia
 
-[Hello there, I'm social worker with background in ethics and sociology. Glad to see some social layer focus in this DAO  I'm trained in nonviolent comunication and I saw there are some great working groups: gravity, soft-gov and omega (although there are all great i'm sure). Unfortunately I can't attempt to orientation call but hope to be part of the journey](about:blank#) 
+Hello there, I'm social worker with background in ethics and sociology. Glad to see some social layer focus in this DAO  I'm trained in nonviolent comunication and I saw there are some great working groups: gravity, soft-gov and omega (although there are all great i'm sure). Unfortunately I can't attempt to orientation call but hope to be part of the journey 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
@@ -8382,7 +8382,7 @@ Welcome to my scheduling page. Please follow the instructions to add an event to
 
 Mattia
 
-[Hello there, I'm social worker with background in ethics and sociology. Glad to see some social layer focus in this DAO  I'm trained in nonviolent comunication and I saw there are some great working groups: gravity, soft-gov and omega (although there are all great i'm sure). Unfortunately I can't attempt to orientation call but hope to be part of the journey](about:blank#) 
+Hello there, I'm social worker with background in ethics and sociology. Glad to see some social layer focus in this DAO  I'm trained in nonviolent comunication and I saw there are some great working groups: gravity, soft-gov and omega (although there are all great i'm sure). Unfortunately I can't attempt to orientation call but hope to be part of the journey 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
@@ -8431,7 +8431,7 @@ _23-Feb-22 01:01 PM_:
 
 amylin.eth
 
-[@Edu - TEC Steward. apologies but had to run at 9:30 PST; had another meeting. If you can share the call, notes, deck, that would be great. Looking forward to learning and contributing in whatever ways I can.](about:blank#)
+@Edu - TEC Steward. apologies but had to run at 9:30 PST; had another meeting. If you can share the call, notes, deck, that would be great. Looking forward to learning and contributing in whatever ways I can.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -8477,7 +8477,7 @@ Hi everyone
 
 Edu - TEC Steward.
 
-[@New Member and @Hatcher, Community Call is about to start in a few minutes! Join, share your praise and check on the latest activity of our community! See y'all at the Community Hall Voice Channel!](about:blank#)
+@New Member and @Hatcher, Community Call is about to start in a few minutes! Join, share your praise and check on the latest activity of our community! See y'all at the Community Hall Voice Channel!
 
 <h3>jimscarver <img src="https://cdn.discordapp.com/avatars/257479465091858432/7c041560acc056c6ab4747f9ab080431.png" width=25 height=25></h3>
 
@@ -8490,7 +8490,7 @@ I've been unable to get my sound working on discord with bluetooth, my built-in 
 
 jimscarver
 
-[I've been unable to get my sound working on discord with bluetooth, my built-in mic is broke](about:blank#) 
+I've been unable to get my sound working on discord with bluetooth, my built-in mic is broke 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f626.png](https://twemoji.maxcdn.com/2/72x72/1f626.png)
 
@@ -8506,7 +8506,7 @@ Oh, sometimes discord doesn't work properly with that, have you tried choosing t
 
 jimscarver
 
-[I've been unable to get my sound working on discord with bluetooth, my built-in mic is broke](about:blank#) 
+I've been unable to get my sound working on discord with bluetooth, my built-in mic is broke 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f626.png](https://twemoji.maxcdn.com/2/72x72/1f626.png)
 
@@ -8520,7 +8520,7 @@ discord gave me nothing but grief when i tried to use anything but my internal m
 
 thatguy
 
-[discord gave me nothing but grief when i tried to use anything but my internal mic](about:blank#)
+discord gave me nothing but grief when i tried to use anything but my internal mic
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -8561,7 +8561,7 @@ _02-Mar-22 11:54 AM_:
 
 Edu - TEC Steward.
 
-[@New Member @Stewards Orientation Call is about to start in 5 minutes! See you on the Community Hall Voice Channel!](about:blank#)
+@New Member @Stewards Orientation Call is about to start in 5 minutes! See you on the Community Hall Voice Channel!
 
 ![https://cdn.discordapp.com/avatars/450493901531250699/a_de5d3493dcf340fe0699cd33aa6f2d50.gif](https://cdn.discordapp.com/avatars/450493901531250699/a_de5d3493dcf340fe0699cd33aa6f2d50.gif)
 
@@ -8598,7 +8598,7 @@ Hello I am new to the community, unfortunately I missed the community call, are 
 
 Marinière
 
-[Hello I am new to the community, unfortunately I missed the community call, are there some minutes or recording by chance?](about:blank#)
+Hello I am new to the community, unfortunately I missed the community call, are there some minutes or recording by chance?
 
 <h3>mattyjee <img src="https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png" width=25 height=25></h3>
 
@@ -8630,7 +8630,7 @@ Much appreciated!
 
 Mount Manu
 
-[A kind welcome to all of you,  new members of our community: @tsoler24 @ElCelaya @guccikudo @GrimGreener @electrick @0xMo11 @jcmuppet @sofianxyz @Verb4l @conanxin @Monni @KingArthur|UTC+1 @mikethepurple @luizfernando @waifu_jpeg @JayFrank @Catharsis @itsyaboi @tomguim @Ironiclast @forrist @Mooner Feel free to tag me, or any of the other onboarding guides such as @gene , alongside any questions you might have about the TEC  Some key dates for making your journey on the TEC easier: **NEXT WEEKLY ORIENTATION CALL**: Wednesday Feb. 9th we will have an Orientation call at the Community Voice Channel, at 6PM CET / 12PM EST. You can join at any moment!  (edited)](about:blank#)
+A kind welcome to all of you,  new members of our community: @tsoler24 @ElCelaya @guccikudo @GrimGreener @electrick @0xMo11 @jcmuppet @sofianxyz @Verb4l @conanxin @Monni @KingArthur|UTC+1 @mikethepurple @luizfernando @waifu_jpeg @JayFrank @Catharsis @itsyaboi @tomguim @Ironiclast @forrist @Mooner Feel free to tag me, or any of the other onboarding guides such as @gene , alongside any questions you might have about the TEC  Some key dates for making your journey on the TEC easier: **NEXT WEEKLY ORIENTATION CALL**: Wednesday Feb. 9th we will have an Orientation call at the Community Voice Channel, at 6PM CET / 12PM EST. You can join at any moment!  (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -8648,7 +8648,7 @@ hi, appreciate .. forgive me for not answer before but now i want to be more act
 
 Verb4l
 
-[hi, appreciate .. forgive me for not answer before but now i want to be more active in server](about:blank#)
+hi, appreciate .. forgive me for not answer before but now i want to be more active in server
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -8703,7 +8703,7 @@ Hey guys, I was referred here by a message in Seed Club. Definitely looking forw
 
 ItsKennyatta
 
-[Hey guys, I was referred here by a message in Seed Club. Definitely looking forward to learning more about the space and what you guys are building here.](about:blank#)
+Hey guys, I was referred here by a message in Seed Club. Definitely looking forward to learning more about the space and what you guys are building here.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -8719,7 +8719,7 @@ We host orientation calls every wednesday 6PM CET! Join next session if you can!
 
 Edu - TEC Steward.
 
-[Hey there! Nice to have you here! Would like to share what is the Seed club?  We host orientation calls every wednesday 6PM CET! Join next session if you can!](about:blank#)
+Hey there! Nice to have you here! Would like to share what is the Seed club?  We host orientation calls every wednesday 6PM CET! Join next session if you can!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -8733,7 +8733,7 @@ Gladly!
 
 Edu - TEC Steward.
 
-[Hey there! Nice to have you here! Would like to share what is the Seed club?  We host orientation calls every wednesday 6PM CET! Join next session if you can!](about:blank#)
+Hey there! Nice to have you here! Would like to share what is the Seed club?  We host orientation calls every wednesday 6PM CET! Join next session if you can!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -8748,7 +8748,7 @@ Seed Club is a DAO that helps Web3 communities build and scale
 
 ItsKennyatta
 
-[Seed Club is a DAO that helps Web3 communities build and scale](about:blank#)
+Seed Club is a DAO that helps Web3 communities build and scale
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -8799,7 +8799,7 @@ And I must say... you arrived just in time for our weekly Orientation call (on W
 
 Mount Manu
 
-[A warm welcome to all of you,  new members of our community: @jme @olarte @scatterbrained @Fernanda López @freya-tales @anderick @sadsahuarito @xdamman @Catharsis @alpine.lines @nicolasdb @Raha My name's Mount Manu and I'm an onboarding guide: feel free to tag me alongside any questions you might have about the TEC  Some key dates for making your journey on the TEC easier: **NEXT WEEKLY ORIENTATION CALL:** Wednesday March 16th we will have an Orientation call at the Community Voice Channel, at 6PM CET / 12PM EST. You can join at any moment! For your convenience, here's a calendar link to the event:](about:blank#)
+A warm welcome to all of you,  new members of our community: @jme @olarte @scatterbrained @Fernanda López @freya-tales @anderick @sadsahuarito @xdamman @Catharsis @alpine.lines @nicolasdb @Raha My name's Mount Manu and I'm an onboarding guide: feel free to tag me alongside any questions you might have about the TEC  Some key dates for making your journey on the TEC easier: **NEXT WEEKLY ORIENTATION CALL:** Wednesday March 16th we will have an Orientation call at the Community Voice Channel, at 6PM CET / 12PM EST. You can join at any moment! For your convenience, here's a calendar link to the event:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -8846,7 +8846,7 @@ You're also more than welcome to attend our weekly onboarding call this Wednesda
 
 Mount Manu
 
-[A warm welcome to all of you,  new members of our community: @jme @olarte @scatterbrained @Fernanda López @freya-tales @anderick @sadsahuarito @xdamman @Catharsis @alpine.lines @nicolasdb @Raha My name's Mount Manu and I'm an onboarding guide: feel free to tag me alongside any questions you might have about the TEC  Some key dates for making your journey on the TEC easier: **NEXT WEEKLY ORIENTATION CALL:** Wednesday March 16th we will have an Orientation call at the Community Voice Channel, at 6PM CET / 12PM EST. You can join at any moment! For your convenience, here's a calendar link to the event:](about:blank#)
+A warm welcome to all of you,  new members of our community: @jme @olarte @scatterbrained @Fernanda López @freya-tales @anderick @sadsahuarito @xdamman @Catharsis @alpine.lines @nicolasdb @Raha My name's Mount Manu and I'm an onboarding guide: feel free to tag me alongside any questions you might have about the TEC  Some key dates for making your journey on the TEC easier: **NEXT WEEKLY ORIENTATION CALL:** Wednesday March 16th we will have an Orientation call at the Community Voice Channel, at 6PM CET / 12PM EST. You can join at any moment! For your convenience, here's a calendar link to the event:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -8871,7 +8871,7 @@ nice to meet u guys! wish to join an early orientation call but has some mission
 
 freya-tales
 
-[Thank you for the warm welcome  nice to meet u guys! wish to join an early orientation call but has some mission to finish](about:blank#) 
+Thank you for the warm welcome  nice to meet u guys! wish to join an early orientation call but has some mission to finish 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f970.png](https://twemoji.maxcdn.com/2/72x72/1f970.png)
 
@@ -8956,7 +8956,7 @@ Enjoyed the call this am! Will attempt to join at 6MDT while running errands.
 
 irenioskamoska
 
-[Hi, I need a lil guidance here, I assisted an intro for the TEC fundamentals, is that the same as the orientation call? Another question: which is the 360 channel?](about:blank#)
+Hi, I need a lil guidance here, I assisted an intro for the TEC fundamentals, is that the same as the orientation call? Another question: which is the 360 channel?
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -8978,7 +8978,7 @@ Hi thanks for welcoming us! How can I join the upcoming presentation on TEC Prai
 
 Edu - TEC Steward.
 
-[@New Member @Stewards we will have orientation call in 30 minutes! Looking forward to talk with y'all at the Community Hall voice channel!  (edited)](about:blank#)
+@New Member @Stewards we will have orientation call in 30 minutes! Looking forward to talk with y'all at the Community Hall voice channel!  (edited)
 
 <h3>Joao <img src="https://cdn.discordapp.com/avatars/495173629189947392/953a9ed2187a316c49c6d3feef472b32.png" width=25 height=25></h3>
 
@@ -8990,7 +8990,7 @@ Hey Edu, is there a recording of yesterday call? I couldn't join because of a wo
 
 BRMbm
 
-[Hi thanks for welcoming us! How can I join the upcoming presentation on TEC Praise? Even better if it’s recorded as it’ll be 2am in my timezone](about:blank#) 
+Hi thanks for welcoming us! How can I join the upcoming presentation on TEC Praise? Even better if it’s recorded as it’ll be 2am in my timezone 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -9004,7 +9004,7 @@ Was being recorded... Are you like in NZ? (edited)
 
 Edu - TEC Steward.
 
-[You can also add the calendar event to yours:](about:blank#)
+You can also add the calendar event to yours:
 
 [https://calendar.google.com/calendar/r/eventedit/copy/bTliMGlxNGVrc29uYjAzZWY5djJndG5wZTFfMjAyMjAzMTZUMTcwMDAwWiA1bWtlcDFhZDFqODYwazZnN2k3ZnI4cGxxMEBn](https://calendar.google.com/calendar/r/eventedit/copy/bTliMGlxNGVrc29uYjAzZWY5djJndG5wZTFfMjAyMjAzMTZUMTcwMDAwWiA1bWtlcDFhZDFqODYwazZnN2k3ZnI4cGxxMEBn)
 
@@ -9024,7 +9024,7 @@ Call in 2 hours? (edited)
 
 Joao
 
-[Hey Edu, is there a recording of yesterday call? I couldn't join because of a working meeting but will be joining next week one.](about:blank#)
+Hey Edu, is there a recording of yesterday call? I couldn't join because of a working meeting but will be joining next week one.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9036,7 +9036,7 @@ Hey Joao! No sadly there isn't, we can provide a 1-1 or you can check the presen
 
 WaKa
 
-[Call in 2 hours?  (edited)](about:blank#)
+Call in 2 hours?  (edited)
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9048,7 +9048,7 @@ yes! It is the community Call, so you can learn what are the Working Groups are 
 
 Edu - TEC Steward.
 
-[Welcome @Melody, @CryptoReuMD, @julianki, @The Prophet Margin and @BRMbm! Thanks for joining and filling the survey! We love new members who came from our related communities! We would love to invite you to our next orientation call, today at 6PM CET, at the Community Hall Voice Channel! feel free to drop any question here if you can't assist!](about:blank#)
+Welcome @Melody, @CryptoReuMD, @julianki, @The Prophet Margin and @BRMbm! Thanks for joining and filling the survey! We love new members who came from our related communities! We would love to invite you to our next orientation call, today at 6PM CET, at the Community Hall Voice Channel! feel free to drop any question here if you can't assist!
 
 <h3>no_planet_b | PST <img src="https://cdn.discordapp.com/avatars/255832236555894794/317ec9dc4d448ecf069e2fbe29a7ebbe.png" width=25 height=25></h3>
 
@@ -9064,7 +9064,7 @@ Wondering how I can get involved as a contributor to learn more
 
 Edu - TEC Steward.
 
-[Hey Joao! No sadly there isn't, we can provide a 1-1 or you can check the presentation I shared here!](about:blank#)
+Hey Joao! No sadly there isn't, we can provide a 1-1 or you can check the presentation I shared here!
 
 <h3>Joao <img src="https://cdn.discordapp.com/avatars/495173629189947392/953a9ed2187a316c49c6d3feef472b32.png" width=25 height=25></h3>
 
@@ -9076,7 +9076,7 @@ I went through the presentation. Well a 1-1 would be great, maybe we could combi
 
 no_planet_b | PST
 
-[Hi - does the call happen at the same time every week?](about:blank#)
+Hi - does the call happen at the same time every week?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9088,7 +9088,7 @@ Hey there! indeed it is! We can book a 1-1, if your agenda is tight for joining 
 
 Joao
 
-[I went through the presentation. Well a 1-1 would be great, maybe we could combine with other people who have missed it if possible? I am currently in Thailand so GMT+7 time zone. Also is it hard to catch up on next week call having missed this previous one?](about:blank#)
+I went through the presentation. Well a 1-1 would be great, maybe we could combine with other people who have missed it if possible? I am currently in Thailand so GMT+7 time zone. Also is it hard to catch up on next week call having missed this previous one?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9108,7 +9108,7 @@ _17-Mar-22 02:01 PM_:
 
 no_planet_b | PST
 
-[My name is John and I work for Gnosis as their community developer. It would be great to implement the praise reward system for our validator community.](about:blank#)
+My name is John and I work for Gnosis as their community developer. It would be great to implement the praise reward system for our validator community.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9127,7 +9127,7 @@ I am a Community Steward for [https://tecommons.org/](https://tecommons.org/), C
 
 Joao
 
-[I went through the presentation. Well a 1-1 would be great, maybe we could combine with other people who have missed it if possible? I am currently in Thailand so GMT+7 time zone. Also is it hard to catch up on next week call having missed this previous one?](about:blank#)
+I went through the presentation. Well a 1-1 would be great, maybe we could combine with other people who have missed it if possible? I am currently in Thailand so GMT+7 time zone. Also is it hard to catch up on next week call having missed this previous one?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9141,7 +9141,7 @@ Maybe @Mount Manu that fits your time zone?
 
 Joao
 
-[I went through the presentation. Well a 1-1 would be great, maybe we could combine with other people who have missed it if possible? I am currently in Thailand so GMT+7 time zone. Also is it hard to catch up on next week call having missed this previous one?](about:blank#)
+I went through the presentation. Well a 1-1 would be great, maybe we could combine with other people who have missed it if possible? I am currently in Thailand so GMT+7 time zone. Also is it hard to catch up on next week call having missed this previous one?
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -9161,7 +9161,7 @@ Thank you @Edu - TEC Steward. and @Mount Manu. Just replied to your dm
 
 Joao
 
-[Thank you @Edu - TEC Steward. and @Mount Manu. Just replied to your dm](about:blank#) 
+Thank you @Edu - TEC Steward. and @Mount Manu. Just replied to your dm 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f609.png](https://twemoji.maxcdn.com/2/72x72/1f609.png)
 
@@ -9175,7 +9175,7 @@ Hi guys Can I still join this meeting?
 
 Dwkt
 
-[Hi guys Can I still join this meeting?](about:blank#)
+Hi guys Can I still join this meeting?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9187,7 +9187,7 @@ Always, we are doing recap of the Working groups!
 
 Dwkt
 
-[Hi guys Can I still join this meeting?](about:blank#)
+Hi guys Can I still join this meeting?
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -9199,7 +9199,7 @@ Que onda Dwkt! Ya que ya lo coordinamos un poco a través de Telegram, enseguida
 
 WaKa
 
-[Was being recorded... Are you like in NZ?  (edited)](about:blank#)
+Was being recorded... Are you like in NZ?  (edited)
 
 <h3>BRMbm <img src="https://cdn.discordapp.com/avatars/909031155599310888/ca379b26be0afb61471dc19697f4f2c2.png" width=25 height=25></h3>
 
@@ -9214,7 +9214,7 @@ Australia - not far from NZ. Could you please let me know where I can find recor
 
 BRMbm
 
-[Australia - not far from NZ. Could you please let me know where I can find recorded sessions? Thanks](about:blank#) 
+Australia - not far from NZ. Could you please let me know where I can find recorded sessions? Thanks 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
@@ -9237,7 +9237,7 @@ The Token Engineering Commons is building the tools for safe digital economies t
 
 enti
 
-[everything is here!](about:blank#)
+everything is here!
 
 [https://www.youtube.com/c/TokenEngineeringCommons](https://www.youtube.com/c/TokenEngineeringCommons)
 
@@ -9319,7 +9319,7 @@ When is the orientation @Mount Manu (edited)
 
 Shardul
 
-[When is the orientation @Mount Manu  (edited)](about:blank#)
+When is the orientation @Mount Manu  (edited)
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -9337,7 +9337,7 @@ Got it thank you. It is 12PM EST rn, so I thought it might have started.
 
 Shardul
 
-[Got it thank you. It is 12PM EST rn, so I thought it might have started.](about:blank#)
+Got it thank you. It is 12PM EST rn, so I thought it might have started.
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -9351,7 +9351,7 @@ sure, you can check #📆｜calendars or the built-in discord calendar next time
 
 Shardul
 
-[Got it thank you. It is 12PM EST rn, so I thought it might have started.](about:blank#)
+Got it thank you. It is 12PM EST rn, so I thought it might have started.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9371,7 +9371,7 @@ _23-Mar-22 12:57 PM_:
 
 Edu - TEC Steward.
 
-[@New Member @Stewards Orientation call starts now! See y'all in the Community Hall Voice Channel, feel free to hop in whenever you want!  (edited)](about:blank#)
+@New Member @Stewards Orientation call starts now! See y'all in the Community Hall Voice Channel, feel free to hop in whenever you want!  (edited)
 
 <h3>sandrabubbles.btc <img src="https://cdn.discordapp.com/avatars/917879013228302398/4fb678be8c4d60ecf4ca50de649e1526.png" width=25 height=25></h3>
 
@@ -9412,7 +9412,7 @@ Hi everyone, how could I get praising powers?
 
 bear100
 
-[Hi everyone, how could I get praising powers?](about:blank#)
+Hi everyone, how could I get praising powers?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9425,7 +9425,7 @@ Done! ❤️
 
 Edu - TEC Steward.
 
-[Done! ❤️](about:blank#)
+Done! ❤️
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -9496,7 +9496,7 @@ With Google's free online calendar, it’s easy to keep track of life’s import
 
 Mount Manu
 
-[Welcome to the  @Mr_Gesier @Hamza. @JMoss @Romulus @evanjacobs @Knox My name's Mount Manu and I'll be your onboarding guide: feel free to tag me alongside any questions you might have about our community  You might be wondering *"cool, thanks! but what now?"* Well, our next weekly sync call is this **Thursday March 31st** in our Community Voice Channel, at 7 PM CET / 1 PM EST. You're invited and you may join at any moment! For your convenience, here's a calendar link to the event:](about:blank#)
+Welcome to the  @Mr_Gesier @Hamza. @JMoss @Romulus @evanjacobs @Knox My name's Mount Manu and I'll be your onboarding guide: feel free to tag me alongside any questions you might have about our community  You might be wondering *"cool, thanks! but what now?"* Well, our next weekly sync call is this **Thursday March 31st** in our Community Voice Channel, at 7 PM CET / 1 PM EST. You're invited and you may join at any moment! For your convenience, here's a calendar link to the event:
 
 ![https://cdn.discordapp.com/emojis/835017653306654730.png](https://cdn.discordapp.com/emojis/835017653306654730.png)
 
@@ -9676,7 +9676,7 @@ We are happy that you come from a close project such as Giveth. Could you tell u
 
 Costa
 
-[Hi there @jasontphelpsNH! Welcome to the Token Engineering Commons  Our next weekly sync call is this Thursday, April 7th, in our Community Voice Channel, at 7 PM CET / 1 PM EST. You're invited and you may join at any moment! Here's a calendar link to the event:](about:blank#)
+Hi there @jasontphelpsNH! Welcome to the Token Engineering Commons  Our next weekly sync call is this Thursday, April 7th, in our Community Voice Channel, at 7 PM CET / 1 PM EST. You're invited and you may join at any moment! Here's a calendar link to the event:
 
 ![https://cdn.discordapp.com/emojis/835017653306654730.png](https://cdn.discordapp.com/emojis/835017653306654730.png)
 
@@ -9694,7 +9694,7 @@ Thank you for the call info! Gitcoin is a nexus of a lot of great projects pokin
 
 Costa
 
-[Hello @FMurphy Welcome to the Token Engineering Commons  Our next weekly sync call is this Thursday, April 7th, in our Community Voice Channel, at 7 PM CET / 1 PM EST. You're invited and you may join at any moment! Here's a calendar link to the event:](about:blank#)
+Hello @FMurphy Welcome to the Token Engineering Commons  Our next weekly sync call is this Thursday, April 7th, in our Community Voice Channel, at 7 PM CET / 1 PM EST. You're invited and you may join at any moment! Here's a calendar link to the event:
 
 ![https://cdn.discordapp.com/emojis/835017653306654730.png](https://cdn.discordapp.com/emojis/835017653306654730.png)
 
@@ -9718,7 +9718,7 @@ hey hey is there any way @Jeanne can gain a praise giver role?
 
 nic
 
-[hey hey is there any way @Jeanne can gain a praise giver role?](about:blank#)
+hey hey is there any way @Jeanne can gain a praise giver role?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9731,7 +9731,7 @@ Done Nic!
 
 Edu - TEC Steward.
 
-[Done Nic!](about:blank#) 
+Done Nic! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -9745,7 +9745,7 @@ thank you so much! Really appreciate it!
 
 nic
 
-[thank you so much! Really appreciate it!](about:blank#)
+thank you so much! Really appreciate it!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9758,7 +9758,7 @@ Thank you for taking care!
 
 jasontphelpsNH
 
-[Thank you for the call info! Gitcoin is a nexus of a lot of great projects poking at the future as I've come to understand it. Reading through links in their materials TEC stood out to me as an example of the human wrapper on the technology in play. I worked in software from 1994 through 2017 after which I launched a meadery/cidery which ran until Dec 2021. I had been a homebrewer/speaker/educator from the early 2000's. That info makes the huge transition (software to wine) much less of a ? I am not so much looking to be a software engineer, but use my knowledge of it, the process, the roles, organizational choices, etc around it to do something cool. Investing in crypto (new to me in 2021) led me to look deeper and I am excited about what I found. Cheers!  (edited)](about:blank#)
+Thank you for the call info! Gitcoin is a nexus of a lot of great projects poking at the future as I've come to understand it. Reading through links in their materials TEC stood out to me as an example of the human wrapper on the technology in play. I worked in software from 1994 through 2017 after which I launched a meadery/cidery which ran until Dec 2021. I had been a homebrewer/speaker/educator from the early 2000's. That info makes the huge transition (software to wine) much less of a ? I am not so much looking to be a software engineer, but use my knowledge of it, the process, the roles, organizational choices, etc around it to do something cool. Investing in crypto (new to me in 2021) led me to look deeper and I am excited about what I found. Cheers!  (edited)
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9771,7 +9771,7 @@ Hello! Thanks for sharing your story! It's always interesting to know the backgr
 
 FMurphy
 
-[Hi all and thanks for the welcome and invite to the community call tomorrow. The Aragon proposal was called the Umbrella Proposal, which requested funding to pay for Graviton Trainings with TEC and to establish the Umbrella Team to deal with intra and external DAO conflicts. The proposal passed and the team has its first meeting tomorrow with trainings starting the end of this month. Hope I can make tomorrows call and get a better understanding of the TEC project.  (edited)](about:blank#)
+Hi all and thanks for the welcome and invite to the community call tomorrow. The Aragon proposal was called the Umbrella Proposal, which requested funding to pay for Graviton Trainings with TEC and to establish the Umbrella Team to deal with intra and external DAO conflicts. The proposal passed and the team has its first meeting tomorrow with trainings starting the end of this month. Hope I can make tomorrows call and get a better understanding of the TEC project.  (edited)
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9784,7 +9784,7 @@ Graviton training is a great initiative by #🕊｜gravity and @Juankbell! Looki
 
 Edu - TEC Steward.
 
-[Hello! Thanks for sharing your story! It's always interesting to know the background of the folks who arrive to this corner of the web3 space. Did you find something on our materials that caught your attention or that you felt needed clarification?](about:blank#) 
+Hello! Thanks for sharing your story! It's always interesting to know the background of the folks who arrive to this corner of the web3 space. Did you find something on our materials that caught your attention or that you felt needed clarification? 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -9798,7 +9798,7 @@ Nothing specific. Wondering how to get involved in tasks to write/edit/review ma
 
 jasontphelpsNH
 
-[Nothing specific. Wondering how to get involved in tasks to write/edit/review materials being created for the community. Looking to continue to help people approach new concepts and technology.](about:blank#)
+Nothing specific. Wondering how to get involved in tasks to write/edit/review materials being created for the community. Looking to continue to help people approach new concepts and technology.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9812,7 +9812,7 @@ There is a team called the "Writter's Guild", maybe @Gideonro can point you on t
 
 Edu - TEC Steward.
 
-[There is a team called the "Writter's Guild", maybe @Gideonro can point you on the right direction](about:blank#) 
+There is a team called the "Writter's Guild", maybe @Gideonro can point you on the right direction 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -9847,7 +9847,7 @@ _07-Apr-22 12:49 PM_:
 
 Edu - TEC Steward.
 
-[@New Member Orientation call starts in 10 minutes! Looking forward to meet you all on the Community Voice Channel! Join me and the TEC @Stewards, presenting our community and answering your questions! Feel free to join at any moment.](about:blank#)
+@New Member Orientation call starts in 10 minutes! Looking forward to meet you all on the Community Voice Channel! Join me and the TEC @Stewards, presenting our community and answering your questions! Feel free to join at any moment.
 
 <h3>stellaachenbach <img src="https://cdn.discordapp.com/avatars/443420888243896320/a9f946a9cfc143366456faa07f247e58.png" width=25 height=25></h3>
 
@@ -9866,7 +9866,7 @@ On my way!
 
 stellaachenbach
 
-[Great will do](about:blank#) 
+Great will do 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -9888,7 +9888,7 @@ Hello and welcome to the TEC! We´re happy you´re here!
 
 Edu - TEC Steward.
 
-[Oh Stella, you are on the wrong channel!](about:blank#)
+Oh Stella, you are on the wrong channel!
 
 <h3>stellaachenbach <img src="https://cdn.discordapp.com/avatars/443420888243896320/a9f946a9cfc143366456faa07f247e58.png" width=25 height=25></h3>
 
@@ -9905,7 +9905,7 @@ But I am here now
 
 stellaachenbach
 
-[Yes I thought I had some time to listen in on the other event](about:blank#) 
+Yes I thought I had some time to listen in on the other event 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -9941,7 +9941,7 @@ Twitter
 
 stellaachenbach
 
-[Yes I thought I had some time to listen in on the other event](about:blank#) 
+Yes I thought I had some time to listen in on the other event 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -9998,7 +9998,7 @@ Hi TEC! I'm Patrick. We (a two-person team) have been working to establish River
 
 Patrick | River
 
-[Hi TEC! I'm Patrick. We (a two-person team) have been working to establish River Coop, a nonprofit social-environmental impact cooperative. We are now building out our infrastructure — our token, gardens and a gnosis safe — and learning a bunch in the process. We are moving (very) slowly, are not taking on VC funding and are building an app to enable people to build campaigns and to fund small and large initiatives. River will strive to become closely aligned with and in some way be beneficial to TEC and the 1Hive/Giveth/Commons Stack/TEC ecosystem. I read a "Treasury Management in Gardens" post on 1Hive's forum yesterday. It mentions that TEC is using wxDAI as a request token for your Garden. If this is accurate, it is something I have not considered and would love to know more. (Our token, SILT, will be a stable token. Basing it on DAI – wxDAI for low fees – makes a ton of sense. Maybe I can sit in on a sync call next week to learn more. We'd love to evolve into a supportive partner and contributor in some way. Thanks for what you do!](about:blank#) 
+Hi TEC! I'm Patrick. We (a two-person team) have been working to establish River Coop, a nonprofit social-environmental impact cooperative. We are now building out our infrastructure — our token, gardens and a gnosis safe — and learning a bunch in the process. We are moving (very) slowly, are not taking on VC funding and are building an app to enable people to build campaigns and to fund small and large initiatives. River will strive to become closely aligned with and in some way be beneficial to TEC and the 1Hive/Giveth/Commons Stack/TEC ecosystem. I read a "Treasury Management in Gardens" post on 1Hive's forum yesterday. It mentions that TEC is using wxDAI as a request token for your Garden. If this is accurate, it is something I have not considered and would love to know more. (Our token, SILT, will be a stable token. Basing it on DAI – wxDAI for low fees – makes a ton of sense. Maybe I can sit in on a sync call next week to learn more. We'd love to evolve into a supportive partner and contributor in some way. Thanks for what you do! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f33f.png](https://twemoji.maxcdn.com/2/72x72/1f33f.png)
 
@@ -10021,7 +10021,7 @@ Let me know!
 
 Mount Manu
 
-[Hi Patrick  Thanks for reaching out! You're welcome to join any of our syncs this week but if you'd like a response that's tailored to your particular query, I'd be game to get on a call with you and answer any questions you might have about our community, our token, and our protocols  Let me know!](about:blank#)
+Hi Patrick  Thanks for reaching out! You're welcome to join any of our syncs this week but if you'd like a response that's tailored to your particular query, I'd be game to get on a call with you and answer any questions you might have about our community, our token, and our protocols  Let me know!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -10061,7 +10061,7 @@ We are glad to have you here. This week's sync call
 
 Costa
 
-[Hello @tiago, @Tenchi, @l_silva, @naan, @jlevers, @const and@epistetechnician ! Welcome to the Token Engineering Commons  We are glad to have you here. This week's sync call ️ is on April 14th at 7 PM CET / 1 PM EST, in our Community Voice Channel. Feel free to come and join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1. Here is the calendar link for the call:](about:blank#)
+Hello @tiago, @Tenchi, @l_silva, @naan, @jlevers, @const and@epistetechnician ! Welcome to the Token Engineering Commons  We are glad to have you here. This week's sync call ️ is on April 14th at 7 PM CET / 1 PM EST, in our Community Voice Channel. Feel free to come and join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1. Here is the calendar link for the call:
 
 ![https://cdn.discordapp.com/emojis/835017653306654730.png](https://cdn.discordapp.com/emojis/835017653306654730.png)
 
@@ -10111,7 +10111,7 @@ Hola hola! Thanks for the welcome! Of course I can tell you more about how I got
 
 tiago
 
-[Hey , I am a dev contributor at 1hive from Portugal.](about:blank#)
+Hey , I am a dev contributor at 1hive from Portugal.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -10132,7 +10132,7 @@ The short story is that I am part of Bankless Consulting, a sub DAO of BanklessD
 
 sergioarizav.eth
 
-[Hola hola! Thanks for the welcome! Of course I can tell you more about how I got here. Unfortunately on Thursday at 1 PM EST I have a meeting with a client, but if we can schedule a 1 to 1 call that would be great. I'm free Thursday after 2:30 PM EST and Friday pretty much all day except 1 to 2 PM EST.](about:blank#)
+Hola hola! Thanks for the welcome! Of course I can tell you more about how I got here. Unfortunately on Thursday at 1 PM EST I have a meeting with a client, but if we can schedule a 1 to 1 call that would be great. I'm free Thursday after 2:30 PM EST and Friday pretty much all day except 1 to 2 PM EST.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10150,7 +10150,7 @@ Welcome to the TEC 1-1 calendar! We would love to host a call with you to provid
 
 Edu - TEC Steward.
 
-[Let's do it! You can pick a time from this calendar:](about:blank#)
+Let's do it! You can pick a time from this calendar:
 
 [https://calendly.com/tecguides/](https://calendly.com/tecguides/)
 
@@ -10164,7 +10164,7 @@ Done! See you on Friday
 
 sergioarizav.eth
 
-[Done! See you on Friday](about:blank#)
+Done! See you on Friday
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10176,7 +10176,7 @@ _12-Apr-22 01:04 PM_:
 
 Edu - TEC Steward.
 
-[*Thursday I believe! Looking forward!](about:blank#)
+*Thursday I believe! Looking forward!
 
 <h3>sergioarizav.eth <img src="https://cdn.discordapp.com/avatars/631591155364134912/37480a93271e5c04c654f5b86f4c5f50.png" width=25 height=25></h3>
 
@@ -10202,7 +10202,7 @@ I'm just checking back in now that I can poke my head up... Love to talk! Can se
 
 Patrick | River
 
-[Hi @Mount Manu !  I'm just checking back in now that I can poke my head up... Love to talk! Can send my Calendly along if you'd like.](about:blank#) 
+Hi @Mount Manu !  I'm just checking back in now that I can poke my head up... Love to talk! Can send my Calendly along if you'd like. 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -10219,7 +10219,7 @@ Sure, please DM me the details and I'll schedule something! (edited)
 
 Mount Manu
 
-[Sure, please DM me the details and I'll schedule something!  (edited)](about:blank#)
+Sure, please DM me the details and I'll schedule something!  (edited)
 
 <h3>Patrick | River <img src="https://cdn.discordapp.com/avatars/883006550237667358/9b9826a7fee1e02b7ead410dcf36d51f.png" width=25 height=25></h3>
 
@@ -10231,7 +10231,7 @@ Hey — Your DM is for friends. (Understandably.) Sent request. Thanks!
 
 Patrick | River
 
-[Hey — Your DM is for friends. (Understandably.) Sent request. Thanks!](about:blank#)
+Hey — Your DM is for friends. (Understandably.) Sent request. Thanks!
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -10371,7 +10371,7 @@ Welcome back @amanwithwings! We are glad that you're here with us again. In case
 
 Costa
 
-[Hello @rachelll and @Luciana! Welcome to the Token Engineering Commons  We are happy to have you here with us. This week's Orientation Call ️ is on Thursday, April 21st, at 7 PM CET / 1 PM EST, in our Community Voice Channel. Feel free to come and join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule.](about:blank#) 
+Hello @rachelll and @Luciana! Welcome to the Token Engineering Commons  We are happy to have you here with us. This week's Orientation Call ️ is on Thursday, April 21st, at 7 PM CET / 1 PM EST, in our Community Voice Channel. Feel free to come and join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule. 
 
 ![https://cdn.discordapp.com/emojis/835017653306654730.png](https://cdn.discordapp.com/emojis/835017653306654730.png)
 
@@ -10389,7 +10389,7 @@ Hey hi Unfortanetly I cant join you this thursday :/
 
 Costa
 
-[Welcome back @amanwithwings! We are glad that you're here with us again. In case you need help on getting started again, this week's Orientation Call is on Thursday, April 21st, at 7 PM CET / 1 PM EST, in our Community Voice Channel. See you around](about:blank#) 
+Welcome back @amanwithwings! We are glad that you're here with us again. In case you need help on getting started again, this week's Orientation Call is on Thursday, April 21st, at 7 PM CET / 1 PM EST, in our Community Voice Channel. See you around 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f609.png](https://twemoji.maxcdn.com/2/72x72/1f609.png)
 
@@ -10405,7 +10405,7 @@ Ooh it's a praise bot now huh...
 
 Luciana
 
-[Hey hi Unfortanetly I cant join you this thursday :/](about:blank#)
+Hey hi Unfortanetly I cant join you this thursday :/
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10454,7 +10454,7 @@ See you there!
 
 Mount Manu
 
-[Welcome to our community @Tulin and @gborges I'm Mount Manu and I'll be your onboarding guide: feel free to tag me alongside any questions you might have about our community  As the first steps in your journey through our DAO, you might want to joint our weekly **Orientation Call** this Thursday, April 21st, in our Community Voice Channel, at 7 PM CET / 1 PM EST. For your convenience, here's a calendar link to the event:](about:blank#)
+Welcome to our community @Tulin and @gborges I'm Mount Manu and I'll be your onboarding guide: feel free to tag me alongside any questions you might have about our community  As the first steps in your journey through our DAO, you might want to joint our weekly **Orientation Call** this Thursday, April 21st, in our Community Voice Channel, at 7 PM CET / 1 PM EST. For your convenience, here's a calendar link to the event:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -10488,7 +10488,7 @@ hi
 
 Hoodrh
 
-[hi](about:blank#)
+hi
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10516,7 +10516,7 @@ This week's orientation call is in one hour, at 7 PM CET / 1 PM EST, in our Comm
 
 Costa
 
-[Hello @sambavineeth, @Yash | DAOs and @cow ! Welcome to the Token Engineering Commons  This week's orientation call is in one hour, at 7 PM CET / 1 PM EST, in our Community Voice Channel. Feel free to come and join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule.](about:blank#)
+Hello @sambavineeth, @Yash | DAOs and @cow ! Welcome to the Token Engineering Commons  This week's orientation call is in one hour, at 7 PM CET / 1 PM EST, in our Community Voice Channel. Feel free to come and join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule.
 
 ![https://cdn.discordapp.com/emojis/835017653306654730.png](https://cdn.discordapp.com/emojis/835017653306654730.png)
 
@@ -10530,7 +10530,7 @@ Cool, I will join in. Would love to interact with you guys!
 
 Costa
 
-[Hello @sambavineeth, @Yash | DAOs and @cow ! Welcome to the Token Engineering Commons  This week's orientation call is in one hour, at 7 PM CET / 1 PM EST, in our Community Voice Channel. Feel free to come and join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule.](about:blank#)
+Hello @sambavineeth, @Yash | DAOs and @cow ! Welcome to the Token Engineering Commons  This week's orientation call is in one hour, at 7 PM CET / 1 PM EST, in our Community Voice Channel. Feel free to come and join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule.
 
 ![https://cdn.discordapp.com/emojis/835017653306654730.png](https://cdn.discordapp.com/emojis/835017653306654730.png)
 
@@ -10546,7 +10546,7 @@ Just for confirmation it is this one right? in 53 mins IG
 
 Yash | DAOs
 
-[Just for confirmation it is this one right? in 53 mins IG](about:blank#)
+Just for confirmation it is this one right? in 53 mins IG
 
 <h3>Costa <img src="https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png" width=25 height=25></h3>
 
@@ -10607,7 +10607,7 @@ The Glossary Page is designed to provide you with more in-depth knowledge of TE 
 
 Yash | DAOs
 
-[@Rumi Would like to discuss with you regarding kernel program, can we chat?](about:blank#)
+@Rumi Would like to discuss with you regarding kernel program, can we chat?
 
 <h3>Rumi <img src="https://cdn.discordapp.com/avatars/392105034453745676/5e373f75d4bb9bd6a3924f325538b5d8.png" width=25 height=25></h3>
 
@@ -10619,7 +10619,7 @@ indeed
 
 Mount Manu
 
-[Yes! Let me know if you'd like to schedule a 1-on-1 onboarding sync @Luciana](about:blank#)
+Yes! Let me know if you'd like to schedule a 1-on-1 onboarding sync @Luciana
 
 ![https://twemoji.maxcdn.com/2/72x72/1f913.png](https://twemoji.maxcdn.com/2/72x72/1f913.png)
 
@@ -10660,7 +10660,7 @@ I see that you two @thetagan and @jing got here through Kernel. Could you tell u
 
 Luciana
 
-[Hey hi It would be greate! Now im in the UTC -3 zone until 9th may](about:blank#)
+Hey hi It would be greate! Now im in the UTC -3 zone until 9th may
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10678,7 +10678,7 @@ Welcome to the TEC 1-1 calendar! We would love to host a call with you to provid
 
 Luciana
 
-[Hey hi It would be greate! Now im in the UTC -3 zone until 9th may](about:blank#)
+Hey hi It would be greate! Now im in the UTC -3 zone until 9th may
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -10691,7 +10691,7 @@ Apologies, Luciana, I was off Discord for the weekend. Let me know if you picked
 
 Mount Manu
 
-[Apologies, Luciana, I was off Discord for the weekend. Let me know if you picked a suitable time as it might've been with me or Costa (the other guide).](about:blank#) 
+Apologies, Luciana, I was off Discord for the weekend. Let me know if you picked a suitable time as it might've been with me or Costa (the other guide). 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
@@ -10705,7 +10705,7 @@ Hey, thanks I chose april 27 :)
 
 Edu - TEC Steward.
 
-[Hello Luciana, sorry for the late reply, you can pick a time that suits you from here:](about:blank#)
+Hello Luciana, sorry for the late reply, you can pick a time that suits you from here:
 
 [https://calendly.com/tecguides](https://calendly.com/tecguides)
 
@@ -10744,7 +10744,7 @@ Hello and welcome to the Token Engineering Commons!
 
 Costa
 
-[Hello and welcome to the Token Engineering Commons!   @selfscrum @rex @yannickds @jPhilippe | Kumo @joenlo @melikekaplan @Puretayo @alagarda We are happy to have you here with us. This week's Orientation Call ️ is **today**, April 28th, at 7 PM CET / 1 PM EST, in our Community Voice Channel. Feel free to come and join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule.   (edited)](about:blank#)
+Hello and welcome to the Token Engineering Commons!   @selfscrum @rex @yannickds @jPhilippe | Kumo @joenlo @melikekaplan @Puretayo @alagarda We are happy to have you here with us. This week's Orientation Call ️ is **today**, April 28th, at 7 PM CET / 1 PM EST, in our Community Voice Channel. Feel free to come and join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule.   (edited)
 
 ![https://cdn.discordapp.com/emojis/835017653306654730.png](https://cdn.discordapp.com/emojis/835017653306654730.png)
 
@@ -10766,7 +10766,7 @@ I'll try to make it! :)
 
 akb
 
-[Super excited for my call today. Gonna start in a couple of minutes..!!](about:blank#)
+Super excited for my call today. Gonna start in a couple of minutes..!!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10846,7 +10846,7 @@ _29-Apr-22 03:51 PM_:
 
 Costa
 
-[Hello @OmnistratMatt ! Welcome to the Token Engineering Commons!   To get to know you better, we invite you to attend our Orientation Call. It will be happening next week on Thursday, May 5th, at 7 PM CET / 1 PM EST, in our Community Voice Channel. Feel free to come and join at any time and tell us a bit about yourself, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule.](about:blank#)
+Hello @OmnistratMatt ! Welcome to the Token Engineering Commons!   To get to know you better, we invite you to attend our Orientation Call. It will be happening next week on Thursday, May 5th, at 7 PM CET / 1 PM EST, in our Community Voice Channel. Feel free to come and join at any time and tell us a bit about yourself, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule.
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
@@ -10864,7 +10864,7 @@ Hi Costa, thanks for the welcome. Looking forward to sharing with and learning f
 
 OmnistratMatt
 
-[Hi Costa, thanks for the welcome. Looking forward to sharing with and learning from this community. Do you have a connection with TE Academy?](about:blank#)
+Hi Costa, thanks for the welcome. Looking forward to sharing with and learning from this community. Do you have a connection with TE Academy?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10879,7 +10879,7 @@ Hello there! We are very close communities and partners. We both aimed to advanc
 
 Edu - TEC Steward.
 
-[Hello there! We are very close communities and partners. We both aimed to advance the Token Engineering field. And the TEC also funded the next course of TE fundamentals](about:blank#) 
+Hello there! We are very close communities and partners. We both aimed to advance the Token Engineering field. And the TEC also funded the next course of TE fundamentals 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f4aa.png](https://twemoji.maxcdn.com/2/72x72/1f4aa.png)
 
@@ -10895,7 +10895,7 @@ Cool. I'm doing the TE-360 now and will be taking the TE fundamentals course lat
 
 ilk.eth
 
-[@Tam2140 hello there! wonder if it would be OK to schedule after a few days? havin a bit of hectic times with my job atm](about:blank#) 
+@Tam2140 hello there! wonder if it would be OK to schedule after a few days? havin a bit of hectic times with my job atm 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f629.png](https://twemoji.maxcdn.com/2/72x72/1f629.png)
 
@@ -10913,7 +10913,7 @@ It’s there when you feel you need it. Not mandatory at all.
 
 OmnistratMatt
 
-[Cool. I'm doing the TE-360 now and will be taking the TE fundamentals course later this year.](about:blank#)
+Cool. I'm doing the TE-360 now and will be taking the TE fundamentals course later this year.
 
 <h3>Shanzz 🏴 <img src="https://cdn.discordapp.com/avatars/390855841013694464/619b68fb1e8d76e77d5013887300512b.png" width=25 height=25></h3>
 
@@ -10925,7 +10925,7 @@ What is TE 360 ?
 
 Shanzz 🏴
 
-[What is TE 360 ?](about:blank#)
+What is TE 360 ?
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -10995,7 +10995,7 @@ Hello!
 
 Costa
 
-[Hello!   @Brént @mndbrbr @odogwu1#9713 @withinthevacuum @eli9k @MCZM3RO Welcome to the Token Engineering Commons! We are glad to have you here. You are all invited to come join our Orientation Call ️ It will be happening this Thursday, May 5th, at 7 PM CET / 1 PM EST, in our Community Voice Channel. Feel free to join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule. Have a nice day!](about:blank#) 
+Hello!   @Brént @mndbrbr @odogwu1#9713 @withinthevacuum @eli9k @MCZM3RO Welcome to the Token Engineering Commons! We are glad to have you here. You are all invited to come join our Orientation Call ️ It will be happening this Thursday, May 5th, at 7 PM CET / 1 PM EST, in our Community Voice Channel. Feel free to join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule. Have a nice day! 
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
@@ -11017,7 +11017,7 @@ got you.
 
 Costa
 
-[Hello!   @Brént @mndbrbr @odogwu1#9713 @withinthevacuum @eli9k @MCZM3RO Welcome to the Token Engineering Commons! We are glad to have you here. You are all invited to come join our Orientation Call ️ It will be happening this Thursday, May 5th, at 7 PM CET / 1 PM EST, in our Community Voice Channel. Feel free to join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule. Have a nice day!](about:blank#) 
+Hello!   @Brént @mndbrbr @odogwu1#9713 @withinthevacuum @eli9k @MCZM3RO Welcome to the Token Engineering Commons! We are glad to have you here. You are all invited to come join our Orientation Call ️ It will be happening this Thursday, May 5th, at 7 PM CET / 1 PM EST, in our Community Voice Channel. Feel free to join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule. Have a nice day! 
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
@@ -11133,7 +11133,7 @@ great session guys. Have to head somewhere wil attend (edited)
 
 Costa
 
-[Hi there @Strider @MaxCaspar @v1 v13n @luiiis   Welcome to the TEC! **Today at 7 PM CET / 1 PM EST**, in our Community Voice Channel, we are going to host our Orientation Call ️ Feel free to come and join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule. See you later!](about:blank#) 
+Hi there @Strider @MaxCaspar @v1 v13n @luiiis   Welcome to the TEC! **Today at 7 PM CET / 1 PM EST**, in our Community Voice Channel, we are going to host our Orientation Call ️ Feel free to come and join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule. See you later! 
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
@@ -11180,7 +11180,7 @@ Feel free to come and join at any time and tell us a bit about yourselves, how y
 
 Edu - TEC Steward.
 
-[Welcome @dididi! Nice to have you here! Would love to know which is your DAO that recommended us! And secondly, did you find the literature you were looking for?](about:blank#)
+Welcome @dididi! Nice to have you here! Would love to know which is your DAO that recommended us! And secondly, did you find the literature you were looking for?
 
 <h3>dididi <img src="https://cdn.discordapp.com/avatars/758058087646101564/7ab64aecfd921945dbe0538e9fcbcb69.png" width=25 height=25></h3>
 
@@ -11192,7 +11192,7 @@ Thanks @Edu - TEC Steward. FTW DAO is the name of the DAO. Would love to connect
 
 Costa
 
-[Good morning everyone  @yerzhan @Andrew_Io @heyok @notthatintomusic @Yemoja @darkgoku @jagger @ihmiskokki @Nik @lockrenalth @sacred @!shenwansan @raluca @Kelvin Welcome to the Token Engineering Commons  Now that you found your way to our Discord, the next step is attending our **Orientation Call** ️ It will be hosted in our Community Voice Channel, on **Thursday 12th at 7 PM CET / 1 PM EST** Feel free to come and join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule. Have a great week!  (edited)](about:blank#)
+Good morning everyone  @yerzhan @Andrew_Io @heyok @notthatintomusic @Yemoja @darkgoku @jagger @ihmiskokki @Nik @lockrenalth @sacred @!shenwansan @raluca @Kelvin Welcome to the Token Engineering Commons  Now that you found your way to our Discord, the next step is attending our **Orientation Call** ️ It will be hosted in our Community Voice Channel, on **Thursday 12th at 7 PM CET / 1 PM EST** Feel free to come and join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule. Have a great week!  (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
 
@@ -11211,7 +11211,7 @@ Thanks, @Costa I'll be there!
 
 dididi
 
-[Thanks @Edu - TEC Steward. FTW DAO is the name of the DAO. Would love to connect 1:1 sometime to get the lay of the land around here:)](about:blank#)
+Thanks @Edu - TEC Steward. FTW DAO is the name of the DAO. Would love to connect 1:1 sometime to get the lay of the land around here:)
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11289,7 +11289,7 @@ GM! thank you very much for an amazing orientation call, it was super welcoming 
 
 Andrea
 
-[May I please have praise giver role so I can praise my work team?](about:blank#)
+May I please have praise giver role so I can praise my work team?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11301,7 +11301,7 @@ Done!
 
 Justina cukini
 
-[GM! thank you very much for an amazing orientation call, it was super welcoming and clear. It feels like the best DAO onboarding experience so far ❤️ Sorry for running away without saying bye, my phone died, and I got disconnected from the call before it ended. I'm looking forward to continuing to learn and discovering my happy spot in this organisation!](about:blank#)
+GM! thank you very much for an amazing orientation call, it was super welcoming and clear. It feels like the best DAO onboarding experience so far ❤️ Sorry for running away without saying bye, my phone died, and I got disconnected from the call before it ended. I'm looking forward to continuing to learn and discovering my happy spot in this organisation!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11334,7 +11334,7 @@ With Google's free online calendar, it’s easy to keep track of life’s import
 
 Mount Manu
 
-[A warm welcome to the newest members of our community @Cryptokat @Mike2011 @robbieoh @Contessa I'm Mount Manu and I'll be your onboarding guide: feel free to tag me alongside any questions you might have about our community  As the first step in your journey through our DAO, you might want to joint our weekly Orientation Call this Thursday, May 19th, in our Community Voice Channel, at 19:00 CET. For your convenience, here's a calendar link to the event:](about:blank#)
+A warm welcome to the newest members of our community @Cryptokat @Mike2011 @robbieoh @Contessa I'm Mount Manu and I'll be your onboarding guide: feel free to tag me alongside any questions you might have about our community  As the first step in your journey through our DAO, you might want to joint our weekly Orientation Call this Thursday, May 19th, in our Community Voice Channel, at 19:00 CET. For your convenience, here's a calendar link to the event:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
@@ -11456,7 +11456,7 @@ We invite you to attend our
 
 Costa
 
-[Hello @costin and @adriel! Welcome to the TEC  We invite you to attend our **Orientation Call**️ It will be held **tomorrow, May 19th, at 7 PM CET / 1 PM EST**, in our Community Voice Channel. Feel free to join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule. See you soon!](about:blank#) 
+Hello @costin and @adriel! Welcome to the TEC  We invite you to attend our **Orientation Call**️ It will be held **tomorrow, May 19th, at 7 PM CET / 1 PM EST**, in our Community Voice Channel. Feel free to join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule. See you soon! 
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
@@ -11476,7 +11476,7 @@ Hi @Costa ! Thanks a lot for this. I will be there tomorrow!
 
 PlayerError
 
-[Hello! Where can I read the pricing info on your services?](about:blank#)
+Hello! Where can I read the pricing info on your services?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11530,7 +11530,7 @@ _19-May-22 01:28 PM_:
 
 Barsheba | PCD
 
-[@griff (💜, 💜) is there some documentation somewhere where we can read more about that bonding curve?](about:blank#)
+@griff (💜, 💜) is there some documentation somewhere where we can read more about that bonding curve?
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -11580,7 +11580,7 @@ Learned so much. Can't wait to chat with you all in the future.
 
 Contessa
 
-[Learned so much. Can't wait to chat with you all in the future.](about:blank#)
+Learned so much. Can't wait to chat with you all in the future.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11639,7 +11639,7 @@ Hey! What's the best way to talk with one of you al from token engineering commo
 
 kAmpesinx
 
-[Thanks sooo much for your warm welcome  I'm exploring the project, and need to dig a little deeper, it's awesome... See you soon, cheers!  (edited)](about:blank#)
+Thanks sooo much for your warm welcome  I'm exploring the project, and need to dig a little deeper, it's awesome... See you soon, cheers!  (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
@@ -11656,7 +11656,7 @@ See you!
 
 PlayerError
 
-[Hey! What's the best way to talk with one of you al from token engineering commons?](about:blank#)
+Hey! What's the best way to talk with one of you al from token engineering commons?
 
 <h3>Costa <img src="https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png" width=25 height=25></h3>
 
@@ -11702,7 +11702,7 @@ I can't make this call unfortunately. But would love to make a future one.
 
 J Everett | Hexterra Labs
 
-[I can't make this call unfortunately. But would love to make a future one.](about:blank#)
+I can't make this call unfortunately. But would love to make a future one.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11753,7 +11753,7 @@ You're right on time for our weekly
 
 Costa
 
-[A warm welcome to all of you: @Ben Rodriguez | Coinbase Cloud @Urban Acupuncture Fund @Deleted User @aia @bobbay  We are glad to have you here at the TEC  You're right on time for our weekly **Orientation Call** ️ It will be happenning today at **7 PM CET / 1 PM EST**, in our Community Voice Channel. Feel free to join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you can't make it, let us know and we can arrange a 1 on 1 to fit your schedule ️ See you later!   (edited)](about:blank#)
+A warm welcome to all of you: @Ben Rodriguez | Coinbase Cloud @Urban Acupuncture Fund @Deleted User @aia @bobbay  We are glad to have you here at the TEC  You're right on time for our weekly **Orientation Call** ️ It will be happenning today at **7 PM CET / 1 PM EST**, in our Community Voice Channel. Feel free to join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you can't make it, let us know and we can arrange a 1 on 1 to fit your schedule ️ See you later!   (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -11777,7 +11777,7 @@ Hi! I am hoping to join a call some time, but this one is at 1am for me so I'll 
 
 Costa
 
-[A warm welcome to all of you: @Ben Rodriguez | Coinbase Cloud @Urban Acupuncture Fund @Deleted User @aia @bobbay  We are glad to have you here at the TEC  You're right on time for our weekly **Orientation Call** ️ It will be happenning today at **7 PM CET / 1 PM EST**, in our Community Voice Channel. Feel free to join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you can't make it, let us know and we can arrange a 1 on 1 to fit your schedule ️ See you later!   (edited)](about:blank#)
+A warm welcome to all of you: @Ben Rodriguez | Coinbase Cloud @Urban Acupuncture Fund @Deleted User @aia @bobbay  We are glad to have you here at the TEC  You're right on time for our weekly **Orientation Call** ️ It will be happenning today at **7 PM CET / 1 PM EST**, in our Community Voice Channel. Feel free to join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you can't make it, let us know and we can arrange a 1 on 1 to fit your schedule ️ See you later!   (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -11820,7 +11820,7 @@ Hello! and welcome to the TEC! We are happy you are here!
 
 Costa
 
-[Hello! Is there any specific question you had in mind? If so we can direct you to someone who knows about the topic. If what you need is help getting started, we recommend you to join our weekly Orientation Call, that will happen on Thursday at 7 PM CET / 1 PM EST, in our Community Voice Channel.](about:blank#)
+Hello! Is there any specific question you had in mind? If so we can direct you to someone who knows about the topic. If what you need is help getting started, we recommend you to join our weekly Orientation Call, that will happen on Thursday at 7 PM CET / 1 PM EST, in our Community Voice Channel.
 
 <h3>PlayerError <img src="https://cdn.discordapp.com/avatars/269673679741255681/cddb0b3efbacc055b0420faa3221f214.png" width=25 height=25></h3>
 
@@ -11901,7 +11901,7 @@ Twitter
 
 Edu - TEC Steward.
 
-[@New Member Orientation call is going to start in 15 minutes! Join us at the #CommunityHall Voice Channel! Looking forward to answer your questions and meet y'all!  (edited)](about:blank#)
+@New Member Orientation call is going to start in 15 minutes! Join us at the #CommunityHall Voice Channel! Looking forward to answer your questions and meet y'all!  (edited)
 
 <h3>Kind Koala <img src="https://cdn.discordapp.com/avatars/948022407497678898/4271ef6a29bd2b1cf6ad89695683a905.png" width=25 height=25></h3>
 
@@ -11913,7 +11913,7 @@ Thanks for the orientation
 
 Kind Koala
 
-[Thanks for the orientation](about:blank#)
+Thanks for the orientation
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11925,7 +11925,7 @@ Thank you for joining!
 
 Edu - TEC Steward.
 
-[Thank you for joining!](about:blank#)
+Thank you for joining!
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -11938,7 +11938,7 @@ Great intro, and I tried to praise you but may have done it wrong
 
 Costa
 
-[A warm welcome to all of you: @Ben Rodriguez | Coinbase Cloud @Urban Acupuncture Fund @Deleted User @aia @bobbay  We are glad to have you here at the TEC  You're right on time for our weekly **Orientation Call** ️ It will be happenning today at **7 PM CET / 1 PM EST**, in our Community Voice Channel. Feel free to join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you can't make it, let us know and we can arrange a 1 on 1 to fit your schedule ️ See you later!   (edited)](about:blank#)
+A warm welcome to all of you: @Ben Rodriguez | Coinbase Cloud @Urban Acupuncture Fund @Deleted User @aia @bobbay  We are glad to have you here at the TEC  You're right on time for our weekly **Orientation Call** ️ It will be happenning today at **7 PM CET / 1 PM EST**, in our Community Voice Channel. Feel free to join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you can't make it, let us know and we can arrange a 1 on 1 to fit your schedule ️ See you later!   (edited)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -11966,7 +11966,7 @@ Can't make it unfortunately. Be cool to see what's up in a 1:1 or I can join ano
 
 Urban Acupuncture Fund
 
-[Great intro, and I tried to praise you but may have done it wrong](about:blank#) 
+Great intro, and I tried to praise you but may have done it wrong 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
@@ -11980,7 +11980,7 @@ No worries, you need to be given praise powers! Now you can! (edited)
 
 Edu - TEC Steward.
 
-[No worries, you need to be given praise powers! Now you can!  (edited)](about:blank#)
+No worries, you need to be given praise powers! Now you can!  (edited)
 
 <h3>Shanzz 🏴 <img src="https://cdn.discordapp.com/avatars/390855841013694464/619b68fb1e8d76e77d5013887300512b.png" width=25 height=25></h3>
 
@@ -12004,7 +12004,7 @@ Hi @Stewards ! I have a 1-1 orientation scheduled now, but nobody from TEC has j
 
 Kind Koala
 
-[Hi @Stewards ! I have a 1-1 orientation scheduled now, but nobody from TEC has joined the meeting. Is there anything I can do to help resolve this?](about:blank#)
+Hi @Stewards ! I have a 1-1 orientation scheduled now, but nobody from TEC has joined the meeting. Is there anything I can do to help resolve this?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -12018,7 +12018,7 @@ ops, I can't, I sent you a friend request
 
 liviade
 
-[Hi @Kind Koala I'm so sorry about that. I'll send you a DM](about:blank#)
+Hi @Kind Koala I'm so sorry about that. I'll send you a DM
 
 <h3>Kind Koala <img src="https://cdn.discordapp.com/avatars/948022407497678898/4271ef6a29bd2b1cf6ad89695683a905.png" width=25 height=25></h3>
 
@@ -12030,7 +12030,7 @@ Thanks! I may have DMs / requests off for security reasons -- most servers I'm o
 
 liviade
 
-[ops, I can't, I sent you a friend request](about:blank#)
+ops, I can't, I sent you a friend request
 
 <h3>Kind Koala <img src="https://cdn.discordapp.com/avatars/948022407497678898/4271ef6a29bd2b1cf6ad89695683a905.png" width=25 height=25></h3>
 
@@ -12043,7 +12043,7 @@ Let me try sending you a friend request!
 
 liviade
 
-[ops, I can't, I sent you a friend request](about:blank#)
+ops, I can't, I sent you a friend request
 
 <h3>Kind Koala <img src="https://cdn.discordapp.com/avatars/948022407497678898/4271ef6a29bd2b1cf6ad89695683a905.png" width=25 height=25></h3>
 
@@ -12055,7 +12055,7 @@ OK, I just sent a friend request
 
 Kind Koala
 
-[OK, I just sent a friend request](about:blank#)
+OK, I just sent a friend request
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -12067,7 +12067,7 @@ nice! thanks
 
 Shanzz 🏴
 
-[sorry you also mentioned blockscience?](about:blank#)
+sorry you also mentioned blockscience?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12098,7 +12098,7 @@ Twitter
 
 PlayerError
 
-[Is there a recording for the orientation? I missed it](about:blank#)
+Is there a recording for the orientation? I missed it
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12111,7 +12111,7 @@ No, I am so sorry, we don't record this call
 
 Edu - TEC Steward.
 
-[Yes:](about:blank#)
+Yes:
 
 [https://twitter.com/block_science](https://twitter.com/block_science)
 
@@ -12131,7 +12131,7 @@ _27-May-22 12:08 PM_:
 
 Kind Koala
 
-[@Edu - TEC Steward. Hi! I just tried to praise a member of your team, but it doesn't allow me to send praise. Is there a way to fix this?](about:blank#)
+@Edu - TEC Steward. Hi! I just tried to praise a member of your team, but it doesn't allow me to send praise. Is there a way to fix this?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12143,7 +12143,7 @@ Hello there! Yes, you needed to be given praise powers! You just got 'em
 
 Edu - TEC Steward.
 
-[Hello there! Yes, you needed to be given praise powers! You just got 'em](about:blank#)
+Hello there! Yes, you needed to be given praise powers! You just got 'em
 
 <h3>Kind Koala <img src="https://cdn.discordapp.com/avatars/948022407497678898/4271ef6a29bd2b1cf6ad89695683a905.png" width=25 height=25></h3>
 
@@ -12155,7 +12155,7 @@ Thank you!
 
 Edu - TEC Steward.
 
-[Hello there! Yes, you needed to be given praise powers! You just got 'em](about:blank#)
+Hello there! Yes, you needed to be given praise powers! You just got 'em
 
 <h3>Kind Koala <img src="https://cdn.discordapp.com/avatars/948022407497678898/4271ef6a29bd2b1cf6ad89695683a905.png" width=25 height=25></h3>
 
@@ -12167,7 +12167,7 @@ For some reason, it says the following: Account Not Activated Your account is no
 
 Kind Koala
 
-[For some reason, it says the following: Account Not Activated Your account is not activated in the praise system. Unactivated accounts can not praise users. Use the /activate command to activate your praise account and to link your eth address. Not sure what to do...](about:blank#)
+For some reason, it says the following: Account Not Activated Your account is not activated in the praise system. Unactivated accounts can not praise users. Use the /activate command to activate your praise account and to link your eth address. Not sure what to do...
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12179,7 +12179,7 @@ Yes! Follow the activate command
 
 Edu - TEC Steward.
 
-[Yes! Follow the activate command](about:blank#)
+Yes! Follow the activate command
 
 <h3>Kind Koala <img src="https://cdn.discordapp.com/avatars/948022407497678898/4271ef6a29bd2b1cf6ad89695683a905.png" width=25 height=25></h3>
 
@@ -12191,7 +12191,7 @@ I know this is probably a basic question, but is the activate command: "/activat
 
 Kind Koala
 
-[I know this is probably a basic question, but is the activate command: "/activate <public ETH address>"? And does it cost you ETH or gas fees to praise people?  (edited)](about:blank#)
+I know this is probably a basic question, but is the activate command: "/activate <public ETH address>"? And does it cost you ETH or gas fees to praise people?  (edited)
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12203,7 +12203,7 @@ Yes, pressing the command should be enough. And it doesn't cost any ETH! (We are
 
 Edu - TEC Steward.
 
-[Yes, pressing the command should be enough. And it doesn't cost any ETH! (We are based in gnosis chain, but the praise isn't happening directly on chain, the ETH address is for you to receive the TEC tokens)](about:blank#)
+Yes, pressing the command should be enough. And it doesn't cost any ETH! (We are based in gnosis chain, but the praise isn't happening directly on chain, the ETH address is for you to receive the TEC tokens)
 
 <h3>Kind Koala <img src="https://cdn.discordapp.com/avatars/948022407497678898/4271ef6a29bd2b1cf6ad89695683a905.png" width=25 height=25></h3>
 
@@ -12221,7 +12221,7 @@ Hi , i would like to talk with the spanish guys from TEC . I have doubts
 
 valensirna
 
-[Hi , i would like to talk with the spanish guys from TEC . I have doubts](about:blank#)
+Hi , i would like to talk with the spanish guys from TEC . I have doubts
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12239,7 +12239,7 @@ Hello, i find difficulties to see the messages when i am mentioned, i do not get
 
 Gabriela Valdes
 
-[Hello, i find difficulties to see the messages when i am mentioned, i do not get yet this discord messages i have not been able to come when is the next orientation event? thank you!](about:blank#)
+Hello, i find difficulties to see the messages when i am mentioned, i do not get yet this discord messages i have not been able to come when is the next orientation event? thank you!
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12277,7 +12277,7 @@ It will be held on
 
 Costa
 
-[Hi everyone! @zkchun @itsdanwu @Cadena @DeFiVader @KlausBrave @0xBeshoy @Rashi Mittal @Julien @vasily@melaza_18@elalesis @StephaneSG @Tosin We are glad to have you here at te TEC   We invite you all to attend our **Orientation Call**  It will be held on **Thursay, June 2nd, at 7 PM CET / 1 PM EST**, in our Community Voice Channel. Feel free to join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule. See you there!](about:blank#) 
+Hi everyone! @zkchun @itsdanwu @Cadena @DeFiVader @KlausBrave @0xBeshoy @Rashi Mittal @Julien @vasily@melaza_18@elalesis @StephaneSG @Tosin We are glad to have you here at te TEC   We invite you all to attend our **Orientation Call**  It will be held on **Thursay, June 2nd, at 7 PM CET / 1 PM EST**, in our Community Voice Channel. Feel free to join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule. See you there! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -12301,7 +12301,7 @@ Thank you Costa for the warm welcome ! I'll try to be here Thursday for the Orie
 
 Costa
 
-[Hi everyone! @zkchun @itsdanwu @Cadena @DeFiVader @KlausBrave @0xBeshoy @Rashi Mittal @Julien @vasily@melaza_18@elalesis @StephaneSG @Tosin We are glad to have you here at te TEC   We invite you all to attend our **Orientation Call**  It will be held on **Thursay, June 2nd, at 7 PM CET / 1 PM EST**, in our Community Voice Channel. Feel free to join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule. See you there!](about:blank#) 
+Hi everyone! @zkchun @itsdanwu @Cadena @DeFiVader @KlausBrave @0xBeshoy @Rashi Mittal @Julien @vasily@melaza_18@elalesis @StephaneSG @Tosin We are glad to have you here at te TEC   We invite you all to attend our **Orientation Call**  It will be held on **Thursay, June 2nd, at 7 PM CET / 1 PM EST**, in our Community Voice Channel. Feel free to join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule. See you there! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -12354,7 +12354,7 @@ in our Community Voice Channel. If you cannot make it to the call, let us know a
 
 Costa
 
-[Good Morning  @Boonitch @PpiggyKing#1647 @Ysy Welcome to the TEC   Now that you are here, we recommend you to attend our weekly **Orientation Call** ️ There you can tell us how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. It will be held **tomorrow, June 2nd, at 7 PM CET / 1 PM EST,** in our Community Voice Channel. If you cannot make it to the call, let us know and we can arrange a 1 on 1 to fit your schedule. See you there!](about:blank#) 
+Good Morning  @Boonitch @PpiggyKing#1647 @Ysy Welcome to the TEC   Now that you are here, we recommend you to attend our weekly **Orientation Call** ️ There you can tell us how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. It will be held **tomorrow, June 2nd, at 7 PM CET / 1 PM EST,** in our Community Voice Channel. If you cannot make it to the call, let us know and we can arrange a 1 on 1 to fit your schedule. See you there! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
 
@@ -12387,7 +12387,7 @@ Thank you for the information and great communication I will be in the call tomo
 
 Boonitch
 
-[Hi Costa, I'm afraid I won't be able to make tomorrows call, but next week should be fine. I'll look forward to catching up with you all then](about:blank#) 
+Hi Costa, I'm afraid I won't be able to make tomorrows call, but next week should be fine. I'll look forward to catching up with you all then 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
@@ -12439,7 +12439,7 @@ Hi @Muneeb.N! Could you explain a bit how you got to know TEC through the BankDa
 
 Costa
 
-[Hey @Riccardo ! Could you tell us a bit on how the Tokenomics DAO discord lead you to us?](about:blank#)
+Hey @Riccardo ! Could you tell us a bit on how the Tokenomics DAO discord lead you to us?
 
 <h3>Riccardo <img src="https://cdn.discordapp.com/avatars/726808680242348082/fec21c87a60bc74362e4be52e99ed95a.png" width=25 height=25></h3>
 
@@ -12457,7 +12457,7 @@ Hello i want to know how to join todays call, do not have a clue!
 
 Gabriela Valdes
 
-[Hello i want to know how to join todays call, do not have a clue!](about:blank#)
+Hello i want to know how to join todays call, do not have a clue!
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -12520,7 +12520,7 @@ and leave an intro at the introductions channel!
 
 nic
 
-[These might answer some of your questions:  How to Join the TEC](about:blank#)
+These might answer some of your questions:  How to Join the TEC
 
 ![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
 
@@ -12557,7 +12557,7 @@ Hello there Nic! Can you try unpinning this message?
 
 Edu - TEC Steward.
 
-[Hello there Nic! Can you try unpinning this message?](about:blank#) 
+Hello there Nic! Can you try unpinning this message? 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
@@ -12571,7 +12571,7 @@ Hey Edu! I don't have an option to unpin it! I think someone else pinned it.
 
 nic
 
-[Hey Edu! I don't have an option to unpin it! I think someone else pinned it.](about:blank#)
+Hey Edu! I don't have an option to unpin it! I think someone else pinned it.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12583,7 +12583,7 @@ Yeah, it seems there is something off with the pin messages on this channel haha
 
 Edu - TEC Steward.
 
-[Yeah, it seems there is something off with the pin messages on this channel hahahaha](about:blank#)
+Yeah, it seems there is something off with the pin messages on this channel hahahaha
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -12598,7 +12598,7 @@ maybe @Tam2140 could try? It looks like she pinned it
 
 nic
 
-[maybe @Tam2140 could try? It looks like she pinned it](about:blank#)
+maybe @Tam2140 could try? It looks like she pinned it
 
 [https://discord.com/channels/810180621930070088/821767026321391667/900833985851170826](https://discord.com/channels/810180621930070088/821767026321391667/900833985851170826)
 
@@ -12617,7 +12617,7 @@ Done!
 
 Tam2140
 
-[@nic @Edu - TEC Steward. We can also delete all the pinned messages and whip up a new one we wnat to be the pinned one with all the deets newcomers needs.](about:blank#)
+@nic @Edu - TEC Steward. We can also delete all the pinned messages and whip up a new one we wnat to be the pinned one with all the deets newcomers needs.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12635,7 +12635,7 @@ Hello, everyone i ned help finding the messages where i am tagged! Thank you eve
 
 Gabriela Valdes
 
-[Hello, everyone i ned help finding the messages where i am tagged! Thank you everyone for being so kind and such a lovely Orientation call! @Edu - TEC Steward. It is here i can give appreciation?  (edited)](about:blank#)
+Hello, everyone i ned help finding the messages where i am tagged! Thank you everyone for being so kind and such a lovely Orientation call! @Edu - TEC Steward. It is here i can give appreciation?  (edited)
 
 <h3>Costa <img src="https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png" width=25 height=25></h3>
 
@@ -12677,7 +12677,7 @@ If you cannot make it, and really want to have a talk with us, let us know and w
 
 Costa
 
-[Hello @sanath.eth @eisuke @Genji | Le Navire @Pia @Rhizomatic Hyperobject Tao@Rich Baxter@christianDike  Welcome to the TEC  We are glad to have you all here. We recommend you to join us on our weekly **Orientation Call** ️ It will be happening on **Thursday, June 9th, at 7 PM CET / 1 PM EST** . Feel free to come by anytime and tell us a bit about yourselves. We will introduce the TEC to you and will help you get started. See you there!  If you cannot make it, and really want to have a talk with us, let us know and we can arrange a 1 on 1. You can also join the following week's Orientation Call.](about:blank#)
+Hello @sanath.eth @eisuke @Genji | Le Navire @Pia @Rhizomatic Hyperobject Tao@Rich Baxter@christianDike  Welcome to the TEC  We are glad to have you all here. We recommend you to join us on our weekly **Orientation Call** ️ It will be happening on **Thursday, June 9th, at 7 PM CET / 1 PM EST** . Feel free to come by anytime and tell us a bit about yourselves. We will introduce the TEC to you and will help you get started. See you there!  If you cannot make it, and really want to have a talk with us, let us know and we can arrange a 1 on 1. You can also join the following week's Orientation Call.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -12699,7 +12699,7 @@ Can’t make it but thanks @Costa !
 
 Costa
 
-[Hello @sanath.eth @eisuke @Genji | Le Navire @Pia @Rhizomatic Hyperobject Tao@Rich Baxter@christianDike  Welcome to the TEC  We are glad to have you all here. We recommend you to join us on our weekly **Orientation Call** ️ It will be happening on **Thursday, June 9th, at 7 PM CET / 1 PM EST** . Feel free to come by anytime and tell us a bit about yourselves. We will introduce the TEC to you and will help you get started. See you there!  If you cannot make it, and really want to have a talk with us, let us know and we can arrange a 1 on 1. You can also join the following week's Orientation Call.](about:blank#)
+Hello @sanath.eth @eisuke @Genji | Le Navire @Pia @Rhizomatic Hyperobject Tao@Rich Baxter@christianDike  Welcome to the TEC  We are glad to have you all here. We recommend you to join us on our weekly **Orientation Call** ️ It will be happening on **Thursday, June 9th, at 7 PM CET / 1 PM EST** . Feel free to come by anytime and tell us a bit about yourselves. We will introduce the TEC to you and will help you get started. See you there!  If you cannot make it, and really want to have a talk with us, let us know and we can arrange a 1 on 1. You can also join the following week's Orientation Call.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -12721,7 +12721,7 @@ hey, wish I could make the orientation call but I will actually be at Consensus 
 
 zache
 
-[hey, wish I could make the orientation call but I will actually be at Consensus this week. Is there any chance I could meet with anyone before Thursday 1 on 1?](about:blank#)
+hey, wish I could make the orientation call but I will actually be at Consensus this week. Is there any chance I could meet with anyone before Thursday 1 on 1?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12739,7 +12739,7 @@ Welcome to the TEC 1-1 calendar! We would love to host a call with you to provid
 
 Costa
 
-[Hello @sanath.eth @eisuke @Genji | Le Navire @Pia @Rhizomatic Hyperobject Tao@Rich Baxter@christianDike  Welcome to the TEC  We are glad to have you all here. We recommend you to join us on our weekly **Orientation Call** ️ It will be happening on **Thursday, June 9th, at 7 PM CET / 1 PM EST** . Feel free to come by anytime and tell us a bit about yourselves. We will introduce the TEC to you and will help you get started. See you there!  If you cannot make it, and really want to have a talk with us, let us know and we can arrange a 1 on 1. You can also join the following week's Orientation Call.](about:blank#)
+Hello @sanath.eth @eisuke @Genji | Le Navire @Pia @Rhizomatic Hyperobject Tao@Rich Baxter@christianDike  Welcome to the TEC  We are glad to have you all here. We recommend you to join us on our weekly **Orientation Call** ️ It will be happening on **Thursday, June 9th, at 7 PM CET / 1 PM EST** . Feel free to come by anytime and tell us a bit about yourselves. We will introduce the TEC to you and will help you get started. See you there!  If you cannot make it, and really want to have a talk with us, let us know and we can arrange a 1 on 1. You can also join the following week's Orientation Call.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
@@ -12773,7 +12773,7 @@ Hey Everyone! Been lurking around this community for a while. I'm a yield fund m
 
 Finesto
 
-[Hey Everyone! Been lurking around this community for a while. I'm a yield fund manager looking to learn and contribute in the commons.](about:blank#)
+Hey Everyone! Been lurking around this community for a while. I'm a yield fund manager looking to learn and contribute in the commons.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12786,7 +12786,7 @@ Hello there! Nice to have you around, you are more than welcome to join our Orie
 
 Finesto
 
-[Hey Everyone! Been lurking around this community for a while. I'm a yield fund manager looking to learn and contribute in the commons.](about:blank#)
+Hey Everyone! Been lurking around this community for a while. I'm a yield fund manager looking to learn and contribute in the commons.
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -12805,7 +12805,7 @@ Hey @Finesto So glad to have you here! @rex was kind enough to indicate to me he
 
 gene
 
-[Hey @Finesto So glad to have you here! @rex was kind enough to indicate to me he had invited to you, and if I may say, I am so excited to have the opportunity to meet a professional from your field! Would you mind if I reached out to you individually with some questions, or just to offer you a 1 on 1 orientation call? I don't mean to shake your hand off at the door, but I'm just delighted to meet a friend of a friend here](about:blank#) 
+Hey @Finesto So glad to have you here! @rex was kind enough to indicate to me he had invited to you, and if I may say, I am so excited to have the opportunity to meet a professional from your field! Would you mind if I reached out to you individually with some questions, or just to offer you a 1 on 1 orientation call? I don't mean to shake your hand off at the door, but I'm just delighted to meet a friend of a friend here 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
@@ -12862,7 +12862,7 @@ Hello! and welcome to the TEC! We are happy you are here!
 
 Costa
 
-[A warm welcome to all of you: @joshuAF @solderneer @ShowSeth @Lilith @georgefernandez @adamska @dkwOLF @grey @Najnomics We are glad to have you here at the TEC  We invite you all to attend our weekly **Orientation Call** ️ It will be held **today, at 7 PM CET / 1 PM EST**. Please join at any time, and tell us about yourselves. We will introduce the TEC to you, answer any questions you may have, and help you get started. Looking forward to see you there!  If you cannot make it, and really want to have a talk with us, let us know and we can arrange a 1 on 1. You can also join the following week's Orientation Call.](about:blank#)
+A warm welcome to all of you: @joshuAF @solderneer @ShowSeth @Lilith @georgefernandez @adamska @dkwOLF @grey @Najnomics We are glad to have you here at the TEC  We invite you all to attend our weekly **Orientation Call** ️ It will be held **today, at 7 PM CET / 1 PM EST**. Please join at any time, and tell us about yourselves. We will introduce the TEC to you, answer any questions you may have, and help you get started. Looking forward to see you there!  If you cannot make it, and really want to have a talk with us, let us know and we can arrange a 1 on 1. You can also join the following week's Orientation Call.
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
@@ -12940,7 +12940,7 @@ Hi @Mount Manu Unfortunately I can't join the orientation call. I'm trying to ar
 
 zylris
 
-[Hi @Mount Manu Unfortunately I can't join the orientation call. I'm trying to arrange a 1:1 call but it says your calendly is unavailable?](about:blank#)
+Hi @Mount Manu Unfortunately I can't join the orientation call. I'm trying to arrange a 1:1 call but it says your calendly is unavailable?
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -12995,7 +12995,7 @@ Hello everyone, Thank you very much for the welcome! A pleasure to be part of th
 
 Santana22
 
-[Hello! I'll try to be present!](about:blank#)
+Hello! I'll try to be present!
 
 <h3>Costa <img src="https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png" width=25 height=25></h3>
 
@@ -13010,7 +13010,7 @@ Great!
 
 laragones
 
-[Hello everyone, Thank you very much for the welcome! A pleasure to be part of this great community.](about:blank#) 
+Hello everyone, Thank you very much for the welcome! A pleasure to be part of this great community. 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f609.png](https://twemoji.maxcdn.com/2/72x72/1f609.png)
 
@@ -13082,7 +13082,7 @@ _24-Jun-22 03:45 AM_:
 
 boonjue.eth
 
-[@Edu - TEC Steward. could kindly remove my New Member role?](about:blank#)
+@Edu - TEC Steward. could kindly remove my New Member role?
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -13104,7 +13104,7 @@ Hey folks! I attended the governance talk with Professor Nimrod yesterday, does 
 
 Kalki (Noah M)
 
-[Hey folks! I attended the governance talk with Professor Nimrod yesterday, does anyone have a link to those slides he presented?  (edited)](about:blank#)
+Hey folks! I attended the governance talk with Professor Nimrod yesterday, does anyone have a link to those slides he presented?  (edited)
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -13117,7 +13117,7 @@ Hello there, @pat.zip (TE Academy) may know the source link of this!
 
 Kalki (Noah M)
 
-[Hey folks! I attended the governance talk with Professor Nimrod yesterday, does anyone have a link to those slides he presented?  (edited)](about:blank#)
+Hey folks! I attended the governance talk with Professor Nimrod yesterday, does anyone have a link to those slides he presented?  (edited)
 
 <h3>pat.zip (TE Academy) <img src="https://cdn.discordapp.com/avatars/902543185367142400/3485dc9d4dafd5db7ec18f6ed2979c3f.png" width=25 height=25></h3>
 
@@ -13156,7 +13156,7 @@ If the timing of the call doesn't suit your schedule and you're interesed on a 1
 
 Mount Manu
 
-[I'd like to welcome the newest members of our community: @Rich Baxter @christianDike @Najnomics @solderneer @ShowSeth @Lilith @georgefernandez @adamska @dkwOLF @grey @joshuAF @André Luna @Lacarolina___ @yamevoyadormirbye @Roekel @JarrodBarnes I'm Manu and I'll be your onboarding guide: feel free to tag me alongside any questions you might have about our community  As the first step in your journey through our DAO, you might want to join our weekly **Orientation Call** this Thursday, June 16th, in our Community Voice Channel, at 19:00 CET (GMT+2). For your convenience, here's a calendar link to the event:](about:blank#)
+I'd like to welcome the newest members of our community: @Rich Baxter @christianDike @Najnomics @solderneer @ShowSeth @Lilith @georgefernandez @adamska @dkwOLF @grey @joshuAF @André Luna @Lacarolina___ @yamevoyadormirbye @Roekel @JarrodBarnes I'm Manu and I'll be your onboarding guide: feel free to tag me alongside any questions you might have about our community  As the first step in your journey through our DAO, you might want to join our weekly **Orientation Call** this Thursday, June 16th, in our Community Voice Channel, at 19:00 CET (GMT+2). For your convenience, here's a calendar link to the event:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
@@ -13211,7 +13211,7 @@ If you cannot make it, you can join next week's call or we can arrange for a 1 o
 
 Costa
 
-[Hello! @LinkGuan @JJCampuzano.eth @gak@Max Up @Yizinet @mstefa @ParkChuYong @azat @Süm @Mert Çetin Welcome to the TEC  We are glad to have you here with us. To get to know you better, we invite you all to attend our weekly **Orientation Call** ️ It will be happenning on **Thursday, July 7th, at 7 PM CET / 1 PM EST** in our community voice channel. We'll make a presentation introducing the TEC, we'll answer any questions that you may have and we'll help you get started. Join the call at any time  If you cannot make it, you can join next week's call or we can arrange for a 1 on 1 call if that suits you better. See you on Thursday! Have a nice week](about:blank#) 
+Hello! @LinkGuan @JJCampuzano.eth @gak@Max Up @Yizinet @mstefa @ParkChuYong @azat @Süm @Mert Çetin Welcome to the TEC  We are glad to have you here with us. To get to know you better, we invite you all to attend our weekly **Orientation Call** ️ It will be happenning on **Thursday, July 7th, at 7 PM CET / 1 PM EST** in our community voice channel. We'll make a presentation introducing the TEC, we'll answer any questions that you may have and we'll help you get started. Join the call at any time  If you cannot make it, you can join next week's call or we can arrange for a 1 on 1 call if that suits you better. See you on Thursday! Have a nice week 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 

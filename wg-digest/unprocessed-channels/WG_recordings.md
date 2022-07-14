@@ -446,7 +446,7 @@ _12-May-21 12:33 PM_:
 
 Vyvy-vi
 
-[oh, my bad](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f613.png" width=20 height=20>
+oh, my bad  <img src="https://twemoji.maxcdn.com/2/72x72/1f613.png" width=20 height=20>
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -1098,7 +1098,7 @@ Where do we listen to these? Can the answer be pinned to this channel please? (e
 
 ryeder (they/them)
 
-[Where do we listen to these? Can the answer be pinned to this channel please?  (edited)](about:blank#)
+Where do we listen to these? Can the answer be pinned to this channel please?  (edited)
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -1130,7 +1130,7 @@ _16-Dec-21 01:50 PM_:
 
 Vyvy-vi
 
-[These are uploaded to youtube (afaik)](about:blank#)
+These are uploaded to youtube (afaik)
 
 [https://youtube.com/c/TokenEngineeringCommons](https://youtube.com/c/TokenEngineeringCommons)
 

@@ -86,7 +86,7 @@ sounds good for me <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width
 
 liviade
 
-[let's pick a date for the committee meeting @santigs @mateodaza ? what about next tuesday at 3pm CET?  (edited)](about:blank#)
+let's pick a date for the committee meeting @santigs @mateodaza ? what about next tuesday at 3pm CET?  (edited)
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -122,7 +122,7 @@ Would something like this be useful^
 
 Vyvy-vi
 
-[@santigs @liviade^](about:blank#)
+@santigs @liviade^
 
 <h3>santigs <img src="https://cdn.discordapp.com/avatars/434632218246381569/ecb10317edc17d2e273d2404cc6f6a52.png" width=25 height=25></h3>
 
@@ -238,7 +238,7 @@ Both these approaches work fine, but they both need some amount of polishing bef
 
 liviade
 
-[Hi Mateo!! thanks for letting us know](about:blank#)
+Hi Mateo!! thanks for letting us know
 
 <h3>Craig <img src="https://cdn.discordapp.com/avatars/655144629481635841/67b40701b6568cef805b1a099eaa2614.png" width=25 height=25></h3>
 
@@ -250,7 +250,7 @@ yes @liviade free today 3-5 pm (pacific) manana 8-9 am, 12-1, after 4
 
 Craig
 
-[yes @liviade free today 3-5 pm (pacific) manana 8-9 am, 12-1, after 4](about:blank#)
+yes @liviade free today 3-5 pm (pacific) manana 8-9 am, 12-1, after 4
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -280,7 +280,7 @@ can it work async if you give me a summary of the decisions?
 
 liviade
 
-[does tomorrow at 5pm CET works for you guys? @mateodaza @santigs @Vyvy-vi](about:blank#)
+does tomorrow at 5pm CET works for you guys? @mateodaza @santigs @Vyvy-vi
 
 <h3>Craig <img src="https://cdn.discordapp.com/avatars/655144629481635841/67b40701b6568cef805b1a099eaa2614.png" width=25 height=25></h3>
 
@@ -298,7 +298,7 @@ _20-May-21 11:05 AM_:
 
 liviade
 
-[does tomorrow at 5pm CET works for you guys? @mateodaza @santigs @Vyvy-vi](about:blank#)
+does tomorrow at 5pm CET works for you guys? @mateodaza @santigs @Vyvy-vi
 
 <h3>Craig <img src="https://cdn.discordapp.com/avatars/655144629481635841/67b40701b6568cef805b1a099eaa2614.png" width=25 height=25></h3>
 
@@ -323,7 +323,7 @@ and what is the sourcecred address we can use to send the wxdai?
 
 Vyvy-vi
 
-[## Approach-2: Single Command](about:blank#)
+## Approach-2: Single Command
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -352,7 +352,7 @@ You will use commercially reasonable efforts to protect data collected by your A
 
 liviade
 
-[Hey @mateodaza today we decided to use wxdai for the test distribution instead of touching on IH that is under analysis now](about:blank#)
+Hey @mateodaza today we decided to use wxdai for the test distribution instead of touching on IH that is under analysis now
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -364,7 +364,7 @@ Awesome, sorry I took long to come back at this - it's been a terrible week for 
 
 liviade
 
-[Do you have everything ready on your side?](about:blank#)
+Do you have everything ready on your side?
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -376,7 +376,7 @@ We have to do it manually - I'll update the sourcecred data and we are ready
 
 liviade
 
-[and what is the sourcecred address we can use to send the wxdai?](about:blank#)
+and what is the sourcecred address we can use to send the wxdai?
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -396,7 +396,7 @@ Hey @mateodaza sorry to hear that! Hope everything is coming into place for you
 
 mateodaza
 
-[none, we have to set up one ourselves - I remember we discussing it with @santigs if we should use a multisig or plain address](about:blank#)
+none, we have to set up one ourselves - I remember we discussing it with @santigs if we should use a multisig or plain address
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -408,7 +408,7 @@ Oooo!! I thought we would be able to do it tomorrow. Ok, so might be good to hav
 
 mateodaza
 
-[I'll try my best to join the call tomorrow and we talk about this - But I'm really struggling](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=20 height=20>
+I'll try my best to join the call tomorrow and we talk about this - But I'm really struggling  <img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -426,7 +426,7 @@ I’m available early tomorrow. Not sure if you’re free around 9am GMT-5 - I c
 
 liviade
 
-[Oooo!! I thought we would be able to do it tomorrow. Ok, so might be good to have a quick sense making around this. I think a multisig is a good idea. What powers would it have? How many people would be optimal? What are the risks? We can talk about this tomorrow](about:blank#)
+Oooo!! I thought we would be able to do it tomorrow. Ok, so might be good to have a quick sense making around this. I think a multisig is a good idea. What powers would it have? How many people would be optimal? What are the risks? We can talk about this tomorrow
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -466,7 +466,7 @@ do you think we need anyone else's inputs?
 
 liviade
 
-[thanks for the updates @mateodaza](about:blank#)
+thanks for the updates @mateodaza
 
 <h3>Craig <img src="https://cdn.discordapp.com/avatars/655144629481635841/67b40701b6568cef805b1a099eaa2614.png" width=25 height=25></h3>
 
@@ -480,7 +480,7 @@ aragon experts amongst us ( @mateodaza ?) just thinking out loud here. no idea i
 
 liviade
 
-[does everyone in this chat agrees to use the multisig? @santigs @Vyvy-vi @Craig](about:blank#)
+does everyone in this chat agrees to use the multisig? @santigs @Vyvy-vi @Craig
 
 <h3>santigs <img src="https://cdn.discordapp.com/avatars/434632218246381569/ecb10317edc17d2e273d2404cc6f6a52.png" width=25 height=25></h3>
 
@@ -492,7 +492,7 @@ I agree multisig is the best way to move forward
 
 Craig
 
-[aragon experts amongst us ( @mateodaza ?) just thinking out loud here. no idea if it makes any sense. we already have the system set up and utilized. if we can require multiple addresses for minting, would it serve same purpose as a separate multisig? but then distribution would still have to come from a separate address. and do we want sourcecred processes separate from other tec token generation activities?](about:blank#)
+aragon experts amongst us ( @mateodaza ?) just thinking out loud here. no idea if it makes any sense. we already have the system set up and utilized. if we can require multiple addresses for minting, would it serve same purpose as a separate multisig? but then distribution would still have to come from a separate address. and do we want sourcecred processes separate from other tec token generation activities?
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -534,7 +534,7 @@ I heard back from @hernandoagf(from 1hive), about the sourcecred API. It does ha
 
 liviade
 
-[what do you think? @sem(🌸,🐝)what would be the process for using this? is it easy and quick to make?](about:blank#)
+what do you think? @sem(🌸,🐝)what would be the process for using this? is it easy and quick to make?
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -591,7 +591,7 @@ we could also create rules so the voting can be based on it, i feel its importan
 
 Zeptimus
 
-[we could also create rules so the voting can be based on it, i feel its important we have strong conviction everytime we vote yes](about:blank#)
+we could also create rules so the voting can be based on it, i feel its important we have strong conviction everytime we vote yes
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -632,7 +632,7 @@ it was too last minute to get everyone in! let's try next week
 
 liviade
 
-[it was too last minute to get everyone in! let's try next week](about:blank#)
+it was too last minute to get everyone in! let's try next week
 
 <h3>Craig <img src="https://cdn.discordapp.com/avatars/655144629481635841/67b40701b6568cef805b1a099eaa2614.png" width=25 height=25></h3>
 
@@ -644,7 +644,7 @@ hey livi. while not engaged in sourcecred stuff until recently, i wouldn't mind 
 
 Craig
 
-[hey livi. while not engaged in sourcecred stuff until recently, i wouldn't mind joining the sesh. since im currently minting and distributing IH through aragon, it will be helpful for me to learn more.](about:blank#)
+hey livi. while not engaged in sourcecred stuff until recently, i wouldn't mind joining the sesh. since im currently minting and distributing IH through aragon, it will be helpful for me to learn more.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -692,7 +692,7 @@ I'll look out what option brings the more benefits, it's being used at 1hive so 
 
 mateodaza
 
-[Guys, so @sem(🌸,🐝) recommended this app to integrate on the DAO, I find it very cool](about:blank#)
+Guys, so @sem(🌸,🐝) recommended this app to integrate on the DAO, I find it very cool
 
 [https://github.com/1Hive/transactions-app#transactions-](https://github.com/1Hive/transactions-app#transactions-)
 
@@ -765,7 +765,7 @@ Transactions App is ready to use on our DAO, last friday the voting passed
 
 mateodaza
 
-[I'd like to see how we can automate the building of this spreadsheet, maybe Santiago knows @santigs ? After we send the funds to everyone's wallet, I'd have to do a 'burn' of the distributed tokens for each identity, this process is manual. And that's it   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+I'd like to see how we can automate the building of this spreadsheet, maybe Santiago knows @santigs ? After we send the funds to everyone's wallet, I'd have to do a 'burn' of the distributed tokens for each identity, this process is manual. And that's it   (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -777,7 +777,7 @@ hey @KZ Flyer do you have experience with this?
 
 mateodaza
 
-[I'd like to see how we can automate the building of this spreadsheet, maybe Santiago knows @santigs ? After we send the funds to everyone's wallet, I'd have to do a 'burn' of the distributed tokens for each identity, this process is manual. And that's it   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+I'd like to see how we can automate the building of this spreadsheet, maybe Santiago knows @santigs ? After we send the funds to everyone's wallet, I'd have to do a 'burn' of the distributed tokens for each identity, this process is manual. And that's it   (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -789,7 +789,7 @@ I think 1hive's pollen instance has a github action that outputs this data
 
 Vyvy-vi
 
-[I think 1hive's pollen instance has a github action that outputs this data](about:blank#)
+I think 1hive's pollen instance has a github action that outputs this data
 
 <h3>KZ Flyer <img src="https://cdn.discordapp.com/avatars/433877864849473557/426992a96a4d443fd0931bfe92ff1515.png" width=25 height=25></h3>
 
@@ -835,7 +835,7 @@ and that we recommend people have an address exclusively for sourcecred
 
 santigs
 
-[he also mentioned we could do something semi-automatic ourselves so maybe we can explain the case to Sem and see if he could come out with a midway solution](about:blank#)
+he also mentioned we could do something semi-automatic ourselves so maybe we can explain the case to Sem and see if he could come out with a midway solution
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -849,7 +849,7 @@ are this issues a blocker for us to move forward with the first distribution @ma
 
 liviade
 
-[hey @Vyvy-vi so we chatted on tuesday about the channel with the bot and decided to go ahead with an open channel instead of DM's but add a big warning message that the addresses will be public](about:blank#)
+hey @Vyvy-vi so we chatted on tuesday about the channel with the bot and decided to go ahead with an open channel instead of DM's but add a big warning message that the addresses will be public
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -861,7 +861,7 @@ alright!
 
 KZ Flyer
 
-[Yes! They just automated their pollen.](about:blank#)
+Yes! They just automated their pollen.
 
 [https://github.com/1Hive/pollen](https://github.com/1Hive/pollen)
 
@@ -875,7 +875,7 @@ did you check this @mateodaza? is it related to what you wanted to solve?
 
 liviade
 
-[hey @sem(🌸,🐝) would love to hear your thoughts here](about:blank#)
+hey @sem(🌸,🐝) would love to hear your thoughts here
 
 <h3>sem(🌸,🐝) <img src="https://cdn.discordapp.com/avatars/676517295643820032/bfcde0fd88f9b8e9c184906a5080c128.png" width=25 height=25></h3>
 
@@ -906,7 +906,7 @@ hey team! how are we doing for the first distribution? @mateodaza @santigs @Vyvy
 
 TestBot (AKA Praise Scraper?)
 
-[Fetching all Praise from -sourcecred...](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f4b8.png" width=20 height=20>
+Fetching all Praise from -sourcecred... <img src="https://twemoji.maxcdn.com/2/72x72/1f4b8.png" width=20 height=20>
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -926,7 +926,7 @@ Did you hear back from S'em?
 
 mateodaza
 
-[what's this!??](about:blank#)
+what's this!??
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -946,7 +946,7 @@ For testing purposes we can do the distribution without last week data
 
 liviade
 
-[hey team! how are we doing for the first distribution? @mateodaza @santigs @Vyvy-vi](about:blank#)
+hey team! how are we doing for the first distribution? @mateodaza @santigs @Vyvy-vi
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -968,7 +968,7 @@ But can vote the dao distribution
 
 mateodaza
 
-[We need to add the xDAI to the DAO and set all the addresses to our spreadsheet and then make the payment with the 'transactions' app (and also burn in the sourcecred) - I'm really busy with some Giveth stuff tomorrow so I propose we hack on it on Wednesday if everyone has the time maybe? I could do it alone but for transparency it could be cool to do it together   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
+We need to add the xDAI to the DAO and set all the addresses to our spreadsheet and then make the payment with the 'transactions' app (and also burn in the sourcecred) - I'm really busy with some Giveth stuff tomorrow so I propose we hack on it on Wednesday if everyone has the time maybe? I could do it alone but for transparency it could be cool to do it together   (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -988,7 +988,7 @@ hey @Craig, @mateodaza needs the spreadsheet will all the addresses, do you have
 
 liviade
 
-[hey @Craig, @mateodaza needs the spreadsheet will all the addresses, do you have access to it?](about:blank#)
+hey @Craig, @mateodaza needs the spreadsheet will all the addresses, do you have access to it?
 
 <h3>Craig <img src="https://cdn.discordapp.com/avatars/655144629481635841/67b40701b6568cef805b1a099eaa2614.png" width=25 height=25></h3>
 
@@ -1000,7 +1000,7 @@ Which list of addresses? IH holders who have successfully applied to trusted see
 
 Craig
 
-[Which list of addresses? IH holders who have successfully applied to trusted seed?](about:blank#)
+Which list of addresses? IH holders who have successfully applied to trusted seed?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1026,7 +1026,7 @@ hmm, that ones for getting lost praise data(PRAISEMERGENCY :P) The Sourcecred bo
 
 mateodaza
 
-[Yeah! But I bet there’s some people that’s contributing without being a trusted seed yet. Didn’t @Vyvy-vi make one spreadsheet integrantes to a bot in the discord ?](about:blank#)
+Yeah! But I bet there’s some people that’s contributing without being a trusted seed yet. Didn’t @Vyvy-vi make one spreadsheet integrantes to a bot in the discord ?
 
 <h3>Craig <img src="https://cdn.discordapp.com/avatars/655144629481635841/67b40701b6568cef805b1a099eaa2614.png" width=25 height=25></h3>
 
@@ -1038,7 +1038,7 @@ Yes, true. We have address lists ranging from - all trusted seed (600+) - TS-IH 
 
 mateodaza
 
-[Yeah! But I bet there’s some people that’s contributing without being a trusted seed yet. Didn’t @Vyvy-vi make one spreadsheet integrantes to a bot in the discord ?](about:blank#)
+Yeah! But I bet there’s some people that’s contributing without being a trusted seed yet. Didn’t @Vyvy-vi make one spreadsheet integrantes to a bot in the discord ?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1052,7 +1052,7 @@ if we are distributing something other than IH it should be fine
 
 Craig
 
-[Yes, true. We have address lists ranging from - all trusted seed (600+) - TS-IH verified (250+) - TS members who agreed to share their pers info with the TEC via direct email campaign (125+) CSTK performed the third bullet above because we have had privacy issues/questions regarding the sharing of ETH & email addresses. Don't know where sourcecred falls on the spectrum but worth considering if haven't already.](about:blank#)
+Yes, true. We have address lists ranging from - all trusted seed (600+) - TS-IH verified (250+) - TS members who agreed to share their pers info with the TEC via direct email campaign (125+) CSTK performed the third bullet above because we have had privacy issues/questions regarding the sharing of ETH & email addresses. Don't know where sourcecred falls on the spectrum but worth considering if haven't already.
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -1064,7 +1064,7 @@ That'd work then! Can you share it with me please?
 
 mateodaza
 
-[That'd work then! Can you share it with me please?](about:blank#)
+That'd work then! Can you share it with me please?
 
 <h3>Craig <img src="https://cdn.discordapp.com/avatars/655144629481635841/67b40701b6568cef805b1a099eaa2614.png" width=25 height=25></h3>
 
@@ -1076,7 +1076,7 @@ Which list?
 
 Craig
 
-[Which list?](about:blank#)
+Which list?
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -1108,7 +1108,7 @@ Go vote in the DAO!!! Here's the spreadsheet with the distribution info
 
 liviade
 
-[hey @santigs @Zeptimus @natesuits @anna-marie @chuygarcia.eth @escanor.eth we have a vote to pass :D](about:blank#)
+hey @santigs @Zeptimus @natesuits @anna-marie @chuygarcia.eth @escanor.eth we have a vote to pass :D
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -1137,7 +1137,7 @@ voted too
 
 mateodaza
 
-[please please please don't let this vote die, setting >50 addresses in there was really something](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
+please please please don't let this vote die, setting >50 addresses in there was really something  <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>sem(🌸,🐝) <img src="https://cdn.discordapp.com/avatars/676517295643820032/bfcde0fd88f9b8e9c184906a5080c128.png" width=25 height=25></h3>
 
@@ -1181,7 +1181,7 @@ thanks for pointing it out Kristofer! @santigs @mateodaza do you remember what w
 
 kristofer
 
-[Hi, I noticed that sourcred is configured to read just a few of the GitHub repositories. Shouldn't more (all?) be included?](about:blank#)
+Hi, I noticed that sourcred is configured to read just a few of the GitHub repositories. Shouldn't more (all?) be included?
 
 [https://github.com/CommonsBuild/tec-sourcecred/blob/master/config/plugins/sourcecred/github/config.json](https://github.com/CommonsBuild/tec-sourcecred/blob/master/config/plugins/sourcecred/github/config.json)
 
@@ -1215,7 +1215,7 @@ i think it might be worth taking a look @mateodaza this might save us a bunch of
 
 chuygarcia.eth
 
-[i think it might be worth taking a look @mateodaza this might save us a bunch of issues in the initial distributions](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
+i think it might be worth taking a look @mateodaza this might save us a bunch of issues in the initial distributions  <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -1276,7 +1276,7 @@ Pollen Distribution period starting July 20 proposal link: Honey Pot Proposal In
 
 chuygarcia.eth
 
-[@mateodaza @liviade The last pollen funding proposal got challenged on celeste! I think this case and the discussion around it is gonna be great input for our own implementation](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+@mateodaza @liviade The last pollen funding proposal got challenged on celeste! I think this case and the discussion around it is gonna be great input for our own implementation  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://forum.1hive.org/t/pollen-distribution-period-starting-july-20th/4168?u=chuygarcia92](https://forum.1hive.org/t/pollen-distribution-period-starting-july-20th/4168?u=chuygarcia92)
 
@@ -1290,7 +1290,7 @@ that's fascinating! thanks for sharing Chuy
 
 chuygarcia.eth
 
-[@mateodaza @liviade The last pollen funding proposal got challenged on celeste! I think this case and the discussion around it is gonna be great input for our own implementation](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+@mateodaza @liviade The last pollen funding proposal got challenged on celeste! I think this case and the discussion around it is gonna be great input for our own implementation  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://forum.1hive.org/t/pollen-distribution-period-starting-july-20th/4168?u=chuygarcia92](https://forum.1hive.org/t/pollen-distribution-period-starting-july-20th/4168?u=chuygarcia92)
 
@@ -1318,7 +1318,7 @@ SourceCred recognizes it’s guilty of not spending a lot of time with 1Hive lat
 
 chuygarcia.eth
 
-[@mateodaza @liviade The last pollen funding proposal got challenged on celeste! I think this case and the discussion around it is gonna be great input for our own implementation](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+@mateodaza @liviade The last pollen funding proposal got challenged on celeste! I think this case and the discussion around it is gonna be great input for our own implementation  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://forum.1hive.org/t/pollen-distribution-period-starting-july-20th/4168?u=chuygarcia92](https://forum.1hive.org/t/pollen-distribution-period-starting-july-20th/4168?u=chuygarcia92)
 
@@ -1332,7 +1332,7 @@ is it possible to see details of the celeste challenging somewhere?
 
 liviade
 
-[I wonder if we can start looking at our data with this notebooks @mateodaza](about:blank#)
+I wonder if we can start looking at our data with this notebooks @mateodaza
 
 [https://forum.1hive.org/t/pollen-distribution-period-starting-july-20th/4168/15?u=liviade](https://forum.1hive.org/t/pollen-distribution-period-starting-july-20th/4168/15?u=liviade)
 
@@ -1346,7 +1346,7 @@ I need to check how that works, but it does sound interesting
 
 liviade
 
-[is it possible to see details of the celeste challenging somewhere?](about:blank#)
+is it possible to see details of the celeste challenging somewhere?
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -1366,7 +1366,7 @@ We have been talking about Celeste and how important it is to 1hive, but there h
 
 liviade
 
-[is it possible to see details of the celeste challenging somewhere?](about:blank#)
+is it possible to see details of the celeste challenging somewhere?
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -1410,7 +1410,7 @@ hey!! thanks for the quick response
 
 Vyvy-vi
 
-[Hey! It sorta works (but you won't have a UI to view them) I'm wondering, if it would be of value to fork 1hive's pollen-bee implementation, which automatically enters people to sourcecred, after they send a command](about:blank#)
+Hey! It sorta works (but you won't have a UI to view them) I'm wondering, if it would be of value to fork 1hive's pollen-bee implementation, which automatically enters people to sourcecred, after they send a command
 
 [https://github.com/1Hive/pollen-bot](https://github.com/1Hive/pollen-bot)
 
@@ -1432,7 +1432,7 @@ I think I could set it up, however I'm not sure how to connect this with our sou
 
 liviade
 
-[@santigs I think you'e still on vacation but I'm not sure, so just pinging you here, but don't worry about it if you're unavailable](about:blank#)
+@santigs I think you'e still on vacation but I'm not sure, so just pinging you here, but don't worry about it if you're unavailable
 
 <h3>santigs <img src="https://cdn.discordapp.com/avatars/434632218246381569/ecb10317edc17d2e273d2404cc6f6a52.png" width=25 height=25></h3>
 
@@ -1444,7 +1444,7 @@ Will be back Friday night
 
 Vyvy-vi
 
-[I think I could set it up, however I'm not sure how to connect this with our sourcecred instance](about:blank#)
+I think I could set it up, however I'm not sure how to connect this with our sourcecred instance
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1456,7 +1456,7 @@ _24-Aug-21 12:05 PM_:
 
 santigs
 
-[Will be back Friday night](about:blank#)
+Will be back Friday night
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1468,7 +1468,7 @@ thanks Santi, enjoy!
 
 liviade
 
-[hey everyone, can we have a chat today after sot gov to discuss next steps for sourcecred? @mateodaza  (edited)](about:blank#)
+hey everyone, can we have a chat today after sot gov to discuss next steps for sourcecred? @mateodaza  (edited)
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -1480,7 +1480,7 @@ Just saw this, yes of course :))
 
 liviade
 
-[@mateodaza @ryeder (they/them) any ideas on how to do this?](about:blank#)
+@mateodaza @ryeder (they/them) any ideas on how to do this?
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -1494,7 +1494,7 @@ Maybe I can ask sandpiper, I see him there as a contributor
 
 mateodaza
 
-[Maybe I can ask sandpiper, I see him there as a contributor](about:blank#)
+Maybe I can ask sandpiper, I see him there as a contributor
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1505,7 +1505,7 @@ that would be great <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" widt
 
 liviade
 
-[would be great to have you there too @ryeder (they/them)](about:blank#)
+would be great to have you there too @ryeder (they/them)
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -1516,7 +1516,7 @@ Great! I was planning on it <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.p
 
 liviade
 
-[@mateodaza @ryeder (they/them) any ideas on how to do this?](about:blank#)
+@mateodaza @ryeder (they/them) any ideas on how to do this?
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -1530,7 +1530,7 @@ With we need any help we can ask @hernandoagf
 
 mateodaza
 
-[Maybe I can ask sandpiper, I see him there as a contributor](about:blank#)
+Maybe I can ask sandpiper, I see him there as a contributor
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -1576,7 +1576,7 @@ I've been asking him questions in his DMs and may be able to answer questions in
 
 ryeder (they/them)
 
-[He's pretty busy with a new job and will probably send you to hernando   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
+He's pretty busy with a new job and will probably send you to hernando   (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -1604,7 +1604,7 @@ any chance for this week?
 
 liviade
 
-[@santigs @mateodaza when can we take a look into the sourcecred data we gathered so far?](about:blank#)
+@santigs @mateodaza when can we take a look into the sourcecred data we gathered so far?
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -1649,7 +1649,7 @@ This is an example ExternalPlugin to show 3rd-party developers how to create one
 
 mateodaza
 
-[Well, yeah maybe it's better. At least from the tech side I'd have more clarity. I'm up for either tho](about:blank#)
+Well, yeah maybe it's better. At least from the tech side I'd have more clarity. I'm up for either tho
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1689,7 +1689,7 @@ thanks so much for organizing this call @kristofer <img src="https://twemoji.max
 
 kristofer
 
-[@liviade suggested we meet up and discuss how we make the Reward System proposal become a reality in the near- to midterm! We need a working Reward System in place as close in time as possible to the commons upgrade. Do we integrate SourceCred with the praise system, integrate the praise system with SourceCred, build something from scratch or make do with spreadsheets, gaff tape and a better documented process? Ideally we would like to create something that solves our needs - better analytics and transparency among other things - and is "product" enough to be reused by other communities without too much of an effort. Let's look at the process from praise to payment and try to identify all moving parts, who does what, etc. See Miro – Reward System Process:](about:blank#)
+@liviade suggested we meet up and discuss how we make the Reward System proposal become a reality in the near- to midterm! We need a working Reward System in place as close in time as possible to the commons upgrade. Do we integrate SourceCred with the praise system, integrate the praise system with SourceCred, build something from scratch or make do with spreadsheets, gaff tape and a better documented process? Ideally we would like to create something that solves our needs - better analytics and transparency among other things - and is "product" enough to be reused by other communities without too much of an effort. Let's look at the process from praise to payment and try to identify all moving parts, who does what, etc. See Miro – Reward System Process:
 
 [https://miro.com/app/board/o9J_lyTkWjY=/](https://miro.com/app/board/o9J_lyTkWjY=/)
 
@@ -1714,7 +1714,7 @@ I’ll be there! @hannahjojo @Lauren maybe you’re interested from the Giveth t
 
 mateodaza
 
-[I’ll be there! @hannahjojo @Lauren maybe you’re interested from the Giveth team](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=20 height=20>
+I’ll be there! @hannahjojo @Lauren maybe you’re interested from the Giveth team  <img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=20 height=20>
 
 <h3>Lauren <img src="https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png" width=25 height=25></h3>
 
@@ -1726,7 +1726,7 @@ thanks for the ping Mateo!! I'll be there
 
 kristofer
 
-[@liviade suggested we meet up and discuss how we make the Reward System proposal become a reality in the near- to midterm! We need a working Reward System in place as close in time as possible to the commons upgrade. Do we integrate SourceCred with the praise system, integrate the praise system with SourceCred, build something from scratch or make do with spreadsheets, gaff tape and a better documented process? Ideally we would like to create something that solves our needs - better analytics and transparency among other things - and is "product" enough to be reused by other communities without too much of an effort. Let's look at the process from praise to payment and try to identify all moving parts, who does what, etc. See Miro – Reward System Process:](about:blank#)
+@liviade suggested we meet up and discuss how we make the Reward System proposal become a reality in the near- to midterm! We need a working Reward System in place as close in time as possible to the commons upgrade. Do we integrate SourceCred with the praise system, integrate the praise system with SourceCred, build something from scratch or make do with spreadsheets, gaff tape and a better documented process? Ideally we would like to create something that solves our needs - better analytics and transparency among other things - and is "product" enough to be reused by other communities without too much of an effort. Let's look at the process from praise to payment and try to identify all moving parts, who does what, etc. See Miro – Reward System Process:
 
 [https://miro.com/app/board/o9J_lyTkWjY=/](https://miro.com/app/board/o9J_lyTkWjY=/)
 
@@ -1757,7 +1757,7 @@ Could praise be imported into SourceCred? I read up on how the SourceCred contri
 
 kristofer
 
-[@hz, would this be a workable graph structure? I didn't include the weights but I imagine they would be manually estimated in the quant process and set on the edges connecting praise and contribution?](about:blank#)
+@hz, would this be a workable graph structure? I didn't include the weights but I imagine they would be manually estimated in the quant process and set on the edges connecting praise and contribution?
 
 <h3>hz <img src="https://cdn.discordapp.com/avatars/318552163649454081/a7495c44681943eaea928c5e0194b1cb.png" width=25 height=25></h3>
 
@@ -1784,7 +1784,7 @@ If we choose to go that route with praise, perhaps this simple addition would al
 
 kristofer
 
-[If we choose to go that route with praise, perhaps this simple addition would allow us to do some automation and auto suggestions in the quantification process. And improve the quality of the graph. – Adding an url reference to the praise where applicable, like so: !praise @someone for sharing their research paper on token economics, https://xxx/zzz.pdf](about:blank#)
+If we choose to go that route with praise, perhaps this simple addition would allow us to do some automation and auto suggestions in the quantification process. And improve the quality of the graph. – Adding an url reference to the praise where applicable, like so: !praise @someone for sharing their research paper on token economics, https://xxx/zzz.pdf
 
 <h3>hz <img src="https://cdn.discordapp.com/avatars/318552163649454081/a7495c44681943eaea928c5e0194b1cb.png" width=25 height=25></h3>
 
@@ -1812,7 +1812,7 @@ Maybe this situation has been handled manually up to this point during praise qu
 
 kristofer
 
-[The alternative to merging "similar" praise into one contribution is.. not doing it. @hz , would SC still be able to do a good job with a graph like this? SC seeing it as every praise as one contribution my hunch says would lead to weird and skewed results.  (edited)](about:blank#)
+The alternative to merging "similar" praise into one contribution is.. not doing it. @hz , would SC still be able to do a good job with a graph like this? SC seeing it as every praise as one contribution my hunch says would lead to weird and skewed results.  (edited)
 
 <h3>hz <img src="https://cdn.discordapp.com/avatars/318552163649454081/a7495c44681943eaea928c5e0194b1cb.png" width=25 height=25></h3>
 
@@ -1824,7 +1824,7 @@ I think this would be the way to go there might be a smart script that might det
 
 kristofer
 
-[Praise always runs the risk of becoming a popularity contest, where 3 praise for one contribution gives you 3 times more cred/grain/IH than 1 praise for the same contribution.](about:blank#)
+Praise always runs the risk of becoming a popularity contest, where 3 praise for one contribution gives you 3 times more cred/grain/IH than 1 praise for the same contribution.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1854,7 +1854,7 @@ Rewards System Process
 
 liviade
 
-[One suggestion @🐙 octopus gave was to remove names from the quant process so quantifiers would become less biased - this is great, but if we go ahead with this idea what I mentioned above couldn't be solved just culturally](about:blank#)
+One suggestion @🐙 octopus gave was to remove names from the quant process so quantifiers would become less biased - this is great, but if we go ahead with this idea what I mentioned above couldn't be solved just culturally
 
 <h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
@@ -1917,7 +1917,7 @@ This is an example ExternalPlugin to show 3rd-party developers how to create one
 
 kristofer
 
-[@Nuggan @mateodaza You mentioned it probably is going to be difficult to feed praise data into SourceCred. I don't remember, what where the arguments? The interface seems fairly straightforward provided we can produce a "WeightedGraph" according to the SC spec.](about:blank#)
+@Nuggan @mateodaza You mentioned it probably is going to be difficult to feed praise data into SourceCred. I don't remember, what where the arguments? The interface seems fairly straightforward provided we can produce a "WeightedGraph" according to the SC spec.
 
 [https://observablehq.com/@sourcecred/external-plugin-tutorial](https://observablehq.com/@sourcecred/external-plugin-tutorial)
 
@@ -1932,7 +1932,7 @@ I just said it because I had seen that the metafactory team had planned to do it
 
 🐙 octopus
 
-[I do like this idea, partially because I think 'Praise X for being an awesome person ' should make X feel good but not receive quantitative credit -- newcomers have no experience with X, and even veteran community members may have different ideas about how awesome X is.](about:blank#)
+I do like this idea, partially because I think 'Praise X for being an awesome person ' should make X feel good but not receive quantitative credit -- newcomers have no experience with X, and even veteran community members may have different ideas about how awesome X is.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1944,7 +1944,7 @@ but how could we solve something like - "I praise tam for her leadership" vs "I 
 
 liviade
 
-[but how could we solve something like - "I praise tam for her leadership" vs "I praise person x for their leadership". The quantity I might give to that praise is directly related to how well I judge Tam performs that role](about:blank#)
+but how could we solve something like - "I praise tam for her leadership" vs "I praise person x for their leadership". The quantity I might give to that praise is directly related to how well I judge Tam performs that role
 
 <h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
@@ -1960,7 +1960,7 @@ It's still subjective to a degree, but it's easier to discuss without it feeling
 
 🐙 octopus
 
-[If we say "her leadership of X" rather than just "her leadership", now we can assess the impact of X rather than how we feel about the person.](about:blank#)
+If we say "her leadership of X" rather than just "her leadership", now we can assess the impact of X rather than how we feel about the person.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1972,7 +1972,7 @@ that's great. I agree. It will be a challenge to educate everyone about the form
 
 liviade
 
-[that's great. I agree. It will be a challenge to educate everyone about the format but I think its possible and worth it](about:blank#)
+that's great. I agree. It will be a challenge to educate everyone about the format but I think its possible and worth it
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -1984,7 +1984,7 @@ And if the quant process becomes more asynchronous we would need to define those
 
 Nuggan
 
-[I had no arguments at all  I just said it because I had seen that the metafactory team had planned to do it but backtracked. But if it seems doable we can definitely try!](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
+I had no arguments at all  I just said it because I had seen that the metafactory team had planned to do it but backtracked. But if it seems doable we can definitely try! <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2004,7 +2004,7 @@ with the purpose of tracking contributions outside of what can be more easily me
 
 kristofer
 
-[And if the quant process becomes more asynchronous we would need to define those rules and guidelines more clearly anyway. "The Praise Guide" or "Rules of Praise" will have to be one of the work streams going forward. "their leadership" maybe can be classified as some sort of general appreciation and will receive less weight/score than "consistently hosting the X sessions and being available for questions afterwards".](about:blank#)
+And if the quant process becomes more asynchronous we would need to define those rules and guidelines more clearly anyway. "The Praise Guide" or "Rules of Praise" will have to be one of the work streams going forward. "their leadership" maybe can be classified as some sort of general appreciation and will receive less weight/score than "consistently hosting the X sessions and being available for questions afterwards".
 
 <h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
@@ -2016,7 +2016,7 @@ I think a good pattern for this might be something like *Helpful *More Helpful *
 
 kristofer
 
-[ Had a good talk with @hz today and gained some more insight into SourceCred plugins etc. Some takeaways: - Building a plugin does not seem too difficult using the ExternalPlugin tools - SourceCred already does something like 85% similar to praise using the included Discord bot and one channel configured for the purpose - *props* they call it. No manual quant though, number of reactions determine praise/props weight. - SC also is planning or at least have been planning to build a separate tool called *The Creditor* with the purpose of tracking contributions outside of what can be more easily measured - "care work", "planning that conference", etc. I'll check and find out how far they have come with the Creditor.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=20 height=20>
+ Had a good talk with @hz today and gained some more insight into SourceCred plugins etc. Some takeaways: - Building a plugin does not seem too difficult using the ExternalPlugin tools - SourceCred already does something like 85% similar to praise using the included Discord bot and one channel configured for the purpose - *props* they call it. No manual quant though, number of reactions determine praise/props weight. - SC also is planning or at least have been planning to build a separate tool called *The Creditor* with the purpose of tracking contributions outside of what can be more easily measured - "care work", "planning that conference", etc. I'll check and find out how far they have come with the Creditor. <img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=20 height=20>
 
 <h3>hz <img src="https://cdn.discordapp.com/avatars/318552163649454081/a7495c44681943eaea928c5e0194b1cb.png" width=25 height=25></h3>
 
@@ -2029,7 +2029,7 @@ I have also mentioned our call to the sourcecred community and I’ve got the in
 
 kristofer
 
-[And if the quant process becomes more asynchronous we would need to define those rules and guidelines more clearly anyway. "The Praise Guide" or "Rules of Praise" will have to be one of the work streams going forward. "their leadership" maybe can be classified as some sort of general appreciation and will receive less weight/score than "consistently hosting the X sessions and being available for questions afterwards".](about:blank#)
+And if the quant process becomes more asynchronous we would need to define those rules and guidelines more clearly anyway. "The Praise Guide" or "Rules of Praise" will have to be one of the work streams going forward. "their leadership" maybe can be classified as some sort of general appreciation and will receive less weight/score than "consistently hosting the X sessions and being available for questions afterwards".
 
 <h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
@@ -2041,7 +2041,7 @@ Another situation to imagine is that if Newcomers A and B show up and see "Prais
 
 🐙 octopus
 
-[Another situation to imagine is that if Newcomers A and B show up and see "Praise (insert your favorite TE OG rockstar) for being great" and A decides to follow up with "Praise B for being great", we avoid the situation where we have to go into why Superstar X's greatness is worth more than Newcomer B's. I am primarily proposing we praise accomplishments, rather than individuals.](about:blank#)
+Another situation to imagine is that if Newcomers A and B show up and see "Praise (insert your favorite TE OG rockstar) for being great" and A decides to follow up with "Praise B for being great", we avoid the situation where we have to go into why Superstar X's greatness is worth more than Newcomer B's. I am primarily proposing we praise accomplishments, rather than individuals.
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2061,7 +2061,7 @@ When we drop the name "mz", it's still possible to recover the fact that these a
 
 🐙 octopus
 
-[They don't have to be necessarily discrete -- you can say "Praise mz for his incredible work both as CEO of BlockScience and as the author of fundamental papers on cryptoeconomics."](about:blank#)
+They don't have to be necessarily discrete -- you can say "Praise mz for his incredible work both as CEO of BlockScience and as the author of fundamental papers on cryptoeconomics."
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2075,7 +2075,7 @@ It is not a "here and now" contribution but rather him adding his knowledge to o
 
 kristofer
 
-[It is not a "here and now" contribution but rather him adding his knowledge to our pool of knowledge, and possibly lending his weight adding to the credibility to the TEC. Which are good and praiseworthy things.](about:blank#)
+It is not a "here and now" contribution but rather him adding his knowledge to our pool of knowledge, and possibly lending his weight adding to the credibility to the TEC. Which are good and praiseworthy things.
 
 <h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
@@ -2113,7 +2113,7 @@ For example POST to… requestBody { Server, UserIds, Reason } Headers { Some se
 
 kristofer
 
-[@Vyvy-vi @rdfbbx @johann I have a bot question. Can a bot call another bot? Could in Alexandra in theory post praise messages? alexandra: !praise @user1 @user2 @etc for attending meeting xxx](about:blank#)
+@Vyvy-vi @rdfbbx @johann I have a bot question. Can a bot call another bot? Could in Alexandra in theory post praise messages? alexandra: !praise @user1 @user2 @etc for attending meeting xxx
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -2127,7 +2127,7 @@ Though, since we're building a backend API we could probably set up an endpoints
 
 Vyvy-vi
 
-[yes, that can be done. *However* looking at the direction discord's API is going.. eventually they're gonna make it such that a bot can only post something when mentioned or called via an interaction](about:blank#)
+yes, that can be done. *However* looking at the direction discord's API is going.. eventually they're gonna make it such that a bot can only post something when mentioned or called via an interaction
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2147,7 +2147,7 @@ They're probably putting restrictions on the message event(It's thrown off whene
 
 rdfbbx
 
-[@kristofer hey! Sure. We can configure bot with some ID. Or give praise_giver role to Alexandra and configure praise bot to listen messages. If message author is bot -> check roles of this bot](about:blank#)
+@kristofer hey! Sure. We can configure bot with some ID. Or give praise_giver role to Alexandra and configure praise bot to listen messages. If message author is bot -> check roles of this bot
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2161,7 +2161,7 @@ Interaction with the praise system by letting bots post praise messages provides
 
 Vyvy-vi
 
-[They're probably putting restrictions on the message event(It's thrown off whenever someone sends a message...). Also, afaik they're not enforcing this for small bots, but I have a feeling that somewhere down the line they're gonna change how the API is structured  (edited)](about:blank#)
+They're probably putting restrictions on the message event(It's thrown off whenever someone sends a message...). Also, afaik they're not enforcing this for small bots, but I have a feeling that somewhere down the line they're gonna change how the API is structured  (edited)
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2194,7 +2194,7 @@ wow, so cool Danilo from Blockscience made one for praise last year as well
 
 kristofer
 
-[Ok, great! For a bot like Alexandra it is probably easier to extend it to post praise messages to Discord than to interact with our API. Good to know both options exist.](about:blank#)
+Ok, great! For a bot like Alexandra it is probably easier to extend it to post praise messages to Discord than to interact with our API. Good to know both options exist.
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -2276,7 +2276,7 @@ The Discord Bot App that tracks voice channel presence - GitHub - longtailfinanc
 
 Vyvy-vi
 
-[That's interesting  We've been discussing integrating Alexandra into the praise workflow -](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
+That's interesting  We've been discussing integrating Alexandra into the praise workflow - <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 [https://github.com/longtailfinancial/alexandra](https://github.com/longtailfinancial/alexandra)
 
@@ -2298,7 +2298,7 @@ _23-Sep-21 06:57 PM_:
 
 mitch (🍔, 🍔)
 
-[@kristofer and perhaps others - once we have a clear idea on the detailed process for the reward system what is the next step for advice process? I think we should pointedly get some validation from other relevant experts, token engineers, data scientists etc.. would be very helpful to catch any oversights and not repeat the mistakes of the old reward system.](about:blank#)
+@kristofer and perhaps others - once we have a clear idea on the detailed process for the reward system what is the next step for advice process? I think we should pointedly get some validation from other relevant experts, token engineers, data scientists etc.. would be very helpful to catch any oversights and not repeat the mistakes of the old reward system.
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2332,7 +2332,7 @@ One thing to consider, maybe not for the MVP version but for coming versions, is
 
 kristofer
 
-[One thing to consider, maybe not for the MVP version but for coming versions, is how do we manage the user registry in the best way? We discussed bots for onboarding users, asking them about eth adressess etc. But, a user/member registry is a common need for the TEC as a whole, for more apps than praise. A central user registry would benefit all projects. MetaGame, BoardRoom (and SourceCred?) have begun tinkering with Ceramic/IDX, has someone had a look at what they offer?  (edited)](about:blank#)
+One thing to consider, maybe not for the MVP version but for coming versions, is how do we manage the user registry in the best way? We discussed bots for onboarding users, asking them about eth adressess etc. But, a user/member registry is a common need for the TEC as a whole, for more apps than praise. A central user registry would benefit all projects. MetaGame, BoardRoom (and SourceCred?) have begun tinkering with Ceramic/IDX, has someone had a look at what they offer?  (edited)
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -2363,7 +2363,7 @@ But IDX don't do any proof of humanity or other linking between adress/DID and p
 
 kristofer
 
-[It looks like the Reward System is beginning to have two quite clear arms. 1. Contributions that *can't* be automatically quantified are handled by Praise 2. Contributions that *can* be automatically quantified are handled by SourceCred - GitHub - Discord meeting attendance - Twitter - Discourse - .. ? Two parallell tracks with separate budget allocations based on community decisions.  (edited)](about:blank#)
+It looks like the Reward System is beginning to have two quite clear arms. 1. Contributions that *can't* be automatically quantified are handled by Praise 2. Contributions that *can* be automatically quantified are handled by SourceCred - GitHub - Discord meeting attendance - Twitter - Discourse - .. ? Two parallell tracks with separate budget allocations based on community decisions.  (edited)
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -2378,7 +2378,7 @@ Who runs the reward system meetings? I think that makes them the Steward? I'm de
 
 ryeder (they/them)
 
-[Question: has someone built a twitter plug-in for sourcecred or is this the indication that that is being suggested/is on the table?](about:blank#)
+Question: has someone built a twitter plug-in for sourcecred or is this the indication that that is being suggested/is on the table?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2391,7 +2391,7 @@ Not as far as I know. We need to look into how we can get one online.
 
 ryeder (they/them)
 
-[Who runs the reward system meetings? I think that makes them the Steward? I'm definitely interested in helping organize/co-facilitate mtgs upcoming. I have a lot of experience facilitating and am an active member/treasurer/instance maintainer/experimenter at Sourcecred. FYI I will be offline this Thurs-Sat in case someone tries to follow up and wonders where I went](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+Who runs the reward system meetings? I think that makes them the Steward? I'm definitely interested in helping organize/co-facilitate mtgs upcoming. I have a lot of experience facilitating and am an active member/treasurer/instance maintainer/experimenter at Sourcecred. FYI I will be offline this Thurs-Sat in case someone tries to follow up and wonders where I went  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2403,7 +2403,7 @@ I do the PM'ing and run the reward system meetings every Thursday at 16:00 CET. 
 
 mitch (🍔, 🍔)
 
-[@kristofer and perhaps others - once we have a clear idea on the detailed process for the reward system what is the next step for advice process? I think we should pointedly get some validation from other relevant experts, token engineers, data scientists etc.. would be very helpful to catch any oversights and not repeat the mistakes of the old reward system.](about:blank#)
+@kristofer and perhaps others - once we have a clear idea on the detailed process for the reward system what is the next step for advice process? I think we should pointedly get some validation from other relevant experts, token engineers, data scientists etc.. would be very helpful to catch any oversights and not repeat the mistakes of the old reward system.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -2414,7 +2414,7 @@ I agree! thankfully we'll be running the TE Academy reward system research group
 
 kristofer
 
-[It looks like the Reward System is beginning to have two quite clear arms. 1. Contributions that *can't* be automatically quantified are handled by Praise 2. Contributions that *can* be automatically quantified are handled by SourceCred - GitHub - Discord meeting attendance - Twitter - Discourse - .. ? Two parallell tracks with separate budget allocations based on community decisions.  (edited)](about:blank#)
+It looks like the Reward System is beginning to have two quite clear arms. 1. Contributions that *can't* be automatically quantified are handled by Praise 2. Contributions that *can* be automatically quantified are handled by SourceCred - GitHub - Discord meeting attendance - Twitter - Discourse - .. ? Two parallell tracks with separate budget allocations based on community decisions.  (edited)
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -2426,7 +2426,7 @@ I think it will be helpful to look into what from category 2 is automated, and w
 
 kristofer
 
-[I do the PM'ing and run the reward system meetings every Thursday at 16:00 CET. One thing we really need is someone to make sure the TEC instance is setup and configured in a good way. We have run trials so far and have an instance up and running (I believe). @mateodaza what is the status of the TEC SourceCred instance?](about:blank#)
+I do the PM'ing and run the reward system meetings every Thursday at 16:00 CET. One thing we really need is someone to make sure the TEC instance is setup and configured in a good way. We have run trials so far and have an instance up and running (I believe). @mateodaza what is the status of the TEC SourceCred instance?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -2440,7 +2440,7 @@ also the DAO doesn't look like its working, do you know what might be happening 
 
 kristofer
 
-[I do the PM'ing and run the reward system meetings every Thursday at 16:00 CET. One thing we really need is someone to make sure the TEC instance is setup and configured in a good way. We have run trials so far and have an instance up and running (I believe). @mateodaza what is the status of the TEC SourceCred instance?](about:blank#)
+I do the PM'ing and run the reward system meetings every Thursday at 16:00 CET. One thing we really need is someone to make sure the TEC instance is setup and configured in a good way. We have run trials so far and have an instance up and running (I believe). @mateodaza what is the status of the TEC SourceCred instance?
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -2452,7 +2452,7 @@ It's running fine! we haven't checked on the params a while ago but everything e
 
 liviade
 
-[also the DAO doesn't look like its working, do you know what might be happening @mateodaza ?](about:blank#)
+also the DAO doesn't look like its working, do you know what might be happening @mateodaza ?
 
 [https://aragon.1hive.org/#/tecdrops/](https://aragon.1hive.org/#/tecdrops/)
 
@@ -2466,7 +2466,7 @@ Same thing has been happening on rGIV DAO, I think the issue is Aragon, I'll kee
 
 liviade
 
-[it should be this one but I'm getting a 404](about:blank#)
+it should be this one but I'm getting a 404
 
 [https://tecommons.github.io/tec-sourcecred/#/explorer](https://tecommons.github.io/tec-sourcecred/#/explorer)
 
@@ -2480,7 +2480,7 @@ It's this link btw [https://commonsbuild.github.io/tec-sourcecred/#/explorer](ht
 
 mateodaza
 
-[It's running fine! we haven't checked on the params a while ago but everything else it's good. I need to verify some new accounts, I'll do that soon](about:blank#)
+It's running fine! we haven't checked on the params a while ago but everything else it's good. I need to verify some new accounts, I'll do that soon
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -2492,7 +2492,7 @@ Are you running the discord plugin?
 
 kristofer
 
-[I do the PM'ing and run the reward system meetings every Thursday at 16:00 CET. One thing we really need is someone to make sure the TEC instance is setup and configured in a good way. We have run trials so far and have an instance up and running (I believe). @mateodaza what is the status of the TEC SourceCred instance?](about:blank#)
+I do the PM'ing and run the reward system meetings every Thursday at 16:00 CET. One thing we really need is someone to make sure the TEC instance is setup and configured in a good way. We have run trials so far and have an instance up and running (I believe). @mateodaza what is the status of the TEC SourceCred instance?
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -2541,7 +2541,7 @@ Works for me!
 
 kristofer
 
-[I need to reschedule the next Reward System sync unfortunately. Would it be possible to just push it forward one day and meet this Fri 16-17 CET? @mitch (🍔, 🍔) @Nuggan @rdfbbx @liviade @mateodaza @Vyvy-vi](about:blank#)
+I need to reschedule the next Reward System sync unfortunately. Would it be possible to just push it forward one day and meet this Fri 16-17 CET? @mitch (🍔, 🍔) @Nuggan @rdfbbx @liviade @mateodaza @Vyvy-vi
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -2553,7 +2553,7 @@ Works for me too
 
 kristofer
 
-[The short term goal for the Reward System project is to make sure the TEC can do a praise quantification and rewards distribution close to the commons upgrade. Mid term goal is to develop Praise into a standalone open source system to be used by any community. ‍♀️ Project docs, meeting notes, agendas:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f477.png" width=20 height=20>
+The short term goal for the Reward System project is to make sure the TEC can do a praise quantification and rewards distribution close to the commons upgrade. Mid term goal is to develop Praise into a standalone open source system to be used by any community. ‍♀️ Project docs, meeting notes, agendas: <img src="https://twemoji.maxcdn.com/2/72x72/1f477.png" width=20 height=20>
 
 [https://www.notion.so/fmckl/Rewards-WG-1ad0a25f3e9a4782a25679eb94ef71dc](https://www.notion.so/Rewards-WG-1ad0a25f3e9a4782a25679eb94ef71dc) <img src="https://twemoji.maxcdn.com/2/72x72/1f6e3.png" width=20 height=20>
 
@@ -2606,7 +2606,7 @@ I'm not sure if sourcecred can track meeting attendance
 
 Vyvy-vi
 
-[I'm not sure if sourcecred can track meeting attendance](about:blank#)
+I'm not sure if sourcecred can track meeting attendance
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -2618,7 +2618,7 @@ it's alexandra right that handles that? what information does it gather specific
 
 mitch (🍔, 🍔)
 
-[@ryeder (they/them) @Vyvy-vi Do either of you know the configurable parameters within sourcecred for collecting twitter info and discord meeting attendance? I'm making an exhaustive list of all the parameters/weights that will have to be chosen](about:blank#)
+@ryeder (they/them) @Vyvy-vi Do either of you know the configurable parameters within sourcecred for collecting twitter info and discord meeting attendance? I'm making an exhaustive list of all the parameters/weights that will have to be chosen
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -2634,7 +2634,7 @@ Contribute to blueridger/MeetingAttendanceDiscordBot development by creating an 
 
 mitch (🍔, 🍔)
 
-[@ryeder (they/them) @Vyvy-vi Do either of you know the configurable parameters within sourcecred for collecting twitter info and discord meeting attendance? I'm making an exhaustive list of all the parameters/weights that will have to be chosen](about:blank#)
+@ryeder (they/them) @Vyvy-vi Do either of you know the configurable parameters within sourcecred for collecting twitter info and discord meeting attendance? I'm making an exhaustive list of all the parameters/weights that will have to be chosen
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -2661,7 +2661,7 @@ _29-Sep-21 01:56 AM_:
 
 ryeder (they/them)
 
-[@kristofer any chance the mtg would change slots? asking for a friend](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
+@kristofer any chance the mtg would change slots? asking for a friend  <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2674,7 +2674,7 @@ The meeting time is a compromise already and will likely not be changed. Good ti
 
 mitch (🍔, 🍔)
 
-[@kristofer @liviade and others, this is a rough roadmap I think looks agreeable but do you think there are elements I'm missing?](about:blank#)
+@kristofer @liviade and others, this is a rough roadmap I think looks agreeable but do you think there are elements I'm missing?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2698,7 +2698,7 @@ Roadmap To First Quant agree on system design within rewards system team, get t
 
 mitch (🍔, 🍔)
 
-[Okay, here is the doc for the first iteration of the process description! I added in a real rough roadmap that needs some validation Also any SourceCred wizards might want to look at the appendix and point out any errors or omissions I made.](about:blank#)
+Okay, here is the doc for the first iteration of the process description! I added in a real rough roadmap that needs some validation Also any SourceCred wizards might want to look at the appendix and point out any errors or omissions I made.
 
 [https://docs.google.com/document/d/1jkRg3fhF-7ZiYklc1zR9pkt69FqBAWWKc3GaYjdFTaQ/edit?usp=sharing](https://docs.google.com/document/d/1jkRg3fhF-7ZiYklc1zR9pkt69FqBAWWKc3GaYjdFTaQ/edit?usp=sharing)
 
@@ -2776,7 +2776,7 @@ _01-Oct-21 03:27 PM_:
 
 ALOYSIOUS
 
-[@LBS this is the channel you're looking for. This working group is all earlybirds. docs are live, dive in.](about:blank#)
+@LBS this is the channel you're looking for. This working group is all earlybirds. docs are live, dive in.
 
 <h3>LBS <img src="https://cdn.discordapp.com/avatars/633708951447535616/fa32450586a44254683a9734116bdeca.png" width=25 height=25></h3>
 
@@ -2820,7 +2820,7 @@ looks like i missed this run! i'll get some edits in on the next iteration, lol.
 
 mitch (🍔, 🍔)
 
-[Okay, here is the doc for the first iteration of the process description! I added in a real rough roadmap that needs some validation Also any SourceCred wizards might want to look at the appendix and point out any errors or omissions I made.](about:blank#)
+Okay, here is the doc for the first iteration of the process description! I added in a real rough roadmap that needs some validation Also any SourceCred wizards might want to look at the appendix and point out any errors or omissions I made.
 
 [https://docs.google.com/document/d/1jkRg3fhF-7ZiYklc1zR9pkt69FqBAWWKc3GaYjdFTaQ/edit?usp=sharing](https://docs.google.com/document/d/1jkRg3fhF-7ZiYklc1zR9pkt69FqBAWWKc3GaYjdFTaQ/edit?usp=sharing)
 
@@ -2836,7 +2836,7 @@ Great document! I've added some questions that I hope are relevant, when would t
 
 kristofer
 
-[*Click to see original message*](about:blank#)
+*Click to see original message*
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -2848,7 +2848,7 @@ An MVP process, right? It would develop and grow once it becomes operational?
 
 mitch (🍔, 🍔)
 
-[Okay, here is the doc for the first iteration of the process description! I added in a real rough roadmap that needs some validation Also any SourceCred wizards might want to look at the appendix and point out any errors or omissions I made.](about:blank#)
+Okay, here is the doc for the first iteration of the process description! I added in a real rough roadmap that needs some validation Also any SourceCred wizards might want to look at the appendix and point out any errors or omissions I made.
 
 [https://docs.google.com/document/d/1jkRg3fhF-7ZiYklc1zR9pkt69FqBAWWKc3GaYjdFTaQ/edit?usp=sharing](https://docs.google.com/document/d/1jkRg3fhF-7ZiYklc1zR9pkt69FqBAWWKc3GaYjdFTaQ/edit?usp=sharing)
 
@@ -2864,7 +2864,7 @@ Actually I feel there's a key DAO problem to address here, which is perhaps asso
 
 innov8tor3
 
-[An MVP process, right? It would develop and grow once it becomes operational?](about:blank#)
+An MVP process, right? It would develop and grow once it becomes operational?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2884,7 +2884,7 @@ Hey all! TEC Sprint #19 has begun. The Rewards System project will sync with tha
 
 kristofer
 
-[Hey all! TEC Sprint #19 has begun. The Rewards System project will sync with that schedule. For us, this is Rewards System Sprint #2. From this point each sprint will be two weeks. My idea is to have the MVP done by the end of sprint #4, that is in six weeks. Is that doable? @Striker @rdfbbx @Nuggan @mitch (🍔, 🍔) @liviade @Vyvy-vi @mateodaza](about:blank#)
+Hey all! TEC Sprint #19 has begun. The Rewards System project will sync with that schedule. For us, this is Rewards System Sprint #2. From this point each sprint will be two weeks. My idea is to have the MVP done by the end of sprint #4, that is in six weeks. Is that doable? @Striker @rdfbbx @Nuggan @mitch (🍔, 🍔) @liviade @Vyvy-vi @mateodaza
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -2912,7 +2912,7 @@ Trusted Seed Dashboard Ideas
 
 innov8tor3
 
-[Interested to join in, once the process is ready of course ...](about:blank#)
+Interested to join in, once the process is ready of course ...
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2924,7 +2924,7 @@ Great, if I interpret you correctly you would like to be involved in doing prais
 
 kristofer
 
-[@rdfbbx @Nuggan @Striker , any chance you could do a Praise frontend/backend planning session tonight at 21:00 CET? I have updated the board with wireframes for the whole thing as well as a story map hopefully covering most functionality. We need to set a sprint goal and choose backlog items to focus on.](about:blank#)
+@rdfbbx @Nuggan @Striker , any chance you could do a Praise frontend/backend planning session tonight at 21:00 CET? I have updated the board with wireframes for the whole thing as well as a story map hopefully covering most functionality. We need to set a sprint goal and choose backlog items to focus on.
 
 [https://miro.com/app/board/o9J_lBZsbTg=/](https://miro.com/app/board/o9J_lBZsbTg=/)
 
@@ -2937,7 +2937,7 @@ I can join the call. But, I can chat only <img src="https://twemoji.maxcdn.com/2
 
 kristofer
 
-[@rdfbbx @Nuggan @Striker , any chance you could do a Praise frontend/backend planning session tonight at 21:00 CET? I have updated the board with wireframes for the whole thing as well as a story map hopefully covering most functionality. We need to set a sprint goal and choose backlog items to focus on.](about:blank#)
+@rdfbbx @Nuggan @Striker , any chance you could do a Praise frontend/backend planning session tonight at 21:00 CET? I have updated the board with wireframes for the whole thing as well as a story map hopefully covering most functionality. We need to set a sprint goal and choose backlog items to focus on.
 
 [https://miro.com/app/board/o9J_lBZsbTg=/](https://miro.com/app/board/o9J_lBZsbTg=/)
 
@@ -2958,7 +2958,7 @@ Cool, let's do tonight with @rdfbbx on chat.
 
 kristofer
 
-[@rdfbbx @Nuggan @Striker , any chance you could do a Praise frontend/backend planning session tonight at 21:00 CET? I have updated the board with wireframes for the whole thing as well as a story map hopefully covering most functionality. We need to set a sprint goal and choose backlog items to focus on.](about:blank#)
+@rdfbbx @Nuggan @Striker , any chance you could do a Praise frontend/backend planning session tonight at 21:00 CET? I have updated the board with wireframes for the whole thing as well as a story map hopefully covering most functionality. We need to set a sprint goal and choose backlog items to focus on.
 
 [https://miro.com/app/board/o9J_lBZsbTg=/](https://miro.com/app/board/o9J_lBZsbTg=/)
 
@@ -2973,7 +2973,7 @@ yeah, I'm available too
 
 kristofer
 
-[We will not do a joint sprint planning session for this sprint since we are a little behind schedule but rather I will talk to each "subgroup". - Frontend/backend: @rdfbbx, @Nuggan, @Striker - Praise process / community advice process / Rules of Praise: @liviade , @mitch (🍔, 🍔) - SourceCred config and bots: @Vyvy-vi , @mateodaza](about:blank#)
+We will not do a joint sprint planning session for this sprint since we are a little behind schedule but rather I will talk to each "subgroup". - Frontend/backend: @rdfbbx, @Nuggan, @Striker - Praise process / community advice process / Rules of Praise: @liviade , @mitch (🍔, 🍔) - SourceCred config and bots: @Vyvy-vi , @mateodaza
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -2998,7 +2998,7 @@ Real-time meetings by Google. Using your browser, share your video, desktop, and
 
 kristofer
 
-[Great, if I interpret you correctly you would like to be involved in doing praise quantifications etc once we have "launched" the new process? Or would you like to contribute to the development effort?](about:blank#)
+Great, if I interpret you correctly you would like to be involved in doing praise quantifications etc once we have "launched" the new process? Or would you like to contribute to the development effort?
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -3010,7 +3010,7 @@ Thanks! I am interested in both, I think! I do have process development experien
 
 innov8tor3
 
-[Thanks! I am interested in both, I think! I do have process development experience, from my time in the corporate world, I still love a good process diagram. I'm still adjusting to the horizontal world, but been outside corporate hierarchy for a good while, to ease those fears. I may have to be asynch at times, given family commitments, but if you can fit me in I'd love to help. Very willing to be guided by TEC folk in any areas where I need to understand more. (I missed Graviton S2 E2 last week on NVC, and need to catch up via YouTube!)](about:blank#)
+Thanks! I am interested in both, I think! I do have process development experience, from my time in the corporate world, I still love a good process diagram. I'm still adjusting to the horizontal world, but been outside corporate hierarchy for a good while, to ease those fears. I may have to be asynch at times, given family commitments, but if you can fit me in I'd love to help. Very willing to be guided by TEC folk in any areas where I need to understand more. (I missed Graviton S2 E2 last week on NVC, and need to catch up via YouTube!)
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -3022,7 +3022,7 @@ Sounds like you might be able to assist @liviade or @mitch (🍔, 🍔) with the
 
 kristofer
 
-[Sounds like you might be able to assist @liviade or @mitch (🍔, 🍔) with the Rewards System Process then. Reach out to them and see if they need a pair of extra hands/eyes on something.](about:blank#)
+Sounds like you might be able to assist @liviade or @mitch (🍔, 🍔) with the Rewards System Process then. Reach out to them and see if they need a pair of extra hands/eyes on something.
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -3116,7 +3116,7 @@ I could look into the script, yes
 
 Nuggan
 
-[I could look into the script, yes](about:blank#)
+I could look into the script, yes
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3128,7 +3128,7 @@ awesome! thanks! @🐙 octopus can probably guide you better if you have any que
 
 liviade
 
-[hey @innov8tor3 I would also say that joining our next meeting is the best way to stay up to date, but if async is better for you the pinned message of this chat has all the documents and board we've been using, feel free to take a look and shoot us any questions or share how you would like to collaborate](about:blank#)
+hey @innov8tor3 I would also say that joining our next meeting is the best way to stay up to date, but if async is better for you the pinned message of this chat has all the documents and board we've been using, feel free to take a look and shoot us any questions or share how you would like to collaborate
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -3140,7 +3140,7 @@ Thank you! I'll take a look.
 
 Nuggan
 
-[I think emojis have a "feel-good-factor" for the praisee which we should try to keep. Maybe we could just run the emoji cleanup before the quant so it doesn't influence the quantifier?](about:blank#)
+I think emojis have a "feel-good-factor" for the praisee which we should try to keep. Maybe we could just run the emoji cleanup before the quant so it doesn't influence the quantifier?
 
 <h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
@@ -3159,7 +3159,7 @@ On the code level it would just be a True/False flag that could spit out the pre
 
 🐙 octopus
 
-[Also, perhaps in the process there's a way for quantifiers to choose whether they see original names or silly pseudonyms like "aardvark"? (My original name is a silly pseudonym ️ so I don't have much investment in the issue.) Then we would have experience with both ways and a potential place for data analysis?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f419.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/263a.png" width=20 height=20>
+Also, perhaps in the process there's a way for quantifiers to choose whether they see original names or silly pseudonyms like "aardvark"? (My original name is a silly pseudonym ️ so I don't have much investment in the issue.) Then we would have experience with both ways and a potential place for data analysis? <img src="https://twemoji.maxcdn.com/2/72x72/1f419.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/263a.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3184,7 +3184,7 @@ I'll hang up and listen.
 
 🐙 octopus
 
-[I am usually pro-anonymity, but I see how that could clash with either individual or cultural expectations.](about:blank#)
+I am usually pro-anonymity, but I see how that could clash with either individual or cultural expectations.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3202,7 +3202,7 @@ I just learned today about some upgrades we're working on at sourcecred that are
 
 liviade
 
-[**Do you think emojis should be allowed when we dish praise?**](about:blank#)
+**Do you think emojis should be allowed when we dish praise?**
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -3214,7 +3214,7 @@ Not unless you want praise to become more like sourcecred.
 
 Nuggan
 
-[I think emojis have a "feel-good-factor" for the praisee which we should try to keep. Maybe we could just run the emoji cleanup before the quant so it doesn't influence the quantifier?](about:blank#)
+I think emojis have a "feel-good-factor" for the praisee which we should try to keep. Maybe we could just run the emoji cleanup before the quant so it doesn't influence the quantifier?
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -3227,7 +3227,7 @@ _08-Oct-21 01:14 AM_:
 
 ryeder (they/them)
 
-[I just learned today about some upgrades we're working on at sourcecred that are super valid especially as we move into integrations here at TEC: 1. Salaried integration - add special distributions to people that act as salary 2. Exclusions parameter on the "recent" policy - can add people to an exclusions list who are salaried - still participates on the "balanced" policy to receive cred - cultural / social integration: if props and didathings are instituted, props are for everyone, but salaried folks don't use didathing](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
+I just learned today about some upgrades we're working on at sourcecred that are super valid especially as we move into integrations here at TEC: 1. Salaried integration - add special distributions to people that act as salary 2. Exclusions parameter on the "recent" policy - can add people to an exclusions list who are salaried - still participates on the "balanced" policy to receive cred - cultural / social integration: if props and didathings are instituted, props are for everyone, but salaried folks don't use didathing  <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -3240,7 +3240,7 @@ Great to have this level insight on the sourcered features to come!! Thanks for 
 
 Tam2140
 
-[Great to have this level insight on the sourcered features to come!! Thanks for bringing this here!](about:blank#)
+Great to have this level insight on the sourcered features to come!! Thanks for bringing this here!
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -3262,7 +3262,7 @@ _08-Oct-21 05:22 AM_:
 
 🐙 octopus
 
-[On the code level it would just be a True/False flag that could spit out the preferred version..](about:blank#)
+On the code level it would just be a True/False flag that could spit out the preferred version..
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -3274,7 +3274,7 @@ We could make this an option for the new praise system. For the first quant we n
 
 Tam2140
 
-[+1. The difference between not allowing emojis in dishing praise versus not including them in the quantification process is subtle but important. I would not be in favor of prohibiting people from using emojis in their Praise. Emojis are part of our cultural expression here. ‍♀️ If the current system has a technical challenge to represent emojis in the quant process then we can filter them out. Eventually a technical solution may be found to show them - even if we all agree it’s not a priority for the MVP.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f938.png" width=20 height=20>
++1. The difference between not allowing emojis in dishing praise versus not including them in the quantification process is subtle but important. I would not be in favor of prohibiting people from using emojis in their Praise. Emojis are part of our cultural expression here. ‍♀️ If the current system has a technical challenge to represent emojis in the quant process then we can filter them out. Eventually a technical solution may be found to show them - even if we all agree it’s not a priority for the MVP. <img src="https://twemoji.maxcdn.com/2/72x72/1f938.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -3297,7 +3297,7 @@ Or maybe there are better options than google sheets? One requirement is to be a
 
 kristofer
 
-[I do believe we are talking about two kinds of emojis here? 1. Emojis in the praise text 2. Emoji reactions to sent praise Current plan for new praise system is: 1. Emojis in the praise text: No action, no filtering, praise included in the praise text is just part of the text 2. Emoji reactions to sent praise: Not tracked How does this sound?](about:blank#)
+I do believe we are talking about two kinds of emojis here? 1. Emojis in the praise text 2. Emoji reactions to sent praise Current plan for new praise system is: 1. Emojis in the praise text: No action, no filtering, praise included in the praise text is just part of the text 2. Emoji reactions to sent praise: Not tracked How does this sound?
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -3309,7 +3309,7 @@ Roger. That makes a lot of sense. There is something compelling about counting r
 
 Tam2140
 
-[Roger. That makes a lot of sense. There is something compelling about counting reactions the praise itself (as if somone wants to say "+1") but not compelling enough for me to construct an argument to include it in this scope.](about:blank#)
+Roger. That makes a lot of sense. There is something compelling about counting reactions the praise itself (as if somone wants to say "+1") but not compelling enough for me to construct an argument to include it in this scope.
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -3330,7 +3330,7 @@ yes to clarify there's no way to stop people from putting emojis onto praise but
 
 kristofer
 
-[I do believe we are talking about two kinds of emojis here? 1. Emojis in the praise text 2. Emoji reactions to sent praise Current plan for new praise system is: 1. Emojis in the praise text: No action, no filtering, praise included in the praise text is just part of the text 2. Emoji reactions to sent praise: Not tracked How does this sound?](about:blank#)
+I do believe we are talking about two kinds of emojis here? 1. Emojis in the praise text 2. Emoji reactions to sent praise Current plan for new praise system is: 1. Emojis in the praise text: No action, no filtering, praise included in the praise text is just part of the text 2. Emoji reactions to sent praise: Not tracked How does this sound?
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -3342,7 +3342,7 @@ This sounds wise. Emoji-reacts are accumulative toward total credit in sourcecre
 
 mitch (🍔, 🍔)
 
-[yes to clarify there's no way to stop people from putting emojis onto praise but it shouldn't be shown when we send the data to quantifiers for the exact reason Kristofer outlines](about:blank#)
+yes to clarify there's no way to stop people from putting emojis onto praise but it shouldn't be shown when we send the data to quantifiers for the exact reason Kristofer outlines
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -3354,7 +3354,7 @@ Why not? I'm pretty sure you can disable emoji reacts in the discord settings an
 
 kristofer
 
-[Or maybe there are better options than google sheets? One requirement is to be able to make row by row alterations and comments.](about:blank#)
+Or maybe there are better options than google sheets? One requirement is to be able to make row by row alterations and comments.
 
 <h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
@@ -3366,7 +3366,7 @@ There's a Google Sheets package for Python that might be a good fit for this.
 
 🐙 octopus
 
-[There's a Google Sheets package for Python that might be a good fit for this.](about:blank#)
+There's a Google Sheets package for Python that might be a good fit for this.
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -3406,7 +3406,7 @@ Roadmap To First Quant Agree on the goals of the praise system. Agree on system
 
 mitch (🍔, 🍔)
 
-[I'm making a suggesttion we change the term Rewards DAO committee to simply Reward Board I heard @liviade say it in a meeting last week and I'm a sucker for rhymes. It's way easier to say and type](about:blank#)
+I'm making a suggesttion we change the term Rewards DAO committee to simply Reward Board I heard @liviade say it in a meeting last week and I'm a sucker for rhymes. It's way easier to say and type
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -3418,7 +3418,7 @@ Sounds and rhymes nicely. Is it Reward or Rewards? We have used both so far but 
 
 mitch (🍔, 🍔)
 
-[Hey everyone! Can you take a gander at this proposed Roadmap and make suggestions? any chance we can throw this into a miro graphic? @kristofer](about:blank#)
+Hey everyone! Can you take a gander at this proposed Roadmap and make suggestions? any chance we can throw this into a miro graphic? @kristofer
 
 [https://docs.google.com/document/d/1jkRg3fhF-7ZiYklc1zR9pkt69FqBAWWKc3GaYjdFTaQ/edit?usp=sharing](https://docs.google.com/document/d/1jkRg3fhF-7ZiYklc1zR9pkt69FqBAWWKc3GaYjdFTaQ/edit?usp=sharing)
 
@@ -3438,7 +3438,7 @@ Does the Reward Board also recruit the quantification pool? Or at least manage t
 
 kristofer
 
-[@liviade @mitch (🍔, 🍔) I updated the process infographic to better sync with the latest version of the proposal. Please check if I have missed something.](about:blank#)
+@liviade @mitch (🍔, 🍔) I updated the process infographic to better sync with the latest version of the proposal. Please check if I have missed something.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3450,7 +3450,7 @@ Looks great! a couple of points I think could change are - In step one on the so
 
 kristofer
 
-[Does the Reward Board also recruit the quantification pool? Or at least manage the "applications". For the MVP version of praise we will most likely not have an automated process for "opting in" to become a pool member.](about:blank#)
+Does the Reward Board also recruit the quantification pool? Or at least manage the "applications". For the MVP version of praise we will most likely not have an automated process for "opting in" to become a pool member.
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -3462,7 +3462,7 @@ seems logical for them to control that aspect, although "recruit" will be a bit 
 
 kristofer
 
-[We could make this an option for the new praise system. For the first quant we need to make a decision to do pseudonyms or not. Can we let the Rewards DAO committee that sets the rest of params also decide on this for first quant? @liviade @mitch (🍔, 🍔) @griff (💜, 💜)](about:blank#)
+We could make this an option for the new praise system. For the first quant we need to make a decision to do pseudonyms or not. Can we let the Rewards DAO committee that sets the rest of params also decide on this for first quant? @liviade @mitch (🍔, 🍔) @griff (💜, 💜)
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3473,7 +3473,7 @@ yeah, I think it's reasonable for the committee to decide this. My only concern 
 
 kristofer
 
-[I do believe we are talking about two kinds of emojis here? 1. Emojis in the praise text 2. Emoji reactions to sent praise Current plan for new praise system is: 1. Emojis in the praise text: No action, no filtering, praise included in the praise text is just part of the text 2. Emoji reactions to sent praise: Not tracked How does this sound?](about:blank#)
+I do believe we are talking about two kinds of emojis here? 1. Emojis in the praise text 2. Emoji reactions to sent praise Current plan for new praise system is: 1. Emojis in the praise text: No action, no filtering, praise included in the praise text is just part of the text 2. Emoji reactions to sent praise: Not tracked How does this sound?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3485,7 +3485,7 @@ for number 1. It sounds like continuing to have emojis as part of the text but r
 
 mitch (🍔, 🍔)
 
-[seems logical for them to control that aspect, although "recruit" will be a bit strong, the barrier of entry to become a quantifier should be low and selecting a pool for a quant should be randomized](about:blank#)
+seems logical for them to control that aspect, although "recruit" will be a bit strong, the barrier of entry to become a quantifier should be low and selecting a pool for a quant should be randomized
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -3497,7 +3497,7 @@ Selecting quantifiers by random out of the pool will be in the MVP. Adding users
 
 ryeder (they/them)
 
-[This sounds wise. Emoji-reacts are accumulative toward total credit in sourcecred and this takes the place of a committee that goes over the "praise" in the spreadsheet. Not that we're using SC here in Discord but it's the whole basis for that product on this platform and it's good to keep in mind which tools we're attempting to serve which social / rewarding behaviors / outcomes. I also agree that emoji reacts will be indicative of value to the committee who qualifies praise so the question is: do you want input from the rest of the community on the committee outside of the writer of the praise? if so, super promote emoji-reacts on praise and if not, disable emoji reacts on praise so that it's not just random.  (edited)](about:blank#)
+This sounds wise. Emoji-reacts are accumulative toward total credit in sourcecred and this takes the place of a committee that goes over the "praise" in the spreadsheet. Not that we're using SC here in Discord but it's the whole basis for that product on this platform and it's good to keep in mind which tools we're attempting to serve which social / rewarding behaviors / outcomes. I also agree that emoji reacts will be indicative of value to the committee who qualifies praise so the question is: do you want input from the rest of the community on the committee outside of the writer of the praise? if so, super promote emoji-reacts on praise and if not, disable emoji reacts on praise so that it's not just random.  (edited)
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3510,7 +3510,7 @@ just to clarify - the committee and the quantifiers are different roles. So the 
 
 mitch (🍔, 🍔)
 
-[seems logical for them to control that aspect, although "recruit" will be a bit strong, the barrier of entry to become a quantifier should be low and selecting a pool for a quant should be randomized](about:blank#)
+seems logical for them to control that aspect, although "recruit" will be a bit strong, the barrier of entry to become a quantifier should be low and selecting a pool for a quant should be randomized
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3522,7 +3522,7 @@ _11-Oct-21 09:23 AM_:
 
 liviade
 
-[yeah, I think it's reasonable for the committee to decide this. My only concern with randomly generated pseudonyms is the small chance we have to actually get a name that already exists in the community as an option](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
+yeah, I think it's reasonable for the committee to decide this. My only concern with randomly generated pseudonyms is the small chance we have to actually get a name that already exists in the community as an option  <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -3534,7 +3534,7 @@ I'm leaning towards thinking that benefits of full transparency outweighs drawba
 
 kristofer
 
-[I'm leaning towards thinking that benefits of full transparency outweighs drawbacks of having "semi pseudonyms". The raw praise data with names is always accessible at Discord/Telegram.](about:blank#)
+I'm leaning towards thinking that benefits of full transparency outweighs drawbacks of having "semi pseudonyms". The raw praise data with names is always accessible at Discord/Telegram.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3548,7 +3548,7 @@ I think @🐙 octopus suggested pseudonyms just to make it more fun, but that it
 
 liviade
 
-[+1. It would be great if people could simply volunteer and pass through a quick onboarding process](about:blank#)
++1. It would be great if people could simply volunteer and pass through a quick onboarding process
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -3561,7 +3561,7 @@ I imagine this process could be done through Discord/Telegram in future versions
 
 liviade
 
-[yeah, but in the moment of quantification it does make a difference to the quantifier who is the person they are giving value too. It easily becomes more about the person than about the fact/ content of praise](about:blank#)
+yeah, but in the moment of quantification it does make a difference to the quantifier who is the person they are giving value too. It easily becomes more about the person than about the fact/ content of praise
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -3573,7 +3573,7 @@ As I know there are differing opinions about this, we will make it a configurati
 
 kristofer
 
-[I imagine this process could be done through Discord/Telegram in future versions. Something like this: You type: /praise opt-in Message from bot: You have opted in to become a member of the quantifier pool. You will be notified when your application has been approved](about:blank#)
+I imagine this process could be done through Discord/Telegram in future versions. Something like this: You type: /praise opt-in Message from bot: You have opted in to become a member of the quantifier pool. You will be notified when your application has been approved
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3585,7 +3585,7 @@ I love it!
 
 liviade
 
-[I love it!](about:blank#)
+I love it!
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -3604,7 +3604,7 @@ I don't think there's any harm in using pseudonyms even if most people see throu
 
 kristofer
 
-[As I know there are differing opinions about this, we will make it a configuration option managed by the Reward(s) Board and the community.](about:blank#)
+As I know there are differing opinions about this, we will make it a configuration option managed by the Reward(s) Board and the community.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3638,7 +3638,7 @@ haha
 
 mitch (🍔, 🍔)
 
-[and should we integrate an onboarding document for quantifiers?](about:blank#)
+and should we integrate an onboarding document for quantifiers?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3650,7 +3650,7 @@ yeah for sure, they should go through a little something. But we don't have enou
 
 kristofer
 
-[Ok, then there is the delicate task of coming up with the pseudonym random generator dictionary. Who is up for it?!!](about:blank#)
+Ok, then there is the delicate task of coming up with the pseudonym random generator dictionary. Who is up for it?!!
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3719,7 +3719,7 @@ Where is the cheeseburger <img src="https://twemoji.maxcdn.com/2/72x72/1f354.png
 
 mitch (🍔, 🍔)
 
-[Here is the doc for Quantifier Pseudonyms if anyone is feeling inspired! I may or may not have gone off on new tangents but I think it will make our UI pretty fun](about:blank#)
+Here is the doc for Quantifier Pseudonyms if anyone is feeling inspired! I may or may not have gone off on new tangents but I think it will make our UI pretty fun
 
 [https://docs.google.com/spreadsheets/d/1vGGenNyCzKl0Brhp_e4MFfCKryIfCV77cpwU-OvIiH8/edit#gid=0](https://docs.google.com/spreadsheets/d/1vGGenNyCzKl0Brhp_e4MFfCKryIfCV77cpwU-OvIiH8/edit#gid=0)
 
@@ -3746,7 +3746,7 @@ Consider me Wailing Taco from now on! <img src="https://twemoji.maxcdn.com/2/72x
 
 kristofer
 
-[I added adjectives and a tab that randomises combinations. Who wouldn't want to be one of these?!!](about:blank#)
+I added adjectives and a tab that randomises combinations. Who wouldn't want to be one of these?!!
 
 Sad Cactus Modern Oyster Howling Reindeer Swift Shiba Rapid Wolf Noisy Gazelle Wailing Hawk Happy Frog Wailing Taco Long Salmon
 
@@ -3801,7 +3801,7 @@ On the agenda: Theme of meeting: Weekly standup.
 
 kristofer
 
-[ Welcome to the weekly Rewards System dev sync today at 16:00 CET in the Community Hall!  On the agenda: Theme of meeting: Weekly standup. **What did you do the last few days? What will you do in the days ahead? Anything blocking your progress?** - Reward System process – from here to first quant post Commons Upgrade @mitch (🍔, 🍔) - Rewards Committee – preparing for the first quant @mateodaza - Rules of Praise and Quantification @liviade - Praise backend @rdfbbx @Nuggan - Praise frontend @casale.eth @kristofer - SourceCred bots @Vyvy-vi  (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3a4.png" width=20 height=20>
+ Welcome to the weekly Rewards System dev sync today at 16:00 CET in the Community Hall!  On the agenda: Theme of meeting: Weekly standup. **What did you do the last few days? What will you do in the days ahead? Anything blocking your progress?** - Reward System process – from here to first quant post Commons Upgrade @mitch (🍔, 🍔) - Rewards Committee – preparing for the first quant @mateodaza - Rules of Praise and Quantification @liviade - Praise backend @rdfbbx @Nuggan - Praise frontend @casale.eth @kristofer - SourceCred bots @Vyvy-vi  (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3a4.png" width=20 height=20>
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -3832,7 +3832,7 @@ Enjoyed the call!
 
 MS
 
-[Enjoyed the call!](about:blank#)
+Enjoyed the call!
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3843,7 +3843,7 @@ thanks for joining! <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" widt
 
 kristofer
 
-[I have this idea for what happens with the data after being exported from praise and sourcecred. Not being a python/Jupyter wizard myself I'm asking you all to see if this is possible andor a good idea. The general idea is to manage the "second half" of the rewards system process all in one Jupyter notebook. That means: 1. Bring the quantified praise data and SC data into the notebook as CSV 2. Make manual adjustments with comments (there seems to be a plugin allowing editing of CSV data) 3. Calculate the token rewards in a nice looking sheet with explanations, formulas and visualisations. This is where the TEC distribution algorithm lives. 4. Additional analysis and statistics on separate sheet along with a short quantification text report by the Rewards DAO Committee. This whole package of notebook, data and edits would live on github and made accessible through](about:blank#)
+I have this idea for what happens with the data after being exported from praise and sourcecred. Not being a python/Jupyter wizard myself I'm asking you all to see if this is possible andor a good idea. The general idea is to manage the "second half" of the rewards system process all in one Jupyter notebook. That means: 1. Bring the quantified praise data and SC data into the notebook as CSV 2. Make manual adjustments with comments (there seems to be a plugin allowing editing of CSV data) 3. Calculate the token rewards in a nice looking sheet with explanations, formulas and visualisations. This is where the TEC distribution algorithm lives. 4. Additional analysis and statistics on separate sheet along with a short quantification text report by the Rewards DAO Committee. This whole package of notebook, data and edits would live on github and made accessible through
 
 [https://mybinder.org/](https://mybinder.org/)
 
@@ -3859,7 +3859,7 @@ I'm still fairly green in python (1-2 years) but love to do data analysis in my 
 
 MS
 
-[I'm still fairly green in python (1-2 years) but love to do data analysis in my day to day stuff between py and SQL. I would love to follow along on this project if it picks up steam, or any of the other python/data analysis things happening](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+I'm still fairly green in python (1-2 years) but love to do data analysis in my day to day stuff between py and SQL. I would love to follow along on this project if it picks up steam, or any of the other python/data analysis things happening  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3880,7 +3880,7 @@ hey @mitch (🍔, 🍔) @kristofer @mateodaza we should figure out how much to a
 
 liviade
 
-[@ALOYSIOUS do you know what is the average cost on rewards at SourceCred or 1hive for ex?](about:blank#)
+@ALOYSIOUS do you know what is the average cost on rewards at SourceCred or 1hive for ex?
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -3892,7 +3892,7 @@ Sounds corporate...I'm not sure what you mean by "average cost on rewards". I'm 
 
 ALOYSIOUS
 
-[Sounds corporate...I'm not sure what you mean by "average cost on rewards". I'm interpreting the question as: what is the conversion rate / metric for converting cred to grain each week? Are you able to articulate your question in terminology I may understand?](about:blank#)
+Sounds corporate...I'm not sure what you mean by "average cost on rewards". I'm interpreting the question as: what is the conversion rate / metric for converting cred to grain each week? Are you able to articulate your question in terminology I may understand?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3904,7 +3904,7 @@ Yeah, let me try better. What is the token used for grain? And is there an appro
 
 liviade
 
-[Yeah, let me try better. What is the token used for grain? And is there an approximate amount of tokens that are used for this conversion every month?](about:blank#)
+Yeah, let me try better. What is the token used for grain? And is there an approximate amount of tokens that are used for this conversion every month?
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -3927,7 +3927,7 @@ As discussed in the SourceCred Finances Discourse post, SourceCred can no longer
 
 liviade
 
-[hey @mitch (🍔, 🍔) @kristofer @mateodaza we should figure out how much to ask for the reward system in the initial buy in proposal. It would be great to have some idea of how much funds we are willing to stream to rewards every month](about:blank#)
+hey @mitch (🍔, 🍔) @kristofer @mateodaza we should figure out how much to ask for the reward system in the initial buy in proposal. It would be great to have some idea of how much funds we are willing to stream to rewards every month
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -3941,7 +3941,7 @@ in relative terms that is 24-36% of the buy-in amount we will be proposing (edit
 
 ALOYSIOUS
 
-[We currently have our instance unpegged as it was once redeemable $1USDC = 1 Grain And at the present, this is not the case. There was a lot of governance around the following redemption proposal we collectively agreed upon (core body presenting financial pivot) we ended creating mutual aid in our community because of these happenings. I think the key metrics are how much is allotted to be paid out each week / funding period or however you configure it and then what your token is at peg-wise.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=20 height=20>
+We currently have our instance unpegged as it was once redeemable $1USDC = 1 Grain And at the present, this is not the case. There was a lot of governance around the following redemption proposal we collectively agreed upon (core body presenting financial pivot) we ended creating mutual aid in our community because of these happenings. I think the key metrics are how much is allotted to be paid out each week / funding period or however you configure it and then what your token is at peg-wise. <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=20 height=20>
 
 [https://discourse.sourcecred.io/t/proposed-change-to-grain-redemption/1192](https://discourse.sourcecred.io/t/proposed-change-to-grain-redemption/1192)
 
@@ -3957,7 +3957,7 @@ I wonder if grain becomes a token, if we would still be able to distribute in TE
 
 mitch (🍔, 🍔)
 
-[I outlined in the buy-in proposal draft that the reward system would seek funding for the first 6 months of rewards, I took a ball park number of 5-7.5k wxDAI distributed bi-weekly, giving us a range of 60k-90k wxDAI](about:blank#)
+I outlined in the buy-in proposal draft that the reward system would seek funding for the first 6 months of rewards, I took a ball park number of 5-7.5k wxDAI distributed bi-weekly, giving us a range of 60k-90k wxDAI
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3969,7 +3969,7 @@ in the last quantified period we had 726.167 IH If we just double this to consid
 
 liviade
 
-[in the last quantified period we had 726.167 IH If we just double this to consider an approximate 2 week period we have 1,452.334 IH Dividing 7.5k to this total IH we would have 5.16 wxDAI per IH. We are gonna be mixing IH with cred now, but we can balance them to bring a similar result of "worked hours" 5wxDAI is way below what we thought it was ideal - I wonder how we can bring it up in a sustainable way](about:blank#)
+in the last quantified period we had 726.167 IH If we just double this to consider an approximate 2 week period we have 1,452.334 IH Dividing 7.5k to this total IH we would have 5.16 wxDAI per IH. We are gonna be mixing IH with cred now, but we can balance them to bring a similar result of "worked hours" 5wxDAI is way below what we thought it was ideal - I wonder how we can bring it up in a sustainable way
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -3987,7 +3987,7 @@ I think this was just one week because it was the last one, but usually it was t
 
 liviade
 
-[I think this was just one week because it was the last one, but usually it was two  (edited)](about:blank#)
+I think this was just one week because it was the last one, but usually it was two  (edited)
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -4003,7 +4003,7 @@ it would also be a different story if we raised 8 million from the hatch but unf
 
 mitch (🍔, 🍔)
 
-[I believe strongly that for the initial period of 6 months we should be conservative with the funds we allocate to the rewards system since there will be lots of learning and adjustments we'll need to make.. it would be a shame to misappropriate considerable amounts of hatch funds resulting from this "pilot" period](about:blank#)
+I believe strongly that for the initial period of 6 months we should be conservative with the funds we allocate to the rewards system since there will be lots of learning and adjustments we'll need to make.. it would be a shame to misappropriate considerable amounts of hatch funds resulting from this "pilot" period
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4030,7 +4030,7 @@ one further afterthought is that since we can acquire 6 months worth of TEC upfr
 
 liviade
 
-[I wonder if grain becomes a token, if we would still be able to distribute in TEC or if it would mean distros only happening in grain](about:blank#)
+I wonder if grain becomes a token, if we would still be able to distribute in TEC or if it would mean distros only happening in grain
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -4042,7 +4042,7 @@ Why wouldn't you just make grain tech instead? It can be any token.
 
 liviade
 
-[interesting, thanks for sharing! So if the base of grain redemption gets to $4k a month it means people are getting a decent income just with sourcecred.](about:blank#)
+interesting, thanks for sharing! So if the base of grain redemption gets to $4k a month it means people are getting a decent income just with sourcecred.
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -4069,7 +4069,7 @@ Hey guys! Asking the old sourcecred committee, who wanna join then new rewards c
 
 ALOYSIOUS
 
-[Why wouldn't you just make grain tech instead? It can be any token.](about:blank#)
+Why wouldn't you just make grain tech instead? It can be any token.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4082,7 +4082,7 @@ yeah we will, but in the forum post you shared they were talking about turning g
 
 mateodaza
 
-[Hey guys! Asking the old sourcecred committee, who wanna join then new rewards committe!?? @santigs @liviade @chuygarcia.eth @Zeptimus @anna-marie @natesuits maybe? I know there were more people but I can't remember all. I am reading the old proposal focused only on sourcecred, this time is a bit more complex as we will integrate Impact Hours and some other parameters.](about:blank#)
+Hey guys! Asking the old sourcecred committee, who wanna join then new rewards committe!?? @santigs @liviade @chuygarcia.eth @Zeptimus @anna-marie @natesuits maybe? I know there were more people but I can't remember all. I am reading the old proposal focused only on sourcecred, this time is a bit more complex as we will integrate Impact Hours and some other parameters.
 
 [https://forum.tecommons.org/t/sourcecred-committee-proposal/271](https://forum.tecommons.org/t/sourcecred-committee-proposal/271)
 
@@ -4110,7 +4110,7 @@ On the agenda: Theme of meeting: Weekly standup. What did you do the last few da
 
 mateodaza
 
-[Hey guys! Asking the old sourcecred committee, who wanna join then new rewards committe!?? @santigs @liviade @chuygarcia.eth @Zeptimus @anna-marie @natesuits maybe? I know there were more people but I can't remember all. I am reading the old proposal focused only on sourcecred, this time is a bit more complex as we will integrate Impact Hours and some other parameters.](about:blank#)
+Hey guys! Asking the old sourcecred committee, who wanna join then new rewards committe!?? @santigs @liviade @chuygarcia.eth @Zeptimus @anna-marie @natesuits maybe? I know there were more people but I can't remember all. I am reading the old proposal focused only on sourcecred, this time is a bit more complex as we will integrate Impact Hours and some other parameters.
 
 [https://forum.tecommons.org/t/sourcecred-committee-proposal/271](https://forum.tecommons.org/t/sourcecred-committee-proposal/271)
 
@@ -4131,7 +4131,7 @@ I suggest also having @ALOYSIOUS and @ygg_anderson in the committee so we have s
 
 mateodaza
 
-[Hey guys! Asking the old sourcecred committee, who wanna join then new rewards committe!?? @santigs @liviade @chuygarcia.eth @Zeptimus @anna-marie @natesuits maybe? I know there were more people but I can't remember all. I am reading the old proposal focused only on sourcecred, this time is a bit more complex as we will integrate Impact Hours and some other parameters.](about:blank#)
+Hey guys! Asking the old sourcecred committee, who wanna join then new rewards committe!?? @santigs @liviade @chuygarcia.eth @Zeptimus @anna-marie @natesuits maybe? I know there were more people but I can't remember all. I am reading the old proposal focused only on sourcecred, this time is a bit more complex as we will integrate Impact Hours and some other parameters.
 
 [https://forum.tecommons.org/t/sourcecred-committee-proposal/271](https://forum.tecommons.org/t/sourcecred-committee-proposal/271)
 
@@ -4171,7 +4171,7 @@ I would love to join and contribute, will sync in next call
 
 trangnv
 
-[I would love to join and contribute, will sync in next call](about:blank#)
+I would love to join and contribute, will sync in next call
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4183,7 +4183,7 @@ Welcome @trangnv! ✨ Please if, you will, say a couple of words about yourself.
 
 kristofer
 
-[Welcome @trangnv! ✨ Please if, you will, say a couple of words about yourself. Are you a communicator, a community person, a dev, a token engineer, a designer, not easily categorised or something completely different? Weekly syncs are thursdays, 16:00 CET in the community hall.](about:blank#)
+Welcome @trangnv! ✨ Please if, you will, say a couple of words about yourself. Are you a communicator, a community person, a dev, a token engineer, a designer, not easily categorised or something completely different? Weekly syncs are thursdays, 16:00 CET in the community hall.
 
 <h3>trangnv <img src="https://cdn.discordapp.com/avatars/756512973870203011/c9182f7eb03a2d2af6cccaba35717984.png" width=25 height=25></h3>
 
@@ -4200,7 +4200,7 @@ Hi @kristofer, I'm an aspiring token engineer, had some works with cadCAD and de
 
 trangnv
 
-[Hi @kristofer, I'm an aspiring token engineer, had some works with cadCAD and developing/contributing in tokenSPICE development.](about:blank#)
+Hi @kristofer, I'm an aspiring token engineer, had some works with cadCAD and developing/contributing in tokenSPICE development.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4225,7 +4225,7 @@ when is the next rewards meeting?
 
 anson parker - utc -4
 
-[when is the next rewards meeting?](about:blank#)
+when is the next rewards meeting?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4241,7 +4241,7 @@ but if this is the only time it works for you we can stay like this ofc
 
 liviade
 
-[thursday at 4pm CET](about:blank#)
+thursday at 4pm CET
 
 <h3>anson parker - utc -4 <img src="https://cdn.discordapp.com/avatars/476474330352451584/d5ea4e12c1c2c446befb58cf5a48c3a3.png" width=25 height=25></h3>
 
@@ -4253,7 +4253,7 @@ Thank you!
 
 liviade
 
-[@kristofer should we consider a different time? @ryeder (they/them) said they wanted to join but it's too early, I believe is very early for @ygg_anderson too](about:blank#)
+@kristofer should we consider a different time? @ryeder (they/them) said they wanted to join but it's too early, I believe is very early for @ygg_anderson too
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4267,7 +4267,7 @@ Yes, It seems like an evening CET time will allow for more participants! Let's d
 
 kristofer
 
-[Yes, It seems like an evening CET time will allow for more participants! Let's do a poll, I see two possible options. Vote 1️⃣ for Mondays, 20:00 CET or 2️⃣ for Wednesdays, 20:00 CET. Or vote for both if it doesn't matter. @rdfbbx @ALOYSIOUS @Nuggan @MS @mitch (🍔, 🍔) @liviade @Vyvy-vi @mateodaza @ygg_anderson @ryeder (they/them)  (edited)](about:blank#)
+Yes, It seems like an evening CET time will allow for more participants! Let's do a poll, I see two possible options. Vote 1️⃣ for Mondays, 20:00 CET or 2️⃣ for Wednesdays, 20:00 CET. Or vote for both if it doesn't matter. @rdfbbx @ALOYSIOUS @Nuggan @MS @mitch (🍔, 🍔) @liviade @Vyvy-vi @mateodaza @ygg_anderson @ryeder (they/them)  (edited)
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4280,7 +4280,7 @@ In light of <img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=20 hei
 
 kristofer
 
-[Yes, It seems like an evening CET time will allow for more participants! Let's do a poll, I see two possible options. Vote 1️⃣ for Mondays, 20:00 CET or 2️⃣ for Wednesdays, 20:00 CET. Or vote for both if it doesn't matter. @rdfbbx @ALOYSIOUS @Nuggan @MS @mitch (🍔, 🍔) @liviade @Vyvy-vi @mateodaza @ygg_anderson @ryeder (they/them)  (edited)](about:blank#)
+Yes, It seems like an evening CET time will allow for more participants! Let's do a poll, I see two possible options. Vote 1️⃣ for Mondays, 20:00 CET or 2️⃣ for Wednesdays, 20:00 CET. Or vote for both if it doesn't matter. @rdfbbx @ALOYSIOUS @Nuggan @MS @mitch (🍔, 🍔) @liviade @Vyvy-vi @mateodaza @ygg_anderson @ryeder (they/them)  (edited)
 
 <h3>trangnv <img src="https://cdn.discordapp.com/avatars/756512973870203011/c9182f7eb03a2d2af6cccaba35717984.png" width=25 height=25></h3>
 
@@ -4291,7 +4291,7 @@ _27-Oct-21 08:11 AM_:
 
 trangnv
 
-[20:00 CET is too late for me (1am)](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
+20:00 CET is too late for me (1am)  <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4303,7 +4303,7 @@ Yeah, that sucks. What is good for US west coast unfortunately is bad for Asia.
 
 kristofer
 
-[Yeah, that sucks. What is good for US west coast unfortunately is bad for Asia.](about:blank#)
+Yeah, that sucks. What is good for US west coast unfortunately is bad for Asia.
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -4315,7 +4315,7 @@ I'm planning to start waking earlier on the days we do reward systems meetings. 
 
 kristofer
 
-[In light of , I propose we postpone this weeks sync until next week on the new time. What do you think about that? Reason: @mateodaza is on vacay, current time does not work for @rdfbbx and @Vyvy-vi, new work streams are just getting started (Rewards Committee, Distribution/Analysis, SourceCred bots), etc.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=20 height=20>
+In light of , I propose we postpone this weeks sync until next week on the new time. What do you think about that? Reason: @mateodaza is on vacay, current time does not work for @rdfbbx and @Vyvy-vi, new work streams are just getting started (Rewards Committee, Distribution/Analysis, SourceCred bots), etc. <img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4328,7 +4328,7 @@ sounds good to me
 
 kristofer
 
-[Yes, It seems like an evening CET time will allow for more participants! Let's do a poll, I see two possible options. Vote 1️⃣ for Mondays, 20:00 CET or 2️⃣ for Wednesdays, 20:00 CET. Or vote for both if it doesn't matter. @rdfbbx @ALOYSIOUS @Nuggan @MS @mitch (🍔, 🍔) @liviade @Vyvy-vi @mateodaza @ygg_anderson @ryeder (they/them)  (edited)](about:blank#)
+Yes, It seems like an evening CET time will allow for more participants! Let's do a poll, I see two possible options. Vote 1️⃣ for Mondays, 20:00 CET or 2️⃣ for Wednesdays, 20:00 CET. Or vote for both if it doesn't matter. @rdfbbx @ALOYSIOUS @Nuggan @MS @mitch (🍔, 🍔) @liviade @Vyvy-vi @mateodaza @ygg_anderson @ryeder (they/them)  (edited)
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4354,7 +4354,7 @@ What is this issue about? Give as much detail as you can. The Rewards Committee 
 
 kristofer
 
-[  Ok, we have a new meeting time for the weekly sync! Wednesday at 20:00 CET came out as the clear winner. No meeting this week, see you all next Wednesday.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
+  Ok, we have a new meeting time for the weekly sync! Wednesday at 20:00 CET came out as the clear winner. No meeting this week, see you all next Wednesday. <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -4386,7 +4386,7 @@ _31-Oct-21 05:02 PM_:
 
 rdfbbx
 
-[@kristofer hey! I see you quant1, Quant2, quant3…. What if there will be 5 quantifiers instead of 3?](about:blank#)
+@kristofer hey! I see you quant1, Quant2, quant3…. What if there will be 5 quantifiers instead of 3?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4399,7 +4399,7 @@ Or, we might export all individual quants as one column, QUANT: "10,5,144,48". A
 
 kristofer
 
-[Then I expect there would be more columns.  Or, we might export all individual quants as one column, QUANT: "10,5,144,48". And whoever wants to parse the individual score can split the string into numbers. But.. there is the issue of readability also. I expect the final manual changes to be made in this sheet, the CORRECTION ADD / SUB columns. Those making manual corrections need to be able to easily see the individual quants made.  (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+Then I expect there would be more columns.  Or, we might export all individual quants as one column, QUANT: "10,5,144,48". And whoever wants to parse the individual score can split the string into numbers. But.. there is the issue of readability also. I expect the final manual changes to be made in this sheet, the CORRECTION ADD / SUB columns. Those making manual corrections need to be able to easily see the individual quants made.  (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4411,7 +4411,7 @@ _31-Oct-21 05:09 PM_:
 
 kristofer
 
-[We will export data from Praise and SourceCred to calculate the final token distribution, make analysis and write a distribution report. How does this exported data look? I put together a sheet with two tabs and some sample data, one for Praise, one for SourceCred. - @rdfbbx could you verify the format of the Praise output data? - @mateodaza andor @ALOYSIOUS could you have a look at the SourceCred tab? Is this kind of digested data what we can expect from SC or can a more detailed report be made?](about:blank#)
+We will export data from Praise and SourceCred to calculate the final token distribution, make analysis and write a distribution report. How does this exported data look? I put together a sheet with two tabs and some sample data, one for Praise, one for SourceCred. - @rdfbbx could you verify the format of the Praise output data? - @mateodaza andor @ALOYSIOUS could you have a look at the SourceCred tab? Is this kind of digested data what we can expect from SC or can a more detailed report be made?
 
 [https://docs.google.com/spreadsheets/d/1_0ytnQQBaVu3ABXULUqj_cNYvbWgwGsHUkYCrkTY7Wo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1_0ytnQQBaVu3ABXULUqj_cNYvbWgwGsHUkYCrkTY7Wo/edit?usp=sharing)
 
@@ -4427,7 +4427,7 @@ Token balance is something I didn't see, which is viewable from the sourcecred l
 
 ALOYSIOUS
 
-[Token balance is something I didn't see, which is viewable from the sourcecred ledger/ explorer. Perhaps showing how many tokens someone has obtained historically as well as a current balance if that's desirable.](about:blank#)
+Token balance is something I didn't see, which is viewable from the sourcecred ledger/ explorer. Perhaps showing how many tokens someone has obtained historically as well as a current balance if that's desirable.
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4439,7 +4439,7 @@ Thanks. We want to be paying the rewards with the TEC token. Do we setup SC to c
 
 kristofer
 
-[Thanks. We want to be paying the rewards with the TEC token. Do we setup SC to calculate the TEC token distribution for us or do we convert grain to TEC tokens manually in a spreadsheet afterwards?](about:blank#)
+Thanks. We want to be paying the rewards with the TEC token. Do we setup SC to calculate the TEC token distribution for us or do we convert grain to TEC tokens manually in a spreadsheet afterwards?
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -4451,7 +4451,7 @@ If I'm not mistaken grain is the same thing as TEC. Code the word tec in place o
 
 ALOYSIOUS
 
-[If I'm not mistaken grain is the same thing as TEC. Code the word tec in place of grain and it ought to do all the math for you on the ledger, I would gather this is where you could pull the balance from. Our "grain" can be any token a community is using.  (edited)](about:blank#)
+If I'm not mistaken grain is the same thing as TEC. Code the word tec in place of grain and it ought to do all the math for you on the ledger, I would gather this is where you could pull the balance from. Our "grain" can be any token a community is using.  (edited)
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4505,7 +4505,7 @@ The criteria's I'm thinking is to have a group with comprehensive expertise: tec
 
 liviade
 
-[Hi everyone, moving forward with the committee, I would like to nominate a few people for us to get this settled. **If you are being nominated please react with a thumbs up if you want to participate, and a thumbs down if you don't.** Being part of the committee is going to be a paid role and this are the responsibilities involved with it: - Manage funds from the initial buy-in proposal directed to the reward system. - Once the initial buy in funds are over; committee members will submit proposals to the DAO requesting funds. - Once funds are collected they will send wxDAI to the bonding curve and transfer the resulting TEC tokens to the Reward DAO - Set up Sourcecred parameters - Coordinate with comms to recruit quantifiers and add them to the dashboard - Create proposals in the Reward DAO with the data from the dashboard to distribute funds to contributors - Post an analysis report that will come pretty much ready from the dashboard. It's a substantial amount of work, so I suggest we have 7 people involved, who will be the only ones with voting power in the Rewards DAO](about:blank#)
+Hi everyone, moving forward with the committee, I would like to nominate a few people for us to get this settled. **If you are being nominated please react with a thumbs up if you want to participate, and a thumbs down if you don't.** Being part of the committee is going to be a paid role and this are the responsibilities involved with it: - Manage funds from the initial buy-in proposal directed to the reward system. - Once the initial buy in funds are over; committee members will submit proposals to the DAO requesting funds. - Once funds are collected they will send wxDAI to the bonding curve and transfer the resulting TEC tokens to the Reward DAO - Set up Sourcecred parameters - Coordinate with comms to recruit quantifiers and add them to the dashboard - Create proposals in the Reward DAO with the data from the dashboard to distribute funds to contributors - Post an analysis report that will come pretty much ready from the dashboard. It's a substantial amount of work, so I suggest we have 7 people involved, who will be the only ones with voting power in the Rewards DAO
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -4517,7 +4517,7 @@ Did I miss a meeting today?
 
 ryeder (they/them)
 
-[Did I miss a meeting today?](about:blank#)
+Did I miss a meeting today?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4532,7 +4532,7 @@ new time for west coast birds like you :)
 
 liviade
 
-[new time for west coast birds like you :)](about:blank#)
+new time for west coast birds like you :)
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -4551,7 +4551,7 @@ we are in the community hall
 
 liviade
 
-[new time for west coast birds like you :)](about:blank#)
+new time for west coast birds like you :)
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -4564,7 +4564,7 @@ Oof today and yesterday threw me off so much!!! I'm trying to calibrate myself b
 
 ALOYSIOUS
 
-[Oof today and yesterday threw me off so much!!! I'm trying to calibrate myself but it seems many of the things I could make before I'm now finding myself double booked with time changes. Do we have a name for this phenomenon yet? DAO international calendar kerfuffle? That's too wordy but I'm here for the meme suggestions.](about:blank#)
+Oof today and yesterday threw me off so much!!! I'm trying to calibrate myself but it seems many of the things I could make before I'm now finding myself double booked with time changes. Do we have a name for this phenomenon yet? DAO international calendar kerfuffle? That's too wordy but I'm here for the meme suggestions.
 
 <h3>Lutzar <img src="https://cdn.discordapp.com/avatars/564974398176755712/aafac8df7c5d23ccf557350b84d9f71d.png" width=25 height=25></h3>
 
@@ -4608,7 +4608,7 @@ Meme cred: @Vyvy-vi
 
 Lutzar
 
-[You are in a DAOfuffle?](about:blank#)
+You are in a DAOfuffle?
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -4620,7 +4620,7 @@ Oh that's funny, I like it.
 
 kristofer
 
-[We managed to cover a lot of stuff on the dev sync today!  Two super interesting new threads emerged with great rabbit hole / scope creep potential: 1. Once SC and Praise is running, onboarding a new member as a Rewards recipient means having to make up to seven different verifications of user accounts - Telegram, Discord x 2, Discourse, GitHub, Twitter, Ethereum. We have to investigate how to make this process smooth. Is some kind of decentralised centralised registry an option? - Action: Invite to separate idea session (Kristofer) - Action: Contact Metagame about myMeta (Kristofer) 2. What if praise can be used as a signal, as a data source to verify users? As Vyvy_vi describes it: "*Praise being something that can be used as a proof of being an actual person that's value aligned?*" By being praised, you build a trail over time, a really strong signal about your strengths and contributions. What do we use this signal for? All notes here:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=20 height=20>
+We managed to cover a lot of stuff on the dev sync today!  Two super interesting new threads emerged with great rabbit hole / scope creep potential: 1. Once SC and Praise is running, onboarding a new member as a Rewards recipient means having to make up to seven different verifications of user accounts - Telegram, Discord x 2, Discourse, GitHub, Twitter, Ethereum. We have to investigate how to make this process smooth. Is some kind of decentralised centralised registry an option? - Action: Invite to separate idea session (Kristofer) - Action: Contact Metagame about myMeta (Kristofer) 2. What if praise can be used as a signal, as a data source to verify users? As Vyvy_vi describes it: "*Praise being something that can be used as a proof of being an actual person that's value aligned?*" By being praised, you build a trail over time, a really strong signal about your strengths and contributions. What do we use this signal for? All notes here: <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=20 height=20>
 
 [https://docs.google.com/document/d/1VGOHRiX6fg55zgCE361ja86UIPVZzl3ldcNOJGlbTsQ/edit#](https://docs.google.com/document/d/1VGOHRiX6fg55zgCE361ja86UIPVZzl3ldcNOJGlbTsQ/edit#)
 
@@ -4663,7 +4663,7 @@ IDX is an open source multi-platform identity protocol that allows users to buil
 
 kristofer
 
-[Yeah, identity management will be a key component for the evolvement of DAOs. As important as any governance tool or augmented bonding curve for the long term. And it definitely feels like a potential part of the Commons Stack stack of components! Wonder who will crack the use case and become the "industry standard"? We should look towards Ceramic IDX as well,](about:blank#)
+Yeah, identity management will be a key component for the evolvement of DAOs. As important as any governance tool or augmented bonding curve for the long term. And it definitely feels like a potential part of the Commons Stack stack of components! Wonder who will crack the use case and become the "industry standard"? We should look towards Ceramic IDX as well,
 
 [https://idx.xyz](https://idx.xyz/)
 
@@ -4678,7 +4678,7 @@ We're working on a grant rn at sourcecred to use ceramic for self-serve identiti
 
 ryeder (they/them)
 
-[We're working on a grant rn at sourcecred to use ceramic for self-serve identities](about:blank#)
+We're working on a grant rn at sourcecred to use ceramic for self-serve identities
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4690,7 +4690,7 @@ Wow, interesting! Is there a link to a proposal or some more info?
 
 kristofer
 
-[Wow, interesting! Is there a link to a proposal or some more info?](about:blank#)
+Wow, interesting! Is there a link to a proposal or some more info?
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -4703,7 +4703,7 @@ No, we write our grants privately as of now and they aren't proposed they're jus
 
 kristofer
 
-[We managed to cover a lot of stuff on the dev sync today!  Two super interesting new threads emerged with great rabbit hole / scope creep potential: 1. Once SC and Praise is running, onboarding a new member as a Rewards recipient means having to make up to seven different verifications of user accounts - Telegram, Discord x 2, Discourse, GitHub, Twitter, Ethereum. We have to investigate how to make this process smooth. Is some kind of decentralised centralised registry an option? - Action: Invite to separate idea session (Kristofer) - Action: Contact Metagame about myMeta (Kristofer) 2. What if praise can be used as a signal, as a data source to verify users? As Vyvy_vi describes it: "*Praise being something that can be used as a proof of being an actual person that's value aligned?*" By being praised, you build a trail over time, a really strong signal about your strengths and contributions. What do we use this signal for? All notes here:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=20 height=20>
+We managed to cover a lot of stuff on the dev sync today!  Two super interesting new threads emerged with great rabbit hole / scope creep potential: 1. Once SC and Praise is running, onboarding a new member as a Rewards recipient means having to make up to seven different verifications of user accounts - Telegram, Discord x 2, Discourse, GitHub, Twitter, Ethereum. We have to investigate how to make this process smooth. Is some kind of decentralised centralised registry an option? - Action: Invite to separate idea session (Kristofer) - Action: Contact Metagame about myMeta (Kristofer) 2. What if praise can be used as a signal, as a data source to verify users? As Vyvy_vi describes it: "*Praise being something that can be used as a proof of being an actual person that's value aligned?*" By being praised, you build a trail over time, a really strong signal about your strengths and contributions. What do we use this signal for? All notes here: <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=20 height=20>
 
 [https://docs.google.com/document/d/1VGOHRiX6fg55zgCE361ja86UIPVZzl3ldcNOJGlbTsQ/edit#](https://docs.google.com/document/d/1VGOHRiX6fg55zgCE361ja86UIPVZzl3ldcNOJGlbTsQ/edit#)
 
@@ -4719,7 +4719,7 @@ I really like the praise-as-verification idea. I can keep you updated on self-se
 
 liviade
 
-[Hi everyone, moving forward with the committee, I would like to nominate a few people for us to get this settled. **If you are being nominated please react with a thumbs up if you want to participate, and a thumbs down if you don't.** Being part of the committee is going to be a paid role and this are the responsibilities involved with it: - Manage funds from the initial buy-in proposal directed to the reward system. - Once the initial buy in funds are over; committee members will submit proposals to the DAO requesting funds. - Once funds are collected they will send wxDAI to the bonding curve and transfer the resulting TEC tokens to the Reward DAO - Set up Sourcecred parameters - Coordinate with comms to recruit quantifiers and add them to the dashboard - Create proposals in the Reward DAO with the data from the dashboard to distribute funds to contributors - Post an analysis report that will come pretty much ready from the dashboard. It's a substantial amount of work, so I suggest we have 7 people involved, who will be the only ones with voting power in the Rewards DAO](about:blank#)
+Hi everyone, moving forward with the committee, I would like to nominate a few people for us to get this settled. **If you are being nominated please react with a thumbs up if you want to participate, and a thumbs down if you don't.** Being part of the committee is going to be a paid role and this are the responsibilities involved with it: - Manage funds from the initial buy-in proposal directed to the reward system. - Once the initial buy in funds are over; committee members will submit proposals to the DAO requesting funds. - Once funds are collected they will send wxDAI to the bonding curve and transfer the resulting TEC tokens to the Reward DAO - Set up Sourcecred parameters - Coordinate with comms to recruit quantifiers and add them to the dashboard - Create proposals in the Reward DAO with the data from the dashboard to distribute funds to contributors - Post an analysis report that will come pretty much ready from the dashboard. It's a substantial amount of work, so I suggest we have 7 people involved, who will be the only ones with voting power in the Rewards DAO
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -4735,7 +4735,7 @@ Truly looking forward to getting to know folks better
 
 ryeder (they/them)
 
-[I really like the praise-as-verification idea. I can keep you updated on self-service identity.](about:blank#)
+I really like the praise-as-verification idea. I can keep you updated on self-service identity.
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4747,7 +4747,7 @@ Yes, please do! I'll try to listen in on a dev meeting in the close future as we
 
 kristofer
 
-[Yes, please do! I'll try to listen in on a dev meeting in the close future as well if those are open?](about:blank#)
+Yes, please do! I'll try to listen in on a dev meeting in the close future as well if those are open?
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -4770,7 +4770,7 @@ Rewards Committee To Do List Recruit members - 5 to 8 people? Have a call with e
 
 liviade
 
-[hey @kristofer @mitch (🍔, 🍔) @ryeder (they/them) @chuygarcia.eth @Nuggan @Vyvy-vi thank you all for responding my call to the committee!! @mateodaza I assume you also want to be a part of it? Can we set up a call this week to go over next steps and pick up tasks? here is the committee to-do list we are following](about:blank#)
+hey @kristofer @mitch (🍔, 🍔) @ryeder (they/them) @chuygarcia.eth @Nuggan @Vyvy-vi thank you all for responding my call to the committee!! @mateodaza I assume you also want to be a part of it? Can we set up a call this week to go over next steps and pick up tasks? here is the committee to-do list we are following
 
 [https://docs.google.com/document/d/1NPab5Scj-Y_Z6R7glYIOKAtwbBgMwO_PMj7IwueRGFA/edit#](https://docs.google.com/document/d/1NPab5Scj-Y_Z6R7glYIOKAtwbBgMwO_PMj7IwueRGFA/edit#)
 
@@ -4792,7 +4792,7 @@ does tomorrow at 5pm CET works for everyone?
 
 liviade
 
-[hey @kristofer @mitch (🍔, 🍔) @ryeder (they/them) @chuygarcia.eth @Nuggan @Vyvy-vi thank you all for responding my call to the committee!! @mateodaza I assume you also want to be a part of it? Can we set up a call this week to go over next steps and pick up tasks? here is the committee to-do list we are following](about:blank#)
+hey @kristofer @mitch (🍔, 🍔) @ryeder (they/them) @chuygarcia.eth @Nuggan @Vyvy-vi thank you all for responding my call to the committee!! @mateodaza I assume you also want to be a part of it? Can we set up a call this week to go over next steps and pick up tasks? here is the committee to-do list we are following
 
 [https://docs.google.com/document/d/1NPab5Scj-Y_Z6R7glYIOKAtwbBgMwO_PMj7IwueRGFA/edit#](https://docs.google.com/document/d/1NPab5Scj-Y_Z6R7glYIOKAtwbBgMwO_PMj7IwueRGFA/edit#)
 
@@ -4806,7 +4806,7 @@ sorry @liviade is this what's scheduled for thursday?
 
 chuygarcia.eth
 
-[sorry @liviade is this what's scheduled for thursday?](about:blank#)
+sorry @liviade is this what's scheduled for thursday?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4818,7 +4818,7 @@ I don't see nothing in the schedule for thursday
 
 liviade
 
-[I don't see nothing in the schedule for thursday](about:blank#)
+I don't see nothing in the schedule for thursday
 
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
@@ -4836,7 +4836,7 @@ _08-Nov-21 03:15 PM_:
 
 chuygarcia.eth
 
-[wednesday* sorry!](about:blank#)
+wednesday* sorry!
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -4848,7 +4848,7 @@ also wondering why we don't use the scheduled time, i can do either
 
 chuygarcia.eth
 
-[wednesday* sorry!](about:blank#)
+wednesday* sorry!
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4860,7 +4860,7 @@ wednesday is our weekly call, don't know if we will have enough time to look int
 
 liviade
 
-[wednesday is our weekly call, don't know if we will have enough time to look into the committee stuff, what do you think @kristofer ? Better to schedule a separate call or could we use a good portion of the wed meeting?](about:blank#)
+wednesday is our weekly call, don't know if we will have enough time to look into the committee stuff, what do you think @kristofer ? Better to schedule a separate call or could we use a good portion of the wed meeting?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4873,7 +4873,7 @@ Let's do it, we can reserve the second half of the meeting to that topic.
 
 kristofer
 
-[Let's do it, we can reserve the second half of the meeting to that topic.](about:blank#)
+Let's do it, we can reserve the second half of the meeting to that topic.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4891,7 +4891,7 @@ So will it be on Wed? just making sure
 
 mateodaza
 
-[So will it be on Wed? just making sure](about:blank#)
+So will it be on Wed? just making sure
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4903,7 +4903,7 @@ yeah, wednesday at 8pm CET
 
 ryeder (they/them)
 
-[also wondering why we don't use the scheduled time, i can do either](about:blank#)
+also wondering why we don't use the scheduled time, i can do either
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4914,7 +4914,7 @@ we'll use the scheduled time - just pinging you in case you haven't seen the las
 
 liviade
 
-[we'll use the scheduled time - just pinging you in case you haven't seen the last messaged](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
+we'll use the scheduled time - just pinging you in case you haven't seen the last messaged  <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -5018,7 +5018,7 @@ _11-Nov-21 02:40 PM_:
 
 ryeder (they/them)
 
-[@liviade and reward board folks.... we have a meeting bot already that works with sourcecred.... please let's consider this option](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+@liviade and reward board folks.... we have a meeting bot already that works with sourcecred.... please let's consider this option  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5031,7 +5031,7 @@ is there anything blocking us from using this already @kristofer ?
 
 liviade
 
-[is there anything blocking us from using this already @kristofer ?](about:blank#)
+is there anything blocking us from using this already @kristofer ?
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -5043,7 +5043,7 @@ _11-Nov-21 02:49 PM_:
 
 ryeder (they/them)
 
-[@kristofer for reference](about:blank#)
+@kristofer for reference
 
 [https://discord.com/channels/810180621930070088/810180622966325295/879788371935911936](https://discord.com/channels/810180621930070088/810180622966325295/879788371935911936)
 
@@ -5064,7 +5064,7 @@ Also, we wanted automate the tracking based on the TEC calendar. Tracking starts
 
 kristofer
 
-[SourceCred requires community members to react to the posted messages for the grain calculation, right? We wanted to avoid that for meeting tracking. See attached pictures from SC Discord. One meeting got 4 reactions for 5 participants. The other has 9 reactions and 3 participants. Don't this risk leading to some meetings being valued more than others?](about:blank#)
+SourceCred requires community members to react to the posted messages for the grain calculation, right? We wanted to avoid that for meeting tracking. See attached pictures from SC Discord. One meeting got 4 reactions for 5 participants. The other has 9 reactions and 3 participants. Don't this risk leading to some meetings being valued more than others?
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -5076,7 +5076,7 @@ Yes, similar to what I hear about the praise system, meetings are valued differe
 
 kristofer
 
-[Also, we wanted automate the tracking based on the TEC calendar. Tracking starts and stops based on those calendar events.](about:blank#)
+Also, we wanted automate the tracking based on the TEC calendar. Tracking starts and stops based on those calendar events.
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -5090,7 +5090,7 @@ Having a gcal plugin would eliminate the need to manually insert meetings. COOL
 
 ryeder (they/them)
 
-[Having a gcal plugin would eliminate the need to manually insert meetings. COOL](about:blank#)
+Having a gcal plugin would eliminate the need to manually insert meetings. COOL
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -5102,7 +5102,7 @@ Will be interesting to see what @Vyvy-vi comes up with! If he needs tech support
 
 kristofer
 
-[Will be interesting to see what @Vyvy-vi comes up with! If he needs tech support for creating the SourceCred ExternalPlugins part of the bot, do you know who could best advise from within SC?](about:blank#)
+Will be interesting to see what @Vyvy-vi comes up with! If he needs tech support for creating the SourceCred ExternalPlugins part of the bot, do you know who could best advise from within SC?
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -5124,7 +5124,7 @@ hey guys! I'll be out of the loop and on vacay until the 19th, I may or may not 
 
 mitch (🍔, 🍔)
 
-[hey guys! I'll be out of the loop and on vacay until the 19th, I may or may not check Discord.](about:blank#)
+hey guys! I'll be out of the loop and on vacay until the 19th, I may or may not check Discord.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5203,7 +5203,7 @@ What did you do the last few days? - Created user epic for devops deployment (in
 
 PhilKK
 
-[Hi guys, my name is Phil. I was working since 2 years as a blockchain architect and token engineer. Some projects of mine are SmartAid, a tokenized donation platform on private **Ethereum**, **MOBIX** a tokenized micromobility marketplace leveraging **Fetch.ai, Ocean Protocol, Polygon.** and the Rohingya Archive, building on **Arweave**. I did already some reseach on DAO Contribution Management Systems with guys from MGH. Here is a link:](about:blank#)
+Hi guys, my name is Phil. I was working since 2 years as a blockchain architect and token engineer. Some projects of mine are SmartAid, a tokenized donation platform on private **Ethereum**, **MOBIX** a tokenized micromobility marketplace leveraging **Fetch.ai, Ocean Protocol, Polygon.** and the Rohingya Archive, building on **Arweave**. I did already some reseach on DAO Contribution Management Systems with guys from MGH. Here is a link:
 
 [https://docs.google.com/presentation/d/1Tgpq9GbIr9uPJIovcuI771YQAqVal59StjV6e81ErbQ/edit?usp=sharing](https://docs.google.com/presentation/d/1Tgpq9GbIr9uPJIovcuI771YQAqVal59StjV6e81ErbQ/edit?usp=sharing)
 
@@ -5225,7 +5225,7 @@ Where do we meet?
 
 ryeder (they/them)
 
-[Where do we meet?](about:blank#)
+Where do we meet?
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -5300,7 +5300,7 @@ Nice overview... @liviade worth mentioning to Governauts too
 
 griff (💜, 💜)
 
-[Nice overview... @liviade worth mentioning to Governauts too](about:blank#)
+Nice overview... @liviade worth mentioning to Governauts too
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5318,7 +5318,7 @@ Yes! Can we please post and pin the notion board here please? @liviade @kristofe
 
 ryeder (they/them)
 
-[Yes! Can we please post and pin the notion board here please? @liviade @kristofer](about:blank#)
+Yes! Can we please post and pin the notion board here please? @liviade @kristofer
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -5386,7 +5386,7 @@ Hey All! I am Renato from Peru, would love to colaborare here..when is the next 
 
 Renato M
 
-[Hey All! I am Renato from Peru, would love to colaborare here..when is the next meeting?](about:blank#)
+Hey All! I am Renato from Peru, would love to colaborare here..when is the next meeting?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5421,7 +5421,7 @@ _24-Nov-21 02:28 PM_:
 
 MS
 
-[@liviade I added my name - let me know if I need anymore detail or should anything else](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+@liviade I added my name - let me know if I need anymore detail or should anything else  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5435,7 +5435,7 @@ or in the doc?
 
 liviade
 
-[thanks!! did you add straight to notion?](about:blank#)
+thanks!! did you add straight to notion?
 
 <h3>MS <img src="https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png" width=25 height=25></h3>
 
@@ -5448,7 +5448,7 @@ lol
 
 MS
 
-[Straight to Notion - I can remove from Notion and add to Doc. Didn't mean to break protocol if I did  lol](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=20 height=20>
+Straight to Notion - I can remove from Notion and add to Doc. Didn't mean to break protocol if I did  lol <img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5472,7 +5472,7 @@ My experience: whether someone's identity is activated or not, their activity on
 
 ryeder (they/them)
 
-[My experience: whether someone's identity is activated or not, their activity on discord is recorded by the bot. This is what I'm referring to. It feels cleaner to have this cred recognized only after receiving a weighted role, such as praise giver or new member or... ? whatever they choose.  (edited)](about:blank#)
+My experience: whether someone's identity is activated or not, their activity on discord is recorded by the bot. This is what I'm referring to. It feels cleaner to have this cred recognized only after receiving a weighted role, such as praise giver or new member or... ? whatever they choose.  (edited)
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -5490,7 +5490,7 @@ _24-Nov-21 04:32 PM_:
 
 MS
 
-[@mitch (🍔, 🍔) - To have a further appreciation of the data reporting and ecosystem I would like to participate as a quantifier. At least for a couple of times, is that something I can connect with you on?](about:blank#)
+@mitch (🍔, 🍔) - To have a further appreciation of the data reporting and ecosystem I would like to participate as a quantifier. At least for a couple of times, is that something I can connect with you on?
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -5529,7 +5529,7 @@ _25-Nov-21 08:54 AM_:
 
 mitch (🍔, 🍔)
 
-[@kristofer perhaps I missed part of this conversation but have we thought about how we will disburse rewards from each quant? like if we have 50+ contributors with unique amounts of TEC being allocated how will we actually send those tokens out from the Reward Board treasury?](about:blank#)
+@kristofer perhaps I missed part of this conversation but have we thought about how we will disburse rewards from each quant? like if we have 50+ contributors with unique amounts of TEC being allocated how will we actually send those tokens out from the Reward Board treasury?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -5541,7 +5541,7 @@ Remains to be decided, I thought that could be done using a multisig or through 
 
 kristofer
 
-[Remains to be decided, I thought that could be done using a multisig or through an Aragon DAO?](about:blank#)
+Remains to be decided, I thought that could be done using a multisig or through an Aragon DAO?
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -5557,7 +5557,7 @@ in the case of an aragon DAO we can use an EVM script to batch them together int
 
 mitch (🍔, 🍔)
 
-[I'm thinking before we make the open call for Quantifiers we should confirm how we can manage them, I think a simple discord role would suffice. This would be helpful for tagging all quantifiers to complete time sensitive actions (like completing quants) and we could still keep it in the reward system channel so information remains consolidated. @Vyvy-vi can we make that magic happen?](about:blank#)
+I'm thinking before we make the open call for Quantifiers we should confirm how we can manage them, I think a simple discord role would suffice. This would be helpful for tagging all quantifiers to complete time sensitive actions (like completing quants) and we could still keep it in the reward system channel so information remains consolidated. @Vyvy-vi can we make that magic happen?
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -5569,7 +5569,7 @@ yes
 
 mitch (🍔, 🍔)
 
-[@kristofer perhaps I missed part of this conversation but have we thought about how we will disburse rewards from each quant? like if we have 50+ contributors with unique amounts of TEC being allocated how will we actually send those tokens out from the Reward Board treasury?](about:blank#)
+@kristofer perhaps I missed part of this conversation but have we thought about how we will disburse rewards from each quant? like if we have 50+ contributors with unique amounts of TEC being allocated how will we actually send those tokens out from the Reward Board treasury?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5581,7 +5581,7 @@ sourcecred does that distribution automatically, we just have to figure out how 
 
 liviade
 
-[sourcecred does that distribution automatically, we just have to figure out how to do it for praise. My hope was that the dashboard could automatically pair the final results from quants with their respective adresses in a cvs file that can be uploaded to the aragon dao, like we do with sourcecred](about:blank#)
+sourcecred does that distribution automatically, we just have to figure out how to do it for praise. My hope was that the dashboard could automatically pair the final results from quants with their respective adresses in a cvs file that can be uploaded to the aragon dao, like we do with sourcecred
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -5593,7 +5593,7 @@ but will sourcred actually send the TEC to the recipients?
 
 mitch (🍔, 🍔)
 
-[but will sourcred actually send the TEC to the recipients?](about:blank#)
+but will sourcred actually send the TEC to the recipients?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5605,7 +5605,7 @@ we will set grain to be TEC tokens. So SC will tell us how much each address sho
 
 liviade
 
-[we will set grain to be TEC tokens. So SC will tell us how much each address should receive. This info will be a cvs file that we'll upload to the proposal and once we approve it everyone will receive those amounts](about:blank#)
+we will set grain to be TEC tokens. So SC will tell us how much each address should receive. This info will be a cvs file that we'll upload to the proposal and once we approve it everyone will receive those amounts
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -5647,7 +5647,7 @@ also it doesnt say reward board <img src="https://twemoji.maxcdn.com/2/72x72/1f6
 
 mitch (🍔, 🍔)
 
-[also it doesnt say reward board](about:blank#)
+also it doesnt say reward board
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5675,7 +5675,7 @@ This are the params: it currently has 8 members and the vote duration is of 24h.
 
 mitch (🍔, 🍔)
 
-[it looks like it will probably be fine to use the old one. I was worried if there was a really crazy amount of tokens minted or weird voting settings. so then we'll have to find a way to integrate rewards distribution from praise in this same manner](about:blank#)
+it looks like it will probably be fine to use the old one. I was worried if there was a really crazy amount of tokens minted or weird voting settings. so then we'll have to find a way to integrate rewards distribution from praise in this same manner
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5687,7 +5687,7 @@ _25-Nov-21 11:28 AM_:
 
 liviade
 
-[@mateodaza am I missing something?](about:blank#)
+@mateodaza am I missing something?
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -5705,7 +5705,7 @@ _25-Nov-21 11:59 AM_:
 
 mitch (🍔, 🍔)
 
-[it looks like it will probably be fine to use the old one. I was worried if there was a really crazy amount of tokens minted or weird voting settings. so then we'll have to find a way to integrate rewards distribution from praise in this same manner](about:blank#)
+it looks like it will probably be fine to use the old one. I was worried if there was a really crazy amount of tokens minted or weird voting settings. so then we'll have to find a way to integrate rewards distribution from praise in this same manner
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -5777,7 +5777,7 @@ The point here is not to create technical debt on TOP of cultural debt. We are i
 
 liviade
 
-[24h](about:blank#)
+24h
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -5805,7 +5805,7 @@ Calling All Quantifiers!
 
 mitch (🍔, 🍔)
 
-[So then we'll have to assume any review process of quants takes place before the vote is created since it is a very short duration. Things like Quorum and Support required are modifiable within an Aragon DAO (via a vote) but the vote duration sadly is not.  (edited)](about:blank#)
+So then we'll have to assume any review process of quants takes place before the vote is created since it is a very short duration. Things like Quorum and Support required are modifiable within an Aragon DAO (via a vote) but the vote duration sadly is not.  (edited)
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5821,7 +5821,7 @@ the way we did last time is that both Mateo and I jumped in a call to make the p
 
 liviade
 
-[the way we did last time is that both Mateo and I jumped in a call to make the proposal, so if he put something wrong by accident I was there to check too.](about:blank#)
+the way we did last time is that both Mateo and I jumped in a call to make the proposal, so if he put something wrong by accident I was there to check too.
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -5839,7 +5839,7 @@ But I think what @mateodaza mentioned in our last call is that all this process 
 
 mitch (🍔, 🍔)
 
-[okay so this seems like it works in small groups, do you think this short duration approach will work as the DAO scales up?](about:blank#)
+okay so this seems like it works in small groups, do you think this short duration approach will work as the DAO scales up?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5873,7 +5873,7 @@ how does it not end up being the same 2 people over time?
 
 liviade
 
-[But I think what @mateodaza mentioned in our last call is that all this process can be automated now. So proposals don't need to be made manually](about:blank#)
+But I think what @mateodaza mentioned in our last call is that all this process can be automated now. So proposals don't need to be made manually
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5949,7 +5949,7 @@ Twitter • 26-Nov-21 09:29 AM
 
 mitch (🍔, 🍔)
 
-[mhm okay good](about:blank#)
+mhm okay good
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -5964,7 +5964,7 @@ ps. All steps above could in theory be performed during one post quantification 
 
 ALOYSIOUS
 
-[Met Rich through Microsolidarity practices [solid work there], I'm heavy on leadership, mentorship and loved his twitter share:](about:blank#)
+Met Rich through Microsolidarity practices [solid work there], I'm heavy on leadership, mentorship and loved his twitter share:
 
 [https://twitter.com/RichDecibels/status/1464240020169109504?t=Tr_F3D_DgU1x1QiOdz0jEg&s=19](https://twitter.com/RichDecibels/status/1464240020169109504?t=Tr_F3D_DgU1x1QiOdz0jEg&s=19)
 
@@ -5986,7 +5986,7 @@ Oyé Oyé! This is a first call for anyone who would like to be on the first dra
 
 mitch (🍔, 🍔)
 
-[Oyé Oyé! This is a first call for anyone who would like to be on the first draft of Quantifiers - we'll be creating, testing and piloting the process of quantification and streamlining resources to onboard more Quantifiers ahead of the first quant - please reply to this comment if you want a piece of the action](about:blank#)
+Oyé Oyé! This is a first call for anyone who would like to be on the first draft of Quantifiers - we'll be creating, testing and piloting the process of quantification and streamlining resources to onboard more Quantifiers ahead of the first quant - please reply to this comment if you want a piece of the action
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -5998,7 +5998,7 @@ oye oye
 
 kristofer
 
-[ps. All steps above could in theory be performed during one post quantification reward board call.](about:blank#)
+ps. All steps above could in theory be performed during one post quantification reward board call.
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -6099,7 +6099,7 @@ How does the community feel about this? Maybe we could take some time in the cal
 
 mitch (🍔, 🍔)
 
-[reviewed! looks  I left jus a few comments](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=20 height=20>
+reviewed! looks  I left jus a few comments <img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -6153,7 +6153,7 @@ Hi friends! If you have any questions, feel free to ask (edited)
 
 Nuggan
 
-[Are we sure we want to keep it that way? While discussing, we thought that maybe it could be a good idea if the reward board only has the power to ratify the received quantification, or send it back to re-quantify if they find issues. It would add a level of transparency and "separation of powers" to the system.](about:blank#)
+Are we sure we want to keep it that way? While discussing, we thought that maybe it could be a good idea if the reward board only has the power to ratify the received quantification, or send it back to re-quantify if they find issues. It would add a level of transparency and "separation of powers" to the system.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -6183,7 +6183,7 @@ brb
 
 mitch (🍔, 🍔)
 
-[Oyé Oyé! This is a first call for anyone who would like to be on the first draft of Quantifiers - we'll be creating, testing and piloting the process of quantification and streamlining resources to onboard more Quantifiers ahead of the first quant - please reply to this comment if you want a piece of the action](about:blank#)
+Oyé Oyé! This is a first call for anyone who would like to be on the first draft of Quantifiers - we'll be creating, testing and piloting the process of quantification and streamlining resources to onboard more Quantifiers ahead of the first quant - please reply to this comment if you want a piece of the action
 
 <h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
@@ -6212,7 +6212,7 @@ hey @kristofer I had some questions from the reward system dashboard you demo'd 
 
 mitch (🍔, 🍔)
 
-[hey @kristofer I had some questions from the reward system dashboard you demo'd yesterday - What's the point in being able to name a quantification period? Shouldn't the title be the Quantification Period Dates - what's the point of calling it something other than that? How exactly does marking duplicate praise work? how does it work if we identify multiple (3+) instances of duplicate praise?](about:blank#)
+hey @kristofer I had some questions from the reward system dashboard you demo'd yesterday - What's the point in being able to name a quantification period? Shouldn't the title be the Quantification Period Dates - what's the point of calling it something other than that? How exactly does marking duplicate praise work? how does it work if we identify multiple (3+) instances of duplicate praise?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -6316,7 +6316,7 @@ Hi folks - Just butting in here. We tried coordinape for a "praise" model but fo
 
 Clayton - UMA
 
-[Hi folks - Just butting in here. We tried coordinape for a "praise" model but found it to have too much platform friction. As I can tell, you're going to use sourcecred to allow praise to be given out on Discord, not unlike tips?](about:blank#)
+Hi folks - Just butting in here. We tried coordinape for a "praise" model but found it to have too much platform friction. As I can tell, you're going to use sourcecred to allow praise to be given out on Discord, not unlike tips?
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -6334,7 +6334,7 @@ Rewards System Process The purpose of this system is to create a way to record, 
 
 mitch (🍔, 🍔)
 
-[not quite, we use sourcecred in tandem with praise - so collecting objective actions with subjective perceptions to create rewards distributions I wrote down our intial draft for the reward system in this forum post -](about:blank#)
+not quite, we use sourcecred in tandem with praise - so collecting objective actions with subjective perceptions to create rewards distributions I wrote down our intial draft for the reward system in this forum post -
 
 [https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646](https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646)
 
@@ -6356,7 +6356,7 @@ So SourceCred is currently being developed? (by people here?)
 
 Clayton - UMA
 
-[So SourceCred is currently being developed? (by people here?)](about:blank#)
+So SourceCred is currently being developed? (by people here?)
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -6383,7 +6383,7 @@ More discussion topics? Comment this message.
 
 Clayton - UMA
 
-[Hi folks - Just butting in here. We tried coordinape for a "praise" model but found it to have too much platform friction. As I can tell, you're going to use sourcecred to allow praise to be given out on Discord, not unlike tips?](about:blank#)
+Hi folks - Just butting in here. We tried coordinape for a "praise" model but found it to have too much platform friction. As I can tell, you're going to use sourcecred to allow praise to be given out on Discord, not unlike tips?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -6399,7 +6399,7 @@ hey @ALOYSIOUS would you like to present the results of your survey in today's s
 
 liviade
 
-[curious to what kind of problems you had with coordinape](about:blank#)
+curious to what kind of problems you had with coordinape
 
 <h3>Clayton - UMA <img src="https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png" width=25 height=25></h3>
 
@@ -6430,7 +6430,7 @@ _08-Dec-21 02:18 PM_:
 
 Vyvy-vi
 
-[~~when Reward Systems is the raddest at naming things~~](about:blank#)
+~~when Reward Systems is the raddest at naming things~~
 
 <h3>MS <img src="https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png" width=25 height=25></h3>
 
@@ -6445,7 +6445,7 @@ _08-Dec-21 03:08 PM_:
 
 liviade
 
-[hey @ALOYSIOUS would you like to present the results of your survey in today's session?](about:blank#)
+hey @ALOYSIOUS would you like to present the results of your survey in today's session?
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -6498,7 +6498,7 @@ _09-Dec-21 06:36 AM_:
 
 ALOYSIOUS
 
-[The other side of Praise data Slides:](about:blank#)
+The other side of Praise data Slides:
 
 [https://docs.google.com/presentation/d/1PpP3yRsvyfgJvZPL2GH0paeHRMHdQEEzsRxjpu1u1w8/edit?usp=sharing](https://docs.google.com/presentation/d/1PpP3yRsvyfgJvZPL2GH0paeHRMHdQEEzsRxjpu1u1w8/edit?usp=sharing)
 
@@ -6519,7 +6519,7 @@ Impressive amount of data collected
 
 Clayton - UMA
 
-[this is very cool!](about:blank#)
+this is very cool!
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -6541,7 +6541,7 @@ I talked about praise at the DAO Rewards System Assemblage yesterday! See the re
 
 kristofer
 
-[I talked about praise at the DAO Rewards System Assemblage yesterday! See the recording here:](about:blank#)
+I talked about praise at the DAO Rewards System Assemblage yesterday! See the recording here:
 
 [https://youtu.be/wndDaI-eNgc?t=25056](https://youtu.be/wndDaI-eNgc?t=25056)
 
@@ -6568,7 +6568,7 @@ that's a good question and metric that we ought to have if not
 
 nic
 
-[is there a way to see the # of praise that a wg receives based on its members/most active contributors?](about:blank#)
+is there a way to see the # of praise that a wg receives based on its members/most active contributors?
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -6580,7 +6580,7 @@ I think it becomes a bit muddled since praise doesn't explicitly define a WG and
 
 mitch (🍔, 🍔)
 
-[I think it becomes a bit muddled since praise doesn't explicitly define a WG and contributors can be in multiple WGs and work can affect multiple WGs](about:blank#)
+I think it becomes a bit muddled since praise doesn't explicitly define a WG and contributors can be in multiple WGs and work can affect multiple WGs
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -6680,7 +6680,7 @@ I hate to say it but ... I told you so... (edited)
 
 kristofer
 
-[    Oyez, Oyez! A praise dev announcement!     The Praise backend will make a pivot and move to new platform. The frontend will remain the same. We will start over with the backend development using the following tech stack: Node/Express/TypeScript/MongoDB The reasons are many: - Working with Java and Spring has made the project dependent on one person. That is not a good situation. We could find other Java developers but that takes time and we also have a community of developers alredy in the TEC, CS and General Magic. All those devs mostly prefer and know JS/TS/Python/Solidity. - I would like Praise to become as decentralised as possible in future versions. Making the switch from SQL to storing JSON docs in MongoDB will make that much easier. Many decentralised solutions - IPFS/Ceramic/Textile etc - offer the ability to store JSON documents but don't support anything looking like a relational database. - Building the backend and frontend using the same language will allow us to reuse code between layers - interfaces etc. - The final distribution can be made simpler and smaller with less dependencies and require less knowledge from a community that would like to use Praise. I wish I would have known and seen all this before we started but I didn't. That would have saved us a lot of time and effort. This is a realisation that has built up gradually and now seems like the right time to make a decision. @Nebs will be laying down the foundation for the new backend in the coming days. Then we will have some work to do catching up with the roadmap on the new platform. I expect us to be able to move forward quite quickly, the work that has been put into the Java backend has definitely not been in vain, we will be taking all insights to the new platform - data model, business logic/rules, etc. Will this affect the delivery date for the MVP version we need to do the trial quant? I don't know yet but hope to have a better sense of that within a week.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=20 height=20> 
+    Oyez, Oyez! A praise dev announcement!     The Praise backend will make a pivot and move to new platform. The frontend will remain the same. We will start over with the backend development using the following tech stack: Node/Express/TypeScript/MongoDB The reasons are many: - Working with Java and Spring has made the project dependent on one person. That is not a good situation. We could find other Java developers but that takes time and we also have a community of developers alredy in the TEC, CS and General Magic. All those devs mostly prefer and know JS/TS/Python/Solidity. - I would like Praise to become as decentralised as possible in future versions. Making the switch from SQL to storing JSON docs in MongoDB will make that much easier. Many decentralised solutions - IPFS/Ceramic/Textile etc - offer the ability to store JSON documents but don't support anything looking like a relational database. - Building the backend and frontend using the same language will allow us to reuse code between layers - interfaces etc. - The final distribution can be made simpler and smaller with less dependencies and require less knowledge from a community that would like to use Praise. I wish I would have known and seen all this before we started but I didn't. That would have saved us a lot of time and effort. This is a realisation that has built up gradually and now seems like the right time to make a decision. @Nebs will be laying down the foundation for the new backend in the coming days. Then we will have some work to do catching up with the roadmap on the new platform. I expect us to be able to move forward quite quickly, the work that has been put into the Java backend has definitely not been in vain, we will be taking all insights to the new platform - data model, business logic/rules, etc. Will this affect the delivery date for the MVP version we need to do the trial quant? I don't know yet but hope to have a better sense of that within a week. <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=20 height=20> 
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -6701,7 +6701,7 @@ _16-Dec-21 04:47 PM_:
 
 griff (💜, 💜)
 
-[@MS @Nuggan and anyone else interested... there is this really cool tool that is worth checking out... @catman and @FrazierFraz can talk more about it...](about:blank#)
+@MS @Nuggan and anyone else interested... there is this really cool tool that is worth checking out... @catman and @FrazierFraz can talk more about it...
 
 <h3>FrazierFraz <img src="https://cdn.discordapp.com/avatars/729422111021596724/9926d85db6d3bdb4d7f5bd21dff0ce02.png" width=25 height=25></h3>
 
@@ -6714,7 +6714,7 @@ Thanks @griff (💜, 💜) ! Yes we just completed our MVP of the Labs Platform,
 
 kristofer
 
-[    Oyez, Oyez! A praise dev announcement!     The Praise backend will make a pivot and move to new platform. The frontend will remain the same. We will start over with the backend development using the following tech stack: Node/Express/TypeScript/MongoDB The reasons are many: - Working with Java and Spring has made the project dependent on one person. That is not a good situation. We could find other Java developers but that takes time and we also have a community of developers alredy in the TEC, CS and General Magic. All those devs mostly prefer and know JS/TS/Python/Solidity. - I would like Praise to become as decentralised as possible in future versions. Making the switch from SQL to storing JSON docs in MongoDB will make that much easier. Many decentralised solutions - IPFS/Ceramic/Textile etc - offer the ability to store JSON documents but don't support anything looking like a relational database. - Building the backend and frontend using the same language will allow us to reuse code between layers - interfaces etc. - The final distribution can be made simpler and smaller with less dependencies and require less knowledge from a community that would like to use Praise. I wish I would have known and seen all this before we started but I didn't. That would have saved us a lot of time and effort. This is a realisation that has built up gradually and now seems like the right time to make a decision. @Nebs will be laying down the foundation for the new backend in the coming days. Then we will have some work to do catching up with the roadmap on the new platform. I expect us to be able to move forward quite quickly, the work that has been put into the Java backend has definitely not been in vain, we will be taking all insights to the new platform - data model, business logic/rules, etc. Will this affect the delivery date for the MVP version we need to do the trial quant? I don't know yet but hope to have a better sense of that within a week.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=20 height=20> 
+    Oyez, Oyez! A praise dev announcement!     The Praise backend will make a pivot and move to new platform. The frontend will remain the same. We will start over with the backend development using the following tech stack: Node/Express/TypeScript/MongoDB The reasons are many: - Working with Java and Spring has made the project dependent on one person. That is not a good situation. We could find other Java developers but that takes time and we also have a community of developers alredy in the TEC, CS and General Magic. All those devs mostly prefer and know JS/TS/Python/Solidity. - I would like Praise to become as decentralised as possible in future versions. Making the switch from SQL to storing JSON docs in MongoDB will make that much easier. Many decentralised solutions - IPFS/Ceramic/Textile etc - offer the ability to store JSON documents but don't support anything looking like a relational database. - Building the backend and frontend using the same language will allow us to reuse code between layers - interfaces etc. - The final distribution can be made simpler and smaller with less dependencies and require less knowledge from a community that would like to use Praise. I wish I would have known and seen all this before we started but I didn't. That would have saved us a lot of time and effort. This is a realisation that has built up gradually and now seems like the right time to make a decision. @Nebs will be laying down the foundation for the new backend in the coming days. Then we will have some work to do catching up with the roadmap on the new platform. I expect us to be able to move forward quite quickly, the work that has been put into the Java backend has definitely not been in vain, we will be taking all insights to the new platform - data model, business logic/rules, etc. Will this affect the delivery date for the MVP version we need to do the trial quant? I don't know yet but hope to have a better sense of that within a week. <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=20 height=20> 
 
 <h3>MS <img src="https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png" width=25 height=25></h3>
 
@@ -6727,7 +6727,7 @@ Same as the other comments here - let me know if there is anything I can help wi
 
 griff (💜, 💜)
 
-[@MS @Nuggan and anyone else interested... there is this really cool tool that is worth checking out... @catman and @FrazierFraz can talk more about it...](about:blank#)
+@MS @Nuggan and anyone else interested... there is this really cool tool that is worth checking out... @catman and @FrazierFraz can talk more about it...
 
 <h3>MS <img src="https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png" width=25 height=25></h3>
 
@@ -6740,7 +6740,7 @@ I am always a fan of cool tools and am very interested in learning more!
 
 mitch (🍔, 🍔)
 
-[@kristofer how can we empower you to onboard some amazing back-end devs to get this backend up and running?](about:blank#)
+@kristofer how can we empower you to onboard some amazing back-end devs to get this backend up and running?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -6767,7 +6767,7 @@ Table of contents
 
 kristofer
 
-[ Hi all! Welcome to the last Rewards WG weekly sync of this year! We begin at 20:00 CET. The agenda is a little bit thinner today than usual, mostly because of the fact that many works streams now almost are done. The next big step is the trial quant. Let's revisit the roadmap and do some planning: - Trial quant date - SourceCred parameters work session - First quant analysis And, I'd like to propose we use the month of November as trial quant data month. This means we can start preparing both SC and praise data for quant whenever. You have discussion items? Add to the agenda doc:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f936.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f385.png" width=20 height=20>
+ Hi all! Welcome to the last Rewards WG weekly sync of this year! We begin at 20:00 CET. The agenda is a little bit thinner today than usual, mostly because of the fact that many works streams now almost are done. The next big step is the trial quant. Let's revisit the roadmap and do some planning: - Trial quant date - SourceCred parameters work session - First quant analysis And, I'd like to propose we use the month of November as trial quant data month. This means we can start preparing both SC and praise data for quant whenever. You have discussion items? Add to the agenda doc: <img src="https://twemoji.maxcdn.com/2/72x72/1f936.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f385.png" width=20 height=20>
 
 [https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
@@ -6786,7 +6786,7 @@ Hey team! I won't be on the rewards call today - launching 3 apps this week <img
 
 kristofer
 
-[ Hi all! Welcome to the last Rewards WG weekly sync of this year! We begin at 20:00 CET. The agenda is a little bit thinner today than usual, mostly because of the fact that many works streams now almost are done. The next big step is the trial quant. Let's revisit the roadmap and do some planning: - Trial quant date - SourceCred parameters work session - First quant analysis And, I'd like to propose we use the month of November as trial quant data month. This means we can start preparing both SC and praise data for quant whenever. You have discussion items? Add to the agenda doc:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f936.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f385.png" width=20 height=20>
+ Hi all! Welcome to the last Rewards WG weekly sync of this year! We begin at 20:00 CET. The agenda is a little bit thinner today than usual, mostly because of the fact that many works streams now almost are done. The next big step is the trial quant. Let's revisit the roadmap and do some planning: - Trial quant date - SourceCred parameters work session - First quant analysis And, I'd like to propose we use the month of November as trial quant data month. This means we can start preparing both SC and praise data for quant whenever. You have discussion items? Add to the agenda doc: <img src="https://twemoji.maxcdn.com/2/72x72/1f936.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f385.png" width=20 height=20>
 
 [https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
@@ -6877,7 +6877,7 @@ That's beautiful.
 
 kristofer
 
-[ Happy new Rewards year! Today we do the first Rewards WG weekly meeting at 20:00 CET. Theme for today: **DEMO TIME!** The new praise system is not done. But we have something to show. Also let's set dates for trial quant! You have discussion items? Add to the agenda doc:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f386.png" width=20 height=20>
+ Happy new Rewards year! Today we do the first Rewards WG weekly meeting at 20:00 CET. Theme for today: **DEMO TIME!** The new praise system is not done. But we have something to show. Also let's set dates for trial quant! You have discussion items? Add to the agenda doc: <img src="https://twemoji.maxcdn.com/2/72x72/1f386.png" width=20 height=20>
 
 [https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
@@ -6893,7 +6893,7 @@ I can't wait to watch the recording for today's meeting! I missed all of you
 
 kristofer
 
-[ Happy new Rewards year! Today we do the first Rewards WG weekly meeting at 20:00 CET. Theme for today: **DEMO TIME!** The new praise system is not done. But we have something to show. Also let's set dates for trial quant! You have discussion items? Add to the agenda doc:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f386.png" width=20 height=20>
+ Happy new Rewards year! Today we do the first Rewards WG weekly meeting at 20:00 CET. Theme for today: **DEMO TIME!** The new praise system is not done. But we have something to show. Also let's set dates for trial quant! You have discussion items? Add to the agenda doc: <img src="https://twemoji.maxcdn.com/2/72x72/1f386.png" width=20 height=20>
 
 [https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
@@ -6987,7 +6987,7 @@ This is so awesome
 
 kristofer
 
-[ Hi all! We have the Rewards WG meeting coming up in just about 20 mins. Work have progressed on the new praise system, now you can try it out! Go to](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f465.png" width=20 height=20>
+ Hi all! We have the Rewards WG meeting coming up in just about 20 mins. Work have progressed on the new praise system, now you can try it out! Go to <img src="https://twemoji.maxcdn.com/2/72x72/1f465.png" width=20 height=20>
 
 [http://68.183.14.23:3000](http://68.183.14.23:3000/)
 
@@ -7015,7 +7015,7 @@ Tremendous! Really looking foward to getting started quantifying in here!
 
 kristofer
 
-[I assigned quantifiers for period 3 as well. Any help identifying more UI issues is appreciated. Post what you find as issues in the frontend repo at](about:blank#)
+I assigned quantifiers for period 3 as well. Any help identifying more UI issues is appreciated. Post what you find as issues in the frontend repo at
 
 [https://github.com/CommonsBuild/praise_frontend/issues/new](https://github.com/CommonsBuild/praise_frontend/issues/new) <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
@@ -7050,7 +7050,7 @@ As a heads up and for future quantification and quantifiers, in #🎑｜omega we
 
 Letty
 
-[As a heads up and for future quantification and quantifiers, in #🎑｜omega we're used to dish praise within the channel, so when pulling the csv data that group text should also be scanned - thanks!](about:blank#)
+As a heads up and for future quantification and quantifiers, in #🎑｜omega we're used to dish praise within the channel, so when pulling the csv data that group text should also be scanned - thanks!
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -7084,7 +7084,7 @@ Welcome! <img src="https://twemoji.maxcdn.com/2/72x72/1f9c0.png" width=20 height
 
 kristofer
 
-[ Hi all! We have the Rewards WG meeting coming up in just about 20 mins. Work have progressed on the new praise system, now you can try it out! Go to](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f465.png" width=20 height=20>
+ Hi all! We have the Rewards WG meeting coming up in just about 20 mins. Work have progressed on the new praise system, now you can try it out! Go to <img src="https://twemoji.maxcdn.com/2/72x72/1f465.png" width=20 height=20>
 
 [http://68.183.14.23:3000](http://68.183.14.23:3000/)
 
@@ -7128,7 +7128,7 @@ _20-Jan-22 05:45 PM_:
 
 chuygarcia.eth
 
-[@mitch (🍔, 🍔) @liviade could any of you confirm this is the aragon agent for the reward board? context: total circulation for coingecko listing](about:blank#)
+@mitch (🍔, 🍔) @liviade could any of you confirm this is the aragon agent for the reward board? context: total circulation for coingecko listing
 
 [https://aragon.1hive.org/#/tecdrops/0x790401a32dbe4d92fab3002bea6056a4410cea3a/](https://aragon.1hive.org/#/tecdrops/0x790401a32dbe4d92fab3002bea6056a4410cea3a/)
 
@@ -7160,7 +7160,7 @@ how are we doing for the sourcecred params config? @mateodaza anything we are wa
 
 liviade
 
-[how are we doing for the sourcecred params config? @mateodaza anything we are waiting on?](about:blank#)
+how are we doing for the sourcecred params config? @mateodaza anything we are waiting on?
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -7173,7 +7173,7 @@ We should meet up and decide on the new ones with everyone on the board! This ti
 
 mateodaza
 
-[We should meet up and decide on the new ones with everyone on the board! This time we’ll be adding discord as well I think](about:blank#)
+We should meet up and decide on the new ones with everyone on the board! This time we’ll be adding discord as well I think
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -7245,7 +7245,7 @@ The easiest way to schedule group meetings.
 
 mateodaza
 
-[@kristofer and teham here's the doodle to pick the best hour for the SourceCred Param Discussion meeting](about:blank#)
+@kristofer and teham here's the doodle to pick the best hour for the SourceCred Param Discussion meeting
 
 [https://doodle.com/poll/wryfssga43z66b4t?utm_source=poll&utm_medium=link](https://doodle.com/poll/wryfssga43z66b4t?utm_source=poll&utm_medium=link)
 
@@ -7302,7 +7302,7 @@ Nm I'll go through the pinned posts.
 
 metaverde
 
-[What do I need to do to be involved in praise quant? I always enjoy doing that.](about:blank#)
+What do I need to do to be involved in praise quant? I always enjoy doing that.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -7314,7 +7314,7 @@ I just tagged you in the post that has all the info to join! will be awesome to 
 
 liviade
 
-[hey @kristofer @mateodaza @mitch (🍔, 🍔) @chuygarcia.eth @hz @Vyvy-vi @Zeptimus @Nuggan @MS @ryeder (they/them) Please fill this letuce meeting to pick a time for the sourcecred params session next week](about:blank#)
+hey @kristofer @mateodaza @mitch (🍔, 🍔) @chuygarcia.eth @hz @Vyvy-vi @Zeptimus @Nuggan @MS @ryeder (they/them) Please fill this letuce meeting to pick a time for the sourcecred params session next week
 
 [https://lettucemeet.com/l/rD5qe](https://lettucemeet.com/l/rD5qe)
 
@@ -7329,7 +7329,7 @@ we have one unanimous time slot so far! Thursday before the community call - I h
 
 liviade
 
-[we have one unanimous time slot so far! Thursday before the community call - I hope this works for you @kristofer @Zeptimus @MS](about:blank#)
+we have one unanimous time slot so far! Thursday before the community call - I hope this works for you @kristofer @Zeptimus @MS
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -7348,7 +7348,7 @@ thanks! I added to the calendar
 
 liviade
 
-[we have one unanimous time slot so far! Thursday before the community call - I hope this works for you @kristofer @Zeptimus @MS](about:blank#)
+we have one unanimous time slot so far! Thursday before the community call - I hope this works for you @kristofer @Zeptimus @MS
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -7403,7 +7403,7 @@ W E L C O M E <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 h
 
 mateodaza
 
-[Is that 7pm CET right?](about:blank#)
+Is that 7pm CET right?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -7434,7 +7434,7 @@ SourceCred Informative Post As a tool for communities to measure and reward valu
 
 liviade
 
-[hey @kristofer @mateodaza @mitch (🍔, 🍔) @chuygarcia.eth @hz @Vyvy-vi @Zeptimus @Nuggan @MS @ryeder (they/them) Please fill this letuce meeting to pick a time for the sourcecred params session next week](about:blank#)
+hey @kristofer @mateodaza @mitch (🍔, 🍔) @chuygarcia.eth @hz @Vyvy-vi @Zeptimus @Nuggan @MS @ryeder (they/them) Please fill this letuce meeting to pick a time for the sourcecred params session next week
 
 [https://lettucemeet.com/l/rD5qe](https://lettucemeet.com/l/rD5qe)
 
@@ -7499,7 +7499,7 @@ Hi all! I won't make it to the Rewards System WG meeting today, sorry for the la
 
 kristofer
 
-[ Hi all! I won't make it to the Rewards System WG meeting today, sorry for the late notice! (have to take care of cranky kids who got the cold and wont sleep). Would someone like to step in and run the meeting?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f927.png" width=20 height=20>
+ Hi all! I won't make it to the Rewards System WG meeting today, sorry for the late notice! (have to take care of cranky kids who got the cold and wont sleep). Would someone like to step in and run the meeting? <img src="https://twemoji.maxcdn.com/2/72x72/1f927.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -7512,7 +7512,7 @@ We had a short sync because many people that could give updates weren't here. I 
 
 liviade
 
-[Oh! I hope they feel better soon  We had a short sync because many people that could give updates weren't here. I added notes to the github issues - but here is a short summary: @Nuggan is almost closing the review of praise issue. @Juankbell praise was being captured, the issue was with the emojis in the bot. there was one praise from acidlazer that weren't captured, Nuggan will look more into it but it sounds like none of this problems will happen with the new bot @Vyvy-vi created @Zeptimus will host the call for quantifiers to give feedback tomorrow after the community call @mateodaza how is the progress with the sourcecred params? The action item from last call was to get more input from sourcecred folks to solve the questions, and have another meeting this week. Are we still meeting tomorrow? Is there anything we can help with? @kristofer do we have a date for the new test quant? the one we'll do internally?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=20 height=20>
+Oh! I hope they feel better soon  We had a short sync because many people that could give updates weren't here. I added notes to the github issues - but here is a short summary: @Nuggan is almost closing the review of praise issue. @Juankbell praise was being captured, the issue was with the emojis in the bot. there was one praise from acidlazer that weren't captured, Nuggan will look more into it but it sounds like none of this problems will happen with the new bot @Vyvy-vi created @Zeptimus will host the call for quantifiers to give feedback tomorrow after the community call @mateodaza how is the progress with the sourcecred params? The action item from last call was to get more input from sourcecred folks to solve the questions, and have another meeting this week. Are we still meeting tomorrow? Is there anything we can help with? @kristofer do we have a date for the new test quant? the one we'll do internally? <img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=20 height=20>
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -7524,7 +7524,7 @@ I still haven't made contact with someone from sourcecred, I'll leave some messa
 
 mateodaza
 
-[I still haven't made contact with someone from sourcecred, I'll leave some messages today. Not sure if we should meet tomorrow until we have news. Do you have someone to ask? - We can share the config we made, I saved it](about:blank#)
+I still haven't made contact with someone from sourcecred, I'll leave some messages today. Not sure if we should meet tomorrow until we have news. Do you have someone to ask? - We can share the config we made, I saved it
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -7555,7 +7555,7 @@ W E L C O M E <img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=20 h
 
 kristofer
 
-[Hi! Welcome to the weekly Rewards WG meeting today at 20:00 CET / 2PM EST.  Meeting room: reward-system voice channel Theme: **Is it time to plane for the first real quant?!** Status updates: - Praise frontend / backend updates @kristofer @Nebs - Praise bot @Vyvy-vi - First quant, preparations and execution @mitch (🍔, 🍔) - SourceCred pollen bot @hz @mateodaza On hold: - Praise revision @Nuggan @MS - SourceCred meeting tracker bot @Vyvy-vi - R.A.A.D - Rewards Allocation Analysis & Distribution@Nuggan @MS @🐙 octopus More items for the agenda? Add to the agenda doc:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
+Hi! Welcome to the weekly Rewards WG meeting today at 20:00 CET / 2PM EST.  Meeting room: reward-system voice channel Theme: **Is it time to plane for the first real quant?!** Status updates: - Praise frontend / backend updates @kristofer @Nebs - Praise bot @Vyvy-vi - First quant, preparations and execution @mitch (🍔, 🍔) - SourceCred pollen bot @hz @mateodaza On hold: - Praise revision @Nuggan @MS - SourceCred meeting tracker bot @Vyvy-vi - R.A.A.D - Rewards Allocation Analysis & Distribution@Nuggan @MS @🐙 octopus More items for the agenda? Add to the agenda doc: <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 [https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=20 height=20>
 
@@ -7586,7 +7586,7 @@ for the purposes of calculating onboarding metrics like % new members dished pra
 
 bends
 
-[Is there a good way to pull out discord ids for that have been dished and dished praise during a specific period of time?](about:blank#)
+Is there a good way to pull out discord ids for that have been dished and dished praise during a specific period of time?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -7621,7 +7621,7 @@ _21-Feb-22 04:58 AM_:
 
 osycross(🦎🦎)
 
-[I am a member of a Dex aggeegating community and we are trying to start a twitter activities for our discord community, so we are looking for a discord bot or app that can collect to those of our community member tweets, analyze it and select winners base on meeting the condition spent out in the twitter challenge, can you help out with this?](about:blank#)
+I am a member of a Dex aggeegating community and we are trying to start a twitter activities for our discord community, so we are looking for a discord bot or app that can collect to those of our community member tweets, analyze it and select winners base on meeting the condition spent out in the twitter challenge, can you help out with this?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -7729,7 +7729,7 @@ So sorry I couldn't make it to the call!
 
 enti
 
-[@kristofer @liviade asked @s_ben from SourceCred and he's down to discuss SC params](about:blank#)
+@kristofer @liviade asked @s_ben from SourceCred and he's down to discuss SC params
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -7741,7 +7741,7 @@ Great news!
 
 kristofer
 
-[@Nuggan @mattyjee and anyone who would like to contribute, please help find the missing Discord Ids for these users:](about:blank#)
+@Nuggan @mattyjee and anyone who would like to contribute, please help find the missing Discord Ids for these users:
 
 [https://docs.google.com/spreadsheets/d/1-kO-xtEhcRmDrwg1XdnVmzTtpl70y122VvG4YDCUJVw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1-kO-xtEhcRmDrwg1XdnVmzTtpl70y122VvG4YDCUJVw/edit?usp=sharing)
 
@@ -7760,7 +7760,7 @@ I filled in as many as I could definitively find. Still missing ~50% though. Wer
 
 enti
 
-[@kristofer @liviade asked @s_ben from SourceCred and he's down to discuss SC params](about:blank#)
+@kristofer @liviade asked @s_ben from SourceCred and he's down to discuss SC params
 
 <h3>s_ben <img src="https://cdn.discordapp.com/avatars/427964041764274177/320e0e9455e6505da887b78f4c54155e.png" width=25 height=25></h3>
 
@@ -7773,7 +7773,7 @@ added avail. excited to dig into SC params with ya!
 
 mattyjee
 
-[I filled in as many as I could definitively find. Still missing ~50% though. Were all the users in the TEC discord, or were some from other discords?](about:blank#)
+I filled in as many as I could definitively find. Still missing ~50% though. Were all the users in the TEC discord, or were some from other discords?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -7791,7 +7791,7 @@ _25-Feb-22 08:48 AM_:
 
 kristofer
 
-[⁉️⁉️⁉️⁉️⁉️⁉️ Calling out all @Reward Board Members !! The first "old" praise item we will quantify is dated July 12. Question: **Should we use that date as first date for SourceCred Rewards as well?** In theory we could choose to reward contributions older than that as well as SourceCred fetches all activity from GitHub and Discourse. ⁉️⁉️⁉️⁉️⁉️⁉️  (edited)](about:blank#)
+⁉️⁉️⁉️⁉️⁉️⁉️ Calling out all @Reward Board Members !! The first "old" praise item we will quantify is dated July 12. Question: **Should we use that date as first date for SourceCred Rewards as well?** In theory we could choose to reward contributions older than that as well as SourceCred fetches all activity from GitHub and Discourse. ⁉️⁉️⁉️⁉️⁉️⁉️  (edited)
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -7803,7 +7803,7 @@ Would there be any weird discrepancies with using sourcecred data with a differe
 
 kristofer
 
-[⁉️⁉️⁉️⁉️⁉️⁉️ Calling out all @Reward Board Members !! The first "old" praise item we will quantify is dated July 12. Question: **Should we use that date as first date for SourceCred Rewards as well?** In theory we could choose to reward contributions older than that as well as SourceCred fetches all activity from GitHub and Discourse. ⁉️⁉️⁉️⁉️⁉️⁉️  (edited)](about:blank#)
+⁉️⁉️⁉️⁉️⁉️⁉️ Calling out all @Reward Board Members !! The first "old" praise item we will quantify is dated July 12. Question: **Should we use that date as first date for SourceCred Rewards as well?** In theory we could choose to reward contributions older than that as well as SourceCred fetches all activity from GitHub and Discourse. ⁉️⁉️⁉️⁉️⁉️⁉️  (edited)
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -7821,7 +7821,7 @@ If anything, we could start sourcecred measures once all the old praise is done 
 
 liviade
 
-[If anything, we could start sourcecred measures once all the old praise is done being quantified](about:blank#)
+If anything, we could start sourcecred measures once all the old praise is done being quantified
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -7833,7 +7833,7 @@ shouldn't we be doing all the reward system components in tandem? Sourcecred and
 
 enti
 
-[everyone interested please fill your availability here](about:blank#)
+everyone interested please fill your availability here
 
 [https://lettucemeet.com/l/ZXo97](https://lettucemeet.com/l/ZXo97)
 
@@ -7849,7 +7849,7 @@ otherwise the meeting would ideally be around 8pm UTC this monday or sometime be
 
 enti
 
-[otherwise the meeting would ideally be around 8pm UTC this monday or sometime between 5 and 7 pm UTC this wednesday](about:blank#)
+otherwise the meeting would ideally be around 8pm UTC this monday or sometime between 5 and 7 pm UTC this wednesday
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -7873,7 +7873,7 @@ so if everyone is fine with that i scheduled it for this Monday @ 8PM UTC
 
 enti
 
-[so if everyone is fine with that i scheduled it for this Monday @ 8PM UTC](about:blank#)
+so if everyone is fine with that i scheduled it for this Monday @ 8PM UTC
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -7886,7 +7886,7 @@ can you make a google calendar invite?
 
 enti
 
-[so if everyone is fine with that i scheduled it for this Monday @ 8PM UTC](about:blank#)
+so if everyone is fine with that i scheduled it for this Monday @ 8PM UTC
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -7899,7 +7899,7 @@ Works for me too
 
 mitch (🍔, 🍔)
 
-[shouldn't we be doing all the reward system components in tandem? Sourcecred and Praise calculations - so we can begin distributing rewards](about:blank#)
+shouldn't we be doing all the reward system components in tandem? Sourcecred and Praise calculations - so we can begin distributing rewards
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -7911,7 +7911,7 @@ Yeah, that's my first option too
 
 mitch (🍔, 🍔)
 
-[can you make a google calendar invite?](about:blank#)
+can you make a google calendar invite?
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -7927,7 +7927,7 @@ With Google's free online calendar, it’s easy to keep track of life’s import
 
 enti
 
-[so if everyone is fine with that i scheduled it for this Monday @ 8PM UTC](about:blank#)
+so if everyone is fine with that i scheduled it for this Monday @ 8PM UTC
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -7939,7 +7939,7 @@ _25-Feb-22 06:09 PM_:
 
 enti
 
-[@Ratio13 can you add it to the server's calendar? (i don't think i can)  (edited)](about:blank#)
+@Ratio13 can you add it to the server's calendar? (i don't think i can)  (edited)
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -7951,7 +7951,7 @@ I can publish it to the TEC calendar
 
 mitch (🍔, 🍔)
 
-[I can publish it to the TEC calendar](about:blank#)
+I can publish it to the TEC calendar
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -7964,7 +7964,7 @@ that would be nice, thanks!
 
 enti
 
-[@Ratio13 can you add it to the server's calendar? (i don't think i can)  (edited)](about:blank#)
+@Ratio13 can you add it to the server's calendar? (i don't think i can)  (edited)
 
 <h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
@@ -7977,7 +7977,7 @@ It has been added. Have the Reward-Systems channel as the location.
 
 kristofer
 
-[@Nuggan @mattyjee and anyone who would like to contribute, please help find the missing Discord Ids for these users:](about:blank#)
+@Nuggan @mattyjee and anyone who would like to contribute, please help find the missing Discord Ids for these users:
 
 [https://docs.google.com/spreadsheets/d/1-kO-xtEhcRmDrwg1XdnVmzTtpl70y122VvG4YDCUJVw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1-kO-xtEhcRmDrwg1XdnVmzTtpl70y122VvG4YDCUJVw/edit?usp=sharing)
 
@@ -8052,7 +8052,7 @@ _01-Mar-22 09:16 AM_:
 
 mitch (🍔, 🍔)
 
-[@Nuggan How did testing out RADD go? is there any data we can see or play with?](about:blank#)
+@Nuggan How did testing out RADD go? is there any data we can see or play with?
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -8063,7 +8063,7 @@ There are some changes that need to be made, I'll see if I can push them tomorro
 
 mitch (🍔, 🍔)
 
-[@Nuggan How did testing out RADD go? is there any data we can see or play with?](about:blank#)
+@Nuggan How did testing out RADD go? is there any data we can see or play with?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -8086,7 +8086,7 @@ All your data is a backed up. You must pay 0.02 BTC to 17jHiu7FGUX8xcotaxBnxnNZR
 
 kristofer
 
-[SC params session ongoing now @liviade @mateodaza @enti etc](about:blank#)
+SC params session ongoing now @liviade @mateodaza @enti etc
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8098,7 +8098,7 @@ Sorry i couldn't join, is there a recording of it?
 
 kristofer
 
-[A few weeks back when the Praise database was emptied, it was hacked.  Found this message in the DB:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=20 height=20>
+A few weeks back when the Praise database was emptied, it was hacked.  Found this message in the DB: <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=20 height=20>
 
 All your data is a backed up. You must pay 0.02 BTC to 17jHiu7FGUX8xcotaxBnxnNZRTqU86kr8b 48 hours for recover it. After 48 hours expiration we will leaked and exposed all your data. In case of refusal to pay, we will contact the General Data Protection Regulation, GDPR and notify them that you store user data in an open form and is not safe. Under the rules of the law, you face a heavy fine or arrest and your base dump will be dropped from our server! You can buy bitcoin here, does not take much time to buy https://localbitcoins.com or https://buy.moonpay.io/ After paying write to me in the mail with your DB IP: recmydb+1lsgt@onionmail.org and you will receive a link to download your database dump.
 
@@ -8114,7 +8114,7 @@ Hahaha wow, little did they know that we are all about transparency
 
 kristofer
 
-[A few weeks back when the Praise database was emptied, it was hacked.  Found this message in the DB:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=20 height=20>
+A few weeks back when the Praise database was emptied, it was hacked.  Found this message in the DB: <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=20 height=20>
 
 All your data is a backed up. You must pay 0.02 BTC to 17jHiu7FGUX8xcotaxBnxnNZRTqU86kr8b 48 hours for recover it. After 48 hours expiration we will leaked and exposed all your data. In case of refusal to pay, we will contact the General Data Protection Regulation, GDPR and notify them that you store user data in an open form and is not safe. Under the rules of the law, you face a heavy fine or arrest and your base dump will be dropped from our server! You can buy bitcoin here, does not take much time to buy https://localbitcoins.com or https://buy.moonpay.io/ After paying write to me in the mail with your DB IP: recmydb+1lsgt@onionmail.org and you will receive a link to download your database dump.
 
@@ -8128,7 +8128,7 @@ Wow
 
 liviade
 
-[Sorry i couldn't join, is there a recording of it?](about:blank#)
+Sorry i couldn't join, is there a recording of it?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -8163,7 +8163,7 @@ Huge thanks, @mitch (🍔, 🍔) , I think I have the basics now, and I saved th
 
 innov8tor3
 
-[Huge thanks, @mitch (🍔, 🍔) , I think I have the basics now, and I saved the IP address page ... So now we wait for the first (?) quant period for real ... If you can say when it might be during a monthly cycle, that would be a huge help so I can keep a look out for it at that time.](about:blank#)
+Huge thanks, @mitch (🍔, 🍔) , I think I have the basics now, and I saved the IP address page ... So now we wait for the first (?) quant period for real ... If you can say when it might be during a monthly cycle, that would be a huge help so I can keep a look out for it at that time.
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -8175,7 +8175,7 @@ We opened the first quant yesterday and drafted a random group of quantifiers fr
 
 mitch (🍔, 🍔)
 
-[We opened the first quant yesterday and drafted a random group of quantifiers from the quantifier pool to participate in this round. Subsequent rounds we will draft another cohort of random quantifiers to participate.](about:blank#)
+We opened the first quant yesterday and drafted a random group of quantifiers from the quantifier pool to participate in this round. Subsequent rounds we will draft another cohort of random quantifiers to participate.
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -8208,7 +8208,7 @@ Hey @kristofer @Adam Stallard@griff (💜, 💜) I'll bring the BrightID convo h
 
 liviade
 
-[Hey @kristofer @Adam Stallard@griff (💜, 💜) I'll bring the BrightID convo here :) Brief context to everyone: what we are trying to achieve is to create a rep system for the TEC based on the reward system. People who participate in the reward system would receive an equivalent of a rep token in every distribution, and this rep token would be used to vote on Snapshot. Only folks who are BrightID verified would be able to receive both rewards and rep Problem we are attempting to solve: Create a sibyl resistance snapshot governance and bring back quadratic voting. The reward system would also be less gameable, specially on sourcecred side. Challenges to implement: Praise and Sourcecred data bases aren't shared, so technically people can give one address for praise and one for sourcecred. - How could we check that the addresses we have are from bright id users in an easy way?](about:blank#)
+Hey @kristofer @Adam Stallard@griff (💜, 💜) I'll bring the BrightID convo here :) Brief context to everyone: what we are trying to achieve is to create a rep system for the TEC based on the reward system. People who participate in the reward system would receive an equivalent of a rep token in every distribution, and this rep token would be used to vote on Snapshot. Only folks who are BrightID verified would be able to receive both rewards and rep Problem we are attempting to solve: Create a sibyl resistance snapshot governance and bring back quadratic voting. The reward system would also be less gameable, specially on sourcecred side. Challenges to implement: Praise and Sourcecred data bases aren't shared, so technically people can give one address for praise and one for sourcecred. - How could we check that the addresses we have are from bright id users in an easy way?
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -8226,7 +8226,7 @@ sorry I have to cut out early today
 
 enti
 
-[Maybe MetaCred does the trick?](about:blank#)
+Maybe MetaCred does the trick?
 
 [https://twitter.com/meta_dreamer/status/1420112868498763779?s=21](https://twitter.com/meta_dreamer/status/1420112868498763779?s=21)
 
@@ -8250,7 +8250,7 @@ UPDATE (7/27/21): After ETHCC I changed my framing on this to be more disjoint f
 
 enti
 
-[@kristofer i was just talking about this, maybe there's no need to duplicate efforts and we can see how to work with them](about:blank#)
+@kristofer i was just talking about this, maybe there's no need to duplicate efforts and we can see how to work with them
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8262,7 +8262,7 @@ how would metacred help the id problem?
 
 liviade
 
-[how would metacred help the id problem?](about:blank#)
+how would metacred help the id problem?
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -8300,7 +8300,7 @@ Soo, the new config for the sourcecred instance is up! These are the main change
 
 mateodaza
 
-[Soo, the new config for the sourcecred instance is up! These are the main changes - TCRED is now called GRAIN so it's less confusing - We are using the new params, the ones chosen on the calls (you can see them in the picture) - For the first distribution we have to delete manually the old grain and set the MaxSimultaneousDistributions variable to the number of weeks from July 25th until date](about:blank#)
+Soo, the new config for the sourcecred instance is up! These are the main changes - TCRED is now called GRAIN so it's less confusing - We are using the new params, the ones chosen on the calls (you can see them in the picture) - For the first distribution we have to delete manually the old grain and set the MaxSimultaneousDistributions variable to the number of weeks from July 25th until date
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -8312,7 +8312,7 @@ Great! What we would like to achieve is that we make a first grain distribution 
 
 enti
 
-[he also quotes BrightID and Proof of Humanity here](about:blank#)
+he also quotes BrightID and Proof of Humanity here
 
 [https://twitter.com/META_DREAMER/status/1420112898777518081?s=20&t=FI-P48uP1kQ5xKavit4aNA](https://twitter.com/META_DREAMER/status/1420112898777518081?s=20&t=FI-P48uP1kQ5xKavit4aNA)
 
@@ -8335,7 +8335,7 @@ _10-Mar-22 02:18 PM_:
 
 liviade
 
-[Hey @kristofer @Adam Stallard@griff (💜, 💜) I'll bring the BrightID convo here :) Brief context to everyone: what we are trying to achieve is to create a rep system for the TEC based on the reward system. People who participate in the reward system would receive an equivalent of a rep token in every distribution, and this rep token would be used to vote on Snapshot. Only folks who are BrightID verified would be able to receive both rewards and rep Problem we are attempting to solve: Create a sibyl resistance snapshot governance and bring back quadratic voting. The reward system would also be less gameable, specially on sourcecred side. Challenges to implement: Praise and Sourcecred data bases aren't shared, so technically people can give one address for praise and one for sourcecred. - How could we check that the addresses we have are from bright id users in an easy way?](about:blank#)
+Hey @kristofer @Adam Stallard@griff (💜, 💜) I'll bring the BrightID convo here :) Brief context to everyone: what we are trying to achieve is to create a rep system for the TEC based on the reward system. People who participate in the reward system would receive an equivalent of a rep token in every distribution, and this rep token would be used to vote on Snapshot. Only folks who are BrightID verified would be able to receive both rewards and rep Problem we are attempting to solve: Create a sibyl resistance snapshot governance and bring back quadratic voting. The reward system would also be less gameable, specially on sourcecred side. Challenges to implement: Praise and Sourcecred data bases aren't shared, so technically people can give one address for praise and one for sourcecred. - How could we check that the addresses we have are from bright id users in an easy way?
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -8355,7 +8355,7 @@ _14-Mar-22 10:54 AM_:
 
 Adam Stallard
 
-[@kristofer ️ do you know?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/261d.png" width=20 height=20>
+@kristofer ️ do you know? <img src="https://twemoji.maxcdn.com/2/72x72/261d.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -8367,7 +8367,7 @@ Hey @Adam Stallard, sorry was afk during the weekend. Yeah, praise works on Disc
 
 kristofer
 
-[Hey @Adam Stallard, sorry was afk during the weekend. Yeah, praise works on Discord and Telegram. And our SC instance has been configured to track contributions on Discourse and GitHub. To activate for Praise: Interact with the praise bot /praise-activate (not launched yet), get redirected to the praise dashboard web where you sign a message using MetaMask. Discord and ETH linked. To activate for SC: Interact with the Discord pollen bot developed by 1hive. Link your eth that way (unsecure/not signed link) and post proofs to Discourse/GitHub to link those accounts to your Identity.](about:blank#)
+Hey @Adam Stallard, sorry was afk during the weekend. Yeah, praise works on Discord and Telegram. And our SC instance has been configured to track contributions on Discourse and GitHub. To activate for Praise: Interact with the praise bot /praise-activate (not launched yet), get redirected to the praise dashboard web where you sign a message using MetaMask. Discord and ETH linked. To activate for SC: Interact with the Discord pollen bot developed by 1hive. Link your eth that way (unsecure/not signed link) and post proofs to Discourse/GitHub to link those accounts to your Identity.
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -8380,7 +8380,7 @@ So, no interaction between SC and Praise when it comes to Identities and proofs.
 
 kristofer
 
-[So, no interaction between SC and Praise when it comes to Identities and proofs. Long term dream would be a centralised decentralised Identity management solution both SC and Praise can tap into. Perhaps running on Ceramic   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
+So, no interaction between SC and Praise when it comes to Identities and proofs. Long term dream would be a centralised decentralised Identity management solution both SC and Praise can tap into. Perhaps running on Ceramic   (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -8393,7 +8393,7 @@ In the short term I think we would be super happy to achieve something like this
 
 kristofer
 
-[In the short term I think we would be super happy to achieve something like this: - Praise and SC exports data - We merge that data and calculate rewards - We end up with a list of eth addresses and amounts - Run that list through BrightId - Only distribute TEC tokens to BrightId verified users on that list - Mint a separate reputation token to those users as well - Use that rep token for quadratic voting @liviade @griff (💜, 💜) would that cover our need in the short term?  (edited)](about:blank#)
+In the short term I think we would be super happy to achieve something like this: - Praise and SC exports data - We merge that data and calculate rewards - We end up with a list of eth addresses and amounts - Run that list through BrightId - Only distribute TEC tokens to BrightId verified users on that list - Mint a separate reputation token to those users as well - Use that rep token for quadratic voting @liviade @griff (💜, 💜) would that cover our need in the short term?  (edited)
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8405,7 +8405,7 @@ yes, that's exactly the idea!
 
 kristofer
 
-[In the short term I think we would be super happy to achieve something like this: - Praise and SC exports data - We merge that data and calculate rewards - We end up with a list of eth addresses and amounts - Run that list through BrightId - Only distribute TEC tokens to BrightId verified users on that list - Mint a separate reputation token to those users as well - Use that rep token for quadratic voting @liviade @griff (💜, 💜) would that cover our need in the short term?  (edited)](about:blank#)
+In the short term I think we would be super happy to achieve something like this: - Praise and SC exports data - We merge that data and calculate rewards - We end up with a list of eth addresses and amounts - Run that list through BrightId - Only distribute TEC tokens to BrightId verified users on that list - Mint a separate reputation token to those users as well - Use that rep token for quadratic voting @liviade @griff (💜, 💜) would that cover our need in the short term?  (edited)
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -8423,7 +8423,7 @@ Doesn't it make sense to move this step further down; i.e. only do the calculati
 
 Adam Stallard
 
-[@liviade was telling me that we could gate the registration for SC and praise using BrightID.](about:blank#)
+@liviade was telling me that we could gate the registration for SC and praise using BrightID.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8435,7 +8435,7 @@ I thought we could do that for new users, but for everyone else we would still h
 
 Adam Stallard
 
-[Doesn't it make sense to move this step further down; i.e. only do the calculation on addresses that are BrightID verified--or are SC points and praise used for something else beside TEC tokens and the reputation token?](about:blank#)
+Doesn't it make sense to move this step further down; i.e. only do the calculation on addresses that are BrightID verified--or are SC points and praise used for something else beside TEC tokens and the reputation token?
 
 - We merge that data and calculate rewards - We end up with a list of eth addresses and amounts
 
@@ -8450,7 +8450,7 @@ I think it would still be good to have that data for analysis purposes, and mayb
 
 liviade
 
-[I thought we could do that for new users, but for everyone else we would still have to go through the process Kristofer described @Vyvy-vi is this something feasible to integrate with the onboarding bots?](about:blank#)
+I thought we could do that for new users, but for everyone else we would still have to go through the process Kristofer described @Vyvy-vi is this something feasible to integrate with the onboarding bots?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -8463,7 +8463,7 @@ For SourceCred: Adding the ability to verify BrightId using the onboarding bot i
 
 Adam Stallard
 
-[What happens if someone gives you praise or SC points (pollen in 1hive) and you're not activated?](about:blank#)
+What happens if someone gives you praise or SC points (pollen in 1hive) and you're not activated?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -8475,7 +8475,7 @@ Anyone can be praised. Praise is tied to the discord username pimarily. SourceCr
 
 Adam Stallard
 
-[Doesn't it make sense to move this step further down; i.e. only do the calculation on addresses that are BrightID verified--or are SC points and praise used for something else beside TEC tokens and the reputation token?](about:blank#)
+Doesn't it make sense to move this step further down; i.e. only do the calculation on addresses that are BrightID verified--or are SC points and praise used for something else beside TEC tokens and the reputation token?
 
 - We merge that data and calculate rewards - We end up with a list of eth addresses and amounts
 
@@ -8489,7 +8489,7 @@ The end result is the same in this case. The downside with filtering out verifie
 
 liviade
 
-[I think it would still be good to have that data for analysis purposes, and maybe folks could "redeem" their score once they are activated. But i don't know how that looks technically](about:blank#)
+I think it would still be good to have that data for analysis purposes, and maybe folks could "redeem" their score once they are activated. But i don't know how that looks technically
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -8501,7 +8501,7 @@ This is process we need to figure out anyway. Many people will not have connecte
 
 liviade
 
-[I thought we could do that for new users, but for everyone else we would still have to go through the process Kristofer described @Vyvy-vi is this something feasible to integrate with the onboarding bots?](about:blank#)
+I thought we could do that for new users, but for everyone else we would still have to go through the process Kristofer described @Vyvy-vi is this something feasible to integrate with the onboarding bots?
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -8513,7 +8513,7 @@ Oh right. There are bunch of existing users. Should we just whitelist all existi
 
 liviade
 
-[I think it would still be good to have that data for analysis purposes, and maybe folks could "redeem" their score once they are activated. But i don't know how that looks technically](about:blank#)
+I think it would still be good to have that data for analysis purposes, and maybe folks could "redeem" their score once they are activated. But i don't know how that looks technically
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -8525,7 +8525,7 @@ Ok got it! Yes that data can be used to see how many people self-activate compar
 
 kristofer
 
-[For SourceCred: Adding the ability to verify BrightId using the onboarding bot is in theory doable. It is not super easy though and it is unclear what the verification would be used for. If we want cred and grain to be calculated only for verified users that would require a significant change to the core SC codebase. For Praise: We want it to be possible to praise anyone, even people outside of the community. So, verifying praise receivers is not an option. Verifying the senders could be done. But then again, the purpose needs to be clear. If we just want to mint the TEC REP token for voting, the method I proposed will work well and be fairly simple.](about:blank#)
+For SourceCred: Adding the ability to verify BrightId using the onboarding bot is in theory doable. It is not super easy though and it is unclear what the verification would be used for. If we want cred and grain to be calculated only for verified users that would require a significant change to the core SC codebase. For Praise: We want it to be possible to praise anyone, even people outside of the community. So, verifying praise receivers is not an option. Verifying the senders could be done. But then again, the purpose needs to be clear. If we just want to mint the TEC REP token for voting, the method I proposed will work well and be fairly simple.
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -8553,7 +8553,7 @@ Where do they get used for voting? Is it a snapshot strategy? (edited)
 
 Adam Stallard
 
-[What I might be hearing is that we might want to gate with BrightID the voting with TEC REP tokens instead. (Will those tokens be used for voting?)](about:blank#)
+What I might be hearing is that we might want to gate with BrightID the voting with TEC REP tokens instead. (Will those tokens be used for voting?)
 
 If we just want to mint the TEC REP token for voting
 
@@ -8582,7 +8582,7 @@ i believe it's snapshot but i'm not sure, kinda newbie around the TEC
 
 Adam Stallard
 
-[What I might be hearing is that we might want to gate with BrightID the voting with TEC REP tokens instead. (Will those tokens be used for voting?)](about:blank#)
+What I might be hearing is that we might want to gate with BrightID the voting with TEC REP tokens instead. (Will those tokens be used for voting?)
 
 If we just want to mint the TEC REP token for voting
 
@@ -8601,7 +8601,7 @@ also because we want the rep to be tied with the rewards score, which I think gi
 
 liviade
 
-[yeah, it's on snapshot. The reason why I don't think it's a good idea to add the gate to snapshot versus the reward system is because people have an incentive to verify with BrightID if their rewards depend on it. But no one likes to vote already, so adding an extra step there seems counter intuitive](about:blank#)
+yeah, it's on snapshot. The reason why I don't think it's a good idea to add the gate to snapshot versus the reward system is because people have an incentive to verify with BrightID if their rewards depend on it. But no one likes to vote already, so adding an extra step there seems counter intuitive
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -8617,7 +8617,7 @@ Is this the best way?
 
 Adam Stallard
 
-[I also hear you saying that you want to collect data about who is collecting praise / SC , and how many of them are also BrightID verified. So where is the ideal integration point?](about:blank#)
+I also hear you saying that you want to collect data about who is collecting praise / SC , and how many of them are also BrightID verified. So where is the ideal integration point?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8635,7 +8635,7 @@ If so we can create (or modify) a special frontend that allows users to register
 
 Adam Stallard
 
-[Is this the best way?](about:blank#)
+Is this the best way?
 
 - We end up with a list of eth addresses and amounts - Run that list through BrightId - Only distribute TEC tokens to BrightId verified users on that list
 
@@ -8649,7 +8649,7 @@ yeah seems like it -- I think it would be nice to have them integrated with the 
 
 Adam Stallard
 
-[If so we can create (or modify) a special frontend that allows users to register an eth address of their choosing with the TEC app in BrightID. This is done anonymously; no one--not even BrightID nodes see the link between Eth address and BrightID, but it then allows us to get a yes/no answer about whether an eth address used for TEC has BrightID verification.](about:blank#)
+If so we can create (or modify) a special frontend that allows users to register an eth address of their choosing with the TEC app in BrightID. This is done anonymously; no one--not even BrightID nodes see the link between Eth address and BrightID, but it then allows us to get a yes/no answer about whether an eth address used for TEC has BrightID verification.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8674,7 +8674,7 @@ So probably creating a new custom TEC branded page to allow users to anonymously
 
 kristofer
 
-[Hey @Adam Stallard, sorry was afk during the weekend. Yeah, praise works on Discord and Telegram. And our SC instance has been configured to track contributions on Discourse and GitHub. To activate for Praise: Interact with the praise bot /praise-activate (not launched yet), get redirected to the praise dashboard web where you sign a message using MetaMask. Discord and ETH linked. To activate for SC: Interact with the Discord pollen bot developed by 1hive. Link your eth that way (unsecure/not signed link) and post proofs to Discourse/GitHub to link those accounts to your Identity.](about:blank#)
+Hey @Adam Stallard, sorry was afk during the weekend. Yeah, praise works on Discord and Telegram. And our SC instance has been configured to track contributions on Discourse and GitHub. To activate for Praise: Interact with the praise bot /praise-activate (not launched yet), get redirected to the praise dashboard web where you sign a message using MetaMask. Discord and ETH linked. To activate for SC: Interact with the Discord pollen bot developed by 1hive. Link your eth that way (unsecure/not signed link) and post proofs to Discourse/GitHub to link those accounts to your Identity.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8688,7 +8688,7 @@ to activate for both
 
 liviade
 
-[there is this step](about:blank#)
+there is this step
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -8700,7 +8700,7 @@ Yes, and I think I'm learning now that we want the BrightID step to come later s
 
 Adam Stallard
 
-[So probably creating a new custom TEC branded page to allow users to anonymously link their BrightID to a eth address they use for praise/SC in TEC.](about:blank#)
+So probably creating a new custom TEC branded page to allow users to anonymously link their BrightID to a eth address they use for praise/SC in TEC.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8712,7 +8712,7 @@ yeah, if this was included in the this initial activation I think it would be pe
 
 liviade
 
-[yeah, if this was included in the this initial activation I think it would be perfect](about:blank#)
+yeah, if this was included in the this initial activation I think it would be perfect
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -8724,7 +8724,7 @@ Ok I think I understand you. So add an optional BrightID linking step here to th
 
 Adam Stallard
 
-[Yes, and I think I'm learning now that we want the BrightID step to come later so as not to interfere with data gathering--but not so late as to discourage voting.](about:blank#)
+Yes, and I think I'm learning now that we want the BrightID step to come later so as not to interfere with data gathering--but not so late as to discourage voting.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8737,7 +8737,7 @@ wouldn't it be possible for this to happen at the activation phase, but not to i
 
 Adam Stallard
 
-[Ok I think I understand you. So add an optional BrightID linking step here to the activation page?](about:blank#)
+Ok I think I understand you. So add an optional BrightID linking step here to the activation page?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8762,7 +8762,7 @@ correct - but you can still receive praise and grain nonetheless
 
 liviade
 
-[wouldn't it be possible for this to happen at the activation phase, but not to interfere in the data gathering?](about:blank#)
+wouldn't it be possible for this to happen at the activation phase, but not to interfere in the data gathering?
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -8774,7 +8774,7 @@ yes, and we could actually use the BrightID discord bot if we want, because you 
 
 Adam Stallard
 
-[yes, and we could actually use the BrightID discord bot if we want, because you already have a mapping of eth address to discord id right?](about:blank#)
+yes, and we could actually use the BrightID discord bot if we want, because you already have a mapping of eth address to discord id right?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8798,7 +8798,7 @@ well, I think the praise bot and pollen bot do that mapping - correct me if i'm 
 
 liviade
 
-[yes](about:blank#)
+yes
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -8813,7 +8813,7 @@ The first option "just works" with no additional help from the BrightID integrat
 
 Adam Stallard
 
-[The first option "just works" with no additional help from the BrightID integration team. For the second option, we'd need to register TEC as an "app" in BrightID, but we're happy to do that.](about:blank#)
+The first option "just works" with no additional help from the BrightID integration team. For the second option, we'd need to register TEC as an "app" in BrightID, but we're happy to do that.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8828,7 +8828,7 @@ thanks so much for your help Adam! our working group has a sync tomorrow so we c
 
 liviade
 
-[thanks so much for your help Adam! our working group has a sync tomorrow so we can discuss all this and find the best approach](about:blank#)
+thanks so much for your help Adam! our working group has a sync tomorrow so we can discuss all this and find the best approach
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -8840,7 +8840,7 @@ Is it one of the events listed in this server? Maybe I can come.
 
 Adam Stallard
 
-[Is it one of the events listed in this server? Maybe I can come.](about:blank#)
+Is it one of the events listed in this server? Maybe I can come.
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -8852,7 +8852,7 @@ yes, [https://discord.com/events/810180621930070088/951969710256295936](https://
 
 liviade
 
-[I thought we could do that for new users, but for everyone else we would still have to go through the process Kristofer described @Vyvy-vi is this something feasible to integrate with the onboarding bots?](about:blank#)
+I thought we could do that for new users, but for everyone else we would still have to go through the process Kristofer described @Vyvy-vi is this something feasible to integrate with the onboarding bots?
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -8922,7 +8922,7 @@ Contribute to CommonsBuild/tec-rewards-rounds development by creating an account
 
 Adam Stallard
 
-[Ok, then let's make the decision based on which is a better user flow. You're welcome to try out BrightID discord bot](about:blank#)
+Ok, then let's make the decision based on which is a better user flow. You're welcome to try out BrightID discord bot
 
 [https://github.com/ShenaniganDApp/brightid-discord-bot](https://github.com/ShenaniganDApp/brightid-discord-bot)
 
@@ -8950,7 +8950,7 @@ Do I need an invite to join the meeting?
 
 Vyvy-vi
 
-[I think we could maybe integrate both the bots However, there's a lot of concerns that may pop up with doing this](about:blank#)
+I think we could maybe integrate both the bots However, there's a lot of concerns that may pop up with doing this
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8962,7 +8962,7 @@ what are some of this concerns?
 
 Vyvy-vi
 
-[About integrating BrightID with the onboarding bot... I think that process can definitely add value, however I don't think it should be a "barrier to server entry" (BrightID verification for new users can take a while, and making people wait would be bad), but rather a "second stage of verification(ideally one integrated into our deployment of 1hive's pollen-bot)"](about:blank#)
+About integrating BrightID with the onboarding bot... I think that process can definitely add value, however I don't think it should be a "barrier to server entry" (BrightID verification for new users can take a while, and making people wait would be bad), but rather a "second stage of verification(ideally one integrated into our deployment of 1hive's pollen-bot)"
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8975,7 +8975,7 @@ it would definitely not be a boundary for server entry - the only barrier would 
 
 Vyvy-vi
 
-[About integrating BrightID with the onboarding bot... I think that process can definitely add value, however I don't think it should be a "barrier to server entry" (BrightID verification for new users can take a while, and making people wait would be bad), but rather a "second stage of verification(ideally one integrated into our deployment of 1hive's pollen-bot)"](about:blank#)
+About integrating BrightID with the onboarding bot... I think that process can definitely add value, however I don't think it should be a "barrier to server entry" (BrightID verification for new users can take a while, and making people wait would be bad), but rather a "second stage of verification(ideally one integrated into our deployment of 1hive's pollen-bot)"
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8995,7 +8995,7 @@ maybe it can just be integrated in the final distribution script?
 
 Vyvy-vi
 
-[maybe it can just be integrated in the final distribution script?](about:blank#)
+maybe it can just be integrated in the final distribution script?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9016,7 +9016,7 @@ Oh, alright. I think we could certainly add it the onboarding bot <img src="http
 
 Vyvy-vi
 
-[*though, that might add more steps for people that change their wallets](about:blank#)
+*though, that might add more steps for people that change their wallets
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9036,7 +9036,7 @@ E.g. A single 1Hive app is used for Celeste, the Faucet, etc
 
 enti
 
-[How hard would it be to make a BrightID app (or however it’s called) for the TEC that can be used in any circumstances in the future for more stuff?  (edited)](about:blank#)
+How hard would it be to make a BrightID app (or however it’s called) for the TEC that can be used in any circumstances in the future for more stuff?  (edited)
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9060,7 +9060,7 @@ It shouldn't be too hard from what I've heard
 
 enti
 
-[How hard would it be to make a BrightID app (or however it’s called) for the TEC that can be used in any circumstances in the future for more stuff?  (edited)](about:blank#)
+How hard would it be to make a BrightID app (or however it’s called) for the TEC that can be used in any circumstances in the future for more stuff?  (edited)
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9078,7 +9078,7 @@ And I guess that same app stores the address and that can be used for the rep to
 
 liviade
 
-[our main objective is to mint rep tokens for verified users, than anything else we want to connect with this can be linked to the rep tokens instead of the verification](about:blank#)
+our main objective is to mint rep tokens for verified users, than anything else we want to connect with this can be linked to the rep tokens instead of the verification
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -9102,7 +9102,7 @@ Q) Is BrightID being used as a method of verifying people as humans?
 
 Vyvy-vi
 
-[Q) Is BrightID being used as a method of verifying people as humans?](about:blank#)
+Q) Is BrightID being used as a method of verifying people as humans?
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -9114,7 +9114,7 @@ Yes
 
 Vyvy-vi
 
-[Q) Is BrightID being used as a method of verifying people as humans?](about:blank#)
+Q) Is BrightID being used as a method of verifying people as humans?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9139,7 +9139,7 @@ I'm wondering how critical is this, considering that we haven't really started w
 
 Vyvy-vi
 
-[I'm wondering how critical is this, considering that we haven't really started working on the reputation tokens? Moreover, I believe praise by design is sybil resistant?](about:blank#)
+I'm wondering how critical is this, considering that we haven't really started working on the reputation tokens? Moreover, I believe praise by design is sybil resistant?
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -9159,7 +9159,7 @@ Though isn't getting the rep token == you got a reasonable amount of praise == y
 
 Vyvy-vi
 
-[I'm wondering how critical is this, considering that we haven't really started working on the reputation tokens? Moreover, I believe praise by design is sybil resistant?](about:blank#)
+I'm wondering how critical is this, considering that we haven't really started working on the reputation tokens? Moreover, I believe praise by design is sybil resistant?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9171,7 +9171,7 @@ the idea is that the rep tokens are equivalent to the rewards score people recei
 
 enti
 
-[That’s something I’m wondering though, I get requiring BrightID for the rep token but why for TEC distributions?](about:blank#)
+That’s something I’m wondering though, I get requiring BrightID for the rep token but why for TEC distributions?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9183,7 +9183,7 @@ because the rep tokens should be minted with the info of the distribution
 
 liviade
 
-[the idea is that the rep tokens are equivalent to the rewards score people receive in every round. This rep token would give them access to governance on snapshot that can return to being quadratic. Having the rep token allow people to move their TEC tokens to a private wallet if they want and still be able to vote. Bright ID verification ensures that the wallets with rep tokens are connected to a single identity  (edited)](about:blank#)
+the idea is that the rep tokens are equivalent to the rewards score people receive in every round. This rep token would give them access to governance on snapshot that can return to being quadratic. Having the rep token allow people to move their TEC tokens to a private wallet if they want and still be able to vote. Bright ID verification ensures that the wallets with rep tokens are connected to a single identity  (edited)
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -9195,7 +9195,7 @@ Q) Would that mean that we're separating TEC tokens from snapshot and only using
 
 Vyvy-vi
 
-[Q) Would that mean that we're separating TEC tokens from snapshot and only using it for gardens voting?](about:blank#)
+Q) Would that mean that we're separating TEC tokens from snapshot and only using it for gardens voting?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9219,7 +9219,7 @@ Though, shouldn't this discussion(about snapshot) been had during the params con
 
 liviade
 
-[because the rep tokens should be minted with the info of the distribution](about:blank#)
+because the rep tokens should be minted with the info of the distribution
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -9241,7 +9241,7 @@ Also, is there a distinction between what can and what can't be a Snapshot vote?
 
 enti
 
-[I get that’s an easier way to deal with the process but I dont think that answers my concerns, does that decision justify possibly excluding users from the rewards that may not want to go through the BrightID verification?](about:blank#)
+I get that’s an easier way to deal with the process but I dont think that answers my concerns, does that decision justify possibly excluding users from the rewards that may not want to go through the BrightID verification?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9253,7 +9253,7 @@ they can still activate brightid with their anon account
 
 Vyvy-vi
 
-[Also, is there a distinction between what can and what can't be a Snapshot vote?](about:blank#)
+Also, is there a distinction between what can and what can't be a Snapshot vote?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9269,7 +9269,7 @@ there is also the polycentric gov post on the forum explaining in more details
 
 Vyvy-vi
 
-[Though, shouldn't this discussion(about snapshot) been had during the params configuration? (IMHO, it might cause some of the hatchers or supporters to feel like the terms have changed)  (edited)](about:blank#)
+Though, shouldn't this discussion(about snapshot) been had during the params configuration? (IMHO, it might cause some of the hatchers or supporters to feel like the terms have changed)  (edited)
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9322,7 +9322,7 @@ Hey @Mount Manu I was thinking that it would be nice to write who the praise is 
 
 liviade
 
-[Hey @Mount Manu I was thinking that it would be nice to write who the praise is coming from when you are transcribing - this would help us in quantification too i think. What do you think?](about:blank#)
+Hey @Mount Manu I was thinking that it would be nice to write who the praise is coming from when you are transcribing - this would help us in quantification too i think. What do you think?
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -9340,7 +9340,7 @@ _17-Mar-22 04:01 AM_:
 
 solsista
 
-[@liviade @ygg_anderson would it be possible to derive a "Gratitude Index" from praise? or even sentiment analysis and "Happiness Index"? We're working on making the invisible visible in the Invisible Economy... and that made me think of the amount of gratitude we helped each other cultivate along the whole TEC journey: It's a very valueable stock would be good to see on a TEC dashboard](about:blank#)
+@liviade @ygg_anderson would it be possible to derive a "Gratitude Index" from praise? or even sentiment analysis and "Happiness Index"? We're working on making the invisible visible in the Invisible Economy... and that made me think of the amount of gratitude we helped each other cultivate along the whole TEC journey: It's a very valueable stock would be good to see on a TEC dashboard
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9381,7 +9381,7 @@ couldn't make it!
 
 griff (💜, 💜)
 
-[It might be interesting to "tax" working groups so that working group requests also fund the reward system](about:blank#)
+It might be interesting to "tax" working groups so that working group requests also fund the reward system
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -9402,7 +9402,7 @@ Or can we invite someone to give an overview to WGs?
 
 Mount Manu
 
-[Yeah, I've done that *sometimes* when I feel the praise is coming from a more personal moment between two people so that when the one praised reads it can link from who - but not always. I can def start doing that; I do feel it would add more depth to the praise, would probably make people grant it a higher value  (edited)](about:blank#)
+Yeah, I've done that *sometimes* when I feel the praise is coming from a more personal moment between two people so that when the one praised reads it can link from who - but not always. I can def start doing that; I do feel it would add more depth to the praise, would probably make people grant it a higher value  (edited)
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9432,7 +9432,7 @@ hey all -- I've manually replaced a quantifier who was unresponsive on @mitch (�
 
 kristofer
 
-[Sounds like we have a bunch of great options, thanks @Adam Stallard! If you can come to the meeting today we can decide on path forward then, otherwise we can setup a short separate call on the subject.](about:blank#)
+Sounds like we have a bunch of great options, thanks @Adam Stallard! If you can come to the meeting today we can decide on path forward then, otherwise we can setup a short separate call on the subject.
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -9444,7 +9444,7 @@ I was in another meeting, but we can find another time to chat
 
 enti
 
-[How hard would it be to make a BrightID app (or however it’s called) for the TEC that can be used in any circumstances in the future for more stuff?  (edited)](about:blank#)
+How hard would it be to make a BrightID app (or however it’s called) for the TEC that can be used in any circumstances in the future for more stuff?  (edited)
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -9456,7 +9456,7 @@ Yes we can reuse the TEC app that we create--assuming we create one. We can also
 
 liviade
 
-[CV is a little more resistant to plutocracy than snapshot](about:blank#)
+CV is a little more resistant to plutocracy than snapshot
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -9468,7 +9468,7 @@ I think snapshot has a CV strategy now.
 
 liviade
 
-[the idea is that the rep tokens are equivalent to the rewards score people receive in every round. This rep token would give them access to governance on snapshot that can return to being quadratic. Having the rep token allow people to move their TEC tokens to a private wallet if they want and still be able to vote. Bright ID verification ensures that the wallets with rep tokens are connected to a single identity  (edited)](about:blank#)
+the idea is that the rep tokens are equivalent to the rewards score people receive in every round. This rep token would give them access to governance on snapshot that can return to being quadratic. Having the rep token allow people to move their TEC tokens to a private wallet if they want and still be able to vote. Bright ID verification ensures that the wallets with rep tokens are connected to a single identity  (edited)
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -9486,7 +9486,7 @@ option 2: check whether they linked a verified BrightID to discord unique bot (t
 
 mattyjee
 
-[hey all -- I've manually replaced a quantifier who was unresponsive on @mitch (🍔, 🍔) 's request. How should I publish this changes for transparency (until we have it built into the app)?](about:blank#)
+hey all -- I've manually replaced a quantifier who was unresponsive on @mitch (🍔, 🍔) 's request. How should I publish this changes for transparency (until we have it built into the app)?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -9527,7 +9527,7 @@ Is it possible to put some priority on implementing a solution for replacing qua
 
 Adam Stallard
 
-[Yes we can reuse the TEC app that we create--assuming we create one. We can also just use the BrightID discord bot which just means inviting it to the server. There is also a default "shared" snapshot app, if we use a BrightID snapshot registry, or we can have a separate registry for TEC.  (edited)](about:blank#)
+Yes we can reuse the TEC app that we create--assuming we create one. We can also just use the BrightID discord bot which just means inviting it to the server. There is also a default "shared" snapshot app, if we use a BrightID snapshot registry, or we can have a separate registry for TEC.  (edited)
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -9539,7 +9539,7 @@ I wonder if making a "Praise" app would be a good route as my understanding is t
 
 mitch (🍔, 🍔)
 
-[Is it possible to put some priority on implementing a solution for replacing quantifiers? I would favour the quick solution of giving the admin the ability to directly swap out quantifiers during an active quant - transitioning to a better solution when we have the bandwidth and a concrete spec @kristofer @mattyjee  (edited)](about:blank#)
+Is it possible to put some priority on implementing a solution for replacing quantifiers? I would favour the quick solution of giving the admin the ability to directly swap out quantifiers during an active quant - transitioning to a better solution when we have the bandwidth and a concrete spec @kristofer @mattyjee  (edited)
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -9551,7 +9551,7 @@ We have a script ready, the one that @mattyjee ran earlier today.
 
 mitch (🍔, 🍔)
 
-[Is it possible to put some priority on implementing a solution for replacing quantifiers? I would favour the quick solution of giving the admin the ability to directly swap out quantifiers during an active quant - transitioning to a better solution when we have the bandwidth and a concrete spec @kristofer @mattyjee  (edited)](about:blank#)
+Is it possible to put some priority on implementing a solution for replacing quantifiers? I would favour the quick solution of giving the admin the ability to directly swap out quantifiers during an active quant - transitioning to a better solution when we have the bandwidth and a concrete spec @kristofer @mattyjee  (edited)
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -9563,7 +9563,7 @@ So, the quickquick solution is to ping me or matty with who you would like to re
 
 kristofer
 
-[So, the quickquick solution is to ping me or matty with who you would like to replace with who](about:blank#)
+So, the quickquick solution is to ping me or matty with who you would like to replace with who
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -9585,7 +9585,7 @@ ps. New period can be started while old one is ongoing.
 
 enti
 
-[I wonder if making a "Praise" app would be a good route as my understanding is that it's intended to let other communities use Praise, that way if they want to implement BrightID they just have to hook up the app](about:blank#)
+I wonder if making a "Praise" app would be a good route as my understanding is that it's intended to let other communities use Praise, that way if they want to implement BrightID they just have to hook up the app
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -9597,7 +9597,7 @@ Would the praise app allow people to add the eth address they want to use?
 
 Adam Stallard
 
-[Would the praise app allow people to add the eth address they want to use?](about:blank#)
+Would the praise app allow people to add the eth address they want to use?
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -9628,7 +9628,7 @@ Is there someone in specific who could help me with that?
 
 Vyvy-vi
 
-[Q) Would we want people to use the same address for both praise and sourcecred?](about:blank#)
+Q) Would we want people to use the same address for both praise and sourcecred?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -9647,7 +9647,7 @@ hey @kristofer @liviade @mitch (🍔, 🍔), the Community Specialist at GnosisD
 
 enti
 
-[hey @kristofer @liviade @mitch (🍔, 🍔), the Community Specialist at GnosisDAO is looking at potentially implementing a reward system and they seem to be pretty sold on Praise. They're planning to have a meeting tomorrow at 6pm PST, would be great if any of you could join](about:blank#)
+hey @kristofer @liviade @mitch (🍔, 🍔), the Community Specialist at GnosisDAO is looking at potentially implementing a reward system and they seem to be pretty sold on Praise. They're planning to have a meeting tomorrow at 6pm PST, would be great if any of you could join
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -9659,7 +9659,7 @@ Not sure if we have bandwidth to start providing external services for the rewar
 
 mitch (🍔, 🍔)
 
-[Not sure if we have bandwidth to start providing external services for the reward system - what do you guys think? I could jump into the call but what to tell them is the better question](about:blank#)
+Not sure if we have bandwidth to start providing external services for the reward system - what do you guys think? I could jump into the call but what to tell them is the better question
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -9673,7 +9673,7 @@ someone mentioned Avado's praise system and it seems to work similarly, i don't 
 
 enti
 
-[hey @kristofer @liviade @mitch (🍔, 🍔), the Community Specialist at GnosisDAO is looking at potentially implementing a reward system and they seem to be pretty sold on Praise. They're planning to have a meeting tomorrow at 6pm PST, would be great if any of you could join](about:blank#)
+hey @kristofer @liviade @mitch (🍔, 🍔), the Community Specialist at GnosisDAO is looking at potentially implementing a reward system and they seem to be pretty sold on Praise. They're planning to have a meeting tomorrow at 6pm PST, would be great if any of you could join
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -9685,7 +9685,7 @@ _21-Mar-22 05:26 PM_:
 
 enti
 
-[hey @kristofer @liviade @mitch (🍔, 🍔), the Community Specialist at GnosisDAO is looking at potentially implementing a reward system and they seem to be pretty sold on Praise. They're planning to have a meeting tomorrow at 6pm PST, would be great if any of you could join](about:blank#)
+hey @kristofer @liviade @mitch (🍔, 🍔), the Community Specialist at GnosisDAO is looking at potentially implementing a reward system and they seem to be pretty sold on Praise. They're planning to have a meeting tomorrow at 6pm PST, would be great if any of you could join
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9699,7 +9699,7 @@ could we arrange another time to chat?
 
 Adam Stallard
 
-[Would the praise app allow people to add the eth address they want to use?](about:blank#)
+Would the praise app allow people to add the eth address they want to use?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9711,7 +9711,7 @@ hey @Adam Stallard yes, they will need be requested to provide an address
 
 Adam Stallard
 
-[I think snapshot has a CV strategy now.](about:blank#)
+I think snapshot has a CV strategy now.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9723,7 +9723,7 @@ Snapshot has a conviction voting strategy? oh wow, interesting, how does it work
 
 liviade
 
-[could we arrange another time to chat?](about:blank#)
+could we arrange another time to chat?
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -9736,7 +9736,7 @@ Sure, just asked them to coordinate another time. The conversation is public at 
 
 Adam Stallard
 
-[I think I remember hearing that reputation tokens are tracked in a database or spreadsheet--and we probably have a link between the eth address they registered with and a discord id right?](about:blank#)
+I think I remember hearing that reputation tokens are tracked in a database or spreadsheet--and we probably have a link between the eth address they registered with and a discord id right?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9748,7 +9748,7 @@ so, we don't have the rep tokens yet, the proposal is to mint them according to 
 
 Adam Stallard
 
-[I might be missing some pieces, but it seems that the reason for BrightID is to go along with quadratic voting in the snapshot strategy. This is for people with reputation tokens. They must choose one eth address to use for quadratic voting.](about:blank#)
+I might be missing some pieces, but it seems that the reason for BrightID is to go along with quadratic voting in the snapshot strategy. This is for people with reputation tokens. They must choose one eth address to use for quadratic voting.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9764,7 +9764,7 @@ I don't see us using the rep for anything else, but in case we need it could be 
 
 mitch (🍔, 🍔)
 
-[Not sure if we have bandwidth to start providing external services for the reward system - what do you guys think? I could jump into the call but what to tell them is the better question](about:blank#)
+Not sure if we have bandwidth to start providing external services for the reward system - what do you guys think? I could jump into the call but what to tell them is the better question
 
 <h3>mattyjee <img src="https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png" width=25 height=25></h3>
 
@@ -9777,7 +9777,7 @@ I'd definitely be willing to contribute if we decide it makes sense. I think get
 
 kristofer
 
-[Preferably yes. Especially if we implement BrightId verification somewhere in the process, then that will be a requirement.](about:blank#)
+Preferably yes. Especially if we implement BrightId verification somewhere in the process, then that will be a requirement.
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -9789,7 +9789,7 @@ hmm, that would make sense. I think that the sourcecred discord bot(pollenBot fr
 
 mattyjee
 
-[I'd definitely be willing to contribute if we decide it makes sense. I think getting a few more DAOs using praise and starting to generate revenue to fund it's R&D would be an amazing step forward.](about:blank#)
+I'd definitely be willing to contribute if we decide it makes sense. I think getting a few more DAOs using praise and starting to generate revenue to fund it's R&D would be an amazing step forward.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9800,7 +9800,7 @@ _22-Mar-22 12:42 PM_:
 
 mattyjee
 
-[I'd definitely be willing to contribute if we decide it makes sense. I think getting a few more DAOs using praise and starting to generate revenue to fund it's R&D would be an amazing step forward.](about:blank#)
+I'd definitely be willing to contribute if we decide it makes sense. I think getting a few more DAOs using praise and starting to generate revenue to fund it's R&D would be an amazing step forward.
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -9816,7 +9816,7 @@ Giveth is going to throw down some fat stacks for a Reward System implementation
 
 mitch (🍔, 🍔)
 
-[Giveth is going to throw down some fat stacks for a Reward System implementation (jeez we need to find a name for this thing)](about:blank#)
+Giveth is going to throw down some fat stacks for a Reward System implementation (jeez we need to find a name for this thing)
 
 <h3>mattyjee <img src="https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png" width=25 height=25></h3>
 
@@ -9834,7 +9834,7 @@ shoot i forgot to ask earlier, the meeting is happening anyways, i guess it's go
 
 mitch (🍔, 🍔)
 
-[I fully support this idea! However, we should finish the MVP and have a solid, functioning Reward System before going on off tangents. Developer Bandwidth is so, so precious and we should focus to finish our first working product with all the bells and whistles.](about:blank#)
+I fully support this idea! However, we should finish the MVP and have a solid, functioning Reward System before going on off tangents. Developer Bandwidth is so, so precious and we should focus to finish our first working product with all the bells and whistles.
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -9853,7 +9853,7 @@ just got off the call, they referenced Avado's Praise system (which seems to be 
 
 mattyjee
 
-[should we consider being another test case for the proposal inverter?](about:blank#)
+should we consider being another test case for the proposal inverter?
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -9923,7 +9923,7 @@ Do you have more items for the agenda? Add to the agenda doc:
 
 mitch (🍔, 🍔)
 
-[I fully support this idea! However, we should finish the MVP and have a solid, functioning Reward System before going on off tangents. Developer Bandwidth is so, so precious and we should focus to finish our first working product with all the bells and whistles.](about:blank#)
+I fully support this idea! However, we should finish the MVP and have a solid, functioning Reward System before going on off tangents. Developer Bandwidth is so, so precious and we should focus to finish our first working product with all the bells and whistles.
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -9946,7 +9946,7 @@ though i believe they only store the cred data and it's only converted to HNY wh
 
 enti
 
-[@kristofer @mattyjee on the topic about rolling over rewards for people that haven't put their address on the database, I'm not sure how it works on the technical side but at 1Hive SourceCred is always calculating cred even if you haven't onboarded and you get the bulk of your rewards once you fill the information](about:blank#)
+@kristofer @mattyjee on the topic about rolling over rewards for people that haven't put their address on the database, I'm not sure how it works on the technical side but at 1Hive SourceCred is always calculating cred even if you haven't onboarded and you get the bulk of your rewards once you fill the information
 
 <h3>mattyjee <img src="https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png" width=25 height=25></h3>
 
@@ -9964,7 +9964,7 @@ I have to think more about the technical implementation. Have there been discuss
 
 enti
 
-[though i believe they only store the cred data and it's only converted to HNY when you onboard, so if 1 cred = $1 when you made the contribution but 1 cred = $0.5 when you onboarded you'd be getting your rewards based on $0.5 per cred, not sure tho  (edited)](about:blank#)
+though i believe they only store the cred data and it's only converted to HNY when you onboard, so if 1 cred = $1 when you made the contribution but 1 cred = $0.5 when you onboarded you'd be getting your rewards based on $0.5 per cred, not sure tho  (edited)
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -9978,7 +9978,7 @@ but then if what's rolled over are the scores there's the risk of someone accumu
 
 mattyjee
 
-[I have to think more about the technical implementation. Have there been discussions / expectations about a "bulk-payment" smart contract? Will it have to go through the gardens?  (edited)](about:blank#)
+I have to think more about the technical implementation. Have there been discussions / expectations about a "bulk-payment" smart contract? Will it have to go through the gardens?  (edited)
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -9993,7 +9993,7 @@ perhaps this one [https://github.com/bh2smith/safe-airdrop](https://github.com/b
 
 enti
 
-[but then if what's rolled over are the scores there's the risk of someone accumulating a big score amount and taking up a big part of the rewards on the period they claim](about:blank#)
+but then if what's rolled over are the scores there's the risk of someone accumulating a big score amount and taking up a big part of the rewards on the period they claim
 
 <h3>mattyjee <img src="https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png" width=25 height=25></h3>
 
@@ -10005,7 +10005,7 @@ My preference would be something more like "escrow" -- not sure how to best impl
 
 mattyjee
 
-[I have to think more about the technical implementation. Have there been discussions / expectations about a "bulk-payment" smart contract? Will it have to go through the gardens?  (edited)](about:blank#)
+I have to think more about the technical implementation. Have there been discussions / expectations about a "bulk-payment" smart contract? Will it have to go through the gardens?  (edited)
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -10021,7 +10021,7 @@ i feel like that does the job and doesn't sound too complicated?
 
 enti
 
-[about this i have an idea, let me give it a shot (bear with me while i try to explain lol). So you get a table after every period with the distributions, if an account doesn't have the address you put their information for that period on another table. Now on the next period when you export the table again that new table should have the information from the current period + the unclaimed table](about:blank#)
+about this i have an idea, let me give it a shot (bear with me while i try to explain lol). So you get a table after every period with the distributions, if an account doesn't have the address you put their information for that period on another table. Now on the next period when you export the table again that new table should have the information from the current period + the unclaimed table
 
 <h3>mattyjee <img src="https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png" width=25 height=25></h3>
 
@@ -10064,7 +10064,7 @@ look at all these superstars
 
 enti
 
-[i'm leaning towards rolling over $ tbh, though afaik we haven't had any issues so far with rolling over points on 1Hive  (edited)](about:blank#)
+i'm leaning towards rolling over $ tbh, though afaik we haven't had any issues so far with rolling over points on 1Hive  (edited)
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -10086,7 +10086,7 @@ we might actually cut a praise cycle in half depending where it lands in the mon
 
 mitch (🍔, 🍔)
 
-[Random thought - Since we are looking to sort praise by week - signalling a new cycle of work shouldn't we make quants by 4 week cycles instead of per month?](about:blank#)
+Random thought - Since we are looking to sort praise by week - signalling a new cycle of work shouldn't we make quants by 4 week cycles instead of per month?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -10102,7 +10102,7 @@ as opposed to twice a month
 
 mitch (🍔, 🍔)
 
-[@kristofer Praise Quant 3 is finished! Round is closed and data has been exported locally](about:blank#)
+@kristofer Praise Quant 3 is finished! Round is closed and data has been exported locally
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -10114,7 +10114,7 @@ haha you sound like a pilot
 
 liviade
 
-[would that work better to what you're thinking? Otherwise I think it's fine to have week cycles - my only concern is that it would require more coordination if we do quants and tweak sessions and distributions every week](about:blank#)
+would that work better to what you're thinking? Otherwise I think it's fine to have week cycles - my only concern is that it would require more coordination if we do quants and tweak sessions and distributions every week
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -10129,7 +10129,7 @@ after that it will be bi-weekly so much easier to keep track of
 
 mitch (🍔, 🍔)
 
-[right now we're quantifying a month's worth of praise every week, I'm just talking about this 'catch-up' period we're in](about:blank#)
+right now we're quantifying a month's worth of praise every week, I'm just talking about this 'catch-up' period we're in
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -10172,7 +10172,7 @@ Praise / Rewards System
 
 mitch (🍔, 🍔)
 
-[I was braining some things this fine saturday from our quant review call yesterday - drafted a mock-up wireframe for a rework of marking duplicate praise. I dropped them in the miro board under the big header of **Marking Duplicate Praise Revision**](about:blank#)
+I was braining some things this fine saturday from our quant review call yesterday - drafted a mock-up wireframe for a rework of marking duplicate praise. I dropped them in the miro board under the big header of **Marking Duplicate Praise Revision**
 
 [https://miro.com/app/board/o9J_lyTkWjY=/](https://miro.com/app/board/o9J_lyTkWjY=/)
 
@@ -10235,7 +10235,7 @@ I'm seeing some Giveth specific stuff in this quant. Should those be dismissed?
 
 mitch (🍔, 🍔)
 
-[@kristofer @mattyjee can we swap out @Gideonro for @bear100 for the current quant? (Quant 4) Gideon reached out and said he is ill and bear100 just finished reading the onboarding documentation and is up for the task!](about:blank#)
+@kristofer @mattyjee can we swap out @Gideonro for @bear100 for the current quant? (Quant 4) Gideon reached out and said he is ill and bear100 just finished reading the onboarding documentation and is up for the task!
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -10247,7 +10247,7 @@ _29-Mar-22 07:30 AM_:
 
 bends
 
-[I'm seeing some Giveth specific stuff in this quant. Should those be dismissed?](about:blank#)
+I'm seeing some Giveth specific stuff in this quant. Should those be dismissed?
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -10259,7 +10259,7 @@ does the giveth praise add value to TE and/or the TEC?
 
 mitch (🍔, 🍔)
 
-[does the giveth praise add value to TE and/or the TEC?](about:blank#)
+does the giveth praise add value to TE and/or the TEC?
 
 <h3>bends <img src="https://cdn.discordapp.com/avatars/805467270762856490/a8cb02682bdcc263545a6fe1cf21de89.png" width=25 height=25></h3>
 
@@ -10271,7 +10271,7 @@ Nope. I'll dismiss. Thanks!
 
 mitch (🍔, 🍔)
 
-[@kristofer @mattyjee can we swap out @Gideonro for @bear100 for the current quant? (Quant 4) Gideon reached out and said he is ill and bear100 just finished reading the onboarding documentation and is up for the task!](about:blank#)
+@kristofer @mattyjee can we swap out @Gideonro for @bear100 for the current quant? (Quant 4) Gideon reached out and said he is ill and bear100 just finished reading the onboarding documentation and is up for the task!
 
 <h3>mattyjee <img src="https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png" width=25 height=25></h3>
 
@@ -10344,7 +10344,7 @@ New version of praise is online! The /forward command allows you to give praise 
 
 kristofer
 
-[New version of praise is online! The /forward command allows you to give praise on behalf of others. Special permissions are required for this command. @Mount Manu should have those permissions, who else?](about:blank#)
+New version of praise is online! The /forward command allows you to give praise on behalf of others. Special permissions are required for this command. @Mount Manu should have those permissions, who else?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -10356,7 +10356,7 @@ also @iviangita
 
 liviade
 
-[also @iviangita](about:blank#)
+also @iviangita
 
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
@@ -10367,7 +10367,7 @@ Tagging @freshelle too, she's the one dishing Twitter and forum engagement prais
 
 liviade
 
-[also @iviangita](about:blank#)
+also @iviangita
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -10380,7 +10380,7 @@ Great, @Mount Manu you have permissions to /forward now. @iviangita @freshelle a
 
 kristofer
 
-[Great, @Mount Manu you have permissions to /forward now. @iviangita @freshelle activate your accounts first using /activate and let me know which eth address you used.  (edited)](about:blank#)
+Great, @Mount Manu you have permissions to /forward now. @iviangita @freshelle activate your accounts first using /activate and let me know which eth address you used.  (edited)
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -10406,7 +10406,7 @@ if you guys could provide me with some nice screenshot of it, that would be nice
 
 mitch (🍔, 🍔)
 
-[@kristofer @Vyvy-vi are we ready to get the masses to activate their praise accounts ahead of the first rewards payout?](about:blank#)
+@kristofer @Vyvy-vi are we ready to get the masses to activate their praise accounts ahead of the first rewards payout?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -10418,7 +10418,7 @@ Yep
 
 mitch (🍔, 🍔)
 
-[@kristofer @Vyvy-vi are we ready to get the masses to activate their praise accounts ahead of the first rewards payout?](about:blank#)
+@kristofer @Vyvy-vi are we ready to get the masses to activate their praise accounts ahead of the first rewards payout?
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -10444,7 +10444,7 @@ hey @mitch (🍔, 🍔) @kristofer or @Vyvy-vi do you know what's the command no
 
 enti
 
-[hey @mitch (🍔, 🍔) @kristofer or @Vyvy-vi do you know what's the command now to become a quantifier?](about:blank#)
+hey @mitch (🍔, 🍔) @kristofer or @Vyvy-vi do you know what's the command now to become a quantifier?
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -10457,7 +10457,7 @@ There isn't a command as of yet for becoming a quantifier. You could reach out t
 
 EFRA
 
-[if you guys could provide me with some nice screenshot of it, that would be nice](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
+if you guys could provide me with some nice screenshot of it, that would be nice  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -10527,7 +10527,7 @@ just read your suggestions @enti - to have a feature where people can opt out fo
 
 liviade
 
-[just read your suggestions @enti - to have a feature where people can opt out for x period of time, sounds like a good solution](about:blank#)
+just read your suggestions @enti - to have a feature where people can opt out for x period of time, sounds like a good solution
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -10539,7 +10539,7 @@ yeah wouldn't want to be drafted on vacations, but I must say I'm feeling the sa
 
 enti
 
-[yeah wouldn't want to be drafted on vacations, but I must say I'm feeling the same as you after being drafted a lot consecutively](about:blank#)
+yeah wouldn't want to be drafted on vacations, but I must say I'm feeling the same as you after being drafted a lot consecutively
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -10561,7 +10561,7 @@ Hi rewards-system crew. Do you all have a listing of the variables that are goin
 
 bends
 
-[Hi rewards-system crew. Do you all have a listing of the variables that are going into the RAD system?](about:blank#)
+Hi rewards-system crew. Do you all have a listing of the variables that are going into the RAD system?
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -10604,7 +10604,7 @@ WELCOME <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=
 
 Nuggan
 
-[right now we are using these:](about:blank#)
+right now we are using these:
 
 <h3>bends <img src="https://cdn.discordapp.com/avatars/805467270762856490/a8cb02682bdcc263545a6fe1cf21de89.png" width=25 height=25></h3>
 
@@ -10628,7 +10628,7 @@ FINAL HATCHER OUTREACH LIST NAME ,TELEGRAM,DISCORD,POC,DATE,DID THEY REPLY?,NOTE
 
 liviade
 
-[@mattyjee @kristofer @mitch (🍔, 🍔) do you think it's possible to have a feature that we avoid assigning someone to quant twice in a row? We probably don't have enough quantifiers for this, but maybe there is some type of boundary we could add? This is the 6th period i've been drafted in a row and my motivation and stamina definitely changed and there is a chance this can affect the quality of the quants](about:blank#)
+@mattyjee @kristofer @mitch (🍔, 🍔) do you think it's possible to have a feature that we avoid assigning someone to quant twice in a row? We probably don't have enough quantifiers for this, but maybe there is some type of boundary we could add? This is the 6th period i've been drafted in a row and my motivation and stamina definitely changed and there is a chance this can affect the quality of the quants
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -10714,7 +10714,7 @@ draft for the forum post on quantifier disagreements. comments welcome!
 
 Edu - TEC Steward.
 
-[Hello @Lewwwk, @Cesar, @Lin, @Jori Ethichub, @Media, seems like your DMs are closed. I am sending you this message on behalf of the #💸｜reward-system WG: we are going to send out the TEC tokens that you have earned through praise. In order to be able to receive it, you need to connect your Discord handle with your Ethereum address. This can be done by activating your account on our Discord server. **1. Go to TEC Praise channel #🙏｜praise 2. Type “/activate” 3. Follow the prompt to the Praise Dashboard and then sign the message with your web wallet to complete the activation! ✅**  (edited)](about:blank#)
+Hello @Lewwwk, @Cesar, @Lin, @Jori Ethichub, @Media, seems like your DMs are closed. I am sending you this message on behalf of the #💸｜reward-system WG: we are going to send out the TEC tokens that you have earned through praise. In order to be able to receive it, you need to connect your Discord handle with your Ethereum address. This can be done by activating your account on our Discord server. **1. Go to TEC Praise channel #🙏｜praise 2. Type “/activate” 3. Follow the prompt to the Praise Dashboard and then sign the message with your web wallet to complete the activation! ✅**  (edited)
 
 <h3>Lin <img src="https://cdn.discordapp.com/avatars/378444088900321301/119809992e285d06993c0b3580bbc1a5.png" width=25 height=25></h3>
 
@@ -10727,7 +10727,7 @@ hi thanks for the reminder! just like to double check it is authenticity...too m
 
 Lin
 
-[hi thanks for the reminder! just like to double check it is authenticity...too many discord hacks these days](about:blank#)
+hi thanks for the reminder! just like to double check it is authenticity...too many discord hacks these days
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10739,7 +10739,7 @@ _21-Apr-22 05:01 AM_:
 
 Lin
 
-[hi thanks for the reminder! just like to double check it is authenticity...too many discord hacks these days](about:blank#)
+hi thanks for the reminder! just like to double check it is authenticity...too many discord hacks these days
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -10770,7 +10770,7 @@ So Round 8 will be my second time quantifying. Is there a min number of pools we
 
 boonjue.eth
 
-[So Round 8 will be my second time quantifying. Is there a min number of pools we have to quantify before we are assigned the quantifier role?](about:blank#)
+So Round 8 will be my second time quantifying. Is there a min number of pools we have to quantify before we are assigned the quantifier role?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -10808,7 +10808,7 @@ What's the best way for quantifiers who don't have time to participate in the ca
 
 Gideonro
 
-[What's the best way for quantifiers who don't have time to participate in the calls to know whether they're doing alright with their quantifications? If we're making mistakes, will we get some sort of feedback to let us know?](about:blank#)
+What's the best way for quantifiers who don't have time to participate in the calls to know whether they're doing alright with their quantifications? If we're making mistakes, will we get some sort of feedback to let us know?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -10823,7 +10823,7 @@ And if there is any feedback you would like to give, or anything you thought was
 
 boonjue.eth
 
-[are there any issues for dishing praise to oneself?](about:blank#)
+are there any issues for dishing praise to oneself?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -10835,7 +10835,7 @@ We encourage self praise :)
 
 liviade
 
-[We encourage self praise :)](about:blank#)
+We encourage self praise :)
 
 <h3>boonjue.eth <img src="https://cdn.discordapp.com/avatars/908799381229154314/041a1948b918ecd3ae58b5411222fbba.png" width=25 height=25></h3>
 
@@ -10875,7 +10875,7 @@ Who can praise? Anyone who wishes to do so. This person should contact a Steward
 
 mitch (🍔, 🍔)
 
-[yes it's legit. this is the current link to the praise dashboard just to confirm -](about:blank#)
+yes it's legit. this is the current link to the praise dashboard just to confirm -
 
 [https://praise.tecommons.org/](https://praise.tecommons.org/)
 
@@ -10910,7 +10910,7 @@ See you!
 
 kristofer
 
-[Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members ⏰ Time: 20:00 CET  Meeting room: reward-system voice channel Status updates - Praise (Vyvy-vi, Mattyjee, Nebs, Kristofer) - Demo new bot features /whoami, /help. - SourceCred (Mateo, Kristofer) - RAD Dashboard (Nuggan, Zhiwei) - Quantifications (Mitch) - Round 8 - Round 9 - Reward board (Kristofer) - Forum post out - Onboarding / education (Liviade, Vyvy-vi, Edu??) - Communication / analysis / transparency (Nuggan, Chuy, Zeptimus) Do you have more items for the agenda? Add to the agenda doc:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
+Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members ⏰ Time: 20:00 CET  Meeting room: reward-system voice channel Status updates - Praise (Vyvy-vi, Mattyjee, Nebs, Kristofer) - Demo new bot features /whoami, /help. - SourceCred (Mateo, Kristofer) - RAD Dashboard (Nuggan, Zhiwei) - Quantifications (Mitch) - Round 8 - Round 9 - Reward board (Kristofer) - Forum post out - Onboarding / education (Liviade, Vyvy-vi, Edu??) - Communication / analysis / transparency (Nuggan, Chuy, Zeptimus) Do you have more items for the agenda? Add to the agenda doc: <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 [https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
 
@@ -10939,7 +10939,7 @@ There are some wrong praises that most people won't dismiss, it would be nice as
 
 liviade
 
-[And if there is any feedback you would like to give, or anything you thought was interesting about the quantification please share here async, the more info we have the better](about:blank#)
+And if there is any feedback you would like to give, or anything you thought was interesting about the quantification please share here async, the more info we have the better
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -10951,7 +10951,7 @@ Looked briefly at the @zhiwei analysis, but couldn't see how to comment and not 
 
 Edu - TEC Steward.
 
-[Hello @Lewwwk, @Cesar, @Lin, @Jori Ethichub, @Media, seems like your DMs are closed. I am sending you this message on behalf of the #💸｜reward-system WG: we are going to send out the TEC tokens that you have earned through praise. In order to be able to receive it, you need to connect your Discord handle with your Ethereum address. This can be done by activating your account on our Discord server. **1. Go to TEC Praise channel #🙏｜praise 2. Type “/activate” 3. Follow the prompt to the Praise Dashboard and then sign the message with your web wallet to complete the activation! ✅**  (edited)](about:blank#)
+Hello @Lewwwk, @Cesar, @Lin, @Jori Ethichub, @Media, seems like your DMs are closed. I am sending you this message on behalf of the #💸｜reward-system WG: we are going to send out the TEC tokens that you have earned through praise. In order to be able to receive it, you need to connect your Discord handle with your Ethereum address. This can be done by activating your account on our Discord server. **1. Go to TEC Praise channel #🙏｜praise 2. Type “/activate” 3. Follow the prompt to the Praise Dashboard and then sign the message with your web wallet to complete the activation! ✅**  (edited)
 
 <h3>Lin <img src="https://cdn.discordapp.com/avatars/378444088900321301/119809992e285d06993c0b3580bbc1a5.png" width=25 height=25></h3>
 
@@ -10965,7 +10965,7 @@ also sent friend request (dm is closed for strangers for safety reasons
 
 Edu - TEC Steward.
 
-[Hello @CMD Burrito, @Huxwell, @trangnv, @bitsikka, @daojoiner, @patogit - Akik Takat, @Juliet Ӿ LexyLab, @divine, @QZ, @Yashmanso, @Fobey, @Amrik, @peyton, @Edgar Arellano, @AnaTech, @James - Aptos Labs, @mercedesrodsim, @joseacabrerav, @Vitor Marthendal, @solarmkd, @vicente.eth, @D8N1, @notsure1, @SteveWright, @giulioquarta, @barnabé, @Gary Latta, @gruad, @Lucas - DefiSafety, @Austin, @glocalvr, @Tarun Gupta - Coinshift, @sukanshi.eth - Coinshift, @irenioskamoska, @Lisa JY Tan, @Julio Holon, @Ata, @Deepcryptodive - GoodGhosting, @stephenreid321, @gijsspoor, @Peter (porobov.eth) 🤖 , @eli_, @Rudi, @BenoîtK, @METADREAMER 🐙, @isysoares, @justkassie, @Miles. If you are named here, is because we couldn't send you a private message to let you know that **we are about to send out TEC tokens that you have earned!**. In order to be able to receive it you need to connect your Discord handle with your Ethereum address. This can be done by activating your account on our Discord server. **1. Go to TEC Praise channel “#praise” 2. Type “/activate” 3. Follow the prompt to the Praise Dashboard and then sign the message with your web wallet to complete the activation! ✅** 4. If you have any question or problem, drop it here!](about:blank#)
+Hello @CMD Burrito, @Huxwell, @trangnv, @bitsikka, @daojoiner, @patogit - Akik Takat, @Juliet Ӿ LexyLab, @divine, @QZ, @Yashmanso, @Fobey, @Amrik, @peyton, @Edgar Arellano, @AnaTech, @James - Aptos Labs, @mercedesrodsim, @joseacabrerav, @Vitor Marthendal, @solarmkd, @vicente.eth, @D8N1, @notsure1, @SteveWright, @giulioquarta, @barnabé, @Gary Latta, @gruad, @Lucas - DefiSafety, @Austin, @glocalvr, @Tarun Gupta - Coinshift, @sukanshi.eth - Coinshift, @irenioskamoska, @Lisa JY Tan, @Julio Holon, @Ata, @Deepcryptodive - GoodGhosting, @stephenreid321, @gijsspoor, @Peter (porobov.eth) 🤖 , @eli_, @Rudi, @BenoîtK, @METADREAMER 🐙, @isysoares, @justkassie, @Miles. If you are named here, is because we couldn't send you a private message to let you know that **we are about to send out TEC tokens that you have earned!**. In order to be able to receive it you need to connect your Discord handle with your Ethereum address. This can be done by activating your account on our Discord server. **1. Go to TEC Praise channel “#praise” 2. Type “/activate” 3. Follow the prompt to the Praise Dashboard and then sign the message with your web wallet to complete the activation! ✅** 4. If you have any question or problem, drop it here!
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -10977,7 +10977,7 @@ Hi, I'm not listed here, but also no message about TEC tokens. I think I'm regis
 
 innov8tor3
 
-[Hi, I'm not listed here, but also no message about TEC tokens. I think I'm registered per your advice, so wondering which hole I fell through? I think I'm known to the community, and hopefully for some good reasons.](about:blank#)
+Hi, I'm not listed here, but also no message about TEC tokens. I think I'm registered per your advice, so wondering which hole I fell through? I think I'm known to the community, and hopefully for some good reasons.
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10989,7 +10989,7 @@ Hello innovator, this message was only for those folks who never connected their
 
 innov8tor3
 
-[Looked briefly at the @zhiwei analysis, but couldn't see how to comment and not edit ... I've been assigning praise to forum contributions, I think these matter, same as Twitter contributions. This is on the basis that Source Cred may not credit praise retrospectively, and awaiting Source Cred activation. Can you advise please?](about:blank#)
+Looked briefly at the @zhiwei analysis, but couldn't see how to comment and not edit ... I've been assigning praise to forum contributions, I think these matter, same as Twitter contributions. This is on the basis that Source Cred may not credit praise retrospectively, and awaiting Source Cred activation. Can you advise please?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -11010,7 +11010,7 @@ Hey Team! FYI I'll be out most of the day tomorrow, April 29
 
 liviade
 
-[but twitter isn't being tracked now](about:blank#)
+but twitter isn't being tracked now
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -11043,7 +11043,7 @@ Rewrite DAOs' DNA
 
 mitch (🍔, 🍔)
 
-[I implemented a strike system for quantifier attendance, I have been keeping track of quantifiers who have not quantified or partially quantified and I believe we should set some process for repercussions. It's important to keep an active quantifier pool so that we can have reliable and complete quants. System is as follows: total no show = 1 not quantified but notified an admin = 0.5 partial completion (>5% and <95% completion) = 0.5 2 strikes = removal from pool with notice full quantification removes 1 strike If you didn't quantify then the strike carries forward  (edited)](about:blank#)
+I implemented a strike system for quantifier attendance, I have been keeping track of quantifiers who have not quantified or partially quantified and I believe we should set some process for repercussions. It's important to keep an active quantifier pool so that we can have reliable and complete quants. System is as follows: total no show = 1 not quantified but notified an admin = 0.5 partial completion (>5% and <95% completion) = 0.5 2 strikes = removal from pool with notice full quantification removes 1 strike If you didn't quantify then the strike carries forward  (edited)
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -11157,7 +11157,7 @@ _10-May-22 07:20 PM_:
 
 liviade
 
-[@mattyjee the new dashboard looks great and dismissing praise has been working perfect- my feedback: 1. marking duplicates using the new button isn't quite working. The value of the quantified praise goes to 0 when I select them both. 2. Name and info about the receiver are taking aprox 30 seconds to load.  (edited)](about:blank#)
+@mattyjee the new dashboard looks great and dismissing praise has been working perfect- my feedback: 1. marking duplicates using the new button isn't quite working. The value of the quantified praise goes to 0 when I select them both. 2. Name and info about the receiver are taking aprox 30 seconds to load.  (edited)
 
 <h3>mattyjee <img src="https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png" width=25 height=25></h3>
 
@@ -11186,7 +11186,7 @@ See you! <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height
 
 liviade
 
-[@mattyjee the new dashboard looks great and dismissing praise has been working perfect- my feedback: 1. marking duplicates using the new button isn't quite working. The value of the quantified praise goes to 0 when I select them both. 2. Name and info about the receiver are taking aprox 30 seconds to load.  (edited)](about:blank#)
+@mattyjee the new dashboard looks great and dismissing praise has been working perfect- my feedback: 1. marking duplicates using the new button isn't quite working. The value of the quantified praise goes to 0 when I select them both. 2. Name and info about the receiver are taking aprox 30 seconds to load.  (edited)
 
 <h3>mattyjee <img src="https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png" width=25 height=25></h3>
 
@@ -11206,7 +11206,7 @@ First Rewards Round Payout is done! This is huge guys!
 
 mitch (🍔, 🍔)
 
-[First Rewards Round Payout is done! This is huge guys!](about:blank#)
+First Rewards Round Payout is done! This is huge guys!
 
 <h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
@@ -11226,7 +11226,7 @@ does it mean augmented bonding curve is complete and now live? according to the 
 
 Anak
 
-[does it mean augmented bonding curve is complete and now live? according to the imaged attached below](about:blank#)
+does it mean augmented bonding curve is complete and now live? according to the imaged attached below
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -11256,7 +11256,7 @@ _18-May-22 08:29 AM_:
 
 mitch (🍔, 🍔)
 
-[@Nuggan @kristofer I know we came up with a plan to distribute rewards to contributors who have not activated yet.. but do we have any system in place to track how much cumulative rewards are owed to addresses that haven't activated?](about:blank#)
+@Nuggan @kristofer I know we came up with a plan to distribute rewards to contributors who have not activated yet.. but do we have any system in place to track how much cumulative rewards are owed to addresses that haven't activated?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -11338,7 +11338,7 @@ Hi all, how often are TEC tokens distributed for Praise and for quantifying?
 
 boonjue.eth
 
-[Hi all, how often are TEC tokens distributed for Praise and for quantifying?](about:blank#)
+Hi all, how often are TEC tokens distributed for Praise and for quantifying?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -11414,7 +11414,7 @@ I just noticed there's a "data and metrics hack session" on the calendar, judgin
 
 enti
 
-[I just noticed there's a "data and metrics hack session" on the calendar, judging from he content of the linked spreadsheet I'm assuming it's going to be held in the reward systems voice channel, right?  (edited)](about:blank#)
+I just noticed there's a "data and metrics hack session" on the calendar, judging from he content of the linked spreadsheet I'm assuming it's going to be held in the reward systems voice channel, right?  (edited)
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -11466,7 +11466,7 @@ Was thinking about the praise system today and I wondered what if every time som
 
 nic
 
-[Was thinking about the praise system today and I wondered what if every time someone does a praise they get prompted to do a quant? This way everyone gets to quant but it’s not a high energy burden and it’s an alternative to trying to attract people to a quant role. It could be good if everyone got involved and were knowledgeable about both sides of the rewards system as a TEC member (praise and quant side). Has this been suggested before? Does it seem feasible?](about:blank#)
+Was thinking about the praise system today and I wondered what if every time someone does a praise they get prompted to do a quant? This way everyone gets to quant but it’s not a high energy burden and it’s an alternative to trying to attract people to a quant role. It could be good if everyone got involved and were knowledgeable about both sides of the rewards system as a TEC member (praise and quant side). Has this been suggested before? Does it seem feasible?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -11502,7 +11502,7 @@ To get started, type !sc help and follow the instructions for !sc save-wallet, !
 
 kristofer
 
-[It is an interesting idea, thanks! Currently we don't want everyone to be a quantifier. Everyone as in for example really new community members. Before quantifying you should have some basic knowledge about the community and have been onboarded as a quantifier. We also want to identify duplicates - that is why one quantifier gets to quantify all praise for one receiver/period. Quantifying individual Praise separately would make duplicate identification harder. But I love the idea of all praise being quantified always, that the process of quantifying is fully decentralised and constantly ongoing.](about:blank#)
+It is an interesting idea, thanks! Currently we don't want everyone to be a quantifier. Everyone as in for example really new community members. Before quantifying you should have some basic knowledge about the community and have been onboarded as a quantifier. We also want to identify duplicates - that is why one quantifier gets to quantify all praise for one receiver/period. Quantifying individual Praise separately would make duplicate identification harder. But I love the idea of all praise being quantified always, that the process of quantifying is fully decentralised and constantly ongoing.
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -11514,7 +11514,7 @@ What makes a duplicate? Is it someone praising the same praise twice, or multipl
 
 nic
 
-[What makes a duplicate? Is it someone praising the same praise twice, or multiple people praising the same act or person?](about:blank#)
+What makes a duplicate? Is it someone praising the same praise twice, or multiple people praising the same act or person?
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -11536,7 +11536,7 @@ Does this include contributions praised by different people? What I understand f
 
 enti
 
-[- same praise giver, same praise verbatim and the same week = dismiss - same praise giver, same/similar praise verbatim and different weeks = quantify - different praise giver, same contribution praised and the same week = duplicate - different praise giver, same contribution praised and different week = quantify](about:blank#)
+- same praise giver, same praise verbatim and the same week = dismiss - same praise giver, same/similar praise verbatim and different weeks = quantify - different praise giver, same contribution praised and the same week = duplicate - different praise giver, same contribution praised and different week = quantify
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -11555,7 +11555,7 @@ _06-Jun-22 04:23 PM_:
 
 liviade
 
-[@mitch (🍔, 🍔) are you giving names to the quant periods? lol it's very cute](about:blank#)
+@mitch (🍔, 🍔) are you giving names to the quant periods? lol it's very cute
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -11578,7 +11578,7 @@ hey @mattyjee I don't know if this is known already, but when I open the quant p
 
 liviade
 
-[hey @mattyjee I don't know if this is known already, but when I open the quant pages I see everything already quantified with random numbers](about:blank#)
+hey @mattyjee I don't know if this is known already, but when I open the quant pages I see everything already quantified with random numbers
 
 <h3>mattyjee <img src="https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png" width=25 height=25></h3>
 
@@ -11614,7 +11614,7 @@ _06-Jun-22 05:07 PM_:
 
 liviade
 
-[hey @mattyjee I don't know if this is known already, but when I open the quant pages I see everything already quantified with random numbers](about:blank#)
+hey @mattyjee I don't know if this is known already, but when I open the quant pages I see everything already quantified with random numbers
 
 <h3>mattyjee <img src="https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png" width=25 height=25></h3>
 
@@ -11627,7 +11627,7 @@ okay should be resolved! (edited)
 
 griff (💜, 💜)
 
-[could use more votes here](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
+could use more votes here  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 [https://forum.gnosis.io/t/gip-48-should-gnosisdao-implement-the-praise-reward-system-around-the-gnosis-chain-validator-program/5101](https://forum.gnosis.io/t/gip-48-should-gnosisdao-implement-the-praise-reward-system-around-the-gnosis-chain-validator-program/5101)
 
@@ -11650,7 +11650,7 @@ Perhaps we could announce this in the "Announcements" channel to increase visibi
 
 boonjue.eth
 
-[Perhaps we could announce this in the "Announcements" channel to increase visibility?](about:blank#)
+Perhaps we could announce this in the "Announcements" channel to increase visibility?
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -11683,7 +11683,7 @@ will watch the recording, have a great session everyone!
 
 liviade
 
-[or at least it has reached quorum already](about:blank#)
+or at least it has reached quorum already
 
 <h3>boonjue.eth <img src="https://cdn.discordapp.com/avatars/908799381229154314/041a1948b918ecd3ae58b5411222fbba.png" width=25 height=25></h3>
 
@@ -11716,7 +11716,7 @@ _09-Jun-22 12:08 PM_:
 
 ALOYSIOUS
 
-[@mitch (🍔, 🍔) can we link up sometime so I can get some technical support and ask some questions? As the community has evolved I've had troubles using my tokens to vote as a trusted seed and now i can't dish praise.](about:blank#)
+@mitch (🍔, 🍔) can we link up sometime so I can get some technical support and ask some questions? As the community has evolved I've had troubles using my tokens to vote as a trusted seed and now i can't dish praise.
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -11728,7 +11728,7 @@ are you using /praise to dish praise? not sure about using trusted seed to vote 
 
 mitch (🍔, 🍔)
 
-[I noticed a weird bug this am while making the report for the last round - the start date for the round on the praise dashboard says may 14th UTC however on the report export is says it covered praise from may 16th..](about:blank#)
+I noticed a weird bug this am while making the report for the last round - the start date for the round on the praise dashboard says may 14th UTC however on the report export is says it covered praise from may 16th..
 
 [https://rawcdn.githack.com/CommonsBuild/tec-rewards/c7bd597f0377dc5ac8427d08e6aa5c3ea8999892/distribution_rounds/round-12/distribution_results/reports/round-12_general_RAD_report_Report.html](https://rawcdn.githack.com/CommonsBuild/tec-rewards/c7bd597f0377dc5ac8427d08e6aa5c3ea8999892/distribution_rounds/round-12/distribution_results/reports/round-12_general_RAD_report_Report.html)
 
@@ -11746,7 +11746,7 @@ seems to be that for some reason in the exported praise data there is no reason
 
 mitch (🍔, 🍔)
 
-[seems to be that for some reason in the exported praise data there is no reason](about:blank#)
+seems to be that for some reason in the exported praise data there is no reason
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -11769,7 +11769,7 @@ the main things here are: - quantifiers have 7 days (5 weekdays) to quantify - w
 
 mitch (🍔, 🍔)
 
-[are you using /praise to dish praise? not sure about using trusted seed to vote in stuff - we use TEC now that the commons has launched](about:blank#)
+are you using /praise to dish praise? not sure about using trusted seed to vote in stuff - we use TEC now that the commons has launched
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -11781,7 +11781,7 @@ I just meant as a trusted seed I would imagine I should have been able to have v
 
 ALOYSIOUS
 
-[I just meant as a trusted seed I would imagine I should have been able to have voted on the commons prize. And I haven't been able to dish praise through the command.](about:blank#)
+I just meant as a trusted seed I would imagine I should have been able to have voted on the commons prize. And I haven't been able to dish praise through the command.
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -11795,7 +11795,7 @@ I can't say much for the trusted seed, that's all managed by the Commons Stack. 
 
 kristofer
 
-[Hmm. Definitely some funky business going on here. Hope to find time during the weekend to investigate.](about:blank#)
+Hmm. Definitely some funky business going on here. Hope to find time during the weekend to investigate.
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -11839,7 +11839,7 @@ Knowledge of what the brain is doing during the experience of gratitude provides
 
 mitch (🍔, 🍔)
 
-[any luck?](about:blank#)
+any luck?
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -11891,7 +11891,7 @@ Praise have been updated to a new version adding a bunch of new features and fix
 
 kristofer
 
-[Praise have been updated to a new version adding a bunch of new features and fixes. **Dark mode** and more!](about:blank#)
+Praise have been updated to a new version adding a bunch of new features and fixes. **Dark mode** and more!
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -11903,7 +11903,7 @@ curious about what the "option to disable self praise" means
 
 liviade
 
-[curious about what the "option to disable self praise" means](about:blank#)
+curious about what the "option to disable self praise" means
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -11942,7 +11942,7 @@ SourceCred Integration
 
 acidlazzer
 
-[Animatic update:)](about:blank#)
+Animatic update:)
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11955,7 +11955,7 @@ Probably this have received a lot of feedback already, but It would be nice if w
 
 Edu - TEC Steward.
 
-[@mitch (🍔, 🍔) and RS WG, can we tweak to avoid the bot saying pollen?](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
+@mitch (🍔, 🍔) and RS WG, can we tweak to avoid the bot saying pollen?  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -11967,7 +11967,7 @@ I think it's pretty low prio, sourecred is already so sensitive, I don't think i
 
 mitch (🍔, 🍔)
 
-[I think it's pretty low prio, sourecred is already so sensitive, I don't think its worth the dev power tbh, but perhaps @mateodaza or @Vyvy-vi would know more about modifying the bot](about:blank#)
+I think it's pretty low prio, sourecred is already so sensitive, I don't think its worth the dev power tbh, but perhaps @mateodaza or @Vyvy-vi would know more about modifying the bot
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11988,7 +11988,7 @@ Hey <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=20 height=20>
 
 Edu - TEC Steward.
 
-[@mitch (🍔, 🍔) and RS WG, can we tweak to avoid the bot saying pollen?](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
+@mitch (🍔, 🍔) and RS WG, can we tweak to avoid the bot saying pollen?  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -11999,7 +11999,7 @@ I think I opened a Pr some time ago to remove those terms <img src="https://twem
 
 Mert Ozd
 
-[Hey , I have a question that I would love to discuss. So our reward system has been developing fastly in last couple of months with quantification periods, bot developments and more ! However, even though we have improved the system a lot, the reward system requires lots of manual labor. I am wondering how is the discussions regarding automization of that process going on ? ( I am not regular in wg so sorry if these are already being discussed) I believe our reward system may benefit a lot from Natural language processing models in making automized quantification. We have lots of quantifiers that can make labeling job to feed AI. What do you guys think ? @mitch (🍔, 🍔) @kristofer @ygg_anderson](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=20 height=20>
+Hey , I have a question that I would love to discuss. So our reward system has been developing fastly in last couple of months with quantification periods, bot developments and more ! However, even though we have improved the system a lot, the reward system requires lots of manual labor. I am wondering how is the discussions regarding automization of that process going on ? ( I am not regular in wg so sorry if these are already being discussed) I believe our reward system may benefit a lot from Natural language processing models in making automized quantification. We have lots of quantifiers that can make labeling job to feed AI. What do you guys think ? @mitch (🍔, 🍔) @kristofer @ygg_anderson <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=20 height=20>
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -12011,7 +12011,7 @@ We discussed this a while ago, while it's cool it takes away the human element t
 
 mitch (🍔, 🍔)
 
-[We discussed this a while ago, while it's cool it takes away the human element that is very crucial. Providing decentralized updates, creating ways for community engagement with quantifying roles..](about:blank#)
+We discussed this a while ago, while it's cool it takes away the human element that is very crucial. Providing decentralized updates, creating ways for community engagement with quantifying roles..
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -12045,7 +12045,7 @@ I'll be gone for the two coming weeks. Could someone take on hosting the Rewards
 
 kristofer
 
-[Vacation notice!  I'll be gone for the two coming weeks. Could someone take on hosting the Rewards WG sessions? @liviade @mitch (🍔, 🍔) @Zeptimus? Someone else of the @Reward Board Members?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f603.png" width=20 height=20>
+Vacation notice!  I'll be gone for the two coming weeks. Could someone take on hosting the Rewards WG sessions? @liviade @mitch (🍔, 🍔) @Zeptimus? Someone else of the @Reward Board Members? <img src="https://twemoji.maxcdn.com/2/72x72/1f603.png" width=20 height=20>
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 

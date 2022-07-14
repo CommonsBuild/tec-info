@@ -43,7 +43,7 @@ _10-May-22 08:29 AM_:
 
 liviade
 
-[we could discuss policies async. 1 - what is the process to become a guild member 2 - what is the process for projects to receive feedback from the guild any other points we need to define?](about:blank#)
+we could discuss policies async. 1 - what is the process to become a guild member 2 - what is the process for projects to receive feedback from the guild any other points we need to define?
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
@@ -83,7 +83,7 @@ _11-May-22 01:14 PM_:
 
 akrtws (TE Academy)
 
-[@zhiwei @inventandchill @Thomas @Emerick - Figment - the task of next week's session: - propose a guild project you'd like to work on - relevant for the TE community - motivated by your personal interest - add some facts: - how much time would you like to invest - what's the result? when consider it a success? - by when you'd like to achieve this result? @Thomas could you take over facilitating the next session? Let me know if you have any questions.](about:blank#)
+@zhiwei @inventandchill @Thomas @Emerick - Figment - the task of next week's session: - propose a guild project you'd like to work on - relevant for the TE community - motivated by your personal interest - add some facts: - how much time would you like to invest - what's the result? when consider it a success? - by when you'd like to achieve this result? @Thomas could you take over facilitating the next session? Let me know if you have any questions.
 
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
@@ -129,7 +129,7 @@ Hi @zhiwei get well soon again! Everyone: let's have a brief checkin today after
 
 akrtws (TE Academy)
 
-[Hi @zhiwei get well soon again! Everyone: let's have a brief checkin today after the Bsci meeting. And postpone all other topics to next week.](about:blank#)
+Hi @zhiwei get well soon again! Everyone: let's have a brief checkin today after the Bsci meeting. And postpone all other topics to next week.
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -195,7 +195,7 @@ Thomas 03-Jun-22 02:46 AM
 
 Thomas
 
-[@inventandchill can I jam on this by editing the doc - I have a couple of ideas   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
+@inventandchill can I jam on this by editing the doc - I have a couple of ideas   (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>inventandchill <img src="https://cdn.discordapp.com/avatars/825058392300847185/9cd392d338b36e512f7e94d150a851e5.png" width=25 height=25></h3>
 
@@ -227,7 +227,7 @@ RawMetrics Raw Metrics - what variables are available without doing math Metric,
 
 liviade
 
-[this is the doc @bends was working on for TEC health metrics](about:blank#)
+this is the doc @bends was working on for TEC health metrics
 
 [https://docs.google.com/spreadsheets/d/1jAXe4MhOm6cdL-yjgpk_wUkEGZPCAvpJ-lyp1eLBX4o/edit#gid=0](https://docs.google.com/spreadsheets/d/1jAXe4MhOm6cdL-yjgpk_wUkEGZPCAvpJ-lyp1eLBX4o/edit#gid=0)
 
@@ -243,7 +243,7 @@ Hi all, I have the potential to get some contributors from prime involved into t
 
 liviade
 
-[this is the doc @bends was working on for TEC health metrics](about:blank#)
+this is the doc @bends was working on for TEC health metrics
 
 [https://docs.google.com/spreadsheets/d/1jAXe4MhOm6cdL-yjgpk_wUkEGZPCAvpJ-lyp1eLBX4o/edit#gid=0](https://docs.google.com/spreadsheets/d/1jAXe4MhOm6cdL-yjgpk_wUkEGZPCAvpJ-lyp1eLBX4o/edit#gid=0)
 
@@ -260,7 +260,7 @@ Great Basis
 
 liviade
 
-[this is the doc @bends was working on for TEC health metrics](about:blank#)
+this is the doc @bends was working on for TEC health metrics
 
 [https://docs.google.com/spreadsheets/d/1jAXe4MhOm6cdL-yjgpk_wUkEGZPCAvpJ-lyp1eLBX4o/edit#gid=0](https://docs.google.com/spreadsheets/d/1jAXe4MhOm6cdL-yjgpk_wUkEGZPCAvpJ-lyp1eLBX4o/edit#gid=0)
 
@@ -276,7 +276,7 @@ Just wondering whether #🕊｜gravity have some part in health metrics?
 
 Thomas
 
-[Hi all, I have the potential to get some contributors from prime involved into the project (nothing confirmed yet - I just know of some interest/ shared work). Here the intention is not to add them to the guild but to the project too pool work done to the project. Wdyt? 1 concerns I have: - if it should get to funding - more contributor = more money = more difficult?  (edited)](about:blank#)
+Hi all, I have the potential to get some contributors from prime involved into the project (nothing confirmed yet - I just know of some interest/ shared work). Here the intention is not to add them to the guild but to the project too pool work done to the project. Wdyt? 1 concerns I have: - if it should get to funding - more contributor = more money = more difficult?  (edited)
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -288,7 +288,7 @@ Try looking in Bankless, who have channels focused on contributor MH ...
 
 Thomas
 
-[Hi all, I have the potential to get some contributors from prime involved into the project (nothing confirmed yet - I just know of some interest/ shared work). Here the intention is not to add them to the guild but to the project too pool work done to the project. Wdyt? 1 concerns I have: - if it should get to funding - more contributor = more money = more difficult?  (edited)](about:blank#)
+Hi all, I have the potential to get some contributors from prime involved into the project (nothing confirmed yet - I just know of some interest/ shared work). Here the intention is not to add them to the guild but to the project too pool work done to the project. Wdyt? 1 concerns I have: - if it should get to funding - more contributor = more money = more difficult?  (edited)
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -302,7 +302,7 @@ If you need any project management advice, I can recommend @Tam2140 , she's awes
 
 Thomas
 
-[We should definitely take most of them over](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
+We should definitely take most of them over  <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
@@ -314,7 +314,7 @@ Hi @Thomas and guild! I've added some notes in the doc - regarding the DAOs to i
 
 innov8tor3
 
-[Try looking in Bankless, who have channels focused on contributor MH ...](about:blank#)
+Try looking in Bankless, who have channels focused on contributor MH ...
 
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
@@ -379,7 +379,7 @@ was there anything from last week that I can catch up async?
 
 liviade
 
-[was there anything from last week that I can catch up async?](about:blank#)
+was there anything from last week that I can catch up async?
 
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
@@ -404,7 +404,7 @@ Decentralized autonomous organizations (DAOs) are a staple of web3. Internet-nat
 
 akrtws (TE Academy)
 
-[Dissecting the DAO: Web3 Ownership is Surprisingly Concentrated](about:blank#)
+Dissecting the DAO: Web3 Ownership is Surprisingly Concentrated
 
 [https://blog.chainalysis.com/reports/web3-daos-2022/](https://blog.chainalysis.com/reports/web3-daos-2022/)
 
@@ -421,7 +421,7 @@ I think the finding will equally centralised (edited)
 
 Thomas
 
-[Interesting - tbh I am not surprised despite the title  I think the really interesting think if you account how the largest wallet holder across wallets are related](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
+Interesting - tbh I am not surprised despite the title  I think the really interesting think if you account how the largest wallet holder across wallets are related <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
@@ -433,7 +433,7 @@ I was trying to find out what data sources they've used, have you found any info
 
 akrtws (TE Academy)
 
-[I was trying to find out what data sources they've used, have you found any info?](about:blank#)
+I was trying to find out what data sources they've used, have you found any info?
 
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
