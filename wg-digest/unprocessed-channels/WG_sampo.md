@@ -19,8 +19,6 @@ In the end, he creates the Sampo, a magical machine that produces an endless sup
 
 [https://www.wikiwand.com/en/Ilmarinen#/Stories_about_Ilmarinen](https://www.wikiwand.com/en/Ilmarinen#/Stories_about_Ilmarinen)
 
-(edited)
-
 ![https://cdn.discordapp.com/attachments/969685567455498310/969730503534063698/Sampo_with_Faces.jpg](https://cdn.discordapp.com/attachments/969685567455498310/969730503534063698/Sampo_with_Faces.jpg)
 
 Ilmarinen - Wikiwand
@@ -59,9 +57,7 @@ I just made over $500 Arbitraging our ABC... AMA
 1
 
 
-![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
-
-griff (💜, 💜)
+<h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
 [https://docs.google.com/spreadsheets/d/1JnhL_OeTPHGBO6OMzw5yho_OaAPRt9OcB7kIUGgMkSo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1JnhL_OeTPHGBO6OMzw5yho_OaAPRt9OcB7kIUGgMkSo/edit?usp=sharing)
 
@@ -106,8 +102,6 @@ one of the most ambitious decision-making systems is the Conviction Voting or So
 from Organizational Building Blocks for Blockchain Governance: A Survey of 241 Blockchain White Papers ((
 
 [https://www.frontiersin.org/articles/10.3389/fbloc.2021.613115/full))](https://www.frontiersin.org/articles/10.3389/fbloc.2021.613115/full)))
-
-(edited)
 
 
 I am down for data analysis task
@@ -173,9 +167,7 @@ Llama enables decentralized communities to allocate their treasuries and assess 
 
 ![https://llama.vercel.app/llama-homepage.png](https://llama.vercel.app/llama-homepage.png)
 
-![https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png](https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png)
-
-rex
+<h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
 is there a whitepaper or overview of token mechanics, too?
 
@@ -191,9 +183,7 @@ _03-May-22 05:05 PM_:
 
 that's right, yeah. not sure how far we can get into stratification of buying and selling pressures over the next week, or whether we do something more generalised
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 btw, I know @natesuits on his document shared some thoughts about the TEC investing, these guys have worked with some big projects on the space, sharing bc it may be worth to give it a shot
 
@@ -221,9 +211,7 @@ sadly that's everything they share
 
 i've got a friend who recently started contributing there, if it seems of interest he may be able to schedule a meeting or something
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 i've got a friend who recently started contributing there, if it seems of interest he may be able to schedule a meeting or something
 
@@ -253,9 +241,7 @@ Anak 03-May-22 05:17 PM
 
 Do we have page for Specialist to list they skillset?
 
-![https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png](https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png)
-
-rex
+<h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
 do any of you know if there's an alternative to this?
 
@@ -273,9 +259,7 @@ it'd be pretty easy to run some sql queries on our smart contracts
 
 is that possible under Dune?
 
-![https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png](https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png)
-
-rex
+<h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
 is that possible under Dune?
 
@@ -330,9 +314,7 @@ _04-May-22 02:35 PM_:
 @Anak @rex and @gene - so glad that you're up for diving into the analysis work. Give me a little bit to figure out how we structure that and I'll get back to you with a process for plugging in. OK?
 
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 @Anak @rex and @gene - so glad that you're up for diving into the analysis work. Give me a little bit to figure out how we structure that and I'll get back to you with a process for plugging in. OK?
 
@@ -344,9 +326,7 @@ We chit chatted for a few minutes yesterday and gave ourselves the task of getti
 
 
 
-![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
-
-gene
+<h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 We chit chatted for a few minutes yesterday and gave ourselves the task of getting a copy of each working groups budget/ledger, categorizing the spending, and quantifying the rate of burn per category. Rex also suggested looking at Open Collective's UI to get an idea of how they demonstrate how spending works there and possibly being able to fork and adapt their work to our needs. But it was late yesterday for those two being in London and Florida, so I don't think anyone has made any progress yet and we'll defer to you for next steps. =)
 
@@ -402,9 +382,7 @@ _05-May-22 01:32 AM_:
 
 same with me - Friday's best, anytime after 6pm GMT+1 time
 
-![https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png](https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png)
-
-rex
+<h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
 same with me - Friday's best, anytime after 6pm GMT+1 time
 
@@ -414,9 +392,7 @@ _05-May-22 08:32 AM_:
 
 See my request above about meeting. tks
 
-![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
-
-gene
+<h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 We chit chatted for a few minutes yesterday and gave ourselves the task of getting a copy of each working groups budget/ledger, categorizing the spending, and quantifying the rate of burn per category. Rex also suggested looking at Open Collective's UI to get an idea of how they demonstrate how spending works there and possibly being able to fork and adapt their work to our needs. But it was late yesterday for those two being in London and Florida, so I don't think anyone has made any progress yet and we'll defer to you for next steps. =)
 
@@ -447,15 +423,11 @@ Also I’d love to join you guys on that call
 
 
 
-![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
-
-bear100
+<h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 I did some financial statements (balance sheet, income statement, cash flow, operating expenses) for gravity in the past weeks for some proposal I did for them so I was thinking they could help with the analysis of the WGs. My plan was also to start doing those statements for other wgs at some point so maybe now can be a good time. But also I don’t wanna us to overlap on the work so let me know what you guys think
 
 [https://docs.google.com/spreadsheets/d/1Pd8feP0zW_mKaFesocYOMtpqTZMIUzWgZcQMUKmL6bI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Pd8feP0zW_mKaFesocYOMtpqTZMIUzWgZcQMUKmL6bI/edit?usp=sharing)
-
-(edited)
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -463,9 +435,7 @@ _05-May-22 04:35 PM_:
 
 Is there a reason why there isn't a separate line item on the March income statement for the income from the Gitcoin grant? Sorry, I'm not an accountant. But I am planning to do some grant writing for the TEC and some of the individual working groups; would it be correct to account for grant receipts as something like "unearned income?"
 
-![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
-
-gene
+<h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 Is there a reason why there isn't a separate line item on the March income statement for the income from the Gitcoin grant? Sorry, I'm not an accountant. But I am planning to do some grant writing for the TEC and some of the individual working groups; would it be correct to account for grant receipts as something like "unearned income?"
 
@@ -489,15 +459,11 @@ Doodle is the simplest way to schedule meetings with clients, colleagues, or fri
 
 
 
-![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
-
-gene
+<h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 Sincere apologies all for the pings and fumbles in configuring this meeting. Should be ready now. @Gideonro @rex @Anak @bear100 @Zeptimus @bends
 
 [https://doodle.com/meeting/participate/id/dR6VxRwd](https://doodle.com/meeting/participate/id/dR6VxRwd)
-
-(edited)
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -512,9 +478,7 @@ _07-May-22 02:21 PM_:
 
 how does the final calendar date get settled in this app?
 
-![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
-
-bear100
+<h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 Yes, that’s some of the questions I had myself too while doing this. I have a background in business but not specifically in accounting so I think there are some specifics that would be good to get advise on, specially for the balance sheet as I had a hard time figuring out how the different assets/liabilities/equity would look like for wgs. To what you are saying I think that could be right but maybe as part of the balance sheet instead? For the income statement I would leave it for direct income wgs could have based on sales of some service/product
 
@@ -568,9 +532,7 @@ _08-May-22 03:16 PM_:
 
 I didnt know about this. Looks interesting, and I think it would be worth taking it in consideration
 
-![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
-
-bear100
+<h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 Thats a really good question. I think going for automation in most of our processes should be one of the goals but I dont really know how to do it and the tools needed. Right now the most automated thing I can think of is Dune dahsboard and dework for compensation. It would be interesting to find a way to incorporate that data and translate it into more structured reports that could make the analysis easier and automated
 
@@ -582,9 +544,7 @@ I plan to do this. the things that dune can't do is budget categorization. (I be
 
 
 
-![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
-
-bear100
+<h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 I didnt know about this. Looks interesting, and I think it would be worth taking it in consideration
 
@@ -643,9 +603,7 @@ Variable costs are not recurring per project because projects change a lot every
 I need to go now but ill continue with the conversation in a few hours
 
 
-![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
-
-bear100
+<h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 Correct, so there were two cases in april 300 each = 600 for both cases. I agree on what you are saying about detail lagging. And thats an interesting challenge as well because so far what Ive encounter is that each WG does things differently including how they report their expenses and the detail with it. In this case with Gravity they have this document
 
@@ -752,9 +710,7 @@ _09-May-22 12:51 AM_:
 
 
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 @gene @bear100 @Zeptimus -- we have a time for the first Sampo Analyst call. Tuesday at 11:00 AM ESt. @rex, sorry you are the only one who indicated you can't make that time. Hopefully, something opens up for you. This meeting is open to anyone interested in helping the TEC to analyze our financial information. We will meet in the Sampo voice channel.
 
@@ -770,9 +726,7 @@ Discord is the easiest way to communicate over voice, video, and text. Chat, han
 
 I will join the schedule that is agree upon. I am quite flexible.
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 @gene @bear100 @Zeptimus -- we have a time for the first Sampo Analyst call. Tuesday at 11:00 AM ESt. @rex, sorry you are the only one who indicated you can't make that time. Hopefully, something opens up for you. This meeting is open to anyone interested in helping the TEC to analyze our financial information. We will meet in the Sampo voice channel.
 
@@ -840,9 +794,7 @@ _09-May-22 05:22 PM_:
 I will be there !! @Gideonro
 
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 @Sampo can you hear me?
 
@@ -858,9 +810,7 @@ _09-May-22 06:38 PM_:
 
 Hello! Is there already a logo for this working group? I need to add the info for this WG to the website
 
-![https://cdn.discordapp.com/avatars/159125298384863233/9e9193209460bcb47935b4d8c2cfa5aa.png](https://cdn.discordapp.com/avatars/159125298384863233/9e9193209460bcb47935b4d8c2cfa5aa.png)
-
-casale.eth
+<h3>casale.eth <img src="https://cdn.discordapp.com/avatars/159125298384863233/9e9193209460bcb47935b4d8c2cfa5aa.png" width=25 height=25></h3>
 
 Hello! Is there already a logo for this working group? I need to add the info for this WG to the website
 
@@ -872,9 +822,7 @@ We don't yet. @Mount Manu , do you know who did these logos?
 
 Or maybe, @markop - do you know?
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 Or maybe, @markop - do you know?
 
@@ -887,9 +835,7 @@ So there's a new WG in town? <img src="https://twemoji.maxcdn.com/2/72x72/1f642.
 
 Where can I read about it?
 
-![https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png](https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png)
-
-markop
+<h3>markop <img src="https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png" width=25 height=25></h3>
 
 I did, yes  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -915,9 +861,7 @@ Monday, May 9th, 2022 Hello <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.p
 
 ![https://forum.tecommons.org/uploads/default/original/1X/3c0f5280e0569e9f458f5031660f262080d01a84.png](https://forum.tecommons.org/uploads/default/original/1X/3c0f5280e0569e9f458f5031660f262080d01a84.png)
 
-![https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png](https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png)
-
-markop
+<h3>markop <img src="https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png" width=25 height=25></h3>
 
 I did, yes  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -952,9 +896,7 @@ It makes sense to understand the problem domain before we take harsh action
 
 mic's broken on this PC*
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 btw, I know @natesuits on his document shared some thoughts about the TEC investing, these guys have worked with some big projects on the space, sharing bc it may be worth to give it a shot
 
@@ -966,9 +908,7 @@ _10-May-22 04:57 PM_:
 
 @Gideonro
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 @Gideonro
 
@@ -979,9 +919,7 @@ _11-May-22 12:37 PM_:
 Man, I wish I could tell what they even do. It looks interesting but I'm getting kind of sick of web3 orgs feeling like web2 is so passé that they don't even need a website that explains who/what they are. Can you tell?
 
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 Man, I wish I could tell what they even do. It looks interesting but I'm getting kind of sick of web3 orgs feeling like web2 is so passé that they don't even need a website that explains who/what they are. Can you tell?
 
@@ -1013,9 +951,7 @@ _11-May-22 06:55 PM_:
 
 that's an interesting graph. tks. Hey, are you in Clarity, @Anak - and if so, can you change your profile name so we know it's you?
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 that's an interesting graph. tks. Hey, are you in Clarity, @Anak - and if so, can you change your profile name so we know it's you?
 
@@ -1069,9 +1005,7 @@ _13-May-22 05:30 PM_:
 
 this looks great - but surely this seems like part of transparency rather than sampo
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 Hey @Sampo! Here is the document detailing the Sampo strategy we went through on Tuesday's call. This is version 1.0 and still rough. Once we get your feedback, I'll revise, clean it up, and we'll take it out to a broader base of advisors as part of the TEC's advice process:
 
@@ -1111,9 +1045,7 @@ Connect your wallet, share token-gated documents, coordinate projects and propos
 
 
 
-![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
-
-bear100
+<h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 This is great Gideon! It is a great overview of what Sampo is looking to achieve. I think having these 3 phases will provide a lot of clarity and focus between the members of the wg towards generating and achieving very specific objectives within each phase  <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
@@ -1165,9 +1097,7 @@ Advancing the field of token engineering in a regenerative way. Stewarding the c
 
 
 
-![https://cdn.discordapp.com/avatars/159125298384863233/9e9193209460bcb47935b4d8c2cfa5aa.png](https://cdn.discordapp.com/avatars/159125298384863233/9e9193209460bcb47935b4d8c2cfa5aa.png)
-
-casale.eth
+<h3>casale.eth <img src="https://cdn.discordapp.com/avatars/159125298384863233/9e9193209460bcb47935b4d8c2cfa5aa.png" width=25 height=25></h3>
 
 By the way, Sampo is now in
 
@@ -1178,9 +1108,7 @@ By the way, Sampo is now in
 _19-May-22 04:31 PM_:
 Looks great, @casale.eth! Thanks so much! <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 Looks great, @casale.eth! Thanks so much!  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -1205,11 +1133,7 @@ Connect your wallet, share token-gated documents, coordinate projects and propos
 _21-May-22 10:39 AM_:
 Please do provide feedback and more questions, as we've started to already do the data discovery process <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-(edited)
-
-![https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png](https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png)
-
-rex
+<h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
 Hey there @Sampo I've edited this piece in Clarity giving a step-by-step of what we need to do over the next 2-3weeks.
 
@@ -1274,9 +1198,7 @@ Learn more
 ![https://i.ytimg.com/vi/gl1eOVtEz0o/maxresdefault.jpg](https://i.ytimg.com/vi/gl1eOVtEz0o/maxresdefault.jpg)
 
 
-![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
-
-bear100
+<h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 Hi everyone. Just wanted to share a general overview and graph about the finances of all the WGs Ive been working on. Its all based on dune and hopefully can help us get a clearer picture and add on to the sampo initiatives. Comment any thoughts or questions you may have.
 
@@ -1288,9 +1210,7 @@ _24-May-22 04:43 AM_:
 
 This looks great
 
-![https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png](https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png)
-
-rex
+<h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
 This looks great
 
@@ -1301,9 +1221,7 @@ _24-May-22 04:46 AM_:
 I'll try recreating your exact table on dune later today too (edited)
 
 
-![https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png](https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png)
-
-rex
+<h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
 I'll try recreating your exact table on dune later today too  (edited)
 
@@ -1335,9 +1253,7 @@ Clarity — The simplest workspace for decentralized teams
 
 Connect your wallet, share token-gated documents, coordinate projects and proposals, track tasks, trade notes, and build your own personal Wikipedia—in a familiar all-in-one workspace.
 
-![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
-
-bear100
+<h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 Hi everyone. Just wanted to share a general overview and graph about the finances of all the WGs Ive been working on. Its all based on dune and hopefully can help us get a clearer picture and add on to the sampo initiatives. Comment any thoughts or questions you may have.
 
@@ -1350,9 +1266,7 @@ _24-May-22 12:59 PM_:
 this is awesome - need to digest this a bit between now and the call today. great job
 
 
-![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
-
-bear100
+<h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 That would be awesome  <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
@@ -1362,15 +1276,11 @@ _24-May-22 02:45 PM_:
 
 @bear100 Here's the dune counterpart. Need to pivot to draw the chart, but there it is for now: [https://dune.com/queries/839327](https://dune.com/queries/839327) (edited)
 
-![https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png](https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png)
-
-rex
+<h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
 @bear100 Here's the dune counterpart. Need to pivot to draw the chart, but there it is for now:
 
 [https://dune.com/queries/839327](https://dune.com/queries/839327)
-
-(edited)
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
@@ -1378,15 +1288,11 @@ _24-May-22 02:52 PM_:
 
 not exact... -for now- (edited)
 
-![https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png](https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png)
-
-rex
+<h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
 @bear100 Here's the dune counterpart. Need to pivot to draw the chart, but there it is for now:
 
 [https://dune.com/queries/839327](https://dune.com/queries/839327)
-
-(edited)
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -1415,9 +1321,7 @@ Everyone is welcome, join us every tuesday at 10 PM CET / 4 PM EST ⏰ Check out
 Twitter • 24-May-22 03:00 PM
 
 
-![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
-
-bear100
+<h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 It’s looking great. Once it’s all done it will be a super resource to have!
 
@@ -1444,9 +1348,7 @@ here's that same table as balance @bear100 (edited)
 
 I'll clean out the tokens to be just out and show ya that again
 
-![https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png](https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png)
-
-rex
+<h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
 I've requested access to your sheet, I believe we can trend that out and see when we'd hit the '11%'
 
@@ -1456,9 +1358,7 @@ _24-May-22 03:41 PM_:
 
 I just gave you access to it. Yeah, that would be great
 
-![https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png](https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png)
-
-rex
+<h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
 can we add a row being TEC treasury balance on the 1st of that month  (edited)
 
@@ -1618,9 +1518,7 @@ _06-Jun-22 12:51 PM_:
 Lively conversation on the Sampo funding proposal on the forum. I just replied the following to @akrtws (TE Academy): I will amend the proposal, @akrtws. I’m adding treasury management to tomorrow’s Sampo call. What I’m thinking right now is having a part-time treasury coordination lead to drive this effort. This will add to the proposal costs, but it’s clear there’s energy here and it will more than pay for itself. The first step will be figuring out how we modify the parameters on conviction voting to free up enough funds from the common pool to generate meaningful yield. From there, it will be more about risk-reward policies and the actual management of the fund. Nailing these details will be the purpose of this part of the call. I will mention this in the Sampo channel. If anyone is interested, please connect there. I also recommend you attend tomorrow’s call if you can. cc: @Zeptimus, @gene, @Mert Ozd, @natesuits, @kristofer (edited)
 
 
-![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
-
-gene
+<h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 A little thought experiment, but one I mean quite literally. "What would be required for Sampo and TEC at large, to earn its first dollar/s of income today? Like literally before the end of the day. Is it possible? Why or why not? How would we do it? etc etc This is an attempt at, and experiment in, rapid triage response.
 
@@ -1682,9 +1580,7 @@ _06-Jun-22 07:09 PM_:
 
 hey sampo
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 It might make sense to look at the Sanpo group in a larger effort of the Balanced Scorecard- Sanpo being the Financial side
 
@@ -1694,9 +1590,7 @@ _06-Jun-22 09:16 PM_:
 
 yes, that's an interesting frame. Sampo is actually a mix of finance, business and services development, and fundraising at this point. over time, I'm guessing these could splinter off into distinct areas with finance as it's own thing
 
-![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
-
-gene
+<h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 Thanks @Gideonro for the kind response. I'm also particularly interested to hear what ideas others might have. I suspect that there are some serious gems right below the surface here just waiting to be unearthed. @kristofer mentioned now is the time for "controversial ideas" and I still agree. I'm drafting a forum post for a safe space to speak about controversial/"dumb"/moonshot ideas because I think there exists potential for people to remain quiet despite the fact that they may have a wonderful idea but are either afraid, or not sufficiently encouraged to share it. We need to mitigate that fear, and encourage that confidence. Ideas don't even have to be complete. Indeed the beginnings of the best ideas rarely, if ever, are. Just an inkling or a glimmer of suspicion could lead us to the abundance we seek. That just might be the Sampo machine reimagined, redesigned, re-divined.      <img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="$5" width=20 height=20>
 
@@ -1740,9 +1634,7 @@ Clarity — The simplest workspace for decentralized teams
 
 Connect your wallet, share token-gated documents, coordinate projects and proposals, track tasks, trade notes, and build your own personal Wikipedia—in a familiar all-in-one workspace.
 
-![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
-
-gene
+<h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 A little thought experiment, but one I mean quite literally. "What would be required for Sampo and TEC at large, to earn its first dollar/s of income today? Like literally before the end of the day. Is it possible? Why or why not? How would we do it? etc etc This is an attempt at, and experiment in, rapid triage response.
 
@@ -1752,9 +1644,7 @@ _07-Jun-22 03:29 PM_:
 
 Considering that our products/services/token utility are still in development process and might be more of a medium to long term revenue stream, I’ve been thinking that something we could sell in the short term, and to answer to your question, is the VISION/FUTURE of what we want the TEC to become and then focus on not just deliver that, but to over deliver in what we promise. One of the most obvious ways to achieve this probably is through fundraising, but we can get more creative as well, and in my opinion, and a model that’s been proven to work extremely well to raise money in a short amount of time, is a NFT 10,000 PFP collection. I don’t see why a llamas/pickles/apes collection could raise those amounts of money and not us. But there’s a big difference in the value proposition, the culture, the community and the plans the TEC has compared to those other projects, and I think that would make the difference in the long term.
 
-![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
-
-bear100
+<h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 Considering that our products/services/token utility are still in development process and might be more of a medium to long term revenue stream, I’ve been thinking that something we could sell in the short term, and to answer to your question, is the VISION/FUTURE of what we want the TEC to become and then focus on not just deliver that, but to over deliver in what we promise. One of the most obvious ways to achieve this probably is through fundraising, but we can get more creative as well, and in my opinion, and a model that’s been proven to work extremely well to raise money in a short amount of time, is a NFT 10,000 PFP collection. I don’t see why a llamas/pickles/apes collection could raise those amounts of money and not us. But there’s a big difference in the value proposition, the culture, the community and the plans the TEC has compared to those other projects, and I think that would make the difference in the long term.
 
@@ -1789,9 +1679,7 @@ _07-Jun-22 04:49 PM_:
 
 [https://karpatkey.com/](https://karpatkey.com/) and [https://llama.xyz/](https://llama.xyz/)
 
-![https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png](https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png)
-
-ygg_anderson
+<h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
 Goodwork on the dashboard @bear100 and @rex. That data can be piped into the proposal inverter. You should discuss with the PI backend team.
 
@@ -1805,9 +1693,7 @@ I only selected the WG multisigs already available in dune and added common pool
 
 If there's another reserve address somewhere, or a contract with a non zero balance, I can add it to the visualisation
 
-![https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png](https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png)
-
-rex
+<h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
 If there's another reserve address somewhere, or a contract with a non zero balance, I can add it to the visualisation
 
@@ -1823,9 +1709,7 @@ Gnosis Safe is the most trusted platform to manage digital assets on Ethereum
 
 ![https://gnosis-safe.io/app/resources/og-image.png](https://gnosis-safe.io/app/resources/og-image.png)
 
-![https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png](https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png)
-
-ygg_anderson
+<h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
 PI funds are on ETH mainnet;
 
@@ -1859,9 +1743,7 @@ DeFi made simple.
 ![https://yearn.finance/share.png](https://yearn.finance/share.png)
 
 
-![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
-
-mitch (🍔, 🍔)
+<h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
 what do you guys think about these protocols for passive income?
 
@@ -1881,9 +1763,7 @@ _08-Jun-22 10:55 AM_:
 
 I spent a little time digging into yearn the other night after Trent indicated this was a safe, straightforward option in his eyes, and in terms of the safety, from what I was able to gather, I would have to agree at this point. The protocol is intimately entwined with curve.fi and this implies further downstream synergies from multiple angles like the onsen function within sushi, pickle.finance, convex.finance, etc etc. The vault tokens are liquid even if the underlying assets are not. The an essential concept, as far as I could deduce, in terms of safety, is that the potential for value accumulation is almost irrefutable, if not entirely, based on the fact that tokens will continue to be added to the vault, and thus the vault price will continue to rise. That type of statement is usually foolhardy, I know, but I would encourage anyone to go ahead and read the docs, try to understand the concepts, and let's try to come together and re-explain these concepts to each other in plain language. Probably the most important aspect of all to be mindful of is not measuring the possibility for returns based on APR/APY but on a more general ROI consideration.
 
-![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
-
-mitch (🍔, 🍔)
+<h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
 what do you guys think about these protocols for passive income?
 
@@ -1911,9 +1791,7 @@ DeFi made simple.
 
 Is there a link to the data sheet that @rex was showcasing yesterday? I'm interested in bringing it to the PI team.
 
-![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
-
-bear100
+<h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 [https://docs.google.com/spreadsheets/d/1a1L3SWiQ118ZMC1CYukpykrhjMfZR0rTKvwBb2_ROvM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1a1L3SWiQ118ZMC1CYukpykrhjMfZR0rTKvwBb2_ROvM/edit?usp=sharing)
 
@@ -1923,9 +1801,7 @@ _08-Jun-22 02:11 PM_:
 
 1
 
-![https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png](https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png)
-
-rex
+<h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
 [https://dune.com/queries/887062](https://dune.com/queries/887062)
 
@@ -1968,9 +1844,7 @@ _09-Jun-22 03:49 PM_:
 
 ✅ Praise @Zeptimus, @gene, @Gideonro, @Crypto Zach, @JeffEmmett, @natesuits, @enti, @liviade, @ygg_anderson, @akrtws (TE Academy), @chuygarcia.eth, @Tam2140, @rex, @bear100 for joining this week's Sampo call
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 sadly enough i don't think a PFP collection would work for us, Gnosis afaik doesn't have a established NFT market and the perks those other projects offer aren't as compelling to the members of a community like the TEC
 
@@ -1988,9 +1862,7 @@ _13-Jun-22 10:57 AM_:
 
 Sampo Fund Managers
 
-![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
-
-bear100
+<h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 I think that’s where we could get creative and innovative with the perks and utility offered in the collection that is compelling for the Te community but also to new people that might not know about it but could be interested. Maybe even thinking about incorporating $TEC utility and the abc to it. On the technical side, I guess we could drop it on another chain like polygon and then bridge the funds when decided. Additionally I think it could add a really cool and fun cultural layer to the TEC
 
@@ -2019,9 +1891,7 @@ Clarity — The DAO Contribution Platform
 
 Clarity is the most advanced DAO contribution platform. Share task boards & docs, manage access with tokens, receive bounty payouts, and build your contributor reputation.
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 Here's the agenda for tomorrow's Sampo call:
 
@@ -2035,9 +1905,7 @@ _14-Jun-22 03:29 AM_:
 
 Just wondering, do TEC make any distinction between WG and project? In some DAOs, a proposal needs to be formally passed before it can become a project, and even needs support before it can become a proposal. How are TEC handling this? I'll happily redirect this question as needed. (edited)
 
-![https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png](https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png)
-
-innov8tor3
+<h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
 Just wondering, do TEC make any distinction between WG and project? In some DAOs, a proposal needs to be formally passed before it can become a project, and even needs support before it can become a proposal. How are TEC handling this? I'll happily redirect this question as needed.  (edited)
 
@@ -2057,9 +1925,7 @@ _14-Jun-22 06:00 PM_:
 
 ✅ Praise @Zeptimus, @Crypto Zach, @natesuits, @enti, @Mount Manu, @ygg_anderson, @Tam2140, @rex, @bear100 for participating in today's Sampo call where we worked on how to organize ourselves, how we work together, compensate our work, and token holding incentives.
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 There is definitely a distinction between a working group and other types of projects. Having just set up Sampo, there is a fair amount of process that goes into a working group set up (manifesto, etc.). And there is an advice process that you go through before putting the manifesto up on the forum:
 
@@ -2073,9 +1939,7 @@ _15-Jun-22 01:14 AM_:
 
 Wonderful, this is something I look for especially, and great to know it's here. I shall devour with interest. My process is a very simple one, and I'd like to see similar tooling used across many other DAOs. Idea ➡️ Sponsors and Supporters ➡️ Proposal ➡️ Project ➡️ Product ➡️ Data Analytics ➡️ Sustainability and Longevity Analysing those projects which get through, and why, would be sustaining to many DAOs. I've had RnDAO express interest, but I'd rather it were hosted by a practical DAO than a research DAO. Any suggestions about where best to locate this? (edited)
 
-![https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png](https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png)
-
-innov8tor3
+<h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
 Wonderful, this is something I look for especially, and great to know it's here. I shall devour with interest. My process is a very simple one, and I'd like to see similar tooling used across many other DAOs. Idea ➡️ Sponsors and Supporters ➡️ Proposal ➡️ Project ➡️ Product ➡️ Data Analytics ➡️ Sustainability and Longevity Analysing those projects which get through, and why, would be sustaining to many DAOs. I've had RnDAO express interest, but I'd rather it were hosted by a practical DAO than a research DAO. Any suggestions about where best to locate this?  (edited)
 
@@ -2085,9 +1949,7 @@ _15-Jun-22 10:52 AM_:
 
 Sounds like something that spans the work of Soft-Gov and the individual working groups. We are working on our project management flows within Sampo and you're welcome to join our calls.
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 Sounds like something that spans the work of Soft-Gov and the individual working groups. We are working on our project management flows within Sampo and you're welcome to join our calls.
 
@@ -2110,9 +1972,7 @@ _16-Jun-22 12:19 PM_:
 Hey everyone, so I'm about to start testing a few token gating tools so we can have a more direct way to talk to token holders as well as probably offer some other things down the road - I was going to wait till the next Sampo meeting but I think we can perfectly have this discussion async for the most part
 
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 Hey everyone, so I'm about to start testing a few token gating tools so we can have a more direct way to talk to token holders as well as probably offer some other things down the road - I was going to wait till the next Sampo meeting but I think we can perfectly have this discussion async for the most part
 
@@ -2122,9 +1982,7 @@ _16-Jun-22 12:33 PM_:
 
 Will think more about this but one thing for sure is support for ERC 1155 so that we could gate $TEC as well as a possible member NFT.
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 Will think more about this but one thing for sure is support for ERC 1155 so that we could gate $TEC as well as a possible member NFT.
 
@@ -2144,9 +2002,7 @@ _16-Jun-22 01:13 PM_:
 
 AND would probably do it. Not sure whether we'd ever need OR
 
-![https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png](https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png)
-
-ygg_anderson
+<h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
 @here For the squad that is interested in doing modelling with Sampo. I am suggesting that we sync in a 15 minute slot in the weekly WG instead of creating additional calls. I'm selfishly proposing this because the Sampo WG call is very good timing for me, and I want to avoid the overhead of setting up additional calls. I don't want to discourage people to continue connecting and collaborating, that's amazing. But for my personal involvement, I really prefer to make sync progress during the WG hour to set ourselves up for async work throughout the week. Cheers! PS don't let the markets get you down, pretty cool that TEC is backed by stables at this time.
 
@@ -2156,9 +2012,7 @@ _16-Jun-22 01:59 PM_:
 
 @ygg_anderson and I spoke about this and we're going to take 10-15 minutes in next week's call to explore how Sampo might be able to use modeling to solve some of our challenges
 
-![https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png](https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png)
-
-innov8tor3
+<h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
 I've thought further since my last post, but will try to synch in. Are all WG discussions recorded? Or is there a Sampo group folder with documents I could browse?
 
@@ -2186,9 +2040,7 @@ _16-Jun-22 05:52 PM_:
 [https://discord.com/events/810180621930070088/987095495673511967](https://discord.com/events/810180621930070088/987095495673511967)
 
 
-![https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png](https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png)
-
-ygg_anderson
+<h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
 @here For the squad that is interested in doing modelling with Sampo. I am suggesting that we sync in a 15 minute slot in the weekly WG instead of creating additional calls. I'm selfishly proposing this because the Sampo WG call is very good timing for me, and I want to avoid the overhead of setting up additional calls. I don't want to discourage people to continue connecting and collaborating, that's amazing. But for my personal involvement, I really prefer to make sync progress during the WG hour to set ourselves up for async work throughout the week. Cheers! PS don't let the markets get you down, pretty cool that TEC is backed by stables at this time.
 
@@ -2213,9 +2065,7 @@ _20-Jun-22 09:02 AM_:
 Here's an interesting thread on treasury patterns in DAOs at Gnosis/Zodiac - might be interesting for TEC as well: [https://discord.gg/vZ8jEWj3](https://discord.gg/vZ8jEWj3)
 
 
-![https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png](https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png)
-
-akrtws (TE Academy)
+<h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
 Here's an interesting thread on treasury patterns in DAOs at Gnosis/Zodiac - might be interesting for TEC as well:
 
@@ -2241,9 +2091,7 @@ _21-Jun-22 05:03 PM_:
 
 @Gideonro hey wanted to ask as well, for the token gating thing should I try to get in touch with someone at Bankless handling their strategy on that part?
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 @Gideonro hey wanted to ask as well, for the token gating thing should I try to get in touch with someone at Bankless handling their strategy on that part?
 
@@ -2255,9 +2103,7 @@ yeah, that would be super valuable
 
 I know someone at Forefront too who might have some valuable insight to share - she's super busy though, but I can ask
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 I know someone at Forefront too who might have some valuable insight to share - she's super busy though, but I can ask
 
@@ -2461,9 +2307,7 @@ Can someone point me to a Clarity primer...signed into Clarity with my MetaMask 
 
 ![https://cdn.discordapp.com/attachments/969685567455498310/993986907618942986/Screen_Shot_2022-07-05_at_5.00.05_PM.png](https://cdn.discordapp.com/attachments/969685567455498310/993986907618942986/Screen_Shot_2022-07-05_at_5.00.05_PM.png)
 
-![https://cdn.discordapp.com/avatars/901044103746289706/e95fe228c21c6e763fccd4d3642be34a.png](https://cdn.discordapp.com/avatars/901044103746289706/e95fe228c21c6e763fccd4d3642be34a.png)
-
-davidlidz
+<h3>davidlidz <img src="https://cdn.discordapp.com/avatars/901044103746289706/e95fe228c21c6e763fccd4d3642be34a.png" width=25 height=25></h3>
 
 Can someone point me to a Clarity primer...signed into Clarity with my MetaMask wallet but I wasn't allowed into the Treasury board.
 
@@ -2481,9 +2325,7 @@ if not, try the invite link again [https://app.clarity.so/invite-link/l5zc-cL-1t
 
 anything else lmk, i'm just a ping away :p
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 if you do, click on the "Groups" button at the top and join all the groups you may be interested in working, the one we were looking at today is "Sampo Fund Managers"
 
@@ -2494,9 +2336,7 @@ _05-Jul-22 05:21 PM_:
 That worked - I tried again and I’m in! Thanks so much!
 
 
-![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
-
-gene
+<h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 When is the Sampo Fund Managers call?
 

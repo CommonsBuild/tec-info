@@ -83,11 +83,9 @@ Hi guys! The latest Transparency call is now up on our Youtube channel <img src=
 
 To those who missed it but wanna know the latest updates, here's the link:
 
-[https://youtube.com/watch?v=6U16P37UPWo](https://youtube.com/watch?v=6U16P37UPWo)
+[W11 Transparency WG: Praising attendees, sharing call recordings, a... ](https://youtube.com/watch?v=6U16P37UPWo)
 
-[Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
-
-W11 Transparency WG: Praising attendees, sharing call recordings, a... <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
+<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 Thank you for watching! Hit <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
@@ -237,8 +235,6 @@ Any volunteers to record our meetings? Please write your names in the "April" ta
 
 [https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/
 
-(edited)
-
 TEC Call Recorders
 
 April Meeting/Event,Day,Time,Discord channel,Recorder's TG handle Week 1 (Apr5-9) Transparency,Monday,6AM PST / 9AM EST / 3PM CET,[https://discord.gg/CRSKAJtFMH,Ivy](https://discord.gg/CRSKAJtFMH,Ivy) Commons Swarm,Monday,11AM PST / 2PM EST / 8PM CET,1hive Discord,Zeptimus Communications,...
@@ -278,7 +274,6 @@ Monday 3pm CET, Bi-weekly
 
 Transparency Call Reminder
 
-*Click to see original message*
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -286,9 +281,7 @@ _26-Apr-21 08:11 AM_:
 
 ^Does this look right?
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 ^Does this look right?
 
@@ -397,15 +390,7 @@ W14 Transparency WG: Digital security documentation, audit, BOT upd...
 
 Timecodes: 00:00 - Intentions and distractions 2:36 - Call recorders 3:35 - Digital security documentation 5:54 - Audit 19:28 - BOT updates 24:46 - YouTube description <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-Thank you for watching! Hit <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
-
-and subscribe <img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=20 height=20>
-
-to support this work <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
-
-Join the Community <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
-
-on Discord
+Thank you for watching! Hit <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20> and subscribe <img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=20 height=20> to support this work <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20> Join the Community <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20> on Discord
 
 [https://discord.gg/uM4ZWDjNfK](https://discord.gg/uM4ZWDjNfK)
 
@@ -535,7 +520,6 @@ oh gosh
 
 Transparency Call Reminder
 
-*Click to see original message*
 
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
@@ -575,11 +559,8 @@ Database !dish praise to ,<--Telegram,Discord -->,!praise ,Canonical,Telegram,Di
 
 [https://lh3.googleusercontent.com/5ICf2uD8f1Y52BBtk3Ym47FxYBhAvTocuhNc_tj3BU9y0bI0WDxajDwfVq5Ko0IZB2UQgVOuGpYwBw=w1200-h630-p](https://lh3.googleusercontent.com/5ICf2uD8f1Y52BBtk3Ym47FxYBhAvTocuhNc_tj3BU9y0bI0WDxajDwfVq5Ko0IZB2UQgVOuGpYwBw=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png](https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png)
+<h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
-Juankbell
-
-*Click to see original message*
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -615,11 +596,8 @@ Monday 3pm CET, Bi-weekly
 
 ![https://raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_transparency.png](https://raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_transparency.png)
 
-![https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png](https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png)
+<h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
-Juankbell
-
-*Click to see original message*
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -633,9 +611,7 @@ Softgov This is the Softgov Working Group! Some of our main goals are: Research 
 
 [https://lh4.googleusercontent.com/rYIAz6ScVV6o-2hTX449JB7KY59PM-I8q1gGkOjeVUWMYb2Ey75_fo2DrEZKB2EqxzEPs3Y7C4hTAQ=w1200-h630-p](https://lh4.googleusercontent.com/rYIAz6ScVV6o-2hTX449JB7KY59PM-I8q1gGkOjeVUWMYb2Ey75_fo2DrEZKB2EqxzEPs3Y7C4hTAQ=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 [https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/
 
@@ -665,9 +641,7 @@ for exemple yesterday praise meeting was at the same time than hatcher outreach 
 _31-May-21 10:04 AM_:
 @Vyvy-vi no call today <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png](https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png)
-
-iviangita
+<h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
 @Vyvy-vi no call today   <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=20 height=20>
 
@@ -766,9 +740,7 @@ Use this category for financial proposals that will be sent to the Commons for a
 
 ![https://forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png](https://forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 hey hey! was looking to send a link to someone who wants to make a proposal that is super interesting. However, I still don't understand what is the proposal process and what is the difference of this list
 
@@ -844,9 +816,7 @@ Code of conduct for platforms The objective of this document is to be aware of w
 
 1
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 [https://docs.google.com/document/d/1DQwEJUYvKiwm6LaiGRM1P7YB48528WeBCsmZ39QB5VA/
 
@@ -876,15 +846,11 @@ Transparent log of burn events
 
 3
 
-![https://cdn.discordapp.com/avatars/394919909454512138/b66916eb105b5ef364edec67d20bb6fb.png](https://cdn.discordapp.com/avatars/394919909454512138/b66916eb105b5ef364edec67d20bb6fb.png)
-
-knobsDAO
+<h3>knobsDAO <img src="https://cdn.discordapp.com/avatars/394919909454512138/b66916eb105b5ef364edec67d20bb6fb.png" width=25 height=25></h3>
 
 Something to consider for this group would be starting to keep a transparent (token) "Burn Log" for TECH, as we do in Commons Stack:
 
 [https://wiki.commonsstack.org/transparent-log-of-burn-events](https://wiki.commonsstack.org/transparent-log-of-burn-events)
-
-(edited)
 
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
@@ -892,15 +858,11 @@ _17-Aug-21 10:39 AM_:
 
 Thank you Dan!
 
-![https://cdn.discordapp.com/avatars/394919909454512138/b66916eb105b5ef364edec67d20bb6fb.png](https://cdn.discordapp.com/avatars/394919909454512138/b66916eb105b5ef364edec67d20bb6fb.png)
-
-knobsDAO
+<h3>knobsDAO <img src="https://cdn.discordapp.com/avatars/394919909454512138/b66916eb105b5ef364edec67d20bb6fb.png" width=25 height=25></h3>
 
 Something to consider for this group would be starting to keep a transparent (token) "Burn Log" for TECH, as we do in Commons Stack:
 
 [https://wiki.commonsstack.org/transparent-log-of-burn-events](https://wiki.commonsstack.org/transparent-log-of-burn-events)
-
-(edited)
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -912,9 +874,7 @@ but are we going to burn tokens on tec?
 
 but totally agree we need to work on the transparency arround the token
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 but are we going to burn tokens on tec?
 
@@ -925,15 +885,11 @@ _17-Aug-21 01:09 PM_:
 Oh, that's a good question. Anyhow, just thinking ahead if by any chance it happens.
 
 
-![https://cdn.discordapp.com/avatars/394919909454512138/b66916eb105b5ef364edec67d20bb6fb.png](https://cdn.discordapp.com/avatars/394919909454512138/b66916eb105b5ef364edec67d20bb6fb.png)
-
-knobsDAO
+<h3>knobsDAO <img src="https://cdn.discordapp.com/avatars/394919909454512138/b66916eb105b5ef364edec67d20bb6fb.png" width=25 height=25></h3>
 
 Something to consider for this group would be starting to keep a transparent (token) "Burn Log" for TECH, as we do in Commons Stack:
 
 [https://wiki.commonsstack.org/transparent-log-of-burn-events](https://wiki.commonsstack.org/transparent-log-of-burn-events)
-
-(edited)
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -941,15 +897,11 @@ _17-Aug-21 06:53 PM_:
 
 This is so awesome! I want one for sourcecred
 
-![https://cdn.discordapp.com/avatars/394919909454512138/b66916eb105b5ef364edec67d20bb6fb.png](https://cdn.discordapp.com/avatars/394919909454512138/b66916eb105b5ef364edec67d20bb6fb.png)
-
-knobsDAO
+<h3>knobsDAO <img src="https://cdn.discordapp.com/avatars/394919909454512138/b66916eb105b5ef364edec67d20bb6fb.png" width=25 height=25></h3>
 
 Something to consider for this group would be starting to keep a transparent (token) "Burn Log" for TECH, as we do in Commons Stack:
 
 [https://wiki.commonsstack.org/transparent-log-of-burn-events](https://wiki.commonsstack.org/transparent-log-of-burn-events)
-
-(edited)
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -974,9 +926,7 @@ Admin Gravitons Stewards Onboarding Coordinators Subject Matter Experts Contribu
 _19-Aug-21 11:59 PM_:
 @ALOYSIOUS ^^ Are you as super into this as I am?? <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png](https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png)
-
-ryeder (they/them)
+<h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 @ALOYSIOUS ^^ Are you as super into this as I am??  <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=20 height=20>
 
@@ -1033,9 +983,7 @@ Approval voting is a single-winner voting method that allows voters to choose an
 
 ![https://i0.wp.com/electionscience.org/wp-content/uploads/2019/01/es-500.jpg?fit=500%2C500&ssl=1](https://i0.wp.com/electionscience.org/wp-content/uploads/2019/01/es-500.jpg?fit=500%2C500&ssl=1)
 
-![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
-
-gene
+<h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 i would appreciate a chance to discuss a few points privately or otherwise whenever someone involved has a moment please
 
@@ -1056,9 +1004,7 @@ Types of Voting Snapshot Voting Single choice voting (Ivy) Approval voting (juan
 
 [https://lh6.googleusercontent.com/QXaq8ofFEPc_NDLgkwvLRrLbF05CtmTA3deOIWzBrj6Xy3TMl46r0VMQP5Irptis31N3nOy4rd-VPg=w1200-h630-p](https://lh6.googleusercontent.com/QXaq8ofFEPc_NDLgkwvLRrLbF05CtmTA3deOIWzBrj6Xy3TMl46r0VMQP5Irptis31N3nOy4rd-VPg=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
-
-gene
+<h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 I have a few questions or concerns about this particular proposal:
 
@@ -1072,9 +1018,7 @@ hey gene!
 
 wich are ur questions?
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 wich are ur questions?
 
@@ -1086,9 +1030,7 @@ Hi Zepti <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height
 Thank you for responding. I probably should have removed that post but left it in "transparency" for the sake of "radical transparency". I feel like I have been able to find answers to my questions (which were poor questions anyway) and that my concerns have turned out to be unfounded. I'm trying hard to do a better job of gathering all the available information for myself without needing my hand held, and understanding all the implications of each proposal/discussion/topic etc without speaking prematurely, blowing a fuse, or worse, "crying wolf". My process of development is proving to be slower than I'd like to admit, but I'm actively doing my best to improve. Thanks for your patience and kindness.
 
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 Hey @gene - my DMs are open, feel free to drop a line.  <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=20 height=20>
 
@@ -1149,9 +1091,7 @@ _11-Oct-21 10:12 AM_:
 
 Hey @Zeptimus @iviangita - I was not able to get OBS to either window or display capture on either my desktop or laptop today! Sorry but I think I am not going to be able to record the Communitas call today. The audio works fine, which can be a last resort option.
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 Hey @Zeptimus @iviangita - I was not able to get OBS to either window or display capture on either my desktop or laptop today! Sorry but I think I am not going to be able to record the Communitas call today. The audio works fine, which can be a last resort option.
 
@@ -1166,9 +1106,7 @@ I'll be there and record the call
 _11-Oct-21 10:15 AM_:
 It's so late for you! <img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 It's so late for you!  <img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=20 height=20>
 
@@ -1284,9 +1222,7 @@ _08-Nov-21 12:54 PM_:
 
 @mitch (🍔, 🍔) @Tam2140 We add the vote for the initial buy tomorrow right? I suggest propose what we already have and if it passes we add all those nominations and make a vote (i could take the second vote with some review before post)
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 @mitch (🍔, 🍔) @Tam2140 We add the vote for the initial buy tomorrow right? I suggest propose what we already have and if it passes we add all those nominations and make a vote (i could take the second vote with some review before post)
 
@@ -1302,9 +1238,7 @@ _08-Nov-21 01:15 PM_:
 
 @chuygarcia.eth Could we get a tweet when it's posted?
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 @chuygarcia.eth Could we get a tweet when it's posted?
 
@@ -1315,9 +1249,7 @@ _08-Nov-21 01:37 PM_:
 sure! i'll start a draft
 
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 @mitch (🍔, 🍔) @Tam2140 We add the vote for the initial buy tomorrow right? I suggest propose what we already have and if it passes we add all those nominations and make a vote (i could take the second vote with some review before post)
 
@@ -1406,11 +1338,7 @@ _15-Nov-21 03:58 PM_:
 _28-Nov-21 08:29 PM_:
 Hey @iviangita or @Zeptimus is it possible for any of you to record tomorrow's communitas call? <img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=20 height=20>
 
-(edited)
-
-![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
-
-Edu - TEC Steward.
+<h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
 Hey @iviangita or @Zeptimus is it possible for any of you to record tomorrow's communitas call?   (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=20 height=20>
 
@@ -1453,9 +1381,7 @@ WOOOOOOOOOOOOOOOOO!!! thats huge thanks for sharing edu
 _13-Dec-21 03:03 PM_:
 Dropped the Communitas video on YouTube! (I didn't edit the meta data, just uploaded the file!!) <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 Dropped the Communitas video on YouTube! (I didn't edit the meta data, just uploaded the file!!)  <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=20 height=20>
 
@@ -1520,9 +1446,7 @@ _09-Jan-22 03:49 PM_:
 
 Hi @Zeptimus, Since I had to leave the Friday debate before it ended I went to look for the recording to watch the rest I missed but didn't find it on our YouTube channel. Was there a problem with the recording?
 
-![https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png](https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png)
-
-Jeremy&TheGospelOfChange
+<h3>Jeremy&TheGospelOfChange <img src="https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png" width=25 height=25></h3>
 
 Hey all I am In love with what I am seeing on YouTube this last week! Who do I have to thank for that?
 
@@ -1532,9 +1456,7 @@ _09-Jan-22 03:50 PM_:
 
 Right!? All credit to @Zeptimus and @iviangita!
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 Hi @Zeptimus, Since I had to leave the Friday debate before it ended I went to look for the recording to watch the rest I missed but didn't find it on our YouTube channel. Was there a problem with the recording?
 
@@ -1550,9 +1472,7 @@ hey tam is on my computer friday ended very late im going back home will do even
 _10-Jan-22 03:33 PM_:
 Hey @Zeptimus you ever just keep letting OBS run way way WAY after the call has ended!? I'm going to try to trim off the far before uploading to YouTube. <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 Hey @Zeptimus you ever just keep letting OBS run way way WAY after the call has ended!? I'm going to try to trim off the far before uploading to YouTube.  <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=20 height=20>
 
@@ -1562,9 +1482,7 @@ _10-Jan-22 04:01 PM_:
 
 sorted. It's on youtube now.
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 Hey @Zeptimus you ever just keep letting OBS run way way WAY after the call has ended!? I'm going to try to trim off the far before uploading to YouTube.  <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=20 height=20>
 
@@ -1572,8 +1490,6 @@ Hey @Zeptimus you ever just keep letting OBS run way way WAY after the call has 
 
 _11-Jan-22 02:28 AM_:
 great i normally use premier to edit but the youtube tool works fine <img src="https://twemoji.maxcdn.com/2/72x72/1f603.png" width=20 height=20>
-
-(edited)
 thanks tam
 
 
@@ -1647,9 +1563,7 @@ _17-Jan-22 03:05 PM_:
 
 Hey @Zeptimus @iviangita just dropped the communitas weekly on YouTube.
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 Hey @Zeptimus @iviangita just dropped the communitas weekly on YouTube.
 
@@ -1682,9 +1596,7 @@ DM the Credential Curators or fill out this Typeform with questions like asking 
 this process is on advice process :D
 
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Hey @iviangita @Zeptimus In #🎑｜omega we decided to update the whole community on the Consilience Library I'd need Medium access to post a blog post under the TEC account - the credentials management doc mentions @natesuits there?
 
@@ -1727,9 +1639,7 @@ _01-Feb-22 07:32 PM_:
 @Zeptimus @iviangita @Juankbell @Tam2140 @natesuits @jh @santteegt: Hello all, I am currently putting together a spreadsheet to be used by all persons involved with the Transparency WG proposal. This document will be used for time & activity tracking as well as the main document used by the multi-sig holders to determine monthly payouts. This document will be made available by the end of the week. A key piece of information that will be required is a valid wallet address in order to received compensation for the work performed. Prior to providing this wallet address please take necessary precautions as your wallet address and username will be made public as part of transparency guidelines. It is advised that all participating members provide a new wallet address that is separate from your main holdings address. There are two options (and please correct me): affected members can submit/post their wallet addresses here in the Transparency WG channel **OR** post the information in the designated locations once the spreadsheet is made available. If there are any questions/concerns please feel free to contact @Zeptimus , @iviangita or myself. (edited)
 
 
-![https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png](https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png)
-
-Ratio13
+<h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
 @Zeptimus @iviangita @Juankbell @Tam2140 @natesuits @jh @santteegt: Hello all, I am currently putting together a spreadsheet to be used by all persons involved with the Transparency WG proposal. This document will be used for time & activity tracking as well as the main document used by the multi-sig holders to determine monthly payouts. This document will be made available by the end of the week. A key piece of information that will be required is a valid wallet address in order to received compensation for the work performed. Prior to providing this wallet address please take necessary precautions as your wallet address and username will be made public as part of transparency guidelines. It is advised that all participating members provide a new wallet address that is separate from your main holdings address. There are two options (and please correct me): affected members can submit/post their wallet addresses here in the Transparency WG channel **OR** post the information in the designated locations once the spreadsheet is made available. If there are any questions/concerns please feel free to contact @Zeptimus , @iviangita or myself.  (edited)
 
@@ -1740,9 +1650,7 @@ _01-Feb-22 09:07 PM_:
 Thank you for this update Ratio, we can add the wallet address in the spreadsheet I think
 
 
-![https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png](https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png)
-
-Ratio13
+<h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
 @Zeptimus @iviangita @Juankbell @Tam2140 @natesuits @jh @santteegt: Hello all, I am currently putting together a spreadsheet to be used by all persons involved with the Transparency WG proposal. This document will be used for time & activity tracking as well as the main document used by the multi-sig holders to determine monthly payouts. This document will be made available by the end of the week. A key piece of information that will be required is a valid wallet address in order to received compensation for the work performed. Prior to providing this wallet address please take necessary precautions as your wallet address and username will be made public as part of transparency guidelines. It is advised that all participating members provide a new wallet address that is separate from your main holdings address. There are two options (and please correct me): affected members can submit/post their wallet addresses here in the Transparency WG channel **OR** post the information in the designated locations once the spreadsheet is made available. If there are any questions/concerns please feel free to contact @Zeptimus , @iviangita or myself.  (edited)
 
@@ -1756,9 +1664,7 @@ _02-Feb-22 04:57 AM_:
 
 1
 
-![https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png](https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png)
-
-Ratio13
+<h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
 @Zeptimus @iviangita @Juankbell @Tam2140 @natesuits @jh @santteegt: Hello all, I am currently putting together a spreadsheet to be used by all persons involved with the Transparency WG proposal. This document will be used for time & activity tracking as well as the main document used by the multi-sig holders to determine monthly payouts. This document will be made available by the end of the week. A key piece of information that will be required is a valid wallet address in order to received compensation for the work performed. Prior to providing this wallet address please take necessary precautions as your wallet address and username will be made public as part of transparency guidelines. It is advised that all participating members provide a new wallet address that is separate from your main holdings address. There are two options (and please correct me): affected members can submit/post their wallet addresses here in the Transparency WG channel **OR** post the information in the designated locations once the spreadsheet is made available. If there are any questions/concerns please feel free to contact @Zeptimus , @iviangita or myself.  (edited)
 
@@ -1797,9 +1703,7 @@ Audit masterfile: [https://docs.google.com/document/d/1z2TDCnHKYyiFTvwueBxnt9BC4
 
 TEC Transparency Audit (Feb-Apr 2022)
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 [https://dune.xyz/tecommons/TECommons](https://dune.xyz/tecommons/TECommons)
 
@@ -1855,9 +1759,7 @@ Main - March Payout Distributio Payout Distribution Person,Month,Total Hours,Wal
 
 [https://lh5.googleusercontent.com/iqJ66yqpLRyUQblSHTdmlzSqiH-W8wx_KjLeED-fepjs3RpRKlgVXPu9T2YISPgETGq9pBn_lTy6-g=w1200-h630-p](https://lh5.googleusercontent.com/iqJ66yqpLRyUQblSHTdmlzSqiH-W8wx_KjLeED-fepjs3RpRKlgVXPu9T2YISPgETGq9pBn_lTy6-g=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 #🕵｜transparency WG leads >> Any issue I need to be aware of blocking publication of a draft post I submitted on Medium? Slowdown because of credentials management?
 
@@ -1874,9 +1776,7 @@ _07-Feb-22 03:18 PM_:
 @Zeptimus @iviangita The communitas weekly is being uploaded to Youtube now. Apologies, I joined late so the first few mins are missing.
 
 
-![https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png](https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png)
-
-Ratio13
+<h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
 Hello all @Zeptimus @iviangita @acidlazzer @Tam2140 @Juankbell @natesuits . As discussed before a new document has been created for those who are working on the latest Transparency WG proposal. The document requires a wallet address in order to receive compensation. Each individual has their own sheet in order to track weekly activities. The document is rather self-explanatory but if there any questions or I have missed someone please feel free to reach out to @Ratio13 . Since we are now in the 2nd week of February I am asking that all members please fill in their respective wallet and information for the past week. The document is here:
 
@@ -1892,9 +1792,7 @@ Why I have more here? @Ratio13 <img src="https://twemoji.maxcdn.com/2/72x72/1f91
 
 ![https://cdn.discordapp.com/attachments/810180622634844207/940653513837514802/unknown.png](https://cdn.discordapp.com/attachments/810180622634844207/940653513837514802/unknown.png)
 
-![https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png](https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png)
-
-acidlazzer
+<h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
 Why I have more here? @Ratio13  <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
@@ -1904,9 +1802,7 @@ _08-Feb-22 12:39 PM_:
 
 I'll check it out and get back to you. -- Your personal sheet was used when demonstrating. Once you start adding the activities you performed to your sheet the amount will be adjusted accordingly. Everyone's balances are just samples and do not relflect the actual payout. (edited)
 
-![https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png](https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png)
-
-Ratio13
+<h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
 I'll check it out and get back to you. -- Your personal sheet was used when demonstrating. Once you start adding the activities you performed to your sheet the amount will be adjusted accordingly. Everyone's balances are just samples and do not relflect the actual payout.  (edited)
 
@@ -1929,9 +1825,7 @@ I’m interested in knowing how transparent we want to be with TEC’s money as 
 
 [https://lh6.googleusercontent.com/9tu2o-n62Zj2jiZLKJCocGulQ9DOXi0CbGNucB_50_AsV1klocNO5rLXGvoCQP_DdB2uE4kEh6D_Cg=w1200-h630-p](https://lh6.googleusercontent.com/9tu2o-n62Zj2jiZLKJCocGulQ9DOXi0CbGNucB_50_AsV1klocNO5rLXGvoCQP_DdB2uE4kEh6D_Cg=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png](https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png)
-
-iviangita
+<h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
 Audit masterfile:
 
@@ -2026,9 +1920,7 @@ Repository for transparency reports published by the SES Core Unit. - transparen
 
 those are some reports from the MakerDAO SES Unit
 
-![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
-
-Edu - TEC Steward.
+<h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
 [https://docs.google.com/presentation/d/18DGuSTsLgU2C2iNNcvoo2-27uL2Tcb1jfMaMGa9Zeyc/
 
@@ -2038,9 +1930,7 @@ _28-Feb-22 12:32 PM_:
 
 there's also this
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 those are some reports from the MakerDAO SES Unit
 
@@ -2072,9 +1962,7 @@ Hey team, gonna try to enter to the next calls <img src="https://twemoji.maxcdn.
 
 is there something you need help? Any designs? @iviangita @Zeptimus
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 @Ratio13 We need a tab for @enti here
 
@@ -2086,9 +1974,7 @@ _28-Feb-22 03:34 PM_:
 
 And maybe add a design option or something like that at the task tab :))
 
-![https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png](https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png)
-
-acidlazzer
+<h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
 And maybe add a design option or something like that at the task tab :))
 
@@ -2098,9 +1984,7 @@ _28-Feb-22 03:42 PM_:
 
 A design for what exactly?
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 @Ratio13 We need a tab for @enti here
 
@@ -2118,9 +2002,7 @@ _28-Feb-22 04:01 PM_:
 
 I make the designs for youtube
 
-![https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png](https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png)
-
-acidlazzer
+<h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
 Hey team, gonna try to enter to the next calls  is there something you need help? Any designs? @iviangita @Zeptimus <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -2130,9 +2012,7 @@ _28-Feb-22 06:06 PM_:
 
 awesome! lets talk about it on the next call
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 @Zeptimus Communitas WG call is uploading to Youtube now  <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=20 height=20>
 
@@ -2164,9 +2044,7 @@ _02-Mar-22 01:36 PM_:
 
 @Zeptimus & @iviangita Please see the activity sheet and check the Ratio13 tab and INSURE this is okay for the payout structure so that I may make final adjustment to coincide with your payout schedules. Thank you.
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 also... wouldn't compensation structures withing WGs be a nice add to the audit?  (edited)
 
@@ -2176,9 +2054,7 @@ _02-Mar-22 01:42 PM_:
 
 lets look deeper on it!
 
-![https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png](https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png)
-
-Ratio13
+<h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
 @Zeptimus & @iviangita Please see the activity sheet and check the Ratio13 tab and INSURE this is okay for the payout structure so that I may make final adjustment to coincide with your payout schedules. Thank you.
 
@@ -2210,9 +2086,7 @@ I don’t do the recordings <img src="https://twemoji.maxcdn.com/2/72x72/1f605.p
 
 not sure how that’s handled
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 I don’t do the recordings  not sure how that’s handled <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
@@ -2232,9 +2106,7 @@ Hey @nic what do you mean?
 
 ![https://cdn.discordapp.com/attachments/810180622634844207/949084362786349076/IMG_3621.png](https://cdn.discordapp.com/attachments/810180622634844207/949084362786349076/IMG_3621.png)
 
-![https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png](https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png)
-
-acidlazzer
+<h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
 Hey @nic what do you mean?
 
@@ -2264,9 +2136,7 @@ _03-Mar-22 11:04 PM_:
 
 I don't think it's a bot problem Those recordings are made using OBS, afaik
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 if you click and watch the video, its not a video, but just the same frozen screen the whole time, with the correct audio playing
 
@@ -2276,9 +2146,7 @@ _04-Mar-22 05:12 AM_:
 
 It was bad recorded :/
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 It was bad recorded :/
 
@@ -2288,9 +2156,7 @@ _04-Mar-22 08:11 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f622.png" wi
 
 How does recording work? How can we make sure it doesn’t happen again? Any tips? <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
  How does recording work? How can we make sure it doesn’t happen again? Any tips?  <img src="https://twemoji.maxcdn.com/2/72x72/1f622.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
@@ -2301,9 +2167,7 @@ i mean it was a mistake that normally do not happen <img src="https://twemoji.ma
 
 i normally present on the rewards call and recording 0mega with a laptop if someone volunteers to record 0mega weekly should be easier for me✨
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 i mean it was a mistake that normally do not happen  i normally present on the rewards call and recording 0mega with a laptop if someone volunteers to record 0mega weekly should be easier for me✨ <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
@@ -2326,9 +2190,7 @@ wensday was a disaster btw got a new monitor and rewards and stewards call also 
 
 with the voices
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 wensday was a disaster btw got a new monitor and rewards and stewards call also are recording second monitor im just uploading them like this
 
@@ -2350,9 +2212,7 @@ _07-Mar-22 08:03 AM_:
 
 @Zeptimus @iviangita I just lost access to decision making worksheet, FYI.
 
-![https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png](https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png)
-
-Ratio13
+<h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
 @Zeptimus @iviangita I just lost access to decision making worksheet, FYI.
 
@@ -2363,9 +2223,7 @@ _07-Mar-22 09:03 AM_:
 @liviade is the doc owner
 
 
-![https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png](https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png)
-
-Ratio13
+<h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
 @Zeptimus @iviangita I just lost access to decision making worksheet, FYI.
 
@@ -2375,9 +2233,7 @@ _07-Mar-22 09:15 AM_:
 
 what is you email @Ratio13 ?
 
-![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
-
-liviade
+<h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 what is you email @Ratio13 ?
 
@@ -2404,9 +2260,7 @@ _07-Mar-22 03:01 PM_:
 _08-Mar-22 07:14 AM_:
 @acidlazzer <img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 @Zeptimus @iviangita Communitas weekly uploading to Youtube now...
 
@@ -2422,9 +2276,7 @@ _09-Mar-22 11:46 PM_:
 
 I was wondering if I could please be allowed to create events in discord, would love to customise the 0mega event description to the planned agenda. Also it would be so awesome to be able to pin messages in order to improve onboarding to 0mega <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 @Zeptimus hey hey  I was wondering if I could please be allowed to create events in discord, would love to customise the 0mega event description to the planned agenda. Also it would be so awesome to be able to pin messages in order to improve onboarding to 0mega  <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
@@ -2435,9 +2287,7 @@ Hey Nic, you can create and modify events <img src="https://twemoji.maxcdn.com/2
 
 regarding the ping messages just sent a message to @Vyvy-vi on the stewards chat Sebnem and ygg were having that problem even having the steward role (which have this permission to pin messages)
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 Hey Nic, you can create and modify events  regarding the ping messages just sent a message to @Vyvy-vi on the stewards chat Sebnem and ygg were having that problem even having the steward role (which have this permission to pin messages) <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
@@ -2458,9 +2308,7 @@ Still dont know which task I should select haha @Zeptimus @Ratio13
 
 ![https://cdn.discordapp.com/attachments/810180622634844207/952813369755324416/IMG_4111.jpg](https://cdn.discordapp.com/attachments/810180622634844207/952813369755324416/IMG_4111.jpg)
 
-![https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png](https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png)
-
-acidlazzer
+<h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
 Still dont know which task I should select haha @Zeptimus @Ratio13
 
@@ -2495,9 +2343,7 @@ _14-Mar-22 01:32 PM_:
 _14-Mar-22 04:05 PM_:
 @Zeptimus the Communitas weekly is in progress of being uploaded to YT. <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 @Zeptimus the Communitas weekly is in progress of being uploaded to YT.  <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=20 height=20>
 
@@ -2523,9 +2369,7 @@ gm! I have structured each part of the audit this way. Wondering if we want to i
 
 ![https://cdn.discordapp.com/attachments/810180622634844207/955478919698587698/Screenshot_2022-03-21_at_10.50.10.png](https://cdn.discordapp.com/attachments/810180622634844207/955478919698587698/Screenshot_2022-03-21_at_10.50.10.png)
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 [https://github.com/makerdao-ses/transparency-reporting/tree/main/Monthly%20Budget%20Statements](https://github.com/makerdao-ses/transparency-reporting/tree/main/Monthly%2520Budget%2520Statements)
 
@@ -2542,9 +2386,7 @@ _21-Mar-22 10:59 AM_:
 !praise @enti for stepping in the transparency audit and sharing transparency report of makerdao
 
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 gm! I have structured each part of the audit this way. Wondering if we want to include an introductory paragraph for each section or if we rather just present the information like in the MakerDAO SES reports @Ratio13 @Zeptimus not sure if i should tag iviangita as well
 
@@ -2577,9 +2419,7 @@ _21-Mar-22 11:04 AM_:
 
 e.g. my part involves time-sensitive information so I'm planning to include the date/time, I don't think I know how to get the exact block
 
-![https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png](https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png)
-
-Ratio13
+<h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
 Yes to that question...lol
 
@@ -2589,9 +2429,7 @@ _21-Mar-22 11:04 AM_:
 
 yeah, wanna make sure we all do with our respective parts just in case hehe
 
-![https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png](https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png)
-
-Ratio13
+<h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
 @enti Is there now a unified document? Or is this just for your section of the audit?
 
@@ -2601,9 +2439,7 @@ _21-Mar-22 11:04 AM_:
 
 it's everything on the same document
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 e.g. my part involves time-sensitive information so I'm planning to include the date/time, I don't think I know how to get the exact block
 
@@ -2624,9 +2460,7 @@ Hey @Zeptimus - @bear100 reached out and kindly offered to help us with recordin
 
 
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 Hey @Zeptimus - @bear100 reached out and kindly offered to help us with recording the Communitas weekly on Mondays. When would you be able to onboard them!?
 
@@ -2644,9 +2478,7 @@ hey @Ratio13 just a heads up we had the meeting 1hr ago <img src="https://twemoj
 
 we were wondering if you were going to make it, i guess it was just a mistake for the recent DST change in Europe?
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 hey @Ratio13 just a heads up we had the meeting 1hr ago  we were wondering if you were going to make it, i guess it was just a mistake for the recent DST change in Europe? <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
@@ -2662,9 +2494,7 @@ _28-Mar-22 02:38 PM_:
 
 @Zeptimus Communitas WG call being uploaded to YouTube now (ended a little early)
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 @Zeptimus Communitas WG call being uploaded to YouTube now (ended a little early)
 
@@ -2688,9 +2518,7 @@ _31-Mar-22 02:40 PM_:
 Can working groups add any events relating to their working group to the calendar/discord? For example..if we hold a session in 0mega where people just hang out and vibe..could we add this to the calendar/discord?
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Can working groups add any events relating to their working group to the calendar/discord? For example..if we hold a session in 0mega where people just hang out and vibe..could we add this to the calendar/discord?
 
@@ -2705,9 +2533,7 @@ pls do!!
 _01-Apr-22 12:04 PM_:
 @enti @bear100 i would love to have you guys on Zenhub for coordination <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 @enti @bear100 i would love to have you guys on Zenhub for coordination  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
@@ -2719,9 +2545,7 @@ oh sure let's do it
 
 i think i'm already at the org so you just gotta assign me or ping me there @eenti
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 i think i'm already at the org so you just gotta assign me or ping me there @eenti
 
@@ -2731,9 +2555,7 @@ _01-Apr-22 01:13 PM_:
 
 great!
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 @enti @bear100 i would love to have you guys on Zenhub for coordination  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
@@ -2749,9 +2571,7 @@ _02-Apr-22 12:54 PM_:
 
 Token price audit: @iviangita @Ratio13 @enti - TEC-->2,56 - UNI GIV/TEC 2,40 (edited)
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 pls do!!
 
@@ -2761,9 +2581,7 @@ _03-Apr-22 01:45 PM_:
 
 Awesome thank you! How do I add to the TEC g calendar?
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Awesome thank you! How do I add to the TEC g calendar?
 
@@ -2801,9 +2619,7 @@ Hey everyone! We are finishing the first post-hatch Transparency Audit (yay!) an
 
 
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 btw did you guys agreed on something? Just to know if we’re going to keep the main doc simpler for the markdown version and append the other stuff  (edited)
 
@@ -2852,9 +2668,7 @@ AUDIT REPORT 0001 TRANSPARENCY WG Period: January 01 - March 31 of 2022 Presente
 
 [https://lh6.googleusercontent.com/kFlI5J4_Y9N_bVHKNYa6ujN7ob-eqYJvf71lGAm6zd0eu2qoPxaROMfa42J5vCWE9xvSuYdHDBrsog=w1200-h630-p](https://lh6.googleusercontent.com/kFlI5J4_Y9N_bVHKNYa6ujN7ob-eqYJvf71lGAm6zd0eu2qoPxaROMfa42J5vCWE9xvSuYdHDBrsog=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png](https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png)
-
-Ratio13
+<h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
 Left a comment here
 
@@ -2868,9 +2682,7 @@ _12-Apr-22 10:35 AM_:
 
 Yeah i was thinking on adding the doc from voting results you created and shorten the scope, show what decisions were made and thats it what do you think?
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 Yeah i was thinking on adding the doc from voting results you created and shorten the scope, show what decisions were made and thats it what do you think?
 
@@ -2880,15 +2692,11 @@ _12-Apr-22 10:42 AM_:
 
 I have shared my thoughts on this. Even providing the proposals, link, budget, passed by as shown in the proposal will make the section look sloppy and overly complicated. This is why I created the metrics to put in the respective sections that I have since removed. I can just put a summary in the those sections (i.e. 27 proposals passed, avg. request 45,000 wxDAI, with an average yes vote of 97 %) then provide the link to the spreadsheet for reference. These are the only things I can come up with that will make the section useful, non-repetitive and legible. Out of ideas, every time I look at it, I am out of additional ideas. I don't want to spend the time to later remove everything or a large percentage of it.
 
-![https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png](https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png)
-
-Ratio13
+<h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
 Here is the link to the Voting Results Q1/2022 spreadsheet. Whomever is compiling the documents may want to make a copy for the Audit Report. There is a high likelihood it will get deleted from my docs in due time.
 
 [https://docs.google.com/spreadsheets/d/1yPuReLbzUdb-xWhsKNr_aiK4YwpT6UtgiRw1ItmsxjU/
-
-(edited)
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -2920,9 +2728,7 @@ _12-Apr-22 11:44 AM_:
 
 @iviangita can you make the audit master file only comment and add @enti @Ratio13 and myself as editors? im planning to distribute it and want to keep it under control on what is being edited
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 @iviangita can you make the audit master file only comment and add @enti @Ratio13 and myself as editors? im planning to distribute it and want to keep it under control on what is being edited
 
@@ -2932,9 +2738,7 @@ _12-Apr-22 11:54 AM_:
 
 sure, please DM me your email addresses @enti @Ratio13
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 i know ratio is upset by all the changes and the fault of consensus, we should definitely prioritise finding a way to organise and move forward better and maybe consider reaching out to gravity if the issue is affecting any of you more than what it should
 
@@ -2965,9 +2769,7 @@ hey hey! I've noticed that in the latest 0mega wg video, it says this in the blu
 ![https://cdn.discordapp.com/attachments/810180622634844207/969254956488089621/unknown.png](https://cdn.discordapp.com/attachments/810180622634844207/969254956488089621/unknown.png)
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 hey hey! I've noticed that in the latest 0mega wg video, it says this in the blurb. I just wanted to correct it as 0mega meets weekly now  <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
@@ -2980,9 +2782,7 @@ _28-Apr-22 01:32 PM_:
 
 @iviangita , @EFRA needs your email to give you access to edit the figma
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 hey hey! I've noticed that in the latest 0mega wg video, it says this in the blurb. I just wanted to correct it as 0mega meets weekly now  <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
@@ -2991,9 +2791,7 @@ hey hey! I've noticed that in the latest 0mega wg video, it says this in the blu
 _28-Apr-22 01:34 PM_:
 Thank you for noticing it @nic . I’ll correct it right away <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
-
-bear100
+<h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 Thank you for noticing it @nic . I’ll correct it right away  <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
@@ -3074,9 +2872,7 @@ Main - April Payout Distribution Payout Distribution Person,Month,Total Hours,Wa
 
 request access pls
 
-![https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png](https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png)
-
-Ratio13
+<h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
 Left a comment here
 
@@ -3208,9 +3004,7 @@ _16-May-22 11:30 PM_:
 
 @Edu - TEC Steward. @iviangita @liviade @Tam2140 - I think it's worth incorporating the covenant into the process of member onboarding. I raise this since we're looking explicitly at what constitutes membership in the TEC as part of our current planning. We have the Terms and Conditions for joining the Discord server and it references portions of the covenant. But just wondering if some sort of agreement to the actual covenant itself should be part of becoming a member, just like the Initial Community Offering, etc. I might also be missing some piece of the puzzle here
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 @Edu - TEC Steward. @iviangita @liviade @Tam2140 - I think it's worth incorporating the covenant into the process of member onboarding. I raise this since we're looking explicitly at what constitutes membership in the TEC as part of our current planning. We have the Terms and Conditions for joining the Discord server and it references portions of the covenant. But just wondering if some sort of agreement to the actual covenant itself should be part of becoming a member, just like the Initial Community Offering, etc. I might also be missing some piece of the puzzle here
 
@@ -3227,9 +3021,7 @@ _19-May-22 11:59 AM_:
 
 How does the TEC recorder bot work?
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 How does the TEC recorder bot work?
 
@@ -3240,9 +3032,7 @@ Its just me recording from another device <img src="https://twemoji.maxcdn.com/2
 
 @nic
 
-![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
-
-bear100
+<h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 Its just me recording from another device  @nic <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
@@ -3253,9 +3043,7 @@ Oh haha <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=20 height=
 
 thank you for your work! Are you interested in attending the 0mega call in 30 mins for recording? All good if not as it’s quite late notice!
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Oh haha  thank you for your work! Are you interested in attending the 0mega call in 30 mins for recording? All good if not as it’s quite late notice! <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=20 height=20>
 
@@ -3323,9 +3111,7 @@ Main - April Payout Distribution Payout Distribution Person,Month,Total Hours,Wa
 
 [https://lh3.googleusercontent.com/qen-E1laUy9hSjXDXRPmhvHh9mtkZ8BVZBHSAGyzUiCTuXm0P45ysOtj5buj8KjWrWgithtDmfkb1A=w1200-h630-p](https://lh3.googleusercontent.com/qen-E1laUy9hSjXDXRPmhvHh9mtkZ8BVZBHSAGyzUiCTuXm0P45ysOtj5buj8KjWrWgithtDmfkb1A=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png](https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png)
-
-acidlazzer
+<h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
 I tried to write my hours but it is not reflected in the principal sheet, I did something wrong?  <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
@@ -3336,9 +3122,7 @@ I tried to write my hours but it is not reflected in the principal sheet, I did 
 _29-May-22 11:10 PM_:
 Its fixed now! <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
-
-Zeptimus
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 request access pls
 
@@ -3354,9 +3138,7 @@ _04-Jun-22 05:19 PM_:
 
 @enti no need to create an event imaginarium this week. We changed plans. Thank you for putting up the events!
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 @enti no need to create an event imaginarium this week. We changed plans. Thank you for putting up the events!
 
@@ -3387,9 +3169,7 @@ _06-Jun-22 12:03 PM_:
 
 Pinned a message.
 
-![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
-
-liviade
+<h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 sounds great to make everyone more aware of it. I think it would be nice to put a checkbox with the covenant on the discord onboarding. Currently the only interaction people have with it is in the Gardens
 
@@ -3401,9 +3181,7 @@ just picking up on this idea as part of the communitas conversation today, @Edu 
 
 @Costa, if we were to do this, it would mean adding these fields to the spreadsheet, and once all are completed, then you have your answer for whether the newcomer has become a member.
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 just picking up on this idea as part of the communitas conversation today, @Edu - TEC Steward., @liviade, @Tam2140. what if the initial requirements to membership were, as we discussed, praise activation, orientation, initial community offering, and in addition, cryptographically signing this TEC community covenant? Pass these, and you're a member and you get the TEC membership NFT.
 
@@ -3414,9 +3192,7 @@ _06-Jun-22 03:30 PM_:
 i think that's great :))
 
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 just picking up on this idea as part of the communitas conversation today, @Edu - TEC Steward., @liviade, @Tam2140. what if the initial requirements to membership were, as we discussed, praise activation, orientation, initial community offering, and in addition, cryptographically signing this TEC community covenant? Pass these, and you're a member and you get the TEC membership NFT.
 
@@ -3426,9 +3202,7 @@ _07-Jun-22 07:16 AM_:
 
 Is it possible to sign the covenant from the Praise systems?
 
-![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
-
-Edu - TEC Steward.
+<h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
 Is it possible to sign the covenant from the Praise systems?
 
@@ -3444,9 +3218,7 @@ _08-Jun-22 04:27 PM_:
 
 I was just about to submit the Sampo funding proposal on Gardens and learned that it's here where we need to first sign the Community Covenant. Works exactly as I would hope, (i.e. with a wallet confirmation and transaction record) - it's just that how many people actually get to this? I wasn't even prompted to do this in order to vote (at least I don't remember that...)
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 I was just about to submit the Sampo funding proposal on Gardens and learned that it's here where we need to first sign the Community Covenant. Works exactly as I would hope, (i.e. with a wallet confirmation and transaction record) - it's just that how many people actually get to this? I wasn't even prompted to do this in order to vote (at least I don't remember that...)
 
@@ -3459,9 +3231,7 @@ You just have to sign the covenant if creating or challenging proposals
 
 it should be fairly easy to integrate it somewhere so you must post the tx somewhere in the onboarding process but yeah
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 it should be fairly easy to integrate it somewhere so you must post the tx somewhere in the onboarding process but yeah
 
@@ -3471,9 +3241,7 @@ _08-Jun-22 05:15 PM_:
 
 good to know. tks
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 @Costa, if we were to do this, it would mean adding these fields to the spreadsheet, and once all are completed, then you have your answer for whether the newcomer has become a member.
 
@@ -3489,9 +3257,7 @@ _14-Jun-22 03:42 AM_:
 
 Hey everyone. Just wondering with pinned posts in Working Groups, which now seem also to include Projects ... I can understand very new projects not having pinned posts, and can see great examples of post pinning, typically the stewards channel was a pick for me. But wouldn't we expect pinned posts in all established WGs? The surprise for me was nothing in Soft Gov ...
 
-![https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png](https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png)
-
-innov8tor3
+<h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
 Hey everyone. Just wondering with pinned posts in Working Groups, which now seem also to include Projects ... I can understand very new projects not having pinned posts, and can see great examples of post pinning, typically the stewards channel was a pick for me. But wouldn't we expect pinned posts in all established WGs? The surprise for me was nothing in Soft Gov ...
 
@@ -3502,9 +3268,7 @@ _15-Jun-22 12:11 PM_:
 I think @jasontphelpsNH and the people in communitas are currently working on updating and homogenizing the pinned posts across WGs.
 
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 it should be fairly easy to integrate it somewhere so you must post the tx somewhere in the onboarding process but yeah
 

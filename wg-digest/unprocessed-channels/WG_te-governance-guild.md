@@ -13,8 +13,6 @@ After 19-Mar-21 12:00 AM
 _06-May-22 11:57 AM_:
 @akrtws (TE Academy) @zhiwei @inventandchill @pat.zip (TE Academy) new channel <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
-(edited)
-
 
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
@@ -39,9 +37,7 @@ _10-May-22 08:29 AM_:
 
 @Tam2140
 
-![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
-
-liviade
+<h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 we could discuss policies async. 1 - what is the process to become a guild member 2 - what is the process for projects to receive feedback from the guild any other points we need to define?
 
@@ -79,9 +75,7 @@ _11-May-22 01:14 PM_:
 @zhiwei @inventandchill @Thomas @Emerick - Figment - the task of next week's session: - propose a guild project you'd like to work on - relevant for the TE community - motivated by your personal interest - add some facts: - how much time would you like to invest - what's the result? when consider it a success? - by when you'd like to achieve this result? @Thomas could you take over facilitating the next session? Let me know if you have any questions.
 
 
-![https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png](https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png)
-
-akrtws (TE Academy)
+<h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
 @zhiwei @inventandchill @Thomas @Emerick - Figment - the task of next week's session: - propose a guild project you'd like to work on - relevant for the TE community - motivated by your personal interest - add some facts: - how much time would you like to invest - what's the result? when consider it a success? - by when you'd like to achieve this result? @Thomas could you take over facilitating the next session? Let me know if you have any questions.
 
@@ -125,9 +119,7 @@ _01-Jun-22 06:58 AM_:
 
 Hi @zhiwei get well soon again! Everyone: let's have a brief checkin today after the Bsci meeting. And postpone all other topics to next week.
 
-![https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png](https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png)
-
-akrtws (TE Academy)
+<h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
 Hi @zhiwei get well soon again! Everyone: let's have a brief checkin today after the Bsci meeting. And postpone all other topics to next week.
 
@@ -178,9 +170,7 @@ The tokenomics comparison is 100% sth interesting to MANY. I wonder how to get v
 Thomas 03-Jun-22 02:45 AM
 Hey everyone, I was wondering if any of you have some concrete data on the impact of Coordinape on a DAOs? i.e. when does it work well and when does it not. PrimeDAO is thinking about implementing Coordinape but I feel like it is developing into a discussion of anecdotal evidence (I am guilt too). Happy for any resources <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/825058392300847185/9cd392d338b36e512f7e94d150a851e5.png](https://cdn.discordapp.com/avatars/825058392300847185/9cd392d338b36e512f7e94d150a851e5.png)
-
-inventandchill
+<h3>inventandchill <img src="https://cdn.discordapp.com/avatars/825058392300847185/9cd392d338b36e512f7e94d150a851e5.png" width=25 height=25></h3>
 
 [https://docs.google.com/spreadsheets/d/17_Ne8WNGt72GT4DoTRk9FX1BsSwoxwCHXc2JxzIAIsw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17_Ne8WNGt72GT4DoTRk9FX1BsSwoxwCHXc2JxzIAIsw/edit?usp=sharing)
 
@@ -188,8 +178,6 @@ inventandchill
 
 Thomas 03-Jun-22 02:46 AM
 @inventandchill can I jam on this by editing the doc - I have a couple of ideas <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
-
-(edited)
 
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
@@ -204,9 +192,7 @@ _03-Jun-22 02:52 AM_:
 Hi Thomas! Free to add anything for everybody!
 
 
-![https://cdn.discordapp.com/avatars/825058392300847185/9cd392d338b36e512f7e94d150a851e5.png](https://cdn.discordapp.com/avatars/825058392300847185/9cd392d338b36e512f7e94d150a851e5.png)
-
-inventandchill
+<h3>inventandchill <img src="https://cdn.discordapp.com/avatars/825058392300847185/9cd392d338b36e512f7e94d150a851e5.png" width=25 height=25></h3>
 
 [https://docs.google.com/spreadsheets/d/17_Ne8WNGt72GT4DoTRk9FX1BsSwoxwCHXc2JxzIAIsw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17_Ne8WNGt72GT4DoTRk9FX1BsSwoxwCHXc2JxzIAIsw/edit?usp=sharing)
 
@@ -223,9 +209,7 @@ RawMetrics Raw Metrics - what variables are available without doing math Metric,
 [https://lh5.googleusercontent.com/Hvn-xP3ZhUT9lSc8uU67AjV-amM5sLZe0XOcWUk72XvJkstvkcOgpWlENZeGJ4tZQY_PUc2OF5hDpw=w1200-h630-p](https://lh5.googleusercontent.com/Hvn-xP3ZhUT9lSc8uU67AjV-amM5sLZe0XOcWUk72XvJkstvkcOgpWlENZeGJ4tZQY_PUc2OF5hDpw=w1200-h630-p)
 
 
-![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
-
-liviade
+<h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 this is the doc @bends was working on for TEC health metrics
 
@@ -239,9 +223,7 @@ Thomas 09-Jun-22 03:36 PM
 
 Hi all, I have the potential to get some contributors from prime involved into the project (nothing confirmed yet - I just know of some interest/ shared work). Here the intention is not to add them to the guild but to the project too pool work done to the project. Wdyt? 1 concerns I have: - if it should get to funding - more contributor = more money = more difficult? (edited)
 
-![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
-
-liviade
+<h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 this is the doc @bends was working on for TEC health metrics
 
@@ -256,9 +238,7 @@ We should definitely take most of them over <img src="https://twemoji.maxcdn.com
 
 Great Basis
 
-![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
-
-liviade
+<h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 this is the doc @bends was working on for TEC health metrics
 
@@ -310,9 +290,7 @@ _14-Jun-22 11:40 AM_:
 
 Hi @Thomas and guild! I've added some notes in the doc - regarding the DAOs to include in a comparison, feel free to take a look. On the next meeting tomorrow: I have a calendar conflict and won't be able to join. @inventandchill could you run the session, share a Google Meet/Zoom link, and facilitate? Thanks! (edited)
 
-![https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png](https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png)
-
-innov8tor3
+<h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
 Try looking in Bankless, who have channels focused on contributor MH ...
 
@@ -375,9 +353,7 @@ I'll be in an AMA with commons stack and unfortunately can't join again :(
 
 was there anything from last week that I can catch up async?
 
-![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
-
-liviade
+<h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 was there anything from last week that I can catch up async?
 
@@ -400,9 +376,7 @@ Decentralized autonomous organizations (DAOs) are a staple of web3. Internet-nat
 
 ![https://blog.chainalysis.com/wp-content/uploads/2022/05/Web3-DAO.png](https://blog.chainalysis.com/wp-content/uploads/2022/05/Web3-DAO.png)
 
-![https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png](https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png)
-
-akrtws (TE Academy)
+<h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
 Dissecting the DAO: Web3 Ownership is Surprisingly Concentrated
 
@@ -429,9 +403,7 @@ _27-Jun-22 01:01 PM_:
 
 I was trying to find out what data sources they've used, have you found any info?
 
-![https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png](https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png)
-
-akrtws (TE Academy)
+<h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
 I was trying to find out what data sources they've used, have you found any info?
 

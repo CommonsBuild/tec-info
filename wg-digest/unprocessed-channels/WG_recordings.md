@@ -442,9 +442,7 @@ _12-May-21 12:33 PM_:
 
 :red_circle: **Recording audio on #deleted-channel** *Session ID: 31260b31-06c9-47b2-a129-cbc2103ea058* . . . :warning: *save before stopping recording, otherwise recording will be deleted FOREVER!*
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 oh, my bad  <img src="https://twemoji.maxcdn.com/2/72x72/1f613.png" width=20 height=20>
 
@@ -850,9 +848,7 @@ _17-Jun-21 03:48 PM_:
 
 :microphone2: **Recording for #deleted-channel has been uploaded!** [https://download.pawa.im/prod/810180621930070088/01F8DQ3FHJ22382EZSPSV9X1ZK.mp3](https://download.pawa.im/prod/810180621930070088/01F8DQ3FHJ22382EZSPSV9X1ZK.mp3) *Recording will only be available for 24hrs* ---
 
-![https://cdn.discordapp.com/avatars/757751905140211833/a_f15c00770e599ffeb0f78ecf42f53cdb.gif](https://cdn.discordapp.com/avatars/757751905140211833/a_f15c00770e599ffeb0f78ecf42f53cdb.gif)
-
-🐙Musashi13 20-Jun-21 02:15 PM
+<h3>🐙Musashi13 20-Jun-21 02:15 PM <img src="https://cdn.discordapp.com/avatars/757751905140211833/a_f15c00770e599ffeb0f78ecf42f53cdb.gif" width=25 height=25></h3>
 
 no
 
@@ -1094,9 +1090,7 @@ _17-Nov-21 05:48 PM_:
 
 Where do we listen to these? Can the answer be pinned to this channel please? (edited)
 
-![https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png](https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png)
-
-ryeder (they/them)
+<h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 Where do we listen to these? Can the answer be pinned to this channel please?  (edited)
 
@@ -1126,15 +1120,11 @@ _16-Dec-21 01:50 PM_:
 
 :information*source:* **@Vyvy-vi** check your DMs!_
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 These are uploaded to youtube (afaik)
 
 [https://youtube.com/c/TokenEngineeringCommons](https://youtube.com/c/TokenEngineeringCommons)
-
-(edited)
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 

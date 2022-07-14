@@ -10062,9 +10062,7 @@ Our Steward @thegrifft will be at @eth_barcelona representing our community!
 
 [https://t.co/AO4dM6HMyi](https://t.co/AO4dM6HMyi)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 01-Jun-22 03:25 PM
+<h3>Powered by TweetShift.com • 01-Jun-22 03:25 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 ![https://pbs.twimg.com/profile_images/1516385259214053380/p_WmYzsP.jpg](https://pbs.twimg.com/profile_images/1516385259214053380/p_WmYzsP.jpg)
 
@@ -10080,9 +10078,7 @@ Introducing @thegrifft of @Givethio, @tecmns, @commonsstack, @DAppNode
 
 ![https://pbs.twimg.com/media/FTskhHnUYAIuRIp.jpg](https://pbs.twimg.com/media/FTskhHnUYAIuRIp.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 26-May-22 12:07 PM
+<h3>Powered by TweetShift.com • 26-May-22 12:07 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10096,9 +10092,7 @@ _02-Jun-22 11:18 AM_:
 
 Crypto is full of scammers and grifters? Meet @thegrifft! This guy is the embodiment of kindness and selflessness Every project he has been involved in since the start of his career has been to further the advance of public goods and a regen society. @Givethio @tecmns and more
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 02-Jun-22 10:25 AM
+<h3>Powered by TweetShift.com • 02-Jun-22 10:25 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10122,9 +10116,7 @@ Come by to the TEC Orientation Call to learn more about our community, how to ge
 
 ![https://pbs.twimg.com/media/FUOkLyhWIAE5iBs.jpg](https://pbs.twimg.com/media/FUOkLyhWIAE5iBs.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 02-Jun-22 12:00 PM
+<h3>Powered by TweetShift.com • 02-Jun-22 12:00 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10148,9 +10140,7 @@ Meet the community, discover how to contribute, and take a look at the weekly up
 
 ![https://pbs.twimg.com/media/FUOkXB3WUAAU0wu.jpg](https://pbs.twimg.com/media/FUOkXB3WUAAU0wu.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 02-Jun-22 01:00 PM
+<h3>Powered by TweetShift.com • 02-Jun-22 01:00 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10170,9 +10160,7 @@ Join us on our Twitter Space in a couple of hours w/ @thegrifft @karmaticacid @t
 
 [https://t.co/dtJaf7PbxN](https://t.co/dtJaf7PbxN)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 01-Jun-22 09:58 PM
+<h3>Powered by TweetShift.com • 01-Jun-22 09:58 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10188,9 +10176,7 @@ _02-Jun-22 03:53 PM_:
 
 ![https://pbs.twimg.com/ext_tw_video_thumb/1532043768660078592/pu/img/-oFceT1DdPAJf6ia.jpg](https://pbs.twimg.com/ext_tw_video_thumb/1532043768660078592/pu/img/-oFceT1DdPAJf6ia.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 01-Jun-22 01:03 PM
+<h3>Powered by TweetShift.com • 01-Jun-22 01:03 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10214,9 +10200,7 @@ Join here ➡
 
 ![https://pbs.twimg.com/media/FUT4xWyWIAAt5th.jpg](https://pbs.twimg.com/media/FUT4xWyWIAAt5th.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 03-Jun-22 08:55 AM
+<h3>Powered by TweetShift.com • 03-Jun-22 08:55 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10244,9 +10228,7 @@ Community Hall Voice Channel
 
 ![https://pbs.twimg.com/tweet_video_thumb/FUT8w0nWAAQ3Yvm.jpg](https://pbs.twimg.com/tweet_video_thumb/FUT8w0nWAAQ3Yvm.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 03-Jun-22 10:35 AM
+<h3>Powered by TweetShift.com • 03-Jun-22 10:35 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10270,9 +10252,7 @@ Shermin Voshmgir @sherminvo, author of the landmark book @token3conomy and found
 
 ![https://pbs.twimg.com/media/FUWS8BqWUAAA7C_.jpg](https://pbs.twimg.com/media/FUWS8BqWUAAA7C_.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 03-Jun-22 02:35 PM
+<h3>Powered by TweetShift.com • 03-Jun-22 02:35 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10288,9 +10268,7 @@ _03-Jun-22 03:32 PM_:
 
 ![https://pbs.twimg.com/media/FUVytZDXsAQl1Wl.jpg](https://pbs.twimg.com/media/FUVytZDXsAQl1Wl.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 03-Jun-22 12:15 PM
+<h3>Powered by TweetShift.com • 03-Jun-22 12:15 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10316,9 +10294,7 @@ Big praise to @zeptimusQ and @gideonro for showing the Transparency & Sampo work
 
 [https://t.co/sfHhbU1a2t](https://t.co/sfHhbU1a2t)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 05-Jun-22 10:00 AM
+<h3>Powered by TweetShift.com • 05-Jun-22 10:00 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 ![https://pbs.twimg.com/profile_images/1508750957412331528/1n6m_tve.jpg](https://pbs.twimg.com/profile_images/1508750957412331528/1n6m_tve.jpg)
 
@@ -10328,9 +10304,7 @@ Open Governance and education, all in-one, at our first Proposal Party, where pr
 
 ![https://pbs.twimg.com/media/FUV-DXxX0AANQFz.jpg](https://pbs.twimg.com/media/FUV-DXxX0AANQFz.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 03-Jun-22 01:04 PM
+<h3>Powered by TweetShift.com • 03-Jun-22 01:04 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10344,9 +10318,7 @@ _05-Jun-22 04:50 PM_:
 
 @avahalvai @tecmns hands down
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 05-Jun-22 01:59 PM
+<h3>Powered by TweetShift.com • 05-Jun-22 01:59 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10372,9 +10344,7 @@ Calendar invitation
 
 ![https://pbs.twimg.com/media/FUlQf0mXsAEXnF2.jpg](https://pbs.twimg.com/media/FUlQf0mXsAEXnF2.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 06-Jun-22 12:20 PM
+<h3>Powered by TweetShift.com • 06-Jun-22 12:20 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10396,9 +10366,7 @@ Now @GnosisDAO is looking to implement this praise system in their community, if
 
 [https://t.co/1YXFfnkAaz](https://t.co/1YXFfnkAaz)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 07-Jun-22 12:47 PM
+<h3>Powered by TweetShift.com • 07-Jun-22 12:47 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 ![https://pbs.twimg.com/profile_images/1409965130654289921/Yfqm0uQJ.jpg](https://pbs.twimg.com/profile_images/1409965130654289921/Yfqm0uQJ.jpg)
 
@@ -10412,9 +10380,7 @@ If you happen to sit on a pile of $GNO, please lend some weight on the Gnosis Sn
 
 [https://t.co/e5BToVqqZU](https://t.co/e5BToVqqZU)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 03-Jun-22 03:37 AM
+<h3>Powered by TweetShift.com • 03-Jun-22 03:37 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10430,9 +10396,7 @@ Props to @Bellcho and @tecmns who have been creating lovely containers which all
 
 ![https://pbs.twimg.com/tweet_video_thumb/FUqh7g3UcAAB6tm.jpg](https://pbs.twimg.com/tweet_video_thumb/FUqh7g3UcAAB6tm.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 07-Jun-22 12:52 PM
+<h3>Powered by TweetShift.com • 07-Jun-22 12:52 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10456,9 +10420,7 @@ Come explore the Giveth Galaxy with us in this Hitchhiker's Guide!
 
 [https://t.co/JwWJILiA9h](https://t.co/JwWJILiA9h)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 08-Jun-22 11:54 AM
+<h3>Powered by TweetShift.com • 08-Jun-22 11:54 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10478,9 +10440,7 @@ _08-Jun-22 06:58 PM_:
 
 #GitcoinGrants
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 08-Jun-22 02:39 PM
+<h3>Powered by TweetShift.com • 08-Jun-22 02:39 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10500,9 +10460,7 @@ _08-Jun-22 07:09 PM_:
 
 8/
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 08-Jun-22 12:47 PM
+<h3>Powered by TweetShift.com • 08-Jun-22 12:47 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10532,9 +10490,7 @@ For all our Spanish speaker community, tomorrow @tokengineering will have an Int
 
 [https://t.co/aOZDYMzJEV](https://t.co/aOZDYMzJEV)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 09-Jun-22 10:30 AM
+<h3>Powered by TweetShift.com • 09-Jun-22 10:30 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 ![https://pbs.twimg.com/profile_images/1133711944857325568/KVQkeK5_.png](https://pbs.twimg.com/profile_images/1133711944857325568/KVQkeK5_.png)
 
@@ -10554,9 +10510,7 @@ Register here!
 
 ![https://pbs.twimg.com/media/FUWu8i1WUAIeNc9.jpg](https://pbs.twimg.com/media/FUWu8i1WUAIeNc9.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 08-Jun-22 10:00 AM
+<h3>Powered by TweetShift.com • 08-Jun-22 10:00 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10580,9 +10534,7 @@ Come by to the TEC Orientation Call to learn more about our community, how to ge
 
 ![https://pbs.twimg.com/media/FUy5rRnXoAAjB7X.jpg](https://pbs.twimg.com/media/FUy5rRnXoAAjB7X.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 09-Jun-22 12:00 PM
+<h3>Powered by TweetShift.com • 09-Jun-22 12:00 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10606,9 +10558,7 @@ Come by to the TEC Orientation Call to learn more about our community, how to ge
 
 ![https://pbs.twimg.com/media/FUy52gmXoAAmkgE.jpg](https://pbs.twimg.com/media/FUy52gmXoAAmkgE.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 09-Jun-22 01:00 PM
+<h3>Powered by TweetShift.com • 09-Jun-22 01:00 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10622,9 +10572,7 @@ _10-Jun-22 02:09 AM_:
 
 The Praise process has been tried and tested in different communities such as @tecmns, @givethio, and Commons Stack. The tools developed throughout the process have now been turned into the open-source project, Praise.
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 09-Jun-22 01:40 PM
+<h3>Powered by TweetShift.com • 09-Jun-22 01:40 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10648,9 +10596,7 @@ Join here ➡
 
 ![https://pbs.twimg.com/media/FU3rzJ7WQAA5GAz.jpg](https://pbs.twimg.com/media/FU3rzJ7WQAA5GAz.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 10-Jun-22 09:00 AM
+<h3>Powered by TweetShift.com • 10-Jun-22 09:00 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10676,9 +10622,7 @@ Join tomorrow´s stream here
 
 ![https://pbs.twimg.com/media/FU6R-jrX0AECmeL.jpg](https://pbs.twimg.com/media/FU6R-jrX0AECmeL.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 10-Jun-22 02:16 PM
+<h3>Powered by TweetShift.com • 10-Jun-22 02:16 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10702,9 +10646,7 @@ Why is there even a fern here? All these questions & more are answered (or avoid
 
 [https://t.co/ynpnjqtUUR](https://t.co/ynpnjqtUUR)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 10-Jun-22 03:57 PM
+<h3>Powered by TweetShift.com • 10-Jun-22 03:57 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10728,9 +10670,7 @@ Help us sign their latest proposal!
 
 [https://t.co/6Kq4ofIDOC](https://t.co/6Kq4ofIDOC)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 10-Jun-22 04:25 PM
+<h3>Powered by TweetShift.com • 10-Jun-22 04:25 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10754,9 +10694,7 @@ If you'd like to get involved in TEA and @tecmns, make sure to check out TE360 +
 
 ![https://pbs.twimg.com/media/FU6NBzQUAAAil-U.jpg](https://pbs.twimg.com/media/FU6NBzQUAAAil-U.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 10-Jun-22 01:55 PM
+<h3>Powered by TweetShift.com • 10-Jun-22 01:55 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10782,9 +10720,7 @@ Activate your SourceCred account to receive rewards for contributions on GitHub 
 
 ![https://pbs.twimg.com/media/FU-TaIkX0AAW27K.jpg](https://pbs.twimg.com/media/FU-TaIkX0AAW27K.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 11-Jun-22 09:02 AM
+<h3>Powered by TweetShift.com • 11-Jun-22 09:02 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
@@ -10809,9 +10745,7 @@ TODAY: Discover the biggest web3 opportunity that no one is talking about. Catch
 
 ![https://pbs.twimg.com/media/FU-mXLuWAAAh1js.jpg](https://pbs.twimg.com/media/FU-mXLuWAAAh1js.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 11-Jun-22 10:23 AM
+<h3>Powered by TweetShift.com • 11-Jun-22 10:23 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10825,9 +10759,7 @@ _12-Jun-22 04:19 PM_:
 
 Support the first Commons that deployed the cultural and technical patterns we have built! A regenerative token economy that will fund and advance token engineering projects! Support @tecmns mission: [https://t.co/Iq9ZIknlGS](https://t.co/Iq9ZIknlGS) [https://t.co/dsKH5ouNZy](https://t.co/dsKH5ouNZy)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 12-Jun-22 08:12 AM
+<h3>Powered by TweetShift.com • 12-Jun-22 08:12 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10859,9 +10791,7 @@ Calendar invitation
 
 ![https://pbs.twimg.com/media/FVHD2clXEAAOBVG.jpg](https://pbs.twimg.com/media/FVHD2clXEAAOBVG.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 13-Jun-22 10:00 AM
+<h3>Powered by TweetShift.com • 13-Jun-22 10:00 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10881,9 +10811,7 @@ Did you know the Praise System from @commonsstack & @tecmns will be implemented 
 
 ![https://pbs.twimg.com/ext_tw_video_thumb/1536401340930347008/pu/img/mdePiYHMPgXV9YMb.jpg](https://pbs.twimg.com/ext_tw_video_thumb/1536401340930347008/pu/img/mdePiYHMPgXV9YMb.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 13-Jun-22 01:34 PM
+<h3>Powered by TweetShift.com • 13-Jun-22 01:34 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10909,9 +10837,7 @@ Help us build the field of token engineering!
 
 ![https://pbs.twimg.com/media/FVJ61EmX0AcG6yP.jpg](https://pbs.twimg.com/media/FVJ61EmX0AcG6yP.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 13-Jun-22 03:10 PM
+<h3>Powered by TweetShift.com • 13-Jun-22 03:10 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 [Tweeted](https://twitter.com/tecmns/status/1536426580976848902)
 
@@ -10929,9 +10855,7 @@ Help us build the field of token engineering!
 
 [https://t.co/QThflN6avs](https://t.co/QThflN6avs)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 13-Jun-22 03:13 PM
+<h3>Powered by TweetShift.com • 13-Jun-22 03:13 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10945,9 +10869,7 @@ _14-Jun-22 08:31 AM_:
 
 I just funded *Praise* at @gitcoin [https://t.co/SZWhf8i3us](https://t.co/SZWhf8i3us) It's a super exciting solution for DAO contributions tracking & rewards. 100% bottom-up, beyond pre-defined tasks, categories & hierarchies. Built with ❤️ at @tecmns !
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 14-Jun-22 05:55 AM
+<h3>Powered by TweetShift.com • 14-Jun-22 05:55 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10973,9 +10895,7 @@ Did you know about our #Rewards System? @givepraise is based the community's rec
 
 ![https://pbs.twimg.com/media/FVOpmK8XoAALDDE.png](https://pbs.twimg.com/media/FVOpmK8XoAALDDE.png)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 14-Jun-22 01:12 PM
+<h3>Powered by TweetShift.com • 14-Jun-22 01:12 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -10999,9 +10919,7 @@ What a nice collection @Paul_Glavin ! Big praise for supporting the TEC and all 
 
 [https://t.co/g0BmPRkpi3](https://t.co/g0BmPRkpi3)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 15-Jun-22 10:30 AM
+<h3>Powered by TweetShift.com • 15-Jun-22 10:30 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 ![https://pbs.twimg.com/profile_images/1386790967991173121/bKMdcocE.jpg](https://pbs.twimg.com/profile_images/1386790967991173121/bKMdcocE.jpg)
 
@@ -11011,9 +10929,7 @@ This is my #GR14 basket. I like these things, and I like other things too. @tecm
 
 ![https://pbs.twimg.com/media/FVPv5itWQAAMKmQ.jpg](https://pbs.twimg.com/media/FVPv5itWQAAMKmQ.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 14-Jun-22 06:25 PM
+<h3>Powered by TweetShift.com • 14-Jun-22 06:25 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11033,9 +10949,7 @@ Your RPC might be outdated! Follow the instructions here ⬇
 
 [https://t.co/KeOxSi4wYf](https://t.co/KeOxSi4wYf)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 15-Jun-22 01:46 PM
+<h3>Powered by TweetShift.com • 15-Jun-22 01:46 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 ![https://pbs.twimg.com/profile_images/1532819929535172608/QacFIDO3.jpg](https://pbs.twimg.com/profile_images/1532819929535172608/QacFIDO3.jpg)
 
@@ -11051,9 +10965,7 @@ is no longer supported and MUST BE UPDATED. @MetaMask users take note! It’s ea
 
 [https://t.co/TqQb2FhsWo](https://t.co/TqQb2FhsWo)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 14-Jun-22 01:43 PM
+<h3>Powered by TweetShift.com • 14-Jun-22 01:43 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11079,9 +10991,7 @@ Share your thoughts by commenting in our new Medium article posted by @gideonro,
 
 ![https://pbs.twimg.com/media/FVUJk-JWYAEceBS.jpg](https://pbs.twimg.com/media/FVUJk-JWYAEceBS.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 15-Jun-22 03:00 PM
+<h3>Powered by TweetShift.com • 15-Jun-22 03:00 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11095,9 +11005,7 @@ _15-Jun-22 03:23 PM_:
 
 Happening now-ish! [https://t.co/Jt1w40TTW5](https://t.co/Jt1w40TTW5) @MetaFam @commonsstack @tecmns [https://t.co/si5EytvUFn](https://t.co/si5EytvUFn)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 15-Jun-22 02:32 PM
+<h3>Powered by TweetShift.com • 15-Jun-22 02:32 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11121,9 +11029,7 @@ Come by to the TEC Orientation Call to learn more about our community, how to ge
 
 ![https://pbs.twimg.com/media/FVW6YWTXwAA_17S.jpg](https://pbs.twimg.com/media/FVW6YWTXwAA_17S.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 16-Jun-22 11:55 AM
+<h3>Powered by TweetShift.com • 16-Jun-22 11:55 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11147,9 +11053,7 @@ Meet the community, discover how to contribute, and take a look at the weekly up
 
 ![https://pbs.twimg.com/media/FVW6g7nWAAIYBx0.jpg](https://pbs.twimg.com/media/FVW6g7nWAAIYBx0.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 16-Jun-22 12:55 PM
+<h3>Powered by TweetShift.com • 16-Jun-22 12:55 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11171,9 +11075,7 @@ Later in the day, @karmaticacid will be joining us to talk about @Givethio & wha
 
 ![https://pbs.twimg.com/media/FVYkBV9WAAct4rK.jpg](https://pbs.twimg.com/media/FVYkBV9WAAct4rK.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 16-Jun-22 11:25 AM
+<h3>Powered by TweetShift.com • 16-Jun-22 11:25 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11197,9 +11099,7 @@ Join here ➡
 
 ![https://pbs.twimg.com/media/FVb-EaHWAAEI79z.jpg](https://pbs.twimg.com/media/FVb-EaHWAAEI79z.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 17-Jun-22 09:00 AM
+<h3>Powered by TweetShift.com • 17-Jun-22 09:00 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11219,9 +11119,7 @@ See you there! ⬇⬇⬇
 
 [https://t.co/6fUJ9bkzov](https://t.co/6fUJ9bkzov)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 18-Jun-22 10:00 AM
+<h3>Powered by TweetShift.com • 18-Jun-22 10:00 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 ![https://pbs.twimg.com/profile_images/1138502303995039745/3uuHITMX.png](https://pbs.twimg.com/profile_images/1138502303995039745/3uuHITMX.png)
 
@@ -11237,9 +11135,7 @@ June 22 ⏰ 12pm EST / 6pm CET
 
 ![https://pbs.twimg.com/media/FVT-UuQWYAYh9ez.jpg](https://pbs.twimg.com/media/FVT-UuQWYAYh9ez.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 15-Jun-22 02:01 PM
+<h3>Powered by TweetShift.com • 15-Jun-22 02:01 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11253,9 +11149,7 @@ _19-Jun-22 10:33 PM_:
 
 @ramonIsTweeting @punk6529 @bitcoin @CureCoin_Team @PrimecoinXPM @tecmns @zcash @PanvalaHQ @1HiveOrg @KlimaDAO @ShapeShift @SporkDao @Givethio @DAppNode @BrightIDProject @gitcoin @TornadoCash @rainbow_rolls @MetaFam @SEEDSeconomy @regen_network And @commonsstack is making @grassEcon one :-)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 19-Jun-22 07:11 PM
+<h3>Powered by TweetShift.com • 19-Jun-22 07:11 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11269,9 +11163,7 @@ _20-Jun-22 12:13 PM_:
 
 @punk6529 We can make creating public goods profitable.
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 18-Jun-22 02:51 PM
+<h3>Powered by TweetShift.com • 18-Jun-22 02:51 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 [Tweeted](https://twitter.com/tecmns/status/1538918855187345408)
 
@@ -11291,9 +11183,7 @@ You only have 3 days left to support our @gitcoin´s #GR14, add the TEC to your 
 
 ![https://pbs.twimg.com/media/FVtWSiJXEAEx-7E.jpg](https://pbs.twimg.com/media/FVtWSiJXEAEx-7E.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 20-Jun-22 12:17 PM
+<h3>Powered by TweetShift.com • 20-Jun-22 12:17 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11307,9 +11197,7 @@ _20-Jun-22 12:28 PM_:
 
 Remember you can support many projects before this @gitcoin Grants round is over! In partnership with @PrimeDAO_ TEC has been developing the Proposal Inverter, an amazing tool for D2D collaboration. Get to know more about the PI in our grant: [https://t.co/QThflNnLn0](https://t.co/QThflNnLn0)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 20-Jun-22 12:27 PM
+<h3>Powered by TweetShift.com • 20-Jun-22 12:27 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11341,9 +11229,7 @@ Calendar invitation
 
 ![https://pbs.twimg.com/media/FVwrUHYWAAAKxtp.jpg](https://pbs.twimg.com/media/FVwrUHYWAAAKxtp.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 21-Jun-22 09:30 AM
+<h3>Powered by TweetShift.com • 21-Jun-22 09:30 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11365,9 +11251,7 @@ Proposal Inverter's @gitcoin grant is live!
 
 ⭐Our beloved product that we are developing together with @radicle @LongTailFinTech @tecmns will be a very good addition to #DAO2DAO collaboration game. ⭐
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 21-Jun-22 07:49 AM
+<h3>Powered by TweetShift.com • 21-Jun-22 07:49 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11395,9 +11279,7 @@ Let's keep advancing Token Engineering and public goods with @gitcoin!
 
 ![https://pbs.twimg.com/media/FV1NjrvXEAMLnYI.jpg](https://pbs.twimg.com/media/FV1NjrvXEAMLnYI.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 22-Jun-22 10:00 AM
+<h3>Powered by TweetShift.com • 22-Jun-22 10:00 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11421,9 +11303,7 @@ Share with us your collections!
 
 [https://t.co/M1I0GEHGey](https://t.co/M1I0GEHGey)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 23-Jun-22 09:00 AM
+<h3>Powered by TweetShift.com • 23-Jun-22 09:00 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 ![https://pbs.twimg.com/profile_images/1359180303332433923/J1XNdjPW.png](https://pbs.twimg.com/profile_images/1359180303332433923/J1XNdjPW.png)
 
@@ -11438,9 +11318,7 @@ Powered by TweetShift.com • 23-Jun-22 09:00 AM
 
 ![https://pbs.twimg.com/tweet_video_thumb/FUwPK4JUEAAxzZ7.jpg](https://pbs.twimg.com/tweet_video_thumb/FUwPK4JUEAAxzZ7.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 08-Jun-22 03:36 PM
+<h3>Powered by TweetShift.com • 08-Jun-22 03:36 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11458,9 +11336,7 @@ _23-Jun-22 11:47 AM_:
 
 [https://t.co/I79dZrUY2v](https://t.co/I79dZrUY2v)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 23-Jun-22 11:40 AM
+<h3>Powered by TweetShift.com • 23-Jun-22 11:40 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11484,9 +11360,7 @@ Come by to the TEC Orientation Call to learn more about our community, how to ge
 
 ![https://pbs.twimg.com/media/FV6f9sKXkAEuv-y.jpg](https://pbs.twimg.com/media/FV6f9sKXkAEuv-y.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 23-Jun-22 12:00 PM
+<h3>Powered by TweetShift.com • 23-Jun-22 12:00 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11510,9 +11384,7 @@ Meet the community, discover how to contribute, and take a look at the weekly up
 
 ![https://pbs.twimg.com/media/FV6fvfdWQAMmP72.jpg](https://pbs.twimg.com/media/FV6fvfdWQAMmP72.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 23-Jun-22 01:00 PM
+<h3>Powered by TweetShift.com • 23-Jun-22 01:00 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11530,9 +11402,7 @@ For Gardens, “TVL” means tokens in community-owned Common Pools that can onl
 
 [https://t.co/LVrERZR84U](https://t.co/LVrERZR84U)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 23-Jun-22 03:00 PM
+<h3>Powered by TweetShift.com • 23-Jun-22 03:00 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11556,9 +11426,7 @@ Join here ➡
 
 ![https://pbs.twimg.com/media/FWAto9-XwAIWVUM.jpg](https://pbs.twimg.com/media/FWAto9-XwAIWVUM.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 24-Jun-22 09:00 AM
+<h3>Powered by TweetShift.com • 24-Jun-22 09:00 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11572,9 +11440,7 @@ _25-Jun-22 10:00 AM_:
 
 "The TEC has invested heavily in culture because it’s the most powerful form of capital we know. Culture is magnetic. It attracts value-aligned people like nothing else"✨ A message to token holders from the TEC Stewards, take a look to the forum post⬇ [https://t.co/Tc43BydVB8](https://t.co/Tc43BydVB8)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 25-Jun-22 10:00 AM
+<h3>Powered by TweetShift.com • 25-Jun-22 10:00 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11588,9 +11454,7 @@ _27-Jun-22 02:05 AM_:
 
 TokenLog is one of the most important tools we have used in the @tecmns. Shout out to @wslyvh. [https://t.co/BC7XwumqQQ](https://t.co/BC7XwumqQQ)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 26-Jun-22 09:46 PM
+<h3>Powered by TweetShift.com • 26-Jun-22 09:46 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11618,9 +11482,7 @@ Calendar invitation
 
 ![https://pbs.twimg.com/media/FWPN_W6WIAAudKU.jpg](https://pbs.twimg.com/media/FWPN_W6WIAAudKU.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 27-Jun-22 10:00 AM
+<h3>Powered by TweetShift.com • 27-Jun-22 10:00 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11648,9 +11510,7 @@ Calendar invitation
 
 ![https://pbs.twimg.com/media/FWQ__1_XoAEMIPb.jpg](https://pbs.twimg.com/media/FWQ__1_XoAEMIPb.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 27-Jun-22 10:26 AM
+<h3>Powered by TweetShift.com • 27-Jun-22 10:26 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11672,9 +11532,7 @@ _27-Jun-22 02:04 PM_:
 
 [https://t.co/i0cx4yszdI](https://t.co/i0cx4yszdI)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 26-Jun-22 11:50 AM
+<h3>Powered by TweetShift.com • 26-Jun-22 11:50 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11698,9 +11556,7 @@ Gravity Voice Channel
 
 ![https://pbs.twimg.com/media/FWXFrvnXoAACEMe.jpg](https://pbs.twimg.com/media/FWXFrvnXoAACEMe.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 28-Jun-22 02:49 PM
+<h3>Powered by TweetShift.com • 28-Jun-22 02:49 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11736,9 +11592,7 @@ Gardens
 
 ![https://pbs.twimg.com/media/FWZOK_7X0AE2doW.jpg](https://pbs.twimg.com/media/FWZOK_7X0AE2doW.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 29-Jun-22 10:00 AM
+<h3>Powered by TweetShift.com • 29-Jun-22 10:00 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11752,9 +11606,7 @@ _29-Jun-22 02:47 PM_:
 
 @divine_economy @tecmns did this when they were collaboratively designing their economy :) "Forking existing proposals is encouraged - if you like parts of a proposal, use that design pattern and add the changes you like." -- [https://t.co/PKF86ORgME](https://t.co/PKF86ORgME)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 29-Jun-22 12:29 PM
+<h3>Powered by TweetShift.com • 29-Jun-22 12:29 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11778,9 +11630,7 @@ Come by to the TEC Orientation Call to learn more about our community, how to ge
 
 ![https://pbs.twimg.com/media/FWfCjBMWQAEXxMv.jpg](https://pbs.twimg.com/media/FWfCjBMWQAEXxMv.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 30-Jun-22 12:00 PM
+<h3>Powered by TweetShift.com • 30-Jun-22 12:00 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11796,9 +11646,7 @@ Did you know that we are supporting @AragonProject on conflict management and tr
 
 ![https://pbs.twimg.com/media/FWgASidXkAEW1ai.jpg](https://pbs.twimg.com/media/FWgASidXkAEW1ai.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 30-Jun-22 09:48 AM
+<h3>Powered by TweetShift.com • 30-Jun-22 09:48 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 [Tweeted](https://twitter.com/tecmns/status/1542553559568470017)
 
@@ -11818,9 +11666,7 @@ Meet the community, discover how to contribute, and take a look at the weekly up
 
 ![https://pbs.twimg.com/media/FWfCDbuXgAAplTu.jpg](https://pbs.twimg.com/media/FWfCDbuXgAAplTu.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 30-Jun-22 01:00 PM
+<h3>Powered by TweetShift.com • 30-Jun-22 01:00 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11836,9 +11682,7 @@ Come to our second mental health event! It’s happening this Thursday and we ar
 
 ![https://pbs.twimg.com/media/FWWiihWX0AEdS4U.jpg](https://pbs.twimg.com/media/FWWiihWX0AEdS4U.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 28-Jun-22 12:13 PM
+<h3>Powered by TweetShift.com • 28-Jun-22 12:13 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11864,9 +11708,7 @@ Activate your SourceCred account to receive rewards for contributions on GitHub 
 
 ![https://pbs.twimg.com/media/FWl-Jt8WQAYuRN9.jpg](https://pbs.twimg.com/media/FWl-Jt8WQAYuRN9.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 01-Jul-22 12:08 PM
+<h3>Powered by TweetShift.com • 01-Jul-22 12:08 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11890,9 +11732,7 @@ Subscribe to our newsletter! ➡
 
 ![https://pbs.twimg.com/ext_tw_video_thumb/1543514016496205825/pu/img/ZTgISU2lEma0o-L7.jpg](https://pbs.twimg.com/ext_tw_video_thumb/1543514016496205825/pu/img/ZTgISU2lEma0o-L7.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 03-Jul-22 10:30 AM
+<h3>Powered by TweetShift.com • 03-Jul-22 10:30 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11924,9 +11764,7 @@ Calendar invitation
 
 ![https://pbs.twimg.com/media/FWzVd7sXEAA6ukk.jpg](https://pbs.twimg.com/media/FWzVd7sXEAA6ukk.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 04-Jul-22 10:00 AM
+<h3>Powered by TweetShift.com • 04-Jul-22 10:00 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11944,9 +11782,7 @@ So much to look forward to in the @eth_barcelona 3-day agenda! If you'll be ther
 
 [https://t.co/02h3qYeqGD](https://t.co/02h3qYeqGD)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 04-Jul-22 02:04 PM
+<h3>Powered by TweetShift.com • 04-Jul-22 02:04 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11980,9 +11816,7 @@ See you there!
 
 ![https://pbs.twimg.com/media/FW7A4qTXgAAXXO0.jpg](https://pbs.twimg.com/media/FW7A4qTXgAAXXO0.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 05-Jul-22 02:26 PM
+<h3>Powered by TweetShift.com • 05-Jul-22 02:26 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11996,9 +11830,7 @@ _06-Jul-22 10:39 AM_:
 
 Let's talk about using web3 to address complex global challenges. Lets build tech that heals. Tech that regenerates. Taking to the Forest Stage at @eth_barcelona w/ @jori_armbruster & @JamesJohnBeck at 5:40pm to talk Regen Mentalities. Don't miss it! @Givethio
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 06-Jul-22 10:38 AM
+<h3>Powered by TweetShift.com • 06-Jul-22 10:38 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -12018,9 +11850,7 @@ Regen Mentalities - Making Impact IRL! W00T! @karmaticacid, @jori_armbruster & @
 
 ![https://pbs.twimg.com/media/FW_qbnDXoAU2p6G.jpg](https://pbs.twimg.com/media/FW_qbnDXoAU2p6G.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 06-Jul-22 11:52 AM
+<h3>Powered by TweetShift.com • 06-Jul-22 11:52 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -12040,9 +11870,7 @@ Building a regenerative economy @positonic Reimagining public goods @notscottmoo
 
 [https://t.co/PLD3ygKFeu](https://t.co/PLD3ygKFeu)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 07-Jul-22 02:25 AM
+<h3>Powered by TweetShift.com • 07-Jul-22 02:25 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -12056,9 +11884,7 @@ _07-Jul-22 05:46 AM_:
 
 Praise to the @eth_barcelona team for their organization, eco-conscious vibe and thoughtful attention to detail in so many ways. (Have you heard that is real grass lining the stage floors!?) @commonsstack @tecmns @tokengineering [https://t.co/76FeXPX9Xz](https://t.co/76FeXPX9Xz)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 07-Jul-22 02:48 AM
+<h3>Powered by TweetShift.com • 07-Jul-22 02:48 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -12072,9 +11898,7 @@ _07-Jul-22 07:16 AM_:
 
 "If we make public goods creation profitable, everyone benefits individually when the collective succeeds." @karmaticacid Still in the afterglow of this @eth_barcelona panel w/ @marcvsam @karmaticacid @JamesJohnBeck @jori_armbruster Catch the replay: [https://t.co/lGbXhKkn9z](https://t.co/lGbXhKkn9z) [https://t.co/JIUb95wf8W](https://t.co/JIUb95wf8W)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 07-Jul-22 07:14 AM
+<h3>Powered by TweetShift.com • 07-Jul-22 07:14 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -12094,9 +11918,7 @@ Don´t miss the livestream!
 
 [https://t.co/wbMiW0MNaK](https://t.co/wbMiW0MNaK)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 07-Jul-22 08:00 AM
+<h3>Powered by TweetShift.com • 07-Jul-22 08:00 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 ![https://pbs.twimg.com/profile_images/1359180303332433923/J1XNdjPW.png](https://pbs.twimg.com/profile_images/1359180303332433923/J1XNdjPW.png)
 
@@ -12124,9 +11946,7 @@ See you there!
 
 ![https://pbs.twimg.com/media/FW7A4qTXgAAXXO0.jpg](https://pbs.twimg.com/media/FW7A4qTXgAAXXO0.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 05-Jul-22 02:26 PM
+<h3>Powered by TweetShift.com • 05-Jul-22 02:26 PM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -12148,9 +11968,7 @@ Praise ⁦@_liviade⁩ for explaining so well the challenges of rewards for heur
 
 ![https://pbs.twimg.com/media/FXEkB-TUcAMNnSH.jpg](https://pbs.twimg.com/media/FXEkB-TUcAMNnSH.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 07-Jul-22 10:42 AM
+<h3>Powered by TweetShift.com • 07-Jul-22 10:42 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -12166,9 +11984,7 @@ Most DAO contributions are heuristic, yet most DAOs lack heuristic rewards syste
 
 ![https://pbs.twimg.com/media/FXEn8sxUIAAKr3n.jpg](https://pbs.twimg.com/media/FXEn8sxUIAAKr3n.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 07-Jul-22 11:00 AM
+<h3>Powered by TweetShift.com • 07-Jul-22 11:00 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 [Retweeted @jojoliciosa](https://twitter.com/tecmns/status/1545060396318412808) [...](https://twitter.com/jojoliciosa/status/1545059503208407041)
 
@@ -12184,9 +12000,7 @@ Reward systems: The heart of DAOs x Livia Deschermayer from @commonsstack and @t
 
 ![https://pbs.twimg.com/ext_tw_video_thumb/1545058300252721153/pu/img/cBrJaFTCZigJbJl8.jpg](https://pbs.twimg.com/ext_tw_video_thumb/1545058300252721153/pu/img/cBrJaFTCZigJbJl8.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 07-Jul-22 10:57 AM
+<h3>Powered by TweetShift.com • 07-Jul-22 10:57 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -12202,9 +12016,7 @@ _07-Jul-22 12:27 PM_:
 
 ![https://pbs.twimg.com/media/FXEy4J7WQAArtHB.jpg](https://pbs.twimg.com/media/FXEy4J7WQAArtHB.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 07-Jul-22 11:47 AM
+<h3>Powered by TweetShift.com • 07-Jul-22 11:47 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -12226,9 +12038,7 @@ In a Commons, people treat resources as shared wealth. Commons are offering a vi
 
 ![https://pbs.twimg.com/media/FXIhITzWYAE35xx.jpg](https://pbs.twimg.com/media/FXIhITzWYAE35xx.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 08-Jul-22 05:08 AM
+<h3>Powered by TweetShift.com • 08-Jul-22 05:08 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 [Retweeted @karmaticacid](https://twitter.com/tecmns/status/1545336778076422145) [...](https://twitter.com/karmaticacid/status/1545331894761529345)
 
@@ -12244,8 +12054,6 @@ Solarpunk is the ecological & human-centric vision for the future, and an option
 
 ![https://pbs.twimg.com/media/FXIfKwzXoAAFe71.jpg](https://pbs.twimg.com/media/FXIfKwzXoAAFe71.jpg)
 
-![https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256](https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256)
-
-Powered by TweetShift.com • 08-Jul-22 05:00 AM
+<h3>Powered by TweetShift.com • 08-Jul-22 05:00 AM <img src="https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256" width=25 height=25></h3>
 
 Exported 536 message(s)

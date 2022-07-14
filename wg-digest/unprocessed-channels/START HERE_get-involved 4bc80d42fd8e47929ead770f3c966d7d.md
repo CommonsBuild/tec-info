@@ -144,9 +144,7 @@ I just checked out zenhub and would like to translate out evergreen articles to 
 ![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
 
 
-![https://cdn.discordapp.com/avatars/640772328380170271/06dd1f29aa7231e629968573d2df366c.png](https://cdn.discordapp.com/avatars/640772328380170271/06dd1f29aa7231e629968573d2df366c.png)
-
-Usua◎ Silver
+<h3>Usua◎ Silver <img src="https://cdn.discordapp.com/avatars/640772328380170271/06dd1f29aa7231e629968573d2df366c.png" width=25 height=25></h3>
 
 I just checked out zenhub and would like to translate out evergreen articles to Vietnamese 
 
@@ -159,9 +157,7 @@ _14-Dec-21 08:55 AM_:
 That's amazing! The point of contact is @chuygarcia.eth and at the Comms Working group Text Channel down below, there is also a thread that says "translations" when you move your mouse over the Comms channel.
 
 
-![https://cdn.discordapp.com/avatars/640772328380170271/06dd1f29aa7231e629968573d2df366c.png](https://cdn.discordapp.com/avatars/640772328380170271/06dd1f29aa7231e629968573d2df366c.png)
-
-Usua◎ Silver
+<h3>Usua◎ Silver <img src="https://cdn.discordapp.com/avatars/640772328380170271/06dd1f29aa7231e629968573d2df366c.png" width=25 height=25></h3>
 
 I just checked out zenhub and would like to translate out evergreen articles to Vietnamese 
 
@@ -173,9 +169,7 @@ _16-Dec-21 04:58 PM_:
 
 Hi @Usua◎ Silver that would be amazing. Thank you for that!
 
-![https://cdn.discordapp.com/avatars/640772328380170271/06dd1f29aa7231e629968573d2df366c.png](https://cdn.discordapp.com/avatars/640772328380170271/06dd1f29aa7231e629968573d2df366c.png)
-
-Usua◎ Silver
+<h3>Usua◎ Silver <img src="https://cdn.discordapp.com/avatars/640772328380170271/06dd1f29aa7231e629968573d2df366c.png" width=25 height=25></h3>
 
 I just checked out zenhub and would like to translate out evergreen articles to Vietnamese 
 
@@ -192,8 +186,6 @@ These is also this open issue for any contributor that wants to take it on in an
 
 [https://github.com/CommonsBuild/coordination/issues/904](https://github.com/CommonsBuild/coordination/issues/904)
 
-(edited)
-
 OPEN FOR CONTRIBUTORS: Translation of TEC Evergreen Articles · Issu...
 
 ![https://twemoji.maxcdn.com/2/72x72/1f447.png](https://twemoji.maxcdn.com/2/72x72/1f447.png)
@@ -205,9 +197,7 @@ What is this issue about? Give as much detail as you can. ✅ Are you looking fo
 [https://opengraph.githubassets.com/3bc8e739d9689be6187f74c21cd23dfb181e2309ee18d326dbfee03265d3241e/CommonsBuild/coordination/issues/904](https://opengraph.githubassets.com/3bc8e739d9689be6187f74c21cd23dfb181e2309ee18d326dbfee03265d3241e/CommonsBuild/coordination/issues/904)
 
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 These is also this open issue for any contributor that wants to take it on in any language. There are two key Token Engineering articles that we hope can be translated and dispersed far and wide. 
 
@@ -216,8 +206,6 @@ These is also this open issue for any contributor that wants to take it on in an
 ![https://twemoji.maxcdn.com/2/72x72/1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f3fd.png)
 
 [https://github.com/CommonsBuild/coordination/issues/904](https://github.com/CommonsBuild/coordination/issues/904)
-
-(edited)
 
 <h3>uzhakbas <img src="https://cdn.discordapp.com/avatars/818185538552463410/06f5b44bb5015cff1f0a8dd907ac0c00.png" width=25 height=25></h3>
 
@@ -237,9 +225,7 @@ Document Link: [https://medium.com/token-engineering-commons/token-engineering-c
 
 [https://lh6.googleusercontent.com/fnwjWhHMnbHCoyRuCGvp3Zp_HNl5qrD8rsaEqSlcIVPiaFQIia8yt3EbcYNqUjTLaVV_YJ6FYFuhkQ=w1200-h630-p](https://lh6.googleusercontent.com/fnwjWhHMnbHCoyRuCGvp3Zp_HNl5qrD8rsaEqSlcIVPiaFQIia8yt3EbcYNqUjTLaVV_YJ6FYFuhkQ=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/818185538552463410/06f5b44bb5015cff1f0a8dd907ac0c00.png](https://cdn.discordapp.com/avatars/818185538552463410/06f5b44bb5015cff1f0a8dd907ac0c00.png)
-
-uzhakbas
+<h3>uzhakbas <img src="https://cdn.discordapp.com/avatars/818185538552463410/06f5b44bb5015cff1f0a8dd907ac0c00.png" width=25 height=25></h3>
 
 Hey there! How do I know if someone already is working on translation. to Russian?
 
@@ -249,9 +235,7 @@ _13-Jan-22 07:54 AM_:
 
 Usually, the github issue should show any update! @chuygarcia.eth may know more about this (edited)
 
-![https://cdn.discordapp.com/avatars/882357890185318411/d710b875528959f295e77c3a2e754c49.png](https://cdn.discordapp.com/avatars/882357890185318411/d710b875528959f295e77c3a2e754c49.png)
-
-bustavo
+<h3>bustavo <img src="https://cdn.discordapp.com/avatars/882357890185318411/d710b875528959f295e77c3a2e754c49.png" width=25 height=25></h3>
 
 Hello, I've posted a couple of updates on Github related to translation to Spanish. I created a Google doc including the first article mentioned on the github issue which you can see here:
 
@@ -285,9 +269,7 @@ _28-Jan-22 03:33 AM_:
 
 Hi, I'd like to sharpen my Dune Analytics skills (so will be doing work free of charge) please let me know what is the TEC token address
 
-![https://cdn.discordapp.com/avatars/695285961629892698/5cd78d82295a539918af613277bea419.png](https://cdn.discordapp.com/avatars/695285961629892698/5cd78d82295a539918af613277bea419.png)
-
-jak
+<h3>jak <img src="https://cdn.discordapp.com/avatars/695285961629892698/5cd78d82295a539918af613277bea419.png" width=25 height=25></h3>
 
 Hi, I'd like to sharpen my Dune Analytics skills (so will be doing work free of charge) please let me know what is the TEC token address
 
@@ -297,9 +279,7 @@ _28-Jan-22 07:48 AM_:
 
 Hey there: 0x5dF8339c5E282ee48c0c7cE8A7d01a73D38B3B27 on gnosis chain
 
-![https://cdn.discordapp.com/avatars/695285961629892698/5cd78d82295a539918af613277bea419.png](https://cdn.discordapp.com/avatars/695285961629892698/5cd78d82295a539918af613277bea419.png)
-
-jak
+<h3>jak <img src="https://cdn.discordapp.com/avatars/695285961629892698/5cd78d82295a539918af613277bea419.png" width=25 height=25></h3>
 
 Hi, I'd like to sharpen my Dune Analytics skills (so will be doing work free of charge) please let me know what is the TEC token address
 
@@ -309,9 +289,7 @@ _28-Jan-22 07:50 AM_:
 
 Let me know how else we can help
 
-![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
-
-Edu - TEC Steward.
+<h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
 Hey there: 0x5dF8339c5E282ee48c0c7cE8A7d01a73D38B3B27 on gnosis chain
 
@@ -327,9 +305,7 @@ mr.day 30-Jan-22 02:07 PM
 
 hi team, I would like to involve the project, who can be a mentor? Thansk.
 
-![https://cdn.discordapp.com/avatars/695285961629892698/5cd78d82295a539918af613277bea419.png](https://cdn.discordapp.com/avatars/695285961629892698/5cd78d82295a539918af613277bea419.png)
-
-jak
+<h3>jak <img src="https://cdn.discordapp.com/avatars/695285961629892698/5cd78d82295a539918af613277bea419.png" width=25 height=25></h3>
 
 Thank you. The problem is that Gnosis chain isn't an option on Dune yet or am I missing something?
 
@@ -345,9 +321,7 @@ Dune Supports Gnosis Chain and Ethereum for cross-chain and custom dashboards
 
 ![https://app.gitbook.com/share/space/thumbnail/-Lpi9AHj62wscNlQjI-l.png?color=%2307795B&logo=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lpi9AHj62wscNlQjI-l%252Flogo%252FRaCFvlZO9BQycF7I9Hek%252FHorizontal_green.png%3Falt%3Dmedia%26token%3D3d748b3c-9be1-4e9f-b690-68c7256a07e6&theme=light](https://app.gitbook.com/share/space/thumbnail/-Lpi9AHj62wscNlQjI-l.png?color=%2307795B&logo=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lpi9AHj62wscNlQjI-l%252Flogo%252FRaCFvlZO9BQycF7I9Hek%252FHorizontal_green.png%3Falt%3Dmedia%26token%3D3d748b3c-9be1-4e9f-b690-68c7256a07e6&theme=light)
 
-![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
-
-Edu - TEC Steward.
+<h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
 [https://www.xdaichain.com/for-developers/developer-resources/dune-analytics](https://www.xdaichain.com/for-developers/developer-resources/dune-analytics)
 
@@ -366,9 +340,7 @@ _07-Feb-22 10:10 AM_:
 
 salut! i was curious what bot are you using for the onboarding that sends the questionnaire? love that experience
 
-![https://cdn.discordapp.com/avatars/582962922758602752/7cbe425123f5be49c6677cdda37b443c.png](https://cdn.discordapp.com/avatars/582962922758602752/7cbe425123f5be49c6677cdda37b443c.png)
-
-Mooner
+<h3>Mooner <img src="https://cdn.discordapp.com/avatars/582962922758602752/7cbe425123f5be49c6677cdda37b443c.png" width=25 height=25></h3>
 
 salut! i was curious what bot are you using for the onboarding that sends the questionnaire? love that experience
 
@@ -378,9 +350,7 @@ _07-Feb-22 06:02 PM_:
 
 Thank you! Really appreciate your comment, all the Praise goes to @Vyvy-vi, he is our bot wizard!
 
-![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
-
-Edu - TEC Steward.
+<h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
 Thank you! Really appreciate your comment, all the Praise goes to @Vyvy-vi, he is our bot wizard!
 
@@ -416,9 +386,7 @@ Homepage
 
 A.I.
 
-![https://cdn.discordapp.com/avatars/808364903651475477/fbbd159ca113c8e21491d77691a39556.png](https://cdn.discordapp.com/avatars/808364903651475477/fbbd159ca113c8e21491d77691a39556.png)
-
-burnpile
+<h3>burnpile <img src="https://cdn.discordapp.com/avatars/808364903651475477/fbbd159ca113c8e21491d77691a39556.png" width=25 height=25></h3>
 
 gm guys - Ive watched the orientation videos and done some lurking but I am new here. Im stopping by today because I was approched by the team from
 
@@ -462,9 +430,7 @@ _09-Mar-22 02:25 AM_:
 
 I am building a Web3 travel platform which utilized real estate fractionalizing and P2P sharing model. Would love to connect and learn from the TEC community
 
-![https://cdn.discordapp.com/avatars/740668571755086006/676fcb102c34200b3ab812d3b03fe252.png](https://cdn.discordapp.com/avatars/740668571755086006/676fcb102c34200b3ab812d3b03fe252.png)
-
-noah_saav
+<h3>noah_saav <img src="https://cdn.discordapp.com/avatars/740668571755086006/676fcb102c34200b3ab812d3b03fe252.png" width=25 height=25></h3>
 
 Hi, I am a co-founder of the London Business School Blockchain Club. We are setting up a conference toward end of April. Would love to get someone from the TE team to help with a speaking opportunity or workshop, should someone want to help out.
 
@@ -474,9 +440,7 @@ _09-Mar-22 03:03 AM_:
 
 Hello Noah! That sounds amazing! Would you like to share more information about the conference? In that way i can point you to the right direction!
 
-![https://cdn.discordapp.com/avatars/939578147144335400/2c27262945dea4b6c989f31d24665f34.png](https://cdn.discordapp.com/avatars/939578147144335400/2c27262945dea4b6c989f31d24665f34.png)
-
-jozefjagan
+<h3>jozefjagan <img src="https://cdn.discordapp.com/avatars/939578147144335400/2c27262945dea4b6c989f31d24665f34.png" width=25 height=25></h3>
 
 I am building a Web3 travel platform which utilized real estate fractionalizing and P2P sharing model. Would love to connect and learn from the TEC community
 
@@ -492,9 +456,7 @@ _09-Mar-22 04:00 AM_:
 
 @Edu - TEC Steward. where will it be held?
 
-![https://cdn.discordapp.com/avatars/784211400851587092/f7598e91337048289d104927fb3eefae.png](https://cdn.discordapp.com/avatars/784211400851587092/f7598e91337048289d104927fb3eefae.png)
-
-Davide | ValueUnbanking
+<h3>Davide | ValueUnbanking <img src="https://cdn.discordapp.com/avatars/784211400851587092/f7598e91337048289d104927fb3eefae.png" width=25 height=25></h3>
 
 @Edu - TEC Steward. where will it be held?
 
@@ -571,9 +533,7 @@ Tweets
 Twitter
 
 
-![https://cdn.discordapp.com/avatars/784211400851587092/f7598e91337048289d104927fb3eefae.png](https://cdn.discordapp.com/avatars/784211400851587092/f7598e91337048289d104927fb3eefae.png)
-
-Davide | ValueUnbanking
+<h3>Davide | ValueUnbanking <img src="https://cdn.discordapp.com/avatars/784211400851587092/f7598e91337048289d104927fb3eefae.png" width=25 height=25></h3>
 
 I was just now on the TEA call but did not manage to copy all the links at the end
 
@@ -590,9 +550,7 @@ _09-Mar-22 04:10 AM_:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
-![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
-
-Edu - TEC Steward.
+<h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
 Hello Noah! That sounds amazing! Would you like to share more information about the conference? In that way i can point you to the right direction!
 
@@ -602,9 +560,7 @@ _09-Mar-22 11:17 AM_:
 
 We’re a new club (I am the Treasurer and co-founder) and are starting with an initial effort of introducing members of the school to the importance of web3 and blockchain. We plan to hold a “welcome to web3” week where we will have 5 evening talks on various items for blockchain with companies such as Instagram, Goldman, Coinbase, and various VC’s. Scheduled for end of April. It’s more introductory in nature since most students have basically zero knowledge on the field. We’re also happy to host a separate session as tokenomics is a field quite a few people in our group are interested in. I shared next week’s 360 session and quite a few people expressed interest in attending. Overall would be great to collaborate with TEC in anyway. We have a research and tech labs are that has already begun to be quite active. We have a lot of avenues to leverage due to the DAO structure we created.
 
-![https://cdn.discordapp.com/avatars/740668571755086006/676fcb102c34200b3ab812d3b03fe252.png](https://cdn.discordapp.com/avatars/740668571755086006/676fcb102c34200b3ab812d3b03fe252.png)
-
-noah_saav
+<h3>noah_saav <img src="https://cdn.discordapp.com/avatars/740668571755086006/676fcb102c34200b3ab812d3b03fe252.png" width=25 height=25></h3>
 
 We’re a new club (I am the Treasurer and co-founder) and are starting with an initial effort of introducing members of the school to the importance of web3 and blockchain. We plan to hold a “welcome to web3” week where we will have 5 evening talks on various items for blockchain with companies such as Instagram, Goldman, Coinbase, and various VC’s. Scheduled for end of April. It’s more introductory in nature since most students have basically zero knowledge on the field. We’re also happy to host a separate session as tokenomics is a field quite a few people in our group are interested in. I shared next week’s 360 session and quite a few people expressed interest in attending. Overall would be great to collaborate with TEC in anyway. We have a research and tech labs are that has already begun to be quite active. We have a lot of avenues to leverage due to the DAO structure we created.
 
@@ -621,9 +577,7 @@ _09-Mar-22 11:41 AM_:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
-![https://cdn.discordapp.com/avatars/784211400851587092/f7598e91337048289d104927fb3eefae.png](https://cdn.discordapp.com/avatars/784211400851587092/f7598e91337048289d104927fb3eefae.png)
-
-Davide | ValueUnbanking
+<h3>Davide | ValueUnbanking <img src="https://cdn.discordapp.com/avatars/784211400851587092/f7598e91337048289d104927fb3eefae.png" width=25 height=25></h3>
 
 @noah_saav interested 
 
@@ -635,9 +589,7 @@ _09-Mar-22 11:58 AM_:
 
 I’ve sent you a friends request
 
-![https://cdn.discordapp.com/avatars/450493901531250699/a_de5d3493dcf340fe0699cd33aa6f2d50.gif](https://cdn.discordapp.com/avatars/450493901531250699/a_de5d3493dcf340fe0699cd33aa6f2d50.gif)
-
-flowscience 09-Mar-22 01:01 PM
+<h3>flowscience 09-Mar-22 01:01 PM <img src="https://cdn.discordapp.com/avatars/450493901531250699/a_de5d3493dcf340fe0699cd33aa6f2d50.gif" width=25 height=25></h3>
 Hi all, fun chatting on the orientation call this morning! I recently setup a SourceCred instance as part of our pre-launch contribution tracking mechanisms to incentivize building an open-source DAO governed data marketplace (a fork of Ocean Market). I'm also playing around with cadCAD and augmented bonding curve simulations while exploring the effects of different hatch parameters. I'm interested in learning more about conviction voting. So, I guess with all that, the TEC community feels like the right place to be
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
@@ -653,9 +605,7 @@ I wanted to celebrate my 420th episode with an interview with a DAO friend of mi
 
 
 
-![https://cdn.discordapp.com/avatars/450493901531250699/a_de5d3493dcf340fe0699cd33aa6f2d50.gif](https://cdn.discordapp.com/avatars/450493901531250699/a_de5d3493dcf340fe0699cd33aa6f2d50.gif)
-
-flowscience
+<h3>flowscience <img src="https://cdn.discordapp.com/avatars/450493901531250699/a_de5d3493dcf340fe0699cd33aa6f2d50.gif" width=25 height=25></h3>
 
 Hi all, fun chatting on the orientation call this morning! I recently setup a SourceCred instance as part of our pre-launch contribution tracking mechanisms to incentivize building an open-source DAO governed data marketplace (a fork of Ocean Market). I'm also playing around with cadCAD and augmented bonding curve simulations while exploring the effects of different hatch parameters. I'm interested in learning more about conviction voting. So, I guess with all that, the TEC community feels like the right place to be  Here's a link to an interview I did last week talking about Cannabis Genome DAO in case anyone is interested in learning more:
 
@@ -680,9 +630,7 @@ _02-Apr-22 06:35 PM_:
 Hello!
 
 
-![https://cdn.discordapp.com/avatars/948259324613001337/c1cdc4a5d9892a65794731dae710f92f.png](https://cdn.discordapp.com/avatars/948259324613001337/c1cdc4a5d9892a65794731dae710f92f.png)
-
-Wilhelm
+<h3>Wilhelm <img src="https://cdn.discordapp.com/avatars/948259324613001337/c1cdc4a5d9892a65794731dae710f92f.png" width=25 height=25></h3>
 
 Hello!
 
@@ -708,9 +656,7 @@ Found out about TEC and absolutely love everything you are up to and stand for, 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
 
-![https://cdn.discordapp.com/avatars/884393881741963275/3b9f08f274662ae07a98e0954d26ae7e.png](https://cdn.discordapp.com/avatars/884393881741963275/3b9f08f274662ae07a98e0954d26ae7e.png)
-
-CarynTan
+<h3>CarynTan <img src="https://cdn.discordapp.com/avatars/884393881741963275/3b9f08f274662ae07a98e0954d26ae7e.png" width=25 height=25></h3>
 
 Found out about TEC and absolutely love everything you are up to and stand for, would love to get more involved. Will hop on the community call this Thur 
 
@@ -723,9 +669,7 @@ _10-Apr-22 08:22 PM_:
 Welcome! Couldn't help but throw an eye at your twitter and I saw you contribute at Clarity. Been using it for a few small projects and I'm loving it so far!
 
 
-![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
-
-enti
+<h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 Welcome! Couldn't help but throw an eye at your twitter and I saw you contribute at Clarity. Been using it for a few small projects and I'm loving it so far!
 
@@ -749,9 +693,7 @@ _11-Apr-22 11:23 AM_:
 Hello here! I think actually @Gideonro was taking a look into implementing it! Connecting you both!
 
 
-![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
-
-Edu - TEC Steward.
+<h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
 Hello here! I think actually @Gideonro was taking a look into implementing it! Connecting you both!
 
@@ -761,9 +703,7 @@ _11-Apr-22 11:32 AM_:
 
 thank you @Edu - TEC Steward. @Gideonro excited to chat about Clarity
 
-![https://cdn.discordapp.com/avatars/884393881741963275/3b9f08f274662ae07a98e0954d26ae7e.png](https://cdn.discordapp.com/avatars/884393881741963275/3b9f08f274662ae07a98e0954d26ae7e.png)
-
-CarynTan
+<h3>CarynTan <img src="https://cdn.discordapp.com/avatars/884393881741963275/3b9f08f274662ae07a98e0954d26ae7e.png" width=25 height=25></h3>
 
 thank you @Edu - TEC Steward. @Gideonro excited to chat about Clarity
 
@@ -773,9 +713,7 @@ _11-Apr-22 11:46 AM_:
 
 Yes, @CarynTan, we're actually using it to coordinate our writer's guild here. Happy to talk. Feel free to message me.
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 Yes, @CarynTan, we're actually using it to coordinate our writer's guild here. Happy to talk. Feel free to message me.
 
@@ -807,9 +745,7 @@ I'm Manu and I'm the Working Group Coordination Lead for the Stewards so I'd als
 ![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
 
-![https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png](https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png)
-
-Mount Manu
+<h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
 Hello @CarynTan  I'm Manu and I'm the Working Group Coordination Lead for the Stewards so I'd also love to sync with you to talk about how we can incorporate Clarity! If you're interested, I've sent you a friend request so that we can DM-coordinate the details 
 
@@ -825,9 +761,7 @@ _13-Apr-22 10:04 AM_:
 
 yesss always, let's do it!
 
-![https://cdn.discordapp.com/avatars/450493901531250699/a_de5d3493dcf340fe0699cd33aa6f2d50.gif](https://cdn.discordapp.com/avatars/450493901531250699/a_de5d3493dcf340fe0699cd33aa6f2d50.gif)
-
-flowscience
+<h3>flowscience <img src="https://cdn.discordapp.com/avatars/450493901531250699/a_de5d3493dcf340fe0699cd33aa6f2d50.gif" width=25 height=25></h3>
 
 Hi all, fun chatting on the orientation call this morning! I recently setup a SourceCred instance as part of our pre-launch contribution tracking mechanisms to incentivize building an open-source DAO governed data marketplace (a fork of Ocean Market). I'm also playing around with cadCAD and augmented bonding curve simulations while exploring the effects of different hatch parameters. I'm interested in learning more about conviction voting. So, I guess with all that, the TEC community feels like the right place to be  Here's a link to an interview I did last week talking about Cannabis Genome DAO in case anyone is interested in learning more:
 
@@ -847,9 +781,7 @@ _19-Apr-22 08:05 PM_:
 
 Hello, how does one learn about the DAO itself?
 
-![https://cdn.discordapp.com/avatars/194609871507816448/885d9ce4da97862fc7dfdfa55804bd19.png](https://cdn.discordapp.com/avatars/194609871507816448/885d9ce4da97862fc7dfdfa55804bd19.png)
-
-Kalki (Noah M)
+<h3>Kalki (Noah M) <img src="https://cdn.discordapp.com/avatars/194609871507816448/885d9ce4da97862fc7dfdfa55804bd19.png" width=25 height=25></h3>
 
 Hello, how does one learn about the DAO itself?
 
@@ -859,9 +791,7 @@ _20-Apr-22 11:35 AM_:
 
 Hello there! The easiest way is to attend a Orientation Call, that happens every Thursday, 7PM CET.
 
-![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
-
-Edu - TEC Steward.
+<h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
 Hello there! The easiest way is to attend a Orientation Call, that happens every Thursday, 7PM CET.
 
@@ -877,9 +807,7 @@ _29-Apr-22 02:28 AM_:
 
 Hello everyone, I’m new here, I’m a software Engineer
 
-![https://cdn.discordapp.com/avatars/828620222746853396/68f2f3c5af146a18f50973be5de06ce3.png](https://cdn.discordapp.com/avatars/828620222746853396/68f2f3c5af146a18f50973be5de06ce3.png)
-
-sambezalel
+<h3>sambezalel <img src="https://cdn.discordapp.com/avatars/828620222746853396/68f2f3c5af146a18f50973be5de06ce3.png" width=25 height=25></h3>
 
 Hello everyone, I’m new here, I’m a software Engineer
 
@@ -901,9 +829,7 @@ _06-May-22 04:24 PM_:
 
 hi
 
-![https://cdn.discordapp.com/avatars/807716623937962064/8e878b350d70a484eca6368e81eff41a.png](https://cdn.discordapp.com/avatars/807716623937962064/8e878b350d70a484eca6368e81eff41a.png)
-
-OmnistratMatt
+<h3>OmnistratMatt <img src="https://cdn.discordapp.com/avatars/807716623937962064/8e878b350d70a484eca6368e81eff41a.png" width=25 height=25></h3>
 
 Hi
 
@@ -913,9 +839,7 @@ _08-May-22 08:30 AM_:
 
 Hello there! How may I help you?
 
-![https://cdn.discordapp.com/avatars/770641171411894312/08040e96bac7d7740e20ece9f1f3b77a.png](https://cdn.discordapp.com/avatars/770641171411894312/08040e96bac7d7740e20ece9f1f3b77a.png)
-
-OtecNickolay
+<h3>OtecNickolay <img src="https://cdn.discordapp.com/avatars/770641171411894312/08040e96bac7d7740e20ece9f1f3b77a.png" width=25 height=25></h3>
 
 hi
 
@@ -940,9 +864,7 @@ Hi there, I'm Justina, I'm new here, but super excited to get involved and contr
 ![https://twemoji.maxcdn.com/2/72x72/1f970.png](https://twemoji.maxcdn.com/2/72x72/1f970.png)
 
 
-![https://cdn.discordapp.com/avatars/856200026937753652/4ea57c2de61675ef13a31b091d125759.png](https://cdn.discordapp.com/avatars/856200026937753652/4ea57c2de61675ef13a31b091d125759.png)
-
-Vether
+<h3>Vether <img src="https://cdn.discordapp.com/avatars/856200026937753652/4ea57c2de61675ef13a31b091d125759.png" width=25 height=25></h3>
 
 Hi Everyone. I am new here. Non tech but very interested in crypto and understanding overall token economics
 
@@ -952,9 +874,7 @@ _10-May-22 01:31 PM_:
 
 Hello there! I invite you to join our orientation call, that happens every thursday at 7PM CET! Feel free to hop in at any moment. Let me know if that time fits your schedule!
 
-![https://cdn.discordapp.com/avatars/809737013192163349/ac0be41b4ad58698b95bb73c9f4a6313.png](https://cdn.discordapp.com/avatars/809737013192163349/ac0be41b4ad58698b95bb73c9f4a6313.png)
-
-Justina cukini
+<h3>Justina cukini <img src="https://cdn.discordapp.com/avatars/809737013192163349/ac0be41b4ad58698b95bb73c9f4a6313.png" width=25 height=25></h3>
 
 Hi there, I'm Justina, I'm new here, but super excited to get involved and contribute. Little background about me: - Mixed academical background: Political science, Economy, Human computer interactions,UX - During my study years had a chance to write my thesis on deliberative democracy theory and experimentation. Got super facinated by James S. Fishkin ideas, wanted to continue to do something with it, but sadly it got abandoned and I end up pivoting towards "real world" jobs/startups and got some experience there. - Fast forward few years, I discovered Crypto/Web 3 and DAO's and realized that my fast knowledge about governance systems, voting and fair decision making could be adapted in DAO context and expanded upon. - At the moment I'm part of a web 3 design studio where I'm working as user researcher and design sprint facilitator. We have some community governance in place but is very far from being decentralized enough and be called DAO. -I have super strong curiosity to learn more about tokenomics, TE and incentive design, I hope I can find my place in this community and grow my knowledge with other curious folks
 
@@ -980,9 +900,7 @@ Deleted User 14-May-22 02:29 PM
 HI everyone! Just found out about this project via Gitcoin. My background is in game development & 3D digital art. You can find some of my work here > [http://animatedreality.com/](http://animatedreality.com/) I work with the Community and Design guild for CityDAO. We're thinking about integrating better tooling for DAO coordination. Would love to collaborate and get connected with folks here!
 
 
-![https://cdn.discordapp.com/avatars/809737013192163349/ac0be41b4ad58698b95bb73c9f4a6313.png](https://cdn.discordapp.com/avatars/809737013192163349/ac0be41b4ad58698b95bb73c9f4a6313.png)
-
-Justina cukini
+<h3>Justina cukini <img src="https://cdn.discordapp.com/avatars/809737013192163349/ac0be41b4ad58698b95bb73c9f4a6313.png" width=25 height=25></h3>
 
 Hi @Edu - TEC Steward. thank you for the warm welcome, do you mean - TokenEngineering Academy?
 
@@ -1014,9 +932,7 @@ _24-May-22 03:52 AM_:
 
 gys do you have clender of events coming up or googl ecalender?
 
-![https://cdn.discordapp.com/avatars/390855841013694464/619b68fb1e8d76e77d5013887300512b.png](https://cdn.discordapp.com/avatars/390855841013694464/619b68fb1e8d76e77d5013887300512b.png)
-
-Shanzz 🏴
+<h3>Shanzz 🏴 <img src="https://cdn.discordapp.com/avatars/390855841013694464/619b68fb1e8d76e77d5013887300512b.png" width=25 height=25></h3>
 
 gys do you have clender of events coming up or googl ecalender?
 
@@ -1045,8 +961,6 @@ I am currently researching and also working as a Project Manager in an Iberoamer
 
 ![https://twemoji.maxcdn.com/2/72x72/1f340.png](https://twemoji.maxcdn.com/2/72x72/1f340.png)
 
-(edited)
-
 <h3>will4 <img src="https://cdn.discordapp.com/avatars/749462738555633754/6482a034fc6348cb2c0bd1632b24b3b3.png" width=25 height=25></h3>
 
 _02-Jun-22 04:09 PM_:
@@ -1065,9 +979,7 @@ _05-Jun-22 07:09 AM_:
 
 Hi there i'm Nirmala, Head of Community at a The Fabricant which is a decentralized digital only fashion entity. I'm also a member of Kernel where I discovered this group and keen to learn more about tokenonmics and how to engineer regenerative systems that are relevant and applicable to the world we need to set in motion. I'm also a mother of a 1 year old and so keen to help build a world for all the coming generations that they can thrive and live well and in harmony in.
 
-![https://cdn.discordapp.com/avatars/976337004923093013/d051857d40fa4cb334d3e5d0c8349f7c.png](https://cdn.discordapp.com/avatars/976337004923093013/d051857d40fa4cb334d3e5d0c8349f7c.png)
-
-Che_Fran
+<h3>Che_Fran <img src="https://cdn.discordapp.com/avatars/976337004923093013/d051857d40fa4cb334d3e5d0c8349f7c.png" width=25 height=25></h3>
 
 Hello everyone! My name is Francisco, I am very happy to be here, this is my first experience with Daos, so I discover a lot of new information every day. It's a bit difficult but collaborating to change the world can't be easy, right? I studied communication, at first I dedicated myself to editing videos and animations. I also like to write and research about communication, politics and technology. I currently work as a project manager and product owner. I would like to dedicate my time to projects that are closer to my philosophy of life. That's why I'm here. I have a lot of energy to share and collaborate in this collective construction. It excites me to think about it. I hope I can help with something.
 
@@ -1078,9 +990,7 @@ _06-Jun-22 05:47 AM_:
 Hello there! It was so nice to see you around last week, let me know if you have plugged in with the #📡｜comms team! cc: @chuygarcia.eth
 
 
-![https://cdn.discordapp.com/avatars/854772067625861121/aaeaa01936137ecde7aa33ea0cc5d83b.png](https://cdn.discordapp.com/avatars/854772067625861121/aaeaa01936137ecde7aa33ea0cc5d83b.png)
-
-Adrinarvaezcote
+<h3>Adrinarvaezcote <img src="https://cdn.discordapp.com/avatars/854772067625861121/aaeaa01936137ecde7aa33ea0cc5d83b.png" width=25 height=25></h3>
 
 Hello everyone. My name is Adriana Narvaez Cote. I am Venezuelan but I currently live in Lisbon. I am a researcher of Complex Adaptive Systems and the contributions it can give to Public Governance.  I am currently researching and also working as a Project Manager in an Iberoamerican NGO. I am very interested in learning about TE, I think my research is very connected to this and I would love to collaborate on any project you have.   (edited)
 
@@ -1095,9 +1005,7 @@ _06-Jun-22 05:48 AM_:
 Adriana! I hope your first these days around were good to you! If I may, I'd suggest you to join the #🙌🏽｜soft-gov and #💸｜reward-system meeting. Which are two of our systems that relate to our Governance layer! Let me know if I can be of any help
 
 
-![https://cdn.discordapp.com/avatars/749462738555633754/6482a034fc6348cb2c0bd1632b24b3b3.png](https://cdn.discordapp.com/avatars/749462738555633754/6482a034fc6348cb2c0bd1632b24b3b3.png)
-
-will4
+<h3>will4 <img src="https://cdn.discordapp.com/avatars/749462738555633754/6482a034fc6348cb2c0bd1632b24b3b3.png" width=25 height=25></h3>
 
 Hello, My name is Will Holley – I lead an independent RadicalxChange chapter that is developing token standards for Partial Common Ownership (
 
@@ -1113,9 +1021,7 @@ Hey Will! Love to see the RxC folks here! Feel free to share it on the #🎫｜g
 
 
 
-![https://cdn.discordapp.com/avatars/694809924957372427/8c98b5eb7c4cb6a38576f645a13f4f3a.png](https://cdn.discordapp.com/avatars/694809924957372427/8c98b5eb7c4cb6a38576f645a13f4f3a.png)
-
-nirmalashome
+<h3>nirmalashome <img src="https://cdn.discordapp.com/avatars/694809924957372427/8c98b5eb7c4cb6a38576f645a13f4f3a.png" width=25 height=25></h3>
 
 Hi there i'm Nirmala, Head of Community at a The Fabricant which is a decentralized digital only fashion entity. I'm also a member of Kernel where I discovered this group and keen to learn more about tokenonmics and how to engineer regenerative systems that are relevant and applicable to the world we need to set in motion. I'm also a mother of a 1 year old and so keen to help build a world for all the coming generations that they can thrive and live well and in harmony in.
 
@@ -1126,9 +1032,7 @@ _06-Jun-22 05:51 AM_:
 Hey Nirmala, we have members of our community who not only are part of the Kernel program, but also share the motherhood experience, such as @Tam2140. Are you aware of the TE Fundamentals barchelor program?
 
 
-![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
-
-Edu - TEC Steward.
+<h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
 Hey Nirmala, we have members of our community who not only are part of the Kernel program, but also share the motherhood experience, such as @Tam2140. Are you aware of the TE Fundamentals barchelor program?
 
@@ -1139,9 +1043,7 @@ _06-Jun-22 09:04 AM_:
 No I will have to check it out! And nice to meet you too @Tam2140 nice to see some kernerlers in here!
 
 
-![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
-
-Edu - TEC Steward.
+<h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
 Hello there! It was so nice to see you around last week, let me know if you have plugged in with the #📡｜comms team! cc: @chuygarcia.eth
 
@@ -1165,9 +1067,7 @@ _06-Jun-22 10:53 AM_:
 @Edu - TEC Steward. @chuygarcia.eth Gm! Thanks for thinking of me. I'll try to be at the next comms meeting to catch up.
 
 
-![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
-
-Edu - TEC Steward.
+<h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
 Adriana! I hope your first these days around were good to you! If I may, I'd suggest you to join the #🙌🏽｜soft-gov and #💸｜reward-system meeting. Which are two of our systems that relate to our Governance layer! Let me know if I can be of any help
 
@@ -1193,9 +1093,7 @@ praise command
 
 Command to praise users in the discord server. You need to have an activated account on the Praise System to use this command. **Usage**: /praise receivers: <@user1 @user2 ...> reason: for something
 
-![https://cdn.discordapp.com/avatars/597075358549803019/d8feb8051ffae6ba7b61b6e32f3fb88c.png](https://cdn.discordapp.com/avatars/597075358549803019/d8feb8051ffae6ba7b61b6e32f3fb88c.png)
-
-zylris
+<h3>zylris <img src="https://cdn.discordapp.com/avatars/597075358549803019/d8feb8051ffae6ba7b61b6e32f3fb88c.png" width=25 height=25></h3>
 
 Hi everyone! I'm Joey from Magna, a token vesting ops company. Looking to learn more about tokenomics and the community! 
 

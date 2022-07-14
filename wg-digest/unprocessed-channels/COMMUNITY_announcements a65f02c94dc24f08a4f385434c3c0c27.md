@@ -217,9 +217,7 @@ The Global Governance Gathering: Two full days entirely dedicated to manifesting
 ![https://assets.website-files.com/61bb3bcbe9c0ac2142865e07/62324338d498e7e6ffef9ed0_The%20DAOist_GG_FLYER_opt.gif](https://assets.website-files.com/61bb3bcbe9c0ac2142865e07/62324338d498e7e6ffef9ed0_The%20DAOist_GG_FLYER_opt.gif)
 
 
-![https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png](https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png)
-
-angieberryberry
+<h3>angieberryberry <img src="https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png" width=25 height=25></h3>
 
 TE Academy will be at DAOist GGG in Amsterdam next week! Meet us for panels and a workshop on #tokenengineering in DAOs. #OwnYourEconomy  Monday, April 18 Livestream available!
 
@@ -303,9 +301,7 @@ _03-Jun-22 11:50 AM_:
 
 
 
-![https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png](https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png)
-
-chuygarcia.eth
+<h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
 @everyone Proposal Inverter AMA starting now!
 

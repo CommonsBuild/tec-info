@@ -15,9 +15,7 @@ i think we can play our way there
 
 Infinite Play <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
+<h3><h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3> <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _19-Mar-21 06:50 AM_:
 
@@ -35,9 +33,7 @@ Token Engineering nurtured by TE Commons for MetaFest 18/3/21 with from solsista
 
 [https://lh3.googleusercontent.com/coaSD5o-Hd3w5PB-JlNazPSlKNVx_i0vT0iBrri_KlRqi0FhWPb1F_k1p5HRYnRPe2WWTvd_IMFFTw=w1200-h630-p](https://lh3.googleusercontent.com/coaSD5o-Hd3w5PB-JlNazPSlKNVx_i0vT0iBrri_KlRqi0FhWPb1F_k1p5HRYnRPe2WWTvd_IMFFTw=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Sounds good. I also sent you a podcast I did with Rachel Holmes of Metaspace into Telegram and we talked about this a lot during it.
 
@@ -48,9 +44,7 @@ I linked that podcast to your handle in the initiative slide <img src="https://t
 
 hah "Divided Validation"... interesting...
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 **extra Communtiy Working Sesh 24th 14:00 CET** - will ping again beginning next week with the optimized survey doc so we're effective to finalize questions into survey:
 
@@ -98,9 +92,7 @@ Something as - how did you "spend your time" while the collective human crazines
 
 [thread]: Yes, right - We've been trying to put the turquoise dimension in some digestible questions in the TE questionnaire. So this is a reflection connected to that as well.
 
-![https://cdn.discordapp.com/avatars/814555684028940310/6aede40df4f827d174daf2c87d2c9d82.png](https://cdn.discordapp.com/avatars/814555684028940310/6aede40df4f827d174daf2c87d2c9d82.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/814555684028940310/6aede40df4f827d174daf2c87d2c9d82.png" width=25 height=25></h3>
 
 [thread]: I love the term - "consilience" and its meaning. Actually I am pondering that as the fractal ethos or "WE" ethos in this TE community and all beyond.
 
@@ -109,9 +101,7 @@ Letty
 _25-Mar-21 05:04 PM_:
 ohhhh interesting... fractal ethos <img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/814555684028940310/6aede40df4f827d174daf2c87d2c9d82.png](https://cdn.discordapp.com/avatars/814555684028940310/6aede40df4f827d174daf2c87d2c9d82.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/814555684028940310/6aede40df4f827d174daf2c87d2c9d82.png" width=25 height=25></h3>
 
 Something as - how did you "spend your time" while the collective human craziness was physically projected? - "I was consiliencing"
 
@@ -286,9 +276,7 @@ _12-Apr-21 09:30 AM_:
 already add a reminder on my calendar
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @durgadas @JessicaZartler hope you can make it too now we moved to 8pm CET
 
@@ -326,9 +314,7 @@ Repo for the curation of Token Engineering resources - TokenEngineeringCommunity
 [https://avatars.githubusercontent.com/u/56689987?s=400&v=4](https://avatars.githubusercontent.com/u/56689987?s=400&v=4)
 
 
-![https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png](https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png)
-
-Juankbell
+<h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
 This is a library i made for Blockchain & politics  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
@@ -338,8 +324,6 @@ This is a library i made for Blockchain & politics  <img src="https://twemoji.ma
 
 _14-Apr-21 02:43 PM_:
 This is my personal library for Blockchain & politics, will try to add some to that repo <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
-
-(edited)
 
 <h3>knobsDAO <img src="https://cdn.discordapp.com/avatars/394919909454512138/b66916eb105b5ef364edec67d20bb6fb.png" width=25 height=25></h3>
 
@@ -382,9 +366,7 @@ EXPLORATIONS ON THE FUTURE OF CIVILIZATION Some of the central questions being e
 ![https://civilizationemerging.com/wp-content/uploads/2021/03/Daniel-Schmachtenberger.jpg](https://civilizationemerging.com/wp-content/uploads/2021/03/Daniel-Schmachtenberger.jpg)
 
 
-![https://cdn.discordapp.com/avatars/805467270762856490/a8cb02682bdcc263545a6fe1cf21de89.png](https://cdn.discordapp.com/avatars/805467270762856490/a8cb02682bdcc263545a6fe1cf21de89.png)
-
-bends
+<h3>bends <img src="https://cdn.discordapp.com/avatars/805467270762856490/a8cb02682bdcc263545a6fe1cf21de89.png" width=25 height=25></h3>
 
 Hi all, looks like this may be the right place for this link.
 
@@ -417,9 +399,7 @@ New Economics Series: Part 2 - Daniel Schmachtenberger
 
 @Letty look : "Daniel Schmachtenberger is a founding member of The Consilience Project, aimed at improving public sensemaking and dialogue. "
 
-![https://cdn.discordapp.com/avatars/814555684028940310/6aede40df4f827d174daf2c87d2c9d82.png](https://cdn.discordapp.com/avatars/814555684028940310/6aede40df4f827d174daf2c87d2c9d82.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/814555684028940310/6aede40df4f827d174daf2c87d2c9d82.png" width=25 height=25></h3>
 
 Something as - how did you "spend your time" while the collective human craziness was physically projected? - "I was consiliencing"
 
@@ -451,9 +431,7 @@ New Economics Series: Part 1 - Daniel Schmachtenberger
 
 ![https://civilizationemerging.com/wp-content/uploads/2017/10/New-Economics-Series-1.jpg](https://civilizationemerging.com/wp-content/uploads/2017/10/New-Economics-Series-1.jpg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 actually have tears in my eyes  synthesis is happening - this makes me hopeful, finding "common sense" across the globe with people from so different backgrounds seeing the same patterns, wayfinding... thank you @bends for sharing. A lot of this <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -481,9 +459,7 @@ Join our Cloud HD Video Meeting
 
 Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as ex...
 
-![https://cdn.discordapp.com/avatars/805467270762856490/a8cb02682bdcc263545a6fe1cf21de89.png](https://cdn.discordapp.com/avatars/805467270762856490/a8cb02682bdcc263545a6fe1cf21de89.png)
-
-bends
+<h3>bends <img src="https://cdn.discordapp.com/avatars/805467270762856490/a8cb02682bdcc263545a6fe1cf21de89.png" width=25 height=25></h3>
 
 You mean other ideas to connect or ideas for connecting w/ Daniel and Consilience Project? I'd be up for trying to reach out if we think that'd be valuable.
 
@@ -494,9 +470,7 @@ no no, only if you already see connections <img src="https://twemoji.maxcdn.com/
 
 don't have the bandwidth now, but I'll certainly try and see if something more resonates... let me see.. maybe something around the Cryptocommons Gatherin in June... let's see what emerges
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 We got the OGs around a Bonfire chat on the experience of Transdisciplinary Art of Token Engineering for 28th April 4pm CET @Zeptimus hope the time works out, would be great if we can record this
 
@@ -512,9 +486,7 @@ _22-Apr-21 09:45 AM_:
 
 Normally that call its lead by Livi and Edu 1 week each if livi its free i think can happen both at the same time with no problem
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @Zeptimus @liviade I see that the "Transdisciplinary Art of Token Engineering with the OGs" (4PM CET 28th) is overlapping weekly AMA - do you think it's a nice coincidence and we should move it to the Discord Server? Else we keep the Zoom link.
 
@@ -526,9 +498,7 @@ I love that idea! of bringing everyone to the bonfire
 
 I can wait on the chat to see if anyone comes to the AMA and then bring them over to the hitchhikers
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 no no, only if you already see connections  don't have the bandwidth now, but I'll certainly try and see if something more resonates... let me see.. maybe something around the Cryptocommons Gatherin in June... let's see what emerges <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -538,9 +508,7 @@ _22-Apr-21 04:46 PM_:
 
 Ah gotcha. I don't have any personal connection. Just stumbled across on my journey down the rabbit hole., but yeah, would make a great guest for a larger event.
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 OMG! sooo cool it's like our brains were connected hahah
 
@@ -551,9 +519,7 @@ Yes! Was thinking about that reading list -since it's quite hard to keep all dea
 
 And reminiscing about old funny travel adventures...
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 [https://consilienceproject.org/team/](https://consilienceproject.org/team/)
 
@@ -565,9 +531,7 @@ _24-Apr-21 06:31 PM_:
 
 Consilience as an "epistemic scientifically social practice" seems very relevant and it's no wonder all those team members bring to the fore such a cross-disciplinar background.
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 this "The current information network has expanded to reach 3.2 billion people, and its information systems have now become a part of every society, market, supply chain, and industry. Designing this network and its systems without governance and ethics in mind has made the Internet an ungovernable and unethical space." but not much more yet
 
@@ -645,9 +609,7 @@ Notes from the round from today's session.
 
 
 
-![https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png](https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png)
-
-ygg_anderson
+<h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
 Notes from the round from today's session.
 
@@ -777,9 +739,7 @@ Learn more
 
 ![https://i.ytimg.com/vi/1svQzhYwUEQ/maxresdefault.jpg](https://i.ytimg.com/vi/1svQzhYwUEQ/maxresdefault.jpg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @chuygarcia.eth this is one of the first things that helped me make sense "organizing like a film project"
 
@@ -793,9 +753,7 @@ _29-Apr-21 04:33 PM_:
 
 !dish praise to @chuygarcia92 for bringing up the "film industry" as an example/use case for common language and sense making in #🎑｜omega
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 oh speaking of which thanks to @durgadas I enjoyed this a lot (its on a tangent - but a good one  ) : <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
@@ -813,9 +771,7 @@ Personal note on my part: I've also been very invested in this consilience effor
 _29-Apr-21 04:55 PM_:
 Or was it "Cloud Atlas"? Yes the latter I think... If not always blame automatic machine learning <img src="https://twemoji.maxcdn.com/2/72x72/1f61c.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 speaking of comics & bubbles, and "value"
 
@@ -846,9 +802,7 @@ What can we trust? Why is the 'information ecology' so damaged, and what would i
 
 
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 !dish praise to @chuygarcia92 for bringing up the "film industry" as an example/use case for common language and sense making in #🎑｜omega
 
@@ -965,9 +919,7 @@ Original message was deleted.
 _05-May-21 01:48 PM_:
 my bad <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 @solsista I totally mixed up times this week/today
 
@@ -1019,9 +971,7 @@ _08-May-21 11:23 PM_:
 
 Hey there, can someone share a link to the Omega WG manifesto? ty!
 
-![https://cdn.discordapp.com/avatars/760279960991694848/7e359fc8f849c781fc96874f523737e3.png](https://cdn.discordapp.com/avatars/760279960991694848/7e359fc8f849c781fc96874f523737e3.png)
-
-T Wells
+<h3>T Wells <img src="https://cdn.discordapp.com/avatars/760279960991694848/7e359fc8f849c781fc96874f523737e3.png" width=25 height=25></h3>
 
 Hey there, can someone share a link to the Omega WG manifesto? ty!
 
@@ -1041,9 +991,7 @@ Proposal Working Group 0mega: How can we enable Token Engineering Ethos to emerg
 
 We'll be fleshing out proposal/frameworks during this month prehatch
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Building upon this though:
 
@@ -1077,9 +1025,7 @@ I mentioned the TEC and Juan in this podcast
 
 A fair bit
 
-![https://cdn.discordapp.com/avatars/760279960991694848/7e359fc8f849c781fc96874f523737e3.png](https://cdn.discordapp.com/avatars/760279960991694848/7e359fc8f849c781fc96874f523737e3.png)
-
-T Wells
+<h3>T Wells <img src="https://cdn.discordapp.com/avatars/760279960991694848/7e359fc8f849c781fc96874f523737e3.png" width=25 height=25></h3>
 
 Hey there, can someone share a link to the Omega WG manifesto? ty!
 
@@ -1098,9 +1044,7 @@ Hope everyone is joining **tonight again 8PM CET** - look forward to wrap some o
 
 @liviade since we'll have topic of research method/option on the agenda, we can also peak into the answers of TEs who took the survey till now, can you share this tonight in a way, that we get some insights into answers / topics that will inform @Lydia's proposal for suitable research methods, such as designing participatory focus groups around specific topics etc
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @liviade since we'll have topic of research method/option on the agenda, we can also peak into the answers of TEs who took the survey till now, can you share this tonight in a way, that we get some insights into answers / topics that will inform @Lydia's proposal for suitable research methods, such as designing participatory focus groups around specific topics etc
 
@@ -1111,9 +1055,7 @@ _12-May-21 09:56 AM_:
 Great idea, will do
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @Zeptimus do we also have a template for meeting agenda/notes for WGs? If so please share with @Suga who is kindly helping us with coordination & organizing our work  <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
@@ -1204,9 +1146,7 @@ Join our Cloud HD Video Meeting
 
 Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as ex...
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 very cool session! here are the notes:
 
@@ -1253,9 +1193,7 @@ _20-May-21 04:01 PM_:
 
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 [https://docs.google.com/document/d/1GwTiq1RcRfnDrr-Po8BbWVpOxl0b9gD1emjmgqIJDy4/edit#](https://docs.google.com/document/d/1GwTiq1RcRfnDrr-Po8BbWVpOxl0b9gD1emjmgqIJDy4/edit#)
 
@@ -1275,9 +1213,7 @@ Repo for the curation of Token Engineering resources - TokenEngineeringCommunity
 
 [https://opengraph.githubassets.com/3f729ca3c026217a4b3659f4d91168d518820db9e14fe5533785b7ef6de041ae/TokenEngineeringCommunity/resources](https://opengraph.githubassets.com/3f729ca3c026217a4b3659f4d91168d518820db9e14fe5533785b7ef6de041ae/TokenEngineeringCommunity/resources)
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 I'm actually thinking that adding the links there and then having @ddan supercurator port those to github/gitbook may be duplicating work Suggestions: 1. Create a specific repository with titles under TEC github adding curators as contributors (is github good for visual usability/graph diagramming? No) OR 2. Going for Notion using the same titles/contributors collaborating there (Notion doesn't have graph nodes) OR/AND 3. Doing the Github repo directly with collaborators AND using Obsidian to port (note takers are migrating to Obsidian, we can have nice graph nodes built there with the meta-data links (nice crypto flowers visuals) Any thoughts @ddan , @Juankbell (who both already started linking!), @liviade @durgadas ?  (edited)
 
@@ -1287,9 +1223,7 @@ _21-May-21 11:18 PM_:
 
 Personally, I don't see that it creates too much more work. However, if we really wanted to make things more streamlined, it would probably be easiest to use a spreadsheet for data entry, then port that to whatever
 
-![https://cdn.discordapp.com/avatars/789433609320529951/53fdff0389252641946360451250a417.png](https://cdn.discordapp.com/avatars/789433609320529951/53fdff0389252641946360451250a417.png)
-
-ddan
+<h3>ddan <img src="https://cdn.discordapp.com/avatars/789433609320529951/53fdff0389252641946360451250a417.png" width=25 height=25></h3>
 
 Personally, I don't see that it creates too much more work. However, if we really wanted to make things more streamlined, it would probably be easiest to use a spreadsheet for data entry, then port that to whatever
 
@@ -1335,9 +1269,7 @@ Thanks to David Snowden at cognitive-edge.com for the Cynefin framework.
 ![https://i.ytimg.com/vi/-F4enP8oBFM/maxresdefault.jpg](https://i.ytimg.com/vi/-F4enP8oBFM/maxresdefault.jpg)
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 this is great! Let's synch this Wednesday
 
@@ -1363,9 +1295,7 @@ Wednesday, 8pm CET
 
 ![https://raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_omega.png](https://raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_omega.png)
 
-![https://cdn.discordapp.com/avatars/681157547482153011/4e9ce1588d5987d2087058a058750605.png](https://cdn.discordapp.com/avatars/681157547482153011/4e9ce1588d5987d2087058a058750605.png)
-
-EvoMensch
+<h3>EvoMensch <img src="https://cdn.discordapp.com/avatars/681157547482153011/4e9ce1588d5987d2087058a058750605.png" width=25 height=25></h3>
 
 @Letty @solsista Let me know if you need warm contacts or intros for reaching out to the Conscilience Project. My organisation Perspectiva is close to the core people involved
 
@@ -1405,8 +1335,6 @@ Questioning each one indicator from all 4 perspectives: individual, collective, 
 
 [https://the-commons-stack.typeform.com/to/t7M0UzZU](https://the-commons-stack.typeform.com/to/t7M0UzZU)
 
-(edited)
-
 TE Community Survey #1 (Environment & I)
 
 Turn data collection into an experience with Typeform. Create beautiful online forms, surveys, quizzes, and so much more. Try it for FREE.
@@ -1436,9 +1364,7 @@ Token Engineering Ethos - Research Background: Community Survey [this can be com
 
 [https://lh3.googleusercontent.com/73sgRxthTQxaZ2Nu1J6mxeBr-d9dmCtK02XQA8Tf_3Iy30YSqSNvkKDcpV6_Lri8Uygckky4ikrnig=w1200-h630-p](https://lh3.googleusercontent.com/73sgRxthTQxaZ2Nu1J6mxeBr-d9dmCtK02XQA8Tf_3Iy30YSqSNvkKDcpV6_Lri8Uygckky4ikrnig=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @EvoMensch why don't you join, once? We meet again in 2 weeks ^^ same time, same place
 
@@ -1483,9 +1409,7 @@ Thank you for the many insights the "unstructured" session yesterday enabled to 
 See you this evening at the TEC gathering 8PM CET, where I try to "linearize" this into an update, that will make it easier to find a foothold, for anyone who wants to join, anytime
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 This is an excerpt from 2nd cohort of the course
 
@@ -1592,8 +1516,6 @@ we'll meet
 in the 0Mega in the voice channel (I think the friendly bot will remind 1hr before) - I'll put an agenda/to-do together, there are some concrete things we need to take care of - then we can take the better part of the hour to pin down the "modus operandi", I think it is becoming sufficiently clear for some ^^ others might still want to add/question or just tag along a bit longer to "get the beat" <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://donellameadows.org/archives/dancing-with-systems/](https://donellameadows.org/archives/dancing-with-systems/)
-
-(edited)
 
 [Kindle Loomis](https://donellameadows.org/author/kloomis/)
 
@@ -1711,9 +1633,7 @@ _09-Jun-21 02:43 PM_:
 _09-Jun-21 03:04 PM_:
 Sorry my internet connection is really bad today, will try to check the manifesto and make coments async <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 ok great, I'll share here a spreadsheet with the same entries
 
@@ -1729,9 +1649,7 @@ _10-Jun-21 03:06 PM_:
 
 Not yet - I've been kind of waiting to "see" if this was of real interest/value Of course it is! - access to documents (credentials) and format of content was a practical issue But we already agreed on the 'migration' process
 
-![https://cdn.discordapp.com/avatars/789433609320529951/53fdff0389252641946360451250a417.png](https://cdn.discordapp.com/avatars/789433609320529951/53fdff0389252641946360451250a417.png)
-
-ddan
+<h3>ddan <img src="https://cdn.discordapp.com/avatars/789433609320529951/53fdff0389252641946360451250a417.png" width=25 height=25></h3>
 
 has this migration happened? I haven't seen activity in the Doc for a bit, or mention of it here.. just checking to see if there's something I can do to help move this forward
 
@@ -1827,9 +1745,7 @@ Dada's Invisible Economy A conversation with Eric Harris-Braun co-founder of Hol
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/852808274725830696/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/852808274725830696/unknown.png)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 just added a first entry  certainly have a few more to add, it's good to have friendly reminders! once we have filled what we can and know which curators we're missing would be good to "clean" up for some outreach? --> also remember it should have a TEC Proposal forum post, to get feedback/garner interest <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -1839,9 +1755,7 @@ _11-Jun-21 04:19 PM_:
 
 something else I was thinking but never got around to bringing up is that I have done a great deal of study into the history behind cryptocurrencies and many of their related fields... so at some point was planning to bring that up, because the history section could fill pages depending on what areas we think are relevant or most important to highlight just want to communicate first, because right now I think the method of getting ~5 sources from each contributor to give this project some internal context is really nice, and don't want to get heavy-handed with my vision (edited)
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Not yet - I've been kind of waiting to "see" if this was of real interest/value Of course it is! - access to documents (credentials) and format of content was a practical issue But we already agreed on the 'migration' process
 
@@ -1875,9 +1789,7 @@ _12-Jun-21 04:45 PM_:
 
 Very intriguing
 
-![https://cdn.discordapp.com/avatars/789433609320529951/53fdff0389252641946360451250a417.png](https://cdn.discordapp.com/avatars/789433609320529951/53fdff0389252641946360451250a417.png)
-
-ddan
+<h3>ddan <img src="https://cdn.discordapp.com/avatars/789433609320529951/53fdff0389252641946360451250a417.png" width=25 height=25></h3>
 
 something else I was thinking but never got around to bringing up is that I have done a great deal of study into the history behind cryptocurrencies and many of their related fields... so at some point was planning to bring that up, because the history section could fill pages depending on what areas we think are relevant or most important to highlight just want to communicate first, because right now I think the method of getting ~5 sources from each contributor to give this project some internal context is really nice, and don't want to get heavy-handed with my vision  (edited)
 
@@ -1895,9 +1807,7 @@ A new tool that blends your everyday work apps into one. It's the all-in-one wor
 
 ![https://www.notion.so/front-static/meta/default.png](https://www.notion.so/front-static/meta/default.png)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 re. biases - this one was good from "Origin of Wealth" (Complexity Economics vs. Traditional Economics):
 
@@ -1925,9 +1835,7 @@ especially the latter excerpt can be somewhat useful in pinpointing Biases and U
 
 my hope is that in TE work these issues are much easier/more structured to handle than personal "Shadow Work"
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 [https://www.ae.be/blog-en/discriminating-ai-be-conscious-about-the-unconscious-bias](https://www.ae.be/blog-en/discriminating-ai-be-conscious-about-the-unconscious-bias)
 
@@ -1976,9 +1884,7 @@ Tim Wise is among the most prominent anti-racist writers and educators in North 
 
 ![https://i.ytimg.com/vi/_N6Nb2y-CJ4/sddefault.jpg](https://i.ytimg.com/vi/_N6Nb2y-CJ4/sddefault.jpg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 Another tooling I want to bring up is Notion - due to its markdown export capabilities - are you familiar with @Letty @ddan ? Could you have a look, if it would work for you?
 
@@ -1990,9 +1896,7 @@ _13-Jun-21 06:14 PM_:
 
 I think Notion is a great tool and use it all the time, primarily for extracting MD from WYSIWYG (HTML) ... for making the project more accessible I think it could be powerful, since notion is popular and easy to use... spreadsheets are much more neat and tidy for all stages of the journey, but it wouldn't surprise me if generally people are more comfortable with Notion (edited)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 this is super cool @ddan also something I'm really mindful of - since what Bitcoin brought about is a certain cypherpunk worldview to decentralization/distributed systems - that is fundamentally different from how P2P folks e.g. view distributed/decentralized systems --> what if you added what is fitting from that history within the different petals of the cryptoeconomic flower? --> and then have a deep link from - I guess - "Computer Science and Cryptography" to --> The History of Cryptocurrencies
 
@@ -2002,9 +1906,7 @@ _13-Jun-21 06:21 PM_:
 
 yes of course, I could probably throw together a timeline for a number of petals in the blockchain history flower relatively quickly... then that would beg a history for other relavant domains... this is the type of project I could get lost in a for a while... still trying to reduce some other commitments I have but would love to delve deeply into this over the coming year (edited)
 
-![https://cdn.discordapp.com/avatars/789433609320529951/53fdff0389252641946360451250a417.png](https://cdn.discordapp.com/avatars/789433609320529951/53fdff0389252641946360451250a417.png)
-
-ddan
+<h3>ddan <img src="https://cdn.discordapp.com/avatars/789433609320529951/53fdff0389252641946360451250a417.png" width=25 height=25></h3>
 
 yes of course, I could probably throw together a timeline for a number of petals in the blockchain history flower relatively quickly... then that would beg a history for other relavant domains... this is the type of project I could get lost in a for a while... still trying to reduce some other commitments I have but would love to delve deeply into this over the coming year  (edited)
 
@@ -2018,9 +1920,7 @@ take your time - just leave an anchor <img src="https://twemoji.maxcdn.com/2/72x
 to come back to :))
 
 
-![https://cdn.discordapp.com/avatars/789433609320529951/53fdff0389252641946360451250a417.png](https://cdn.discordapp.com/avatars/789433609320529951/53fdff0389252641946360451250a417.png)
-
-ddan
+<h3>ddan <img src="https://cdn.discordapp.com/avatars/789433609320529951/53fdff0389252641946360451250a417.png" width=25 height=25></h3>
 
 I think Notion is a great tool and use it all the time, primarily for extracting MD from WYSIWYG (HTML) ... for making the project more accessible I think it could be powerful, since notion is popular and easy to use... spreadsheets are much more neat and tidy for all stages of the journey, but it wouldn't surprise me if generally people are more comfortable with Notion  (edited)
 
@@ -2032,9 +1932,7 @@ Yes, accesibility (Notion) Vs efficiency (excel?) was something to consider when
 
 The story for other domains might grow from there and interactions with other DAOs and initiatives sharing vision/mission
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 yes  take your time - just leave an anchor  to come back to :)) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2693.png" width=20 height=20>
 
@@ -2069,9 +1967,7 @@ _14-Jun-21 04:23 PM_:
 
 Just went through the first meeting. A lot of interesting points definitely and take home messages on intrinsic motivations and engineering motivations. Personally, token engineering is in a way exercising our rights (rather responsibility) as intelligent species to enact social engineering. Essentially, modifying our environment that we operate/live in. Comfort and quality of life could be the general indicators of its KPI per token held. Tokens are not only an immutable ledger of unit value but can host karma, and embed other forms of data, I suppose. (edited)
 
-![https://cdn.discordapp.com/avatars/795833810507530240/1fce13af50a9d65f58c704172cd196eb.png](https://cdn.discordapp.com/avatars/795833810507530240/1fce13af50a9d65f58c704172cd196eb.png)
-
-vanjeer
+<h3>vanjeer <img src="https://cdn.discordapp.com/avatars/795833810507530240/1fce13af50a9d65f58c704172cd196eb.png" width=25 height=25></h3>
 
 Just went through the first meeting. A lot of interesting points definitely and take home messages on intrinsic motivations and engineering motivations. Personally, token engineering is in a way exercising our rights (rather responsibility) as intelligent species to enact social engineering. Essentially, modifying our environment that we operate/live in. Comfort and quality of life could be the general indicators of its KPI per token held. Tokens are not only an immutable ledger of unit value but can host karma, and embed other forms of data, I suppose.  (edited)
 
@@ -2083,9 +1979,7 @@ interesting, the way you put it - "social engineering" looses its purely negativ
 
 just wanted to share this: " If something is ugly, say so. If it is tacky, inappropriate, out of proportion, unsustainable, morally degrading, ecologically impoverishing, or humanly demeaning, don’t let it pass. Don’t be stopped by the “if you can’t define it and measure it, I don’t have to pay attention to it” ploy. No one can precisely define or measure justice, democracy, security, freedom, truth, or love. No one can precisely define or measure any value. But if no one speaks up for them, if systems aren’t designed to produce them, if we don’t speak about them and point toward their presence or absence, they will cease to exist." [https://donellameadows.org/archives/dancing-with-systems/](https://donellameadows.org/archives/dancing-with-systems/)
 
-![https://cdn.discordapp.com/avatars/795833810507530240/1fce13af50a9d65f58c704172cd196eb.png](https://cdn.discordapp.com/avatars/795833810507530240/1fce13af50a9d65f58c704172cd196eb.png)
-
-vanjeer
+<h3>vanjeer <img src="https://cdn.discordapp.com/avatars/795833810507530240/1fce13af50a9d65f58c704172cd196eb.png" width=25 height=25></h3>
 
 Just went through the first meeting. A lot of interesting points definitely and take home messages on intrinsic motivations and engineering motivations. Personally, token engineering is in a way exercising our rights (rather responsibility) as intelligent species to enact social engineering. Essentially, modifying our environment that we operate/live in. Comfort and quality of life could be the general indicators of its KPI per token held. Tokens are not only an immutable ledger of unit value but can host karma, and embed other forms of data, I suppose.  (edited)
 
@@ -2151,7 +2045,6 @@ Wednesday, 8pm CET
 
 Omega Call Reminder
 
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -2159,9 +2052,7 @@ _18-Jun-21 04:05 AM_:
 
 how do we update the bot? re. Agenda - and also it mixed up dates,it's biweekly - hence 23rd is next @Vyvy-vi do you know who/how re. bots? thanks!
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 how do we update the bot? re. Agenda - and also it mixed up dates,it's biweekly - hence 23rd is next @Vyvy-vi do you know who/how re. bots? thanks!
 
@@ -2188,9 +2079,7 @@ For editing the text for omega's reminder, the TEXT variable in this file would 
 
 ) with the text content that or sending me the new text on discord. (edited)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 interesting, the way you put it - "social engineering" looses its purely negative connotation (for me) - in "principal" I'm against "nudging" (where does manipulation, or coercion start?) - "exercising our rights/responsibility as intelligent species" is the notion of agency that is needed to get the positive view. Yet, let's also be aware "intelligent species" as you do points to our response-ability..
 
@@ -2200,9 +2089,7 @@ _20-Jun-21 04:29 AM_:
 
 Yes, let's reclaim the meaning of social engineering :), I'm aware of it's use in cybersecurity. It is another way of saying politics for the Blockchain token engineers. Light inspiration or heavy coercion is inevitable for a species that is not prepared for inaction. An idle mind is a devil's workshop as the saying goes. (edited)
 
-![https://cdn.discordapp.com/avatars/795833810507530240/1fce13af50a9d65f58c704172cd196eb.png](https://cdn.discordapp.com/avatars/795833810507530240/1fce13af50a9d65f58c704172cd196eb.png)
-
-vanjeer
+<h3>vanjeer <img src="https://cdn.discordapp.com/avatars/795833810507530240/1fce13af50a9d65f58c704172cd196eb.png" width=25 height=25></h3>
 
 Yes, let's reclaim the meaning of social engineering :), I'm aware of it's use in cybersecurity. It is another way of saying politics for the Blockchain token engineers. Light inspiration or heavy coercion is inevitable for a species that is not prepared for inaction. An idle mind is a devil's workshop as the saying goes.  (edited)
 
@@ -2214,9 +2101,7 @@ you can't imagine on how many different levels I agree with this hahah
 
 in a way, we need to get to the roots of what kind if engineering is needed for a tech stack that is "hoped" to be of the sort: "can't be evil"... hence the questioning of ethics and for ethics
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 you can't imagine on how many different levels I agree with this hahah
 
@@ -2316,9 +2201,7 @@ _23-Jun-21 11:10 AM_:
 
 is there any biblio tool being used atm, zotero would be a good choice
 
-![https://cdn.discordapp.com/avatars/795833810507530240/1fce13af50a9d65f58c704172cd196eb.png](https://cdn.discordapp.com/avatars/795833810507530240/1fce13af50a9d65f58c704172cd196eb.png)
-
-vanjeer
+<h3>vanjeer <img src="https://cdn.discordapp.com/avatars/795833810507530240/1fce13af50a9d65f58c704172cd196eb.png" width=25 height=25></h3>
 
 is there any biblio tool being used atm, zotero would be a good choice
 
@@ -2384,9 +2267,7 @@ Thank you all for sharing your thoughts and insights and all the effort put into
 !praise @solsista @chuygarcia.eth @David D. - TEC @durgadas @Juankbell @Letty @liviade @rodbot2 @sbilbao @Suga @Zeptimus @vanjeer for particpating in the 0mega call
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 Until we meet next time: (see agenda) - Let’s check off the organizational topics topics under 2) - Review Community Survey answers under 3d) , compare with topics we collected today under 1) - Exchange in the chat here on topics & coordination/moderation of participatory research (i.e. dialogue on interesting questions/topics wrt. Ethics) -- how to moderate (without leading) -- how to capture insights -- how to package into useful format for token engineers, token projects
 
@@ -2407,9 +2288,7 @@ I have some feedback about question #3. There is no option to choose "Other" whi
 
 For example, Transportation employees like Long-haul truckers, train staff, Marine employees like boat crew, Pilots. I suggest adding an option to choose other, along with a field to freely state one's area of experience. Thanks! (edited)
 
-![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
-
-David D. - TEC
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 I have some feedback about question #3. There is no option to choose "Other" which really can exclude a vast number of people.
 
@@ -2446,9 +2325,7 @@ Bull market, bear development
 
 This is a weirder opinion piece than what I’m use to. So it might be a bit incoherent.
 
-![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
-
-David D. - TEC
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 For example, Transportation employees like Long-haul truckers, train staff, Marine employees like boat crew, Pilots. I suggest adding an option to choose other, along with a field to freely state one's area of experience. Thanks!  (edited)
 
@@ -2493,9 +2370,7 @@ The Cynefin Framework is central to Cognitive Edge methods and tools. It allows 
 
 ![https://i.ytimg.com/vi/N7oz366X0-8/maxresdefault.jpg](https://i.ytimg.com/vi/N7oz366X0-8/maxresdefault.jpg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 worth your 10 mins - promise:
 
@@ -2588,9 +2463,7 @@ Extend Voting Impact hours is a huge deal for everyone in this economy. Some inc
 
 [https://opengraph.githubassets.com/ab621179814238c769243f394173ea5315cf1c5ac6c36a17a4027bdb187cad20/CommonsBuild/IH-intervention/issues/7](https://opengraph.githubassets.com/ab621179814238c769243f394173ea5315cf1c5ac6c36a17a4027bdb187cad20/CommonsBuild/IH-intervention/issues/7)
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Main question is about funding bit: should we include a detailed budget? Which grant/value flow is this $ coming from/to? Let's say we're a group of 5 curators working 10-12hours/month on this for 3 months at 40-50$/h?
 
@@ -2726,9 +2599,7 @@ Manifesto (WIP) Proposal for “TE Consilience” initiative: future directions,
 
 @Letty can you take the lead again, if I'm not able/on time? Thursdays unfortunately are always triple booked... <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @Letty can you take the lead again, if I'm not able/on time? Thursdays unfortunately are always triple booked...  <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
@@ -2840,9 +2711,7 @@ _13-Jul-21 06:48 PM_:
 
 Hi im completely new, and just generally fascinated with whats going on here. I just read the doc about “research methods” that @solsista posted out of curiousity. Is it ok if I give brief feedback as basically an uninitiated outsider not part of any working group, if I feel it might give insight or help answer some of the questions this group is pondering?
 
-![https://cdn.discordapp.com/avatars/110852901919801344/32b1c4735f9d6def5db762aa49e192dd.png](https://cdn.discordapp.com/avatars/110852901919801344/32b1c4735f9d6def5db762aa49e192dd.png)
-
-storypup
+<h3>storypup <img src="https://cdn.discordapp.com/avatars/110852901919801344/32b1c4735f9d6def5db762aa49e192dd.png" width=25 height=25></h3>
 
 Hi im completely new, and just generally fascinated with whats going on here. I just read the doc about “research methods” that @solsista posted out of curiousity. Is it ok if I give brief feedback as basically an uninitiated outsider not part of any working group, if I feel it might give insight or help answer some of the questions this group is pondering?
 
@@ -2851,9 +2720,7 @@ Hi im completely new, and just generally fascinated with whats going on here. I 
 _14-Jul-21 01:55 AM_:
 of course! Please share, the doc is a bit older, but the feedback definitely would help for the consolidation in prep for the next working group on 21st - hope you can also join then <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 It would also lack an integrative framework to match those decisions with further side-effects if not correlated with superior principles
 
@@ -2862,9 +2729,7 @@ It would also lack an integrative framework to match those decisions with furthe
 _14-Jul-21 01:57 AM_:
 yes! great to use the quadrants to highlight the perspectives of each of these <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 [https://humanenergy.io/projects/ethics-and-the-techno-social-dilemma/](https://humanenergy.io/projects/ethics-and-the-techno-social-dilemma/)
 
@@ -2957,9 +2822,7 @@ NGI Open Calls - Next Generation Internet
 
 NGI Research and Innovation Actions (RIAs) provide support to projects from outstanding researchers, hi-tech startups and SMEs. Get funded!
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 yes it's 21st - the bot needs fixing  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -3045,9 +2908,7 @@ that will be helpful for structure/facilitation of focus groups on TE Ethics as 
 
 just thinking out loud here, feel very invited to jump in wrt structure/facilitation
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @Letty @Paula I Peh Kah I think we can leverage the Electric Circus knowledge mgmt backend, and the need for web3 knowledge mgmt for TE Concilience project within this call
 
@@ -3213,20 +3074,15 @@ My latest draft
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/872624144775282778/Gravity-Style-Interactions--Draft4.png](https://cdn.discordapp.com/attachments/810180622634844202/872624144775282778/Gravity-Style-Interactions--Draft4.png)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
-durgadas
-
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _05-Aug-21 04:44 AM_:
 yep! like this we can have an TE context overlay. I also liked to quote you shared elsewhere about how cynefin is more like a vessel to hold different contexts even multitudes.... that sounds about right to fill our need in TE <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 [https://youtu.be/gaFQJaQTXhY](https://youtu.be/gaFQJaQTXhY)
 
@@ -3411,13 +3267,9 @@ Wednesday, 8pm CET
 
 ![https://raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_omega.png](https://raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_omega.png)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 [https://docs.google.com/document/d/17MJ3zuxpRV_pHqos59AwTrB2Kv1JUVGPrdu7Adonx-4/edit?usp=sharing](https://docs.google.com/document/d/17MJ3zuxpRV_pHqos59AwTrB2Kv1JUVGPrdu7Adonx-4/edit?usp=sharing)
-
-(edited)
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -3551,9 +3403,7 @@ when I read his work, some insights emerged: with only my crypto hat on, it seem
 
 I'm motivated to get something practical into the hands of aspiring token engineers and participants of token economies - as simple as possible but no simpler, supporting the ethic of experimentation - but also the ethic of "self-sovereignty"... in the wild wild west environment of "aping," "rug pulls" and demands of being "made whole."
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 Here's the starting point for analysis:
 
@@ -3671,9 +3521,7 @@ _23-Sep-21 03:45 AM_:
 
 maybe we can alternate and have weekly (now that there's really loads of fun stuff to work through), what do you think? what would be a good alternate time? Maybe also to connect with Asian time zones...
 
-![https://cdn.discordapp.com/avatars/734235016053391462/e9649b4571b2125d6f1c7b977b6517f2.png](https://cdn.discordapp.com/avatars/734235016053391462/e9649b4571b2125d6f1c7b977b6517f2.png)
-
-gijsspoor
+<h3>gijsspoor <img src="https://cdn.discordapp.com/avatars/734235016053391462/e9649b4571b2125d6f1c7b977b6517f2.png" width=25 height=25></h3>
 
 this standardised ISO approach feels rather dead to me. I think we need a lot of talking with humans of flesh and blood in the process. Which makes me question whether a universal protocol makes sense at all. I like the Critical Systems Heuristics approach because it supports ongoing conversation and inquiry
 
@@ -3682,9 +3530,7 @@ this standardised ISO approach feels rather dead to me. I think we need a lot of
 _23-Sep-21 03:47 AM_:
 yes, this is becoming common sense <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/734235016053391462/e9649b4571b2125d6f1c7b977b6517f2.png](https://cdn.discordapp.com/avatars/734235016053391462/e9649b4571b2125d6f1c7b977b6517f2.png)
-
-gijsspoor
+<h3>gijsspoor <img src="https://cdn.discordapp.com/avatars/734235016053391462/e9649b4571b2125d6f1c7b977b6517f2.png" width=25 height=25></h3>
 
 oh dear, the engineers turned value inquiry into a flow model...
 
@@ -3693,11 +3539,8 @@ oh dear, the engineers turned value inquiry into a flow model...
 _23-Sep-21 03:51 AM_:
 yet when we specify and implement a token network and deploy it on a globale computer network - that part we also know what it is, a complex system that humans developed (still) but which adheres to certain electro-mechanic (still) constraints... i.e. ISO does resonate with parts of the bigger system - yet we're not here, if we were content with that, right? the bigger system of human agents interacting with each other, the environment and that computerized part, we're interested in that wholistic system <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/734235016053391462/e9649b4571b2125d6f1c7b977b6517f2.png](https://cdn.discordapp.com/avatars/734235016053391462/e9649b4571b2125d6f1c7b977b6517f2.png)
+<h3>gijsspoor <img src="https://cdn.discordapp.com/avatars/734235016053391462/e9649b4571b2125d6f1c7b977b6517f2.png" width=25 height=25></h3>
 
-gijsspoor
-
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -3747,9 +3590,7 @@ Led by Dr. Joan Donovan (@BostonJoan), The Technology and Social Change Project 
 
 ![https://shorensteincenter.org/wp-content/uploads/2020/09/TaSC-logo.png](https://shorensteincenter.org/wp-content/uploads/2020/09/TaSC-logo.png)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @gijsspoor you around?
 
@@ -3759,9 +3600,7 @@ _24-Sep-21 05:26 AM_:
 That was almost midnight, India time
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @Letty wdyt?
 
@@ -3800,9 +3639,7 @@ _27-Sep-21 11:18 PM_:
 
 The original version was kind of too long, so I tried to shorten it. Therefore, format of writing is not the best
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Tired of thinking these days... Musing on what I want though.
 
@@ -3862,9 +3699,7 @@ Wednesday, 8pm CET
 
 ![https://raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_omega.png](https://raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_omega.png)
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 I wrote a little reflection writing to TEC Library project.
 
@@ -3982,9 +3817,7 @@ and we updated to Weekly! <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png
 with so much momentum
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 and we updated to Weekly!  with so much momentum ️ <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2618.png" width=20 height=20>
 
@@ -4001,9 +3834,7 @@ _29-Sep-21 05:33 PM_:
 
 Sorry I missed it
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Sorry I missed it
 
@@ -4024,9 +3855,7 @@ just had to comment this <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png"
 
 also look what I've found, it's on testnet (would totally suffice as initial playground for the incentive/curation model of Consilience lib) [https://gtcr-dev.netlify.app/](https://gtcr-dev.netlify.app/)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 I wonder if we also could have another session with your "Decolonization" work, Regis. Let us know when is a better day-time for you, we could make it happen with those who can join and record/share with others
 
@@ -4036,9 +3865,7 @@ _30-Sep-21 05:03 PM_:
 
 Yes we can do it. My wife is back on Saturday so before then is good or we can try for one evening after work next week
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 also look what I've found, it's on testnet (would totally suffice as initial playground for the incentive/curation model of Consilience lib)
 
@@ -4050,9 +3877,7 @@ _30-Sep-21 06:27 PM_:
 
 Super cool - let's build here the TE part at least. Kleros sorts out the curation/registry and brings in incentives. Some Dao2Dao also.
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 "The trap is the function of the trapped" - Stafford Beer... goes well with this one insight, on whatever models we use:
 
@@ -4088,11 +3913,8 @@ _01-Oct-21 05:27 AM_:
 
 a paradigm is a worldview, a level of understanding with a common set of constructs to that level...
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
-solsista
-
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -4105,9 +3927,7 @@ wow
 ![https://cdn.discordapp.com/attachments/810180622634844202/893430722856108062/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/893430722856108062/unknown.png)
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 "To avoid reifying the notions of perspectival and a-perspectival into opposite domains, I propose using the notion of view to suggest this underlying process. Moreover, view is considered as a generative process — the process which generates the perspectives — while remaining inimical with the “underlying flux of phenomena”
 
@@ -4120,11 +3940,8 @@ Boundaries that delimitate perspectives
 
 Pleased to announce I'll be integrating that word-pile into my vocabulary. This was a cool thread to catch up on. Thank you for sharing all these breadcrumbs. It feels really good to be finding myself in desirable echochambers.
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
-solsista
-
-*Click to see original message*
 
 <h3>Aidan 🌐♨ <img src="https://cdn.discordapp.com/avatars/686755249138302977/2b8bcde0beb9b8f04ba522a738db47b7.png" width=25 height=25></h3>
 
@@ -4132,9 +3949,7 @@ _01-Oct-21 09:21 PM_:
 
 Love this
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 wow
 
@@ -4160,9 +3975,7 @@ Things we’ve learned from attending, preparing, and facilitating Liberating St
 
 ![https://miro.medium.com/max/1200/1*OgwSI2RO1O8ZuVeCOIfsFQ.jpeg](https://miro.medium.com/max/1200/1*OgwSI2RO1O8ZuVeCOIfsFQ.jpeg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 "If multi-perspectival means the ability to see perspectives and balance alternative perspectives, the first foundations of a-perspectival awareness calls into question the very notion of perspectives and the boundaries that delimitate them. "
 
@@ -4195,9 +4008,7 @@ still figuring out how to walk the fine line in creating/holding space
 
 but here it is
 
-![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
-
-David D. - TEC
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 Solsista where are these excerpts from? Those words...they echo again and again through me... "Whatever I've relied on so far, is suddenly suspicious."
 
@@ -4221,11 +4032,8 @@ Itnerestingly another friend shared their company principles, and it contains "q
 
 just an interesting side ..
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
-durgadas
-
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -4237,11 +4045,8 @@ UPDATE: our session today differs from what we announced: @Mount Manu will be pr
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/895245983313698836/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/895245983313698836/unknown.png)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
-solsista
-
-*Click to see original message*
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -4340,9 +4145,7 @@ _06-Oct-21 06:19 AM_:
 
 Matrix 4 Resurrection coming soon btw
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 we could adapt: intention (how you got yourself into) - situation (the dilemma) - discussion (deeper level focus groups summary?) - example (tricky, but if we want to normalize openness about ethical issues, and they are handled transparently we need an NVC for giving examples, maybe @Juankbell @durgadas have insights from gravity here too) - check list (certain things to do in this situation) - rule of thumbs (deal with remaining uncertainty)
 
@@ -4352,9 +4155,7 @@ _06-Oct-21 06:20 AM_:
 
 this could become a living code of ethical conduct in TEC @liviade wdyt? having such a section in gitbook
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Matrix 4 Resurrection coming soon btw
 
@@ -4383,9 +4184,7 @@ and we had said last time, let's keep the entry simple: crypto-economics & ethic
 
 (but would be interested in other people's research nonetheless what is ethics in <choose your petal of cryptoeconomics flower>)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 [https://plato.stanford.edu/entries/game-ethics/](https://plato.stanford.edu/entries/game-ethics/)
 
@@ -4612,9 +4411,7 @@ next week we'll have @durgadas presenting "Cynefin" framework, I bet it will be 
 
 Looking forward!
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 [http://social-issues.org/community/public_io/c2f_en.jpg](http://social-issues.org/community/public_io/c2f_en.jpg)
 
@@ -4640,9 +4437,7 @@ WG 0mega - Agenda (Weekly Wed. 8PM CET)
 
 [https://lh5.googleusercontent.com/SHzQSESdzTUvuV0MLQvs6Imp0gpYSX-3K2mD4iJCeX536vzqhz1d0hgDWg0S9AIvIuybor2vAB78xg=w1200-h630-p](https://lh5.googleusercontent.com/SHzQSESdzTUvuV0MLQvs6Imp0gpYSX-3K2mD4iJCeX536vzqhz1d0hgDWg0S9AIvIuybor2vAB78xg=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 ahhhh I see 4 quadrants :))
 
@@ -4760,9 +4555,7 @@ _21-Oct-21 07:13 AM_:
 !praise @solsista for her meticulous note-taking and framework synthesising to advance Omega's work
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 Please put on the agenda doc, any further frameworks you would want to present; feel free to make comments to summaries of the last to sessions on this series  <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
@@ -4778,9 +4571,7 @@ _26-Oct-21 09:52 AM_:
 
 Hi @solsista @Letty I'm seeing the omega is weekly on the TEC calendar but I think it has been changed to bi-weekly, right? Happy to help change that. Is this a meeting week or will it be next week?
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 Hi @solsista @Letty I'm seeing the omega is weekly on the TEC calendar but I think it has been changed to bi-weekly, right? Happy to help change that. Is this a meeting week or will it be next week?
 
@@ -4803,9 +4594,7 @@ Stewards This week marks the rise of our 20th Sprint, with more than 40 weeks of
 
 ![https://forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png](https://forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png)
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 Hi @solsista @Letty I'm seeing the omega is weekly on the TEC calendar but I think it has been changed to bi-weekly, right? Happy to help change that. Is this a meeting week or will it be next week?
 
@@ -4816,9 +4605,7 @@ the other way round; it was biweekly now weekly <img src="https://twemoji.maxcdn
 
 thanks @nic <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 I added a map of the complexity sciences for next sessions
 
@@ -4857,9 +4644,7 @@ WG 0mega - Agenda (Weekly Wed. 8PM CET)
 
 [https://lh5.googleusercontent.com/SHzQSESdzTUvuV0MLQvs6Imp0gpYSX-3K2mD4iJCeX536vzqhz1d0hgDWg0S9AIvIuybor2vAB78xg=w1200-h630-p](https://lh5.googleusercontent.com/SHzQSESdzTUvuV0MLQvs6Imp0gpYSX-3K2mD4iJCeX536vzqhz1d0hgDWg0S9AIvIuybor2vAB78xg=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 the other way round; it was biweekly now weekly  thanks @nic  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -4869,9 +4654,7 @@ _27-Oct-21 07:54 AM_:
 
 Excellent. Thank you @solsista and @nic !
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 thank you! are you coming today? what we could do, is have these WG sparring sessions continue in parallel, as models ppl want to take apart and contextualize come along; and have scheduled sessions for the wider community with appropriate reach and invitations etc - we definitely need the scheduling/communication task taken on by someone who enjoys and is capable to run with it, now the content is clear  <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
@@ -4953,9 +4736,7 @@ re: complexity. Amazing events:
 _27-Oct-21 03:09 PM_:
 yes resonates very much! it is yearly - recommend everyone who cannot make it to put a blocker for next year <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 omg... Are this WG's hidden plans prohibiting music?!
 
@@ -4971,9 +4752,7 @@ nevva
 
 ignore the fact that this is super old, and from DoD; but architecture definition at its peak was(is) taking sw complexity much more as a given: [https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_viewpoints/](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_viewpoints/)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @Letty I liked your parting comment very much - as much as we want to make things accessible, and applicable; many are drawn to this because they want to exchange about those models. And dig into the "synthesizing" of those? Did I get it right? ... I'm intrigued, I guess I was lost in "service" mode the past weeks  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -5003,9 +4782,7 @@ Governance Co-evolution: “Self-sovereign individuals govern well together” -
 
 [https://lh6.googleusercontent.com/yPahz2WMLvYHKFN55Q_xnEIpyGygsXmkPfgmnVExfazQN26bi1U76PowzpqG79JEbXv9UB48F1ZHsQ=w1200-h630-p](https://lh6.googleusercontent.com/yPahz2WMLvYHKFN55Q_xnEIpyGygsXmkPfgmnVExfazQN26bi1U76PowzpqG79JEbXv9UB48F1ZHsQ=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 fun find:
 
@@ -5042,15 +4819,11 @@ just as example and then next level is what are the requirements to be able to d
 
 a pretty simple example: cryptoart as number go up / investment game (perspective of trader/investor participant) vs artists who dread having to sell and market their art directly, prefer friend(ly) collectors ( which turns out to be the reason why they would benefit from participation of other market actors)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 e.g. principles formulated as actions "acknowledge the different worldviews and capabilities of participants"; "reflect on the dynamic landscape"; "enable informed participation" (the first two inspired by the 3 sessions we had; latter coming from Ethics of Experimentation
 
 [https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/ethics-experimentation)](https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/ethics-experimentation))
-
-(edited)
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -5058,9 +4831,7 @@ _27-Oct-21 05:04 PM_:
 
 any takes?
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 yes resonates very much! it is yearly - recommend everyone who cannot make it to put a blocker for next year  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -5137,11 +4908,8 @@ _28-Oct-21 06:47 AM_:
 
 let's find/establish a multilogue "protocol" that facilitates individual/collective reasoning on TE ethical dilemmas/situations
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
-solsista
-
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -5196,20 +4964,15 @@ I probably won't be on time today again for our TEC update, if any of the partic
 ![https://media.tenor.co/images/41d3ded369f8bcc0ae949d95cab95efe/tenor.png](https://media.tenor.co/images/41d3ded369f8bcc0ae949d95cab95efe/tenor.png)
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
-solsista
-
-*Click to see original message*
 
 <h3>Tint.eth <img src="https://cdn.discordapp.com/avatars/677385266570461225/89da5f9280fa5136b4bfcdbf55b3a950.png" width=25 height=25></h3>
 
 _29-Oct-21 02:27 PM_:
 can you share the flower graph plz <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/677385266570461225/89da5f9280fa5136b4bfcdbf55b3a950.png](https://cdn.discordapp.com/avatars/677385266570461225/89da5f9280fa5136b4bfcdbf55b3a950.png)
-
-Tint.eth
+<h3>Tint.eth <img src="https://cdn.discordapp.com/avatars/677385266570461225/89da5f9280fa5136b4bfcdbf55b3a950.png" width=25 height=25></h3>
 
 can you share the flower graph plz  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -5225,9 +4988,7 @@ this?
 
 1
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 "Play cannot happen inside the context of coercion. But play is also all about temporarily creating finite boundaries, and rules by which to enter into consentfull play. And this is the role of the Protocol for Protocols. "
 
@@ -5390,9 +5151,7 @@ In this video you'll learn how to program your mind for success. Brian's goal is
 
 ![https://i.ytimg.com/vi/fQR1ltBiPnM/maxresdefault.jpg](https://i.ytimg.com/vi/fQR1ltBiPnM/maxresdefault.jpg)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 [https://us.sagepub.com/en-us/nam/leadership-lessons-from-the-bhagavad-gita/book271653](https://us.sagepub.com/en-us/nam/leadership-lessons-from-the-bhagavad-gita/book271653)
 
@@ -5408,9 +5167,7 @@ _03-Nov-21 03:56 PM_:
 
 I'll give you a link (don't read The Bhagavad Gita As It Is, since that is from a cult)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I'll give you a link (don't read The Bhagavad Gita As It Is, since that is from a cult)
 
@@ -5453,9 +5210,7 @@ A Study of the Bhagavadgita by Swami Krishnananda
 Another series of discourses on the Bhagavadgita that Swamiji gave to the students in the Ashram's Academy
 
 
-![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
-
-David D. - TEC
+<h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 isn't all religion a cult?  <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
@@ -5482,9 +5237,7 @@ Hinduism and Buddhism
 are the two primary examples
 
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Dharmic approaches to life go so far beyond religion
 
@@ -5494,9 +5247,7 @@ _03-Nov-21 04:05 PM_:
 
 Do you mean it affects their life by the decisions they make? What makes you say all religions are definitely not all cults?
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 RE: consistency I saw this:
 
@@ -5509,9 +5260,7 @@ _03-Nov-21 04:10 PM_:
 Totally. This is the context we are seeing around us, and we are not excent of that happening to us, we can only work to prevent and propose ways of managing situations
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Do you mean it affects their life by the decisions they make? What makes you say all religions are definitely not all cults?
 
@@ -5525,9 +5274,7 @@ I'd suggest you read this book: Hinduism: The Eternal Tradition by David Frawley
 
 Speaking in terms of our last meeting, authentic religion is inside the consent line, whereas cults are outside of it, in terms of consent
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I'd suggest you read this book: Hinduism: The Eternal Tradition by David Frawley. Here is an excerpt:
 
@@ -5543,9 +5290,7 @@ _03-Nov-21 05:10 PM_:
 
 There are, in my experience, two ways to approach any mental model: 1) You can see it as a commandment 2) You can see it as a naturally and organically unfolding expression. When things are alive, there is no such thing as a Final Form. I am evolving every day, but in the same way that a bumpy dirt road is functionally identical to an ocean wave in terms of causation, it manifests in a way that is much slower. It is often forgotten that so much of what we define as an object, even for concepts, is defined by time or the amount of time that goes by. This is often true in reverse as well, in that we deny death is with us every moment, despite evidence to the contrary. I would go so far as to say that our mental demand for particular results or a form to appear in a given period of time as a way to see similarities is a pretty strong bias in humans. I imagine this was, itself, an evolutionary impulse to prevent us from despair, but there are ways to think of these things in a way that does not cause that.
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Hinduism and Buddhism
 
@@ -5555,9 +5300,7 @@ _03-Nov-21 05:13 PM_:
 
 More philosphy and proto-science than religion it seems
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 More philosphy and proto-science than religion it seems
 
@@ -5569,9 +5312,7 @@ It was Integral thinking 5000+ years before Wilber
 
 All Of The Above
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Speaking in terms of our last meeting, authentic religion is inside the consent line, whereas cults are outside of it, in terms of consent
 
@@ -5593,9 +5334,7 @@ Divided is outside the consent line
 
 Unified is inside that consent line
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 thank you! I loved that excerpt. I love reading about religions and myths to try and find the patterns in what they teach and test and apply to them to my way of life. It's interesting that he mentions "though truth is universal, there is always a local aspect in its expression." This aligns with my point of view for religion in that they aren't meant for the collective to strictly abide by, but rather to guide individual experiences. While the universal truth can be shared through words on a page, or rituals, it is the individual's intrinsic motivation to study it and apply it that helps the truth be understood and conveyed better. I still have lots to learn so I'm definitely going to get this book.
 
@@ -5611,9 +5350,7 @@ _03-Nov-21 05:16 PM_:
 
 And the Transparency group
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 interesting how this also resonates with "informed participation"
 
@@ -5633,9 +5370,7 @@ Informed Consent is on both the Participation/Co-Creation parts and the Iteratio
 
 Start with a proposal, get consent, engage, make sense, get consent, change something, create new proposal and so on forever
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 [https://us.sagepub.com/en-us/nam/leadership-lessons-from-the-bhagavad-gita/book271653](https://us.sagepub.com/en-us/nam/leadership-lessons-from-the-bhagavad-gita/book271653)
 
@@ -5657,9 +5392,7 @@ and this is a part of that graphic's narrative
 
 holding space
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Start with a proposal, get consent, engage, make sense, get consent, change something, create new proposal and so on forever
 
@@ -5728,9 +5461,7 @@ so holding space for that seems very important both for growth and for healing
 
 both of which we are engaged in
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 There are, in my experience, two ways to approach any mental model: 1) You can see it as a commandment 2) You can see it as a naturally and organically unfolding expression. When things are alive, there is no such thing as a Final Form. I am evolving every day, but in the same way that a bumpy dirt road is functionally identical to an ocean wave in terms of causation, it manifests in a way that is much slower. It is often forgotten that so much of what we define as an object, even for concepts, is defined by time or the amount of time that goes by. This is often true in reverse as well, in that we deny death is with us every moment, despite evidence to the contrary. I would go so far as to say that our mental demand for particular results or a form to appear in a given period of time as a way to see similarities is a pretty strong bias in humans. I imagine this was, itself, an evolutionary impulse to prevent us from despair, but there are ways to think of these things in a way that does not cause that.
 
@@ -5756,9 +5487,7 @@ Breathing requires both and inhale and an exhale
 
 but holding the breath reveals something beyond these restless tides
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 merchant terms for our minds doesn't make a lot of sense to me
 
@@ -5775,9 +5504,7 @@ _03-Nov-21 05:33 PM_:
 right, and I think just proposing and voting reduces the more complex process I have tried to visually represent
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 So, I just skimmed the doc that @Mount Manu linked in the agenda - I would love to play the "worldviews game" on those notions of leadership! As some of it I can clearly see is rooted in a "command and control" worldview. Massive global coordination that doesn't end up in mass manipulation requires "self-leadership" or at least the flexibility of leader-follower, student-teacher... kind of the eye to see the charisma in each one of us...
 
@@ -5810,9 +5537,7 @@ I did not write this song and I do not intend any copyright infringement. Rush-N
 
 ![https://i.ytimg.com/vi/HSXD93_S6FU/sddefault.jpg](https://i.ytimg.com/vi/HSXD93_S6FU/sddefault.jpg)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 How can we make informed participation a reality now for all members while the sessions are in the works?
 
@@ -5822,9 +5547,7 @@ _03-Nov-21 05:36 PM_:
 
 can you elaborate a bit more? in TEC or in general participation in token economies?
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 can you elaborate a bit more? in TEC or in general participation in token economies?
 
@@ -5844,9 +5567,7 @@ there can be many other causes- in my case, I'm too busy to be as engaged as I'd
 
 In my view, context is everything
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 right! I wrote something like this in my notes the other day ^ If we judge anything, ourselves or the external with the perspective of A, within a limited time frame, we may think that it has gotten worse, but really we are just in a state of becoming. Each dip is representative of the monsters we must learn to bring into the light within a hero's journey. They are eventually overcome, but if we continue to look through the perspective of A, we may think they can never be overcome. Not everyone thinks this way though. Some aren't even aware that they have a choice not to accept that which is presented to them. I sometimes lost this awareness!
 
@@ -5862,9 +5583,7 @@ As you venture through life, your soul will guide you to what you need through t
 
 [https://miro.medium.com/focal/1200/632/45/26/0*zg7qgNM6gUrtI-9J](https://miro.medium.com/focal/1200/632/45/26/0*zg7qgNM6gUrtI-9J)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 my point with the poetic turn was to show that, in this instance, when the tide retreats (Bitcoin or TEC tokens go down, say) people's needs change and the little pool they find themselves in changes in context or cut off from others in some way that previously made it possible to move between those areas
 
@@ -5885,9 +5604,7 @@ Gravity is one example of this effort but by no means the only one
 
 Omega, in my view is an expression of the need to discover more ways to do this
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Omega, in my view is an expression of the need to discover more ways to do this
 
@@ -5906,9 +5623,7 @@ Gravity Next, if you will
 
 it's worth seeing how, for example, the colonized and pre-colonized worldviews are a summary of epistemologies and ontologies
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Yes to self leadership - the thing you're managing/leading being your light and shadows
 
@@ -5926,9 +5641,7 @@ so it will be with colonized and post-colonized
 
 which I hope we are bringing about
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 now imagine a world (or a token economy) in which people are intrinsically feel rewarded by this... I cannot see any end to well-being and wealth that collective can create... This draws me so strongly. Amazed at the eloquency with which you captured it.
 
@@ -5939,9 +5652,7 @@ _03-Nov-21 05:50 PM_:
 and not ONLY an economy. It is my view that we must work on ourselves first, then through that knowledge and compassion THEN and ONLY THEN can we extend these things toward others. The economy is merely a reflection of the mentality of those who constructed it in the first place.
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 now imagine a world (or a token economy) in which people are intrinsically feel rewarded by this... I cannot see any end to well-being and wealth that collective can create... This draws me so strongly. Amazed at the eloquency with which you captured it.
 
@@ -5957,9 +5668,7 @@ _03-Nov-21 05:51 PM_:
 
 it is a basic psychological fact that that which we know ourselves is all we can extend toward others and I work from this in my work with TEC
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 and not ONLY an economy. It is my view that we must work on ourselves first, then through that knowledge and compassion THEN and ONLY THEN can we extend these things toward others. The economy is merely a reflection of the mentality of those who constructed it in the first place.
 
@@ -5977,9 +5686,7 @@ you do
 
 this is called agency and autonomy
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 this is called agency and autonomy
 
@@ -6001,9 +5708,7 @@ if we were in a meeting I'd show you my narrative around the quadrants here
 
 OK I'm jumping into the Omega voice now
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 it is a basic psychological fact that that which we know ourselves is all we can extend toward others and I work from this in my work with TEC
 
@@ -6034,9 +5739,7 @@ What does real scientific work look like? As neuroscientist Stuart Firestein jok
 
 ![https://i.ytimg.com/vi/nq0_zGzSc8g/maxresdefault.jpg](https://i.ytimg.com/vi/nq0_zGzSc8g/maxresdefault.jpg)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 but holding the breath reveals something beyond these restless tides
 
@@ -6045,9 +5748,7 @@ but holding the breath reveals something beyond these restless tides
 _06-Nov-21 04:16 PM_:
 Missed this whole chunk of your messages and yesss <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="$5" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Missed this whole chunk of your messages and yesss  <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50> <img src="$5" width=20 height=20>
 
@@ -6059,9 +5760,7 @@ This poetic turn is based on Kahlil Gibran's The Prophet in the section on Death
 
 [http://www.katsandogz.com/gibran/ondeath.php](http://www.katsandogz.com/gibran/ondeath.php)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 This poetic turn is based on Kahlil Gibran's The Prophet in the section on Death: **For what is it to die but to stand naked in the wind and to melt into the sun? And what is it to cease breathing, but to free the breath from its restless tides, that it may rise and expand and seek God unencumbered?**
 
@@ -6092,9 +5791,7 @@ But anyways I learned it all from this record
 
 And is the foundation of my spiritual inquiry
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 [http://www.katsandogz.com/gibran/ondeath.php](http://www.katsandogz.com/gibran/ondeath.php)
 
@@ -6104,9 +5801,7 @@ _06-Nov-21 04:29 PM_:
 
 ***In the depth of your hopes and desires lies your silent knowledge of the beyond; And like seeds dreaming beneath the snow your heart dreams of spring. Trust the dreams, for in them is hidden the gate to eternity.*** ^speaks to no longer being embedded in the coral reef and to let go of the old self that would be swayed by the waves. The death of the old self leads to rebirth - the phoenix moment. I love this song too — Waves by Bahamas. Here are some parts: “And I held the breath inside my lungs for days And I saw myself as one of many waves And when I knew I'd become the ocean's slave I just stayed And we carried far with all the waters past Of the waves I was not first I was not last And if we saw a boat afloat we took the mast So fast” “And before too long the waves grew out of hand And they worked to keep the sea at their command And the only thing they feared it seemed the sand And dry land” “From the water there was born a bright blue roar As it rolled and formed and calmed the ocean's floor And it finally rose and broke upon the shore No more”
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 [https://youtu.be/QJ2_xojYtp4?t=799](https://youtu.be/QJ2_xojYtp4?t=799)
 
@@ -6131,9 +5826,7 @@ That song actually is a beautiful meditation on those precise things, too, if yo
 
 I can see the connections there pretty clearly, so that's really something
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 In yoga we talk about the breath and prana A LOT, so there is a bunch I'm leaving out here, but these aspects of prana speak to our motivations, and since the pranic part of the koshas is paired with the thinking mind and wisdom, paying attention to that can open up deeper aspects of thinking and wisdom to your consciousness
 
@@ -6154,9 +5847,7 @@ You make them REALLY listen for a certain number of claps with their eyes closed
 
 and then watch their breath as you are doing it
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I can see the connections there pretty clearly, so that's really something
 
@@ -6172,9 +5863,7 @@ _06-Nov-21 04:38 PM_:
 
 they will hold their breath at the top of their inhale if they are really going to invest in the game
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 and then watch their breath as you are doing it
 
@@ -6191,9 +5880,7 @@ _06-Nov-21 04:39 PM_:
 As far as body language, my main thing is paying attention to the breath
 
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 they will hold their breath at the top of their inhale if they are really going to invest in the game
 
@@ -6221,9 +5908,7 @@ as well as having a very subtle grasp of the inner and outer life of yourself an
 
 Awareness for the TEC side is this light/shadow approach I talk about a lot. Breath is the actual work of it, the ebb and flow- the restless tide so to speak, and the movement is the intention behind.
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I have a similar methodology when I'm approaching topics with the TEC. It is a process, so being consistent and persistent is required
 
@@ -6243,9 +5928,7 @@ if you watch, you can see me trying to make this combined approach ignite within
 
 all of this is intentional from me
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Awareness for the TEC side is this light/shadow approach I talk about a lot. Breath is the actual work of it, the ebb and flow- the restless tide so to speak, and the movement is the intention behind.
 
@@ -6265,9 +5948,7 @@ Indeed
 being in conscious awareness of The Field in which we are operating in is crucial. This has a physical feeling to it also if you do it with enough consciousness.
 
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 being in conscious awareness of The Field in which we are operating in is crucial. This has a physical feeling to it also if you do it with enough consciousness.
 
@@ -6307,9 +5988,7 @@ _06-Nov-21 04:50 PM_:
 
 Like in Plato’s cave, going back into the cave and saying there’s more out there! This is an illusion!
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Exactly, and this is ALSO why I'm STARTING with the idea of Decentralization As A Norm, rather than thinking that Decentralization As A Response To Abuse Suffered Under Centralization.
 
@@ -6352,9 +6031,7 @@ _06-Nov-21 04:55 PM_:
 
 It's not immediately in my mind what you mean, but I am often multi-tasking to a degree that my memory fails me
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 It's not immediately in my mind what you mean, but I am often multi-tasking to a degree that my memory fails me
 
@@ -6376,9 +6053,7 @@ I think the DDO thing is implied in much of this
 
 I am awaiting the greater awareness of these various suggestions I've made to come about before I start giving talks about it
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I am awaiting the greater awareness of these various suggestions I've made to come about before I start giving talks about it
 
@@ -6393,9 +6068,7 @@ _06-Nov-21 05:06 PM_:
 
 Well, part of being conscious is being aware when people might be ready to hear certain things. I think DDOs are pretty obvious once I get through the stuff I see on that list and people are aware of and/or bought into those ideas and looking for next steps.
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Well, part of being conscious is being aware when people might be ready to hear certain things. I think DDOs are pretty obvious once I get through the stuff I see on that list and people are aware of and/or bought into those ideas and looking for next steps.
 
@@ -6403,8 +6076,6 @@ Well, part of being conscious is being aware when people might be ready to hear 
 
 _06-Nov-21 05:06 PM_:
 Ohhh you meant others’ awareness <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=20 height=20>
-
-(edited)
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -6417,9 +6088,7 @@ Perhaps I ran by your intended question
 
 if so, I'm sorry
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 if so, I'm sorry
 
@@ -6435,22 +6104,14 @@ I feel like this aligns with what we were talking about. It’s funny I picked t
 
 Self-inquiry does not say "Be aware of your breath" but rather "Who is breathing?" or "Who is really alive?". It does not say "Be mindful of your body" but rather asks "Are you the body?". Self-inquiry is not a form of passive or choiceless awareness, but has a dynamic and probing energy. It questions the validity of the entity who thinks that he is aware. It does not accept our awareness as it is but asks "Who is aware?" "What is the nature of this awareness?". Self-inquiry uses the energy of observation but as a tool of questioning, ever taking it to a deeper level of examination. It is questioning the reality of the entity that we think is either good or bad, that can either improve or degenerate. It questions our efforts to be this or that and says that without knowing ourselves it is of no lasting benefit to try to become anything, however great or noble. Similarly, Self-inquiry is not an attempt to make the world better or to bring love or compassion into the world. It is a questioning whether what we call the world has any reality at all, or is just a reflection of our thought process. Yet Self-inquiry brings us into contact with our true Self that is one with all. This is the basis of all compassion and real service in the world, which transcend thought and selfish motivation. While Self-inquiry leads to the absolute truth, which can be called the pure-I or Self, the name is only a pointer. One can call it God, knowledge, enlightenment, Buddha or whatever one likes, but it is not a state that can be defined according to an idea, or in which mental recognition can occur. Self-inquiry is not seeking any mental answer and has no conceptual result. It questions the validity of all entities and conclusions created by the mind.
 
-(edited)
-
 
 Self-inquiry is a provocative state that directs awareness to its core in the heart. It is like a sword that cuts through everything. It does not even allow us to hold to a happy or peaceful state of consciousness short of real Self-realization. It does not allow us to rest content in the contemplation of objects, principles of ideas, however lofty these may be. In the ultimate truth the Self is the only reality. Our inquiry into it and all else that we do is merely a fiction of thought. Yet this fiction of thought is not personal but includes the entire universe. It consists of all possible types of mental activity, conscious and subconscious. The world is the great maya or illusion of the Lord (Bhagavan) that requires not only our own selfless effort but Divine grace in order to cross. Yet attempting this is the real purpose of our birth and the real goal of all our lifetimes. Let us seek our true Self with honesty and humility, and all the wonders of the universe and what is beyond must come to us.
 
-(edited)
-
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 I feel like this aligns with what we were talking about. It’s funny I picked this book up on a whim when I couldn’t find the book I was looking for.
 
 Self-inquiry does not say "Be aware of your breath" but rather "Who is breathing?" or "Who is really alive?". It does not say "Be mindful of your body" but rather asks "Are you the body?". Self-inquiry is not a form of passive or choiceless awareness, but has a dynamic and probing energy. It questions the validity of the entity who thinks that he is aware. It does not accept our awareness as it is but asks "Who is aware?" "What is the nature of this awareness?". Self-inquiry uses the energy of observation but as a tool of questioning, ever taking it to a deeper level of examination. It is questioning the reality of the entity that we think is either good or bad, that can either improve or degenerate. It questions our efforts to be this or that and says that without knowing ourselves it is of no lasting benefit to try to become anything, however great or noble. Similarly, Self-inquiry is not an attempt to make the world better or to bring love or compassion into the world. It is a questioning whether what we call the world has any reality at all, or is just a reflection of our thought process. Yet Self-inquiry brings us into contact with our true Self that is one with all. This is the basis of all compassion and real service in the world, which transcend thought and selfish motivation. While Self-inquiry leads to the absolute truth, which can be called the pure-I or Self, the name is only a pointer. One can call it God, knowledge, enlightenment, Buddha or whatever one likes, but it is not a state that can be defined according to an idea, or in which mental recognition can occur. Self-inquiry is not seeking any mental answer and has no conceptual result. It questions the validity of all entities and conclusions created by the mind.
-
-(edited)
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -6458,9 +6119,7 @@ _07-Nov-21 11:00 PM_:
 
 where is this from? the last part reminds me of this:
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 where is this from? the last part reminds me of this:
 
@@ -6480,11 +6139,8 @@ thank you for these exchanges! it is super insightfult
 
 actually woke up in the middle of the night, because I was thinking a lot about : "what now?" :))
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
-solsista
-
-*Click to see original message*
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -6498,9 +6154,7 @@ _07-Nov-21 11:04 PM_:
 
 hahaha
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 actually woke up in the middle of the night, because I was thinking a lot about : "what now?" :))
 
@@ -6530,9 +6184,7 @@ As everyone who isn't entirely glued into their computer (like i was) can see - 
 
 So every now and then, and really without pressure or any obligations, we can make an effort to contextualize our insights in token engineering - which is systems engineering, of a socio-economic system on a technological substrate that focuses on cryptographic and decentralized technologies
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 So every now and then, and really without pressure or any obligations, we can make an effort to contextualize our insights in token engineering - which is systems engineering, of a socio-economic system on a technological substrate that focuses on cryptographic and decentralized technologies
 
@@ -6565,9 +6217,7 @@ _07-Nov-21 11:19 PM_:
 !praise @nic for embodying what 0mega is about: pathfinding and sharing one's compass (language?)
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 As everyone who isn't entirely glued into their computer (like i was) can see - that systems engineering - is not linking the human/social at all to the technological
 
@@ -6578,9 +6228,7 @@ _07-Nov-21 11:20 PM_:
 This could be from my lack of understanding of it but it feels like something precise, sharp and cold, and focused on efficiencies. But the there’s got to be a way to bring light, warmth and human touch back to it
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 This could be from my lack of understanding of it but it feels like something precise, sharp and cold, and focused on efficiencies. But the there’s got to be a way to bring light, warmth and human touch back to it
 
@@ -6641,9 +6289,7 @@ Zen Koans, Paradoxical Awakening
 
 "A riddle is to be solved, whilst a koan is to be transcended"
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 Beware of Social Engineering
 
@@ -6673,9 +6319,7 @@ We are building an open, peer-to-peer, lifelong network of awesome humans, one b
 
 [https://images.typeform.com/images/FYUps4mFKPYK/image/default](https://images.typeform.com/images/FYUps4mFKPYK/image/default)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 else it is manipulated/manipulateable - which literally is behavorial game theory; one cornerstone of cryptoeconomics
 
@@ -6691,9 +6335,7 @@ it is created by humans... so technology as created in the "logical positivist" 
 
 in fact this is the pattern of progress
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 actually when I came to Discord with that link already in copy & paste - that was what I wanted to write... and still proposed at the end. But I personally believe that that will be just a side effect  So whatever we do, let's value play over "there's got to be a way"; at least that's what was clear after reading the dialogue between @durgadas and you. thanks again for sharing  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
@@ -6729,9 +6371,7 @@ TEConicilience Library as a pain reliever <img src="https://twemoji.maxcdn.com/2
 
 and @durgadas proposal for "building complexity tolerance" <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Vedantic Meditation by David Frawley
 
@@ -6804,9 +6444,7 @@ Writing as usual. Publishing like never before.
 
 ![https://mirror.xyz/images/social.png](https://mirror.xyz/images/social.png)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 [https://www.researchgate.net/publication/249731656_Symbolic_discourse_Mystical_writing_as_anti-language](https://www.researchgate.net/publication/249731656_Symbolic_discourse_Mystical_writing_as_anti-language)
 
@@ -6820,9 +6458,7 @@ can I add this onto next week?
 
 Again the inspiration came from DADA/IE - where we have a bilingual chat (english-spanish) but we realized that Google Translate does not translate across worldviews :))
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 can I add this onto next week?
 
@@ -6861,9 +6497,7 @@ omg now we have a party! for next week - one of my favorite mystics of web3
 !praise @durgadas for coming up with another amazing session that will enable token engineers to grasp why we as incentive mechanism designers need to keep our social engineering games in check
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @Mount Manu the update for today    <img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
@@ -6880,9 +6514,7 @@ _12-Nov-21 04:00 PM_:
 
 [https://vote.convexfinance.com/#/proposal/0x876b22a796ed985364252eb1b901ca6ac5a75962092a2d6e616fe746ebcd1141](https://vote.convexfinance.com/#/proposal/0x876b22a796ed985364252eb1b901ca6ac5a75962092a2d6e616fe746ebcd1141) Been seeing this on twitter
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 [https://vote.convexfinance.com/#/proposal/0x876b22a796ed985364252eb1b901ca6ac5a75962092a2d6e616fe746ebcd1141](https://vote.convexfinance.com/#/proposal/0x876b22a796ed985364252eb1b901ca6ac5a75962092a2d6e616fe746ebcd1141)
 
@@ -6970,9 +6602,7 @@ Here are some screenshots that seem relevant to our group today, regarding the d
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/910608353456160778/Screen_Shot_2021-07-26_at_5.04.03_PM.jpeg](https://cdn.discordapp.com/attachments/810180622634844202/910608353456160778/Screen_Shot_2021-07-26_at_5.04.03_PM.jpeg)
 
-![https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png](https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png)
-
-ALOYSIOUS
+<h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
 @amrro ping...wanna join? Zoom link halfway through the above document.
 
@@ -7044,9 +6674,7 @@ _17-Nov-21 04:42 PM_:
 
 1a. Associate common responses to oppressive systems or linguistics to illuminate where trauma manifests 1b. Model trauma informed responses to conflict/ overstimulation. (edited)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 this session was both the most light hearted and the most intense... still reflecting  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -7081,9 +6709,7 @@ _20-Nov-21 03:31 PM_:
 How does the TEC measure it’s performance in achieving the goal of advancing token engineering regeneratively? Is measuring this performance something that aligns with TEC values? If performance indicators exist would it be what is simulated using cadCad? (edited)
 
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 [https://youtu.be/EUNHj5eh7BM](https://youtu.be/EUNHj5eh7BM)
 
@@ -7101,9 +6727,7 @@ _23-Nov-21 11:37 AM_:
 
 Where you had some agency to 'tune in' vs. the mentality driven by algorithms
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Where you had some agency to 'tune in' vs. the mentality driven by algorithms
 
@@ -7177,9 +6801,7 @@ _24-Nov-21 03:18 PM_:
 
 Share it here @stef
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 [https://www.notion.so/Tasks-6b289f5a29f24b598fe403d052f08c5c](https://www.notion.so/TE-Consilience-Library-Dashboard-6b289f5a29f24b598fe403d052f08c5c)
 
@@ -7188,9 +6810,7 @@ Mert Ozd
 _24-Nov-21 03:23 PM_:
 everyone dm me the email address that should get access <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png](https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png)
-
-Mount Manu
+<h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
 Share it here @stef
 
@@ -7220,20 +6840,15 @@ _24-Nov-21 06:05 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/913203680017256498/IMG20211124232737_00.jpg](https://cdn.discordapp.com/attachments/810180622634844202/913203680017256498/IMG20211124232737_00.jpg)
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
-Letty
-
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _25-Nov-21 04:58 AM_:
 Letty's baaaaack! <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I am including these graphics because I think we should, like people on the autism spectrum, include more "dimensionality" in how we describe what we do
 
@@ -7249,9 +6864,7 @@ preemptively acknowledging that this obviously is a dualistic representation (wh
 ![https://cdn.discordapp.com/attachments/810180622634844202/913370966489464852/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/913370966489464852/unknown.png)
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 How does the TEC measure it’s performance in achieving the goal of advancing token engineering regeneratively? Is measuring this performance something that aligns with TEC values? If performance indicators exist would it be what is simulated using cadCad?  (edited)
 
@@ -7276,9 +6889,7 @@ The Usefulness of Useless Knowledge
 ![https://www.ias.edu/sites/default/files/images/hero-images/Untitled-2.jpg](https://www.ias.edu/sites/default/files/images/hero-images/Untitled-2.jpg)
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 here is the agenda for today :
 
@@ -7295,9 +6906,7 @@ _25-Nov-21 05:21 AM_:
 
 from Institute of Advanced Studies which enabled the likes of Ramanujan
 
-![https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png](https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png)
-
-🐙 octopus
+<h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
 Oh no! Very sad I missed this.  <img src="https://twemoji.maxcdn.com/2/72x72/1f641.png" width=20 height=20>
 
@@ -7314,9 +6923,7 @@ The need for an official Institute seal was one of the first things that Abraham
 
 ![https://www.ias.edu/sites/default/files/images/featured-thumbnails/ideas/ladies.jpg](https://www.ias.edu/sites/default/files/images/featured-thumbnails/ideas/ladies.jpg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 I'll ping you next time if you want to become a regular - would love to have more of your contributions, Andrew. it was a delight! I keep sharing everywhere  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -7333,9 +6940,7 @@ Yes, please do!
 _25-Nov-21 05:22 AM_:
 These links are from Fabian! Those which got me onto this very interesting path <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I am including these graphics because I think we should, like people on the autism spectrum, include more "dimensionality" in how we describe what we do
 
@@ -7382,9 +6987,7 @@ _25-Nov-21 05:34 AM_:
 
 And a big part of this for me has been personal, trying to create space where I felt accepted and free to explore, before then offering that to others.
 
-![https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png](https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png)
-
-🐙 octopus
+<h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
 My personal thought about math -- the symbols we use are just tiny pictures like this one, compressed for portability. Think of each symbol as a semiotic Lego.
 
@@ -7396,8 +6999,6 @@ actually Fabian made me watch this finally...
 [https://www.youtube.com/watch?v=mH0oCDa74tE](https://www.youtube.com/watch?v=mH0oCDa74tE)
 
 and it has portions in which Grant explains very serenly how numbers as abstractions come to be... I think it's a fundamental understanding that is missing behind all of this that leads to "Quants are the masters of the (Finance) Universe" (which we are just replicating in TE/DeFi) - by keeping the doors to understanding shut on one side, and not daring to knock on the other... <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
-
-(edited)
 
 [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
@@ -7417,9 +7018,7 @@ My experience around ages 10-12 with math classes were really painful for me, I 
 
 And sooo many people I have talked to can point to a single moment where their math class made them feel "stupid" and they shut down.
 
-![https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png](https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png)
-
-🐙 octopus
+<h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
 And sooo many people I have talked to can point to a single moment where their math class made them feel "stupid" and they shut down.
 
@@ -7431,17 +7030,13 @@ hahah I have a "grandious" story abt that hahaha will share sometime, it's reall
 
 it's the way we teach people to just get them to add, multiply to do some accounting... luckily people are not at the mercy of one teacher anymore, and there are people like you and Grant and others who share because they care! thank you so much
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 actually Fabian made me watch this finally...
 
 [https://www.youtube.com/watch?v=mH0oCDa74tE](https://www.youtube.com/watch?v=mH0oCDa74tE)
 
 and it has portions in which Grant explains very serenly how numbers as abstractions come to be... I think it's a fundamental understanding that is missing behind all of this that leads to "Quants are the masters of the (Finance) Universe" (which we are just replicating in TE/DeFi) - by keeping the doors to understanding shut on one side, and not daring to knock on the other... <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
-
-(edited)
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -7453,9 +7048,7 @@ Geeks ‘usurping Masters of Universe’ in Wall Street
 
 THE writer who coined the phrase Masters of the Universe to describe Wall Street traders says testosterone-fuelled investment bankers have been usurped by “a bunch of nerds” in the form of anxiety-prone quantitative analysts.
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 it's the way we teach people to just get them to add, multiply to do some accounting... luckily people are not at the mercy of one teacher anymore, and there are people like you and Grant and others who share because they care! thank you so much
 
@@ -7465,9 +7058,7 @@ _25-Nov-21 05:44 AM_:
 
 Yes! For a long time, people were literally computers (it was a job title) and being able to do fast mental arithmetic was like upgrading the software.
 
-![https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png](https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png)
-
-🐙 octopus
+<h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
 Yes! For a long time, people were literally computers (it was a job title) and being able to do fast mental arithmetic was like upgrading the software.
 
@@ -7487,9 +7078,7 @@ Before there were coders, computers were people — and many were women.
 
 ![https://www.thenewatlantis.com/wp-content/uploads/2006/03/TNA12-Skinner-big-banner.jpg](https://www.thenewatlantis.com/wp-content/uploads/2006/03/TNA12-Skinner-big-banner.jpg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 certainly not authoritative source, but just to hint at the similarities:
 
@@ -7515,9 +7104,7 @@ _25-Nov-21 05:47 AM_:
 
 it's super funny story, how these women then started to teach each other IBM instructions and computer languages, to become coders when they realized their jobs are at stake... then most of 70s was happy diverse computing community ... then *as the tale goes* one Christmas PC vendors discovered a grand marketing hack
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 it's super funny story, how these women then started to teach each other IBM instructions and computer languages, to become coders when they realized their jobs are at stake... then most of 70s was happy diverse computing community ... then *as the tale goes* one Christmas PC vendors discovered a grand marketing hack
 
@@ -7535,9 +7122,7 @@ _25-Nov-21 05:49 AM_:
 "NPR's Planet Money reported that the turning point in 1984 occurred at nearly the same moment at which marketing for PCs began ramping up. " again, finally starting to see that these are just stories we tell ourselves and its our agency and autonomy to tell better stories every day! [https://text.npr.org/357629765](https://text.npr.org/357629765)
 
 
-![https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png](https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png)
-
-🐙 octopus
+<h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
 Yes, but everyone should know that real hackers look like Grace Hopper.
 
@@ -7547,9 +7132,7 @@ _25-Nov-21 05:50 AM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/913381003094028328/images.jpeg](https://cdn.discordapp.com/attachments/810180622634844202/913381003094028328/images.jpeg)
 
-![https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png](https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png)
-
-ALOYSIOUS
+<h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
 I had a lovely time here today. Everything we covered is literally the beginning of the culmination of my life's work. Aloysious is intrinsically motivated by the following items: 1. We are all abused by the oppression we internalize and inflict on one another, and that our social and governmental systems inflict on us. [Opression is in our linguistics some of it is disguised as activism] Insert :Trauma informed linguistics 2. [My stats] Over 60% of the population is on the spectrum and the number will climb with procreation. [Evolution? Are we becoming more sensitive to the enviornment as an evolutionary bit for us to attune back to being in relationship with the planet before we destroy it?] 3. Because of the autism factor: people are more reactive, more liable to be taken advantage of, abused, neglected, coping through narcissistic patterns to get needs met, kidnapped, not personally held accountable for thier behavior [self soothe through calling outs] etc. Insert neuroduvirsity movement [people need to see how many people we have undiagnosed and filling filling filling up wait lists in thier 30s and 40s this trend gets bigger each year] 4. The great identity crisis: from colonialism to white supremacy rhetoric reinforced through churches, schools and the military. Shame and rape culture are the things that carry the venom of oppression. People have many identities not many people know how to embrace and love and bring forward them all...many people don't even know thier identities because their enviornments are telling them what they are. [A white person still activated by the words white person has not done the extent required of personal work in decolonization, they are still identifying with the literal white person when whiteness is an energy.. you don't Carry so much when you are grounded in your plethora of identities] just like black people dont want to be reduced to the color of thier skin...neither do white folx and we have linguistics that give us permission to talk like this. I think that's shite. Still need to use the language to illuminate the bonkers in it all. Insert: oppressive behavioral modification as a concept for people to understand. Teach people that the social norms we have all agreed to regarding power and racial dynamics are harmful and reinforced through shame practices and truly harming our children. We all want our kids to "fit in" [I personally dont] because it keeps them safe...but we are oppressing them out the gate and become the reason they don't establish consent or boundary awareness. I'm gonna skip the adults...they can tune in but I want to create an authenticity movement for the youth. I want to teach decolonization to kids I've done it with my daughter...I think this would nip social shit in the bud before people grow and learn to manipulate power dynamics.  (edited)
 
@@ -7560,9 +7143,7 @@ _25-Nov-21 05:53 AM_:
 this made me reflect a lot about "identities" and the issues that pure notion causes... if we're setting out to actually get at issues at global scale, there's only one common identity that makes sense: "sentient being"... and love our pluralities and multi-dimensionality and differences.... as those make a kick-ass "ensemble model" that sees better than an "overfitted model" (some machine learning jargon, but I think the words make sense invariantly)
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 this made me reflect a lot about "identities" and the issues that pure notion causes... if we're setting out to actually get at issues at global scale, there's only one common identity that makes sense: "sentient being"... and love our pluralities and multi-dimensionality and differences.... as those make a kick-ass "ensemble model" that sees better than an "overfitted model" (some machine learning jargon, but I think the words make sense invariantly)
 
@@ -7578,9 +7159,7 @@ I think it makes algorithms happy to be able to hold hands with metaphors.
 
 Sometimes it makes sense to abstract away the individual complexity (when 2 + 3 = 5 it doesn't matter if they're apples or rocks) and other times it doesn't (I would rather eat an apple than a rock, but that's a personal preference).
 
-![https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png](https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png)
-
-🐙 octopus
+<h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
 I think it makes algorithms happy to be able to hold hands with metaphors.
 
@@ -7593,9 +7172,7 @@ starting to grasp more and more what this means: "Metaphor is the currency of kn
 ![https://cdn.discordapp.com/attachments/810180622634844202/913383214133964800/1ZIJCZJyXW4UfiyZhvd_UJQ.png](https://cdn.discordapp.com/attachments/810180622634844202/913383214133964800/1ZIJCZJyXW4UfiyZhvd_UJQ.png)
 
 
-![https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png](https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png)
-
-🐙 octopus
+<h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
 Sometimes it makes sense to abstract away the individual complexity (when 2 + 3 = 5 it doesn't matter if they're apples or rocks) and other times it doesn't (I would rather eat an apple than a rock, but that's a personal preference).
 
@@ -7605,9 +7182,7 @@ _25-Nov-21 05:59 AM_:
 
 contextualize! this is great way to think about "Rewards/incentivization/ Quantification" #noted (edited)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 starting to grasp more and more what this means: "Metaphor is the currency of knowledge"
 
@@ -7639,9 +7214,7 @@ Mathematics is a subject that has made it clear that it wants to talk to people.
 
 
 
-![https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png](https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png)
-
-🐙 octopus
+<h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
 [https://youtu.be/W9YPnIXR75Y](https://youtu.be/W9YPnIXR75Y)
 
@@ -7661,9 +7234,7 @@ and what may come out if the intentions are right <img src="https://twemoji.maxc
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/913399302838177792/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/913399302838177792/unknown.png) <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 it is a very different *intention* in creating the game (versus make people do things... it still makes people do things, like having fun with math, finance, token engineering, versus make people click on as much ads as possible so that my company makes a profit... or get as many people as possible throw money at our DAO and so that tokens are thrown back at them... and then kind of figure out what that was for... could work, but there are different - more intentional - ways to system design, wich incentives are)
 
@@ -7679,9 +7250,7 @@ I think there's a sense of reciprocity and authenticity that's key..."I think th
 _25-Nov-21 07:03 AM_:
 can we do that with bonding curves @🐙 octopus ?? <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png](https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png)
-
-🐙 octopus
+<h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
 I think there's a sense of reciprocity and authenticity that's key..."I think this is fun, want to try doing it with me and see if you think it's fun?" vs. "I'm saying you have to do this because someone else told me you have to."
 
@@ -7691,9 +7260,7 @@ _25-Nov-21 07:03 AM_:
 
 hahah the latter is still a bit my (not so) old ways hahah
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 can we do that with bonding curves @🐙 octopus ??  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
@@ -7734,9 +7301,7 @@ Upaya
 
 Upaya (Sanskrit: upāya, expedient means, pedagogy) is a term used in Buddhism to refer to an aspect of guidance along the Buddhist paths to liberation where a conscious, voluntary action "is driven by an incomplete reasoning" about its direction. Upaya is often used with kaushalya (कौशल्य, "cleverness"), upaya-kaushalya meaning "skill in means"....
 
-![https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png](https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png)
-
-🐙 octopus
+<h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
 [https://youtu.be/W9YPnIXR75Y](https://youtu.be/W9YPnIXR75Y)
 
@@ -7752,9 +7317,7 @@ Buy a cheap copy of The Calculus Virgin: An Artist's View of... book by Louis Le
 
 ![https://m.media-amazon.com/images/I/61AhEDn5i5L._SL350_.jpg](https://m.media-amazon.com/images/I/61AhEDn5i5L._SL350_.jpg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 heya... I really feel the need to explore language: anti-language (e.g. poems, mystic text, koans to deal with non-duality of "dilemmas"), mathematic language (how human mind/language cannot capture what maths could
 
@@ -7768,9 +7331,7 @@ _26-Nov-21 02:11 AM_:
 
 re: quantum physics I had this amazing professor, Dr. Karen Barad -theoretical physicist and feminist theorist - in college who taught me about intersectionality using quantum physics in her text *Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning* in case this is a desired rabbit hole. there's videos of her online now which is so cool. it's always super meaningful when I know the authors of the incredible work.
 
-![https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png](https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png)
-
-ryeder (they/them)
+<h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 OMGGG I remember this textbook from my youth! BTW my high school (pre)calculus teacher was kind of amazing, Dr Louis Leithold, who I remember in sort of a celebrity kind of way for collaborating with artists and co-authoring this book,
 
@@ -7784,9 +7345,7 @@ _26-Nov-21 02:54 PM_:
 
 Definitely, I think this book looks awesome.
 
-![https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png](https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png)
-
-ryeder (they/them)
+<h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 OMGGG I remember this textbook from my youth! BTW my high school (pre)calculus teacher was kind of amazing, Dr Louis Leithold, who I remember in sort of a celebrity kind of way for collaborating with artists and co-authoring this book,
 
@@ -7806,9 +7365,7 @@ _26-Nov-21 02:55 PM_:
 
 I have been blessed with some amazing teachers. Lol @🐙 octopus I corrected it to "He"
 
-![https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png](https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png)
-
-ryeder (they/them)
+<h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 I have been blessed with some amazing teachers. Lol @🐙 octopus I corrected it to "He"
 
@@ -7857,9 +7414,7 @@ Is 20.00 cest ok for everybody today ?
 
 @solsista @durgadas @Mount Manu
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 Is 20.00 cest ok for everybody today ?
 
@@ -7949,9 +7504,7 @@ GitBook
 
 GitBook
 
-![https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png](https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png)
-
-Juankbell
+<h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
 I think that if we want to be a schelling point, then there should be a constant flow of people but the size of the organization will be proportional to the impact we have advancing the Token Engineering Field
 
@@ -8015,9 +7568,7 @@ _01-Dec-21 06:36 PM_:
 
 [https://www.quora.com/What-are-some-uncommon-ways-to-work-smarter-instead-of-harder/answer/Hannah-Yang-4?ch=17&oid=68489966&share=9dad3ae8&srid=h2Lv&target_type=answer](https://www.quora.com/What-are-some-uncommon-ways-to-work-smarter-instead-of-harder/answer/Hannah-Yang-4?ch=17&oid=68489966&share=9dad3ae8&srid=h2Lv&target_type=answer)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 like this? While it puts binary labels on people..it can be useful to figure out and find cohesion in what we think their pain points and needs are, which influences the way the library is created
 
@@ -8027,9 +7578,7 @@ _01-Dec-21 06:37 PM_:
 
 I’ve made this suggestion and provided methodologies for doing so also
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I’ve made this suggestion and provided methodologies for doing so also
 
@@ -8045,9 +7594,7 @@ _01-Dec-21 06:47 PM_:
 
 Yes we’ve talked about doing this in nearly every working group I participate in and I think it’s invaluable
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Yes we’ve talked about doing this in nearly every working group I participate in and I think it’s invaluable
 
@@ -8069,9 +7616,7 @@ We are hacking on the library and creating content I think
 
 It just came into existence a week ago so I’m a little more focused on some deliverables with manu that take a decent effort in and of themselves
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I’m still a little unclear about the audience for this library but it appears pretty general for token engineering whereas I’m a like more cultural focused
 
@@ -8087,9 +7632,7 @@ _01-Dec-21 07:13 PM_:
 
 In which context? I’ve suggested it a LOT (edited)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 In which context? I’ve suggested it a LOT  (edited)
 
@@ -8200,9 +7743,7 @@ _01-Dec-21 08:24 PM_:
 
 Can you share it again ?
 
-![https://cdn.discordapp.com/avatars/814555684028940310/78dd7a47fc9e7ea64edb54408534703c.png](https://cdn.discordapp.com/avatars/814555684028940310/78dd7a47fc9e7ea64edb54408534703c.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/814555684028940310/78dd7a47fc9e7ea64edb54408534703c.png" width=25 height=25></h3>
 
 I think I uploaded my spreadsheet to the omega chat but it might have been comms
 
@@ -8240,9 +7781,7 @@ It’s been my observation that it’s best to know What you’re wanting to say
 
 And there are built in approaches I’ve learned to help flesh out all three as we go
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 I think sebnem is offline now
 
@@ -8253,9 +7792,7 @@ oh my <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20
 
 please never wait on me! that's a value blocker on self-organization :)) I'm happy to review and support when needed if "stewardness" is required. But you are all golden to hit the road! especially with the Notion Pages for Consilience. We can always update each other in the WG meetings with a short update, so ppl know what's happening, what is needed, where to join - or a full-hour presentation on bigger milestones, e.g. when Notion pages are all set (we worked out the tasks yesterday), or when bigger works need feedback, common understanding of the group etc.
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 like this? While it puts binary labels on people..it can be useful to figure out and find cohesion in what we think their pain points and needs are, which influences the way the library is created
 
@@ -8274,9 +7811,7 @@ Scalable, secure, cross-device and enterprise-ready team collaboration whiteboar
 
 ![https://miro.com/static/images/share/miro.png?00002](https://miro.com/static/images/share/miro.png?00002)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Sweet. I wonder if we could get new members in who are budding or already TEs so they can also directly tell us what they need
 
@@ -8286,9 +7821,7 @@ _02-Dec-21 04:38 AM_:
 
 To make the start easier: we can start with Curators and in parallel have that co-creation and engagement: but as a practioning TE (and other will attest to it) there's just not enough time for co-creation when people are in the trenches of token projects - so starting with empathy, and actually reaching "Seed Curators" that @Mert Ozd named who are TEs and have been through the rabbit holes: In parallel it would be wonderful, if you reach out to TEs maybe @Aidan 🌐♨ @ygg_anderson can help with input as some friendly TEs who know the rabbit holes: What is a very useful library that jumps TE knowledge together? can you support @nic and @durgadas with giving some more insights here, and maybe connect to other TEs who have a wishlist for makeing TE knowledge more accessible, digestable, in a way to shorten paths it takes to get a handle on cryptoeconomics - but also develop a deeper understanding, the philosophy if you will that is behind cryptoeconomics, deeper than the mechanics and tools
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 How can we help them now while the library doesn’t exist yet?
 
@@ -8298,9 +7831,7 @@ _02-Dec-21 04:39 AM_:
 
 we do both - please give feedback to "Structuring the TEC library" (Task in Notion that @Mert Ozd provided above), what is the minimal to reach out to people and have their feedback (since we're dogfooding I did not feel the urge - but definitely helpful)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I’m still a little unclear about the audience for this library but it appears pretty general for token engineering whereas I’m a like more cultural focused
 
@@ -8330,9 +7861,7 @@ Tasks
 
 A new tool for teams & individuals that blends everyday work apps into one.
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 It just came into existence a week ago so I’m a little more focused on some deliverables with manu that take a decent effort in and of themselves
 
@@ -8482,20 +8011,15 @@ Democratize your open-source software project. A better way for projects to coll
 
 ![https://tokenlog.xyz/icon.png](https://tokenlog.xyz/icon.png)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
-solsista
-
-*Click to see original message*
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _02-Dec-21 02:27 PM_:
 Also the puppy dying meme <img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f480.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 An example result would be: We learned that the environment in which a budding token engineer spends most time in is noisy due to working from home, and with family being home. Therefore the format in which the learning materials will be delivered will be mostly through small courses that can be done on their own, with a forum section where learners and subject matter experts can discuss areas in which they’re confused about. Learning through video or audio format and especially calls would not be ideal in a noisy environment. Now we know the user interface must be designed in such a way that can deliver courses and allow for conversations. Ideas of how the user interface will look will have been generated through idea generation. Once user interface is designed, we can show a prototype to the people who answered the survey to see if they would find it useful. Then we can move on to building the app itself  (edited)
 
@@ -8506,9 +8030,7 @@ I love these, so thoughtful! I think this can make both initiatives more useful:
 
 But if you would be up for it to lead such a space : we really really need it!
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 I love these, so thoughtful! I think this can make both initiatives more useful: the library and the practice session of TE Ethics... and it catches up actually from where we left of when we analyzed the Community Survey... we wanted to go deeper... but well resources  But if you would be up for it to lead such a space : we really really need it! <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -8518,9 +8040,7 @@ _02-Dec-21 02:30 PM_:
 
 yes sure! I can give it a whirl!
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Also the puppy dying meme  <img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f480.png" width=20 height=20>
 
@@ -8530,9 +8050,7 @@ _02-Dec-21 02:30 PM_:
 
 but the puppy is saved, nic! we have processes in place - no puppy's shall be harmed in 0mega, neverrrrrrr
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 but the puppy is saved, nic! we have processes in place - no puppy's shall be harmed in 0mega, neverrrrrrr
 
@@ -8587,9 +8105,7 @@ _03-Dec-21 01:20 PM_:
 
 @nic I'm off today, so we can talk if that makes sense for you
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 @nic I'm off today, so we can talk if that makes sense for you
 
@@ -8662,9 +8178,7 @@ I wrote the proposal details part
 
 any feedback would be very very appriciated
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 @nic and @durgadas how was the session you guys had ? I was very excited about your discussion, however this week I was super busy therefore can not communicate enough
 
@@ -8696,9 +8210,7 @@ Wednesday, 8pm CET
 
 ![https://raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_omega.png](https://raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_omega.png)
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 Hey @nic those are very wonderful thoughts. I think we should implement those different journeys in our phase 3. With metaprofiles they might be super valuable. I am eager to talk on those and how to incorporate them. Tomorrow if we have time after param party we should definitely touch those topics. If the time is not enough we will arrange an another meeting. Lastly, do you have anything you dont like or wanted to improve in my first draft of “proposal details” part ?  (edited)
 
@@ -8710,9 +8222,7 @@ hmm sure yeah, my ideas were too structured and not really play/exploration. (ed
 
 For the seeding phase, I would say the question is how might we make what the subject matter experts create, be something that delivers the knowledge towards people in different advancement of their Token Engineering journey (eg how deep in the TE rabbit hole have they gone). An example from my experience was I joined a TE Academy class/workshop but it was like watching a lecture in a different language. None of it made sense. I knew I needed to understand, but I didn't know what I needed in order to make myself understand. So when a Subject Matter Expert writes an article (or whichever format they deliver it in), I understand that it will be useful for becoming a token engineer but I don't know how to apply it as my brain is incapable of understanding at this point in time. In this case, I would recommend what @durgadas suggests during the seed phase rather than waiting until Metaprofiles phase. I believe that his suggestion was mapping the content for the user's journey to becoming a token engineering, so that we do not create a learning experience in which we have a library full of stuff and us saying "off you go! good luck! ask questions!" but they wouldn't even know what sort of questions to ask. (edited)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 For the seeding phase, I would say the question is how might we make what the subject matter experts create, be something that delivers the knowledge towards people in different advancement of their Token Engineering journey (eg how deep in the TE rabbit hole have they gone). An example from my experience was I joined a TE Academy class/workshop but it was like watching a lecture in a different language. None of it made sense. I knew I needed to understand, but I didn't know what I needed in order to make myself understand. So when a Subject Matter Expert writes an article (or whichever format they deliver it in), I understand that it will be useful for becoming a token engineer but I don't know how to apply it as my brain is incapable of understanding at this point in time. In this case, I would recommend what @durgadas suggests during the seed phase rather than waiting until Metaprofiles phase. I believe that his suggestion was mapping the content for the user's journey to becoming a token engineering, so that we do not create a learning experience in which we have a library full of stuff and us saying "off you go! good luck! ask questions!" but they wouldn't even know what sort of questions to ask.  (edited)
 
@@ -8722,9 +8232,7 @@ _08-Dec-21 12:44 PM_:
 
 Best summary of DAO Onboarding as a whole EVAR: "Here's a huge library of stuff, enjoy!" hahahaaaaaaa
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Best summary of DAO Onboarding as a whole EVAR: "Here's a huge library of stuff, enjoy!" hahahaaaaaaa
 
@@ -8740,9 +8248,7 @@ _08-Dec-21 01:36 PM_:
 
 In approx. 30 mins we'll join for a param party hosted by the legelndary @Zeptimus !! Remind your friends and see you in 0mega Voice channel: [https://discord.gg/wpJTjUYj](https://discord.gg/wpJTjUYj) (edited)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Best summary of DAO Onboarding as a whole EVAR: "Here's a huge library of stuff, enjoy!" hahahaaaaaaa
 
@@ -8769,8 +8275,6 @@ I think is how she summarized this
 _08-Dec-21 01:39 PM_:
 ok, cool then I didn't get the DAO onboarding joke <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
-(edited)
-
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 _08-Dec-21 01:40 PM_:
@@ -8789,9 +8293,7 @@ _08-Dec-21 01:50 PM_:
 
 so that was great stuff
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 and novel UI/UX is bad for neurodiverse people
 
@@ -8879,9 +8381,7 @@ TE Ethics Participatory Research - 0mega Initiative
 
 1
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 Hey guys, I wanted to remind that our tasks for Library on Notion is still free to take !
 
@@ -8935,9 +8435,7 @@ Why onboarding people into a DAO is so hard
 
 ![https://miro.medium.com/max/1200/1*RHVupWOTPflBO_IsOKeciA.jpeg](https://miro.medium.com/max/1200/1*RHVupWOTPflBO_IsOKeciA.jpeg)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 [https://www.designmantic.com/community/designing-for-autistic.php](https://www.designmantic.com/community/designing-for-autistic.php)
 
@@ -8984,9 +8482,7 @@ Since the beginning in the 1950s, when people like Ludwig von Bertalanffy and Ke
 
 ![https://miro.medium.com/max/1200/1*Bn6YS6GiFVqZbsOwyJbrrQ.jpeg](https://miro.medium.com/max/1200/1*Bn6YS6GiFVqZbsOwyJbrrQ.jpeg)
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 [https://medium.com/age-of-awareness/a-brief-history-of-systems-science-chaos-and-complexity-d9198b1a198d](https://medium.com/age-of-awareness/a-brief-history-of-systems-science-chaos-and-complexity-d9198b1a198d)
 
@@ -9027,9 +8523,7 @@ h/t to Marlon/MotionDAO who will be joining us too next week
 
 Cyberneticist-Dancer <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 [https://www.interdependence.online/declaration](https://www.interdependence.online/declaration)
 
@@ -9039,9 +8533,7 @@ _11-Dec-21 02:47 AM_:
 
 Always fun to read ! thanks for sharing
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 Cyberneticist-Dancer  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -9066,9 +8558,7 @@ _11-Dec-21 10:18 AM_:
 
 1
 
-![https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png](https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png)
-
-Kojak
+<h3>Kojak <img src="https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png" width=25 height=25></h3>
 
 On the first day in Univ in India, Stafford Beer was on the main auditorium stage and he actually cried explaining what happened. It kinda affected my path. Have been hooked on to modelling economic systems. cadCD it is. The place. Africa and Kerala in India.
 
@@ -9077,9 +8567,7 @@ On the first day in Univ in India, Stafford Beer was on the main auditorium stag
 _11-Dec-21 11:58 AM_:
 I want to hear that story <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png](https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png)
-
-Kojak
+<h3>Kojak <img src="https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png" width=25 height=25></h3>
 
 1972 that was.BITS, Pilani. Computer Programming was on a IBM 1130, on punch cards. No VDU.
 
@@ -9134,9 +8622,7 @@ _12-Dec-21 01:15 AM_:
 
 Just a heads up I have an important meeting next week but am unsure when it will happen yet. I am hoping it won’t be dec 15 but it’s not up to me.
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Just a heads up I have an important meeting next week but am unsure when it will happen yet. I am hoping it won’t be dec 15 but it’s not up to me.
 
@@ -9167,15 +8653,11 @@ _12-Dec-21 09:11 AM_:
 Looking ahead, once experts and curators are in place, there Library could coordinate information gathering for projects, generate newsletters, co-author articles and research studies across disciplines. Somewhere not too far down the line a couple of books could emerge.
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 In the meantime TE Ethics initiative structure and funding proposal is completed: please make your comments, in case there's no comment please give a thumbs up:
 
 [https://docs.google.com/document/d/1ngUBguUdAITrNnVsum7UhjoMFUqcoFSVAj1R_yQwB2Q/edit#heading=h.73rt1sy61vqb](https://docs.google.com/document/d/1ngUBguUdAITrNnVsum7UhjoMFUqcoFSVAj1R_yQwB2Q/edit#heading=h.73rt1sy61vqb)
-
-(edited)
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -9183,9 +8665,7 @@ _12-Dec-21 12:16 PM_:
 
 I made comments / @solsista are you available this week to drop in and talk?
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 ohh, lets hope it wont be on 15 th  but even if it is 15th we will sort it out somehow. No worries at all. <img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=20 height=20>
 
@@ -9207,9 +8687,7 @@ _12-Dec-21 03:49 PM_:
 
 [thread]: Need a day to look a bit deeper into this. The nagging doubt which keeps bugging me is are we losing something in force fitting an engineering approach onto as sociological an area as this?
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 looks like we're all good after all! the dates worked out  (edited)
 
@@ -9284,9 +8762,7 @@ _13-Dec-21 09:03 PM_:
 
 Will try. Awkward time. Will post the OCRd doc.
 
-![https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png](https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png)
-
-Kojak
+<h3>Kojak <img src="https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png" width=25 height=25></h3>
 
 Will try. Awkward time. Will post the OCRd doc.
 
@@ -9337,9 +8813,7 @@ _14-Dec-21 03:41 AM_:
 
 Woah there's a bridge here! So cool. This is next level.
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 I am almost done with the "TE Consilience library" proposal. I need help for some parts, if you take a look I will be glad. Also, please provide feedback for any part you think can be or should be developed more.
 
@@ -9365,15 +8839,11 @@ _14-Dec-21 12:59 PM_:
 
 yesss!
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 In the meantime TE Ethics initiative structure and funding proposal is completed: please make your comments, in case there's no comment please give a thumbs up:
 
 [https://docs.google.com/document/d/1ngUBguUdAITrNnVsum7UhjoMFUqcoFSVAj1R_yQwB2Q/edit#heading=h.73rt1sy61vqb](https://docs.google.com/document/d/1ngUBguUdAITrNnVsum7UhjoMFUqcoFSVAj1R_yQwB2Q/edit#heading=h.73rt1sy61vqb)
-
-(edited)
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -9385,9 +8855,7 @@ Little add-on
 
 1
 
-![https://cdn.discordapp.com/avatars/814555684028940310/aa0df98358b010203fc6c90598ffefbb.png](https://cdn.discordapp.com/avatars/814555684028940310/aa0df98358b010203fc6c90598ffefbb.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/814555684028940310/aa0df98358b010203fc6c90598ffefbb.png" width=25 height=25></h3>
 
 [thread]: oh so many good things to catch up on... I'll be back on Wednesday only ... really need to attend to the clean energy project that's keeping us happily busy till February, but I can't wait till Wed. wishing you all a great start of the week .. @nic please add any comments esp. re. where you see your name as co-facilitator in TE Ethics for example, we can still have an additional round... but would love to have any urgent comments clarified this Wednesday, so we can progress
 
@@ -9403,9 +8871,7 @@ _14-Dec-21 01:43 PM_:
 
 I am all about the bottom half of the CEF
 
-![https://cdn.discordapp.com/avatars/814555684028940310/aa0df98358b010203fc6c90598ffefbb.png](https://cdn.discordapp.com/avatars/814555684028940310/aa0df98358b010203fc6c90598ffefbb.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/814555684028940310/aa0df98358b010203fc6c90598ffefbb.png" width=25 height=25></h3>
 
 [thread]: oh so many good things to catch up on... I'll be back on Wednesday only ... really need to attend to the clean energy project that's keeping us happily busy till February, but I can't wait till Wed. wishing you all a great start of the week .. @nic please add any comments esp. re. where you see your name as co-facilitator in TE Ethics for example, we can still have an additional round... but would love to have any urgent comments clarified this Wednesday, so we can progress
 
@@ -9421,9 +8887,7 @@ Btw, I've invited a couple of people just starting their TE journey to tomorrow'
 
 1
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 perfect ! very much appriciated. Looking forward to see you tomorrow
 
@@ -9464,9 +8928,7 @@ _14-Dec-21 04:20 PM_:
 
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 I'm learning a bit of everything...so not really sure where I can be helpful, just let me know I'll try support
 
@@ -9475,9 +8937,7 @@ I'm learning a bit of everything...so not really sure where I can be helpful, ju
 _14-Dec-21 04:54 PM_:
 Same boat. <img src="https://twemoji.maxcdn.com/2/72x72/1f60b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 It even talks about how to motivate the saboteur
 
@@ -9487,9 +8947,7 @@ _15-Dec-21 05:48 AM_:
 
 it's called "attack surface" right? and I mean "humany" governance processes offer a huge attack surface...and there are people who do nothing else all day as to think how to "program the humans around them"... that's why most people want to see minimal governance (like in RAI) - that does not mean, minimal human connection! on the contrary!!!! Imagine how much more time we have for connecting when we do not have to decide every little detail, and vote for it etc. (I know that is the best we got... and we're still test-driving and dog fooding... but the goal shouldn't be maximize that amount of decisions make (attack surface bloat), it leads to intention deficit building up over time ... and eventually social hackers taking over whatever good intentions started the whole thing...
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 it's called "attack surface" right? and I mean "humany" governance processes offer a huge attack surface...and there are people who do nothing else all day as to think how to "program the humans around them"... that's why most people want to see minimal governance (like in RAI) - that does not mean, minimal human connection! on the contrary!!!! Imagine how much more time we have for connecting when we do not have to decide every little detail, and vote for it etc. (I know that is the best we got... and we're still test-driving and dog fooding... but the goal shouldn't be maximize that amount of decisions make (attack surface bloat), it leads to intention deficit building up over time ... and eventually social hackers taking over whatever good intentions started the whole thing...
 
@@ -9501,9 +8959,7 @@ Will be posting a summary of what is important in that document. It is actually 
 
 Techniques not incitement.
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 !praise @Mert Ozd for editing the proposal for the omega initiative !praise @Letty for adding useful feedback to improving the proposal !praise @Kojak for volunteering to help in some areas of the initiative
 
@@ -9520,13 +8976,9 @@ hey, a little warm up for today's session: can we all take a few minutes to shar
 _15-Dec-21 05:56 AM_:
 Will be breaking off in 5 minutes, will see whats posted here and post my comments too. Not sure if I can make it for the session later toady. Its past midnight for me. Too old for those timings. <img src="https://twemoji.maxcdn.com/2/72x72/1f600.png" width=20 height=20>
 
-(edited)
-
 But i will try.
 
-![https://cdn.discordapp.com/avatars/755383991300915290/a58e400056417f1d790deda8e41c5df0.png](https://cdn.discordapp.com/avatars/755383991300915290/a58e400056417f1d790deda8e41c5df0.png)
-
-Kojak
+<h3>Kojak <img src="https://cdn.discordapp.com/avatars/755383991300915290/a58e400056417f1d790deda8e41c5df0.png" width=25 height=25></h3>
 
 Will be breaking off in 5 minutes, will see whats posted here and post my comments too. Not sure if I can make it for the session later toady. Its past midnight for me. Too old for those timings.  (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f600.png" width=20 height=20>
 
@@ -9536,9 +8988,7 @@ _15-Dec-21 06:02 AM_:
 
 it's too late I know, but you mention you want to be part/contribute. I added myself as "on-call", meaning the Lib initiative can count on me to show up when they (really) needed a specific contribution of me - but don't need to "budget it". As long as you don't yet know how/when you could contribute we can also add you as "On-call" ?
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 it's too late I know, but you mention you want to be part/contribute. I added myself as "on-call", meaning the Lib initiative can count on me to show up when they (really) needed a specific contribution of me - but don't need to "budget it". As long as you don't yet know how/when you could contribute we can also add you as "On-call" ?
 
@@ -9549,9 +8999,7 @@ _15-Dec-21 06:04 AM_:
 Yes, On Call will be perfectly fine...
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 it's called "attack surface" right? and I mean "humany" governance processes offer a huge attack surface...and there are people who do nothing else all day as to think how to "program the humans around them"... that's why most people want to see minimal governance (like in RAI) - that does not mean, minimal human connection! on the contrary!!!! Imagine how much more time we have for connecting when we do not have to decide every little detail, and vote for it etc. (I know that is the best we got... and we're still test-driving and dog fooding... but the goal shouldn't be maximize that amount of decisions make (attack surface bloat), it leads to intention deficit building up over time ... and eventually social hackers taking over whatever good intentions started the whole thing...
 
@@ -9562,9 +9010,7 @@ _15-Dec-21 06:08 AM_:
 
 For the doc I mentioned, it’s interesting to think of how to flip it, they talk about using tools available to them to sabotage but what I find cool is that what’s happening at the TEC is that people are using what they know to help the TEC! Also this quote from that article “Abstract verbalizations about personal liberty, freedom of the press, and so on, will not be convincing in most parts of the world. In many areas they will not even be comprehensible.” Which again, emphasises importance of informed participation
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 hey, a little warm up for today's session: can we all take a few minutes to share our intentions for WG 0mega and for the initiatives? Please take down time during the day, and let's have that round when we start... will be good to set the stage for "Reward" systems
 
@@ -9584,9 +9030,7 @@ I care about helping direct people who want to create better systems towards the
 Part of directing people to resources job is I guess building those resources so here I am
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 “Imagine how much more time we have connecting when we do not have to decide every little detail, and vote for it etc”  For the doc I mentioned, it’s interesting to think of how to flip it, they talk about using tools available to them to sabotage but what I find cool is that what’s happening at the TEC is that people are using what they know to help the TEC! Also this quote from that article “Abstract verbalizations about personal liberty, freedom of the press, and so on, will not be convincing in most parts of the world. In many areas they will not even be comprehensible.” Which again, emphasises importance of informed participation <img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=20 height=20>
 
@@ -9605,9 +9049,7 @@ when they can make it back <img src="https://twemoji.maxcdn.com/2/72x72/1f609.pn
 
 from their M.I.A. status (edited)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 another thing that is important for Reward System is to think about, each one of us, **what it is that we need to devote more time** into TE self-knowledge (locate oneself in the complex plane that TE/TEC as organisation as well as a transdiciplinary domain ~ intention) and TE knowledge curation/processing and sharing (in whatever form, we chose 2 initiatives for and keeping the 0mega up) as public good
 
@@ -9620,9 +9062,7 @@ It would be cool to apply TE process to building the omega, eg motivations and i
 I will doing work for omega outside of work hours so will likely by a couple hours a day, I could help anywhere really. Eg if you want me to support a facilitator creating content for a specific topic, maybe I can make it easier to understand for someone non technical. Maybe I can find ways to make this learning experience easier in general for someone non technical (Hence my suggestion to do the user persona stuff). Maybe you just need someone to check up on the people writing articles (more like project management), maybe you need someone to make an app that can be attached to the TEC website for this library.
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 It would be cool to apply TE process to building the omega, eg motivations and incentives, creating value flows, simulating and then encoding it in smart contract since eventually (unless I’m misunderstanding) we want this to be curated by the people using it
 
@@ -9633,9 +9073,7 @@ _15-Dec-21 06:32 AM_:
 yes! I would keep it simple for these first initiatives and the first round of funding proposals - just to keep momentum, it's all good. However, it would be fantastic if we can use our WG 0mega sessions to actuall do that, I made a comment based on @ALOYSIOUS and @Letty 's comments in TE Ethics, that we have an underlying current of both initiatives, which has become the tagline of 0mega "Finding Unity in Diversity" h/t @durgadas - I believe it's definitely in the air and we have a motivated collective of humans who joined... maybe just because of that... so yes to "TE process to building the 0mega"
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 It would be cool to apply TE process to building the omega, eg motivations and incentives, creating value flows, simulating and then encoding it in smart contract since eventually (unless I’m misunderstanding) we want this to be curated by the people using it
 
@@ -9653,12 +9091,8 @@ _15-Dec-21 06:39 AM_:
 
 i’ve been thinking about how I could talk to the users, and it might help you as well for making token engineering easier to learn Dinner service as a metaphor. Throughout this process, you are also getting to know them as humans (what are they like outside of here) - what are they like - Introduce the concept of the restaurant (why should they get excited about the menu? a story they can tell their friends) - Ask them what looks good in drinks(in this case features of the product) - If they don’t know educate them so that they can make a decision themselves - pay attention to how they make a decision (do they ask what others do? Do they think about what they like in other places?) - Then serve them what they asked for - Ask them how they like what was served (if happy yay, if not, what do they not like about it?) - Give them recommendations (business needs, a story they can tell their friends) then ask what they want for their meal of multiple courses (in this case, the MVP that lets them do what they need to do in this space) - Pay attention to how they make a decision again - Pay attention to how they react to waiting - Serve them what they ordered - Ask them how they like what was served - Tell them there are treats available (in this case rewards) - What do they like as a treat? What feels rewarding? Would they even order a treat? - What do they care about when deciding what the treat should be? - What do they think about the whole experience? Are they happy with the cost of the experience? Do they feel like it was worth the cost? Would they come back? (Are they happy with what was asked of them as a user eg personal info, time, money) - Do they mention wanting to try something else next time?
 
-(edited)
-
 
 I think it helps with anticipating their needs (knowing this journey you must experience together and helping them flow through it easily but maintaining constant conversation). Sometimes they don’t know what they need, so we give them the information they need in order to make a decision on what to “order” or which features to use or which rewards to take advantage of Maybe in the future there won’t be a need for websites, word of mouth is enough because we deliver so much value and improve their lives so much and help them self actualise much easier. It’s like the popularity of the ‘restaurant’ increases as friends tell their friends about that place and they write reviews. If they’re really unhappy with the experience they can ‘fork’ or evolve into a community/protocol that suits them better or it could become a new product you deliver. And if they’re only a little bit unhappy we’ll we’ve made sure to always have constant conversations with them so we can hear their problems directly, and improve the current product.
-
-(edited)
 
 
 I’d imagine creating the dual pathways for the uninformed and informed at multiple steps of their te journey Eg area 1 TE concept A) do you know what TE is? If not let me explain what it is and why it’s awesome B) you already know! Great pick from our menu of subject areas from the crypto economic flower 2 crypto economic flower A) know what you’re interested in? Go ahead and pick it B) need recommendations? These have been popular and people have found it useful 3) rewards how would you like to be rewarded? A) Get paid to learn? (for those bootstrapping?) B) Earn rep points by sharing your learnings? We’d have to dive into what their motivations are to generate reward ideas
@@ -9671,9 +9105,7 @@ _15-Dec-21 06:52 AM_:
 Last thing to say this morning (sorry for the spam) How can we break up the tasks, to bring this library to reality, into small enough tasks so that people can do as many tasks as they want to suit their availability? Does it really need people to be full time in order to be rewarded for their contributions? How will people helping when they can, which is less, but still helping, be rewarded?
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Last thing to say this morning (sorry for the spam) How can we break up the tasks, to bring this library to reality, into small enough tasks so that people can do as many tasks as they want to suit their availability? Does it really need people to be full time in order to be rewarded for their contributions? How will people helping when they can, which is less, but still helping, be rewarded?
 
@@ -9685,9 +9117,7 @@ After going through the whole document, what could be useful is what is posted b
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/920680350638829578/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/920680350638829578/unknown.png)
 
-![https://cdn.discordapp.com/avatars/755383991300915290/a58e400056417f1d790deda8e41c5df0.png](https://cdn.discordapp.com/avatars/755383991300915290/a58e400056417f1d790deda8e41c5df0.png)
-
-Kojak
+<h3>Kojak <img src="https://cdn.discordapp.com/avatars/755383991300915290/a58e400056417f1d790deda8e41c5df0.png" width=25 height=25></h3>
 
 After going through the whole document, what could be useful is what is posted below. If any person is consistently doing the above, then that person is being unethical. Most of it is obvious and can be controlled by standard checks and balances, oversight and supervision. The rest of it is of interest only if one wants to sabotage or is interested in teaching someone to do material sabotage.  (edited)
 
@@ -9728,9 +9158,7 @@ we could e.g. have the case of sushiswap x whatever insights this "Sabotage Manu
 
 so in the beginning it might be wiser to stick to focus groups, and situations extracted prepared from experience where ethical dilemma in a token economy as token engineer and/or participant
 
-![https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png](https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png)
-
-Kojak
+<h3>Kojak <img src="https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png" width=25 height=25></h3>
 
 [thread]: My observation: "If any person is consistently doing the above actions", then **that person is being unethical**. Most of it is obvious and can be controlled by standard checks and balances, oversight and supervision." "The rest of it is of interest only if one wants to sabotage or is interested in teaching someone to so material sabotage."
 
@@ -9850,9 +9278,7 @@ A new tool for teams & individuals that blends everyday work apps into one.
 
 @stef mind sharing the website you were talking about?
 
-![https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png](https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png)
-
-Kojak
+<h3>Kojak <img src="https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png" width=25 height=25></h3>
 
 How is it unique in the Token context?
 
@@ -9884,9 +9310,7 @@ So as they say to "protect the bottom line" each participant is advised to contr
 (this is no investment advise
 
 
-![https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png](https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png)
-
-Kojak
+<h3>Kojak <img src="https://cdn.discordapp.com/avatars/814555684028940310/4ceddb34140ab61fd92812b6fb0b5b0f.png" width=25 height=25></h3>
 
 [thread]: A PID type of controller for ethical direction giving? With tokenisation it may be feasible...
 
@@ -9985,9 +9409,7 @@ _17-Dec-21 05:32 PM_:
 !praise @solsista for posting the Research proposal !praise @Letty for posting the Library proposal
 
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Please do engage and share any comments there to keep building our Commons Library  <img src="https://twemoji.maxcdn.com/2/72x72/1f4da.png" width=20 height=20>
 
@@ -10011,9 +9433,7 @@ AND a possible contribution to the green petal (psychology and decision making) 
 
 2
 
-![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
-
-stef
+<h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
 Hi, I'd like to volunteer for the icons task, will design the images, upload them to our rezgauche.be mintbase/arweave and link them to notion. If you have specific themes, requests, suggestions, let me know, and if you think the icons don't fit the library, tell me why and replace them with yours.
 
@@ -10023,9 +9443,7 @@ _19-Dec-21 08:22 PM_:
 
 hello @stef , this would be super good ! thank you. we can brainstorm what kind of vibe we are looking for in terms of design perspective (maybe we can create a moodboard). Do you have anything in your mind ?
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 hello @stef , this would be super good ! thank you. we can brainstorm what kind of vibe we are looking for in terms of design perspective (maybe we can create a moodboard). Do you have anything in your mind ?
 
@@ -10042,9 +9460,7 @@ _20-Dec-21 08:25 PM_:
 hi @nic
 
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 hello @stef , this would be super good ! thank you. we can brainstorm what kind of vibe we are looking for in terms of design perspective (maybe we can create a moodboard). Do you have anything in your mind ?
 
@@ -10053,9 +9469,7 @@ hello @stef , this would be super good ! thank you. we can brainstorm what kind 
 _22-Dec-21 03:40 AM_:
 whaaa yes to moodboard! <img src="https://twemoji.maxcdn.com/2/72x72/1f924.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
-
-stef
+<h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
 AND a possible contribution to the green petal (psychology and decision making) could be this fragment of Mari Ruti's "The ethics of Opting Out - Queer theory's Deviant Subjects. I'll include a link to the text from page 206-213 for the purpose of reference, knowledge sharing within this Omega Working Group.
 
@@ -10085,9 +9499,7 @@ _22-Dec-21 02:43 PM_:
 
 Right! Back in Omega in January - collaborating async meanwhile!
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Right! Back in Omega in January - collaborating async meanwhile!
 
@@ -10126,9 +9538,7 @@ _23-Dec-21 09:01 AM_:
 
 Hi! Probably not the best timing but I would like to get involved with Omega. Where can I find some resources to get started? (edited)
 
-![https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png](https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png)
-
-UniPuff 🜐🐙
+<h3>UniPuff 🜐🐙 <img src="https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png" width=25 height=25></h3>
 
 Hi! Probably not the best timing but I would like to get involved with Omega. Where can I find some resources to get started?  (edited)
 
@@ -10234,9 +9644,7 @@ Excellent 2022 so far <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" wi
 
 Happy New Year Everyone <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 [https://www.notion.so/TE-Consilience-Library-f222e80f33744995ba885ff7acf6c5bc](https://www.notion.so/TE-Consilience-Library-f222e80f33744995ba885ff7acf6c5bc)
 
@@ -10346,9 +9754,7 @@ Async is perfect for me tbh. I find it hard to get stuck in calls
 
 By ‘do the mood board’ do you mean add images for reference on how we think icons should look?
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 By ‘do the mood board’ do you mean add images for reference on how we think icons should look?
 
@@ -10358,9 +9764,7 @@ _05-Jan-22 02:33 PM_:
 
 I mean the aesthetic you are envisioning for the library
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 I mean the aesthetic you are envisioning for the library
 
@@ -10376,9 +9780,7 @@ _05-Jan-22 02:37 PM_:
 
 Your welcome !
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 New fresh one for collab
 
@@ -10388,9 +9790,7 @@ _05-Jan-22 02:38 PM_:
 
 perfect I will open and share here today
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 perfect I will open and share here today
 
@@ -10431,9 +9831,7 @@ _05-Jan-22 03:20 PM_:
 
 We just need to make sure the tasks are broken down sufficiently so that one gigantic task isn’t stuck on one card, or stuck in in progress (edited)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 We just need to make sure the tasks are broken down sufficiently so that one gigantic task isn’t stuck on one card, or stuck in in progress  (edited)
 
@@ -10443,9 +9841,7 @@ _05-Jan-22 03:22 PM_:
 
 make sense
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 We just need to make sure the tasks are broken down sufficiently so that one gigantic task isn’t stuck on one card, or stuck in in progress  (edited)
 
@@ -10458,9 +9854,7 @@ by resisting the easy path - we need to walk on the complex plane and find a via
 [sorry, preparing for session 3 of "When the rubber hits the road"
 
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Is Dework a Mirror server?
 
@@ -10474,9 +9868,7 @@ Dework
 
 Dework - The task manager for DAOs and decentralized work
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 yes yes, it is really worth bounties in and of itself! (that's why companies pay a lot of money to managers so they break down task for others to do.... we need to find a different way (because I quit my high paid manager job not to do that... and the #1 reason is that people actually don't get happy by just doing tasks others say need to be done - yet we still need proper coordination, preferably asynch... this is an innovation in alignement through resonance - we're basically doing cutting edge management science  by resisting the easy path - we need to walk on the complex plane and find a viable path.  (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
@@ -10501,9 +9893,7 @@ Hundreds of group facilitation activities for workshops, meetings and training s
 
 ![http://shared.sessionlab.com/images/library_preview.png](http://shared.sessionlab.com/images/library_preview.png)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 have a look:
 
@@ -10520,8 +9910,6 @@ I didn’t actually directly work with gitcoin or moonshot on it
 
 [https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/958](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/958)
 
-(edited)
-
 ![https://cdn.discordapp.com/attachments/810180622634844202/928387104487145502/image0.jpg](https://cdn.discordapp.com/attachments/810180622634844202/928387104487145502/image0.jpg)
 
 ZenHub
@@ -10529,9 +9917,7 @@ ZenHub
 Project Management and Software Development with GitHub - ZenHub
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 I'm looking into this Liberating Structures, after hearing so many good recommendations about it by @durgadas @Sparrow 🌚 DADA @Michal - this side has them as digital cards:
 
@@ -10551,9 +9937,7 @@ _05-Jan-22 03:44 PM_:
 Hi! I wasn't able to attend today's call. Who is working on the Consilience Library? The initiative seems extra intiguing. I am looking to contribute to the Philosophy, Law and Ethics branch. (edited)
 
 
-![https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png](https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png)
-
-UniPuff 🜐🐙
+<h3>UniPuff 🜐🐙 <img src="https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png" width=25 height=25></h3>
 
 Hi! I wasn't able to attend today's call. Who is working on the Consilience Library? The initiative seems extra intiguing. I am looking to contribute to the Philosophy, Law and Ethics branch.  (edited)
 
@@ -10571,9 +9955,7 @@ A new tool for teams & individuals that blends everyday work apps into one.
 
 Also you can take a look at tasks there
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 Also you can take a look at tasks there
 
@@ -10592,9 +9974,7 @@ Sure! sorry for the cluster in tasks. We have created them just before holiday s
 
 We can have a call in 5 min if you have time
 
-![https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png](https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png)
-
-UniPuff 🜐🐙
+<h3>UniPuff 🜐🐙 <img src="https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png" width=25 height=25></h3>
 
 I also see that you've mentioned MyMeta in the "Seed Curators" task. I am am member of MetaGame so I could help with that if needed!  (edited)
 
@@ -10604,9 +9984,7 @@ _05-Jan-22 05:06 PM_:
 
 that would be awesome
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Hey! I’m feeling quite ill so I will likely just listen in and say thoughts in chat. I might have to skip it if I feel worse later. Couple notes from me: - @Mount Manu and I will be working together on some tasks already on notion - is there a way we can work together with Longtail Financial with their TE Bootcamp? I would love to hear about more initiatives that you are aware is happening that could help those learning to design token economies. I have been sharing the hitchhiker sessions/articles and TE Academy, and people find them very helpful. Is there a workflow that a person can follow that allows them to learn from all the available resources (including what we are currently creating) that I can guide someone through? - I have also been asked to give feedback on projects before and I was wondering if there’s anyone more knowledgeable I could direct them to so they can gain more benefit? - while people are working through the library, is there any where they can get feedback on their projects in general? So a way for them to check if they have applied their learnings from the library and sessions ‘well’? Already seen people wanting feedback as I said above. - re planning and thoughts and wishes, I would love it if we had a doc specifically for recording thoughts even when not in a meeting that we can all refer to. For example, if I am not able to attend, I could have written my thoughts under the questions listed in agenda. Or maybe it can be in notion for specific topics? - for tasks that involve writing, should we agree on an outline then once that outline is formed, person doing the task can go off and write it and then bring back here for feedback? Should we add a section in each Notion task for people to sign up specifically just for giving feedback? Would be great first task for TEC newcomer too ️  (edited) <img src="https://twemoji.maxcdn.com/2/72x72/263a.png" width=20 height=20>
 
@@ -10616,9 +9994,7 @@ _07-Jan-22 12:26 PM_:
 
 Hey @nic I just saw the part about writing stuff. I thing giving feedback as a task is awesome idea. Especially for writing start here and how to contribute part we need feedback of newcomers. Also, I thing writing outlines before starting to write make sense ! We can collectively approve our outlines. So lets bring some outlines in chat ! Would you like to work together on start here part weekend and next week ?
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 Hey @nic I just saw the part about writing stuff. I thing giving feedback as a task is awesome idea. Especially for writing start here and how to contribute part we need feedback of newcomers. Also, I thing writing outlines before starting to write make sense ! We can collectively approve our outlines. So lets bring some outlines in chat ! Would you like to work together on start here part weekend and next week ?
 
@@ -10629,9 +10005,7 @@ Can we do next week towards the end of the week? I’m still feeling ill and hav
 
 which time zone are you in?
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Can we do next week towards the end of the week? I’m still feeling ill and have a lot of work to catch up on once I feel functional  which time zone are you in? <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
@@ -10641,9 +10015,7 @@ _07-Jan-22 12:29 PM_:
 
 sure ! I am in est. I am also pretty comfortable with working async as well. (I know you like async better :D) We can start working on notion
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 sure ! I am in est. I am also pretty comfortable with working async as well. (I know you like async better :D) We can start working on notion
 
@@ -10660,9 +10032,7 @@ _07-Jan-22 12:30 PM_:
 
 @durgadas heyy, durgadas your input also would be very valuable would you like to sync some time to see what role you wanted to take or any ideas you have that we can implement
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Beautiful. Thank you  that would be amazing! Thinking of starting by mapping out user journey then outlining the start here based on that? <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
@@ -10673,9 +10043,7 @@ _07-Jan-22 12:30 PM_:
 perfectly make sense
 
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 @durgadas heyy, durgadas your input also would be very valuable would you like to sync some time to see what role you wanted to take or any ideas you have that we can implement
 
@@ -10711,9 +10079,7 @@ with their devs
 I started on writing about Consilience
 
 
-![https://cdn.discordapp.com/avatars/814555684028940310/78dd7a47fc9e7ea64edb54408534703c.png](https://cdn.discordapp.com/avatars/814555684028940310/78dd7a47fc9e7ea64edb54408534703c.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/814555684028940310/78dd7a47fc9e7ea64edb54408534703c.png" width=25 height=25></h3>
 
 with their devs
 
@@ -10787,9 +10153,7 @@ _12-Jan-22 01:26 PM_:
 
 cooool !
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 @Mert Ozd Couldn't add to the moodboard so I'm just gonna post a couple gifs here. I like the idea of the use of lines to show connections and flow here, and the playfulness of the design. I think the neon green colour is overused now so this is more about the lines than the colours:
 
@@ -10872,9 +10236,7 @@ Purple box is what I will include in "start here" article
 
 1
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Along with "budget" allocation in tasks buckets for the deworg integration
 
@@ -10896,11 +10258,7 @@ Phase 1.2 5k core members (3.5k) and bounties (1.5k) ??
 
 And Phase 1.3 to be decided <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
-(edited)
-
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Purple box is what I will include in "start here" article
 
@@ -10911,9 +10269,7 @@ _12-Jan-22 03:27 PM_:
 Yes, agreed - I checked the "purple box" journey and it's a good "start here" pointer
 
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Yes, agreed - I checked the "purple box" journey and it's a good "start here" pointer
 
@@ -10930,9 +10286,7 @@ _12-Jan-22 03:30 PM_:
 well, I thought about it as a "high level" introduction for the curators we already have in mind and also a "we have this structure already in place come and start curating here" by tasks/roles
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 another one @Mert Ozd @stef (too big to post in miro  ) Again minimalist lines, (which aligns with original TEC icons design). Love their font choices too <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
@@ -10942,9 +10296,7 @@ _12-Jan-22 03:30 PM_:
 
 thanks, i think those examples are made in javascript, i'll try to make analog versions of minimal graphics for the images in notion, with the style of the tec website in mind.
 
-![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
-
-stef
+<h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
 thanks, i think those examples are made in javascript, i'll try to make analog versions of minimal graphics for the images in notion, with the style of the tec website in mind.
 
@@ -10960,15 +10312,11 @@ The world’s largest online platform for the world’s smallest animation forma
 
 ![https://static.lottiefiles.com/featured_image/oxrdoEtVEfPg40PmNBpBhSFmCye0x3i0uv8Dd6IY.png](https://static.lottiefiles.com/featured_image/oxrdoEtVEfPg40PmNBpBhSFmCye0x3i0uv8Dd6IY.png)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Mapping out the user journey (work in progress):
 
 [https://www.figma.com/file/p7FWAlRk7PhWRLqxbmlzqN/Library-User-Journey?node-id=0%3A1](https://www.figma.com/file/p7FWAlRk7PhWRLqxbmlzqN/Library-User-Journey?node-id=0%253A1)
-
-(edited)
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
@@ -10978,9 +10326,7 @@ this looks very good !
 
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 they can be made using Adobe After effects and then using the lottie plugin (
 
@@ -10994,9 +10340,7 @@ _12-Jan-22 03:33 PM_:
 
 thanks!
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Right - we'll need to do that with the 15k I talked about maybe having 3 spreads - 5k 5k 5k in Phase 1 So in Phase 1.1 splitting 5k only for core members
 
@@ -11032,9 +10376,7 @@ heyy, this is our migrated notion
 please start working on this
 
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 [https://www.notion.so/TE-Consilience-Library-0ad18a999ee44926adf2fcfcab6418b0](https://www.notion.so/TE-Consilience-Library-0ad18a999ee44926adf2fcfcab6418b0)
 
@@ -11086,9 +10428,7 @@ _12-Jan-22 03:55 PM_:
 
 btw for the user journey I am coordinating with LTF as well so Omega initiatives can be part of their bootcamp
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 maybe we can incorporate those two in a same article ?
 
@@ -11098,9 +10438,7 @@ _12-Jan-22 03:56 PM_:
 
 I think it would be best to keep it separate so as to not overwhelm with too much info. These learners may also be non technical people just wanting to be informed participants in their communities (edited)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 btw for the user journey I am coordinating with LTF as well so Omega initiatives can be part of their bootcamp
 
@@ -11111,9 +10449,7 @@ _12-Jan-22 03:57 PM_:
 perfect. I was planing to discuss this :"create a research series where we discuss the relationship between parameters and agencies moral acts" to be a maybe future initiative. We can incorporate something like this with LTF bootcamps
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 I think it would be best to keep it separate so as to not overwhelm with too much info. These learners may also be non technical people just wanting to be informed participants in their communities  (edited)
 
@@ -11139,9 +10475,7 @@ the library can evolve something that has its own community and turn into self s
 
 In our working group proposal for funding in the future we could point this out (edited)
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 the library can evolve something that has its own community and turn into self sustained product
 
@@ -11197,9 +10531,7 @@ _12-Jan-22 04:08 PM_:
 
 The Meta profile may be go hand in hand with the general TE dashboard @nic was talking about
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 The Meta profile may be go hand in hand with the general TE dashboard @nic was talking about
 
@@ -11218,9 +10550,7 @@ for examples, gravitons started to pursue a roadmap to be self sustainable
 
 maybe we can think on those as well
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 maybe we can think on those as well
 
@@ -11238,9 +10568,7 @@ perfect
 
 I was planing to have freemium type of thing with a twist. Since we are committed to open source learning we can provide scholarships to people who can not afford to pay. (it is like coursera course scholarships, they are almost giving scholarship to everyone who is applying) And maybe incorporating a tipping bot for community support (edited)
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 maybe we can think on those as well
 
@@ -11316,9 +10644,7 @@ this triggered another idea! I need to synch with Fabian, content lead of the ch
 
 (that's from the book A Hitchhiker's Guide to Token Engineering, it's still in the making - but Chapters will be minted independently, too)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 another one @Mert Ozd @stef (too big to post in miro  ) Again minimalist lines, (which aligns with original TEC icons design). Love their font choices too <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
@@ -11345,9 +10671,7 @@ I LOVE THEM
 
 
 
-![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
-
-stef
+<h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
 am doodling /scanning/distorting these, is this the style you're looking for?
 
@@ -11358,9 +10682,7 @@ _14-Jan-22 08:42 AM_:
 These are so cool!
 
 
-![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
-
-stef
+<h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
 am doodling /scanning/distorting these, is this the style you're looking for?
 
@@ -11399,9 +10721,7 @@ The same we 'hear' written words, we hear written motion.
 
 Twitter • 14-Jan-22 04:34 PM
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 More cool inspo:
 
@@ -11413,9 +10733,7 @@ _15-Jan-22 12:32 AM_:
 
 cool pp!!
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 cool pp!!
 
@@ -11586,9 +10904,7 @@ TE Ethics Participatory Research - 0mega Initiative
 
 [https://lh5.googleusercontent.com/k2M1vPHbZk0G5w7Wcquz3D33p4hBmufOgWfcD49ll3xEndZBP_I095t_neFoXOALeAI0VeZ7CrQmAA=w1200-h630-p](https://lh5.googleusercontent.com/k2M1vPHbZk0G5w7Wcquz3D33p4hBmufOgWfcD49ll3xEndZBP_I095t_neFoXOALeAI0VeZ7CrQmAA=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 @nic could you take a look when you can ? ---
 
@@ -11630,13 +10946,9 @@ You can also choose to add others' content For both a and b, we encourage that y
 
 Save your seed curation. You are one of the first! <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
-(edited)
-
 @Letty and maybe at the bottom, we can mention other ways of contributing (for those who are not TE OGs, but want to participate or benefit from this curation) (edited)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 @Letty and maybe at the bottom, we can mention other ways of contributing (for those who are not TE OGs, but want to participate or benefit from this curation)  (edited)
 
@@ -11646,9 +10958,7 @@ _19-Jan-22 02:48 PM_:
 
 Sharing discourse server plus what else? I think newcomers "need" the seed curations to know how to contribute after
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Sharing discourse server plus what else? I think newcomers "need" the seed curations to know how to contribute after
 
@@ -11658,9 +10968,7 @@ _19-Jan-22 02:49 PM_:
 
 maybe we can link to the **how to contribute** page in notion. Will try get it done today.
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Perhaps the steps can instead be: **1.** Decide where you would like to focus your curation on. **a.** You can choose which petal/area of the crypto-economic flower. <Insert crypto-economic flower> **b.**You can create an original curation focus, with an underlying principle or theory that links together several crypto-economic patterns or disciplines. **2.** Add resources directly related to the area you have chosen. These could be academic papers, blog posts, excerpts from books, videos etc. **a.** You can choose to add your own content **b.** You can also choose to add others' content For both a and b, we encourage that you include a curator's explanation on why you think those resources are important. Try to keep the number of your resources chosen between 5 and 10 (we know, it'll be hard  ) **3.** Save your seed curation. You are one of the first!   (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
@@ -11670,9 +10978,7 @@ _19-Jan-22 02:49 PM_:
 
 Yes, this is clearer but we lack the "original principles' curation" as the Consilience unifying principle by @durgadas
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Yes, this is clearer but we lack the "original principles' curation" as the Consilience unifying principle by @durgadas
 
@@ -11716,9 +11022,7 @@ _19-Jan-22 03:06 PM_:
 
 I've asked LTF if they'd be interested, saw they joined the call today.
 
-![https://cdn.discordapp.com/avatars/605130488448942094/c17df39f3670c6da76b53d18b2f1e8ca.png](https://cdn.discordapp.com/avatars/605130488448942094/c17df39f3670c6da76b53d18b2f1e8ca.png)
-
-Technoshaman
+<h3>Technoshaman <img src="https://cdn.discordapp.com/avatars/605130488448942094/c17df39f3670c6da76b53d18b2f1e8ca.png" width=25 height=25></h3>
 
 Sorry for asking a total noobie question, I'd like to find out whether there's already some action research process in place, by which the global repository of valuable multidisciplinary knowledge (structured by Omega's 8-petal "flower mandala") will be informed by the actual challenges in the cryptoeconomic systems, which token engineers and token users run into?  (edited)
 
@@ -11742,9 +11046,7 @@ _19-Jan-22 03:12 PM_:
 
 @Letty I want to contribute to the Philosophy, Law & Ethics pedal and I also have some resources for the Political Science and Governance one. Is there a specific workflow or process I have to follow at this point?
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
  - I wonder if we could get LTF to pay for advising TEs (providing support to learners), and in exchange we direct learners to their bootcamp, and increasing their TEs and therefore projects they can do - I also am wondering if TE Academy could also fund seed curator for directing learners to TE Academy after, increasing their learner nums (which makes them more reputable) - Then we can just focus on spending the funds on seed curators (to add to pay from TE Academy, making it more attractive), contributors, AND learners can earn money for learning  - Learners get feedback and support from peers + advising TEs I tried representing this in the 3rd diagram from the figma file I linked above, but not sure if I did it right  (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f4ad.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
@@ -11754,9 +11056,7 @@ _19-Jan-22 03:15 PM_:
 
 resonates a lot .. if I'm not mistaken TE Academy itself will be cofunded from TEC and other DAOs that it provides research programs for. So this would suggest the TEC Lib is a useful research in TE Commons, and specifically useful for people starting their learning journey in TE Academy --> instead of TEC pay TE A pay TEC Lib, I'd suggest to go the direct way TEC pay TEC Lib and TE A underscore its usefulness so the funds are secured... but sure, if TE A can support now already that would make a difference to TEC Lib --> @Mert Ozd @Letty wdyt?
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
  - I wonder if we could get LTF to pay for advising TEs (providing support to learners), and in exchange we direct learners to their bootcamp, and increasing their TEs and therefore projects they can do - I also am wondering if TE Academy could also fund seed curator for directing learners to TE Academy after, increasing their learner nums (which makes them more reputable) - Then we can just focus on spending the funds on seed curators (to add to pay from TE Academy, making it more attractive), contributors, AND learners can earn money for learning  - Learners get feedback and support from peers + advising TEs I tried representing this in the 3rd diagram from the figma file I linked above, but not sure if I did it right  (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f4ad.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
@@ -11768,9 +11068,7 @@ the peers support system through LTF would be wonderful! @ygg_anderson @Aidan �
 
 next week WG should be definitely TEC Lib again <-- can you shape the agenda with these points pls? I'll add it to the announcement.
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 [https://davidtitterington.medium.com/disguised-geometry-in-fra-angelicos-annunciation-975507bf3c37](https://davidtitterington.medium.com/disguised-geometry-in-fra-angelicos-annunciation-975507bf3c37)
 
@@ -11798,9 +11096,7 @@ Learning Calendar
 
 A new tool for teams & individuals that blends everyday work apps into one.
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 So this is where the "Cryptoeconomics Flower" comes from
 
@@ -11830,9 +11126,7 @@ A dispute over “web3” in the cryptocurrency industry was publicly exposed in
 
 ![https://static01.nyt.com/images/2022/01/18/business/18cryptofeudCombo/18cryptofeudCombo-facebookJumbo.jpg](https://static01.nyt.com/images/2022/01/18/business/18cryptofeudCombo/18cryptofeudCombo-facebookJumbo.jpg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 ok... I guess the "baseline" of WG 0mega is coming up with this action research process and living it... @Technoshaman pls share ideas/experiences you have
 
@@ -11844,9 +11138,7 @@ I guess the "baseline" of WG 0mega is coming up with this action research proces
 
 > Let's include that in our chat, when you'll have time for it.
 
-![https://cdn.discordapp.com/avatars/605130488448942094/c17df39f3670c6da76b53d18b2f1e8ca.png](https://cdn.discordapp.com/avatars/605130488448942094/c17df39f3670c6da76b53d18b2f1e8ca.png)
-
-Technoshaman
+<h3>Technoshaman <img src="https://cdn.discordapp.com/avatars/605130488448942094/c17df39f3670c6da76b53d18b2f1e8ca.png" width=25 height=25></h3>
 
 Thanks for sharing the source. Zargham is a student of the Austria (libertarian) school of "free market" economics of Friedrich Hayek. See
 
@@ -11863,9 +11155,7 @@ _19-Jan-22 03:47 PM_:
 
 @ALOYSIOUS can you share a few words about your work on "trauma informed communities", we didn't go there ... but somehow I believe it's at the core of transforming conflict, or even being able to not "fight or flight" respond or be in denial but make it into a creative process - I'm curious what resonates with @Technoshaman
 
-![https://cdn.discordapp.com/avatars/605130488448942094/c17df39f3670c6da76b53d18b2f1e8ca.png](https://cdn.discordapp.com/avatars/605130488448942094/c17df39f3670c6da76b53d18b2f1e8ca.png)
-
-Technoshaman
+<h3>Technoshaman <img src="https://cdn.discordapp.com/avatars/605130488448942094/c17df39f3670c6da76b53d18b2f1e8ca.png" width=25 height=25></h3>
 
 Thanks for sharing the source. Zargham is a student of the Austria (libertarian) school of "free market" economics of Friedrich Hayek. See
 
@@ -11901,9 +11191,7 @@ Find all relevant information for eip155:1:0xc0Da02939E1441F497fd74F78cE7Decb17B
 
 ![https://i.ibb.co/ckBn4P9/Link-preview.png](https://i.ibb.co/ckBn4P9/Link-preview.png)
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 This is a trend I & many others involved in different aspects of the VC industry have noticed happening. I was very keen to do research around this and provide a viable "alternative" some time ago - maybe this is an appropriate RESEARCH FOCUS GROUP to fork something practical?  (edited)
 
@@ -11914,9 +11202,7 @@ _19-Jan-22 03:58 PM_:
 niiiice @Letty "Who decides who decides" / "Power Dynamics" / "Same Game?" <-- definitely into topics ...
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @ALOYSIOUS can you share a few words about your work on "trauma informed communities", we didn't go there ... but somehow I believe it's at the core of transforming conflict, or even being able to not "fight or flight" respond or be in denial but make it into a creative process - I'm curious what resonates with @Technoshaman
 
@@ -11927,9 +11213,7 @@ _19-Jan-22 04:01 PM_:
 Apologies I had to leave. I would be happy to share next time and will have some thoughts pulled up to guide me. I want to write about behavioral modification to cite the dangers and overall non-consensuality of it all.
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 niiiice @Letty "Who decides who decides" / "Power Dynamics" / "Same Game?" <-- definitely into topics ...
 
@@ -11953,9 +11237,7 @@ Zero-sum thinking
 
 Zero-sum thinking perceives situations as zero-sum games, where one person's gain would be another's loss. The term is derived from game theory. However, unlike the game theory concept, zero-sum thinking refers to a psychological construct—a person's subjective interpretation of a situation. Zero-sum thinking is captured by the saying "your gain...
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 resonates a lot .. if I'm not mistaken TE Academy itself will be cofunded from TEC and other DAOs that it provides research programs for. So this would suggest the TEC Lib is a useful research in TE Commons, and specifically useful for people starting their learning journey in TE Academy --> instead of TEC pay TE A pay TEC Lib, I'd suggest to go the direct way TEC pay TEC Lib and TE A underscore its usefulness so the funds are secured... but sure, if TE A can support now already that would make a difference to TEC Lib --> @Mert Ozd @Letty wdyt?
 
@@ -11978,9 +11260,7 @@ In 2007, Mark Hoofnagle suggested on his Science Blog Denialism that denialis
 
 ![http://www.skepticalscience.com/public/assets/images/og/button_sks_200.jpg](http://www.skepticalscience.com/public/assets/images/og/button_sks_200.jpg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 next week WG should be definitely TEC Lib again <-- can you shape the agenda with these points pls? I'll add it to the announcement.
 
@@ -12005,9 +11285,7 @@ _19-Jan-22 06:08 PM_:
 
 in the future it can be an app inside the tecommons website, or if someone else builds the dashboard
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 in the future it can be an app inside the tecommons website, or if someone else builds the dashboard
 
@@ -12039,9 +11317,7 @@ _19-Jan-22 09:19 PM_:
 
 Learning Groups page feedback
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 @nic could you take a look when you can ? ---
 
@@ -12054,9 +11330,7 @@ To make sure it makes sense with the whole user journey and we're not missing an
 _19-Jan-22 09:23 PM_:
 Heyy this looks very good ! <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 resonates a lot .. if I'm not mistaken TE Academy itself will be cofunded from TEC and other DAOs that it provides research programs for. So this would suggest the TEC Lib is a useful research in TE Commons, and specifically useful for people starting their learning journey in TE Academy --> instead of TEC pay TE A pay TEC Lib, I'd suggest to go the direct way TEC pay TEC Lib and TE A underscore its usefulness so the funds are secured... but sure, if TE A can support now already that would make a difference to TEC Lib --> @Mert Ozd @Letty wdyt?
 
@@ -12066,9 +11340,7 @@ _19-Jan-22 09:33 PM_:
 
 I think this sounds very nice
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Time for using up an "Inverter proposal"? @Mert Ozd ?
 
@@ -12094,9 +11366,7 @@ _19-Jan-22 09:58 PM_:
 
 Futher Learning article feedback
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Here is a brief doc fleshing out a "research thesis" which could be developed further:  (edited)
 
@@ -12107,9 +11377,7 @@ hi @Letty , I appreciate the spirit of your research thesis addressing RxC. If I
 
 Does TEC have any other relationship with RxC, besides you? I'm conversations with RxC President, Matt Prewitt, and knowing about, I could support it or, at least, take it into account as my relationship with them unfolds.
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 It seems to me that we need specific, concrete and actionable strategies to counteract these things:
 
@@ -12121,9 +11389,7 @@ _20-Jan-22 02:10 AM_:
 
 Can't scientists be human and have a different opinions as they learn new thing$? The tobacco-industry had scientists. Hiroshima was related to scientists. Fukushima and Chernobyl were not possible without science. A technology like batteries are science but therefore you don't swallow it. I am right because I believe in science? Science ain't a believe. It's a scientific method. And what do I see? Money, power and we'll hire and fund the ones with ideology of the day.
 
-![https://cdn.discordapp.com/avatars/834548116514013206/a0bff6c95bfc23e093941416f9510639.png](https://cdn.discordapp.com/avatars/834548116514013206/a0bff6c95bfc23e093941416f9510639.png)
-
-Atotsm
+<h3>Atotsm <img src="https://cdn.discordapp.com/avatars/834548116514013206/a0bff6c95bfc23e093941416f9510639.png" width=25 height=25></h3>
 
 Can't scientists be human and have a different opinions as they learn new thing$? The tobacco-industry had scientists. Hiroshima was related to scientists. Fukushima and Chernobyl were not possible without science. A technology like batteries are science but therefore you don't swallow it. I am right because I believe in science? Science ain't a believe. It's a scientific method. And what do I see? Money, power and we'll hire and fund the ones with ideology of the day.
 
@@ -12133,9 +11399,7 @@ _20-Jan-22 11:41 AM_:
 
 And yet, people ALWAYS consider them as beliefs. Denial of methods of inquiry means the same thing as scientism.
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 And yet, people ALWAYS consider them as beliefs. Denial of methods of inquiry means the same thing as scientism.
 
@@ -12151,9 +11415,7 @@ _20-Jan-22 12:09 PM_:
 
 Funding is an issue, and often a cause of an issue. The reproducibility crisis is one symptom of what you are talking about. There are a lot of problems with funding models, since that basically creates the problems you initially mentioned
 
-![https://cdn.discordapp.com/avatars/605130488448942094/c17df39f3670c6da76b53d18b2f1e8ca.png](https://cdn.discordapp.com/avatars/605130488448942094/c17df39f3670c6da76b53d18b2f1e8ca.png)
-
-Technoshaman
+<h3>Technoshaman <img src="https://cdn.discordapp.com/avatars/605130488448942094/c17df39f3670c6da76b53d18b2f1e8ca.png" width=25 height=25></h3>
 
 hi @Letty , I appreciate the spirit of your research thesis addressing RxC. If I had praising power, I'd use it.  Does TEC have any other relationship with RxC, besides you? I'm conversations with RxC President, Matt Prewitt, and knowing about, I could support it or, at least, take it into account as my relationship with them unfolds. <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
@@ -12194,9 +11456,7 @@ Evaluation vs. screening. Governing constraints vs. enabling constraints.
 
 We MUST educate people in how to contextualize and see the difference between these two things
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 Rober is the founder and the top 4 above him are the investors in his company - before "exit to community" - so yes, it Silicon Valley on Blokchain
 
@@ -12208,9 +11468,7 @@ _20-Jan-22 04:07 PM_:
 
 Hey @solsista - thanks for sharing that link to Tally. I was not even aware of them before. I've been wondering whether there are good tools to track VC influence in Web3. How useful do you see them for this?
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 btw I'm going to try finish all my tasks this week cause next week onwards, need to focus on my project (and some time for feb sesh of value flows course). Will still attend the call to go over those points as a sort of offboarding? so someone else can carry on if things need changing  (edited)
 
@@ -12269,9 +11527,7 @@ added backgrounds, will add blob icons that fit with these (edited)
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/934547359138983947/lns001d.png](https://cdn.discordapp.com/attachments/810180622634844202/934547359138983947/lns001d.png)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 btw I'm going to try finish all my tasks this week cause next week onwards, need to focus on my project (and some time for feb sesh of value flows course). Will still attend the call to go over those points as a sort of offboarding? so someone else can carry on if things need changing  (edited)
 
@@ -12281,9 +11537,7 @@ _23-Jan-22 10:17 PM_:
 
 ok, so this Wednesday is all about TE C' Lib, let's make most of @nic's contributions and also what she had in mind people! would be great if we all can find ways to help her work continue even during a little sabbatical. Also curious about the experience, how we're handling hand-overs, coming in and out of participants during heavy work load periods etc... would be great if we'd found fluid ways
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 Hey @solsista - thanks for sharing that link to Tally. I was not even aware of them before. I've been wondering whether there are good tools to track VC influence in Web3. How useful do you see them for this?
 
@@ -12327,9 +11581,7 @@ WG 0mega - Agenda (Weekly Wed. 8PM CET)
 
 @Letty do you need anything for the medium article?
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @Letty do you need anything for the medium article?
 
@@ -12340,9 +11592,7 @@ _24-Jan-22 07:26 AM_:
 Nope, I guess TEAM #📡｜comms will hit publish button shortly (edited)
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 you mean Tally? I thought it was useful for having an overview but didn't go deeper - hey @James - Aptos Labs maybe this one's for you? is this an issue in D2D research. @Gideonro I'd definitely also engage the governaouts research program at TEA - let me know if you need links
 
@@ -12392,9 +11642,7 @@ TEC Branding assets. Logo, Mockups, Avatars, Banners, Graphics and other. - GitH
 
 [https://repository-images.githubusercontent.com/305978323/c7b48800-204d-11eb-83eb-a0499822faad](https://repository-images.githubusercontent.com/305978323/c7b48800-204d-11eb-83eb-a0499822faad)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Agenda for today's call:
 
@@ -12406,9 +11654,7 @@ _26-Jan-22 02:38 PM_:
 
 Hi @nic , there is this amazing pic in the document "Unity in Diversity". I would like to use it on Twitter. How should I cite it?
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 [https://github.com/CommonsBuild/tec-branding-assets](https://github.com/CommonsBuild/tec-branding-assets)
 
@@ -12434,9 +11680,7 @@ _26-Jan-22 03:00 PM_:
 
 @solsista @ygg_anderson maybe the session can be on how the library can be curated?
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 @solsista @ygg_anderson maybe the session can be on how the library can be curated?
 
@@ -12447,9 +11691,7 @@ gotcha! yes, let's share on "what's on the curriculum of "bootcamp" " and there 
 
 ) (edited)
 
-![https://cdn.discordapp.com/avatars/928414362417389608/81dec51ddcfcb548358b4fc108da5e99.png](https://cdn.discordapp.com/avatars/928414362417389608/81dec51ddcfcb548358b4fc108da5e99.png)
-
-gerlindgrosse
+<h3>gerlindgrosse <img src="https://cdn.discordapp.com/avatars/928414362417389608/81dec51ddcfcb548358b4fc108da5e99.png" width=25 height=25></h3>
 
 Hi @nic , there is this amazing pic in the document "Unity in Diversity". I would like to use it on Twitter. How should I cite it?
 
@@ -12471,9 +11713,7 @@ I've added the tasks we talked about in today's session in the Notion tasks page
 _26-Jan-22 03:07 PM_:
 the quote is from @durgadas the flower in colors is from @JeffEmmett and I made the "jumping together" with the "clusters of in-kind knowledge" and how we want to cross those by re-sensing "who is a token engineer", finding self in self-agency, self-knowledge, -trust, ....and many more unknowns that 0mega is well prepped to take on <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 the quote is from @durgadas the flower in colors is from @JeffEmmett and I made the "jumping together" with the "clusters of in-kind knowledge" and how we want to cross those by re-sensing "who is a token engineer", finding self in self-agency, self-knowledge, -trust, ....and many more unknowns that 0mega is well prepped to take on  <img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=20 height=20>
 
@@ -12499,9 +11739,7 @@ these "first principles" for understanding how to apply tools in context, what t
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/935990051307913236/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/935990051307913236/unknown.png)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 I've added the tasks we talked about in today's session in the Notion tasks page  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
@@ -12537,9 +11775,7 @@ _26-Jan-22 03:16 PM_:
 !praise @Letty for giving helpful feedback for the articles I wrote
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @stef have a look if you can link to mintbase/aarweave, and/or in Notion so we have contributions for later acknowledgements
 
@@ -12554,9 +11790,7 @@ mintbase/arweave inventory
 Icons nft’s gallery: [https://www.mintbase.io/store/rezgauche.mintbase1.near](https://www.mintbase.io/store/rezgauche.mintbase1.near)
 
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Once again, TEC is part of the solution
 
@@ -12566,9 +11800,7 @@ _26-Jan-22 03:24 PM_:
 
 yes, to this "global coordination" --> so one common denominator why those disciplines were identified as contributing to cryptoeconomics/token engineering is that all have a view on "coordination" and "resource allocation"
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 [https://www.notion.so/primedao/Timeline-of-Proposal-Inverter-cf5ec7591de24e9fa6fff82f446c5a96](https://www.notion.so/Timeline-of-Proposal-Inverter-cf5ec7591de24e9fa6fff82f446c5a96)
 
@@ -12599,11 +11831,8 @@ cool
 I'd love that
 
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
-durgadas
-
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -12631,9 +11860,7 @@ This book was recommended to me by @ALOYSIOUS
 
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 oh yes "powerful analysis of the psychological dynamics of oppression and privilege" definitely will dig into thanks for sharing!
 
@@ -12708,9 +11935,7 @@ _26-Jan-22 04:05 PM_:
 
 "the culture" or culture in general? if "the culture", which?
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 next week's agenda: WG 0mega ground work, nurturing the initiatives the two now and the soil that can bring forth new initiatives (hmmm I like this gardening, permaculture image that came ot mind now; especially wrt "diversity"; but also "harvesting" cycles, e.g. not overproducing)
 
@@ -12736,9 +11961,7 @@ _26-Jan-22 04:48 PM_:
 !praise @durgadas @chuygarcia.eth for 4 hours of painstaking work on Hubspot
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 "the culture" or culture in general? if "the culture", which?
 
@@ -12748,9 +11971,7 @@ _26-Jan-22 05:01 PM_:
 
 The existing dominant colonizer culture
 
-![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
-
-stef
+<h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
 one of Hegel's tangents on diversity (reading him like a non-dualist thinker trying to contemplate what god was thinking before making the universe, somewhat in the style of the whale/petunia scene from the hitchhikers guide) The Science of Logic "Remark 3 Now if the first determinations of reflection, identity, diversity, and opposition, have been formulated each as a principle, all the more should the one determination into which they pass over as in their truth, namely contradiction, be grasped and enunciated as a principle: “All things are in themselves contradictory,” in the sense, moreover, that as contrasted with the other this proposition expresses rather the truth and the essence of things. – The contradiction that emerges in opposition is only the developed nothing which is contained in identity and came to the fore in the claim that the principle of identity says nothing. This negation further determines itself into difference and into opposition, which is now the posited contradiction. It is, however, one of the basic prejudices of previous logic and of ordinary thought that contradiction is not as essential and immanent a determination as identity. But in fact, if order of precedence were an issue, and the two determinations were to be held separate, it would be the principle of contradiction that should be taken as the more profound and the more essential. For in contrast to it, identity is only the determination of simple immediacy, of inert being, whereas contradiction is the root of all movement and life; it is only in so far as something has a contradiction within it that it moves, is possessed of instinct and activity. (pg381-382)
 
@@ -12801,9 +12022,7 @@ And Sally's big bang >>
 
 This is gold(ilocks)!
 
-![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
-
-stef
+<h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
 yes, Hegel was rather critical on Indian philosophy, very nice to read a reaction to his philosophy. On a side note, I had to laugh a lot with the idea of 'Omegatrons', sounds like futurama, it made me think of this drawing in Jill Purce's the mystic spiral
 
@@ -12813,11 +12032,8 @@ _27-Jan-22 10:42 AM_:
 oh the page number
 
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
-Letty
-
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -12857,9 +12073,7 @@ A core Yearn contributor gives the behind-the-scenes account of what may be the 
 
 ![https://cointelegraph.com/magazine/wp-content/uploads/2021/02/magazine_Tracheopteryx_on_Yearn_Mint-scaled.jpg](https://cointelegraph.com/magazine/wp-content/uploads/2021/02/magazine_Tracheopteryx_on_Yearn_Mint-scaled.jpg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @Mert Ozd here is a "based on a real story" that captures your questioning around how memes/incentives/rules make us behave... and how community collectively change that behavior
 
@@ -12918,9 +12132,7 @@ I'm interested in any feedback you have on this
 
 Even our technical efforts fall prey to many of these same structural assumptions, piggybacking off of the governance and voting and so on.
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I just realized in a talk about "gardens" with Chuy that I'm having real difficulty with the idea of "voting". Voting always seems to take place in some Omnibus fashion. For example, in the recent Commons Upgrade, we talked a LOT about the parameters, and I wish now that I'd been able to "vote" upon each aspect of those across the top 1,2,3,4,5 as separate items, since they determine VERY different things. Similarly, there was a near-universal bias in 90% of the params calls about The Money parts and very little about how to manage the changes. This only changed in the final few days when I brought this up in all the meetings I was in. So, I'm becoming increasingly skeptical of the proliferation of voting platforms and feel like we should focus on Needs- Met or Not Met and trying to optimize our DAO, rewards systems and so on to meet the needs of the people participating. I don't think we 1) Survey our user base 2) Identify their needs 3) Respond to those needs very effectively, since the ways we are setting up our governance structures are quite similar other other "representative" systems that exist in the legacy cultural codebase. Instead, I feel we should focus on optimizing for HUMAN NEEDS in as detailed a way as we can manage to work out, and create systems based on "representing" THOSE NEEDS across the board, rather than assuming some human being can adequately do so. By focusing on "stewards" as representatives, we fall prey to their specific strengths and blind spots, rather than focusing on reducing blind spots and augmenting strengths OF EVERYONE because we're all human beings. If we have similar structures to those abusive setups, what actual shifts can be made in the way we do things? The problems we've had ARE VERY STRUCTURAL in nature, so what good does it do to produce "nice" people without structural changes with differing fundamentals? We seem to change the fundamentals ABOUT THE MONEY but seem reluctant to do so within our own organizations
 
@@ -12936,9 +12148,7 @@ _31-Jan-22 04:30 PM_:
 
 I think I missed it
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I think I missed it
 
@@ -12949,8 +12159,6 @@ the whole idea of incentivising user feedback via token/rep points rewards can b
  <img src="https://twemoji.maxcdn.com/2/72x72/1f4ab.png" width=20 height=20>
 
 [https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/958](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/958)
-
-(edited)
 
 ZenHub
 
@@ -12982,9 +12190,7 @@ _31-Jan-22 05:45 PM_:
 
 That last one is like a nested polarity map
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 That last one is like a nested polarity map
 
@@ -12994,15 +12200,11 @@ _31-Jan-22 05:45 PM_:
 
 yes!
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 the whole idea of incentivising user feedback via token/rep points rewards can be done w/o dashboard since dework exists now. have you considered bringing your opinions up in soft-gov? I wrote the high level ideas for dashboard here a while back but its quite long and old now ‍ <img src="https://twemoji.maxcdn.com/2/72x72/1f635.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4ab.png" width=20 height=20>
 
 [https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/958](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/958)
-
-(edited)
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -13010,9 +12212,7 @@ _31-Jan-22 05:54 PM_:
 
 Sorry, I'm never ever in ZenHub
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Sorry, I'm never ever in ZenHub
 
@@ -13046,9 +12246,7 @@ I caught Ice Poseidon taking over $500,000 from the crypto project CXCOIN... so 
 
 ![https://i.ytimg.com/vi/A7MaoD4tJuc/maxresdefault.jpg](https://i.ytimg.com/vi/A7MaoD4tJuc/maxresdefault.jpg)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I looked over your stuff and it's closer than what we have now, but I think it's equally important to identify WHY we're choosing THAT or THIS in terms of where our top-level concerns are. What I see is that it's Social Vernacular to take a Stewards-First approach, then Needs/Feelings second.
 
@@ -13058,9 +12256,7 @@ _31-Jan-22 07:45 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" wi
 
 yeah I didn’t include much of the whys on that post cause I wanted to focus on the features. But my desire behind the idea is that everyone can do what feels right to them since they’re interfacing directly with the dashboard which is the limbs of the dao and stewards can still be there for support but the focus is on making it customisable to the users cognitive abilities/limits, and peer support via social groups (external to working groups) or via advice from everyone rather than just the stewards, and removing bottlenecks for info. Because it’s easier to work with the dashboard (hopefully decreasing cognitive cost of participating to the user), people can be more involved and customise their experience based on their style of interfacing with DAOs. For example for me I prefer to not do meetings, and I like doing many many small quick tasks (like answering peoples questions). I like talking occasionally but only in certain environments, like omega which feels good and is more my style. So basically focusing on easing some of the pains first, so they can start to feel who they are. Then we maintain a constant conversation on how the users feel, as well as having our peers (friend groups within dao) there to support our journey, instead of waiting until the pain reaches the tipping point and the conversation has to happen on why we should change something. But anyways that was my thinking from back then and I’ve changed now. I’m glad you’re bringing up how you feel. Like you’re the nerves of this body that is TEC. (edited)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 there's this paper linked
 
@@ -13074,9 +12270,7 @@ _31-Jan-22 11:05 PM_:
 
 the status thing is super duper important on account of social survival, this is a thing all living organisms dabble in. [I have learned the root of our social troubles is in large part due to phycological warfare : English is sneakier than people realize.>> >> social design of the nuclear family. This created a lot of "isms" and othering that are HUGE social activations / points of conflict. Pair this with the social tool we have all been formally trained to abuse {English} creating tiny wars in our minds that manifest in verbal wars in real life. I haven't been around because I have been spending time listening to the teachings of the Two Row Wampum out of Longhouse learning to carry / speak the great law of peace. I popped in to let people know that Tyson Yunkaporta will be hanging with the SourceCred crew this Thursday evening...[430pm pst = Zoom] [https://discord.gg/PxdhwEFD?event=937291668519006228](https://discord.gg/PxdhwEFD?event=937291668519006228) (edited)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I looked over your stuff and it's closer than what we have now, but I think it's equally important to identify WHY we're choosing THAT or THIS in terms of where our top-level concerns are. What I see is that it's Social Vernacular to take a Stewards-First approach, then Needs/Feelings second.
 
@@ -13112,9 +12306,7 @@ We help individuals with intellectual, developmental and physical disabilities l
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/938062126822588506/Screenshot_2022-02-01_at_14.23.37.png](https://cdn.discordapp.com/attachments/810180622634844202/938062126822588506/Screenshot_2022-02-01_at_14.23.37.png)
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 “When you take an energy-flow perspective, you see how the human and technical connect naturally” Sally J. Goerner
 
@@ -13140,9 +12332,7 @@ _01-Feb-22 04:17 PM_:
 
 Ahaha love that
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Consilience Library
 
@@ -13229,9 +12419,7 @@ with respect to an individual like @durgadas a broader subject matter expert rol
 
 and i don't like the "jack of all trades, master of none" saying when the reality is closer to mastering all simultaneously.. a group of somebodies are really needed to understand the big picture, and all the pieces that compose it..
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 I'm updating the proposal to be posted for conviction voting with these roles that I see fit
 
@@ -13247,9 +12435,7 @@ _02-Feb-22 02:47 PM_:
 
 Conviction voting goes in 1Hive gardens
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 hey letty where is that document  (edited)
 
@@ -13295,9 +12481,7 @@ I updated the original proposal with the roles in the Forum (discourse)
 
 Not yet the "Consilience Keeper(s)" role for weaving the library or knowledge
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 wg proposal
 
@@ -13314,9 +12498,7 @@ WORKING COPY ;) of Working Group Manifesto Template Working Group Lead: Stressfu
 [https://lh4.googleusercontent.com/sUZjbRvOAJWkrmxfB4Qua73Hi_JYbSsuV0uoVUSQpgrEbz2_FBVAtp3M1v_r7eyd_acXNzQjqIqblA=w1200-h630-p](https://lh4.googleusercontent.com/sUZjbRvOAJWkrmxfB4Qua73Hi_JYbSsuV0uoVUSQpgrEbz2_FBVAtp3M1v_r7eyd_acXNzQjqIqblA=w1200-h630-p)
 
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 So, I signed the 1st tx to add 200TEC to post the proposal but it seems that I don't have enough wXDAI in my Trusted Seed wallet to add that to the fund manager  <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
@@ -13326,9 +12508,7 @@ _02-Feb-22 03:59 PM_:
 
 oh no - I won't be able to help with any of that :/ + will have the same problems --> can anyone else support? I only have CSTK; else pls ping me to ping
 
-![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
-
-gene
+<h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 with respect to an individual like @durgadas a broader subject matter expert role, like "expert generalist" or something like that could better account for the necessity for people who are essentially jacks-of-all-trades   <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f607.png" width=20 height=20>
 
@@ -13376,9 +12556,7 @@ Visit rezgauche on 3XR
 
 [https://arweave.net/p7kHwLOjYg6-MXSlzYvdSFPQGFikVYe5ZByetHsmfj8](https://arweave.net/p7kHwLOjYg6-MXSlzYvdSFPQGFikVYe5ZByetHsmfj8)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Even though I can't join meetings as much, I still learn so much from just what you all post on here.   ✨ <img src="https://twemoji.maxcdn.com/2/72x72/1f497.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
@@ -13449,9 +12627,7 @@ _03-Feb-22 10:13 AM_:
 
 "So, where does organization come from? In 1977, Belgian physical chemist Ilya Prigogine won a Nobel Prize for showing how an energy process called self-organization drives the emergence of new patterns of organization, and the ongoing, cyclical development of existing ones ..."
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 Sally is  <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=20 height=20>
 
@@ -13481,9 +12657,7 @@ About the "roles" for regulars - I think the addition of researchers/facilitator
 
 reminder: this is "only" the groundwork of WG 0mega, your acknowledgement if you're also active in one of the two initiatives TE C'library and TE Ethics Practice sessions is already accounded in the respective initiative proposals.
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 About the "roles" for regulars - I think the addition of researchers/facilitators instead of subject matter experts covers us well, please check again if that is appropriate and leave a comment what can be improved @Letty, @nic , @durgadas @Mount Manu @Mert Ozd
 
@@ -13493,9 +12667,7 @@ _03-Feb-22 12:31 PM_:
 
 Are you asking us to add ourselves under the roles? I'm not entirely sure where I fit in, to be honest haha Sometimes I fit in contributor, sometimes I coordinate, I don't really bring research in, just thoughts and learnings from sensemaking on my own.
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Are you asking us to add ourselves under the roles? I'm not entirely sure where I fit in, to be honest haha Sometimes I fit in contributor, sometimes I coordinate, I don't really bring research in, just thoughts and learnings from sensemaking on my own.
 
@@ -13505,9 +12677,7 @@ _03-Feb-22 12:35 PM_:
 
 Design curator + facilitator
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Design curator + facilitator
 
@@ -13515,8 +12685,6 @@ Design curator + facilitator
 
 _03-Feb-22 12:37 PM_:
 I was thinking maybe its better omega labels me based on its perception of what I do/what is useful, so thank you for that <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
-
-(edited)
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -13550,9 +12718,7 @@ _03-Feb-22 01:20 PM_:
 
 yeah
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Yeah, I never know where I fit in
 
@@ -13566,9 +12732,7 @@ _03-Feb-22 01:20 PM_:
 
 I can't wait for that part
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I can't wait for that part
 
@@ -13615,9 +12779,7 @@ _03-Feb-22 01:27 PM_:
 
 yes, it rather seems so
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 you could do the same, just pick a time that works for you, If I could I make it - and others too; but if not you could record a "this is the gist" ... these could be nice short tidbits of the process
 
@@ -13626,9 +12788,7 @@ you could do the same, just pick a time that works for you, If I could I make it
 _03-Feb-22 01:27 PM_:
 I would like to but today I have a conference to attend <img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 updated the Manifesto! it shall make the groundwork clear and members / roles needed and who fills them in:
 
@@ -13644,9 +12804,7 @@ I did a deep reading and my impression is that, although we still need 'to frame
 
 By 'still need' I meant we are somehow also constrained by our own frameworks but doing well imho.
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @Mount Manu isn't around today it seems? - if anyone of you can make the Community Update call, this is the summary of yesterday
 
@@ -13657,9 +12815,7 @@ _03-Feb-22 01:36 PM_:
 Also energy depleted and can't face agent Smith later but Trinity will take care of it...
 
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 My role can be "Unsolicited Advice"
 
@@ -13667,8 +12823,6 @@ My role can be "Unsolicited Advice"
 
 _03-Feb-22 01:47 PM_:
 Hahaha it often feels like I do that. Asking self am I self righteous <img src="https://twemoji.maxcdn.com/2/72x72/1f630.png" width=20 height=20>
-
-(edited)
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -13770,9 +12924,7 @@ Some forget this and now think the future for technology is inevitably in automa
 
 For our digital systems to succeed, they must work for people. The focus needs to be on the human experience.
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I just realized in a talk about "gardens" with Chuy that I'm having real difficulty with the idea of "voting". Voting always seems to take place in some Omnibus fashion. For example, in the recent Commons Upgrade, we talked a LOT about the parameters, and I wish now that I'd been able to "vote" upon each aspect of those across the top 1,2,3,4,5 as separate items, since they determine VERY different things. Similarly, there was a near-universal bias in 90% of the params calls about The Money parts and very little about how to manage the changes. This only changed in the final few days when I brought this up in all the meetings I was in. So, I'm becoming increasingly skeptical of the proliferation of voting platforms and feel like we should focus on Needs- Met or Not Met and trying to optimize our DAO, rewards systems and so on to meet the needs of the people participating. I don't think we 1) Survey our user base 2) Identify their needs 3) Respond to those needs very effectively, since the ways we are setting up our governance structures are quite similar other other "representative" systems that exist in the legacy cultural codebase. Instead, I feel we should focus on optimizing for HUMAN NEEDS in as detailed a way as we can manage to work out, and create systems based on "representing" THOSE NEEDS across the board, rather than assuming some human being can adequately do so. By focusing on "stewards" as representatives, we fall prey to their specific strengths and blind spots, rather than focusing on reducing blind spots and augmenting strengths OF EVERYONE because we're all human beings. If we have similar structures to those abusive setups, what actual shifts can be made in the way we do things? The problems we've had ARE VERY STRUCTURAL in nature, so what good does it do to produce "nice" people without structural changes with differing fundamentals? We seem to change the fundamentals ABOUT THE MONEY but seem reluctant to do so within our own organizations
 
@@ -13804,9 +12956,7 @@ _09-Feb-22 08:25 AM_:
 @durgadas I am grateful for your expression in SoftGov yesterday. I appreciate very much your being vocal on your experience and on generalizing it, as it is very important and relevant. I think everyone is listening and hearing you, even if first reactions don’t appear as that and/or even if we all have so much to learn through this kind of valuable discomfort and open expression of something so significant for the future of the TEC and any DAO and any form of positive development of interactive human structuring.
 
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Well, I kinda rage quit today as I brought some of this up in the Soft Gov call and didn't really hear anything that welcoming. I'd decided I would share what I have been experiencing lately and the feedback I got during that was really triggering for me, so I guess I didn't get to explain everything I wanted in any clear way. I'm trying to generalize a personal experience and show evidence for why I think we have some structural issues, but I can see that people's attachment to existing social structures is impeding them hearing the message fully. I won't stop trying to speak truth here, but I didn't expect things to show up like they did, as what I had been saying about this up until then had been well-received.
 
@@ -13849,9 +12999,7 @@ Agent Based Modelling: Proposal Inverter A tool made by DAOs for DAOs Meeting Up
 
 
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 This is a kind of mapping/library under Omega's Integral Radical Agile concepts that I'd like to see collab or focus groups with:
 
@@ -13885,9 +13033,7 @@ VitaDAO is the world’s first decentralised intellectual property collective. I
 
 ![https://uploads-ssl.webflow.com/600ff0f8154936050d98ec01/619bc3bb34b8283adc921e02_VitaDAO%20Opengraph%20Image.jpg](https://uploads-ssl.webflow.com/600ff0f8154936050d98ec01/619bc3bb34b8283adc921e02_VitaDAO%20Opengraph%20Image.jpg)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I just realized in a talk about "gardens" with Chuy that I'm having real difficulty with the idea of "voting". Voting always seems to take place in some Omnibus fashion. For example, in the recent Commons Upgrade, we talked a LOT about the parameters, and I wish now that I'd been able to "vote" upon each aspect of those across the top 1,2,3,4,5 as separate items, since they determine VERY different things. Similarly, there was a near-universal bias in 90% of the params calls about The Money parts and very little about how to manage the changes. This only changed in the final few days when I brought this up in all the meetings I was in. So, I'm becoming increasingly skeptical of the proliferation of voting platforms and feel like we should focus on Needs- Met or Not Met and trying to optimize our DAO, rewards systems and so on to meet the needs of the people participating. I don't think we 1) Survey our user base 2) Identify their needs 3) Respond to those needs very effectively, since the ways we are setting up our governance structures are quite similar other other "representative" systems that exist in the legacy cultural codebase. Instead, I feel we should focus on optimizing for HUMAN NEEDS in as detailed a way as we can manage to work out, and create systems based on "representing" THOSE NEEDS across the board, rather than assuming some human being can adequately do so. By focusing on "stewards" as representatives, we fall prey to their specific strengths and blind spots, rather than focusing on reducing blind spots and augmenting strengths OF EVERYONE because we're all human beings. If we have similar structures to those abusive setups, what actual shifts can be made in the way we do things? The problems we've had ARE VERY STRUCTURAL in nature, so what good does it do to produce "nice" people without structural changes with differing fundamentals? We seem to change the fundamentals ABOUT THE MONEY but seem reluctant to do so within our own organizations
 
@@ -13905,9 +13051,7 @@ e are living on the knife’s edge of one of those rare and momentous turning po
 
 ![https://thesystemsthinker.com/wp-content/uploads/images/volume-11/that-most-groups-more-fully-realize.jpg](https://thesystemsthinker.com/wp-content/uploads/images/volume-11/that-most-groups-more-fully-realize.jpg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 I had missed this ... thank you @nic for not letting it slip... this reminds me of an excerpt from Chaordic Organizations: "*Awareness arises in all members of the working group that they cannot represent only their own views and beliefs, for a good many members of the community they hope to form are not at the table. They must, to the best of their ability, act on behalf of the larger potential community and not bind its hands by trying to perfect the work they have begun. They are really trustees attempting to bring into being a chaordic organization capable of attracting a diversity of others and enabling them to continue its evolution. It is at this point that most groups more fully realize the magnitude of the task in which they are engaged. It is well that they do, for the point of frequent failure lies just ahead.*"
 
@@ -13925,13 +13069,9 @@ I think this speaks to what Sally was talking about in oligarchic dysfunction, a
 
 by allowing for diversity of thought, even if it does not necessarily align with the narrative presented to the public of the organisation, or even if it does not align with the stewards' opinions. Otherwise, is it really a servant leadership? Is it really decentralised? Also allowing for play and experimentation which I distinctly remember is brought up often here at Omega <img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=20 height=20>
 
-(edited)
-
 Also I love that it was mentioned in the call today that sometimes what is happening in the space is similar to what's happened/ way things have been done before, except with extra resources wasted. How can we reflect on that as an org? (edited)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Also I wonder if there's a better way of keeping newcomers to Omega up to date and open up the space for them to contribute and be part of the omega family than just linking the proposals. And if newcomers join an omega meeting, how to make them feel welcome and gain context.  <img src="https://twemoji.maxcdn.com/2/72x72/1f4ad.png" width=20 height=20>
 
@@ -13944,9 +13084,7 @@ But I feel the user journey you started would lead them to the Library, and from
 
 - they know who are the people interested in same utterly different topics etc - BUT, as we've seen today, we need to have time to do alll these works + apply for funds, which get stuck because no funds etc. We need to work through these: #0 get the proposals funded, have poeple actually able to take time to work on them (not only during night shifts and in between their day job... for many of us the funding won't change the situation) -and also it seems to be related to the "vote vote vote" issue that @durgadas brings up, the inverter proposal issue, i.e. people knowing they could work for 6 months or longer on a topic that will help TEs etc... so topic bucket work style? and schedule asap? putting on agenda for next week, at least to have an overview what can be done wrt how we operate, and then what is the improvement "proposal"... maybe that too is an issue (not maybe very very likely, as all DAOs just vote vote vote and fatigue...) for Inverter Proposal...
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 #1 these meetings would need to be longer  But I feel the user journey you started would lead them to the Library, and from there - they should encounter 0mega curation!  - they know who are the people interested in same utterly different topics etc - BUT, as we've seen today, we need to have time to do alll these works + apply for funds, which get stuck because no funds etc. We need to work through these: #0 get the proposals funded, have poeple actually able to take time to work on them (not only during night shifts and in between their day job... for many of us the funding won't change the situation) -and also it seems to be related to the "vote vote vote" issue that @durgadas brings up, the inverter proposal issue, i.e. people knowing they could work for 6 months or longer on a topic that will help TEs etc... so topic bucket work style? and schedule asap? putting on agenda for next week, at least to have an overview what can be done wrt how we operate, and then what is the improvement "proposal"... maybe that too is an issue (not maybe very very likely, as all DAOs just vote vote vote and fatigue...) for Inverter Proposal... <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -13956,9 +13094,7 @@ _09-Feb-22 03:37 PM_:
 
 "for many of us funding won't change the situation" exactly, the responsibility shouldn't just be placed on us to 'keep things in check' on ethics, it should be part of the culture, to self-reflect and analyse how their shadow is affecting their behaviours within this space. I understand that this will take time, and I'm sincerely glad that omega has created initiatives that start the process, like ethics participatory research. Reminds me of our old conversation: [https://discord.com/channels/810180621930070088/810180622634844202/905569590434730074](https://discord.com/channels/810180621930070088/810180622634844202/905569590434730074) (edited)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Well, I kinda rage quit today as I brought some of this up in the Soft Gov call and didn't really hear anything that welcoming. I'd decided I would share what I have been experiencing lately and the feedback I got during that was really triggering for me, so I guess I didn't get to explain everything I wanted in any clear way. I'm trying to generalize a personal experience and show evidence for why I think we have some structural issues, but I can see that people's attachment to existing social structures is impeding them hearing the message fully. I won't stop trying to speak truth here, but I didn't expect things to show up like they did, as what I had been saying about this up until then had been well-received.
 
@@ -13981,9 +13117,7 @@ _09-Feb-22 03:40 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/941070963414548490/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/941070963414548490/unknown.png)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I think I need to take a bit of a break and come back when this will be perhaps less emotional for me, and try to work in a better way than I was able to express today
 
@@ -14004,9 +13138,7 @@ self-sovereign individuals govern well together, what common resource is there t
 
 How can we host next WG call such that "Research Topics as ground work of 0mega: e.g how do parameters/embedded incentives change behaviors, engage moral discussion and provide insights" - and we can provide space for understanding what happened/is happening, @durgadas point towards structural issues ... I'll paste the comment
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 take all the time you need, though, this is unacceptable - I'm sorry, that I have not seen your message already back in January (definitely messed up as overworked steward), and greatful though that participants are (a) voicing (b) listening       you are role models! all stewards   <img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=20 height=20>
 
@@ -14029,9 +13161,7 @@ _09-Feb-22 07:20 PM_:
 @solsista I invited @ Jolly LaMa#5962 to Omega, because we've previously talked about mentorship in the ecosystem value flows course you held. Thought maybe he can give input to the bootcamp initiative youre talking with Shawn about.
 
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 What is unacceptable?
 
@@ -14041,9 +13171,7 @@ _10-Feb-22 05:48 AM_:
 
 Sorry to jump in, I think she means it's unacceptable this remained unaddressed for so long
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 What is unacceptable?
 
@@ -14053,9 +13181,7 @@ _10-Feb-22 11:37 AM_:
 
 such a situation
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Sorry to jump in, I think she means it's unacceptable this remained unaddressed for so long
 
@@ -14144,9 +13270,7 @@ unity in diversity is an entirely distributed yet connected system
 individualized yet one
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 individualized yet one
 
@@ -14178,9 +13302,7 @@ NYU law
 
 815.04 KB
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Web3 to me is the practice/emergence of individuality within unity. That means putting the power back to the individual, so they feel that they can actually be responsible over their self rather than have a mistrust of their own abilities to be responsible. Also the creation of the culture of self-analysis and self-initiated growth (because they feel inspired to do so), rather than the collective forcing them into structures to be ‘good’. That’s diversity to me, when individuals truly *can* be individuals. They’d feel empowered to not be affected/stand up to tyranny of others wills while honouring themselves and integrating their shadows. Unified self first, then we can have a unified collective.
 
@@ -14195,11 +13317,8 @@ we typically start with engineering systems... now with immensely powerful tools
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/941438115044814848/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/941438115044814848/unknown.png)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
-solsista
-
-*Click to see original message*
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -14251,9 +13370,7 @@ Also I wonder if there's a better way of keeping newcomers to Omega up to date a
 @nic I think the best way for me is to join the next meeting
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 how do we start enlivening the self within Omega, and show it *is* possible to unlearn behavioural patterns created by abusive structures? How can we start innovating and creating the better system, since TEC is supposed to be the forefront for this? If no change is happening  then lets create the change   The focus group of course is one of the ways we are creating the change, plus the library initiative so learners can start enlivening self...but what other ways can we practice this? <img src="https://twemoji.maxcdn.com/2/72x72/1f611.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=20 height=20>
 
@@ -14274,9 +13391,7 @@ WG 0mega Manifesto Working Copy
 
 [https://lh4.googleusercontent.com/sUZjbRvOAJWkrmxfB4Qua73Hi_JYbSsuV0uoVUSQpgrEbz2_FBVAtp3M1v_r7eyd_acXNzQjqIqblA=w1200-h630-p](https://lh4.googleusercontent.com/sUZjbRvOAJWkrmxfB4Qua73Hi_JYbSsuV0uoVUSQpgrEbz2_FBVAtp3M1v_r7eyd_acXNzQjqIqblA=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 ok... so maybe this is related to the questions around radical agile: "where is the self in self-organization?, what is the social value of the product or service your are developing, the impact on human beings when you deliver continuously, and how to become the desired change."
 
@@ -14290,9 +13405,7 @@ perhaps we can utilise the pattern....we are at choice point, in individual leve
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/941443520097558548/fig4.png](https://cdn.discordapp.com/attachments/810180622634844202/941443520097558548/fig4.png)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 ok... so maybe this is related to the questions around radical agile: "where is the self in self-organization?, what is the social value of the product or service your are developing, the impact on human beings when you deliver continuously, and how to become the desired change."
 
@@ -14311,9 +13424,7 @@ learn a living...
 
 have you seen the learning curve in Kernel yet?
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 have you seen the learning curve in Kernel yet?
 
@@ -14323,11 +13434,8 @@ _10-Feb-22 04:22 PM_:
 
 not yet
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
-nic
-
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -14407,9 +13515,7 @@ A focus group is a group interview involving a small number of demographically s
 
 same same but different
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 "a common pattern of how Omega gives to us, and how we give to omega" this basically will guide us towards finding the intrinsic motivations
 
@@ -14429,9 +13535,7 @@ Minerva Wallet works like a physical wallet and can manage identity, data and mo
 
 ![https://minerva.digital/i/og-image.jpg](https://minerva.digital/i/og-image.jpg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 I like these very much - with only one important suggestion, instead of focusing on the organization "0mega Working Group", we need to turn our attention to that organizations purpose ~ "TE Ethics and Ethos: Unity in Diversity" (same exercise can be done at the level of TEC)
 
@@ -14447,9 +13551,7 @@ Here and there, within the definitions of token engineering the authors state th
 
 (think this as starting point of the research, we could dive very diverse topics based on that approach)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Maybe we look at everything as energies, as was said in the paper...so what do we give to Omega? What do we take from omega? What is given to us by omega? what is taken from us by omega? How do we take less, and create a culture of giving? how do we manage our energy reserves so that we aren't drained from giving too much or allowing to be taken from too much? How do we replenish ourselves without the need for taking? if we answer these questions we'll find a common pattern of how Omega gives to us, and how we give to omega...and we can maximise that so that both sides feel energised all the time. eventually omega can give to that which is external to omega I already feel it, it *feels different* here at Omega  (edited)
 
@@ -14461,9 +13563,7 @@ having said that, we need to extract the pattern why "it feels different in 0meg
 
 "ontological buoyancy" h/t @f8
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 Here and there, within the definitions of token engineering the authors state that it is a practice of incentive structures designing. Since, the incentives of individuals affect tendencies of personal behaviors, on a broader scale it shapes the environment that we are living in. In other words, the structure shapes the agents and following that the agents shapes structure. Related to that circular relationship, in this learning group we would like to research on how the parameters of token engineering conditions our moral behaviors and how that moral behavior shapes our “living” environment. While researching that question we would also conduct a comparative analysis with traditional “token engineering” which has been conducted by central banks. The Central Bank as an undemocratic body (there is no public participation in choosing CB administration) has shaped our living environment by “incentive designing”. For example, in 1979 US Finance minister Paul Volker initiated unprecedented interest rates (known as Volker shock) when US inflation rates were double digits. The negative interest rate at the time of before the shock suddenly increased to more than 5 percent real interest rate. This caused the sharp recession and rapid unemployment increase. Unemployment rose 5 percent to 10 percent between 1979 to 1982, whereas inflation fell from 13 percent to 3 percent between 1980 to 1983. In this learning group we will investigate how DAO’s are practicing those activities differently and what those differences mean for societies. (in terms of sovereignty, legitimacy, meritocracy and power)
 
@@ -14473,9 +13573,7 @@ _11-Feb-22 03:08 AM_:
 
 very cool! Can you add an example where similar mechanics and shock happened in crypto? Or maybe just formulate that as question, so we can potentially have participants joining with examples etc
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 very cool! Can you add an example where similar mechanics and shock happened in crypto? Or maybe just formulate that as question, so we can potentially have participants joining with examples etc
 
@@ -14493,9 +13591,7 @@ I would also add the literal "Skinnerian Token Economy" where rewards are used t
 
 @Mert Ozd if you spin up a doc, maybe more who would like to add a perspective can provide a short paragraph. It would be a great prepapartion, thank you, for rolling the ball
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 I would also add the literal "Skinnerian Token Economy" where rewards are used to change behavior of institutionalized humans to comply with a norm, meaning be "normal" - apparently very successfully. In extreme cases, one can argue this is good: i.e. "healthy for the person" and healthy for the ecosystem. However our world is not black and white, and we are all on a spectrum. There is the spectrum of that is neurotypical, and there is the spectrum of neurodiverse. I will argue that it is unhealthy for an ecosystem if individuals are rated on where they are on that spectrum and somehow (through voting?!) the collective determines who are on the un/healthy end ... this is a "statistical worldview", mechanistic: if you push here, it will do this. Thermodynamics is statistical, it is descriptive and predictive in closed systems... we're riding the waves of open oceans in global token networks.
 
@@ -14505,9 +13601,7 @@ _11-Feb-22 03:21 AM_:
 
 Very true !
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @Mert Ozd if you spin up a doc, maybe more who would like to add a perspective can provide a short paragraph. It would be a great prepapartion, thank you, for rolling the ball
 
@@ -14563,9 +13657,7 @@ hey, for the flowers, this is kind of a sketch, should it contain the text of th
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/942201359070031892/flower2c.png](https://cdn.discordapp.com/attachments/810180622634844202/942201359070031892/flower2c.png)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 please everyone have a look if something can be added, or taken away so we have a clear purpose ; also it seems we're redefining what focus groups are
 
@@ -14682,9 +13774,7 @@ The top graphic I made
 
 the below I didn't
 
-![https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png](https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png)
-
-Jeremy&TheGospelOfChange
+<h3>Jeremy&TheGospelOfChange <img src="https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png" width=25 height=25></h3>
 
 [https://youtu.be/CfpSU1sATlQ](https://youtu.be/CfpSU1sATlQ)
 
@@ -14702,22 +13792,16 @@ Will Peoples’ Responses to the Emergencies of the Coming Decades be Warm? Or C
 
 interesting she frames it as warm and cold - I don't think it is actually helping to get everyone on board - but the core of the issues she puts forth perfectly
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
-durgadas
-
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _16-Feb-22 03:10 PM_:
 this one definitely has a TEC story <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
+<h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
-stef
-
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -14725,9 +13809,7 @@ _16-Feb-22 03:11 PM_:
 
 wow - this is emblem of "Unity in Diversity" thank you, Stef!
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 This goes well with the "flower" and current work on narratives/radical integral ethos research. Also sharing some small satori moments or "Evolutionary Coherence" epistemology:
 
@@ -14751,9 +13833,7 @@ _16-Feb-22 03:13 PM_:
 
 added to the feedback section of the agenda, thank you!
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 Is not this remind you @solsista  ? <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=20 height=20>
 
@@ -14765,9 +13845,7 @@ tell me he is joking... please
 
 imagine you only create what is defined as a bounty. bounty hunting all your life. and since the market dynamics have it, you do not even have time to bring some coherence into that...
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 tell me he is joking... please
 
@@ -14798,9 +13876,7 @@ I don't know if they have it still, but based on your activity, gitcoin had some
 
 it's worst of both old worlds
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 it's worst of both old worlds
 
@@ -14809,17 +13885,13 @@ it's worst of both old worlds
 _16-Feb-22 03:19 PM_:
 exactly value extraction as its finest <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
-(edited)
-
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _16-Feb-22 03:19 PM_:
 
 take away people's ability to make their own price, and dump it down... is that market communism?
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 take away people's ability to make their own price, and dump it down... is that market communism?
 
@@ -14841,9 +13913,7 @@ wondering if some of you would like to embark on an experiment with our "work st
 
 just for the working group part, not the initiatives, and it can be an "experiment", i.e. an actual end, gaining insights, and improving or going back to bounties :))
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 so what's the alternative ?!  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
@@ -14853,9 +13923,7 @@ _16-Feb-22 03:27 PM_:
 
 I can not give a concrete example but at least it should include consensus based on group discussion (and the consensus should not come from ones vulnerability. For example, an immigrant worker give his "consent" to work on particular job for particular money amount due to their disempowered position.)
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 I can not give a concrete example but at least it should include consensus based on group discussion (and the consensus should not come from ones vulnerability. For example, an immigrant worker give his "consent" to work on particular job for particular money amount due to their disempowered position.)
 
@@ -14883,9 +13951,7 @@ so maybe it relates, not sure so please give feedback. But hitchhiking a Dance T
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/943606310748979320/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/943606310748979320/unknown.png)
 
-![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
-
-Jolly LaMa
+<h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 I know an out of work puppet who will dance for golden tickets.
 
@@ -14900,9 +13966,7 @@ _16-Feb-22 03:35 PM_:
 
 good golly - ESP moment
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 reminds me of Rawls..."Justice as Fairness... These principles are always applied so as to ensure that the "least advantaged" are benefitted and not hurt or forgotten" -
 
@@ -14915,9 +13979,7 @@ _16-Feb-22 03:36 PM_:
 Ohh I like Rawls and his concept of veil of ignorance. But sometimes I feel his framework is too theoretical and thiught experiment based. Chomsky had an interesting speech on that. I will send it here
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 so maybe it relates, not sure so please give feedback. But hitchhiking a Dance Tech community (MotionDAO of which @stef is a member), I met Jeanne, dancer art & science - she has many insights. One is about using "Dynamic Energy Budget Theory" as an economic model for art and sciences... It reminded me of @nic's comments about "what does 0mega give us" ... food for thought the very least:
 
@@ -14935,9 +13997,7 @@ _16-Feb-22 03:41 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/943608073359077377/Screen_Shot_2022-02-16_at_21.37.54.png](https://cdn.discordapp.com/attachments/810180622634844202/943608073359077377/Screen_Shot_2022-02-16_at_21.37.54.png)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 this one
 
@@ -14959,9 +14019,7 @@ let's do a session on work style next week, to see what is it that we're doing w
 
 Let's see if there are any facilitation takers, or jam here over the week, how we could analyze our work style and put a name on it based on these frameworks
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Agreed - Those 2 models combined, J. Houston dynamic energy model + Sally Goerner's goldilocks may be very well suited to provide with a deep breakthrough here.
 
@@ -14994,9 +14052,7 @@ _16-Feb-22 03:52 PM_:
 
 an ecology that can handle 12 billion humans with ease?
 
-![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
-
-stef
+<h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
 an ecology that can handle 12 billion humans with ease?
 
@@ -15014,11 +14070,8 @@ from an engineering perspective market failures just are so obvious
 ![https://cdn.discordapp.com/attachments/810180622634844202/943611758302617690/79293_Reutersfoodwastefilephoto_1589992982138.png](https://cdn.discordapp.com/attachments/810180622634844202/943611758302617690/79293_Reutersfoodwastefilephoto_1589992982138.png)
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
-solsista
-
-*Click to see original message*
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -15076,9 +14129,7 @@ so have we pinpointed any behaviors that lead to good decision making? <img src=
 
 I can think of a couple but i don't want to be a spoil sport if that's not what we're doing yet
 
-![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
-
-Jolly LaMa
+<h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 so have we pinpointed any behaviors that lead to good decision making?  I can think of a couple but i don't want to be a spoil sport if that's not what we're doing yet <img src="https://twemoji.maxcdn.com/2/72x72/1f9d0.png" width=20 height=20>
 
@@ -15149,11 +14200,8 @@ Why We Do What We Do - Tony explains the 6 Human Needs – an update of his famo
 
 ![https://i.ytimg.com/vi/NNnEAQo1dBQ/maxresdefault.jpg](https://i.ytimg.com/vi/NNnEAQo1dBQ/maxresdefault.jpg)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
-durgadas
-
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -15163,9 +14211,7 @@ and also this one - take it and take some time to "study" it's quite easy, but t
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/943867791394635806/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/943867791394635806/unknown.png)
 
-![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
-
-Jolly LaMa
+<h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 so have we pinpointed any behaviors that lead to good decision making?  I can think of a couple but i don't want to be a spoil sport if that's not what we're doing yet <img src="https://twemoji.maxcdn.com/2/72x72/1f9d0.png" width=20 height=20>
 
@@ -15176,9 +14222,7 @@ so now, I think we're ready to hear some <img src="https://twemoji.maxcdn.com/2/
 
 What do you think what type of behavior shapes good decision making?
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 This goes well with the "flower" and current work on narratives/radical integral ethos research. Also sharing some small satori moments or "Evolutionary Coherence" epistemology:
 
@@ -15207,9 +14251,7 @@ _17-Feb-22 11:40 AM_:
 
 I have an excellent methodology for illustrating why we need to see worldviews
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I have an excellent methodology for illustrating why we need to see worldviews
 
@@ -15237,9 +14279,7 @@ I'm not sure where inside that I should put it
 
 In the Topic Bucket?
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 In the Topic Bucket?
 
@@ -15265,9 +14305,7 @@ This Mandelbrot zoom takes us all the way to a mini-brot at a depth of e1091. Th
 
 ![https://i.ytimg.com/vi/pCpLWbHVNhk/maxresdefault.jpg](https://i.ytimg.com/vi/pCpLWbHVNhk/maxresdefault.jpg)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 It's a small moment of awareness is all it takes:
 
@@ -15292,9 +14330,7 @@ that came out of my Gebser group yesterday
 
 I have a lot of these
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I wasn't making one
 
@@ -15303,9 +14339,7 @@ I wasn't making one
 _17-Feb-22 11:52 AM_:
 ah sorry, I was fishing for improvement proposals <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 I want to understand better why participants in TEC feel disempowered, can those of you who felt this way, explain (as simple as possible but no simpler) - when this "boxed in" feeling sets in. What are our barrieres to empowerment? Pls as concrete as possible:
 
@@ -15320,9 +14354,7 @@ I think there are a lot more things like this than what is shown on the graphic 
 
 For example, this might be a way we can diagnose issues with a survey
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 I want to understand better why participants in TEC feel disempowered, can those of you who felt this way, explain (as simple as possible but no simpler) - when this "boxed in" feeling sets in. What are our barrieres to empowerment? Pls as concrete as possible:
 
@@ -15332,9 +14364,7 @@ _17-Feb-22 11:54 AM_:
 
 with respect to dis/empowerment, can we pinpoint barriers that exist in TEC? are these generic ones also hold for TEC? can we make any barriers more concrete - and then also try "improvement proposals"?
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I think there are a lot more things like this than what is shown on the graphic here
 
@@ -15344,9 +14374,7 @@ _17-Feb-22 11:54 AM_:
 
 but to get things started we need to start somewhere - optimally with highest leverage point.
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 For example, this might be a way we can diagnose issues with a survey
 
@@ -15368,9 +14396,7 @@ I can try to come up with something
 
 I also attended a lab with YGG and Livi and he showed a method that might be used to make determinations of various types also in a data-driven way
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I also attended a lab with YGG and Livi and he showed a method that might be used to make determinations of various types also in a data-driven way
 
@@ -15390,9 +14416,7 @@ I have a lot of ideas about this that I'd like to discuss and have heard talk ar
 
 I'd like to workshop ideas and create some things like this for sure
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I'd like to workshop ideas and create some things like this for sure
 
@@ -15410,9 +14434,7 @@ Making changes like this takes a suite of tools and enough people to continue pr
 
 So yes I see two things here. 1) Find methods for enhancing empowerment/autonomy/agency or better to see the ways we have built barriers to that and 2) The existing worldviews discussion
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Making changes like this takes a suite of tools and enough people to continue propagating it. LS can help, and that dovetails well with Cynefin for example
 
@@ -15428,9 +14450,7 @@ _17-Feb-22 12:03 PM_:
 
 I am happy to talk about all of this stuff about worldviews literally any time. I don't need any preparation for this
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 So yes I see two things here. 1) Find methods for enhancing empowerment/autonomy/agency or better to see the ways we have built barriers to that and 2) The existing worldviews discussion
 
@@ -15470,9 +14490,7 @@ _17-Feb-22 12:08 PM_:
 
 ok - so and for next weeks session, I'm looking for facilitations tips @durgadas and @Jeremy&TheGospelOfChange any suggestions how to structure 1 hour of participation by most/all- which ones of Liberating Structures would you recommend?
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 yes well perhaps we should talk about what you'd like to see in the Dynamic landscape thing. I can of course talk about this at any time with a number of models and approaches and narratives within those. I am happy to do a Q&A also to show dynamic responses you can learn by knowing this, as I do
 
@@ -15482,9 +14500,7 @@ _17-Feb-22 12:10 PM_:
 
 any way you want, I can support with ideas to make it more tangible/practical to token engineers - but as token economy participants we all could make suggestions through questions etc
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 yes well perhaps we should talk about what you'd like to see in the Dynamic landscape thing. I can of course talk about this at any time with a number of models and approaches and narratives within those. I am happy to do a Q&A also to show dynamic responses you can learn by knowing this, as I do
 
@@ -15526,11 +14542,8 @@ Liberating Structures - 1. 1-2-4-All
 
 Liberating Structures - 6. TRIZ
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
-durgadas
-
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -15554,9 +14567,7 @@ _17-Feb-22 12:16 PM_:
 
 I think it's my proposal that we move to a DDO model
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I think it's my proposal that we move to a DDO model
 
@@ -15587,9 +14598,7 @@ that sounds very purple to me <img src="https://twemoji.maxcdn.com/2/72x72/1f61b
 anyways... just now making the connection that the Colors of Laloux Rethinking Organizations are from Spiral Dynamics
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 also Teal Organisations are Distributed Networks
 
@@ -15618,9 +14627,7 @@ Boomeritis: A Novel That Will Set You Free is a polemical 2002 novel by American
 ![https://upload.wikimedia.org/wikipedia/en/2/2d/Boomeritis.jpg](https://upload.wikimedia.org/wikipedia/en/2/2d/Boomeritis.jpg)
 
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 So, my idea is to pre-empt the negative connotation Teal has too, and the very real possibility that trying to move to that will unearth our shadow psychology
 
@@ -15640,9 +14647,7 @@ In fact, it seems to me that it's setting up a structure that allows us to meet 
 
 rather than forcing something
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 rather than forcing something
 
@@ -15664,9 +14669,7 @@ _17-Feb-22 12:25 PM_:
 
 pls suggest, if you can, anytime before next Wednesday a facilitation technique that would help this awesome wholesome group to contribute wholely to that session :)) (edited)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 [https://www.liberatingstructures.com/6-making-space-with-triz/](https://www.liberatingstructures.com/6-making-space-with-triz/)
 
@@ -15714,9 +14717,7 @@ Should we make our own medium? I can see write ups coming out of the research th
 
 Should it be just subject matter experts adding to library? I wonder if 1-2-4-All could be applied in curation?
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Unrelated to the above, but in terms of attracting learners and subject matter experts, I’m wondering if we should make our own twitter page for Omega, much like how gravity has its own twitter page so that we may promote omega initiatives outside of the forum (since we weren’t allowed to post on medium).
 
@@ -15726,9 +14727,7 @@ _17-Feb-22 03:50 PM_:
 
 were we not?
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 were we not?
 
@@ -15742,9 +14741,7 @@ She was invited to post in the forum (for wider reach)
 
 I should be more precise with the language I use <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 Should it be just subject matter experts adding to library? I wonder if 1-2-4-All could be applied in curation?
 
@@ -15754,9 +14751,7 @@ _17-Feb-22 03:55 PM_:
 
 @Letty wants to prepare a group curation session for us! I think this is a great experience to put ourselves into the seed curator shoes, and improve the experience. For example, I don't think just having the "per petal curation" and also "one person curation" is walking the talk of "transdisciplinary art of token engineering". At least collaborating with 2 or more would be good... just some thoughts. At least one person should curate across more than one petal, to demonstrate "consiliencing" - What do you think?
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @Letty wants to prepare a group curation session for us! I think this is a great experience to put ourselves into the seed curator shoes, and improve the experience. For example, I don't think just having the "per petal curation" and also "one person curation" is walking the talk of "transdisciplinary art of token engineering". At least collaborating with 2 or more would be good... just some thoughts. At least one person should curate across more than one petal, to demonstrate "consiliencing" - What do you think?
 
@@ -15767,9 +14762,7 @@ _17-Feb-22 03:57 PM_:
 I agree about the whole one person curation not walking the talk and is actually what I was thinking about....the whole decentralisation of powers/social rep. If one person curates their social rep increases, but if its collective curation then the organisation rep increases...which may help TEC become more wide known and trusted
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 hmm maybe I misunderstood but I dont think @Letty got the credentials to publish
 
@@ -15785,9 +14778,7 @@ _17-Feb-22 03:58 PM_:
 
 I was thinking about what's promoted on TEC social media, and I see gravity there as well as individual members, so I think Omega initiatives could be promoted there, but if we hit roadblocks then we can just make our own twitter account (unless we find a better alternative to twitter for reaching TEs) (edited)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 I was thinking about what's promoted on TEC social media, and I see gravity there as well as individual members, so I think Omega initiatives could be promoted there, but if we hit roadblocks then we can just make our own twitter account (unless we find a better alternative to twitter for reaching TEs)  (edited)
 
@@ -15797,9 +14788,7 @@ _17-Feb-22 04:00 PM_:
 
 do we have someone in 0mega who can work in communication? Then that member can first actively contribute in WG Communication to cross-polinate and also add content from 0mega
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 a suggestion could be to work more closely with the comms team, so that a TEC member who has credentials to publish does on behalf of 0mega and adds Letty as author of the piece?
 
@@ -15811,9 +14800,7 @@ I'm not too familiar with how comms work in terms of publishing, maybe @Mount Ma
 
 haha @Mount Manu is in Communitas + Comms..like a nerve cell
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 haha @Mount Manu is in Communitas + Comms..like a nerve cell
 
@@ -15833,9 +14820,7 @@ WG 0mega - Agenda (Weekly Wed. 8PM CET)
 
 [https://lh5.googleusercontent.com/SHzQSESdzTUvuV0MLQvs6Imp0gpYSX-3K2mD4iJCeX536vzqhz1d0hgDWg0S9AIvIuybor2vAB78xg=w1200-h630-p](https://lh5.googleusercontent.com/SHzQSESdzTUvuV0MLQvs6Imp0gpYSX-3K2mD4iJCeX536vzqhz1d0hgDWg0S9AIvIuybor2vAB78xg=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 perfect! So if there is something we want to have published @Mount Manu would be the go-to person, I am sure giving credits to the author of a piece is a non-issue
 
@@ -15845,9 +14830,7 @@ _17-Feb-22 04:04 PM_:
 
 yes we can ask, just not sure what his availability is like
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 yes we can ask, just not sure what his availability is like
 
@@ -15857,9 +14840,7 @@ _17-Feb-22 04:04 PM_:
 
 that is the main issue if at all we have: no time
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 that is the main issue if at all we have: no time
 
@@ -15894,9 +14875,7 @@ _17-Feb-22 04:09 PM_:
 
 also please do prepare (also following the links in the agenda for next week) we can have this in the facilitated session about our Working Style
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 also please do prepare (also following the links in the agenda for next week) we can have this in the facilitated session about our Working Style
 
@@ -15904,8 +14883,6 @@ also please do prepare (also following the links in the agenda for next week) we
 
 _17-Feb-22 04:10 PM_:
 will try to attend, but can't promise <img src="https://twemoji.maxcdn.com/2/72x72/1f613.png" width=20 height=20>
-
-(edited)
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -15916,9 +14893,7 @@ this is the facilitation technique we'll use, if everyone is somewhat familiar i
 Liberating Structures - 27. Agreement-Certainty Matching Matrix
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 will try to attend, but can't promise   (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f613.png" width=20 height=20>
 
@@ -15931,9 +14906,7 @@ oh no... maybe you can go throug the Miro board and place some notes, so we have
 
 sometime between now and Wednesday when you find some time
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 I was thinking about what's promoted on TEC social media, and I see gravity there as well as individual members, so I think Omega initiatives could be promoted there, but if we hit roadblocks then we can just make our own twitter account (unless we find a better alternative to twitter for reaching TEs)  (edited)
 
@@ -15959,9 +14932,7 @@ So we line them up starting with 2nd March (edited)
 
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 oh no... maybe you can go throug the Miro board and place some notes, so we have your input...
 
@@ -15975,15 +14946,11 @@ consilience lib
 
 moodboard
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 which Miro board? this one?
 
 [https://miro.com/app/board/uXjVOZ71K2o=/](https://miro.com/app/board/uXjVOZ71K2o=/)
-
-(edited)
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -16013,9 +14980,7 @@ _17-Feb-22 04:30 PM_:
 ![https://cdn.discordapp.com/attachments/810180622634844202/943982711989751878/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/943982711989751878/unknown.png)
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 that is the main issue if at all we have: no time
 
@@ -16032,9 +14997,7 @@ Talking Sticks are often used in tribal meetings and ceremonies—only the perso
 ![https://indiancountrytoday.com/.image/t_share/MTU4NDEyNjE2MTI2ODk5NjY5/wounded-knee-frizzell-indians.jpg](https://indiancountrytoday.com/.image/t_share/MTU4NDEyNjE2MTI2ODk5NjY5/wounded-knee-frizzell-indians.jpg)
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 so now, I think we're ready to hear some  What do you think what type of behavior shapes good decision making? <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
@@ -16048,9 +15011,7 @@ one more perspective
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/943997268997066782/IMG_3115.jpg](https://cdn.discordapp.com/attachments/810180622634844202/943997268997066782/IMG_3115.jpg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @Letty wants to prepare a group curation session for us! I think this is a great experience to put ourselves into the seed curator shoes, and improve the experience. For example, I don't think just having the "per petal curation" and also "one person curation" is walking the talk of "transdisciplinary art of token engineering". At least collaborating with 2 or more would be good... just some thoughts. At least one person should curate across more than one petal, to demonstrate "consiliencing" - What do you think?
 
@@ -16072,9 +15033,7 @@ i look forward to a miro board sesh! i think a lot of the clunkiness is from eve
 
 i've been spending most my time with my foot in my mouth
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 I want to understand better why participants in TEC feel disempowered, can those of you who felt this way, explain (as simple as possible but no simpler) - when this "boxed in" feeling sets in. What are our barrieres to empowerment? Pls as concrete as possible:
 
@@ -16086,9 +15045,7 @@ Here is some feedback on your query @solsista. Hope it helps!
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/944004156857925662/Boxed_In.png](https://cdn.discordapp.com/attachments/810180622634844202/944004156857925662/Boxed_In.png)
 
-![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
-
-Jolly LaMa
+<h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 water. it's a well known and popular fact that decision making while dehydrated has worse outcomes than a vogan reading poetry. it would be cool to help a community of earthlings fully realize this fact of the body/brain vehicle we drive and chain the data to let the outside world verify it. We could do the same with daily sustained heart rate and/or sleep - might be easier to verify (with use of a wearable). with a small enough trial group we could also trust manual input i think. it would be obvious enough to call out the fibbers. Q: does a focus group work more efficiently when they are only allowed into the deliberation room after verifying some vitals (i.e., hydration, properly daily exercise, adequate sleep)
 
@@ -16097,9 +15054,7 @@ water. it's a well known and popular fact that decision making while dehydrated 
 _17-Feb-22 06:26 PM_:
 wow! hydrate #note-to-self <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png](https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png)
-
-MargaritaDave
+<h3>MargaritaDave <img src="https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png" width=25 height=25></h3>
 
 Here is some feedback on your query @solsista. Hope it helps!
 
@@ -16110,9 +15065,7 @@ thank you for the input <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" 
 
 highly appreciated... I realize we don't have a ritual for newcomers, would you like to suggest one? What would help you? Also please introduce yourself, maybe using the Cryptoeconomics Flower, or a question that you have on your mind? or what brought you to 0mega? or to TEC etc. Are you active in other Working Groups of TEC? anything that can help us help you to start contributing
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 !praise @durgadas and @stef for bringing in liberating structures and beauty into TEC & 0mega ❤️
 
@@ -16122,9 +15075,7 @@ _17-Feb-22 06:37 PM_:
 
 what's this praise all about? I just caught wind of it yesterday. do I have the power to praise?
 
-![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
-
-Jolly LaMa
+<h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 what's this praise all about? I just caught wind of it yesterday. do I have the power to praise?
 
@@ -16147,9 +15098,7 @@ _17-Feb-22 06:48 PM_:
 
 I have not contributed to any of the groups so far, but I am drawn to the Omega group. It seems like a wild bunch. You guys definitely have a lot of fun in here. In regards to the flower, academically I did undergrad in finance and I did a masters in Industrial/Systems engineering so I am completely captivated by thought of TE. Project management is my day job. The onboarding process is nice because it is so intentional. Head and shoulders above the onboarding on most other discord groups.
 
-![https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png](https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png)
-
-MargaritaDave
+<h3>MargaritaDave <img src="https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png" width=25 height=25></h3>
 
 I have not contributed to any of the groups so far, but I am drawn to the Omega group. It seems like a wild bunch. You guys definitely have a lot of fun in here. In regards to the flower, academically I did undergrad in finance and I did a masters in Industrial/Systems engineering so I am completely captivated by thought of TE. Project management is my day job. The onboarding process is nice because it is so intentional. Head and shoulders above the onboarding on most other discord groups.
 
@@ -16179,9 +15128,7 @@ Is God interested in the precision of our ritual or our mood in performing it? I
 
 ![https://i.ytimg.com/vi/LodlLImRPOk/maxresdefault.jpg](https://i.ytimg.com/vi/LodlLImRPOk/maxresdefault.jpg)
 
-![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
-
-Jolly LaMa
+<h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 "all caught up in the varnavad - gotta think more in terms of spotenavad"
 
@@ -16193,9 +15140,7 @@ _18-Feb-22 03:00 AM_:
 
 ahh bhakties... they're looking for a program manager, too! and a marketing manager hahah
 
-![https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png](https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png)
-
-MargaritaDave
+<h3>MargaritaDave <img src="https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png" width=25 height=25></h3>
 
 I have not contributed to any of the groups so far, but I am drawn to the Omega group. It seems like a wild bunch. You guys definitely have a lot of fun in here. In regards to the flower, academically I did undergrad in finance and I did a masters in Industrial/Systems engineering so I am completely captivated by thought of TE. Project management is my day job. The onboarding process is nice because it is so intentional. Head and shoulders above the onboarding on most other discord groups.
 
@@ -16221,9 +15166,7 @@ WG 0mega Manifesto Working Copy
 
 @Zeptimus would yo do us the honor and pin the following messages that I tag to the chats pin board, please? Thank you!
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 reading through the Manifesto would also help
 
@@ -16235,9 +15178,7 @@ _18-Feb-22 03:02 AM_:
 
 pin
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 it would be more like a program managment, and also we'd love to play with radical agile:
 
@@ -16249,9 +15190,7 @@ _18-Feb-22 03:02 AM_:
 
 pin
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 actually @Mount Manu had some ideas how to make Ethics sexy  haha, I think we will get there - wrt comms, once we have more material - and also should reserve a session for Manu's input and ideas, especially since they would be helping communications. We have the following topics, coming up next - how would you all want to prioritize? can you add emojis to each one :   So we line them up starting with 2nd March  (edited) <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f947.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f948.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f949.png" width=50 height=50> <img src="$5" width=20 height=20>
 
@@ -16261,9 +15200,7 @@ _18-Feb-22 03:03 AM_:
 
 pin
 
-![https://cdn.discordapp.com/avatars/760616661983166536/57fa82fe8b83af9a01c56339bf8c945f.png](https://cdn.discordapp.com/avatars/760616661983166536/57fa82fe8b83af9a01c56339bf8c945f.png)
-
-Nate0909
+<h3>Nate0909 <img src="https://cdn.discordapp.com/avatars/760616661983166536/57fa82fe8b83af9a01c56339bf8c945f.png" width=25 height=25></h3>
 
 Hello @Nate0909, we have two main initiatives that is actively developing now
 
@@ -16287,9 +15224,7 @@ _18-Feb-22 03:04 AM_:
 
 pin
 
-![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
-
-Jolly LaMa
+<h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 "all caught up in the varnavad - gotta think more in terms of spotenavad"
 
@@ -16305,9 +15240,7 @@ but I don't want receptionists for us, not all who wander are lost + only if you
 
 ) makes you think "this is a close-knit group"? super curious <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 ahahh I like these guys ..."it tells a lot how you receive newcomers about the organizations... earlier you would only wander around the temple" #busted  but I don't want receptionists for us, not all who wander are lost + only if you lose yourself can you truly find your self <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
@@ -16319,9 +15252,7 @@ _18-Feb-22 03:12 AM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/944144671309955103/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/944144671309955103/unknown.png)
 
-![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
-
-Jolly LaMa
+<h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 "all caught up in the varnavad - gotta think more in terms of spotenavad"
 
@@ -16354,9 +15285,7 @@ _18-Feb-22 04:05 AM_:
 
 Pinned a message.
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @Zeptimus would yo do us the honor and pin the following messages that I tag to the chats pin board, please? Thank you!
 
@@ -16365,13 +15294,9 @@ solsista
 _18-Feb-22 04:05 AM_:
 done, you should be able to remove or add more at any moment <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
-(edited)
 
 
-
-![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
-
-Jolly LaMa
+<h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 !props @solsista for staying focussed on such an inclusive undertaking
 
@@ -16397,9 +15322,7 @@ _18-Feb-22 05:24 AM_:
 
 Pinned a message.
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 :)) ahaha and one more @Zeptimus how can people learn about and get !praise powers? thanks for your guidance and help!
 
@@ -16420,9 +15343,7 @@ _18-Feb-22 06:58 AM_:
 
 ‍♂️
 
-![https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png](https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png)
-
-MargaritaDave
+<h3>MargaritaDave <img src="https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png" width=25 height=25></h3>
 
 Here is some feedback on your query @solsista. Hope it helps!
 
@@ -16434,8 +15355,6 @@ This was very helpful - hopefully to all involved: One of the things you pointed
 [https://www.notion.so/Start-Here-a1c6ca9660f6428380238000e8892164](https://www.notion.so/Start-Here-a1c6ca9660f6428380238000e8892164)
 
 what could be the next step based on the basic info. And everyone who commited to contribute to the Library, please do pick up on useful suggestions and feedback <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
-
-(edited)
 
 Start Here
 
@@ -16456,9 +15375,7 @@ The Usefulness of Useless Knowledge
 
 ![https://www.ias.edu/sites/default/files/images/hero-images/Untitled-2.jpg](https://www.ias.edu/sites/default/files/images/hero-images/Untitled-2.jpg)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 I agree about the whole one person curation not walking the talk and is actually what I was thinking about....the whole decentralisation of powers/social rep. If one person curates their social rep increases, but if its collective curation then the organisation rep increases...which may help TEC become more wide known and trusted
 
@@ -16495,9 +15412,7 @@ _18-Feb-22 02:09 PM_:
 
 I think thats an awesome idea
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @MargaritaDave I woke up with this question in my mind: What (anything that you pick up, the tone? the theme? however you want the explain it, pls try  ) makes you think "this is a close-knit group"? super curious  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -16524,9 +15439,7 @@ I don't know anyone here who is eager to exclude anyone nor talk over their head
 I for one am interested in helping to increase people's Complexity Tolerance, so let me know if you need anything
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 This was very helpful - hopefully to all involved: One of the things you pointed out is that "it's going to be hard to get started" with further suggestions that we should focus on the outcome, and know the outcome first. I reflected on it. Instead, keeping true to the 0mega Manifesto, I edited the empty "Start Here" page, assuming that that may already elavate the barrier. Let's keep this feedback loop open, Dave. Let us know if this already is helpful for you to get started:
 
@@ -16534,17 +15447,13 @@ This was very helpful - hopefully to all involved: One of the things you pointed
 
 what could be the next step based on the basic info. And everyone who commited to contribute to the Library, please do pick up on useful suggestions and feedback <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
-(edited)
-
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
 _18-Feb-22 05:29 PM_:
 
 think this instance is more recent, [https://www.notion.so/Start-Here-35628f12828a4e4fbaf2eb9135e4de8d](https://www.notion.so/Start-Here-Creative-participation-35628f12828a4e4fbaf2eb9135e4de8d) can you edit it there, or shall i update the graphics on your instance? (edited)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 I'm noticing that Kei @ gnosis does talks on DAOs and then talks about gnosis products afterwards. I wonder if we could do something similar and do talks on ethics / cryptoeconomic flower / value flows at Kernel and then talk about the library + other TE learning initiatives  (edited)
 
@@ -16555,9 +15464,7 @@ would you like to do it? You are in Kernel at the moment. Just tell the group wh
 
 ![https://cdn.discordapp.com/emojis/835409757183279134.png](https://cdn.discordapp.com/emojis/835409757183279134.png) <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png](https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png)
-
-MargaritaDave
+<h3>MargaritaDave <img src="https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png" width=25 height=25></h3>
 
 It's hard to nail down what I was thinking when I wrote that but I will try. ' Imagine you are invited to a dinner party by an acquaintance but you show up about 20 minutes late. The table is talking about politics and it is a very lively discussion, a little disjointed but you think you get the gist so you offer your opinion. To your shock the table falls silent then bust out laughing at you because when you sat down you heard a discussion about politics, but what was really going on was a discussion about a sordid tryst'. Ok I'm being dramatic, but that is what comes to mind. I appreciate all the links you provided today. I think I am starting to get it. I ordered the book 'The usefulness of useless knowledge'. The Library project is an interesting project however because I presume we want it to be useful, but we also are compelled to fill it up with useless knowledge! I'm feeling giddy trying to figure it out in my head. I love what you guys are doing in this working group!!!
 
@@ -16568,9 +15475,7 @@ oh no - that link was just an article I personally enjoy, and has nothing to do 
 
 I don't think there is a book, it is an old and revisited wisdom of the Institute of Advanced Studies
 
-![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
-
-stef
+<h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
 think this instance is more recent,
 
@@ -16584,9 +15489,7 @@ _19-Feb-22 04:07 AM_:
 
 I'll pull some of the text over to the new instance, thank you @stef
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I for one am interested in helping to increase people's Complexity Tolerance, so let me know if you need anything
 
@@ -16635,9 +15538,7 @@ Readers of all ages and walks of life have drawn inspiration and empowerment fro
 
 ![https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451446242i/24453082._UY630_SR1200,630_.jpg](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451446242i/24453082._UY630_SR1200,630_.jpg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 I'd like to have a session on this... because I remember how @nic made that jump recently (not to talk about my personal experience all the time to bore people), Nic, would you like to share, how empowering it is to see and acknowledge one's alignment with the purpose of an organization.
 
@@ -16713,9 +15614,7 @@ My background is as a data scientist adn software engineer, @nic introduced me t
 
 I joined the 3 part course/calls you ran from the end of December to January
 
-![https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png](https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png)
-
-MargaritaDave
+<h3>MargaritaDave <img src="https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png" width=25 height=25></h3>
 
 It's hard to nail down what I was thinking when I wrote that but I will try. ' Imagine you are invited to a dinner party by an acquaintance but you show up about 20 minutes late. The table is talking about politics and it is a very lively discussion, a little disjointed but you think you get the gist so you offer your opinion. To your shock the table falls silent then bust out laughing at you because when you sat down you heard a discussion about politics, but what was really going on was a discussion about a sordid tryst'. Ok I'm being dramatic, but that is what comes to mind. I appreciate all the links you provided today. I think I am starting to get it. I ordered the book 'The usefulness of useless knowledge'. The Library project is an interesting project however because I presume we want it to be useful, but we also are compelled to fill it up with useless knowledge! I'm feeling giddy trying to figure it out in my head. I love what you guys are doing in this working group!!!
 
@@ -16727,9 +15626,7 @@ so I thought about that question a lot too, and Jeanne our guest, for next week 
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/944567245600862238/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/944567245600862238/unknown.png)
 
-![https://cdn.discordapp.com/avatars/760616661983166536/57fa82fe8b83af9a01c56339bf8c945f.png](https://cdn.discordapp.com/avatars/760616661983166536/57fa82fe8b83af9a01c56339bf8c945f.png)
-
-Nate0909
+<h3>Nate0909 <img src="https://cdn.discordapp.com/avatars/760616661983166536/57fa82fe8b83af9a01c56339bf8c945f.png" width=25 height=25></h3>
 
 I joined the 3 part course/calls you ran from the end of December to January
 
@@ -16759,11 +15656,8 @@ On Participation, with Federico Bonelli.Trasformatorio is a laboratory, artistic
 
 It has the link also to their publication: "Collective improvisation as a means to responsibly govern serendipity in social innovation processes"
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
-solsista
-
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -16805,9 +15699,7 @@ Concept Fighting Monkey by Rootlessroot Μusic by Vassilis Mantzoukis Filmed by 
 ![https://i.ytimg.com/vi/HzstY8SfgeQ/maxresdefault.jpg](https://i.ytimg.com/vi/HzstY8SfgeQ/maxresdefault.jpg)
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 This is from Marlon (dance-tech, cyberneticist) : "william fosythe creates relational algorythms that dancers run in real time so the choreograpgy is selforganizing creatin 'attractors' etc( he calls them 'improviation technologies' and 'synchronous objects'). he explicitly separates choreography from dance. Very sophisticated thinker."
 
@@ -16821,9 +15713,7 @@ _19-Feb-22 07:39 AM_:
 
 "a library ... in which the work explains itself with this annotation" ... very similar to how we explain the living TE C' library's vision
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I don't know anyone here who is eager to exclude anyone nor talk over their heads, but this is one of the most forward thinking and expansive groups, so that by itself is a challenge and there is WAY more there there than even you might appreciate at the surface
 
@@ -16861,9 +15751,7 @@ _19-Feb-22 09:48 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/944787460116869140/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/944787460116869140/unknown.png)
 
-![https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png](https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png)
-
-MargaritaDave
+<h3>MargaritaDave <img src="https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png" width=25 height=25></h3>
 
 Thank You @durgadas and @solsista. I will take my time and hopefully work my way in. I didn't mean to express that I was picking up an exclusionary vibe from anyone, not even in the slightest. The story I make up is more a reflection of my own insecurities than a critique of the group. I meant only to share my inner thoughts and feeling, something I am not very good at, as one example of coming into the group from outside. I see in the text above that @solsista is handing out permission slips to be part of the team so I will take one for myself.
 
@@ -16875,9 +15763,7 @@ i'm with you MD! I'm pretty new here too. I have similar insecurities right now 
 
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 I started reading A Pattern Language by Christopher Alexander and the intro really called to me. I believe that we can do the same, create a pattern language for Token Engineering Parameters that genuinely solves human problems. We can also use the way each piece of the pattern is presented, in the Ecosystem Value Flows course, the way we structure findings from focus groups/research, and in the structure of the library (eg the problem this petal of the crypto-economic flower solves, how it solves it, how it relates to the other petals of the flower in solving problems). The reason why I believe that we could create a pattern language for TE, is that we are essentially building digital representations of physical structures designed for collectives, so digital cities. I see web3 as an experimentation and exploration, to improve the current physical structures. For example when we look at a pattern like Fruit Trees, maybe it represents a mechanism where people invest time and resources in, but it bears fruit that people can benefit from for a long time, by picking the fruit and eating right away, without a need for cooking(which uses energy), so maybe its digital representation is a mechanism that gives them energy right away, surpassing the need of using money to purchase that which gives them energy. These quotes in particular called to me:  (edited)
 
@@ -16887,9 +15773,7 @@ _20-Feb-22 04:28 AM_:
 
 i think your on to something here nic!
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 "THis is fighting Monkey. I think one of the most obvious instations on complexity theory and descentralized control... they us evolutionary theory, complexity, adaptive systems as a training of reflexes and resilience: pendulums, moving networks, expanded perception, etc."
 
@@ -16907,9 +15791,7 @@ Fighting Monkey is an applied practice for human development through movement. F
 
 ![https://fightingmonkey.net/img/home.jpg](https://fightingmonkey.net/img/home.jpg)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 I started reading A Pattern Language by Christopher Alexander and the intro really called to me. I believe that we can do the same, create a pattern language for Token Engineering Parameters that genuinely solves human problems. We can also use the way each piece of the pattern is presented, in the Ecosystem Value Flows course, the way we structure findings from focus groups/research, and in the structure of the library (eg the problem this petal of the crypto-economic flower solves, how it solves it, how it relates to the other petals of the flower in solving problems). The reason why I believe that we could create a pattern language for TE, is that we are essentially building digital representations of physical structures designed for collectives, so digital cities. I see web3 as an experimentation and exploration, to improve the current physical structures. For example when we look at a pattern like Fruit Trees, maybe it represents a mechanism where people invest time and resources in, but it bears fruit that people can benefit from for a long time, by picking the fruit and eating right away, without a need for cooking(which uses energy), so maybe its digital representation is a mechanism that gives them energy right away, surpassing the need of using money to purchase that which gives them energy. These quotes in particular called to me:  (edited)
 
@@ -16992,9 +15874,7 @@ By Donella Meadows The Dance 1. Get the beat. 2. Listen to the wisdom of the sys
 !praise @durgadas for his input on facilitation techniques to shape our interactive sessions
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 hopefully we'll have @durgadas and @Jeremy&TheGospelOfChange who are experienced facilitators with this to help with questions, but I trust many of us has the capability, so please read through this facilitations technique before Wednesday
 
@@ -17012,11 +15892,8 @@ _20-Feb-22 09:38 AM_:
 !praise @Letty and @solsista for combining the best of the best minds in systemic thinking to advance TE and transforming uncertainty into breakthroughs
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
-solsista
-
-*Click to see original message*
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
@@ -17049,9 +15926,7 @@ We only “stand still” by means of… allowing movement – a constant self-c
 to stand firm for something, we must constantly let ourselves adjust to falling into it
 
 
-![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
-
-stef
+<h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
 in relation to style of work
 
@@ -17074,9 +15949,7 @@ I had thought I'd be M.I.A. in other project todos but these signals you shared 
 
 so sometime in the coming weeks, also inspired by Dynamic Energy Budget this week, maybe we can try "howtosol" <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 I love that chart will try to give my input. Thank you very much !!!
 
@@ -17124,9 +15997,7 @@ Apple -
 
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 so sometime in the coming weeks, also inspired by Dynamic Energy Budget this week, maybe we can try "howtosol"  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
@@ -17149,9 +16020,7 @@ GM everybody! As you already may know I'm part of Metagame and I have been very 
 
 
 
-![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
-
-stef
+<h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
 yeah maybe invite Adva Zakai (
 
@@ -17186,9 +16055,7 @@ WG 0mega - Agenda (Weekly Wed. 8PM CET)
 
 [https://lh5.googleusercontent.com/SHzQSESdzTUvuV0MLQvs6Imp0gpYSX-3K2mD4iJCeX536vzqhz1d0hgDWg0S9AIvIuybor2vAB78xg=w1200-h630-p](https://lh5.googleusercontent.com/SHzQSESdzTUvuV0MLQvs6Imp0gpYSX-3K2mD4iJCeX536vzqhz1d0hgDWg0S9AIvIuybor2vAB78xg=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 today's agenda: with all the links you need also for our Working Style session:
 
@@ -17205,9 +16072,7 @@ _23-Feb-22 01:03 PM_:
 
 hello everyone, just finished orientation and I believe this working group I want to vibe with
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 hello everyone, just finished orientation and I believe this working group I want to vibe with
 
@@ -17233,9 +16098,7 @@ oh jeez that WG is too early for me
 
 sorry I missed it
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 oh jeez that WG is too early for me
 
@@ -17259,9 +16122,7 @@ _23-Feb-22 01:12 PM_:
 Yes, I must have misunderstoodf
 
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 Yes, I must have misunderstoodf
 
@@ -17280,9 +16141,7 @@ Scalable, secure, cross-device and enterprise-ready team collaboration whiteboar
 
 ![https://miro.com/static/images/share/miro.png?00002](https://miro.com/static/images/share/miro.png?00002)
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 yes I can join the meeting
 
@@ -17344,9 +16203,7 @@ _23-Feb-22 02:01 PM_:
 
 I have a friend joining today's meeting too, but I think she might be a bit late
 
-![https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png](https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png)
-
-UniPuff 🜐🐙
+<h3>UniPuff 🜐🐙 <img src="https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png" width=25 height=25></h3>
 
 GM everybody! As you already may know I'm part of Metagame and I have been very delighted to see that MyMeta has been part of the Consilience Library roadmap. In Metagame we have been trying to focus our efforts into better integratability for MyMeta and providing value to other DAOs who might find it of great use. Given @solsista's remarks during the Proposal Inverter presentation in 0mega on how the MyMeta could be used for something more than just "showing off", I would like to hear some feedback from the rest of you about how MyMeta could best serve the goals of the TE Library project (and later on maybe expand this to proposals). Also in case ou didn't know, MyMeta is being overhauled and the profile now run through Ceramic! This means that you connect to MyMeta directly with your decentralized identity and all data from all other interaction flow right to your MyMeta profile. I have one question for you. Will the library be housed in Notion permanently, or is this a temporary solution? This is imporant becaus Notion is neither open-source, nor web3 integradable and if you wish for suggestions based on profile data to be used seemlessly and securely, Notion would make things difficult. But it is easy to take the whole Notion format and host it in your own platform. Or we could load all Notion data in our own OS? We could do a test run and see! Let me know what your thoughts are! @Mert Ozd @Letty @nic  (edited)
 
@@ -17429,9 +16286,7 @@ thinking out loud...
 
 yes in self-organization the communication must increase - we shall have threads per initiative! and every work area for that matter...
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 and another one: @Mert Ozd @nic @Letty if you know bigger areas within the library initiative you can use help with you could add it in the bright green post it here too:
 
@@ -17442,9 +16297,7 @@ _23-Feb-22 04:30 PM_:
 ok will do
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 or the other way round: what is self-organization? what is it that we're missing that a group of 4 people can self-organize in an asynchronous (due to timezones) manner;
 
@@ -17454,9 +16307,7 @@ _23-Feb-22 04:31 PM_:
 For me I was thinking of just talking about what I want to do, and if people want to join then
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 or the other way round: what is self-organization? what is it that we're missing that a group of 4 people can self-organize in an asynchronous (due to timezones) manner;
 
@@ -17466,9 +16317,7 @@ _23-Feb-22 04:32 PM_:
 
 maybe they can decide that for themselves instead of 0mega having a rule/predetermined structure? But if people want the structure, other groups that have formed can share their structure? 0mega is feeling like its own DAO now
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 yes in self-organization the communication must increase - we shall have threads per initiative! and every work area for that matter...
 
@@ -17478,9 +16327,7 @@ _23-Feb-22 04:33 PM_:
 
 yeah I was thinking about this recently too, I almost wish we had a reddit style conversations exists within context, and knowledge shared isnt lost. but threads in discord disappear if theres lack of activity so knowledge is lost, or it disappears in chat history
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 For me I was thinking of just talking about what I want to do, and if people want to join then  <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
@@ -17491,9 +16338,7 @@ _23-Feb-22 04:33 PM_:
 yes and then you need a little workshop for that group of collaborators, more for them to make progress and keep supporting each other and accountable
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 yes and then you need a little workshop for that group of collaborators, more for them to make progress and keep supporting each other and accountable
 
@@ -17519,9 +16364,7 @@ _23-Feb-22 04:39 PM_:
 
 Maybe I can create a google doc that links to the discord threads where groups talk about their specific work focus? then that can be pinned. (edited)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 what changes when there is a lead?
 
@@ -17537,9 +16380,7 @@ good leaders are great at building cohesion
 _23-Feb-22 04:40 PM_:
 and any supporters are welcome, we still need feedback on those sessions, and once ready, support with scheduling etc.!! <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
-
-Jolly LaMa
+<h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 good leaders are great at building cohesion
 
@@ -17577,9 +16418,7 @@ _23-Feb-22 04:44 PM_:
 re: cohesion I think we need nerve cells to carry information between the minigroups, and a brain that stores information where other cells can refer to (edited)
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 this is the question that drove me to 0mega: how do we move from BDFL to fractal ownership (open question)
 
@@ -17593,9 +16432,7 @@ And then we moved into Plato, Derrida, Foucault, Plato and recently Rawls and Gl
 
 
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 And then we moved into Plato, Derrida, Foucault, Plato and recently Rawls and Glissant... always parameterised by Wilson and Wilber.
 
@@ -17662,9 +16499,7 @@ _23-Feb-22 04:51 PM_:
 
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 !praise @solsista for facilitating today's session. Brought a few friends and they enjoyed your facilitation style v v much  <img src="https://twemoji.maxcdn.com/2/72x72/1f497.png" width=20 height=20>
 
@@ -17675,9 +16510,7 @@ _23-Feb-22 05:02 PM_:
 yes yes yes... and they helped us synthesise from the wisdom of the great wizards and avatars, some tools, practices and archetypes which conform the new game we're playing here!
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 yeah I was thinking about this recently too, I almost wish we had a reddit style conversations exists within context, and knowledge shared isnt lost. but threads in discord disappear if theres lack of activity so knowledge is lost, or it disappears in chat history
 
@@ -17695,9 +16528,7 @@ and share that
 
 but maybe teaming up and some 0mega OG can guide me thru
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 and share that
 
@@ -17724,9 +16555,7 @@ Reggie watts at his best
 
 
 
-![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
-
-Jolly LaMa
+<h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 on: increasing context; the multidisciplinary life; saying that which cannot be said; and the power of inspiration
 
@@ -17748,8 +16577,6 @@ As children know, sometimes boxes are very difficult to get out of. Why is it an
 
 I think that's important to realize. **Every person in the world around you is really good at something**. You know what I mean? So if this is the sample-- you know, here in this situation-- it's kind of a special situation-- but if you go out in the world, all around you, constantly, there are amazing people. And you'll never know, unless they have a badge on. **But you'll never know unless you ask them.**
 
-(edited)
-
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -17765,9 +16592,7 @@ because what he was interested in was something I was looking for ... and then I
 
 but then we were quite synched up
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 actually MyMeta profiles and badges are a tooling we can make use of + asking of course
 
@@ -17786,9 +16611,7 @@ _24-Feb-22 02:13 AM_:
 totally! where does one get the energy to do 2am sessions if they weren't energized by devouring insights :))
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 totally! where does one get the energy to do 2am sessions if they weren't energized by devouring insights :))
 
@@ -17820,9 +16643,7 @@ Governance Co-evolution: “Self-sovereign individuals govern well together” -
 
 [https://lh6.googleusercontent.com/yPahz2WMLvYHKFN55Q_xnEIpyGygsXmkPfgmnVExfazQN26bi1U76PowzpqG79JEbXv9UB48F1ZHsQ=w1200-h630-p](https://lh6.googleusercontent.com/yPahz2WMLvYHKFN55Q_xnEIpyGygsXmkPfgmnVExfazQN26bi1U76PowzpqG79JEbXv9UB48F1ZHsQ=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 We can discuss it with @UniPuff 🜐🐙 ..perhaps it will be the next stage of the library learning groups...instead of just a link to your project inside the group, it can be a mymeta profile
 
@@ -17839,9 +16660,7 @@ Proposal title TE Consilience Library TL;DR This initiative of the Working Group
 [https://lh6.googleusercontent.com/fvQL3I9e1Rko8XHcCPH4JRxOCT5hFPMJZEhyue6YruMHRuazTrSnmTYxc5rGS6nAl83eJ-os1ZTv9g=w1200-h630-p](https://lh6.googleusercontent.com/fvQL3I9e1Rko8XHcCPH4JRxOCT5hFPMJZEhyue6YruMHRuazTrSnmTYxc5rGS6nAl83eJ-os1ZTv9g=w1200-h630-p)
 
 
-![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
-
-Jolly LaMa
+<h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 on: increasing context; the multidisciplinary life; saying that which cannot be said; and the power of inspiration
 
@@ -17907,9 +16726,7 @@ I think we should have @durgadasand others who are good at this have "complexity
 
 and we'll have TE trouble makers like myself who won't let anyone settle for the simple straight "solution" but encourage to search inside fo the ingenuity that every human posesses (even if those trouble makers still have themselves trouble to to articulate what the alternative is , we can point away from the simple repetitive transactional receipes that end up in the same mess over and over - only faster now) (edited)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 this is a good one
 
@@ -17938,9 +16755,7 @@ Ethics and morality are often used to mean the same thing. Should they be?
 
 ![https://cdn.britannica.com/80/191980-131-AC0F1C4B/stones-boulder-top.jpg](https://cdn.britannica.com/80/191980-131-AC0F1C4B/stones-boulder-top.jpg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 also from the course
 
@@ -17997,9 +16812,7 @@ _24-Feb-22 05:32 AM_:
 
 ok, here comes: a different proposal (or an addendum, but this would be entirely independent tbh) for TE Ethics Initiative: (exactly like a gitcoin grant) with just a multisig wallet address that accept continuous streams ot TEC tokens that goes to fund participation in TE Ethics participatory action research, which includes onboarding with complexity tolerance coaches (remember we need to get down to the mental models) , enables informed participation (living library and peer learning process), when you flow through these processes TEC flows to you; we'll ask for small experience write ups how you deal with TE ethical concerns, and how the process here helps you deal with these... the continuous stream of TEC might also be a constant reminder of TE Ethics ...
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 ok, here comes: a different proposal (or an addendum, but this would be entirely independent tbh) for TE Ethics Initiative: (exactly like a gitcoin grant) with just a multisig wallet address that accept continuous streams ot TEC tokens that goes to fund participation in TE Ethics participatory action research, which includes onboarding with complexity tolerance coaches (remember we need to get down to the mental models) , enables informed participation (living library and peer learning process), when you flow through these processes TEC flows to you; we'll ask for small experience write ups how you deal with TE ethical concerns, and how the process here helps you deal with these... the continuous stream of TEC might also be a constant reminder of TE Ethics ...
 
@@ -18016,9 +16829,7 @@ The 3 major components of the Superfluid framework
 ![https://app.gitbook.com/share/space/thumbnail/-MKEcOOf_qoYMObicyRu.png?color=%2326CB7C&logo=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MKEcOOf_qoYMObicyRu%252Favatar-1603361891616.png%3Fgeneration%3D1603361891914799%26alt%3Dmedia&theme=light](https://app.gitbook.com/share/space/thumbnail/-MKEcOOf_qoYMObicyRu.png?color=%2326CB7C&logo=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MKEcOOf_qoYMObicyRu%252Favatar-1603361891616.png%3Fgeneration%3D1603361891914799%26alt%3Dmedia&theme=light)
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 ok, here comes: a different proposal (or an addendum, but this would be entirely independent tbh) for TE Ethics Initiative: (exactly like a gitcoin grant) with just a multisig wallet address that accept continuous streams ot TEC tokens that goes to fund participation in TE Ethics participatory action research, which includes onboarding with complexity tolerance coaches (remember we need to get down to the mental models) , enables informed participation (living library and peer learning process), when you flow through these processes TEC flows to you; we'll ask for small experience write ups how you deal with TE ethical concerns, and how the process here helps you deal with these... the continuous stream of TEC might also be a constant reminder of TE Ethics ...
 
@@ -18094,9 +16905,7 @@ or... "the primordial question" <img src="https://twemoji.maxcdn.com/2/72x72/1f6
 _24-Feb-22 06:43 AM_:
 just 10 Mio it's a bargain! <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 I hope dynamic energy budget won't demand us to get quantum mechanics, and deep dive into biology  it will be more of an inspiration to question our assumptions about funding knowledge synthesis in TE and TE Ethics... as a starting point to make a case, for more suitable alternatives then competitive, trickle down economics... <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
@@ -18106,9 +16915,7 @@ _24-Feb-22 06:43 AM_:
 
 100% agreed - I like yesterday's approach, Wilson and Houston will help us more readily.
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 just 10 Mio it's a bargain!  <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
@@ -18128,9 +16935,7 @@ if human communication was that easily decypherable...
 
 ![https://cdn.discordapp.com/attachments/810180622634844202/946372805589630976/The-correspondence-problem-in-human-computer-communication-The-speaker-encodes-the.png](https://cdn.discordapp.com/attachments/810180622634844202/946372805589630976/The-correspondence-problem-in-human-computer-communication-The-speaker-encodes-the.png)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 I hope dynamic energy budget won't demand us to get quantum mechanics, and deep dive into biology  it will be more of an inspiration to question our assumptions about funding knowledge synthesis in TE and TE Ethics... as a starting point to make a case, for more suitable alternatives then competitive, trickle down economics... <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
@@ -18159,9 +16964,7 @@ _24-Feb-22 06:53 AM_:
 
 In the words of Ghandi, the ‘means are the ends
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 I hope dynamic energy budget won't demand us to get quantum mechanics, and deep dive into biology  it will be more of an inspiration to question our assumptions about funding knowledge synthesis in TE and TE Ethics... as a starting point to make a case, for more suitable alternatives then competitive, trickle down economics... <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
@@ -18178,9 +16981,7 @@ _24-Feb-22 10:02 AM_:
 
 gm everyone!
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 this is a good one
 
@@ -18218,9 +17019,7 @@ Designing a Regenerative Commons with the power of cadCAD.
 
 ![https://sim.commonsstack.org/simulator.jpg](https://sim.commonsstack.org/simulator.jpg)
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 0mega making signal out of noise pulling the chaotic to the simple action plan Learning The Language of the Invisible Economy let's begin to learn the songs of hypercontextualization So that we can dance the protocols of the cultural build.
 
@@ -18248,9 +17047,7 @@ you go in one side
 
 come out the other
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 which few days ago played with the Commons Sim
 
@@ -18387,9 +17184,7 @@ anyways we within our group have this commons understanding
 
 in which we sample each other work
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 [https://youtu.be/CXERSTM_sEI](https://youtu.be/CXERSTM_sEI)
 
@@ -18405,9 +17200,7 @@ for another project I work on... this got me back here actually with those quest
 
 what token engineering effectively can do is "retooling the motivations that underlie decision-making" - we can't "make people do things" nor are we legit to think we can - but we can retool the motivations... mind and mental models being the most effective tools enable systems change
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 more over I have my own group called Infinite Imaginarium, *The Imaginarium is a place(inside your mind), to dream up a New Web3 Story for Humanity. Web3 is a countercultural swarm. A fork in Mindset; open <-> decentralized <-> connective.*
 
@@ -18446,9 +17239,7 @@ Proposal title TE Consilience Library TL;DR This initiative of the Working Group
 
 1
 
-![https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png](https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png)
-
-MargaritaDave
+<h3>MargaritaDave <img src="https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png" width=25 height=25></h3>
 
 I wanted to propose something for the Library. Not sure if this injects to much structure but to me it seems we need to develop a method of categorizing potential library submissions. I put the cryptoflower into a matrix so we could label any submissions bases on what disciplines the article submitter believed the article is related to. I also added an example of how we might apply this to the google doc
 
@@ -18558,9 +17349,7 @@ we have a erc-20 token, liquidity pool on uniswap
 
 he has expressed interesting in forming some kind of Minds DAO
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 i have so many ideas on how our token system has impacted our community on minds
 
@@ -18625,9 +17414,7 @@ Open Content & Creativity with eclipsingbinary This is the "creative" version, i
 
 
 
-![https://cdn.discordapp.com/avatars/600781995811012620/8a23b2ad7c8523412a90604314d59b56.png](https://cdn.discordapp.com/avatars/600781995811012620/8a23b2ad7c8523412a90604314d59b56.png)
-
-Eclipsingbinary
+<h3>Eclipsingbinary <img src="https://cdn.discordapp.com/avatars/600781995811012620/8a23b2ad7c8523412a90604314d59b56.png" width=25 height=25></h3>
 
 Hey‍♂️ New here, thanks to @SatoriD and imaginarium. Minds underground music maker. Hoping to intake the info and humbly learn and dream with you all the possibilities and put them to some music. Lots to read here so I'll get to it. Much love <img src="https://twemoji.maxcdn.com/2/72x72/1f64b.png" width=20 height=20>
 
@@ -18644,9 +17431,7 @@ STEAM > STEM ❤️
 completing the art in the Transdisciplinary Art of Token Engineering
 
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 so I made a very rough 'Cheat Sheet' that I will be giving to my imaginarium friends, so they can perhaps navigate with this ecosystem
 
@@ -18658,9 +17443,7 @@ _25-Feb-22 04:22 AM_:
 one comment: would be great if you added why you picked up these excerpts, i.e. a bit of decoder annotation to your worldview/perspective... let's see if others pick up other signals.. and why
 
 
-![https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png](https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png)
-
-MargaritaDave
+<h3>MargaritaDave <img src="https://cdn.discordapp.com/avatars/813280635132575764/d0091886b2cbefc3d7c37ce08e80e0d3.png" width=25 height=25></h3>
 
 I wanted to propose something for the Library. Not sure if this injects to much structure but to me it seems we need to develop a method of categorizing potential library submissions. I put the cryptoflower into a matrix so we could label any submissions bases on what disciplines the article submitter believed the article is related to. I also added an example of how we might apply this to the google doc
 
@@ -18674,9 +17457,7 @@ _25-Feb-22 04:47 AM_:
 
 I moved the section up, so people can read/consider before adding curations now... @Letty would this document be our 0mega consilience? that we encourage people active here to add (all the links that have been shared...), then it also becomes an example for better explaining/structuring the Notion prototype @Mert Ozd ... now, could/should we have a MyMeta prototype in there as well? @UniPuff 🜐🐙 can you add a section Curator Profiles that has properties that could also be provided by MyMeta? Think of this doc, as something like a "paper prototype" where we jam
 
-![https://cdn.discordapp.com/avatars/600781995811012620/8a23b2ad7c8523412a90604314d59b56.png](https://cdn.discordapp.com/avatars/600781995811012620/8a23b2ad7c8523412a90604314d59b56.png)
-
-Eclipsingbinary
+<h3>Eclipsingbinary <img src="https://cdn.discordapp.com/avatars/600781995811012620/8a23b2ad7c8523412a90604314d59b56.png" width=25 height=25></h3>
 
 Hey‍♂️ New here, thanks to @SatoriD and imaginarium. Minds underground music maker. Hoping to intake the info and humbly learn and dream with you all the possibilities and put them to some music. Lots to read here so I'll get to it. Much love <img src="https://twemoji.maxcdn.com/2/72x72/1f64b.png" width=20 height=20>
 
@@ -18686,9 +17467,7 @@ _25-Feb-22 04:53 AM_:
 so one aspect is that TE Consiliencers share in their curation an "annotation" what helped them understand TE a little bit better or make sense, the rabbit holes can be very transformative sometimes, and some of the books, articles, or talk of another TE captures your entire attention for weeks, and sometime later (maybe next day, maybe a year later) ... I hope there'll be some inspirations for you to synthesize your music in
 
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 I want to intro @Eclipsingbinary because the project 'The Minds Underground' is to share these shows I did about our lil decentralized creative community on minds, this video is a year ago I believe, It was eclipse's first show on The MindsGaming Show and that the first time we collab and I had this feeling that he would find some rhythm within our group Infinite Imaginarium and we been doing collabs ever since. it was posted only on the Imaginarium and never share outside the community. Here's our first time vibing
 
@@ -18747,8 +17526,6 @@ to give a <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 heigh
 
 here <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-(edited)
-
 ![https://cdn.discordapp.com/attachments/810180622634844202/946731282228977684/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/946731282228977684/unknown.png)
 
 
@@ -18765,17 +17542,13 @@ Finding unity in diversity requires generating your own vision, action plan, sel
 
 here, I also took the liberty to "analyze" the people who started this group a bit deeper, please correct me if I overstepped @durgadas @Letty I asked Fabian in telegram the same <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-(edited)
-
 Google Docs - create and edit documents online, for free.
 
 Create a new document and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Docs to edit Word files. Free from Google.
 
 but the comparison of all the experiences helped to synthesize the above insight, I also added some tips, let me know if you find those useful @stef @MargaritaDave or would already add more after your reflections
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 I want to intro @Eclipsingbinary because the project 'The Minds Underground' is to share these shows I did about our lil decentralized creative community on minds, this video is a year ago I believe, It was eclipse's first show on The MindsGaming Show and that the first time we collab and I had this feeling that he would find some rhythm within our group Infinite Imaginarium and we been doing collabs ever since. it was posted only on the Imaginarium and never share outside the community. Here's our first time vibing
 
@@ -18788,9 +17561,7 @@ _25-Feb-22 07:59 AM_:
 I remeber thi. I was so nervous hahaha. You welcomed me and opened the doors to the creative and inspiring side of minds that breaks through there. thanks brother
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 so one aspect is that TE Consiliencers share in their curation an "annotation" what helped them understand TE a little bit better or make sense, the rabbit holes can be very transformative sometimes, and some of the books, articles, or talk of another TE captures your entire attention for weeks, and sometime later (maybe next day, maybe a year later) ... I hope there'll be some inspirations for you to synthesize your music in  <img src="https://twemoji.maxcdn.com/2/72x72/1f63b.png" width=20 height=20>
 
@@ -18807,9 +17578,7 @@ _25-Feb-22 08:21 AM_:
 
 Gm @solsista , I would like to conduct that process. Since I am asslnged for scrum participation, it will be kind of inappropriate to somebody to spend time on those issues.
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
-
-Mert Ozd
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 Gm @solsista , I would like to conduct that process. Since I am asslnged for scrum participation, it will be kind of inappropriate to somebody to spend time on those issues.
 
@@ -18847,9 +17616,7 @@ Sheet1 Guidelines for selection: 1. Must be local, have history of working in Uk
 
 I am considering writing a text to motivate mobilization and awareness by exploring the issue of how DAOs could act as financial asylum and a means of providing solidarity and whether they could even act as political pressure against arbitrary power moves. Is anybody willing to contribute?
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 @SatoriD I believe you are the poet we've been waiting for: have a look in the Manifesto we have something that is something like a poem, feel free to dance with and transform it - there's also a link to the recording of that session (it was a very serene one, so we want to preserve it in the form os a poem)
 
@@ -18881,9 +17648,7 @@ connectivity, greek omega symbol connects to 0
 
 one is the noise, two resonating creates the complete oneness
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 also way back in 2018 what emerged was our The Preamble: We The Imaginarium (A Poetic Vision Statement)
 
@@ -18895,9 +17660,7 @@ _25-Feb-22 12:42 PM_:
 
 That preamble video production/mantra is mind-blowing! It really grooves with the imaginal Omega's poetic language
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 connectivity, greek omega symbol connects to 0
 
@@ -18949,9 +17712,7 @@ I don't why but I really like the everywhen
 
 the circular rhythm, at times is good for the felt experience of *reality is a loop*
 
-![https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png](https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png)
-
-UniPuff 🜐🐙
+<h3>UniPuff 🜐🐙 <img src="https://cdn.discordapp.com/avatars/783706133822570529/35d13a3b59ac3d726cf0f4aedb867fb2.png" width=25 height=25></h3>
 
 Hey people! As you may know, the situation with Ukraine is escalating. From the perspective of my situation at least I can't afford to stay idle. An attempt is being made to raise funds for humanitarian aid in Ukraine by Unchain DAO
 
@@ -18961,17 +17722,13 @@ and there's another list of Orgs in Ukraine mobilizing and gathering aid.
 
 [https://docs.google.com/spreadsheets/d/1sh7BDxzW7GulFsu4pMjO1AlL4azoyGmphaIneaC53zE/edit#gid=0](https://docs.google.com/spreadsheets/d/1sh7BDxzW7GulFsu4pMjO1AlL4azoyGmphaIneaC53zE/edit#gid=0)
 
-(edited)
-
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _25-Feb-22 05:01 PM_:
 
 thank you for sharing!
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 [https://youtu.be/A-Rm1DsV7GM](https://youtu.be/A-Rm1DsV7GM)
 
@@ -19066,11 +17823,8 @@ _26-Feb-22 01:07 PM_:
 
 I Want To Play More...
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
-solsista
-
-*Click to see original message*
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -19104,9 +17858,7 @@ _27-Feb-22 05:22 PM_:
 Hey just letting you know I won’t be around this week as I’ve got a ton of stuff to sort out irl, so I will see you next week instead. I’ll try get done as much as I can while away, just may not be as quick at replying.
 
 
-![https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png](https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png)
-
-stef
+<h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
 am interested to help with the omega initiative, for admin will need guidance to knowledge resources about getting into specifics of how/what and why of this work. my personal motivation is developing a flow between TE and rezgauche, since here i feel like the dumbest in the room and things are moving from lots of different insights. my limitation towards this in 2022 and first half of 2023 is to be combining this with a fulltime job (that pays for the costs of starting and developing rezgauche.be in brussels)  (edited)
 
@@ -19149,9 +17901,7 @@ Sherpa Library is a community-driven educational program for ohmies.
 
 ![https://cdn-images-1.medium.com/max/1200/1*jMjB9Ib2j1HuBQSqJ73sUA.jpeg](https://cdn-images-1.medium.com/max/1200/1*jMjB9Ib2j1HuBQSqJ73sUA.jpeg)
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 **0mega; A North Star Concept for TEC Commons #Creative Participation of The Whole#**  (edited)
 
@@ -19165,9 +17915,7 @@ with <img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=20 height=20>
 from 0mega
 
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 "Sherpa Library is a DAO-led community project where anyone can participate in planning and producing educational content" reference for cross-pollinating
 
@@ -19234,11 +17982,8 @@ _01-Mar-22 08:32 AM_:
 
 @solsista the energetic flow pattern is slightly emerging from the noise, we got to dance so that we can see and sing
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
-SatoriD
-
-*Click to see original message*
 
 <h3>stef <img src="https://cdn.discordapp.com/avatars/768500015043051550/5c35da66a82cb21ff70d511a2fe2d514.png" width=25 height=25></h3>
 
@@ -19342,9 +18087,7 @@ _02-Mar-22 02:17 PM_:
 
 
 
-![https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png](https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png)
-
-Jeremy&TheGospelOfChange
+<h3>Jeremy&TheGospelOfChange <img src="https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png" width=25 height=25></h3>
 
 [https://docs.google.com/document/d/1hMQooK3POdKbD9jA26wvmiu9ALoQHGTjYa6UF9QGoDQ/edit](https://docs.google.com/document/d/1hMQooK3POdKbD9jA26wvmiu9ALoQHGTjYa6UF9QGoDQ/edit)
 
@@ -19369,11 +18112,8 @@ _02-Mar-22 03:33 PM_:
 
 Creative Participation of The Whole Map
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
-durgadas
-
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -19408,9 +18148,7 @@ the wyrd
 
 how can I find the resonances if I can't find the *source*
 
-![https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png](https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png)
-
-Jeremy&TheGospelOfChange
+<h3>Jeremy&TheGospelOfChange <img src="https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png" width=25 height=25></h3>
 
 "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea." - Antoine de Saint-Exupery, author of The Little Prince
 
@@ -19432,9 +18170,7 @@ it was my *Willful Stubbornness*
 
 that kept me to hold that intrinsic motivations
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 how can I find the resonances if I can't find the *source*
 
@@ -19460,9 +18196,7 @@ ok, i can let go and play
 
 but thats a skillset
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 but thats a skillset
 
@@ -19553,9 +18287,7 @@ OmegaO's - break free Great for breakfast, lunch, & dinner. Even enjoy them duri
 
 make that a bomb video satorid - ill remint it <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f97a.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
-
-Jolly LaMa
+<h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 super top secret meeting minutes  <img src="https://twemoji.maxcdn.com/2/72x72/1f30a.png" width=20 height=20>
 
@@ -19573,15 +18305,11 @@ _03-Mar-22 06:31 AM_:
 
 you can't say it you can't do it until you say it How do we trust in a trustless environment?
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 [https://docs.google.com/document/d/1P5u5e6ENBTwewZqNZ_rAM4tam9BPAP47kHmE6cpdwR0/edit#heading=h.eb5swo7xn7u3](https://docs.google.com/document/d/1P5u5e6ENBTwewZqNZ_rAM4tam9BPAP47kHmE6cpdwR0/edit#heading=h.eb5swo7xn7u3)
 
 here, I also took the liberty to "analyze" the people who started this group a bit deeper, please correct me if I overstepped @durgadas @Letty I asked Fabian in telegram the same <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
-
-(edited)
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -19604,9 +18332,7 @@ _03-Mar-22 09:50 AM_:
 
 oooOOoo @Letty flow with the poetics, sync the energy with the flow of co-creative words
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 Are these Omega's X-files? Cant see.
 
@@ -19677,9 +18403,7 @@ but really we all like to really play with infinite games and we are curious to 
 somehow 0mega and Imaginarium is gonna make something like this a web3 living log
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 can you check again? it's open
 
@@ -19793,9 +18517,7 @@ it's diametrical to artificial intelligence <img src="https://twemoji.maxcdn.com
 
 organic intelligence?
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 "sense-analyse-respond" sounds like pioneering/ crossing the first threshold a la joseph campbell/ jumping across the chasm/exiting platos cave
 
@@ -19809,9 +18531,7 @@ but "analysis" puts it back into something useful.. we need concepts and models 
 
 action in inaction (also still don't quite get)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 so when we say "sense-making" specifically by hosting multiple worldviews, without judging any view for more expansive or less developed ... then we're getting closer to the exit...
 
@@ -19821,9 +18541,7 @@ _03-Mar-22 12:29 PM_:
 
 so sort of like what Ken Wilber says, when the integrative colours do not look down upon the other colours, and is accepting of having been those colours in the past. looking at things from research perspective - open and nonbiased?
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 so sort of like what Ken Wilber says, when the integrative colours do not look down upon the other colours, and is accepting of having been those colours in the past. looking at things from research perspective - open and nonbiased?
 
@@ -19851,9 +18569,7 @@ I will need weeks to assimilate @SatoriD 's fast food for thought delivery ... i
 
 Creative Participation of the Whole – a North Star concept
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 so when we say "sense-making" specifically by hosting multiple worldviews, without judging any view for more expansive or less developed ... then we're getting closer to the exit...
 
@@ -19875,9 +18591,7 @@ _03-Mar-22 12:34 PM_:
 
 
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 I just wrote this in the "working style" doc, it may help: Community building (Who is the “we” and what is the quality of the relational space we create?: Omega as a group who strives to be a north star for the whole TE community in the ethics realm. The relational space we create is organically informed by the latent worldviews/consciousness of their participants and the neighboring spaces they cohabitate with the inherent and intrinsic aspiration to reach higher stages of inner and outer development within TE and beyond.
 
@@ -19890,9 +18604,7 @@ I like the use of north star!! It sounds like **being and living ethics** rather
 ![https://cdn.discordapp.com/attachments/810180622634844202/948997817379209246/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/948997817379209246/unknown.png)
 
 
-![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
-
-Letty
+<h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
 I just wrote this in the "working style" doc, it may help: Community building (Who is the “we” and what is the quality of the relational space we create?: Omega as a group who strives to be a north star for the whole TE community in the ethics realm. The relational space we create is organically informed by the latent worldviews/consciousness of their participants and the neighboring spaces they cohabitate with the inherent and intrinsic aspiration to reach higher stages of inner and outer development within TE and beyond.
 
@@ -19903,9 +18615,7 @@ _03-Mar-22 12:40 PM_:
 "the group should be a north star", sounds a territorial... how about it's purpose, the ethics, the inner game should be the north star?, no matter how hard the situaton seems, we as a group are practitioners testing, improving, providing sense-making, peer learning, practicing opportunities.
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 "the group should be a north star", sounds a territorial... how about it's purpose, the ethics, the inner game should be the north star?, no matter how hard the situaton seems, we as a group are practitioners testing, improving, providing sense-making, peer learning, practicing opportunities.
 
@@ -19940,9 +18650,7 @@ _03-Mar-22 12:49 PM_:
 Omega as a group of practitioners who aspire and strive to be moved and respond to the interplay of ethics/integral frameworks as their north star, providing improvements, sense-making, peer learning and practical opportunities.
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 also I have questions about "community build" or "cultural build" .... all of us being part of many communities, there is no one culture or community... the whole boundaries... is more like membrane? I think you do see the same, since the paragpraph literally ends with "and beyond"  so I agree, what ever it is we are building <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
@@ -19953,9 +18661,7 @@ _03-Mar-22 12:52 PM_:
 yes, for the mind is best to give a time-space concrete reality (TE or web3) and also acknowledge we transcend that: beyond
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 yes (not arguing researchers being unbiased, but more like ) "No human is 100% wrong"
 
@@ -19967,9 +18673,7 @@ No human is 100% right ---> commons (edited)
 
 open ledger --> living log danced by the commons
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 here it is - it is distilled of course, but especially wrt "why am I in 0mega" and "what is the purpose of 0mega" do you feel resonance? have a look:
 
@@ -19980,9 +18684,7 @@ Sensing - probing - resonating <img src="https://twemoji.maxcdn.com/2/72x72/1f4a
 
 Added the AQAL dimensions in the golden ration graphic/Omega shell Plus another very interesting reference/image for the Emergent Learning
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 action in inaction (also still don't quite get)
 
@@ -20028,9 +18730,7 @@ ahh! well that makes sense!
 
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 [https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764520208023130&cot=10](https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764520208023130&cot=10)
 
@@ -20042,9 +18742,7 @@ _03-Mar-22 02:09 PM_:
 
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 [https://cynefin.io/wiki/Exaptive_triggers](https://cynefin.io/wiki/Exaptive_triggers)
 
@@ -20068,9 +18766,7 @@ TEC is the soil
 
 that I couldn't see when this was lasted tried to vibe this (edited)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 here it is - it is distilled of course, but especially wrt "why am I in 0mega" and "what is the purpose of 0mega" do you feel resonance? have a look:
 
@@ -20080,9 +18776,7 @@ _03-Mar-22 02:26 PM_:
 
 I asked for permission to view.
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 only until I realized we have been sensing data from the shadows in the cave...
 
@@ -20095,9 +18789,7 @@ Makes me think of the notion of the Soma. Unified body-mind sensing intelligence
 
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 also I have questions about "community build" or "cultural build" .... all of us being part of many communities, there is no one culture or community... the whole boundaries... is more like membrane? I think you do see the same, since the paragpraph literally ends with "and beyond"  so I agree, what ever it is we are building <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
@@ -20108,9 +18800,7 @@ _03-Mar-22 02:34 PM_:
 I like membrane-- it suggests permeability gated by intelligence.
 
 
-![https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png](https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png)
-
-Gaian
+<h3>Gaian <img src="https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png" width=25 height=25></h3>
 
 Makes me think of the notion of the Soma. Unified body-mind sensing intelligence. Eugene Gendlin called it a "felt sense."
 
@@ -20136,9 +18826,7 @@ to spark connections
 
 for co-creativity
 
-![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
-
-Jolly LaMa
+<h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 योग निद्रा - yoga nidra - In yoga nidra the practitioner remains in a state of light withdrawal of the 5 senses (pratyahara) with four senses internalised, that is, withdrawn, and only hearing still connects to any instructions given.[1] The goals of both yogic paths, yoga nidra and meditation are the same, a state of meditative consciousness called samadhi. it's actually a dimension outside of words. It's the falling monkey feeling - forever. and ever. and ever. and ever ... until resting while falling.
 
@@ -20148,9 +18836,7 @@ _03-Mar-22 03:05 PM_:
 
 wow "it's actually a dimension outside of words. It's the falling monkey feeling - forever. and ever. and ever. and ever ... until resting while falling." thanks for this!
 
-![https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png](https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png)
-
-Gaian
+<h3>Gaian <img src="https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png" width=25 height=25></h3>
 
 Makes me think of the notion of the Soma. Unified body-mind sensing intelligence. Eugene Gendlin called it a "felt sense."
 
@@ -20167,11 +18853,8 @@ actually I stumbled upon this very recently, very randomly.... wait lemme see if
 ![https://cdn.discordapp.com/attachments/810180622634844202/949036464296050728/unknown.png](https://cdn.discordapp.com/attachments/810180622634844202/949036464296050728/unknown.png)
 
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
-SatoriD
-
-*Click to see original message*
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -20179,9 +18862,7 @@ _03-Mar-22 03:14 PM_:
 
 awe inspiring!
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 organic intelligence?
 
@@ -20209,9 +18890,7 @@ as a super power....
 "“Just leaving the rational mind to itself, it will tend to maximize towards efficacy & power, without requiring the wisdom as to what to do with that power.”"
 
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 in web3 we want humans to pick up bounties for fiat tokens, "make them do things"
 
@@ -20275,9 +18954,7 @@ Beautifully done analogy of Plato's, "Allegory of the Cave" depicted in the mode
 
 ![https://i.ytimg.com/vi/p-WWoGOf8fY/sddefault.jpg](https://i.ytimg.com/vi/p-WWoGOf8fY/sddefault.jpg)
 
-![https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png](https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png)
-
-Jolly LaMa
+<h3>Jolly LaMa <img src="https://cdn.discordapp.com/avatars/735090955560157185/84701c09b16e88a3828e4f962f7efd9a.png" width=25 height=25></h3>
 
 [https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764520208023130&cot=10](https://miro.com/app/board/o9J_lCDymUs=/?moveToWidget=3458764520208023130&cot=10)
 
@@ -20369,9 +19046,7 @@ The prejudice against physical work is deeply misguided: when I dance, I embody 
 
 ![https://alpha.aeon.co/images/b4bcf98b-9a99-43dc-84a3-1dd5a6aa5c74/idea_sized-ahmad-odeh-jhqhgfx_wd8-unsplash.jpg](https://alpha.aeon.co/images/b4bcf98b-9a99-43dc-84a3-1dd5a6aa5c74/idea_sized-ahmad-odeh-jhqhgfx_wd8-unsplash.jpg)
 
-![https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png](https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png)
-
-solsista
+<h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 when I read "To do is to be" ... I immediately brought "my series of doing" to an end. Only to realize after turbulent waves to surf... I did not know how to be...
 
@@ -20470,9 +19145,7 @@ _04-Mar-22 12:25 PM_:
 !praise @SatoriD for jazzing the oneness poetics within Omega!
 
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 I started reading A Pattern Language by Christopher Alexander and the intro really called to me. I believe that we can do the same, create a pattern language for Token Engineering Parameters that genuinely solves human problems. We can also use the way each piece of the pattern is presented, in the Ecosystem Value Flows course, the way we structure findings from focus groups/research, and in the structure of the library (eg the problem this petal of the crypto-economic flower solves, how it solves it, how it relates to the other petals of the flower in solving problems). The reason why I believe that we could create a pattern language for TE, is that we are essentially building digital representations of physical structures designed for collectives, so digital cities. I see web3 as an experimentation and exploration, to improve the current physical structures. For example when we look at a pattern like Fruit Trees, maybe it represents a mechanism where people invest time and resources in, but it bears fruit that people can benefit from for a long time, by picking the fruit and eating right away, without a need for cooking(which uses energy), so maybe its digital representation is a mechanism that gives them energy right away, surpassing the need of using money to purchase that which gives them energy. These quotes in particular called to me:  (edited)
 
@@ -20573,9 +19246,7 @@ see imaginarium is for everyone and anyone poetics = imaginarium but satori play
 
 0mega is space to solve core mysteries SatoriD: solved, on to the next cosmic giggle (edited)
 
-![https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png](https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png)
-
-SatoriD
+<h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 0mega is space to solve core mysteries SatoriD: solved, on to the next cosmic giggle  (edited)
 

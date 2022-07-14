@@ -33,11 +33,8 @@ _19-Mar-21 04:00 PM_:
 ![https://cdn.discordapp.com/attachments/810180622165213222/822560054741827635/ds.jpg](https://cdn.discordapp.com/attachments/810180622165213222/822560054741827635/ds.jpg)
 
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
-Zeptimus
-
-*Click to see original message*
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -180,9 +177,7 @@ _23-Mar-21 09:13 AM_:
 @everyone We do meme parties Every Friday! If you have topics that you want Meme'd but can't come to the party, please just say the topic here!
 
 
-![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
-
-griff (💜, 💜)
+<h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
 @everyone We do meme parties Every Friday! If you have topics that you want Meme'd but can't come to the party, please just say the topic here!
 
@@ -330,9 +325,7 @@ Change My Mind
 ![https://i.imgflip.com/53b687.jpg](https://i.imgflip.com/53b687.jpg)
 
 
-![https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png](https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png)
-
-Lauren
+<h3>Lauren <img src="https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png" width=25 height=25></h3>
 
 [https://imgflip.com/gif/53b5lm](https://imgflip.com/gif/53b5lm)
 
@@ -408,9 +401,7 @@ Expanding Brain
 ![https://i.imgflip.com/53b8nw.jpg](https://i.imgflip.com/53b8nw.jpg)
 
 
-![https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png](https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png)
-
-Lauren
+<h3>Lauren <img src="https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/53b8h6](https://imgflip.com/i/53b8h6)
 
@@ -555,9 +546,7 @@ Image tagged in don't shoot
 ![https://i.imgflip.com/5428xy.jpg](https://i.imgflip.com/5428xy.jpg)
 
 
-![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
-
-griff (💜, 💜)
+<h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
 ^^^ need to add some faces here
 
@@ -804,9 +793,7 @@ Confused Math Lady
 
 BTW... this is real
 
-![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
-
-griff (💜, 💜)
+<h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
 [https://imgflip.com/gif/546q6m](https://imgflip.com/gif/546q6m)
 
@@ -982,9 +969,7 @@ _02-Apr-21 04:33 PM_:
 
 
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/546spp](https://imgflip.com/i/546spp)
 
@@ -1206,11 +1191,8 @@ _02-Apr-21 04:59 PM_:
 
 hahahaha
 
-![https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png](https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png)
+<h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
-Juankbell
-
-*Click to see original message*
 
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
@@ -1293,11 +1275,8 @@ _02-Apr-21 05:19 PM_:
 
 
 
-![https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png](https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png)
+<h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
-Kris
-
-*Click to see original message*
 
 <h3>JessicaZartler <img src="https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png" width=25 height=25></h3>
 
@@ -1306,9 +1285,7 @@ _03-Apr-21 11:53 AM_:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
-![https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png](https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png)
-
-JessicaZartler
+<h3>JessicaZartler <img src="https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png" width=25 height=25></h3>
 
 @Kris do you have a link for this one? Have some other ideas 
 
@@ -1383,15 +1360,11 @@ _06-Apr-21 03:23 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622165213222/829073945536757791/54lzqt.jpg](https://cdn.discordapp.com/attachments/810180622165213222/829073945536757791/54lzqt.jpg)
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 ***disclaimer** - This site has a large amount of swearing, however this really touches on points like non-inclusive sites that are incompatible and have large load times:
 
 [https://motherfuckingwebsite.com/](https://motherfuckingwebsite.com/)
-
-(edited)
 
 <h3>markop <img src="https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png" width=25 height=25></h3>
 
@@ -1611,9 +1584,7 @@ _09-Apr-21 04:33 PM_:
 
 
 
-![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
-
-griff (💜, 💜)
+<h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/55181u](https://imgflip.com/i/55181u)
 
@@ -1656,11 +1627,8 @@ _09-Apr-21 04:45 PM_:
 
 
 
-![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
+<h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
-Zeptimus
-
-*Click to see original message*
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -1686,11 +1654,8 @@ _09-Apr-21 05:08 PM_:
 ![https://cdn.discordapp.com/attachments/810180622165213222/830187510226223104/Tea_GIF-downsized.gif](https://cdn.discordapp.com/attachments/810180622165213222/830187510226223104/Tea_GIF-downsized.gif)
 
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
-Vyvy-vi
-
-*Click to see original message*
 
 <h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
@@ -1965,9 +1930,7 @@ _16-Apr-21 05:22 PM_:
 
 
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/55zp0o](https://imgflip.com/i/55zp0o)
 
@@ -1981,9 +1944,7 @@ I declare the winner !!
 ![https://twemoji.maxcdn.com/2/72x72/1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f3fd.png)
 
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/55zec2](https://imgflip.com/i/55zec2)
 
@@ -2334,11 +2295,8 @@ Sad Pablo Escobar
 
 
 
-![https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png](https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png)
+<h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
-Juankbell
-
-*Click to see original message*
 
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
@@ -2557,9 +2515,7 @@ _30-Apr-21 04:17 PM_:
 ![https://cdn.discordapp.com/attachments/810180622165213222/837784650776444978/download-1.jpg](https://cdn.discordapp.com/attachments/810180622165213222/837784650776444978/download-1.jpg)
 
 
-![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
-
-griff (💜, 💜)
+<h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/55zlpm](https://imgflip.com/i/55zlpm)
 
@@ -2877,9 +2833,7 @@ Image tagged in canadian parliament
 
 1
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 oh no :(
 
@@ -2891,9 +2845,7 @@ it was so good to
 
 free the nipple
 
-![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
-
-mitch (🍔, 🍔)
+<h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
 it was so good to
 
@@ -3218,9 +3170,7 @@ _07-May-21 04:43 PM_:
 
 
 
-![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
-
-griff (💜, 💜)
+<h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/58p9co](https://imgflip.com/i/58p9co)
 
@@ -3329,9 +3279,7 @@ American Chopper Argument
 
 (Fork it vs Fork you... your tweet your choice)
 
-![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
-
-griff (💜, 💜)
+<h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/58p9co](https://imgflip.com/i/58p9co)
 
@@ -3502,8 +3450,6 @@ Twitter • 10-May-21 11:28 AM
 _10-May-21 05:26 PM_:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
-
-(edited)
 
 ![https://cdn.discordapp.com/attachments/810180622165213222/841425898031808522/8-GIF-original-_1_.gif](https://cdn.discordapp.com/attachments/810180622165213222/841425898031808522/8-GIF-original-_1_.gif)
 
@@ -4096,9 +4042,7 @@ Magic 8 ball
 ![https://i.imgflip.com/5ao35x.jpg](https://i.imgflip.com/5ao35x.jpg)
 
 
-![https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png](https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png)
-
-Lauren
+<h3>Lauren <img src="https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/5ao35x](https://imgflip.com/i/5ao35x)
 
@@ -4125,9 +4069,7 @@ They're The Same Picture
 
 1
 
-![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
-
-griff (💜, 💜)
+<h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/5ah7zd](https://imgflip.com/i/5ah7zd)
 
@@ -4138,9 +4080,7 @@ _26-May-21 01:10 AM_:
 OMG lol @santteegt
 
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/5aha1a](https://imgflip.com/i/5aha1a)
 
@@ -4151,9 +4091,7 @@ _26-May-21 01:12 AM_:
 @Lauren @griff (💜, 💜) "Sounds like a good business model".
 
 
-![https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png](https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png)
-
-Lauren
+<h3>Lauren <img src="https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/5ani7o](https://imgflip.com/i/5ani7o)
 
@@ -4276,9 +4214,7 @@ _27-May-21 02:44 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622165213222/847547614429446144/giphy-_31_.gif](https://cdn.discordapp.com/attachments/810180622165213222/847547614429446144/giphy-_31_.gif)
 
-![https://cdn.discordapp.com/avatars/392867630891139093/a_ee5be3293a914335edb0f850808d8456.gif](https://cdn.discordapp.com/avatars/392867630891139093/a_ee5be3293a914335edb0f850808d8456.gif)
-
-tonga 27-May-21 10:34 PM
+<h3>tonga 27-May-21 10:34 PM <img src="https://cdn.discordapp.com/avatars/392867630891139093/a_ee5be3293a914335edb0f850808d8456.gif" width=25 height=25></h3>
 
 uff
 
@@ -4862,9 +4798,7 @@ _04-Jun-21 05:14 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622165213222/850482627408297984/jesus.png](https://cdn.discordapp.com/attachments/810180622165213222/850482627408297984/jesus.png)
 
-![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
-
-griff (💜, 💜)
+<h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
 !praise @KZ Flyer for the ROCKING memes pre-meme party!!
 
@@ -5060,11 +4994,8 @@ _11-Jun-21 04:26 PM_:
 ![https://cdn.discordapp.com/attachments/810180622165213222/853007186002444318/the_office.png](https://cdn.discordapp.com/attachments/810180622165213222/853007186002444318/the_office.png)
 
 
-![https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png](https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png)
+<h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
-Kris
-
-*Click to see original message*
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -5221,11 +5152,8 @@ _17-Jun-21 02:40 PM_:
 ![https://cdn.discordapp.com/attachments/810180622165213222/855154941928407060/Praise_love.jpeg](https://cdn.discordapp.com/attachments/810180622165213222/855154941928407060/Praise_love.jpeg)
 
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
-Vyvy-vi
-
-*Click to see original message*
 
 <h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
@@ -5405,11 +5333,8 @@ They're The Same Picture
 
 ![https://i.imgflip.com/5dyw2t.jpg](https://i.imgflip.com/5dyw2t.jpg)
 
-![https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png](https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png)
+<h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
-Kris
-
-*Click to see original message*
 
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
@@ -5514,9 +5439,7 @@ Image tagged in no thanks
 
 3
 
-![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
-
-mitch (🍔, 🍔)
+<h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/5ds0of](https://imgflip.com/i/5ds0of)
 
@@ -5582,9 +5505,7 @@ _02-Jul-21 04:57 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622165213222/860625353109405766/Proposals_GIF-downsized_large.gif](https://cdn.discordapp.com/attachments/810180622165213222/860625353109405766/Proposals_GIF-downsized_large.gif)
 
-![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
-
-griff (💜, 💜)
+<h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/541sa1](https://imgflip.com/i/541sa1)
 
@@ -5662,9 +5583,7 @@ _19-Jul-21 11:15 AM_:
 ![https://cdn.discordapp.com/attachments/810180622165213222/866699763431637012/what-is-my-purpose.jpeg](https://cdn.discordapp.com/attachments/810180622165213222/866699763431637012/what-is-my-purpose.jpeg)
 
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 (from the conversation during Praise-Audit, about Griff getting a van)
 
@@ -5755,9 +5674,7 @@ _30-Jul-21 04:20 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622165213222/870762731492503572/TEC_Hatch.png](https://cdn.discordapp.com/attachments/810180622165213222/870762731492503572/TEC_Hatch.png)
 
-![https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png](https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png)
-
-mateodaza
+<h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
 we missed the 69,420 WXDAI, but I'll say 'nice' anyway nice.
 
@@ -5886,11 +5803,8 @@ _30-Jul-21 05:00 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622165213222/870774037708681217/The_Hatch_Signal.png](https://cdn.discordapp.com/attachments/810180622165213222/870774037708681217/The_Hatch_Signal.png)
 
-![https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png](https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png)
+<h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
-Kris
-
-*Click to see original message*
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -5898,9 +5812,7 @@ _30-Jul-21 05:06 PM_:
 
 hahaha yes!!
 
-![https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png](https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png)
-
-mateodaza
+<h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
 hahaha yes!!
 
@@ -6390,9 +6302,7 @@ _10-Aug-21 10:58 AM_:
 
 CHUY YES!
 
-![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
-
-griff (💜, 💜)
+<h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/5itkux](https://imgflip.com/i/5itkux)
 
@@ -6641,9 +6551,7 @@ Why Can't I Hold All These Limes
 
 
 
-![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
-
-mitch (🍔, 🍔)
+<h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/5jop8g](https://imgflip.com/i/5jop8g)
 
@@ -6684,9 +6592,7 @@ Imgflip
 
 1
 
-![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
-
-mitch (🍔, 🍔)
+<h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/5kb5io](https://imgflip.com/i/5kb5io)
 
@@ -6993,9 +6899,7 @@ _10-Sep-21 04:43 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622165213222/885988765036867614/ggs.png](https://cdn.discordapp.com/attachments/810180622165213222/885988765036867614/ggs.png)
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/5mk9rf](https://imgflip.com/i/5mk9rf)
 
@@ -7123,9 +7027,7 @@ _10-Sep-21 05:17 PM_:
 ![https://cdn.discordapp.com/attachments/810180622165213222/885997367541776394/powerpuff_TEC.png](https://cdn.discordapp.com/attachments/810180622165213222/885997367541776394/powerpuff_TEC.png)
 
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/5mkefv](https://imgflip.com/i/5mkefv)
 
@@ -7135,11 +7037,8 @@ _10-Sep-21 05:17 PM_:
 
 for context, most of our bots use discord.py, which is getting archived and will become deprecated soon (ref: [https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1))
 
-![https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png](https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png)
+<h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
-Kris
-
-*Click to see original message*
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -7151,9 +7050,7 @@ That could be a cool TEC intro
 
 
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 for context, most of our bots use discord.py, which is getting archived and will become deprecated soon (ref:
 
@@ -7167,9 +7064,7 @@ _10-Sep-21 05:19 PM_:
 
 oh man, that is some context for sure lol! And yes, we should start planning for this
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
  That could be a cool TEC intro
 
@@ -7198,9 +7093,7 @@ Image tagged in ark of the covenant
 
 @Caeser (PST) @liviade
 
-![https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png](https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png)
-
-Kris
+<h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
 oh man, that is some context for sure lol! And yes, we should start planning for this
 
@@ -7393,11 +7286,8 @@ _24-Sep-21 05:15 PM_:
 
 
 
-![https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png](https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png)
+<h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
-Kris
-
-*Click to see original message*
 
 <h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
@@ -7428,11 +7318,8 @@ you are a photopea wizard sir. Amazing fades! (edited)
 
 
 
-![https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png](https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png)
+<h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
-Kris
-
-*Click to see original message*
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -7968,11 +7855,8 @@ Thanks so much for all the memes!!!
 ![https://twemoji.maxcdn.com/2/72x72/1f3fc.png](https://twemoji.maxcdn.com/2/72x72/1f3fc.png)
 
 
-![https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png](https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png)
+<h3>Kris <img src="https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png" width=25 height=25></h3>
 
-Kris
-
-*Click to see original message*
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -8290,9 +8174,7 @@ Money
 ![https://i.imgflip.com/5rg7nl.jpg](https://i.imgflip.com/5rg7nl.jpg)
 
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/5rg6ty](https://imgflip.com/i/5rg6ty)
 
@@ -8426,9 +8308,7 @@ The Scroll Of Truth
 
 1
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/5rgaln](https://imgflip.com/i/5rgaln)
 
@@ -8443,9 +8323,7 @@ Futurama Fry
 ![https://i.imgflip.com/5rgax7.jpg](https://i.imgflip.com/5rgax7.jpg)
 
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 After reading the Forum Posts and going through the dashboard
 
@@ -8635,9 +8513,7 @@ girl with hands up
 
 ![https://i.imgflip.com/5sv6vy.jpg](https://i.imgflip.com/5sv6vy.jpg)
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/5sv6vy](https://imgflip.com/i/5sv6vy)
 
@@ -8647,9 +8523,7 @@ _03-Nov-21 04:06 PM_:
 
 credits to @liviade and @kristofer for making this association! (What if... there was a way to verify people as "people", using the fact that they have been praised over at the TEC?)
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 credits to @liviade and @kristofer for making this association! (What if... there was a way to verify people as "people", using the fact that they have been praised over at the TEC?)
 
@@ -8659,9 +8533,7 @@ _03-Nov-21 04:10 PM_:
 
 Yeah, that is super interesting!
 
-![https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png](https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png)
-
-Mount Manu
+<h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
 Credit goes to @acidlazzer for unearthing this gem
 
@@ -8672,9 +8544,7 @@ this is very relatable
 
 ![https://twemoji.maxcdn.com/2/72x72/1f602.png](https://twemoji.maxcdn.com/2/72x72/1f602.png)
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 credits to @liviade and @kristofer for making this association! (What if... there was a way to verify people as "people", using the fact that they have been praised over at the TEC?)
 
@@ -8685,9 +8555,7 @@ _03-Nov-21 04:18 PM_:
 Hahaha you’re so quick!!! Love the meme
 
 
-![https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png](https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png)
-
-Mount Manu
+<h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
 Credit goes to @acidlazzer for unearthing this gem
 
@@ -8701,9 +8569,7 @@ _03-Nov-21 04:27 PM_:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f606.png](https://twemoji.maxcdn.com/2/72x72/1f606.png)
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 credits to @liviade and @kristofer for making this association! (What if... there was a way to verify people as "people", using the fact that they have been praised over at the TEC?)
 
@@ -8722,9 +8588,7 @@ I dreamt with this meme and i had to wake up to do it
 
 
 
-![https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png](https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png)
-
-Juankbell
+<h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
 Proof of token engineering? (like proof of humanity) 
 
@@ -8820,9 +8684,7 @@ Sad wolverine left out of party
 ![https://i.imgflip.com/5t45nu.jpg](https://i.imgflip.com/5t45nu.jpg)
 
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/5t45fv](https://imgflip.com/i/5t45fv)
 
@@ -8898,9 +8760,7 @@ elmo cocaine
 
 ![https://i.imgflip.com/5t47qi.jpg](https://i.imgflip.com/5t47qi.jpg)
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/5t47qi](https://imgflip.com/i/5t47qi)
 
@@ -9130,9 +8990,7 @@ i saw this one in the twitter planning, i think its from @ZER8🧠 or @chuygarci
 ![https://cdn.discordapp.com/attachments/810180622165213222/915282877447544852/5vywjf.jpeg](https://cdn.discordapp.com/attachments/810180622165213222/915282877447544852/5vywjf.jpeg)
 
 
-![https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png](https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png)
-
-Juankbell
+<h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
  i saw this one in the twitter planning, i think its from @ZER8🧠 or @chuygarcia.eth  (edited)
 
@@ -9169,8 +9027,6 @@ _06-Dec-21 03:01 PM_:
 #84 @liviade @mitch (🍔, 🍔) @Juankbell
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
-
-(edited)
 
 ![https://cdn.discordapp.com/attachments/810180622165213222/917506116336881764/7bb2b7fca3e3f959747c580286668aa470c9ed2547d07c6bc45da49a01381246._RI_V_TTW_-01.png](https://cdn.discordapp.com/attachments/810180622165213222/917506116336881764/7bb2b7fca3e3f959747c580286668aa470c9ed2547d07c6bc45da49a01381246._RI_V_TTW_-01.png)
 
@@ -9224,9 +9080,7 @@ would love to see some onboardooooor forks
 ![https://cdn.discordapp.com/attachments/810180622165213222/918673449549983814/onboardooor.jpg](https://cdn.discordapp.com/attachments/810180622165213222/918673449549983814/onboardooor.jpg)
 
 
-![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
-
-Tam2140
+<h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 With all the praise and accolades this Sprint, it sure is feeling a lot like the season of the @mitch (🍔, 🍔) 
 
@@ -9595,9 +9449,7 @@ _07-Jan-22 04:04 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622165213222/929118277534380154/before-after-voting.png](https://cdn.discordapp.com/attachments/810180622165213222/929118277534380154/before-after-voting.png)
 
-![https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png](https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png)
-
-chuygarcia.eth
+<h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/60fgsp](https://imgflip.com/i/60fgsp)
 
@@ -9617,9 +9469,7 @@ _07-Jan-22 04:04 PM_:
 
 2
 
-![https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png](https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png)
-
-Juankbell
+<h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
 jajajajajaja that was me some days ago
 
@@ -9933,11 +9783,8 @@ _07-Jan-22 04:31 PM_:
 ![https://cdn.discordapp.com/attachments/810180622165213222/929125121623482428/Screen_Shot_2022-01-07_at_14.31.17.png](https://cdn.discordapp.com/attachments/810180622165213222/929125121623482428/Screen_Shot_2022-01-07_at_14.31.17.png)
 
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
-durgadas
-
-*Click to see original message*
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -9959,11 +9806,8 @@ Hard To Swallow Pills
 
 1
 
-![https://cdn.discordapp.com/avatars/135294406499631105/acf9eb17ea21508960cda3f3eee38ddc.png](https://cdn.discordapp.com/avatars/135294406499631105/acf9eb17ea21508960cda3f3eee38ddc.png)
+<h3>pab🐝🐙 <img src="https://cdn.discordapp.com/avatars/135294406499631105/acf9eb17ea21508960cda3f3eee38ddc.png" width=25 height=25></h3>
 
-pab🐝🐙
-
-*Click to see original message*
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -9987,9 +9831,7 @@ Sad Pablo Escobar
 
 ![https://i.imgflip.com/60flxs.jpg](https://i.imgflip.com/60flxs.jpg)
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 I wish there were other proposals with serious opening prices that value ourselves and our work
 
@@ -9999,9 +9841,7 @@ _07-Jan-22 04:38 PM_:
 
 I think the opening price doesnt necessarily need to reflect the full value of our work right out of the gate, but rather function as a price discovery mechanism to eventually reach a price that does reflect it
 
-![https://cdn.discordapp.com/avatars/135294406499631105/acf9eb17ea21508960cda3f3eee38ddc.png](https://cdn.discordapp.com/avatars/135294406499631105/acf9eb17ea21508960cda3f3eee38ddc.png)
-
-pab🐝🐙
+<h3>pab🐝🐙 <img src="https://cdn.discordapp.com/avatars/135294406499631105/acf9eb17ea21508960cda3f3eee38ddc.png" width=25 height=25></h3>
 
 I think the opening price doesnt necessarily need to reflect the full value of our work right out of the gate, but rather function as a price discovery mechanism to eventually reach a price that does reflect it
 
@@ -10067,9 +9907,7 @@ _07-Jan-22 04:47 PM_:
 ![https://cdn.discordapp.com/attachments/810180622165213222/929129223954792488/60fnfy.jpg](https://cdn.discordapp.com/attachments/810180622165213222/929129223954792488/60fnfy.jpg)
 
 
-![https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png](https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png)
-
-chuygarcia.eth
+<h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/60fjcs](https://imgflip.com/i/60fjcs)
 
@@ -10574,9 +10412,7 @@ Two Buttons
 
 ![https://i.imgflip.com/6263qf.jpg](https://i.imgflip.com/6263qf.jpg)
 
-![https://cdn.discordapp.com/avatars/140257973745352704/1fc092b2c16102652d65e2717ee8c2b6.png](https://cdn.discordapp.com/avatars/140257973745352704/1fc092b2c16102652d65e2717ee8c2b6.png)
-
-Fred.
+<h3>Fred. <img src="https://cdn.discordapp.com/avatars/140257973745352704/1fc092b2c16102652d65e2717ee8c2b6.png" width=25 height=25></h3>
 
 @McKennedy you around for some meme magic making? 
 
@@ -11115,9 +10951,7 @@ _15-Apr-22 03:31 PM_:
 
 [https://imgflip.com/i/6cptyy](https://imgflip.com/i/6cptyy)
 
-![https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png](https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png)
-
-chuygarcia.eth
+<h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/6bx62w](https://imgflip.com/i/6bx62w)
 
@@ -11145,11 +10979,8 @@ _15-Apr-22 03:35 PM_:
 ![https://cdn.discordapp.com/attachments/810180622165213222/964609868872941578/Screen_Shot_2022-04-15_at_2.34.57_PM.png](https://cdn.discordapp.com/attachments/810180622165213222/964609868872941578/Screen_Shot_2022-04-15_at_2.34.57_PM.png)
 
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
-Mert Ozd
-
-*Click to see original message*
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -11157,11 +10988,8 @@ _15-Apr-22 03:35 PM_:
 
 @Zeptimus
 
-![https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png](https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png)
+<h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
-Mount Manu
-
-*Click to see original message*
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -11218,9 +11046,7 @@ Running Away Balloon
 
 
 
-![https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png](https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png)
-
-chuygarcia.eth
+<h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
 [https://imgflip.com/i/6cpvah](https://imgflip.com/i/6cpvah)
 
@@ -11311,11 +11137,8 @@ _15-Apr-22 04:26 PM_:
 
 
 
-![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
+<h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
-Mert Ozd
-
-*Click to see original message*
 
 <h3>EFRA <img src="https://cdn.discordapp.com/avatars/769621045489172480/5d0540617e5e5c0d66ec5ba30dd6b612.png" width=25 height=25></h3>
 

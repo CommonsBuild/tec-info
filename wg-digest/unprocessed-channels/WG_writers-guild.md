@@ -8,9 +8,7 @@ Token Engineering Commons
 
 After 19-Mar-21 12:00 AM
 
-![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
-
-taxil 13-May-22 01:47 PM
+<h3>taxil 13-May-22 01:47 PM <img src="https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif" width=25 height=25></h3>
 
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
@@ -25,9 +23,7 @@ Right on!
 _13-May-22 03:58 PM_:
 
 
-![https://cdn.discordapp.com/avatars/769621045489172480/5d0540617e5e5c0d66ec5ba30dd6b612.png](https://cdn.discordapp.com/avatars/769621045489172480/5d0540617e5e5c0d66ec5ba30dd6b612.png)
-
-EFRA <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
+<h3>EFRA <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20> <img src="https://cdn.discordapp.com/avatars/769621045489172480/5d0540617e5e5c0d66ec5ba30dd6b612.png" width=25 height=25></h3>
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -50,9 +46,7 @@ New article will be coming soon to TEC Medium - can anyone guess what it's going
 
 
 
-![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
-
-Incandenza <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=20 height=20>
+<h3>Incandenza <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=20 height=20> <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -60,9 +54,7 @@ _16-May-22 08:41 PM_:
 
 are you a writer, @Incandenza?
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 are you a writer, @Incandenza?
 
@@ -74,9 +66,7 @@ Hi @Gideonro, I used to be a journalist and I've done some creative writing. Wha
 
 
 
-![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
-
-Incandenza
+<h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
 Hi @Gideonro, I used to be a journalist and I've done some creative writing. What's this guild about?
 
@@ -105,9 +95,7 @@ _20-May-22 04:52 AM_:
 
 When will your next meeting be? Couldn't find it on the calendar!
 
-![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
-
-Incandenza
+<h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
 When will your next meeting be? Couldn't find it on the calendar!
 
@@ -122,9 +110,7 @@ We are actually working to put it on the calendar right now. Tuesday May 24th at
 _20-May-22 10:29 AM_:
 Thanks @jasontphelpsNH! That might be too late for me though, I'm in Europe <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
-
-Incandenza
+<h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
 Thanks @jasontphelpsNH! That might be too late for me though, I'm in Europe  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -145,9 +131,7 @@ If any of you want to attend
 
 Also, I'm writing a Medium article too so I'd like to know how to best do it
 
-![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
-
-durgadas
+<h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
 We're having the Gravity Web site meeting on Fridays. Today it's in 5 min (2pm) but I'll move it earlier next week.
 
@@ -197,8 +181,6 @@ The DAO - What is a DAO? A decentralized Autonomous Organization is an internet-
 _24-May-22 06:04 PM_:
 @Gaian Once everything's all set up and you have the article already to go on your Medium page with the checklist done, let @jasontphelpsNH and me know and I will publish it on TEC Medium and then we can connect with the TEC Twitter crew. @acidlazzer and @chuygarcia.eth - fyi - we have a brand-new article coming in the next day or so that's all about Transparency. It would be great to get your promotional support. It would be nice too if we can talk about ways to get some retweeting going within the community too. <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-(edited)
-
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
 2
@@ -234,9 +216,7 @@ _26-May-22 01:10 PM_:
 
 Let's add setting the featured image to our publishing checklist - otherwise no image when it's shared⬆︎
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 Let's add setting the featured image to our publishing checklist - otherwise no image when it's shared⬆︎
 
@@ -283,9 +263,7 @@ _26-May-22 01:51 PM_:
 Awesome work guys! Gonna tweet it today or tomorrow ❤️ (edited)
 
 
-![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
-
-taxil 28-May-22 10:48 AM
+<h3>taxil 28-May-22 10:48 AM <img src="https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif" width=25 height=25></h3>
 
 was blown away by this piece [https://www.makery.info/en/2022/04/30/english-the-real-crypto-movement/](https://www.makery.info/en/2022/04/30/english-the-real-crypto-movement/)
 
@@ -298,9 +276,7 @@ The Real Crypto Movement
 
 getting folks from like-minded communities to contribute, or setting up informal sharing of each others’ work, would be great
 
-![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
-
-taxil
+<h3>taxil <img src="https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif" width=25 height=25></h3>
 
 was blown away by this piece
 
@@ -339,9 +315,7 @@ _29-May-22 08:28 AM_:
 
 I'd like to get started on the "What is Tokenomics?" article. Is there any reason not to start reaching out to the folks in labs? Any considerations on length, format, etc?
 
-![https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png](https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png)
-
-Gaian
+<h3>Gaian <img src="https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png" width=25 height=25></h3>
 
 I'd like to get started on the "What is Tokenomics?" article. Is there any reason not to start reaching out to the folks in labs? Any considerations on length, format, etc?
 
@@ -351,9 +325,7 @@ _29-May-22 08:32 AM_:
 
 We would love to have an active queue of works so I think it would be great to get it moving. Let us know how we can help.
 
-![https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png](https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png)
-
-jasontphelpsNH
+<h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
 We would love to have an active queue of works so I think it would be great to get it moving. Let us know how we can help.
 
@@ -365,9 +337,7 @@ What is the context it will be presented in?
 
 Is it an article that can be of any length? Is it a paragraph nestled within a comprehensive FAQ section of a website? Something else?
 
-![https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png](https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png)
-
-Gaian
+<h3>Gaian <img src="https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png" width=25 height=25></h3>
 
 What is the context it will be presented in?
 
@@ -401,9 +371,7 @@ _29-May-22 08:39 AM_:
 
 It would be Communitas due to its applicability to the FAQ and web site. Looking back at the agenda, one of the specific questions from the prior Communitas session was "What is Token Engineering?" I think that follows/partners with from "What is Tokenomics?" (edited)
 
-![https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png](https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png)
-
-Gaian
+<h3>Gaian <img src="https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png" width=25 height=25></h3>
 
 I'd like to get started on the "What is Tokenomics?" article. Is there any reason not to start reaching out to the folks in labs? Any considerations on length, format, etc?
 
@@ -419,9 +387,7 @@ _31-May-22 07:50 PM_:
 
 I think we should do a story on the TEC's conviction voting - it's pretty cool
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 I think we should do a story on the TEC's conviction voting - it's pretty cool
 
@@ -431,9 +397,7 @@ _01-Jun-22 08:57 AM_:
 
 Definitely a great idea. Any clue as to what other DAOs might use this same process and any other writings about it?
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 Need to hold off on these ones for right now - still thinking through where this would go. What about the piece on Tam's talk, @Gaian - are you still on for that one?
 
@@ -444,9 +408,7 @@ _01-Jun-22 09:45 AM_:
 Sure, I can do that one first.
 
 
-![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
-
-Incandenza
+<h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
 Thanks @jasontphelpsNH! That might be too late for me though, I'm in Europe  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
@@ -463,9 +425,7 @@ _01-Jun-22 03:23 PM_:
 Hi @jasontphelpsNH, consider that I am n utc+2 (cest), any time that falls between 9 a.m. and 7 p.m here. for me should be fine But please base your schedule on your convenience and not mine as I don't know how consistent I will be with my participation. I'll do my best to join a meeting a get to know you though
 
 
-![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
-
-taxil 02-Jun-22 03:38 PM
+<h3>taxil 02-Jun-22 03:38 PM <img src="https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif" width=25 height=25></h3>
 
 [https://twitter.com/hollyherndon/status/1532444518771044354](https://twitter.com/hollyherndon/status/1532444518771044354)
 
@@ -486,9 +446,7 @@ sounds familiar
 
 1
 
-![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
-
-taxil
+<h3>taxil <img src="https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif" width=25 height=25></h3>
 
 [https://twitter.com/hollyherndon/status/1532444518771044354](https://twitter.com/hollyherndon/status/1532444518771044354)
 
@@ -499,15 +457,11 @@ _02-Jun-22 03:42 PM_:
 Digital DJs and MCs collaborating across space and time. My wife and I have talked about the parallels to how some genres of music grew up out of intense collaboration and coordination. Making the space bigger so everybody has a shot to step through. Truly a pleasure to explore.
 
 
-![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
-
-taxil 02-Jun-22 04:37 PM
+<h3>taxil 02-Jun-22 04:37 PM <img src="https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif" width=25 height=25></h3>
 
 would it be poss for me to get a diff't role -- just to avoid the new member pings?
 
-![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
-
-taxil
+<h3>taxil <img src="https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif" width=25 height=25></h3>
 
 would it be poss for me to get a diff't role -- just to avoid the new member pings?
 
@@ -531,37 +485,25 @@ Clarity — The simplest workspace for decentralized teams
 
 Connect your wallet, share token-gated documents, coordinate projects and proposals, track tasks, trade notes, and build your own personal Wikipedia—in a familiar all-in-one workspace.
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 let me take a look
 
-![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
-
-taxil 07-Jun-22 11:35 AM
+<h3>taxil 07-Jun-22 11:35 AM <img src="https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif" width=25 height=25></h3>
 
 ty ty ty
 
-![https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png](https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png)
-
-jasontphelpsNH
+<h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
 Here's the agenda for the 6/7 Writers Guild meeting. You will find us in our voice channel at 5 PM EST.
 
 [https://app.clarity.so/tecwriters/pages/91fa6565-8136-46ca-84d4-1ab5e6a8928e](https://app.clarity.so/tecwriters/pages/91fa6565-8136-46ca-84d4-1ab5e6a8928e)
 
-(edited)
-
-![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
-
-taxil 07-Jun-22 11:36 AM
+<h3>taxil 07-Jun-22 11:36 AM <img src="https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif" width=25 height=25></h3>
 
 i'll have to miss today's meeting, apologies -- i'll be having way more fun at the dentist
 
-![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
-
-taxil
+<h3>taxil <img src="https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif" width=25 height=25></h3>
 
 i'll have to miss today's meeting, apologies -- i'll be having way more fun at the dentist
 
@@ -583,9 +525,7 @@ Felt pretty good to click publish on my first blog piece in over 5 years. I am t
 _08-Jun-22 10:59 AM_:
 I went ahead and created a "Writers" role with a small icon last night. If anyone would like the icon/color scheme to be different, let me know and I'll make the changes this evening. <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
-
-gene
+<h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 I went ahead and created a "Writers" role with a small icon last night. If anyone would like the icon/color scheme to be different, let me know and I'll make the changes this evening.   <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=20 height=20>
 
@@ -596,9 +536,7 @@ _08-Jun-22 11:01 AM_:
 Neat, thank you!
 
 
-![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
-
-gene
+<h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 I went ahead and created a "Writers" role with a small icon last night. If anyone would like the icon/color scheme to be different, let me know and I'll make the changes this evening.   <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=20 height=20>
 
@@ -610,15 +548,11 @@ I actually noticed that yesterday and was wondering how that happened!
 
 
 
-![https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png](https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png)
-
-jasontphelpsNH
+<h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
 Felt pretty good to click publish on my first blog piece in over 5 years. I am tending to the gardens at home again, and I wrote about the 20+ year home gardening journey we've been on where I am currently living.
 
 [https://medium.com/@jasonphelpsnh/back-in-the-garden-b4ac93ac93a3](https://medium.com/@jasonphelpsnh/back-in-the-garden-b4ac93ac93a3)
-
-(edited)
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -629,9 +563,7 @@ Nice piece Jason! I'm thoroughly envious of your garden and woodlands. Living in
 
 ). I hope to have the opportunity to be as brave as you and "go back to the roots" someday. Cheers m8. <img src="https://twemoji.maxcdn.com/2/72x72/1f37b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
-![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
-
-gene
+<h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 Nice piece Jason! I'm thoroughly envious of your garden and woodlands. Living in the desert has its benefits (no snow  ) and its detriments (few gardens beyond cacti  ). I hope to have the opportunity to be as brave as you and "go back to the roots" someday. Cheers m8.   <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f37b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="$5" width=20 height=20>
 
@@ -656,9 +588,7 @@ Message to TEC Token Holders Draft 1.0 It’s been a little over four months sin
 
 [https://lh6.googleusercontent.com/GgHVEcz6MYKh9T9wQsX5ltESgzN2I7c3RT3cIeMRA7iimAfqDlTV5WpPxCdiAanpBJF-fmSg7AMthg=w1200-h630-p](https://lh6.googleusercontent.com/GgHVEcz6MYKh9T9wQsX5ltESgzN2I7c3RT3cIeMRA7iimAfqDlTV5WpPxCdiAanpBJF-fmSg7AMthg=w1200-h630-p)
 
-![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
-
-Gideonro
+<h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 Hey @Writer I've got a message to TEC token holders that could use some eyes on it. It's already fairly far down the review process, having gotten feedback from the stewards and a bunch of resulting changes. So, no major directional changes. What I am looking for are areas that seem unclear or could be said with more concision. Could I get some help? @taxil, I'm also wondering whether you would be willing and able to do an editorial pass, on say Wed of next week?
 
@@ -670,9 +600,7 @@ _11-Jun-22 06:47 AM_:
 
 I only found one grammatical issue after a pass through. I am musing over the entire letter from the perspective of a shareholder update or similar documentation. I've been involved in helping portfolio managers prepare information for institutional fund managers so I have a few different experiences to reflect on. I'll let you know if I come up with anything useful.
 
-![https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png](https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png)
-
-jasontphelpsNH
+<h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
 I only found one grammatical issue after a pass through. I am musing over the entire letter from the perspective of a shareholder update or similar documentation. I've been involved in helping portfolio managers prepare information for institutional fund managers so I have a few different experiences to reflect on. I'll let you know if I come up with anything useful.
 
@@ -682,9 +610,7 @@ _11-Jun-22 09:09 AM_:
 
 Thanks very much, Jason!
 
-![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
-
-taxil 21-Jun-22 04:52 PM
+<h3>taxil 21-Jun-22 04:52 PM <img src="https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif" width=25 height=25></h3>
 
 can’t make it tonight, i’ve got a couple of nft nyc things happening. sorry for the late notice
 

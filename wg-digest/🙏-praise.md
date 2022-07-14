@@ -3441,9 +3441,7 @@ _04-May-21 01:02 AM_:
 
 _04-May-21 01:05 AM_: This praise isn’t getting a green check. Could it be because of the emoji in @sem 🐝 ‘s username? (edited)
 
-!praise @davidking 🐝 for having a bee in your username when I need one to test with
-(edited)
-!praise @sem 🐝 for the latest Hatch demo.
+!praise @davidking 🐝 for having a bee in your username when I need one to test with!praise @sem 🐝 for the latest Hatch demo.
 
 <h3>Tam2140  <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width="25" height="25"/></h3>
 

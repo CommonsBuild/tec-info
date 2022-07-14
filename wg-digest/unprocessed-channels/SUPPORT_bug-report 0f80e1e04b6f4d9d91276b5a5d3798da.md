@@ -14,9 +14,7 @@ _13-May-21 11:09 AM_:
 
 I think this is a bit late, but I think there's a small issue on the TEC-Hatch-Vote repository. Acc. to github's issue flow - People that aren't part of the org or haven't been added to the org. can't add tags while opening issues. Thus, anyone who isn't a part of the org can't add the Vote tag on the issue. I think due to this, the issue doesn't get listed on tokenlog(correct me if I am wrong here) Maybe we can set an issue template called vote and set the default tags for that template to Vote
 
-![https://cdn.discordapp.com/avatars/757751905140211833/a_f15c00770e599ffeb0f78ecf42f53cdb.gif](https://cdn.discordapp.com/avatars/757751905140211833/a_f15c00770e599ffeb0f78ecf42f53cdb.gif)
-
-🐙Musashi13 22-Jun-21 06:06 AM
+<h3>🐙Musashi13 22-Jun-21 06:06 AM <img src="https://cdn.discordapp.com/avatars/757751905140211833/a_f15c00770e599ffeb0f78ecf42f53cdb.gif" width=25 height=25></h3>
 
 you have a bug
 
@@ -72,9 +70,7 @@ Hey guys, trying to contribute to Hatch, getting this error
 
 Uncaught (in promise) ErrorUnexpectedResult: Unexpected result when fetching the apps. i errors.ts:15 l errors.ts:68 appsForOrg connector.ts:245 parseQueryResult GraphQLWrapper.ts:164 performQueryWithParser GraphQLWrapper.ts:154 appsForOrg connector.ts:235 apps Organization.ts:117 intent App.ts:139 contribute Hatch.ts:225 C useActions.js:107 onSubmit Contribution.js:104 React 12 unstable_runWithPriority scheduler.production.min.js:19 React 6
 
-![https://cdn.discordapp.com/avatars/433574151983202305/cd9b1d7146c99401ee4fcf4b0e4b660d.png](https://cdn.discordapp.com/avatars/433574151983202305/cd9b1d7146c99401ee4fcf4b0e4b660d.png)
-
-Raul | Forta | EthicHub
+<h3>Raul | Forta | EthicHub <img src="https://cdn.discordapp.com/avatars/433574151983202305/cd9b1d7146c99401ee4fcf4b0e4b660d.png" width=25 height=25></h3>
 
 Uncaught (in promise) ErrorUnexpectedResult: Unexpected result when fetching the apps. i errors.ts:15 l errors.ts:68 appsForOrg connector.ts:245 parseQueryResult GraphQLWrapper.ts:164 performQueryWithParser GraphQLWrapper.ts:154 appsForOrg connector.ts:235 apps Organization.ts:117 intent App.ts:139 contribute Hatch.ts:225 C useActions.js:107 onSubmit Contribution.js:104 React 12 unstable_runWithPriority scheduler.production.min.js:19 React 6
 
@@ -84,9 +80,7 @@ _12-Aug-21 10:28 AM_:
 
 I just contributed without an error!
 
-![https://cdn.discordapp.com/avatars/756512973870203011/c9182f7eb03a2d2af6cccaba35717984.png](https://cdn.discordapp.com/avatars/756512973870203011/c9182f7eb03a2d2af6cccaba35717984.png)
-
-trangnv
+<h3>trangnv <img src="https://cdn.discordapp.com/avatars/756512973870203011/c9182f7eb03a2d2af6cccaba35717984.png" width=25 height=25></h3>
 
 I just contributed without an error!
 
@@ -108,9 +102,7 @@ _17-Nov-21 01:09 PM_:
 
 There are some issues with the config tool on mobile browsers. It doesn't happen all the time, but it does happen often
 
-![https://cdn.discordapp.com/avatars/493796432130867211/2694f91889fa1f1a19c7389f6d49874f.png](https://cdn.discordapp.com/avatars/493796432130867211/2694f91889fa1f1a19c7389f6d49874f.png)
-
-Yashmanso
+<h3>Yashmanso <img src="https://cdn.discordapp.com/avatars/493796432130867211/2694f91889fa1f1a19c7389f6d49874f.png" width=25 height=25></h3>
 
 There are some issues with the config tool on mobile browsers. It doesn't happen all the time, but it does happen often
 
@@ -124,9 +116,7 @@ Yup
 
 ![https://cdn.discordapp.com/attachments/810180622165213215/910778669050527834/IMG_1600.png](https://cdn.discordapp.com/attachments/810180622165213215/910778669050527834/IMG_1600.png)
 
-![https://cdn.discordapp.com/avatars/493796432130867211/2694f91889fa1f1a19c7389f6d49874f.png](https://cdn.discordapp.com/avatars/493796432130867211/2694f91889fa1f1a19c7389f6d49874f.png)
-
-Yashmanso
+<h3>Yashmanso <img src="https://cdn.discordapp.com/avatars/493796432130867211/2694f91889fa1f1a19c7389f6d49874f.png" width=25 height=25></h3>
 
 There are some issues with the config tool on mobile browsers. It doesn't happen all the time, but it does happen often
 
@@ -136,9 +126,7 @@ _18-Nov-21 09:17 AM_:
 
 @Laurence Ion | VitaDAO steward thanks for sharing! I will ping @mitch (🍔, 🍔) / @griff (💜, 💜) (edited)
 
-![https://cdn.discordapp.com/avatars/493796432130867211/2694f91889fa1f1a19c7389f6d49874f.png](https://cdn.discordapp.com/avatars/493796432130867211/2694f91889fa1f1a19c7389f6d49874f.png)
-
-Yashmanso
+<h3>Yashmanso <img src="https://cdn.discordapp.com/avatars/493796432130867211/2694f91889fa1f1a19c7389f6d49874f.png" width=25 height=25></h3>
 
 There are some issues with the config tool on mobile browsers. It doesn't happen all the time, but it does happen often
 
@@ -154,9 +142,7 @@ _06-Dec-21 08:08 AM_:
 
 Praisebot fails to strip some recipients from the reason. Take note of this praise: [https://discord.com/channels/776352358832930816/778150291706609703/915651865054695444](https://discord.com/channels/776352358832930816/778150291706609703/915651865054695444) Which was dished to 30 recipients (lines 13653 to 13682) of the master sheet [https://docs.google.com/spreadsheets/d/1d7KVvAUlWb2yZPDTMttr1gEHzod6RKOiheGk-FX0BqE/edit#gid=0](https://docs.google.com/spreadsheets/d/1d7KVvAUlWb2yZPDTMttr1gEHzod6RKOiheGk-FX0BqE/edit#gid=0) the mentions of three of the recipients were not stripped from the reason
 
-![https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png](https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png)
-
-graial
+<h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
 Praisebot fails to strip some recipients from the reason. Take note of this praise:
 
@@ -174,9 +160,7 @@ _07-Dec-21 08:53 AM_:
 
 Hey there, sorry, can you explain the "stripped from the reason"?
 
-![https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png](https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png)
-
-graial
+<h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
 Praisebot fails to strip some recipients from the reason. Take note of this praise:
 
@@ -194,9 +178,7 @@ _07-Dec-21 08:54 AM_:
 
 I can also suggest to tag/mention other quantifiers so they can provide feedback
 
-![https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png](https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png)
-
-graial
+<h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
 Praisebot fails to strip some recipients from the reason. Take note of this praise:
 
@@ -214,9 +196,7 @@ _07-Dec-21 11:40 AM_:
 
 @kristofer Is this a good place for this bug report? Or is there a repo for the praise bot?
 
-![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
-
-Edu - TEC Steward.
+<h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
 Hey there, sorry, can you explain the "stripped from the reason"?
 
@@ -261,9 +241,7 @@ Instruction to quantifiers
 
 ![https://fmckl.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2733f9bd-e243-41f3-ac36-23b2bc9b511d%2FUntitled.png?table=block&id=442bfeda-e50f-41da-8632-dcb0a3cf3f17&width=2000&userId=&cache=v2](https://fmckl.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2733f9bd-e243-41f3-ac36-23b2bc9b511d%2FUntitled.png?table=block&id=442bfeda-e50f-41da-8632-dcb0a3cf3f17&width=2000&userId=&cache=v2)
 
-![https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png](https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png)
-
-graial
+<h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
 Praisebot fails to strip some recipients from the reason. Take note of this praise:
 
@@ -281,9 +259,7 @@ _09-Dec-21 09:27 AM_:
 
 thankfully, this bug is only affecting the reason and not the number of people being dished... An alternate parser I drafted up for the praise audit can be found here - [https://github.com/hurek/Praise-Bot-Discord/blob/main/ext/scrape_praise.py](https://github.com/hurek/Praise-Bot-Discord/blob/main/ext/scrape_praise.py) While this one isn't perfect, I think this can be fixed after a few tweaks to the regex - reason = re.sub(r'(<@).*?>', '', utils.escape_mentions(msg.content)[8:]).strip().replace('\n', ' ')
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 thankfully, this bug is only affecting the reason and not the number of people being dished... An alternate parser I drafted up for the praise audit can be found here -
 
@@ -299,9 +275,7 @@ What Ive been doing is stripping the leading 'for' from the reason which has the
 
 unless there is a recipient in the middle of the string. But the it also makes the reason more readable as well.
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 thankfully, this bug is only affecting the reason and not the number of people being dished... An alternate parser I drafted up for the praise audit can be found here -
 
@@ -315,9 +289,7 @@ _09-Dec-21 09:32 AM_:
 
 I agree. As far as I can tell, all the recipients still get logged even if the names arent removed
 
-![https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png](https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png)
-
-graial
+<h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
 What Ive been doing is stripping the leading 'for' from the reason which has the added side effect of stripping out any recipients that the bot missed
 
@@ -362,9 +334,7 @@ which is a
 
 (and I am login into the forum) . Cheers
 
-![https://cdn.discordapp.com/avatars/659505162439753739/84e926ee3a2d1ffa74ba0156ecac0caf.png](https://cdn.discordapp.com/avatars/659505162439753739/84e926ee3a2d1ffa74ba0156ecac0caf.png)
-
-aljz
+<h3>aljz <img src="https://cdn.discordapp.com/avatars/659505162439753739/84e926ee3a2d1ffa74ba0156ecac0caf.png" width=25 height=25></h3>
 
 Hello, I report a small redirection-link-bug from Welcome to the TEC! BOT (your-guide). When the button "**How to make a proposal"** is clicked, the bot answers :
 
@@ -391,9 +361,7 @@ _13-Dec-21 08:51 AM_:
 Hello there! So sorry for that, we are updating links and this was slipped through
 
 
-![https://cdn.discordapp.com/avatars/659505162439753739/84e926ee3a2d1ffa74ba0156ecac0caf.png](https://cdn.discordapp.com/avatars/659505162439753739/84e926ee3a2d1ffa74ba0156ecac0caf.png)
-
-aljz
+<h3>aljz <img src="https://cdn.discordapp.com/avatars/659505162439753739/84e926ee3a2d1ffa74ba0156ecac0caf.png" width=25 height=25></h3>
 
 Hello, I report a small redirection-link-bug from Welcome to the TEC! BOT (your-guide). When the button "**How to make a proposal"** is clicked, the bot answers :
 
@@ -450,9 +418,7 @@ Transaction 0xda8f9f5784f13e140f4fc500e8fa547b3c0bd30a45b2bdfe3147...
 
 View transaction 0xda8f9f5784f13e140f4fc500e8fa547b3c0bd30a45b2bdfe314727cfd6b53664 on Gnosis Chain
 
-![https://cdn.discordapp.com/avatars/492783003676835842/ff4b6fc0e86d1d8a056a03edbe7d3a52.png](https://cdn.discordapp.com/avatars/492783003676835842/ff4b6fc0e86d1d8a056a03edbe7d3a52.png)
-
-HBesso31🐙
+<h3>HBesso31🐙 <img src="https://cdn.discordapp.com/avatars/492783003676835842/ff4b6fc0e86d1d8a056a03edbe7d3a52.png" width=25 height=25></h3>
 
 [https://blockscout.com/poa/xdai/tx/0xda8f9f5784f13e140f4fc500e8fa547b3c0bd30a45b2bdfe314727cfd6b53664](https://blockscout.com/poa/xdai/tx/0xda8f9f5784f13e140f4fc500e8fa547b3c0bd30a45b2bdfe314727cfd6b53664)
 
@@ -462,9 +428,7 @@ _23-Feb-22 09:14 AM_:
 
 Hola Humber! it must be that you are trying to make the proposal with the TEC you have from the Hatch, but this fee must be paid with TEC from the Bonding curve (as the hatch tokens are vested and non trasferable)
 
-![https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png](https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png)
-
-Juankbell
+<h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
 Hola Humber! it must be that you are trying to make the proposal with the TEC you have from the Hatch, but this fee must be paid with TEC from the Bonding curve (as the hatch tokens are vested and non trasferable)
 
@@ -482,9 +446,7 @@ _25-Mar-22 12:25 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622165213215/956951881769443368/unknown.png](https://cdn.discordapp.com/attachments/810180622165213215/956951881769443368/unknown.png)
 
-![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
-
-nic
+<h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 @Vyvy-vi btw was playing around with the guide bot, onclick of 'What is Token Engineering?' it gets stuck..been stuck for 10 mins now  (edited)
 
@@ -504,9 +466,7 @@ I'll take a look
 Maybe something broke when the recent changes were made
 
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 I'll take a look  Maybe something broke when the recent changes were made
 
@@ -525,9 +485,7 @@ _25-Mar-22 03:36 PM_:
 It has been fixed! (edited)
 
 
-![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
-
-Vyvy-vi
+<h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 It has been fixed!  (edited)
 
@@ -551,9 +509,7 @@ The TEC envisions a world with safe digital economies that protect and support p
 
 ![https://miro.medium.com/max/892/1*RUrfQvtR6qXxohYqAnnn1w.png](https://miro.medium.com/max/892/1*RUrfQvtR6qXxohYqAnnn1w.png)
 
-![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
-
-Incandenza
+<h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
 Hi guys, sorry to introduce myself with a bug report, but in this presentation page (
 
@@ -587,9 +543,7 @@ _03-May-22 04:21 PM_:
 
 #💸｜sampo
 
-![https://cdn.discordapp.com/avatars/697795492217749584/a_052e0e4355ea9a9652eab9f69c726bcb.gif](https://cdn.discordapp.com/avatars/697795492217749584/a_052e0e4355ea9a9652eab9f69c726bcb.gif)
-
-Marcel | Toucan 13-May-22 07:45 AM
+<h3>Marcel | Toucan 13-May-22 07:45 AM <img src="https://cdn.discordapp.com/avatars/697795492217749584/a_052e0e4355ea9a9652eab9f69c726bcb.gif" width=25 height=25></h3>
 
 I think I found a bug in the QV system due to signature submission. I was able to cast 37 votes on a single project, even though i only have 1125 TRUST, but Sqrt(1125)=35.5.
 
@@ -597,9 +551,7 @@ And only when I closed the modal to check, it did not let me resubmit.
 
 ![https://cdn.discordapp.com/attachments/810180622165213215/974639259233419295/unknown.png](https://cdn.discordapp.com/attachments/810180622165213215/974639259233419295/unknown.png)
 
-![https://cdn.discordapp.com/avatars/697795492217749584/a_052e0e4355ea9a9652eab9f69c726bcb.gif](https://cdn.discordapp.com/avatars/697795492217749584/a_052e0e4355ea9a9652eab9f69c726bcb.gif)
-
-Marcel | Toucan
+<h3>Marcel | Toucan <img src="https://cdn.discordapp.com/avatars/697795492217749584/a_052e0e4355ea9a9652eab9f69c726bcb.gif" width=25 height=25></h3>
 
 I think I found a bug in the QV system due to signature submission. I was able to cast 37 votes on a single project, even though i only have 1125 TRUST, but Sqrt(1125)=35.5.
 
@@ -609,9 +561,7 @@ _13-May-22 09:55 AM_:
 
 Thanks for sharing. Will cc: @Tam2140 @Yineisy Mota
 
-![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
-
-Edu - TEC Steward.
+<h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
 Thanks for sharing. Will cc: @Tam2140 @Yineisy Mota
 
@@ -637,9 +587,7 @@ Frens of Commonstack! @Yineisy Mota on the TokenLog, your avatar is the TEC one!
 
 ![https://cdn.discordapp.com/attachments/810180622165213215/977236187792154655/Captura_de_Pantalla_2022-05-20_a_las_17.46.43.png](https://cdn.discordapp.com/attachments/810180622165213215/977236187792154655/Captura_de_Pantalla_2022-05-20_a_las_17.46.43.png)
 
-![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
-
-Edu - TEC Steward.
+<h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
 Frens of Commonstack! @Yineisy Mota on the TokenLog, your avatar is the TEC one! 
 
