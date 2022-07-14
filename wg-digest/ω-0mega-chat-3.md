@@ -1,17 +1,8 @@
-# WG_omega-3
+<h1>Token Engineering Commons 🎑 omega Chat 2 <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h1>
 
-![https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.png](https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.png)
+> The 0mega Working Group examines the ethos of and ethics in token engineering as well as the shared vision and diversity of its communities.
 
-Token Engineering Commons
-
-━━WORKING GROUP TEXT━━ / 🎑｜omega
-
-The 0mega Working Group examines the ethos of and ethics in token engineering as well as the shared vision and diversity of its communities.
-
-## Links
-
-
-## After 19-Mar-21 12:00 AM
+## Chat Mar-22 thru Jun-22
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 

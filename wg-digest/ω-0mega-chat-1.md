@@ -1,39 +1,6 @@
-# ω-tec-0mega discord digest <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h3>
+<h1>Token Engineering Commons 🎑 omega Chat 1 <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h1>
 
-## Links
-
-- [Building in DeFi sucks](https://andrecronje.medium.com/building-in-defi-sucks-b8fdfda0ef58) by Andre Cronje
-- [Building in DeFi sucks pt. 2](https://andrecronje.medium.com/building-in-defi-sucks-part-2-75df9ee7871) by Andre Cronje
-- [TEC Handbook – Our Processes](https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/what-is-the-tec/how-do-we-work-together)
-- [Civilization Emerging](https://civilizationemerging.com/) - EXPLORATIONS ON THE FUTURE OF CIVILIZATION
-- [WG 0Mega - TE Community Survey](https://docs.google.com/document/d/1B0LpG_iHS3oK3GH0COmFCWl4XVl12bz6vRsIvEZATVE/edit) googledocs
-- [Proposal Working Group 0mega](https://docs.google.com/document/d/1GZi7Cz0DlovZBRzocxfj-5A9Jp3lGX6kjFxoTH8v2G4/edit?usp=sharing) googledocs
-- [Working Group 0Mega - TEC Forum Post](https://docs.google.com/document/d/1QMCvwIUML61x3gHMecprUq_WKQvBZerxcKxNeyDwtn4/edit) googledocs
-- [Proposal Working Group 0Mega](https://docs.google.com/document/d/1TlkVH8dX1XoiUO57MXMrRzp1-JlQj2sbo4RCEe437PY/edit) googledocs
-- [Transparency Audit Criteria/Checklist](https://docs.google.com/document/d/1qL5rOJLFF7UsioslmdZwbf6-o3jDUPaxaBtGSGhjVJQ/edit) googledocs
-- [for MetaFest 18/3/21 with 💛from solsista](https://docs.google.com/presentation/d/e/2PACX-1vRkuQViLqcK4sJlj0sRry6tryzjdSIVz3lHrApGD3H20zg7QexG0QbwpqwF1p_rieap5oVXKCayNxdv/pub) googledocs presentation
-- [Params Audit](https://docs.google.com/spreadsheets/d/19bo98ZZEK7g-9ApnruyTgR0laTU7XpQI-LMti75SOms/edit#gid=0) googlesheets
-- [Library Blockchain & Politics](https://drive.google.com/drive/u/0/folders/1g2rMoMJWcQ-yBH9Qj1yOc937KsvD99VS) JuanKBell
-- [E.O.Wilson Consilience: The Unity of Knowledge](https://en.wikiquote.org/wiki/E._O._Wilson#Consilience:_The_Unity_of_Knowledge_(1998))
-- [Ωmega Working Group](https://forum.tecommons.org/t/mega-working-group/334) Forum
-- [Mission, Vision and Values TokenLog Session!](https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296) Forum
-- [TokenEngineeringCommunity/resources](https://github.com/TokenEngineeringCommunity/resources)
-- [Integral Life - Integrating Polarities into Training](https://integrallife.com/integrating-polarities-training/)
-- [Exploring DAO2DAO collaboration](https://medium.com/primedao/exploring-dao2dao-collaboration-mechanisms-c37218a17a21) PrimeDAO
-- [Engineering Communities — A New Member’s Perspective](https://medium.com/token-engineering-commons/engineering-communities-a-new-member-perspective-64db65e7c267) Nathan Suits
-- [Engineering Ethics in Web3](https://medium.com/token-engineering-commons/engineering-ethics-in-web3-18d981278018) TEC 
-- [The Digital Culture Revolution](https://newsletter.banklesshq.com/p/the-digital-culture-revolution) - Bankless
-- [Poap](https://poap.vote/)
-- [Governance in decentralized networks](https://poseidon01.ssrn.com/delivery.php?ID=834111114068082080122097121004106092051072061008025071104127071085008030100099092026058013060031021036017102028004013093113012114050071046052028016124069104004065098009058047088029001026076082022112098030112122121066101092106081111091006106068067120064) Risto Karjalainen
-- [SWAE](https://swae.io/) - Collaborate remotely on game-changing ideas or problems.
-- [Omega Survey Typeform](https://the-commons-stack.typeform.com/to/t7M0UzZU) - This is an initiative from the 0mega working group to research the ethos and ethics of Token Engineers. We are in the forefront of an incredible emerging field, thanks for participating.
-- [Token Engineering Commons @tecmns](https://twitter.com/tecmns/status/1361406877268135937) - What is #TokenEngineering & why do we need it? 
-- [An Everyone Culture: Becoming a Deliberately Developmental Organization](https://www.amazon.com/Everyone-Culture-Deliberately-Developmental-Organization/dp/1625278624/) Amazon
-- [Ethics and Second-Order Cybernetics](https://www.pangaro.com/hciiseminar2019/Heinz_von_Foerster-Ethics_and_Second-order_Cybernetics.pdf)
-- [Transformative Tech](https://www.transformativetech.org/) - HELP MAKE WELLBEING ABUNDANT.
-BUILD TRANSFORMATIVE TECH.
-- [Ape Unit Insights — Sebnem Rusitschka on the Token Engineering Commons](https://www.youtube.com/watch?v=8918czhyAoQ) youtube
-- [More than funny • Michael Jr. • TEDxUniversityofNevada](https://www.youtube.com/watch?v=twSvd5bQLDw) youtube
+> The 0mega Working Group examines the ethos of and ethics in token engineering as well as the shared vision and diversity of its communities.
 
 ## Chat
 
