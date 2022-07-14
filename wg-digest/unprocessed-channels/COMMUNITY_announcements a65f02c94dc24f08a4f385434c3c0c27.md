@@ -24,13 +24,7 @@ WEBINAR SERIES Cryptoeconomic Patterns 17th June 2021 7PM CET → Join Webinar
 
 [https://lh6.googleusercontent.com/LxrlRE-2o22-nGQpjJSTWKdyhC2ql9-IDtxWWfexRGCtqIkAKIk2lBHUpJC875K07HjZvddR_jGJpg=w1200-h630-p](https://lh6.googleusercontent.com/LxrlRE-2o22-nGQpjJSTWKdyhC2ql9-IDtxWWfexRGCtqIkAKIk2lBHUpJC875K07HjZvddR_jGJpg=w1200-h630-p)
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
 
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-3
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -40,9 +34,6 @@ _09-Jul-21 04:54 AM_:
 
 These were the finale results i got during the call... I assume that is the same you got right @liviade #FloridaRecount
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -50,13 +41,7 @@ _25-Jul-21 04:45 PM_:
 
 We have #📂｜coordination now, which keeps track of changes on the coordination github repository(The repo which is used for managing TEC issues, epic, etc.) And #⚙｜tec-github-updates keeps track of all things happening on the github org :) (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f60d.png](https://twemoji.maxcdn.com/2/72x72/1f60d.png)
-
-2
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -68,9 +53,6 @@ The Initial Buy-In
 
 ![https://forum.tecommons.org/uploads/default/optimized/1X/67ef6ac677855aa0ae35c37636247382eb56f483_2_1024x334.jpeg](https://forum.tecommons.org/uploads/default/optimized/1X/67ef6ac677855aa0ae35c37636247382eb56f483_2_1024x334.jpeg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png)
-
-3
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -84,9 +66,6 @@ Democratize your open-source software project. A better way for projects to coll
 
 ![https://tokenlog.xyz/icon.png](https://tokenlog.xyz/icon.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-5
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -143,9 +122,6 @@ Commons Upgrade Voter Pamphlet Help us pick a time for the Final debate on Jan 1
 
 6
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-5
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -171,13 +147,7 @@ Commons Upgrade Voter Pamphlet Help us pick a time for the Final debate on Jan 1
 
 [https://lh3.googleusercontent.com/y1Sua5bUUdNPOxoH_x85sA-3cjHQa50iN4Q3EyoX1dRyfINfgmS8mZsiORVfOsAQ-78ioKaoAN9L6A=w1200-h630-p](https://lh3.googleusercontent.com/y1Sua5bUUdNPOxoH_x85sA-3cjHQa50iN4Q3EyoX1dRyfINfgmS8mZsiORVfOsAQ-78ioKaoAN9L6A=w1200-h630-p)
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
 
-5
-
-![https://twemoji.maxcdn.com/2/72x72/1f5f3.png](https://twemoji.maxcdn.com/2/72x72/1f5f3.png)
-
-4
 
 [https://tenor.com/view/this-is-the-great-debate-baron-vaughn-the-great-debate-pointing-tv-show-gif-17890293](https://tenor.com/view/this-is-the-great-debate-baron-vaughn-the-great-debate-pointing-tv-show-gif-17890293)
 
@@ -220,9 +190,6 @@ _11-Apr-22 02:03 PM_:
 
 7
 
-![https://twemoji.maxcdn.com/2/72x72/2705.png](https://twemoji.maxcdn.com/2/72x72/2705.png)
-
-4
 
 ![https://cdn.discordapp.com/emojis/782316134707625985.gif](https://cdn.discordapp.com/emojis/782316134707625985.gif)
 
@@ -249,9 +216,6 @@ The Global Governance Gathering: Two full days entirely dedicated to manifesting
 
 ![https://assets.website-files.com/61bb3bcbe9c0ac2142865e07/62324338d498e7e6ffef9ed0_The%20DAOist_GG_FLYER_opt.gif](https://assets.website-files.com/61bb3bcbe9c0ac2142865e07/62324338d498e7e6ffef9ed0_The%20DAOist_GG_FLYER_opt.gif)
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
-
-3
 
 ![https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png](https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png)
 
@@ -330,9 +294,6 @@ _02-Jun-22 02:43 PM_:
 
 ![https://media.tenor.com/Dw7VoNFE6AgAAAAD/party-time-dance-moves.png](https://media.tenor.com/Dw7VoNFE6AgAAAAD/party-time-dance-moves.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -340,13 +301,7 @@ _03-Jun-22 11:50 AM_:
 
 @everyone Porposal party will start in 10 minutes! Join @griff (💜, 💜) on talking about incoming proposals that are important for our community on the Community Voice Channel! (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
 
-4
-
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-4
 
 ![https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png](https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png)
 
@@ -383,9 +338,6 @@ Great you are interested in Token Engineering! This is the registration form for
 
 [https://lh3.googleusercontent.com/vaIb549HGvJnrwTGMMLYo_o7cdd3jr3RdI4a0oAOk1D7lkuMiOCR6wIX59nei_HASHcc9ND3CSU=w1200-h630-p](https://lh3.googleusercontent.com/vaIb549HGvJnrwTGMMLYo_o7cdd3jr3RdI4a0oAOk1D7lkuMiOCR6wIX59nei_HASHcc9ND3CSU=w1200-h630-p)
 
-![https://twemoji.maxcdn.com/2/72x72/1f308.png](https://twemoji.maxcdn.com/2/72x72/1f308.png)
-
-5
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 

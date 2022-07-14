@@ -44,9 +44,6 @@ _25-Mar-21 02:05 PM_:
 
 !praise to @liviade for always posting these notes for everyone, and all the other places she steps up
 
-![https://twemoji.maxcdn.com/2/72x72/2705.png](https://twemoji.maxcdn.com/2/72x72/2705.png)
-
-1
 
 <h3>JessicaZartler <img src="https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png" width=25 height=25></h3>
 
@@ -94,18 +91,12 @@ stop
 
 - stop
 
-![https://twemoji.maxcdn.com/2/72x72/1f6d1.png](https://twemoji.maxcdn.com/2/72x72/1f6d1.png)
-
-1
 
 play happy birthday instrumental
 
 - p happy birthday instrumental
 - stop
 
-![https://twemoji.maxcdn.com/2/72x72/1f6d1.png](https://twemoji.maxcdn.com/2/72x72/1f6d1.png)
-
-1
 
 <h3>baartch <img src="https://cdn.discordapp.com/avatars/711810969755451414/5d53f1fe2190fde0e04bf37eab2adc59.png" width=25 height=25></h3>
 
@@ -128,9 +119,6 @@ Gravity for DAOs Token Engineering Commons Gravity Voice Channel You can use our
 
 [https://lh4.googleusercontent.com/IKhUB2Kl-6WAgwjlunV7SDVzEJEJ9cjsh0Pigd1XYH-NVGNpUATa2vURUMDZWtSNGA5WWBejcJ886Q=w1200-h630-p](https://lh4.googleusercontent.com/IKhUB2Kl-6WAgwjlunV7SDVzEJEJ9cjsh0Pigd1XYH-NVGNpUATa2vURUMDZWtSNGA5WWBejcJ886Q=w1200-h630-p)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44c.png](https://twemoji.maxcdn.com/2/72x72/1f44c.png)
-
-3
 
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
@@ -156,9 +144,6 @@ MANSIBAL en Posadelic 2020 (18/12)
 
 ![https://i.ytimg.com/vi/vH6Gg7fj_lQ/maxresdefault.jpg](https://i.ytimg.com/vi/vH6Gg7fj_lQ/maxresdefault.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -253,11 +238,8 @@ Does anyone have the Youtube link?
 
 _08-Apr-21 02:28 PM_:
 
-[https://www.youtube.com/watch?v=uNGybreSLEM](https://www.youtube.com/watch?v=uNGybreSLEM) WE LIVE
 
-[Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
-
-TEC Community Call 21: Common Swarm and WG Updates
+[TEC Community Call 21: Common Swarm and WG Updates](https://www.youtube.com/watch?v=uNGybreSLEM)
 
 Timecodes: 00:00 - Praise time! 16:00 - Agenda 19:06 - Stewards WG 21:21 - Legal 22:35 - Gravity 25:43 - Hatch outreach 28:31 - Soft gov 31:32 - 0mega WG 32:32 - Comms 35:18 - Paramms 39:14 - Common Swarm
 
@@ -306,17 +288,8 @@ we had a record 30 min of praise
 
 ![https://twemoji.maxcdn.com/2/72x72/1f92f.png](https://twemoji.maxcdn.com/2/72x72/1f92f.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
-1
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f62e.png](https://twemoji.maxcdn.com/2/72x72/1f62e.png)
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -330,9 +303,6 @@ VitaDAO is the world’s first decentralised intellectual property collective. I
 
 ![https://uploads-ssl.webflow.com/600ff0f8154936050d98ec01/60557c944e987f80023926dc_VitaDAO%20Opengraph.png](https://uploads-ssl.webflow.com/600ff0f8154936050d98ec01/60557c944e987f80023926dc_VitaDAO%20Opengraph.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-2
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -458,13 +428,7 @@ _22-Apr-21 02:21 PM_:
 
 ![https://i.imgflip.com/55zp0o.jpg](https://i.imgflip.com/55zp0o.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f98b.png](https://twemoji.maxcdn.com/2/72x72/1f98b.png)
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -506,9 +470,6 @@ _29-Apr-21 02:13 PM_:
 
 We need Universal Basic Praise,,,
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-7
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -550,13 +511,7 @@ There's some construction going on over here(Y'all won't be able to hear me). Ty
 
 Here's my praise- griff, vitor for hosting meme parties and really educating about params and thoughtfully answering all queries Everyone opening Hatch Param proposals rdfbbx(Hurek), Ivy for working on the Apostrophe issue on Praise Bot Ygg, Vitor, Fabio and everyone that worked on the Hatch Dashboard(I hadn't used it before, but it is so intuitive and swift to work with. Love it!) Katy for all the onboarding work Santi, Mateo, Livi for work in the SourceCred committee Chuy for all the work on comms Tam(for being Tam), Ivy, Livi, Marko, Griff for coordination and being Pro-active Livi, Griff, Katy, Tam and everyone who participated in the MVV polishing Juan for all the Gravity work and for including more social activities in WG calls, esp. the icebreaker session Griff for guiding me through compensation from CommonsStack(and the awesome prelude text on the milestone, which really made me feel appreciated and more driven) Mitch, Chuy, Nate, Nuggan, Griff Zepti, Kris for all the awesome **MEMES**!
 
-![https://twemoji.maxcdn.com/2/72x72/1f977-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f977-1f3fd.png)
 
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png)
-
-1
 
 <h3>sem(🌸,🐝) <img src="https://cdn.discordapp.com/avatars/676517295643820032/bfcde0fd88f9b8e9c184906a5080c128.png" width=25 height=25></h3>
 
@@ -568,17 +523,8 @@ TEC Hatch
 
 TEC Hatch
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
 
-3
 
-![https://twemoji.maxcdn.com/2/72x72/1f44f.png](https://twemoji.maxcdn.com/2/72x72/1f44f.png)
-
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-1
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -675,9 +621,6 @@ Me and my 0.071881432304957833 WXDAI are outta-der!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f602.png](https://twemoji.maxcdn.com/2/72x72/1f602.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f4b0.png](https://twemoji.maxcdn.com/2/72x72/1f4b0.png)
-
-1
 
 <h3>elessar.eth <img src="https://cdn.discordapp.com/avatars/460149781562523650/801ce3da7d7a57f471f35f26d895deef.png" width=25 height=25></h3>
 
@@ -774,9 +717,6 @@ One of our first drug development DAOs @vita_dao is growing up fast
 
 combining longevity R&D and fractional IP
 
-![https://twemoji.maxcdn.com/2/72x72/1f469.png](https://twemoji.maxcdn.com/2/72x72/1f469.png)
-
-‍
 
 ![https://twemoji.maxcdn.com/2/72x72/1f52c.png](https://twemoji.maxcdn.com/2/72x72/1f52c.png)
 
@@ -804,9 +744,6 @@ _13-May-21 02:15 PM_:
 
 awesome!! thanks for sharing Paul!
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 [https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit#slide=id.gd2b2f4cc00_0_41](https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit#slide=id.gd2b2f4cc00_0_41)
 
@@ -854,13 +791,7 @@ _21-May-21 03:45 PM_:
 
 Hi Everybody This is a video that i've made for the project with collaboration of @chuygarcia.eth So i hope you like it
 
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
 
-3
-
-![https://twemoji.maxcdn.com/2/72x72/1f440.png](https://twemoji.maxcdn.com/2/72x72/1f440.png)
-
-1
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
@@ -927,13 +858,7 @@ sorry folks
 
 praise to bagholder, misanth, penguin, metaverde for always being in video chats working openly.
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f419.png](https://twemoji.maxcdn.com/2/72x72/1f419.png)
-
-3
 
 ![https://cdn.discordapp.com/avatars/757751905140211833/a_f15c00770e599ffeb0f78ecf42f53cdb.gif](https://cdn.discordapp.com/avatars/757751905140211833/a_f15c00770e599ffeb0f78ecf42f53cdb.gif)
 
@@ -953,27 +878,12 @@ _03-Jun-21 03:02 PM_:
 
 [https://discord.gg/Bnsp3gu67c](https://discord.gg/Bnsp3gu67c)
 
-![https://twemoji.maxcdn.com/2/72x72/1f919.png](https://twemoji.maxcdn.com/2/72x72/1f919.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-1
 
 Here is an Invite to MetaGame, thank you for the opportunity to share today
 
-![https://twemoji.maxcdn.com/2/72x72/1f919.png](https://twemoji.maxcdn.com/2/72x72/1f919.png)
 
-1
 
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
-
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-1
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -984,9 +894,6 @@ Hey @🐙Musashi13 These groups and gangs you mention sound alien to me
 
 how can we collaborate!? We wilL!
 
-![https://twemoji.maxcdn.com/2/72x72/1f606.png](https://twemoji.maxcdn.com/2/72x72/1f606.png)
-
-1
 
 The TEC Hatch AMA has moved from 1pm to 4pm CET on Thursdays to make it accessible to more time zones!
 
@@ -1043,9 +950,6 @@ interesting
 
 VC time logging
 
-![https://twemoji.maxcdn.com/2/72x72/262e.png](https://twemoji.maxcdn.com/2/72x72/262e.png)
-
-1
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -1091,17 +995,8 @@ Latest News & Praise Leader Board: May 22 — June 4
 
 ![https://miro.medium.com/max/970/1*59A8OpC0d6mv5a9BYHjwDw.jpeg](https://miro.medium.com/max/970/1*59A8OpC0d6mv5a9BYHjwDw.jpeg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f49c.png](https://twemoji.maxcdn.com/2/72x72/1f49c.png)
 
-2
 
-![https://twemoji.maxcdn.com/2/72x72/1f919.png](https://twemoji.maxcdn.com/2/72x72/1f919.png)
-
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/757751905140211833/a_f15c00770e599ffeb0f78ecf42f53cdb.gif](https://cdn.discordapp.com/avatars/757751905140211833/a_f15c00770e599ffeb0f78ecf42f53cdb.gif)
 
@@ -1133,13 +1028,7 @@ _16-Jun-21 12:19 PM_:
 
 Thanks for all the info, Musashi!
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f919.png](https://twemoji.maxcdn.com/2/72x72/1f919.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/757751905140211833/a_f15c00770e599ffeb0f78ecf42f53cdb.gif](https://cdn.discordapp.com/avatars/757751905140211833/a_f15c00770e599ffeb0f78ecf42f53cdb.gif)
 
@@ -1209,9 +1098,6 @@ _16-Jun-21 12:31 PM_:
 
 I know people who HAD tens of bitcoin who couldn't so now they aren't millionaires because they couldn't hold on
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -1243,17 +1129,8 @@ Here is a graphic I created about Gravity's DAO to DAO thinking right now, a wor
 
 ![https://cdn.discordapp.com/attachments/810744615048052767/854761157720932362/GravityDAO-Components-Draft4.png](https://cdn.discordapp.com/attachments/810744615048052767/854761157720932362/GravityDAO-Components-Draft4.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f49c.png](https://twemoji.maxcdn.com/2/72x72/1f49c.png)
 
-4
 
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f91f-1f3fb.png](https://twemoji.maxcdn.com/2/72x72/1f91f-1f3fb.png)
-
-2
 
 You would be most welcome here
 
@@ -1293,9 +1170,6 @@ _16-Jun-21 12:37 PM_:
 
 yeah
 
-![https://twemoji.maxcdn.com/2/72x72/1f49c.png](https://twemoji.maxcdn.com/2/72x72/1f49c.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -1309,9 +1183,6 @@ liviade
 
 i'll do my best to attend
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -1319,9 +1190,6 @@ _16-Jun-21 12:44 PM_:
 
 @ddan is presenting this week, and I'm presenting my Decolonization work next week
 
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-1
 
 If you want a preview of my presentation, you can listen to a basic outline here:[https://anchor.fm/holmeshealing/episodes/Decolonizing-the-World-with-Regis-Chapman-Durgadas-ess0eq](https://anchor.fm/holmeshealing/episodes/Decolonizing-the-World-with-Regis-Chapman-Durgadas-ess0eq) (edited)
 
@@ -1333,13 +1201,7 @@ Regis shares with us his experiences living on the autistic spectrum, the influe
 
 ![https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/5300177/5300177-1616023454614-f9b1a44b0ee62.jpg](https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/5300177/5300177-1616023454614-f9b1a44b0ee62.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f49c.png](https://twemoji.maxcdn.com/2/72x72/1f49c.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/757751905140211833/a_f15c00770e599ffeb0f78ecf42f53cdb.gif](https://cdn.discordapp.com/avatars/757751905140211833/a_f15c00770e599ffeb0f78ecf42f53cdb.gif)
 
@@ -1347,9 +1209,6 @@ Regis shares with us his experiences living on the autistic spectrum, the influe
 
 Bless you @liviade
 
-![https://twemoji.maxcdn.com/2/72x72/1f970.png](https://twemoji.maxcdn.com/2/72x72/1f970.png)
-
-1
 
 thank you all!!!
 
@@ -1359,17 +1218,8 @@ _16-Jun-21 12:50 PM_:
 
 Thanks for joining!
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
 
-1
 
-![https://twemoji.maxcdn.com/2/72x72/1f49c.png](https://twemoji.maxcdn.com/2/72x72/1f49c.png)
-
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f919.png](https://twemoji.maxcdn.com/2/72x72/1f919.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/757751905140211833/a_f15c00770e599ffeb0f78ecf42f53cdb.gif](https://cdn.discordapp.com/avatars/757751905140211833/a_f15c00770e599ffeb0f78ecf42f53cdb.gif)
 
@@ -1386,9 +1236,6 @@ thanks everyone!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f331.png](https://twemoji.maxcdn.com/2/72x72/1f331.png)
 
-![https://twemoji.maxcdn.com/2/72x72/2665.png](https://twemoji.maxcdn.com/2/72x72/2665.png)
-
-️
 
 <h3>arrow <img src="https://cdn.discordapp.com/avatars/852198167961272330/5fc44ecb63df1dfb15c6b5c503a83fe5.png" width=25 height=25></h3>
 
@@ -1448,9 +1295,6 @@ Contribute to bluedotdao/bondzier development by creating an account on GitHub.
 
 [https://opengraph.githubassets.com/ae80c56d522cc2f5b1dd7439a0412aea349cda129ed0070258e056b1a5288d8c/bluedotdao/bondzier](https://opengraph.githubassets.com/ae80c56d522cc2f5b1dd7439a0412aea349cda129ed0070258e056b1a5288d8c/bluedotdao/bondzier)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44f.png](https://twemoji.maxcdn.com/2/72x72/1f44f.png)
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1510,9 +1354,6 @@ Tam2140
 
 that worked. ty
 
-![https://twemoji.maxcdn.com/2/72x72/26a1.png](https://twemoji.maxcdn.com/2/72x72/26a1.png)
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -1520,13 +1361,7 @@ _24-Jun-21 03:03 PM_:
 
 Hi um if anyone can't join, please join um into the #deleted-channel or #deleted-channel I could add you via there) (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-1
 
 <h3>trentmc0 <img src="https://cdn.discordapp.com/avatars/694909516285739038/812e19576ed349d2d41d7fc31495617e.png" width=25 height=25></h3>
 
@@ -1540,17 +1375,8 @@ An Introduction to SPICE and TokenSPICE [short version] [https://github.com/ocea
 
 [https://lh3.googleusercontent.com/C2JXPDdkEnPd8kzioNg_I7PDbss7jh7aLFGlTk-liMpf5DO5_np5v_ItcDwZp9g32qvFQMjQiQXLBw=w1200-h630-p](https://lh3.googleusercontent.com/C2JXPDdkEnPd8kzioNg_I7PDbss7jh7aLFGlTk-liMpf5DO5_np5v_ItcDwZp9g32qvFQMjQiQXLBw=w1200-h630-p)
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
 
-3
 
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fc.png](https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fc.png)
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -1561,9 +1387,6 @@ I'm wondering, with all the work being ton for inculcating sourcecred and the IH
 
 SourceCred has been used by many DAOs, and both 1hive, metagame seem to have pretty satisfactory response to their implementations in Pollen and XP.
 
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-2
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -1571,9 +1394,6 @@ _30-Jun-21 12:15 PM_:
 
 ![https://cdn.discordapp.com/attachments/810744615048052767/859829509804261436/Components-Of-A-Generative-Courses-Meetings-Draft1.png](https://cdn.discordapp.com/attachments/810744615048052767/859829509804261436/Components-Of-A-Generative-Courses-Meetings-Draft1.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
 
@@ -1593,9 +1413,6 @@ Created with Figma
 
 [https://www.figma.com/file/b6kx4mkaHxzq4TPzaI1eRY/thumbnail?ver=thumbnails/a84ce9be-c5fe-4f8d-870d-1cc9e2978708](https://www.figma.com/file/b6kx4mkaHxzq4TPzaI1eRY/thumbnail?ver=thumbnails/a84ce9be-c5fe-4f8d-870d-1cc9e2978708)
 
-![https://twemoji.maxcdn.com/2/72x72/1f62e.png](https://twemoji.maxcdn.com/2/72x72/1f62e.png)
-
-1
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -1605,13 +1422,7 @@ Hey @everyone for what it's worth I want to let everyone know that I asked for h
 
 ![https://cdn.discordapp.com/attachments/810744615048052767/860244509564731432/Screen_Shot_2021-07-01_at_9.03.24_PM.png](https://cdn.discordapp.com/attachments/810744615048052767/860244509564731432/Screen_Shot_2021-07-01_at_9.03.24_PM.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-9
-
-![https://twemoji.maxcdn.com/2/72x72/1f632.png](https://twemoji.maxcdn.com/2/72x72/1f632.png)
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -1645,9 +1456,6 @@ Solar Protocol is a network of solar-powered servers that collectively host a we
 
 ![https://branch.climateaction.tech/wp-content/uploads/2021/05/solar_protocol_clock.png](https://branch.climateaction.tech/wp-content/uploads/2021/05/solar_protocol_clock.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f60d.png](https://twemoji.maxcdn.com/2/72x72/1f60d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
 
@@ -1687,9 +1495,6 @@ _09-Jul-21 06:03 AM_:
 
 Who is going to ETHCC? Wanted to coordinate a TEC contingent that would be up for beers in the evenings either during or before?
 
-![https://twemoji.maxcdn.com/2/72x72/1f446.png](https://twemoji.maxcdn.com/2/72x72/1f446.png)
-
-1
 
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
@@ -1828,9 +1633,6 @@ WG Stewards wishlist
 
 ![https://cdn.discordapp.com/attachments/810744615048052767/865606775411834880/wishlist.png](https://cdn.discordapp.com/attachments/810744615048052767/865606775411834880/wishlist.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/397833593126125571/40eb3fef69eaec98e73dccc8ccc19afa.png](https://cdn.discordapp.com/avatars/397833593126125571/40eb3fef69eaec98e73dccc8ccc19afa.png)
 
@@ -1885,15 +1687,9 @@ Thanks! Not interested in building a commons, but in collecting best practices f
 _03-Aug-21 02:37 PM_:
 I made those 2 videos to help the community to participate in the hatch, one explains how to wrap xdai and participate in the hatch and the other one help with the bridges too (mainnet and bsc) hope you guys enjoy
 
-![https://twemoji.maxcdn.com/2/72x72/2665.png](https://twemoji.maxcdn.com/2/72x72/2665.png)
 
-️
 
-[https://www.youtube.com/watch?v=tUfbre0Ob1E](https://www.youtube.com/watch?v=tUfbre0Ob1E)
-
-[Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
-
-How to participate in the Hatch!
+[How to participate in the Hatch!](https://www.youtube.com/watch?v=tUfbre0Ob1E)
 
 - Honeyswap:
 
@@ -1937,19 +1733,10 @@ or say hello on Telegram
 
 ![https://i.ytimg.com/vi/tUfbre0Ob1E/sddefault.jpg](https://i.ytimg.com/vi/tUfbre0Ob1E/sddefault.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
-2
 
-![https://twemoji.maxcdn.com/2/72x72/1f4aa.png](https://twemoji.maxcdn.com/2/72x72/1f4aa.png)
 
-2
-
-[https://www.youtube.com/watch?v=BskM2BvZDJI](https://www.youtube.com/watch?v=BskM2BvZDJI)
-
-[Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
-
-Mainnet Bridge, BSC Bridge and wxDai
+[Mainnet Bridge, BSC Bridge and wxDai](https://www.youtube.com/watch?v=BskM2BvZDJI)
 
 - xDai Bridge:
 
@@ -2009,9 +1796,6 @@ Unique Network will be the lead technology partner for a program from the UN’s
 
 ![https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDcvNGZjMmU5MDAtMjBhZC00M2ViLTk4NDgtOWM2NTRlODM3ZjNlLmpwZw==.jpg](https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDcvNGZjMmU5MDAtMjBhZC00M2ViLTk4NDgtOWM2NTRlODM3ZjNlLmpwZw==.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44a-1f3fb.png](https://twemoji.maxcdn.com/2/72x72/1f44a-1f3fb.png)
-
-1
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -2104,9 +1888,6 @@ Awesome hatch! Thanks everyone
 
 2
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/676517295643820032/bfcde0fd88f9b8e9c184906a5080c128.png](https://cdn.discordapp.com/avatars/676517295643820032/bfcde0fd88f9b8e9c184906a5080c128.png)
 
@@ -2121,9 +1902,6 @@ Very cool! That went so well, was great to see this happen in action!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>mZ <img src="https://cdn.discordapp.com/avatars/250086586450968576/47dfdb0a34918f2e6a1abcf362dd8cc4.png" width=25 height=25></h3>
 
@@ -2155,15 +1933,9 @@ sneak preview on the series
 
 ![https://cdn.discordapp.com/attachments/810744615048052767/877276819143950376/Screen_Shot_2021-08-16_at_1.23.47_PM.png](https://cdn.discordapp.com/attachments/810744615048052767/877276819143950376/Screen_Shot_2021-08-16_at_1.23.47_PM.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-1
 
 ![https://cdn.discordapp.com/attachments/810744615048052767/877276821815701544/Screen_Shot_2021-08-16_at_1.24.09_PM.png](https://cdn.discordapp.com/attachments/810744615048052767/877276821815701544/Screen_Shot_2021-08-16_at_1.24.09_PM.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f440.png](https://twemoji.maxcdn.com/2/72x72/1f440.png)
-
-1
 
 <h3>mZ <img src="https://cdn.discordapp.com/avatars/250086586450968576/47dfdb0a34918f2e6a1abcf362dd8cc4.png" width=25 height=25></h3>
 
@@ -2175,9 +1947,6 @@ _17-Aug-21 03:56 PM_:
 
 2
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/250086586450968576/47dfdb0a34918f2e6a1abcf362dd8cc4.png](https://cdn.discordapp.com/avatars/250086586450968576/47dfdb0a34918f2e6a1abcf362dd8cc4.png)
 
@@ -2213,9 +1982,6 @@ Ethics as Mission and Motivation for the Token Engineering Commons
 
 [https://miro.medium.com/max/1063/0*G-1nJznLbX_r44YO](https://miro.medium.com/max/1063/0*G-1nJznLbX_r44YO)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
@@ -2290,9 +2056,6 @@ _19-Aug-21 02:29 PM_:
 
 ![https://cdn.discordapp.com/attachments/810744615048052767/877982719227859074/image0.png](https://cdn.discordapp.com/attachments/810744615048052767/877982719227859074/image0.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-1
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -2304,9 +2067,6 @@ Governauts (@GovernanceDAO)
 
 one small step for a project; one giant leap for humanity
 
-![https://twemoji.maxcdn.com/2/72x72/1f9d1.png](https://twemoji.maxcdn.com/2/72x72/1f9d1.png)
-
-‍
 
 ![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
 
@@ -2366,9 +2126,6 @@ This is a recording of the first Governauts event hosted on Aug 13, 2021. About 
 
 ![https://i.ytimg.com/vi/tgCaSyWBxgE/maxresdefault.jpg](https://i.ytimg.com/vi/tgCaSyWBxgE/maxresdefault.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png)
-
-1
 
 Register here in case you'd like to participate in the community research program: [https://tokenengineeringcommunity.github.io/website/docs/academy-welcome#incubating-governauts](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome#incubating-governauts)
 
@@ -2617,9 +2374,6 @@ Hey there! This is no longer a Praise Bot, but rather a Praise System
 
 . I will need help in UI/UX development (I don't develop interfaces). I can develop the bots and backend myself. It would also be nice if someone took on the role of a system administrator or devops, so that I could focus on developing the backend. I'm sorry that I didn't come to the meeting, I have several meetings on my main work right now
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -2635,9 +2389,6 @@ Vyvy-vi’s blog, documenting Vy’s journey, interests, experiences and some ot
 
 ![https://d1aettbyeyfilo.cloudfront.net/eddiejaoude/19429387_1620601923PHeqY3nCH2.gif](https://d1aettbyeyfilo.cloudfront.net/eddiejaoude/19429387_1620601923PHeqY3nCH2.gif)
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-2
 
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
@@ -2661,11 +2412,8 @@ We are sharing interesting links on today's TEC Lounge call! Share yours!
 
 _17-Sep-21 11:28 AM_:
 
-[https://www.youtube.com/watch?v=TioZt2aBZVE](https://www.youtube.com/watch?v=TioZt2aBZVE)
 
-[Vértigo Films](https://www.youtube.com/channel/UCnn5aM1-AaHysNxouHe_j2Q)
-
-EL CASTILLO AMBULANTE - Tráiler Original Subtitulado | HD
+[EL CASTILLO AMBULANTE - Tráiler Original Subtitulado | HD](https://www.youtube.com/watch?v=TioZt2aBZVE)
 
 - REEDICIÓN EN HD A LA VENTA DESDE EL 25 DE OCTUBRE - - Extracto en HD de una de las obras maestras de #HayaoMiyazaki, la aclamada #ElCastilloAmbulante Sophie, una adolescente que trabaja en una tienda de sombreros, se encuentra sumida en la confusión cuando de pronto, se deja literalmente llevar por un apuesto pero misterioso mago llamado Ho...
 
@@ -2675,11 +2423,8 @@ EL CASTILLO AMBULANTE - Tráiler Original Subtitulado | HD
 
 _17-Sep-21 11:30 AM_:
 
-[https://www.youtube.com/watch?v=s0vN_2MRR50](https://www.youtube.com/watch?v=s0vN_2MRR50)
 
-[ワーナー ブラザース 公式チャンネル](https://www.youtube.com/channel/UCSrwpEM8lBM4jR5YoKX3XOQ)
-
-RUROUNI KENSHIN: THE BEGINNING – Official Main Trailer
+[RUROUNI KENSHIN: THE BEGINNING – Official Main Trailer](https://www.youtube.com/watch?v=s0vN_2MRR50)
 
 Watch the official main trailer for RUROUNI KENSHIN: THE BEGINNING now — in theaters June 4. #RurouniKenshinMovie ----------------- Official Site: [http://rurouni-kenshin.jp](http://rurouni-kenshin.jp/) Official Twitter: [https://twitter.com/ruroken_movie](https://twitter.com/ruroken_movie) Official Instagram: [https://www.instagram.com/ruroken_movie/](https://www.instagram.com/ruroken_movie/) ----------------- ●ABOUT THE MOVIE A big hit film franchise...
 
@@ -2689,11 +2434,8 @@ Watch the official main trailer for RUROUNI KENSHIN: THE BEGINNING now — in th
 
 _17-Sep-21 11:31 AM_:
 
-[https://www.youtube.com/watch?v=uaaC57tcci0](https://www.youtube.com/watch?v=uaaC57tcci0)
 
-[Netflix](https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw)
-
-The Social Dilemma | Official Trailer | Netflix
+[The Social Dilemma | Official Trailer | Netflix](https://www.youtube.com/watch?v=uaaC57tcci0)
 
 We tweet, we like, and we share— but what are the consequences of our growing dependence on social media? As digital platforms increasingly become a lifeline to stay connected, Silicon Valley insiders reveal how social media is reprogramming civilization by exposing what’s hiding on the other side of your screen. [https://Netflix.com/thesocialdi](https://netflix.com/thesocialdi)...
 
@@ -2703,19 +2445,13 @@ We tweet, we like, and we share— but what are the consequences of our growing 
 
 _17-Sep-21 11:33 AM_:
 
-[https://www.youtube.com/watch?v=3fjzY6PMPc4](https://www.youtube.com/watch?v=3fjzY6PMPc4)
 
-[Andy G - Topic](https://www.youtube.com/channel/UCUz85zpez_FJLBkGZYuvGWA)
-
-Para Que Vuelvas
+[Para Que Vuelvas](https://www.youtube.com/watch?v=3fjzY6PMPc4)
 
 Provided to YouTube by Believe SAS Para Que Vuelvas · Andy G · Andres Del Risco · Kido Gaona · Andres Del Risco · Kido Gaona · JD Music · Valop Music Para Que Vuelvas ℗ Valop Music Released on: 2021-09-17 Auto-generated by YouTube.
 
 ![https://i.ytimg.com/vi/3fjzY6PMPc4/maxresdefault.jpg](https://i.ytimg.com/vi/3fjzY6PMPc4/maxresdefault.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f389.png](https://twemoji.maxcdn.com/2/72x72/1f389.png)
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -2723,9 +2459,6 @@ _20-Sep-21 10:06 PM_:
 
 hey everyone, tomorrow in soft gov we'll have a discussion that came up as the Retrospective action for this sprint: is there anything in the culture we should abandon? does it feel like anything is holding us back? If so, how to make this transitions? It will be great to hear everyone's insights ✨
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png)
-
-3
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -2752,11 +2485,8 @@ The video from this song was released yesterday
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
-[https://www.youtube.com/watch?v=kjjfjJFxFOM](https://www.youtube.com/watch?v=kjjfjJFxFOM)
 
-[Andy G](https://www.youtube.com/channel/UCYd5cNrEFuJ7egCcbTzJstw)
-
-Andy G - Para Que Vuelvas
+[Andy G - Para Que Vuelvas](https://www.youtube.com/watch?v=kjjfjJFxFOM)
 
 Suscríbete al canal aquí: [https://www.youtube.com/andygoficial​](https://www.youtube.com/andygoficial%E2%80%8B) Para Que Vuelvas · Canción producida por JD Music - Valop Music en los estudios de GMG EMPIRE. Sigue a Andy G en: - Instagram: [https://www.instagram.com/andygoficial](https://www.instagram.com/andygoficial) ​ Contacto Booking & Management: GMG EMPIRE andygbooking@live.com // (+57) 3043828438
 
@@ -2820,11 +2550,8 @@ el nuevo sencillo de NecroMorfo, la banda mas #aesthetic del rock nacional de la
 
 _24-Sep-21 11:42 AM_:
 
-[https://www.youtube.com/watch?v=C9uOaDZDT-s](https://www.youtube.com/watch?v=C9uOaDZDT-s)
 
-[Screen Junkies](https://www.youtube.com/channel/UCOpcACMWblDls9Z6GERVi1A)
-
-Honest Trailers - Doctor Who (Modern)
+[Honest Trailers - Doctor Who (Modern)](https://www.youtube.com/watch?v=C9uOaDZDT-s)
 
 From fancy PBS comes a show where anything can happen and none of the continuity matters- it's Honest Trailers for Doctor Who! (Modern Version) Watch the Honest Trailer for Classic Doctor Who at the link below! [https://www.youtube.com/watch?v=TOeloEkQw6I](https://www.youtube.com/watch?v=TOeloEkQw6I) Watch the Honest Trailers Commentary to see an inside look from the writer's perspective! ...
 
@@ -2832,11 +2559,8 @@ From fancy PBS comes a show where anything can happen and none of the continuity
 
 lol, this is the last trailer I watched
 
-I think this might be more relatable - [https://www.youtube.com/watch?v=0vKkwJwL77Y](https://www.youtube.com/watch?v=0vKkwJwL77Y)
-
-[Screen Junkies](https://www.youtube.com/channel/UCOpcACMWblDls9Z6GERVi1A)
-
-Honest Trailers - Star Wars: Episode VI - Return of the Jedi
+I think this might be more relatable - 
+[Honest Trailers - Star Wars: Episode VI - Return of the Jedi](https://www.youtube.com/watch?v=0vKkwJwL77Y)
 
 This episode is brought to you by T-Mobile. Buy one of the season’s hottest Samsung Galaxy smartphones, get a second one free to gift. Only at T-Mobile. [http://bit.ly/2iZDff8](http://bit.ly/2iZDff8) Before The Last Jedi opens this weekend, catch up on the finale to the Original Star Wars trilogy that can best be described as "the third one" - It's Star Wars: Episode V...
 
@@ -2864,19 +2588,13 @@ Do you know which is best? Alfredo's Pizza Cafe or Pizza by Alfredo? Comment you
 
 ![https://i.ytimg.com/vi/S6h3nqWBNPE/maxresdefault.jpg](https://i.ytimg.com/vi/S6h3nqWBNPE/maxresdefault.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f602.png](https://twemoji.maxcdn.com/2/72x72/1f602.png)
-
-3
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 _25-Sep-21 02:27 PM_:
 
-An interesting and lovely perspective from Quincy Larson(freeCodeCamp)- [https://www.youtube.com/watch?v=Hp1INWuXIgo](https://www.youtube.com/watch?v=Hp1INWuXIgo)
-
-[Coffeezilla](https://www.youtube.com/channel/UCFQMnBA3CS502aghlcr0_aw)
-
-a World Class Coding Education But the Cost Is Surprisingly Affordable
+An interesting and lovely perspective from Quincy Larson(freeCodeCamp)- 
+[a World Class Coding Education But the Cost Is Surprisingly Affordable](https://www.youtube.com/watch?v=Hp1INWuXIgo)
 
 Quincy Larson set out to create a fully-online inclusive free platform for peer-driven learning of coding - the result of which is freeCodeCamp. To get a free coding education, visit:
 
@@ -2900,9 +2618,6 @@ Music:
 
 ![https://i.ytimg.com/vi/Hp1INWuXIgo/maxresdefault.jpg](https://i.ytimg.com/vi/Hp1INWuXIgo/maxresdefault.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f446.png](https://twemoji.maxcdn.com/2/72x72/1f446.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
 
@@ -2918,9 +2633,6 @@ _27-Sep-21 04:49 PM_:
 
 thank you for sharing Vy!
 
-![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -3011,17 +2723,8 @@ Toda la actualidad relacionada con la agricultura y la ganadería a tu alcance. 
 
 ![https://sevilla.abc.es/agronoma/wp-content/uploads/sites/13/2019/01/fruta-pitaya-recurso.jpg](https://sevilla.abc.es/agronoma/wp-content/uploads/sites/13/2019/01/fruta-pitaya-recurso.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f60b.png](https://twemoji.maxcdn.com/2/72x72/1f60b.png)
 
-2
 
-![https://twemoji.maxcdn.com/2/72x72/1f60d.png](https://twemoji.maxcdn.com/2/72x72/1f60d.png)
-
-1
-
-![https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png](https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -3061,9 +2764,6 @@ _01-Oct-21 11:37 AM_:
 
 ![https://cdn.discordapp.com/attachments/810744615048052767/893522008766283818/download-2.jpg](https://cdn.discordapp.com/attachments/810744615048052767/893522008766283818/download-2.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f62e.png](https://twemoji.maxcdn.com/2/72x72/1f62e.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/417979381332443136/d145fdbe6fea9d40b4a5e729859a2a2f.png](https://cdn.discordapp.com/avatars/417979381332443136/d145fdbe6fea9d40b4a5e729859a2a2f.png)
 
@@ -3077,17 +2777,11 @@ _01-Oct-21 11:37 AM_:
 
 oh YEAH
 
-![https://twemoji.maxcdn.com/2/72x72/1f606.png](https://twemoji.maxcdn.com/2/72x72/1f606.png)
-
-1
 
 Chayote
 
 ![https://cdn.discordapp.com/attachments/810744615048052767/893522392436068492/chayotte-large.png](https://cdn.discordapp.com/attachments/810744615048052767/893522392436068492/chayotte-large.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -3109,15 +2803,9 @@ Jain vegetarianism is practiced by the followers of Jain culture and philosophy.
 
 ![https://upload.wikimedia.org/wikipedia/commons/b/b1/Jain_Vegetarianism_Illustration.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b1/Jain_Vegetarianism_Illustration.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-1
 
-[https://www.youtube.com/watch?v=QWMoC8wfN1o](https://www.youtube.com/watch?v=QWMoC8wfN1o)
-
-[Mcki Robyns-P](https://www.youtube.com/channel/UCyYtkeXIxSQ85WcfCy8dgXQ)
-
-【Vocal cover】Spider dance (Undertale Remix) 【Hatsune Miku V4X】 + VS...
+[【Vocal cover】Spider dance (Undertale Remix) 【Hatsune Miku V4X】 + VS...](https://www.youtube.com/watch?v=QWMoC8wfN1o)
 
 "Pay or die either is fine!" SOUNDS BEST WITH HEADPHONES! I take requests for covers (English or Japanese) and I also give away lyrics to producer who want them for FREE. Just ask in the comments! Thank you so much for 100+ subscribers!!! Thanks for sticking with me and watching me improve. It's because of those who comment and email me their...
 
@@ -3127,11 +2815,8 @@ Jain vegetarianism is practiced by the followers of Jain culture and philosophy.
 
 _01-Oct-21 11:45 AM_:
 
-[https://www.youtube.com/watch?v=MxNv2dc39k0](https://www.youtube.com/watch?v=MxNv2dc39k0)
 
-[Clement Yanez](https://www.youtube.com/channel/UCa-7MFqz2cBafD3J32GxW1g)
-
-Woodkid- The golden age live
+[Woodkid- The golden age live](https://www.youtube.com/watch?v=MxNv2dc39k0)
 
 Woodkid aux nuits de Fourviere
 
@@ -3221,17 +2906,8 @@ _07-Oct-21 10:38 AM_:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3fb.png](https://twemoji.maxcdn.com/2/72x72/1f3fb.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
 
-2
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-3
-
-![https://twemoji.maxcdn.com/2/72x72/1f3c4-1f3fb-200d-2640.png](https://twemoji.maxcdn.com/2/72x72/1f3c4-1f3fb-200d-2640.png)
-
-1
 
 <h3>siebold_magnolia <img src="https://cdn.discordapp.com/avatars/174236831116820480/23dfc53aa11c936233ff05c2e84349e3.png" width=25 height=25></h3>
 
@@ -3438,9 +3114,6 @@ COMMUNITY CALL 52 Weekly updates from the TEC OCTOBER 7 tecommons.org General Vo
 
 [https://lh3.googleusercontent.com/J9MwhV10fEDd2DcRrfWfFIaq8Et4EDCj5PjwBpgILiRkRxXk0fpDVHKRTqa2mMbSP1gy8AmuquLnfA=w1200-h630-p](https://lh3.googleusercontent.com/J9MwhV10fEDd2DcRrfWfFIaq8Et4EDCj5PjwBpgILiRkRxXk0fpDVHKRTqa2mMbSP1gy8AmuquLnfA=w1200-h630-p)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 <h3>LBS <img src="https://cdn.discordapp.com/avatars/633708951447535616/fa32450586a44254683a9734116bdeca.png" width=25 height=25></h3>
 
@@ -3516,19 +3189,13 @@ Vyvy-vi
 
 _08-Oct-21 06:49 PM_:
 
-This is super geeky, but it gives you a feel for where this tool category is headed. Super exciting. I'm hoping to build some bridges between Web3 and the Linked Data world. [https://www.youtube.com/watch?v=F1HYaGfqzLM&t=1020s](https://www.youtube.com/watch?v=F1HYaGfqzLM&t=1020s)
-
-[Ivo Velitchkov](https://www.youtube.com/channel/UC03tC4dvynycggHpn0JHK8Q)
-
-Semantic Hacks for Roam
+This is super geeky, but it gives you a feel for where this tool category is headed. Super exciting. I'm hoping to build some bridges between Web3 and the Linked Data world. 
+[Semantic Hacks for Roam](https://www.youtube.com/watch?v=F1HYaGfqzLM&t=1020s)
 
 Thank you to KGC for providing this video. Get 25% OFF your first three months of the KGC Video Library. Click here: [https://knowledgegraphconference.vhx.tv/checkout/subscribe/purchase?code=path&plan=monthly](https://knowledgegraphconference.vhx.tv/checkout/subscribe/purchase?code=path&plan=monthly) . Here I share a couple of semantic hacks for Roam and some thoughts on the evolution of Personal Knowledge Graphs. This session was part ...
 
 ![https://i.ytimg.com/vi/F1HYaGfqzLM/maxresdefault.jpg](https://i.ytimg.com/vi/F1HYaGfqzLM/maxresdefault.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>heyitsDB <img src="https://cdn.discordapp.com/avatars/846670227559284736/c3b2b6003a13b9c69131a0dd9e2f2cb1.png" width=25 height=25></h3>
 
@@ -3548,9 +3215,6 @@ _14-Oct-21 12:12 PM_:
 
 It was pleasure as well! We will take a look at your DAOs, thank you so much for sharing ❤️
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -3570,9 +3234,6 @@ _14-Oct-21 03:03 PM_:
 
 Thank you for the invite, feel free to reach out if anybody wants to know more! pete@teratree.com, www.centree.org
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png)
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -3616,9 +3277,6 @@ _15-Oct-21 11:17 AM_:
 
 Hey @metaverde thanks for the welcome! Yes I 100% know Jake he's one of the OG longtail wizards
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-1
 
 <h3>Stretch <img src="https://cdn.discordapp.com/avatars/707340770645901474/e1f0b73d535761103eca3d492d528ff9.png" width=25 height=25></h3>
 
@@ -3644,9 +3302,6 @@ metaverde
 
 @metaverde 100%. I started in June and since then it's like time doesn't exist anymore. Lol.
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-1
 
 <h3>Yonks｜③🏡🪙 <img src="https://cdn.discordapp.com/avatars/185932915803160577/0926d9d436d8ef3addd80ba8dd72a2d9.png" width=25 height=25></h3>
 
@@ -3681,9 +3336,6 @@ Hey @Lauren I've heard you praise somebody for working on NFTs for good, could y
 
 I am also working on something like that, a project that is based on helping artists/creatives earn a little while creating strategies and developments for good purposes (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/373871853019594752/0ab76041380ae397aaecd68017b9aaf1.png](https://cdn.discordapp.com/avatars/373871853019594752/0ab76041380ae397aaecd68017b9aaf1.png)
 
@@ -3735,11 +3387,8 @@ COMMUNITY CALL 54 Weekly updates from the TEC OCTOBER 21 tecommons.org General V
 
 _21-Oct-21 02:51 PM_:
 
-Live stream of the Community Call here: [https://www.youtube.com/watch?v=TEok0WdIdZ0](https://www.youtube.com/watch?v=TEok0WdIdZ0)
-
-[Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
-
-TEC Community Call 53: WG updates and Centree
+Live stream of the Community Call here: 
+[TEC Community Call 53: WG updates and Centree](https://www.youtube.com/watch?v=TEok0WdIdZ0)
 
 Timecodes: 00:00 - Praise time! 20:05 - Agenda 23:17 - Stewards 28:54 - Gravity 30:56 - Common Swarm 34:07 - Soft Gov 39:40 - Transparency 41:43 - Comunitas 44:58 - 0mega 46:45 - Labs 49:45 - Comms 50:39 - Legal 51:24 - Params 53:35 - Centree
 
@@ -3777,9 +3426,6 @@ Listen to this episode from The Joe Rogan Experience on Spotify. Paul Stamets is
 
 [https://i.scdn.co/image/02b1045cf8d99b7fca88ec2ccda4dbb70f55eeff](https://i.scdn.co/image/02b1045cf8d99b7fca88ec2ccda4dbb70f55eeff)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -3968,9 +3614,6 @@ see you soon at a params party
 
 ![https://cdn.discordapp.com/emojis/828514959893463052.gif](https://cdn.discordapp.com/emojis/828514959893463052.gif)
 
-![https://twemoji.maxcdn.com/2/72x72/1f643.png](https://twemoji.maxcdn.com/2/72x72/1f643.png)
-
-1
 
 <h3>tigeroid <img src="https://cdn.discordapp.com/avatars/229882938970341377/7c2e37e1c373eda314b9cbe316a261c4.png" width=25 height=25></h3>
 
@@ -4108,9 +3751,6 @@ TEC Source is here to provide easy access to active and archived documents withi
 
 ![https://app.gitbook.com/share/space/thumbnail/-Mj5bOyMOomkgNfE--be.png?color=%23A44EED&logo=&theme=dark](https://app.gitbook.com/share/space/thumbnail/-Mj5bOyMOomkgNfE--be.png?color=%23A44EED&logo=&theme=dark)
 
-![https://twemoji.maxcdn.com/2/72x72/1f970.png](https://twemoji.maxcdn.com/2/72x72/1f970.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -4184,9 +3824,6 @@ _24-Nov-21 09:53 AM_:
 
 oh Lisa is super nice to talk to, she's literally next door from my office haha
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Edgar Arellano <img src="https://cdn.discordapp.com/avatars/753494673808424961/99890c193cee4c7d449b171363311322.png" width=25 height=25></h3>
 
@@ -4212,9 +3849,6 @@ Great you are interested in Token Engineering! This is the registration form for
 
 [https://lh3.googleusercontent.com/vaIb549HGvJnrwTGMMLYo_o7cdd3jr3RdI4a0oAOk1D7lkuMiOCR6wIX59nei_HASHcc9ND3CSU=w1200-h630-p](https://lh3.googleusercontent.com/vaIb549HGvJnrwTGMMLYo_o7cdd3jr3RdI4a0oAOk1D7lkuMiOCR6wIX59nei_HASHcc9ND3CSU=w1200-h630-p)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 (It's also linked in the slides!)
 
@@ -4229,13 +3863,7 @@ Thanks!
 _25-Nov-21 03:02 PM_:
 That was so lovely and emotional at the end, my heart is very full and fulfilled. Grateful to each and every one of us here.
 
-![https://twemoji.maxcdn.com/2/72x72/2665.png](https://twemoji.maxcdn.com/2/72x72/2665.png)
 
-️
-
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-4
 
 <h3>tigeroid <img src="https://cdn.discordapp.com/avatars/229882938970341377/7c2e37e1c373eda314b9cbe316a261c4.png" width=25 height=25></h3>
 
@@ -4265,9 +3893,6 @@ Hi
 
 Nice to meet y'all
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fb.png](https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fb.png)
-
-1
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -4287,9 +3912,6 @@ Ethics as Mission and Motivation for the Token Engineering Commons
 
 [https://miro.medium.com/max/1063/0*G-1nJznLbX_r44YO](https://miro.medium.com/max/1063/0*G-1nJznLbX_r44YO)
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-3
 
 ![https://cdn.discordapp.com/avatars/417979381332443136/d145fdbe6fea9d40b4a5e729859a2a2f.png](https://cdn.discordapp.com/avatars/417979381332443136/d145fdbe6fea9d40b4a5e729859a2a2f.png)
 
@@ -4309,13 +3931,7 @@ _08-Dec-21 12:59 PM_:
 
 @Derek Barrera Let me also link you up with @ygg_anderson, the Steward of TEC Labs and founder of Long Tail Financial. They provide consulting services for the kind of tokenomics project that you just mentioned.
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
 
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
 
@@ -4340,9 +3956,6 @@ _09-Dec-21 02:24 PM_:
 
 Congratsss @Lauren
 
-![https://twemoji.maxcdn.com/2/72x72/1f970.png](https://twemoji.maxcdn.com/2/72x72/1f970.png)
-
-1
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -4356,9 +3969,6 @@ _09-Dec-21 02:51 PM_:
 
 quadratic phi-nancing - 100DAI = 7000+
 
-![https://twemoji.maxcdn.com/2/72x72/1f42d.png](https://twemoji.maxcdn.com/2/72x72/1f42d.png)
-
-➕
 
 ![https://twemoji.maxcdn.com/2/72x72/1f9d9.png](https://twemoji.maxcdn.com/2/72x72/1f9d9.png)
 
@@ -4413,9 +4023,6 @@ _09-Dec-21 09:23 PM_:
 
 Thanks @MS !! ❤️
 
-![https://twemoji.maxcdn.com/2/72x72/1f917.png](https://twemoji.maxcdn.com/2/72x72/1f917.png)
-
-1
 
 <h3>viviuu <img src="https://cdn.discordapp.com/avatars/818630634511269950/c7bda615d321182b8274a7d4b3d5a7ca.png" width=25 height=25></h3>
 
@@ -4449,9 +4056,6 @@ A lot of respect to every proposal champion in the debate right now! I don’t t
 
 2
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -4493,13 +4097,7 @@ I have a 14:30 call I have to hop into - but I am super happy I made the first h
 
 ![https://twemoji.maxcdn.com/2/72x72/1f929.png](https://twemoji.maxcdn.com/2/72x72/1f929.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png](https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png)
 
@@ -4515,9 +4113,6 @@ _04-Jan-22 12:00 AM_:
 
 I’m finally learning how to use discord thanks to Mandala Metaverse. I’m planning on getting more involved with TEC and figure out how this stuff works.
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -4529,11 +4124,8 @@ _04-Jan-22 02:02 PM_:
 
 _13-Jan-22 02:45 PM_:
 
-For those that can't get into the Community Hall room, we are also LIVE on YouTube! [https://www.youtube.com/watch?v=ow3PelPFtfY](https://www.youtube.com/watch?v=ow3PelPFtfY)
-
-[Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
-
-Community Call
+For those that can't get into the Community Hall room, we are also LIVE on YouTube! 
+[Community Call](https://www.youtube.com/watch?v=ow3PelPFtfY)
 
 ![https://i.ytimg.com/vi/ow3PelPFtfY/maxresdefault_live.jpg](https://i.ytimg.com/vi/ow3PelPFtfY/maxresdefault_live.jpg)
 
@@ -4581,9 +4173,6 @@ _13-Jan-22 06:23 PM_:
 
 oh I must have missed this message by minutes, went an mowed the lawn instead. I'll be abck for next one!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png)
-
-1
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -4598,9 +4187,6 @@ if you can, I highly recommend you attend our Onboarding call at our Community H
 
 ![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f917.png](https://twemoji.maxcdn.com/2/72x72/1f917.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png](https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png)
 
@@ -4639,9 +4225,6 @@ _19-Jan-22 06:30 PM_:
 
 re: alternatives to metaverse landowner monopolies and token models that can enable it Hi all - anyone here thinking about, or witness to an alternative paradigm on metaverse land? what i mean is there is much speculation about owning real estate in the metaverse(s) - but this is a very web2 capitalist idea! Maybe land grabs prevail, or maybe there is some new paradigm that makes spatial value more portable depending on who and what is transpiring. why should it be tied to land? It would really suck if metaverses just copy today's landowner monopolies. Hope this makes sense. Thanks for considering.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/363906857439461386/e508bdfa8b1c71595b0c38fdc89cbbb8.png](https://cdn.discordapp.com/avatars/363906857439461386/e508bdfa8b1c71595b0c38fdc89cbbb8.png)
 
@@ -4655,9 +4238,6 @@ _20-Jan-22 01:52 AM_:
 
 It will probably be a mix.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -4693,9 +4273,6 @@ Gardens
 
 Gardens
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/3.png](https://cdn.discordapp.com/embed/avatars/3.png)
 
@@ -4711,9 +4288,6 @@ _26-Jan-22 12:59 PM_:
 
 42.35 MB
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-1
 
 <h3>ManuelMaccou🏴 <img src="https://cdn.discordapp.com/avatars/885633822509629471/0a766a284373a12fc3d3f5a0222c1fec.png" width=25 height=25></h3>
 
@@ -4926,19 +4500,13 @@ _25-Feb-22 10:49 AM_:
 
 [https://www.marxists.org/archive/marx/works/download/Marx_Contribution_to_the_Critique_of_Political_Economy.pdf](https://www.marxists.org/archive/marx/works/download/Marx_Contribution_to_the_Critique_of_Political_Economy.pdf)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fe.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fe.png)
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _28-Feb-22 07:58 PM_:
 
-[https://www.youtube.com/watch?v=Jq-mv9mRv8w](https://www.youtube.com/watch?v=Jq-mv9mRv8w)
 
-[SatoriD](https://www.youtube.com/channel/UCcMViyRW8GMZxt8V1sLZBTA)
-
-Unconscious TapeLoop Blues #2
+[Unconscious TapeLoop Blues #2](https://www.youtube.com/watch?v=Jq-mv9mRv8w)
 
 Old man down the street just waiting around to die lungs have gotten so bad that he has to walks up and down the block up and down the block he sits on his front step hung over, beaten by life Been working hard in the factory The factory that I call my mind Because I spent 6 days locked up Had visions of nim and the devil My consciousness ...
 
@@ -4985,9 +4553,6 @@ _17-Mar-22 06:13 AM_:
 
 You may want to look at platforms like Aragon, Colony or DAOHaus
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fb.png](https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fb.png)
-
-1
 
 <h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
@@ -5019,9 +4584,6 @@ COMMUNITY CALL 74 Weekly updates from the TEC MARCH 17 tecommons.org General Voi
 
 [https://lh3.googleusercontent.com/J9MwhV10fEDd2DcRrfWfFIaq8Et4EDCj5PjwBpgILiRkRxXk0fpDVHKRTqa2mMbSP1gy8AmuquLnfA=w1200-h630-p](https://lh3.googleusercontent.com/J9MwhV10fEDd2DcRrfWfFIaq8Et4EDCj5PjwBpgILiRkRxXk0fpDVHKRTqa2mMbSP1gy8AmuquLnfA=w1200-h630-p)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -5050,9 +4612,6 @@ Cheese!
 
 ![https://cdn.discordapp.com/attachments/810744615048052767/959156013402030211/Screen_Shot_2022-03-31_at_8.22.31_PM.png](https://cdn.discordapp.com/attachments/810744615048052767/959156013402030211/Screen_Shot_2022-03-31_at_8.22.31_PM.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f9c0.png](https://twemoji.maxcdn.com/2/72x72/1f9c0.png)
-
-1
 
 <h3>evanjacobs <img src="https://cdn.discordapp.com/avatars/781249504396836915/d73a7c08f99180362703f862d06ff07e.png" width=25 height=25></h3>
 
@@ -5060,9 +4619,6 @@ _31-Mar-22 02:37 PM_:
 
 I've got to run but thanks for the intro to TEC. It seems like a very nice and welcoming community! I'm going to poke around a bit more to figure out the best way(s) I might be able to dive in.
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png)
-
-1
 
 <h3>██knast <img src="https://cdn.discordapp.com/avatars/717543930996195410/29599da16121668c7b658e607befc88e.png" width=25 height=25></h3>
 
@@ -5076,17 +4632,8 @@ Uniswap V3 impermanent loss simulations. Contribute to knasterk/ImpermanentLoss 
 
 [https://opengraph.githubassets.com/a42f92a42aa17f3b850b01a380cab4efc48f33f219f8b99f413385a36fc322b7/knasterk/ImpermanentLoss](https://opengraph.githubassets.com/a42f92a42aa17f3b850b01a380cab4efc48f33f219f8b99f413385a36fc322b7/knasterk/ImpermanentLoss)
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
 
-2
 
-![https://twemoji.maxcdn.com/2/72x72/1f440.png](https://twemoji.maxcdn.com/2/72x72/1f440.png)
-
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f4aa-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f4aa-1f3fd.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/717543930996195410/29599da16121668c7b658e607befc88e.png](https://cdn.discordapp.com/avatars/717543930996195410/29599da16121668c7b658e607befc88e.png)
 
@@ -5102,19 +4649,13 @@ _01-Apr-22 07:18 PM_:
 
 This is dope you should come check out LongTail Financial. We live and breath this stuff (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-1
 
 <h3>SatoriD <img src="https://cdn.discordapp.com/avatars/231778204950462464/90cf52144e549873da3fc78f82373f58.png" width=25 height=25></h3>
 
 _03-Apr-22 10:34 AM_:
 
-[https://www.youtube.com/watch?v=AsUqA9897O4&t=87s](https://www.youtube.com/watch?v=AsUqA9897O4&t=87s)
 
-[Infinite Imaginarium Community](https://www.youtube.com/channel/UCpzN_PFW1uZyzLoyzOqFI7Q)
-
-On The Concepts of The Omega Manifesto
+[On The Concepts of The Omega Manifesto](https://www.youtube.com/watch?v=AsUqA9897O4&t=87s)
 
 0mnifesto - The Manifesto of the Working Group 0mega Following is a “transcript” of our first collective sensemaking what 0mega is about, who it is for, and what is it for in which environment, what is it that we see, who and how we want to be in this emerging field of Token Engineering: Stressful, tech-oriented, numbers - a space that is diff...
 
@@ -5192,13 +4733,7 @@ We need it at my day job.
 
 @enti Exactly. These networks are the future for humanity. Building dual power structures.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-1
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -5322,9 +4857,6 @@ Hahah thank you for sharing @Gideonro
 
 ![https://cdn.discordapp.com/emojis/949046453693710346.png](https://cdn.discordapp.com/emojis/949046453693710346.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
 
@@ -5437,9 +4969,6 @@ John Mayer · Song · 2006
 
 [https://i.scdn.co/image/ab67616d0000b2737af5fdc5ef048a68db62b85f](https://i.scdn.co/image/ab67616d0000b2737af5fdc5ef048a68db62b85f)
 
-![https://twemoji.maxcdn.com/2/72x72/1f929.png](https://twemoji.maxcdn.com/2/72x72/1f929.png)
-
-1
 
 <h3>Caeser (PST) <img src="https://cdn.discordapp.com/avatars/532764098107146252/6c652f3d6ba6ab1fd1a349fa8300332b.png" width=25 height=25></h3>
 
@@ -5447,9 +4976,6 @@ _21-Apr-22 03:55 PM_:
 
 Wanted to say thank you to the community for the proposal for the retroactive TEC for legal help.
 
-![https://twemoji.maxcdn.com/2/72x72/1f917.png](https://twemoji.maxcdn.com/2/72x72/1f917.png)
-
-2
 
 <h3>Sha <img src="https://cdn.discordapp.com/avatars/923588346696052737/53fc02ac8a164cd9c04718096c03c2cb.png" width=25 height=25></h3>
 
@@ -5471,13 +4997,7 @@ I just wanted to share this with all of you; here in the South Willamette Valley
 
 ![https://cdn.discordapp.com/attachments/810744615048052767/971437402038091856/eugeneBackYardFarmer.jpg](https://cdn.discordapp.com/attachments/810744615048052767/971437402038091856/eugeneBackYardFarmer.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
 
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f331.png](https://twemoji.maxcdn.com/2/72x72/1f331.png)
-
-1
 
 <h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
@@ -5576,9 +5096,6 @@ Yes, you are right, my mistake.
 
 First session on May 10th - we'll share the link!
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
@@ -5608,9 +5125,6 @@ Home - MetaIntegral
 
 ![https://www.metaintegral.com/wp-content/uploads/2018/07/4-imacts-together-1.png](https://www.metaintegral.com/wp-content/uploads/2018/07/4-imacts-together-1.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -5637,9 +5151,6 @@ We are trying to get this off the ground but are having a big of a bumpy start. 
 
 be next Friday, the 20th, at 6pm but now it looks like that day may not work anymore. @Edu - TEC Steward. do you have any update on this? I still see the calendar entry for the 20th.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/3.png](https://cdn.discordapp.com/embed/avatars/3.png)
 
@@ -5666,11 +5177,8 @@ for anyone interested, this is our video for the commons prize nomination
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
-[https://www.youtube.com/watch?v=shOH8OLgTkk&list=PLy6j39s17_jTFt07vFQ4keQqCWGoH4s1J&index=3](https://www.youtube.com/watch?v=shOH8OLgTkk&list=PLy6j39s17_jTFt07vFQ4keQqCWGoH4s1J&index=3)
 
-[Commons Stack](https://www.youtube.com/channel/UCoyHywZn8YMalyx4ZbvQoyw)
-
-Commons Prize Finalist:
+[Commons Prize Finalist:](https://www.youtube.com/watch?v=shOH8OLgTkk&list=PLy6j39s17_jTFt07vFQ4keQqCWGoH4s1J&index=3)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3c5.png](https://twemoji.maxcdn.com/2/72x72/1f3c5.png)
 
@@ -5682,9 +5190,6 @@ Gravity DAO is a community focused on building conflict management, trust creati
 
 ![https://i.ytimg.com/vi/shOH8OLgTkk/maxresdefault.jpg](https://i.ytimg.com/vi/shOH8OLgTkk/maxresdefault.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
-
-2
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5745,13 +5250,7 @@ EVERYONE here at the TEC are most welcome to get involved - so please jump over 
 
 ![https://cdn.discordapp.com/attachments/810744615048052767/987072862999441468/Screen_Shot_2022-06-16_at_13.29.21.png](https://cdn.discordapp.com/attachments/810744615048052767/987072862999441468/Screen_Shot_2022-06-16_at_13.29.21.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
 
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-1
 
 <h3>satchel | PST <img src="https://cdn.discordapp.com/avatars/876908960563724288/a447a7b7ca6efdf93abd451512d95202.png" width=25 height=25></h3>
 

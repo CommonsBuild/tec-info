@@ -143,9 +143,6 @@ I just checked out zenhub and would like to translate out evergreen articles to 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/640772328380170271/06dd1f29aa7231e629968573d2df366c.png](https://cdn.discordapp.com/avatars/640772328380170271/06dd1f29aa7231e629968573d2df366c.png)
 
@@ -161,9 +158,6 @@ _14-Dec-21 08:55 AM_:
 
 That's amazing! The point of contact is @chuygarcia.eth and at the Comms Working group Text Channel down below, there is also a thread that says "translations" when you move your mouse over the Comms channel.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/640772328380170271/06dd1f29aa7231e629968573d2df366c.png](https://cdn.discordapp.com/avatars/640772328380170271/06dd1f29aa7231e629968573d2df366c.png)
 
@@ -210,9 +204,6 @@ What is this issue about? Give as much detail as you can. ✅ Are you looking fo
 
 [https://opengraph.githubassets.com/3bc8e739d9689be6187f74c21cd23dfb181e2309ee18d326dbfee03265d3241e/CommonsBuild/coordination/issues/904](https://opengraph.githubassets.com/3bc8e739d9689be6187f74c21cd23dfb181e2309ee18d326dbfee03265d3241e/CommonsBuild/coordination/issues/904)
 
-![https://twemoji.maxcdn.com/2/72x72/261d.png](https://twemoji.maxcdn.com/2/72x72/261d.png)
-
-7
 
 ![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
 
@@ -274,9 +265,6 @@ _13-Jan-22 07:55 AM_:
 
 That's amazing, bringing this also into @chuygarcia.eth radar
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>bustavo <img src="https://cdn.discordapp.com/avatars/882357890185318411/d710b875528959f295e77c3a2e754c49.png" width=25 height=25></h3>
 
@@ -290,9 +278,6 @@ Github Issue: [https://github.com/CommonsBuild/coordination/issues/904](https://
 
 [https://lh3.googleusercontent.com/PWV7Z528UWzChDuybBOY4C_53niD7-qm4Ib322r6e56WJeJwA49vLdGn5mCpOEkfTebGNyfh6p3Bxw=w1200-h630-p](https://lh3.googleusercontent.com/PWV7Z528UWzChDuybBOY4C_53niD7-qm4Ib322r6e56WJeJwA49vLdGn5mCpOEkfTebGNyfh6p3Bxw=w1200-h630-p)
 
-![https://twemoji.maxcdn.com/2/72x72/26a1.png](https://twemoji.maxcdn.com/2/72x72/26a1.png)
-
-3
 
 <h3>jak <img src="https://cdn.discordapp.com/avatars/695285961629892698/5cd78d82295a539918af613277bea419.png" width=25 height=25></h3>
 
@@ -374,9 +359,6 @@ _30-Jan-22 11:45 PM_:
 
 xdai = gnosis. Got it
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-2
 
 <h3>Mooner <img src="https://cdn.discordapp.com/avatars/582962922758602752/7cbe425123f5be49c6677cdda37b443c.png" width=25 height=25></h3>
 
@@ -588,9 +570,6 @@ Tweets
 
 Twitter
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-3
 
 ![https://cdn.discordapp.com/avatars/784211400851587092/f7598e91337048289d104927fb3eefae.png](https://cdn.discordapp.com/avatars/784211400851587092/f7598e91337048289d104927fb3eefae.png)
 
@@ -665,23 +644,14 @@ Hi all, fun chatting on the orientation call this morning! I recently setup a So
 
 Here's a link to an interview I did last week talking about Cannabis Genome DAO in case anyone is interested in learning more:
 
-[https://www.youtube.com/watch?v=3CMvauGeu-k&list=LLf-NRS2h6-rMPKVfcC6soFg](https://www.youtube.com/watch?v=3CMvauGeu-k&list=LLf-NRS2h6-rMPKVfcC6soFg)
 
-[Eureka Street Crypto](https://www.youtube.com/channel/UCBPGUi7phjlgXjgfq4t_TmQ)
-
-Episode 420 - Cannabis, Genetics, DAO's, and Data - Interview with ...
+[Episode 420 - Cannabis, Genetics, DAO's, and Data - Interview with ...](https://www.youtube.com/watch?v=3CMvauGeu-k&list=LLf-NRS2h6-rMPKVfcC6soFg)
 
 I wanted to celebrate my 420th episode with an interview with a DAO friend of mine Elija Spina PhD (Flowscience).  I got to know Elija in Denver and got to learn about his projects and interests and thought that the rest of the world needs to know about what he is doing.  He is allowing growers, researchers, and anyone to be able to upload thei...
 
 ![https://i.ytimg.com/vi/3CMvauGeu-k/maxresdefault.jpg](https://i.ytimg.com/vi/3CMvauGeu-k/maxresdefault.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-4
-
-![https://twemoji.maxcdn.com/2/72x72/1f6a4.png](https://twemoji.maxcdn.com/2/72x72/1f6a4.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/450493901531250699/a_de5d3493dcf340fe0699cd33aa6f2d50.gif](https://cdn.discordapp.com/avatars/450493901531250699/a_de5d3493dcf340fe0699cd33aa6f2d50.gif)
 
@@ -709,9 +679,6 @@ _02-Apr-22 06:35 PM_:
 
 Hello!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44f-1f3fc.png](https://twemoji.maxcdn.com/2/72x72/1f44f-1f3fc.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/948259324613001337/c1cdc4a5d9892a65794731dae710f92f.png](https://cdn.discordapp.com/avatars/948259324613001337/c1cdc4a5d9892a65794731dae710f92f.png)
 
@@ -725,9 +692,6 @@ _04-Apr-22 08:55 AM_:
 
 Hello there! How is the TEC looking for you?
 
-![https://twemoji.maxcdn.com/2/72x72/1f91d.png](https://twemoji.maxcdn.com/2/72x72/1f91d.png)
-
-1
 
 <h3>Wilhelm <img src="https://cdn.discordapp.com/avatars/948259324613001337/c1cdc4a5d9892a65794731dae710f92f.png" width=25 height=25></h3>
 
@@ -735,9 +699,6 @@ _04-Apr-22 08:58 AM_:
 
 Oh, nice, will get more into this! We are building the www.empower.eco chain now, so really trying to nail down various tokenomics around waste collection incentives, proof of cleanups, empowering waste pickers and aggregators etc.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44f-1f3fc.png](https://twemoji.maxcdn.com/2/72x72/1f44f-1f3fc.png)
-
-2
 
 <h3>CarynTan <img src="https://cdn.discordapp.com/avatars/884393881741963275/3b9f08f274662ae07a98e0954d26ae7e.png" width=25 height=25></h3>
 
@@ -746,9 +707,6 @@ Found out about TEC and absolutely love everything you are up to and stand for, 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/884393881741963275/3b9f08f274662ae07a98e0954d26ae7e.png](https://cdn.discordapp.com/avatars/884393881741963275/3b9f08f274662ae07a98e0954d26ae7e.png)
 
@@ -764,9 +722,6 @@ _10-Apr-22 08:22 PM_:
 
 Welcome! Couldn't help but throw an eye at your twitter and I saw you contribute at Clarity. Been using it for a few small projects and I'm loving it so far!
 
-![https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png](https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
 
@@ -793,9 +748,6 @@ _11-Apr-22 11:23 AM_:
 
 Hello here! I think actually @Gideonro was taking a look into implementing it! Connecting you both!
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -833,9 +785,6 @@ _11-Apr-22 12:23 PM_:
 
 DM's blocked have sent friend request
 
-![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
-
-1
 
 <h3>EFRA <img src="https://cdn.discordapp.com/avatars/769621045489172480/5d0540617e5e5c0d66ec5ba30dd6b612.png" width=25 height=25></h3>
 
@@ -843,9 +792,6 @@ _11-Apr-22 06:25 PM_:
 
 yeaa i love clarity, lets make it happen
 
-![https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png](https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png)
-
-1
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -860,9 +806,6 @@ I'm Manu and I'm the Working Group Coordination Lead for the Stewards so I'd als
 
 ![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44b-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f44b-1f3fd.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png](https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png)
 
@@ -988,9 +931,6 @@ _10-May-22 06:41 AM_:
 
 Hi Everyone. I am new here. Non tech but very interested in crypto and understanding overall token economics
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png)
-
-2
 
 <h3>Justina cukini <img src="https://cdn.discordapp.com/avatars/809737013192163349/ac0be41b4ad58698b95bb73c9f4a6313.png" width=25 height=25></h3>
 
@@ -999,9 +939,6 @@ Hi there, I'm Justina, I'm new here, but super excited to get involved and contr
 
 ![https://twemoji.maxcdn.com/2/72x72/1f970.png](https://twemoji.maxcdn.com/2/72x72/1f970.png)
 
-![https://twemoji.maxcdn.com/2/72x72/2b50.png](https://twemoji.maxcdn.com/2/72x72/2b50.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/856200026937753652/4ea57c2de61675ef13a31b091d125759.png](https://cdn.discordapp.com/avatars/856200026937753652/4ea57c2de61675ef13a31b091d125759.png)
 
@@ -1042,9 +979,6 @@ Deleted User 14-May-22 02:29 PM
 
 HI everyone! Just found out about this project via Gitcoin. My background is in game development & 3D digital art. You can find some of my work here > [http://animatedreality.com/](http://animatedreality.com/) I work with the Community and Design guild for CityDAO. We're thinking about integrating better tooling for DAO coordination. Would love to collaborate and get connected with folks here!
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/809737013192163349/ac0be41b4ad58698b95bb73c9f4a6313.png](https://cdn.discordapp.com/avatars/809737013192163349/ac0be41b4ad58698b95bb73c9f4a6313.png)
 
@@ -1092,9 +1026,6 @@ _24-May-22 11:45 AM_:
 
 Hello there! Yes, just below this channel, there is one called, calendar, where you can check it out! The link to our calendar is: [https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Che_Fran <img src="https://cdn.discordapp.com/avatars/976337004923093013/d051857d40fa4cb334d3e5d0c8349f7c.png" width=25 height=25></h3>
 
@@ -1102,9 +1033,6 @@ _02-Jun-22 12:01 PM_:
 
 Hello everyone! My name is Francisco, I am very happy to be here, this is my first experience with Daos, so I discover a lot of new information every day. It's a bit difficult but collaborating to change the world can't be easy, right? I studied communication, at first I dedicated myself to editing videos and animations. I also like to write and research about communication, politics and technology. I currently work as a project manager and product owner. I would like to dedicate my time to projects that are closer to my philosophy of life. That's why I'm here. I have a lot of energy to share and collaborate in this collective construction. It excites me to think about it. I hope I can help with something.
 
-![https://twemoji.maxcdn.com/2/72x72/1f929.png](https://twemoji.maxcdn.com/2/72x72/1f929.png)
-
-4
 
 <h3>Adrinarvaezcote <img src="https://cdn.discordapp.com/avatars/854772067625861121/aaeaa01936137ecde7aa33ea0cc5d83b.png" width=25 height=25></h3>
 
@@ -1149,9 +1077,6 @@ _06-Jun-22 05:47 AM_:
 
 Hello there! It was so nice to see you around last week, let me know if you have plugged in with the #📡｜comms team! cc: @chuygarcia.eth
 
-![https://twemoji.maxcdn.com/2/72x72/1f331.png](https://twemoji.maxcdn.com/2/72x72/1f331.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/854772067625861121/aaeaa01936137ecde7aa33ea0cc5d83b.png](https://cdn.discordapp.com/avatars/854772067625861121/aaeaa01936137ecde7aa33ea0cc5d83b.png)
 
@@ -1169,9 +1094,6 @@ _06-Jun-22 05:48 AM_:
 
 Adriana! I hope your first these days around were good to you! If I may, I'd suggest you to join the #🙌🏽｜soft-gov and #💸｜reward-system meeting. Which are two of our systems that relate to our Governance layer! Let me know if I can be of any help
 
-![https://twemoji.maxcdn.com/2/72x72/1f331.png](https://twemoji.maxcdn.com/2/72x72/1f331.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/749462738555633754/6482a034fc6348cb2c0bd1632b24b3b3.png](https://cdn.discordapp.com/avatars/749462738555633754/6482a034fc6348cb2c0bd1632b24b3b3.png)
 
@@ -1189,13 +1111,7 @@ _06-Jun-22 05:49 AM_:
 
 Hey Will! Love to see the RxC folks here! Feel free to share it on the #🎫｜general channel too! How is the PCOT coming along?
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f331.png](https://twemoji.maxcdn.com/2/72x72/1f331.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/694809924957372427/8c98b5eb7c4cb6a38576f645a13f4f3a.png](https://cdn.discordapp.com/avatars/694809924957372427/8c98b5eb7c4cb6a38576f645a13f4f3a.png)
 
@@ -1209,9 +1125,6 @@ _06-Jun-22 05:51 AM_:
 
 Hey Nirmala, we have members of our community who not only are part of the Kernel program, but also share the motherhood experience, such as @Tam2140. Are you aware of the TE Fundamentals barchelor program?
 
-![https://twemoji.maxcdn.com/2/72x72/1f331.png](https://twemoji.maxcdn.com/2/72x72/1f331.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -1225,9 +1138,6 @@ _06-Jun-22 09:04 AM_:
 
 No I will have to check it out! And nice to meet you too @Tam2140 nice to see some kernerlers in here!
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -1254,9 +1164,6 @@ _06-Jun-22 10:53 AM_:
 
 @Edu - TEC Steward. @chuygarcia.eth Gm! Thanks for thinking of me. I'll try to be at the next comms meeting to catch up.
 
-![https://twemoji.maxcdn.com/2/72x72/1f4aa.png](https://twemoji.maxcdn.com/2/72x72/1f4aa.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -1270,9 +1177,6 @@ _07-Jun-22 05:28 PM_:
 
 Hi Ed. Excellent! I'm going to join both meetings. Thank you for your guidance.
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-1
 
 <h3>zylris <img src="https://cdn.discordapp.com/avatars/597075358549803019/d8feb8051ffae6ba7b61b6e32f3fb88c.png" width=25 height=25></h3>
 

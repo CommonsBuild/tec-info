@@ -96,9 +96,6 @@ _11-May-21 12:02 PM_:
 
 ![https://media.tenor.co/images/65a381e81f70baaff252956e90e94974/tenor.png](https://media.tenor.co/images/65a381e81f70baaff252956e90e94974/tenor.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/26a1.png" width=50 height=50>
-
-1
 
 <h3>pawa BOT <img src="https://cdn.discordapp.com/avatars/338897906524225538/1fa2f480b4f2a78ca76221d08b8dee99.png" width=25 height=25></h3>
 
@@ -136,9 +133,7 @@ _11-May-21 01:00 PM_:
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
-_11-May-21 01:01 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50>
+_11-May-21 01:01 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=20 height=20>
 
 hopefully the recording is okay
 
@@ -425,9 +420,7 @@ _12-May-21 12:04 PM_:
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 _12-May-21 12:10 PM_:
-oh, my bad
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f613.png" width=50 height=50>
+oh, my bad <img src="https://twemoji.maxcdn.com/2/72x72/1f613.png" width=20 height=20>
 
 <h3>pawa BOT <img src="https://cdn.discordapp.com/avatars/338897906524225538/1fa2f480b4f2a78ca76221d08b8dee99.png" width=25 height=25></h3>
 
@@ -453,9 +446,7 @@ _12-May-21 12:33 PM_:
 
 Vyvy-vi
 
-[oh, my bad](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f613.png" width=50 height=50>
+[oh, my bad](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f613.png" width=20 height=20>
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -642,9 +633,6 @@ _21-May-21 02:02 PM_:
 
 - skip
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
 
 <h3>Groovy BOT <img src="https://cdn.discordapp.com/avatars/234395307759108106/0e7adc5d634d957b7725021c067bfd87.png" width=25 height=25></h3>
 
@@ -731,9 +719,6 @@ _28-May-21 10:10 AM_:
 _28-May-21 10:11 AM_:
 pawa its out of control
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
-
-1
 
 <h3>pawa BOT <img src="https://cdn.discordapp.com/avatars/338897906524225538/1fa2f480b4f2a78ca76221d08b8dee99.png" width=25 height=25></h3>
 
@@ -1167,9 +1152,6 @@ The Token Engineering Commons is building the tools for safe digital economies t
 
 [https://yt3.ggpht.com/ytc/AKedOLRKpxTftjda8trsqtcneCsP3y3HYxyuMD345MPo=s900-c-k-c0x00ffffff-no-rj](https://yt3.ggpht.com/ytc/AKedOLRKpxTftjda8trsqtcneCsP3y3HYxyuMD345MPo=s900-c-k-c0x00ffffff-no-rj)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>pawa BOT <img src="https://cdn.discordapp.com/avatars/338897906524225538/1fa2f480b4f2a78ca76221d08b8dee99.png" width=25 height=25></h3>
 

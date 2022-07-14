@@ -118,21 +118,12 @@ _02-Apr-21 11:29 AM_:
 
 !praise @Caeser (PST) @chuygarcia.eth @griff (💜, 💜) @iviangita @Juankbell @santigs for attending this week Legal WG
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 !praise @Caeser (PST) for working in the first areas of the proposal terms document
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 !praise @Juankbell for adding the mediation paragraph in the proposal terms document
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 <h3>Caeser (PST) <img src="https://cdn.discordapp.com/avatars/532764098107146252/6c652f3d6ba6ab1fd1a349fa8300332b.png" width=25 height=25></h3>
 
@@ -167,9 +158,7 @@ They dont know "....."
 <h3>Letty BOT <img src="https://cdn.discordapp.com/avatars/814552824348016670/6aede40df4f827d174daf2c87d2c9d82.png" width=25 height=25></h3>
 
 _09-Apr-21 11:02 AM_:
-Hey #
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
+Hey # <img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=20 height=20>
 
 - tec-legal I've gone through the Forum's Terms of Service and there're clauses which do not make sense anymore or have been left blank. Especially those in the Disputes section.
 
@@ -180,37 +169,22 @@ Transparency checks as far as I see in the doc concern only availability and sov
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
 _09-Apr-21 11:16 PM_:
-The latest Legal call is now up on our Youtube channel
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+The latest Legal call is now up on our Youtube channel <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 To those who missed it but wanna know the latest updates, here's the link:
 
-[https://www.youtube.com/watch?v=76jeiTjnGuQ](https://www.youtube.com/watch?v=76jeiTjnGuQ)
 
-[Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
+[W20 Legal WG: Proposal terms, praise and IH distribution terms, Dan...](https://www.youtube.com/watch?v=76jeiTjnGuQ)
 
-W20 Legal WG: Proposal terms, praise and IH distribution terms, Dan...
+Timecodes: 00:00 - Plans for the weekend 4:58 - Dandelion voting terms 21:51 - Juan's paragraph in the Praise Distribution terms 24:43 - New areas of discussion for Proposal terms <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-Timecodes: 00:00 - Plans for the weekend 4:58 - Dandelion voting terms 21:51 - Juan's paragraph in the Praise Distribution terms 24:43 - New areas of discussion for Proposal terms
+Thank you for watching! Hit <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+and subscribe <img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=20 height=20>
 
-Thank you for watching! Hit
+to support this work <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-and subscribe
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=50 height=50>
-
-to support this work
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-Join the Community
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+Join the Community <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 on Discord
 
@@ -238,9 +212,7 @@ Legal WG Agenda and Notes Meeting channel: [https://discord.gg/nXyWQPuT](https:/
 
 Letty
 
-[Hey #-tec-legal I've gone through the Forum's Terms of Service and there're clauses which do not make sense anymore or have been left blank. Especially those in the Disputes section.](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
+[Hey #-tec-legal I've gone through the Forum's Terms of Service and there're clauses which do not make sense anymore or have been left blank. Especially those in the Disputes section.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=20 height=20>
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -250,16 +222,11 @@ _16-Apr-21 10:40 AM_:
 
 !praise @Letty for reviewing the Forum's T&Cs and bringing up issues in the channel
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 <h3>sbilbao <img src="https://cdn.discordapp.com/avatars/713828534958948402/b3c43af6872bfdea9492035edf3a4972.png" width=25 height=25></h3>
 
 _16-Apr-21 05:18 PM_:
-Howdy, at today's call, someone mentioned DAO legislation being passed in Wyoming. Is there more info on this. I am in touch with a lawyer doing Private Membership Association PMA in Utah who would like to explore the DAO-real world dilemma.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+Howdy, at today's call, someone mentioned DAO legislation being passed in Wyoming. Is there more info on this. I am in touch with a lawyer doing Private Membership Association PMA in Utah who would like to explore the DAO-real world dilemma. <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 <h3>Caeser (PST) <img src="https://cdn.discordapp.com/avatars/532764098107146252/6c652f3d6ba6ab1fd1a349fa8300332b.png" width=25 height=25></h3>
 
@@ -275,44 +242,26 @@ If the bill becomes official law, Wyoming will be the first US state to clarify 
 
 ![https://www.dlapiper.com/~/media/images/insights/publications/editors-choice-images/bitcoin_farm_s_0882_ec.jpg](https://www.dlapiper.com/~/media/images/insights/publications/editors-choice-images/bitcoin_farm_s_0882_ec.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f984.png" width=50 height=50>
-
-1
 
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
 _16-Apr-21 08:04 PM_:
-Hi guys! The latest Legal call is now up on our Youtube channel
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Hi guys! The latest Legal call is now up on our Youtube channel <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 To those who missed it but wanna know the latest updates, here's the link:
 
-[https://www.youtube.com/watch?v=cDyUE4yUhy0](https://www.youtube.com/watch?v=cDyUE4yUhy0)
 
-[Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
+[W21 Legal WG: Community Pledge, finalizing IH Distribution Terms, l...](https://www.youtube.com/watch?v=cDyUE4yUhy0)
 
-W21 Legal WG: Community Pledge, finalizing IH Distribution Terms, l...
+Timecodes: 00:00 - Weekend plans 5:02 - Forum terms review 7:34 - Proposal terms - Community Pledge 29:48 - Finalize IH Distribution Terms 31:50 - Legal aspects of a DAO <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-Timecodes: 00:00 - Weekend plans 5:02 - Forum terms review 7:34 - Proposal terms - Community Pledge 29:48 - Finalize IH Distribution Terms 31:50 - Legal aspects of a DAO
+Thank you for watching! Hit <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+and subscribe <img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=20 height=20>
 
-Thank you for watching! Hit
+to support this work <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-and subscribe
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=50 height=50>
-
-to support this work
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-Join the Community
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+Join the Community <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 on Discord
 
@@ -343,9 +292,6 @@ griff (💜, 💜)
 _23-Apr-21 11:01 AM_:
 let's start buying land
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/26a1.png" width=50 height=50>
-
-1
 
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
@@ -384,17 +330,8 @@ _27-Apr-21 01:04 PM_:
 _30-Apr-21 08:09 AM_:
 Hi Folks, I spoke with a corp lawyer in Utah regarding the "incorporation" of DAOs in light of the Wyoming Legislature. He is available to collaborate. 1. The Wyoming method relies on LLCs which has tax implications and thus identification of people requirements. 2. C corp might be better but, taxes are higher. 3. PMAs holding the DAO and using a shell LLC for taxing and ID is plausible and a better way for annonymity. 4. Jurisdiction issues are resolved by complying with the most stringent regulations in your market and or intrastate/international treaties. 5. Alaska has a kickass corp statue, that makes its assets untouchable no matter what. Expensive to set up. 6. Ideal would be an offshore tax haven nation to offer DAO registration.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6e1.png" width=50 height=50>
 
-️
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
-
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2694.png" width=50 height=50>
-
-️
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -413,9 +350,7 @@ Friday, 4pm CET
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
 _03-May-21 01:57 AM_:
-Hi guys! The latest Legal call is now up on our Youtube channel
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Hi guys! The latest Legal call is now up on our Youtube channel <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 To those who missed it but wanna know the latest updates, here's the link:
 
@@ -425,25 +360,15 @@ To those who missed it but wanna know the latest updates, here's the link:
 
 W23 Legal WG: Proposal terms, trademarks, content ownership, etc.
 
-Timecodes: 00:00 - Plans for the weekend 5:51 - Proposal terms 20:23 - Trademarks and copyrights 27:03 - Other legal documents to be worked on 32:08 - Third party agreements, content ownership, etc.
+Timecodes: 00:00 - Plans for the weekend 5:51 - Proposal terms 20:23 - Trademarks and copyrights 27:03 - Other legal documents to be worked on 32:08 - Third party agreements, content ownership, etc. <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+Thank you for watching! Hit <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
-Thank you for watching! Hit
+and subscribe <img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+to support this work <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
-and subscribe
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=50 height=50>
-
-to support this work
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-Join the Community
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+Join the Community <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 on Discord
 
@@ -474,9 +399,7 @@ Little study session of Uniswap V3 planned in the EthLatam Discord
 
 [https://discord.gg/8UwQRaRqX3](https://discord.gg/8UwQRaRqX3)
 
-in 1 h 20 mins
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f603.png" width=50 height=50>
+in 1 h 20 mins <img src="https://twemoji.maxcdn.com/2/72x72/1f603.png" width=20 height=20>
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -484,9 +407,7 @@ _07-May-21 10:30 AM_:
 
 [https://forum.tecommons.org/t/evolving-economics-via-hatch-param-parties/364](https://forum.tecommons.org/t/evolving-economics-via-hatch-param-parties/364)
 
-Evolving Economics via Hatch Param Parties
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50>
+Evolving Economics via Hatch Param Parties <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=20 height=20>
 
 Historically, economic design has always been done with a top down approach, where the system is set by a core group of “central planners” and imposed on the masses. Cryptocurrencies have made several steps to improve this approach, creating “opt-in” DAOs/economic systems, but still to this day, every DAO/economy that I have ever encountered ha...
 
@@ -547,9 +468,7 @@ santigs
 <h3>Lauren <img src="https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png" width=25 height=25></h3>
 
 _17-May-21 01:59 PM_:
-ok - great - thank you! tagging @chuygarcia.eth @natesuits @metaverde @sem(🌸,🐝) @mitch (🍔, 🍔) @Zeptimus so all our attendees of today's hack sesh can be on the same page
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+ok - great - thank you! tagging @chuygarcia.eth @natesuits @metaverde @sem(🌸,🐝) @mitch (🍔, 🍔) @Zeptimus so all our attendees of today's hack sesh can be on the same page <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -572,9 +491,7 @@ santigs
 <h3>Lauren <img src="https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png" width=25 height=25></h3>
 
 _25-May-21 12:41 PM_:
-@griff (💜, 💜)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
+@griff (💜, 💜) <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/434632218246381569/ecb10317edc17d2e273d2404cc6f6a52.png](https://cdn.discordapp.com/avatars/434632218246381569/ecb10317edc17d2e273d2404cc6f6a52.png)
 
@@ -606,9 +523,6 @@ and I love that strategy for legal... We should probably double down on the dona
 
 I am a little worried about being too explicit with the donation framing in our key comms pieces since there is a lot of confusion already around the idea of how people benefit from participating, and in the end people do get a chance to participate in starting an economy and there are definitely some opportunities there... its a covestment (but no one knows what that means so we can skip that framing
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
-
-)
 
 <h3>Caeser (PST) <img src="https://cdn.discordapp.com/avatars/532764098107146252/6c652f3d6ba6ab1fd1a349fa8300332b.png" width=25 height=25></h3>
 
@@ -654,9 +568,6 @@ Saw the params vote. Will start inserting the relevant info into the right docum
 
 I know there is no legal WG mtg tomorrow, just wanted to update everyone.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -687,9 +598,7 @@ Legal Call Reminder
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
 _07-Jun-21 06:23 AM_:
-Hi @Vyvy-vi, this is also bi-weekly now. Can we add "Bi-weekly" to the Time?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+Hi @Vyvy-vi, this is also bi-weekly now. Can we add "Bi-weekly" to the Time? <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>geleeroyale <img src="https://cdn.discordapp.com/avatars/426314998822731787/e9eddf1eceb2d43b85bbfd4ad7e6901e.png" width=25 height=25></h3>
 
@@ -707,16 +616,12 @@ worx
 
 iviangita
 
-[Hi @Vyvy-vi, this is also bi-weekly now. Can we add "Bi-weekly" to the Time?](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[Hi @Vyvy-vi, this is also bi-weekly now. Can we add "Bi-weekly" to the Time?](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 _07-Jun-21 07:39 AM_:
-yes
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+yes <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 I've been editing the script and it'll be deployed in a while. It's still at 4pm CET, right?
 
@@ -724,16 +629,12 @@ I've been editing the script and it'll be deployed in a while. It's still at 4pm
 
 Vyvy-vi
 
-[yes  I've been editing the script and it'll be deployed in a while. It's still at 4pm CET, right?](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+[yes  I've been editing the script and it'll be deployed in a while. It's still at 4pm CET, right?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
 _07-Jun-21 07:40 AM_:
-yes
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+yes <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/499196313473122313/5c5f398c4e9807f7a29640aedabcb252.png](https://cdn.discordapp.com/avatars/499196313473122313/5c5f398c4e9807f7a29640aedabcb252.png)
 
@@ -885,9 +786,6 @@ _13-Aug-21 11:15 PM_:
 
 Just FYI, Livi drafted the covenant and I gave her back my first set of edits. Next round of edits we will focus on tone and audience. @liviade got this document off to a great start.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -999,9 +897,6 @@ _16-Sep-21 03:43 PM_:
 
 Nobody hurts my feelings by making edits, so please, go through it and make every comment necessary.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
-
-2
 
 <h3>santigs <img src="https://cdn.discordapp.com/avatars/434632218246381569/ecb10317edc17d2e273d2404cc6f6a52.png" width=25 height=25></h3>
 
@@ -1027,9 +922,6 @@ Bonding Curve Converter
 
 ![https://convert.tecommons.org/twitter-card-icon.png](https://convert.tecommons.org/twitter-card-icon.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62e.png" width=50 height=50>
-
-1
 
 <h3>Caeser (PST) <img src="https://cdn.discordapp.com/avatars/532764098107146252/6c652f3d6ba6ab1fd1a349fa8300332b.png" width=25 height=25></h3>
 
@@ -1077,24 +969,17 @@ i thought someone here might be interested :) [https://twitter.com/paulkhls/stat
 
 [Paul Kohlhaas (@paulkhls)](https://twitter.com/paulkhls)
 
-Looking for a web3 lawyer to help guide a workshop on IP, NFTs and DAOs at @TheDAOist_ during @ETHLisbon @0xliscon We'll be exploring how DAOs could be a catalyst in global R&D and how they can transact IP assets dm @theobtl @audieleon or me
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+Looking for a web3 lawyer to help guide a workshop on IP, NFTs and DAOs at @TheDAOist_ during @ETHLisbon @0xliscon We'll be exploring how DAOs could be a catalyst in global R&D and how they can transact IP assets dm @theobtl @audieleon or me <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ![https://abs.twimg.com/icons/apple-touch-icon-192x192.png](https://abs.twimg.com/icons/apple-touch-icon-192x192.png)
 
 Twitter • 05-Oct-21 01:50 PM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>PabloFM - NFT-Crap <img src="https://cdn.discordapp.com/avatars/392114912270483456/ed6e25ff3441367aea72e8b5d6c99d7d.png" width=25 height=25></h3>
 
 _06-Oct-21 04:15 PM_:
-Hello! I need some help to understand how to build a legal by design DAO probably a hard request at this point of the technology. It would mean a world to me to have a call with someone that can give me some guidance.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9d9.png" width=50 height=50>
+Hello! I need some help to understand how to build a legal by design DAO probably a hard request at this point of the technology. It would mean a world to me to have a call with someone that can give me some guidance. <img src="https://twemoji.maxcdn.com/2/72x72/1f9d9.png" width=20 height=20>
 
 ‍♂️
 
@@ -1174,13 +1059,7 @@ Here is a basic prototype I came up with for 'charter' for a DAO with no legal e
 
 Twitter • 26-May-20 12:17 PM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
-
-1
 
 <h3>dpeazy <img src="https://cdn.discordapp.com/avatars/568859007431999488/8d2d662d8d88788c6c87702e93ccf033.png" width=25 height=25></h3>
 
@@ -1194,9 +1073,7 @@ _01-Nov-21 05:47 PM_:
 
 [miles jennings (@milesjennings)](https://twitter.com/milesjennings)
 
-1/ Over the past 6 months, @David_M_Kerr and I have been researching several legal issues facing many DAOs (liability, taxes, contracting, etc.) that are beginning to emerge and that threaten their viability. Today, we published a potential solution.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=50 height=50>
+1/ Over the past 6 months, @David_M_Kerr and I have been researching several legal issues facing many DAOs (liability, taxes, contracting, etc.) that are beginning to emerge and that threaten their viability. Today, we published a potential solution. <img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=20 height=20>
 
 [https://t.co/eB6XiR1a5R](https://t.co/eB6XiR1a5R)
 
@@ -1214,9 +1091,6 @@ Twitter • 26-Oct-21 03:24 PM
 
 Great read
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/568859007431999488/8d2d662d8d88788c6c87702e93ccf033.png](https://cdn.discordapp.com/avatars/568859007431999488/8d2d662d8d88788c6c87702e93ccf033.png)
 
@@ -1250,9 +1124,6 @@ _03-Nov-21 05:21 PM_:
 
 All, wanted to let you know that I am changing jobs and moving in-house to a crypto company. This will mean my ending my time here in TEC due to time constraints. I consider myself so absurdly lucky to have found TEC last year and get to participate with so many people who want to make positive contributions to crypto.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/532764098107146252/6c652f3d6ba6ab1fd1a349fa8300332b.png](https://cdn.discordapp.com/avatars/532764098107146252/6c652f3d6ba6ab1fd1a349fa8300332b.png)
 
@@ -1263,9 +1134,7 @@ Caeser (PST)
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 _04-Nov-21 07:02 AM_:
-Hi @Caeser (PST) and thank you for your thoughtful care and support these past months. We, too, have been absudly lucky that you found us!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f603.png" width=50 height=50>
+Hi @Caeser (PST) and thank you for your thoughtful care and support these past months. We, too, have been absudly lucky that you found us! <img src="https://twemoji.maxcdn.com/2/72x72/1f603.png" width=20 height=20>
 
 It is wonderful news about your new position and I wish you all success there!
 
@@ -1278,9 +1147,7 @@ Caeser (PST)
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
 _04-Nov-21 07:39 AM_:
-Thank you for all your great contributions @Caeser (PST)!!! Good luck on your new job
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f340.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+Thank you for all your great contributions @Caeser (PST)!!! Good luck on your new job <img src="https://twemoji.maxcdn.com/2/72x72/1f340.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>Caeser (PST) <img src="https://cdn.discordapp.com/avatars/532764098107146252/6c652f3d6ba6ab1fd1a349fa8300332b.png" width=25 height=25></h3>
 
@@ -1288,9 +1155,6 @@ _11-Nov-21 07:04 PM_:
 
 Thanks @Tam2140 and @iviangita. I won't be able to attend tomorrow's meeting, as with Daylight Savings Time the meeting starts at 6 am. However, I wanted to point out my note left in this channel on 10/29 on the outstanding issues and next steps. Also, I am happy to answer any questions as we transition. Lastly, I do think Santi might have drafted something for the Stewards meeting before he took his leave of absence, that dealt with creating a budget for future legal costs for the DAO. I don't have access to that document, but I imagine @griff (💜, 💜) does.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fc.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/532764098107146252/6c652f3d6ba6ab1fd1a349fa8300332b.png](https://cdn.discordapp.com/avatars/532764098107146252/6c652f3d6ba6ab1fd1a349fa8300332b.png)
 
@@ -1301,9 +1165,7 @@ Caeser (PST)
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 _12-Nov-21 12:55 AM_:
-Hi @Caeser (PST). Yes, Santi did share a draft WG funding proposal for Legal with the Stewards. It is very straightforward - a reserve of 10K wxdai to be set aside for a quick legal response, if ever needed - but will need to be finalized and go through the process of being proposed and approved along with the other WG funding proposals. @iviangita has graciously accepted to lead this working group for the time being so that the docs you have shared and other next steps get done.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50>
+Hi @Caeser (PST). Yes, Santi did share a draft WG funding proposal for Legal with the Stewards. It is very straightforward - a reserve of 10K wxdai to be set aside for a quick legal response, if ever needed - but will need to be finalized and go through the process of being proposed and approved along with the other WG funding proposals. @iviangita has graciously accepted to lead this working group for the time being so that the docs you have shared and other next steps get done. <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=20 height=20>
 
 <h3>Caeser (PST) <img src="https://cdn.discordapp.com/avatars/532764098107146252/6c652f3d6ba6ab1fd1a349fa8300332b.png" width=25 height=25></h3>
 
@@ -1311,20 +1173,12 @@ _12-Nov-21 01:58 AM_:
 
 Thanks @Tam2140 - I’m glad people have a handle on the WG funding. And @iviangita good luck. DM any and all questions!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f338.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fc.png" width=50 height=50>
-
-1
 
 <h3>Cesar <img src="https://cdn.discordapp.com/avatars/548965307817918479/698360cb4d1e6632558297faa8bdaf09.png" width=25 height=25></h3>
 
 _15-Nov-21 05:43 PM_:
-hello everyone. I have a question that maybe this group can help with. Where can I find a lawyer who can help with making a DAO a legal entity(LLC)? any pointers in the right direction are appreciated
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+hello everyone. I have a question that maybe this group can help with. Where can I find a lawyer who can help with making a DAO a legal entity(LLC)? any pointers in the right direction are appreciated <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 (edited)
 
@@ -1332,9 +1186,7 @@ hello everyone. I have a question that maybe this group can help with. Where can
 
 Cesar
 
-[hello everyone. I have a question that maybe this group can help with. Where can I find a lawyer who can help with making a DAO a legal entity(LLC)? any pointers in the right direction are appreciated   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+[hello everyone. I have a question that maybe this group can help with. Where can I find a lawyer who can help with making a DAO a legal entity(LLC)? any pointers in the right direction are appreciated   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -1342,9 +1194,6 @@ _16-Nov-21 06:06 PM_:
 
 Hey there! I won't get tired of clarifying this: you can't make a DAO a legal entity. There are legal structures, commercial and securities laws + jurisdictions that will apply no matter what to any "legal wrapper you can think of". A DAO is merely a front-end of those.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 That said, this is useful: [https://twitter.com/lex_node/status/1265316170975997953](https://twitter.com/lex_node/status/1265316170975997953)
 
@@ -1369,13 +1218,7 @@ HEY ROCKSTARS!!!! I'm with the SourceCred project I'm also a Trusted seed and Lo
 
 thank you for reading this
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-2
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -1400,9 +1243,6 @@ There are some concerns that the legal working WG was brainstorming regarding th
 _26-Nov-21 11:15 AM_:
 Sorry I had to leave the call, I had to hop on a 1 on 1 with somebody and I didn't want to interrupt the discussion
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1427,17 +1267,13 @@ liviade
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
 _09-Dec-21 05:00 AM_:
-Thanks for sharing Livia! Unfortunately, we still don't have a lawyer in the Legal WG who can take a look from the legal perspective. May I ask when do you plan to do the community vote for the Covenant? Would it be okay to postpone the review until next week maybe? I'll try harder to find a lawyer who can review it hopefully. Also, is there any risk in giving it a go without having reviewed by a lawyer?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50>
+Thanks for sharing Livia! Unfortunately, we still don't have a lawyer in the Legal WG who can take a look from the legal perspective. May I ask when do you plan to do the community vote for the Covenant? Would it be okay to postpone the review until next week maybe? I'll try harder to find a lawyer who can review it hopefully. Also, is there any risk in giving it a go without having reviewed by a lawyer? <img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png](https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png)
 
 iviangita
 
-[Thanks for sharing Livia! Unfortunately, we still don't have a lawyer in the Legal WG who can take a look from the legal perspective. May I ask when do you plan to do the community vote for the Covenant? Would it be okay to postpone the review until next week maybe? I'll try harder to find a lawyer who can review it hopefully. Also, is there any risk in giving it a go without having reviewed by a lawyer?](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50>
+[Thanks for sharing Livia! Unfortunately, we still don't have a lawyer in the Legal WG who can take a look from the legal perspective. May I ask when do you plan to do the community vote for the Covenant? Would it be okay to postpone the review until next week maybe? I'll try harder to find a lawyer who can review it hopefully. Also, is there any risk in giving it a go without having reviewed by a lawyer?](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1445,30 +1281,19 @@ _09-Dec-21 09:49 AM_:
 
 I think it should be fine, we had @Caeser (PST) taking a look at the previous draft
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 _09-Dec-21 02:55 PM_:
 Happy to help draft T&Cs if anyone would like help.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9d1.png" width=50 height=50>
 
-‍
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
-
-️
 
 ![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
 
 gene
 
-[Happy to help draft T&Cs if anyone would like help. ‍️](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9d1.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=50 height=50>
+[Happy to help draft T&Cs if anyone would like help. ‍️](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f9d1.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2696.png" width=20 height=20>
 
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
@@ -1477,9 +1302,7 @@ Hey Gene, thanks! Here's the draft I started - feel free to jump in!
 
 [https://docs.google.com/document/d/1BltyTWMCkyJZktdEZu7o7hM1vI8v_JJmqhX74LNGNFM/edit?usp=sharing](https://docs.google.com/document/d/1BltyTWMCkyJZktdEZu7o7hM1vI8v_JJmqhX74LNGNFM/edit?usp=sharing)
 
-Hoping to have a brainstorming around this document today at the Legal WG sync, 4pm CET
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Hoping to have a brainstorming around this document today at the Legal WG sync, 4pm CET <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 TEC CV Proposals Terms & Conditions
 
@@ -1524,24 +1347,18 @@ liviade
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
 _10-Dec-21 11:20 AM_:
-Hey @liviade! @PabloA offered to read through it over the weekend and provide his feedback if it's good to go. Thanks Pablo!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
+Hey @liviade! @PabloA offered to read through it over the weekend and provide his feedback if it's good to go. Thanks Pablo! <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png](https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png)
 
 iviangita
 
-[Hey @liviade! @PabloA offered to read through it over the weekend and provide his feedback if it's good to go. Thanks Pablo!](about:blank#)  
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
+[Hey @liviade! @PabloA offered to read through it over the weekend and provide his feedback if it's good to go. Thanks Pablo!](about:blank#)   <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _10-Dec-21 11:20 AM_:
-awesome! thanks so much Pablo! and thanks for the updates Ivy
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
+awesome! thanks so much Pablo! and thanks for the updates Ivy <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png](https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png)
 
@@ -1551,16 +1368,12 @@ iviangita
 
 [https://docs.google.com/document/d/1BltyTWMCkyJZktdEZu7o7hM1vI8v_JJmqhX74LNGNFM/edit?usp=sharing](https://docs.google.com/document/d/1BltyTWMCkyJZktdEZu7o7hM1vI8v_JJmqhX74LNGNFM/edit?usp=sharing)
 
-Hoping to have a brainstorming around this document today at the Legal WG sync, 4pm CET
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Hoping to have a brainstorming around this document today at the Legal WG sync, 4pm CET <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 _11-Dec-21 04:08 AM_:
-Hey Ivy =), thanks for the invite to the WG meeting, sorry I essentially collapsed this morning after going hard the last few days and slept all day
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+Hey Ivy =), thanks for the invite to the WG meeting, sorry I essentially collapsed this morning after going hard the last few days and slept all day <img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 was the meeting recorded so I can listen to it while going over the document? ty
 
@@ -1570,18 +1383,14 @@ was the meeting recorded so I can listen to it while going over the document? ty
 
 gene
 
-[Hey Ivy =), thanks for the invite to the WG meeting, sorry I essentially collapsed this morning after going hard the last few days and slept all day   was the meeting recorded so I can listen to it while going over the document? ty](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+[Hey Ivy =), thanks for the invite to the WG meeting, sorry I essentially collapsed this morning after going hard the last few days and slept all day   was the meeting recorded so I can listen to it while going over the document? ty](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
 _11-Dec-21 04:46 AM_:
-Yes! Just finished uploading
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Yes! Just finished uploading <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://youtu.be/rSgZkmrkaoQ](https://youtu.be/rSgZkmrkaoQ)
 
@@ -1593,13 +1402,7 @@ The Legal Working Group aims to design and execute a coherent legal strategy for
 
 ![https://i.ytimg.com/vi/rSgZkmrkaoQ/maxresdefault.jpg](https://i.ytimg.com/vi/rSgZkmrkaoQ/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1607,9 +1410,6 @@ _13-Dec-21 11:30 AM_:
 
 Hey @iviangita @PabloA any updates on the covenant?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -1620,9 +1420,7 @@ liviade
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
 _15-Dec-21 01:42 AM_:
-Hello @PabloA! Hoping you can share your feedback on the Covenant in this channel. If there's no legal issue that might be associated to any part of it, we'll go ahead and proceed with the community vote. Thank you so much!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
+Hello @PabloA! Hoping you can share your feedback on the Covenant in this channel. If there's no legal issue that might be associated to any part of it, we'll go ahead and proceed with the community vote. Thank you so much! <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=20 height=20>
 
 (edited)
 
@@ -1632,9 +1430,6 @@ _15-Dec-21 08:34 AM_:
 
 Hi, sure, I'll be sharing comments in the next 3 hours.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 <h3>PabloA <img src="https://cdn.discordapp.com/avatars/703601231360294922/5e05050ba63d351fbcdd2262b3f173a1.png" width=25 height=25></h3>
 
@@ -1678,9 +1473,6 @@ _17-Dec-21 01:32 AM_:
 
 Had also made comments. Hope they are useful, @liviade / @iviangita /others. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/755383991300915290/a58e400056417f1d790deda8e41c5df0.png](https://cdn.discordapp.com/avatars/755383991300915290/a58e400056417f1d790deda8e41c5df0.png)
 
@@ -1703,15 +1495,11 @@ have you all tried connecting with LexDAO yet? or similar DAOs?
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
 _04-Jan-22 07:27 AM_:
-Hello @PabloA @griff (💜, 💜) I've updated the draft T&Cs for the CV Proposals - hope you can review and provide feedback? I also left some questions in the document
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
+Hello @PabloA @griff (💜, 💜) I've updated the draft T&Cs for the CV Proposals - hope you can review and provide feedback? I also left some questions in the document <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=20 height=20>
 
 [https://docs.google.com/document/d/1BltyTWMCkyJZktdEZu7o7hM1vI8v_JJmqhX74LNGNFM/edit?usp=sharing](https://docs.google.com/document/d/1BltyTWMCkyJZktdEZu7o7hM1vI8v_JJmqhX74LNGNFM/edit?usp=sharing)
 
-If anybody else has other comments/suggestions, feel free to drop a comment
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+If anybody else has other comments/suggestions, feel free to drop a comment <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 TEC CV Proposals Terms & Conditions
 
@@ -1740,9 +1528,7 @@ iviangita
 <h3>Terexitarius <img src="https://cdn.discordapp.com/avatars/822117621754363956/9bdab1d259288622559fdd956102e843.png" width=25 height=25></h3>
 
 _04-Jan-22 11:24 AM_:
-No prob
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+No prob <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 Great to have DAO to DAO collaborations
 
@@ -1750,15 +1536,11 @@ Great to have DAO to DAO collaborations
 
 iviangita
 
-[Hello @PabloA @griff (💜, 💜) I've updated the draft T&Cs for the CV Proposals - hope you can review and provide feedback? I also left some questions in the document](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
+[Hello @PabloA @griff (💜, 💜) I've updated the draft T&Cs for the CV Proposals - hope you can review and provide feedback? I also left some questions in the document](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=20 height=20>
 
 [https://docs.google.com/document/d/1BltyTWMCkyJZktdEZu7o7hM1vI8v_JJmqhX74LNGNFM/edit?usp=sharing](https://docs.google.com/document/d/1BltyTWMCkyJZktdEZu7o7hM1vI8v_JJmqhX74LNGNFM/edit?usp=sharing)
 
-If anybody else has other comments/suggestions, feel free to drop a comment
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+If anybody else has other comments/suggestions, feel free to drop a comment <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>PabloA <img src="https://cdn.discordapp.com/avatars/703601231360294922/5e05050ba63d351fbcdd2262b3f173a1.png" width=25 height=25></h3>
 
@@ -1766,9 +1548,6 @@ _05-Jan-22 09:57 AM_:
 
 Hi Ivi, I´m back from some days-off. I will take a look to the document by tomorrow at the latest.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fc.png" width=50 height=50>
-
-1
 
 <h3>PabloA <img src="https://cdn.discordapp.com/avatars/703601231360294922/5e05050ba63d351fbcdd2262b3f173a1.png" width=25 height=25></h3>
 
@@ -1776,9 +1555,6 @@ _10-Jan-22 11:25 AM_:
 
 Hi guys! Hope you had a great weekend. Yesterday put some comments on the document. I will conclude later.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fc.png" width=50 height=50>
-
-1
 
 <h3>martinkrung <img src="https://cdn.discordapp.com/avatars/555024664552800279/9eea2b44c32ca469f2ac3879aa06935f.png" width=25 height=25></h3>
 
@@ -1821,9 +1597,6 @@ zero_2hero
 _05-Feb-22 03:47 AM_:
 Hi there! The Legal WG meets biweekly Friday 10am EST, but the one that's supposed to happen yesterday was moved to next Tue (Feb 8, 8pm EST) due to our limited availability. Join us on Tuesday if you can - here's the event link so you can add it to your calendar
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
-
-:
 
 [https://calendar.google.com/event?action=TEMPLATE&tmeid=M3Y5cnB2cGtpMTlkaG0yY250ZnJwbjEyOWogNW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZw&tmsrc=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com](https://calendar.google.com/event?action=TEMPLATE&tmeid=M3Y5cnB2cGtpMTlkaG0yY250ZnJwbjEyOWogNW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZw&tmsrc=5mkep1ad1j860k6g7i7fr8plq0%2540group.calendar.google.com)
 
@@ -1842,24 +1615,18 @@ With Google's free online calendar, it’s easy to keep track of life’s import
 <h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
 _07-Feb-22 12:48 PM_:
-Heyy, today is the legal call?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Heyy, today is the legal call? <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png](https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png)
 
 acidlazzer
 
-[Heyy, today is the legal call?](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[Heyy, today is the legal call?](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
 _07-Feb-22 08:00 PM_:
-Yes! Starts now
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+Yes! Starts now <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 [https://docs.google.com/document/d/1BltyTWMCkyJZktdEZu7o7hM1vI8v_JJmqhX74LNGNFM/edit?usp=sharing](https://docs.google.com/document/d/1BltyTWMCkyJZktdEZu7o7hM1vI8v_JJmqhX74LNGNFM/edit?usp=sharing)
 
@@ -1883,9 +1650,6 @@ _11-Feb-22 02:28 PM_:
 
 Hello! I found a friend that has some experience with legal + crypto that may be interested in joining TEC... who should I direct him to once I clear him regarding basic questions? (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/882357890185318411/d710b875528959f295e77c3a2e754c49.png](https://cdn.discordapp.com/avatars/882357890185318411/d710b875528959f295e77c3a2e754c49.png)
 
@@ -1900,9 +1664,7 @@ Hey Bustavo! We have a Legal WG sync every two Fridays, he's welcome to join!
 
 [https://calendar.google.com/event?action=TEMPLATE&tmeid=dGE3MWdvN3IyczZxaWkwNnBpa2ttNDVtNzZfMjAyMjAyMThUMTUwMDAwWiA1bWtlcDFhZDFqODYwazZnN2k3ZnI4cGxxMEBn&tmsrc=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com&scp=ALL](https://calendar.google.com/event?action=TEMPLATE&tmeid=dGE3MWdvN3IyczZxaWkwNnBpa2ttNDVtNzZfMjAyMjAyMThUMTUwMDAwWiA1bWtlcDFhZDFqODYwazZnN2k3ZnI4cGxxMEBn&tmsrc=5mkep1ad1j860k6g7i7fr8plq0%2540group.calendar.google.com&scp=ALL)
 
-He can also reach out to me directly if he has more questions
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+He can also reach out to me directly if he has more questions <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 Google Calendar
 
@@ -1920,9 +1682,6 @@ _18-Feb-22 11:06 AM_:
 
 I was really late to the call, now finishing with the catch up, leaving some comments on the docs cc. @iviangita @Ratio13
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/814552824348016670/6aede40df4f827d174daf2c87d2c9d82.png](https://cdn.discordapp.com/avatars/814552824348016670/6aede40df4f827d174daf2c87d2c9d82.png)
 
@@ -1960,9 +1719,6 @@ _01-Mar-22 01:16 PM_:
 
 @teresacd
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>noah_saav <img src="https://cdn.discordapp.com/avatars/740668571755086006/676fcb102c34200b3ab812d3b03fe252.png" width=25 height=25></h3>
 
@@ -1990,9 +1746,6 @@ Per discussion in the Legal WG wanted to share Kali DAO which is an innovative w
 
 DAO Launcher with Legal Benefits
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>noah_saav <img src="https://cdn.discordapp.com/avatars/740668571755086006/676fcb102c34200b3ab812d3b03fe252.png" width=25 height=25></h3>
 
@@ -2006,13 +1759,7 @@ _24-Mar-22 08:14 PM_:
 
 Hi all, I'm a licensed US attorney (state + federal) with experience in the web3 arena. Please feel free to reach out with questions
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
 
-4
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/908799381229154314/041a1948b918ecd3ae58b5411222fbba.png](https://cdn.discordapp.com/avatars/908799381229154314/041a1948b918ecd3ae58b5411222fbba.png)
 
@@ -2025,9 +1772,6 @@ boonjue.eth
 _24-Mar-22 08:30 PM_:
 really great to see you around @boonjue.eth! The Legal WG sync is every other friday at 4PM CET with either @griff (💜, 💜) or @iviangita leading it, pinging them to get their attention as well
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/908799381229154314/041a1948b918ecd3ae58b5411222fbba.png](https://cdn.discordapp.com/avatars/908799381229154314/041a1948b918ecd3ae58b5411222fbba.png)
 
@@ -2040,9 +1784,6 @@ boonjue.eth
 _24-Mar-22 09:33 PM_:
 Welcome @boonjue.eth! Looking forward to meeting you in our Legal sync
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 <h3>Davide - ValueUnbanking <img src="https://cdn.discordapp.com/avatars/784211400851587092/f7598e91337048289d104927fb3eefae.png" width=25 height=25></h3>
 
@@ -2050,9 +1791,6 @@ _25-Mar-22 10:48 AM_:
 
 Here's an interesting read for TEs. Though we all more or less know the difference between 'utility' and 'security' tokens, the SEC stance, and of the Howey test, here's 38 factors (and sub-items) the SEC looks at when assessing a token (therefore useful for designing tokens, token economies and reviewing existing ones). Some of these points also shed light onto why, besides explicit benefits, certain structures of disclosure, marcomms, usage, issuance, governance, control, and support (e.g. MVPs, secondary markets, DAOs, LP tokens for rewards, etc..) might be necessary to be SEC compliant and being able to fully operate on centralized platforms in regulated markets like the US. [https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets](https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9d0.png" width=50 height=50>
-
-1
 
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
@@ -2070,13 +1808,7 @@ _29-Mar-22 11:43 AM_:
 
 Hi everyone, like @boonjue.eth I’m a licensed lawyer, both in New York and in Ontario, Canada. I’m happy to speak with you about my experience in the space. Although I practice in web3, I’m hoping to learn a tonne from all of you.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/927015135141306408/79ee349b6511e2000af8a32fb8a6974e.png](https://cdn.discordapp.com/avatars/927015135141306408/79ee349b6511e2000af8a32fb8a6974e.png)
 
@@ -2089,13 +1821,7 @@ samb
 _30-Mar-22 06:58 AM_:
 Welcome, samb! We will have our next Legal WG sync this coming Friday, 4pm CET - please join us if you're free!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61a.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -2115,16 +1841,11 @@ Twitter • 01-Apr-22 10:03 AM
 
 Our DAIs will be UST soon... Time to build legal bridges with terra??
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62e.png" width=50 height=50>
-
-2
 
 <h3>teresacd <img src="https://cdn.discordapp.com/avatars/898943373812039721/3c93386357b7e26e619ed291dd7fa7cd.png" width=25 height=25></h3>
 
 _13-Apr-22 01:56 PM_:
-Hi! The content agreement doc is open for any edit/comments, would be great if you could jump in
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Hi! The content agreement doc is open for any edit/comments, would be great if you could jump in <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://docs.google.com/document/d/1-K1BalVCcLe9sz8Dl6ASGkdsrWw_eSu8/edit#](https://docs.google.com/document/d/1-K1BalVCcLe9sz8Dl6ASGkdsrWw_eSu8/edit#)
 
@@ -2134,9 +1855,6 @@ TOKEN ENGINEERING COMMONS CONTENT OWNERSHIP AGREEMENT TEC content ownership · I
 
 [https://lh3.googleusercontent.com/Y9lUISZBeJwVZtSZWrJNfi2ZHr0M4z07fusjjNv_AO4BVqQAfb_YVkkRMiuTgs-WjRs=w1200-h630-p](https://lh3.googleusercontent.com/Y9lUISZBeJwVZtSZWrJNfi2ZHr0M4z07fusjjNv_AO4BVqQAfb_YVkkRMiuTgs-WjRs=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 <h3>boonjue.eth <img src="https://cdn.discordapp.com/avatars/908799381229154314/041a1948b918ecd3ae58b5411222fbba.png" width=25 height=25></h3>
 
@@ -2158,17 +1876,12 @@ _27-Apr-22 12:16 PM_:
 
 Hi everyone! I heard TEC are looking for folk to join in with Legal, so here's someone I found from a legal background wanting to make a contribution ... @Puretayo ...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png](https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png)
 
 iviangita
 
-[Welcome, samb! We will have our next Legal WG sync this coming Friday, 4pm CET - please join us if you're free!](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50>
+[Welcome, samb! We will have our next Legal WG sync this coming Friday, 4pm CET - please join us if you're free!](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/embed/avatars/2.png](https://cdn.discordapp.com/embed/avatars/2.png)
 
@@ -2198,9 +1911,6 @@ Terms and Conditions for Submitting & Challenging Proposals
 
 ![https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ/page/AbiZgXXpq9zn9D1PhXge.png?color=%23FD40FE&logo=https%3A%2F%2F89038353-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-MRe_M_mUIIB11A-MQyZ%252Favatar-rectangle-1616086536325.png%3Fgeneration%3D1616086536797603%26alt%3Dmedia&theme=dark](https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ/page/AbiZgXXpq9zn9D1PhXge.png?color=%23FD40FE&logo=https%3A%2F%2F89038353-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-MRe_M_mUIIB11A-MQyZ%252Favatar-rectangle-1616086536325.png%3Fgeneration%3D1616086536797603%26alt%3Dmedia&theme=dark)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 <h3>teresacd <img src="https://cdn.discordapp.com/avatars/898943373812039721/3c93386357b7e26e619ed291dd7fa7cd.png" width=25 height=25></h3>
 
@@ -2224,9 +1934,6 @@ _16-May-22 07:17 PM_:
 
 "First, the Plaintiffs in this case deposited cryptocurrency with a protocol called bZx whose creators told users that they need not “ever worry about . . . getting hacked or [anyone] stealing [their] funds.” Why on earth would they tell their users that?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 <h3>teresacd <img src="https://cdn.discordapp.com/avatars/898943373812039721/3c93386357b7e26e619ed291dd7fa7cd.png" width=25 height=25></h3>
 
@@ -2240,9 +1947,6 @@ Urban Acupuncture Fund 25-May-22 02:48 PM
 
 Hello! brand new here and excited about any legal resources that might be available. We founded our token in Feb. in order to fund small urban interventions that make a difference in cities around the world. We see this as a small step along the path of changing the way the real estate business works and our cities are built. The coin was created quickly and has run into a number of issues recently. We are now fully committed to our core idea, confident that we will gain traction and ready to move to a grown up version of this project. We are just beginning that process and deciding how to establish a DAO or Foundation... and I heard about your swiss association that could be the right approach. We would love to know more. Thanks!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
-
-2
 
 <h3>UGX <img src="https://cdn.discordapp.com/avatars/651608984788271106/a60d99225761e4f2d590b86f5b16ba80.png" width=25 height=25></h3>
 
@@ -2312,8 +2016,5 @@ Urban Acupuncture Fund 13-Jun-22 12:09 PM
 
 Thank you @Letty! Looks like a very relevant presentation, I'll be there!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 Exported 221 message(s)

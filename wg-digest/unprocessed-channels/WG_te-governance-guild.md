@@ -11,19 +11,11 @@ After 19-Mar-21 12:00 AM
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _06-May-22 11:57 AM_:
-@akrtws (TE Academy) @zhiwei @inventandchill @pat.zip (TE Academy) new channel
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+@akrtws (TE Academy) @zhiwei @inventandchill @pat.zip (TE Academy) new channel <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-2
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
@@ -31,21 +23,9 @@ _06-May-22 12:55 PM_:
 
 Hi everyone, let's check our program for next Wednesday! Here's a list of topics that came up in previous sessions: A - discuss Guild policy B - create a TE Tools overview as a public good (compare cadCAD, tokenSPICE, machinations...) C - TE career, recommendations for making your next step, choosing the right environment D - Defining your own guild project as a TE community contribution, routes to fund it and get things going Please vote by Sunday with clicking one of the emojis - thanks! (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f1e6.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f1e7.png" width=50 height=50>
 
-4
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f1e8.png" width=50 height=50>
-
-5
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f1e9.png" width=50 height=50>
-
-6
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -73,9 +53,6 @@ _10-May-22 11:48 AM_:
 
 OK - we'll discuss tomorrow: D - Defining your own guild project as a TE community contribution, routes to fund it and get things going and if we have time left C - TE career, recommendations for making your next step, choosing the right environment Bring your questions and insights everyone!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -101,9 +78,6 @@ _11-May-22 01:14 PM_:
 
 @zhiwei @inventandchill @Thomas @Emerick - Figment - the task of next week's session: - propose a guild project you'd like to work on - relevant for the TE community - motivated by your personal interest - add some facts: - how much time would you like to invest - what's the result? when consider it a success? - by when you'd like to achieve this result? @Thomas could you take over facilitating the next session? Let me know if you have any questions.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png](https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png)
 
@@ -116,9 +90,6 @@ akrtws (TE Academy)
 Thomas 15-May-22 05:58 AM
 Sorry just saw this now! But I can host the next session the next session
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
@@ -134,9 +105,6 @@ Proposed Agenda for next session: - Suggest a projects (if there any other sugge
 
 TE Guild
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>zhiwei <img src="https://cdn.discordapp.com/avatars/691020255580913796/ba3ba435bdff5beb55208d274e89d2a7.png" width=25 height=25></h3>
 
@@ -144,9 +112,6 @@ _27-May-22 04:03 PM_:
 
 Thanks for the note Thomas! I want to elaborate on how we suggest a project based on the discussion from the miro board. The following components are encouraged in presenting a project proposal: - 4-6 week milestones / MVP - existing collaborators - skill needed for the project; roles missing - feasibility check: what're the biggest roadblocks?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>zhiwei <img src="https://cdn.discordapp.com/avatars/691020255580913796/ba3ba435bdff5beb55208d274e89d2a7.png" width=25 height=25></h3>
 
@@ -196,17 +161,8 @@ Table Type of Metric,Metric,UniSwap,SushiSwap,Aave,Maker,OlympusDao,Links Tokeno
 
 [https://lh4.googleusercontent.com/cSsxkcDvIj54lidnluG1BJ1R2qxtKVjN9kcHGzqkOydjTNIZuSqnyEcOalVsCL8dQiiLmThWVlpOEQ=w1200-h630-p](https://lh4.googleusercontent.com/cSsxkcDvIj54lidnluG1BJ1R2qxtKVjN9kcHGzqkOydjTNIZuSqnyEcOalVsCL8dQiiLmThWVlpOEQ=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png" width=50 height=50>
-
-1
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
@@ -216,16 +172,11 @@ Nice! Added some comments.
 
 The tokenomics comparison is 100% sth interesting to MANY. I wonder how to get valid numbers (beyond blog post announcments), though.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
 Thomas 03-Jun-22 02:45 AM
-Hey everyone, I was wondering if any of you have some concrete data on the impact of Coordinape on a DAOs? i.e. when does it work well and when does it not. PrimeDAO is thinking about implementing Coordinape but I feel like it is developing into a discussion of anecdotal evidence (I am guilt too). Happy for any resources
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Hey everyone, I was wondering if any of you have some concrete data on the impact of Coordinape on a DAOs? i.e. when does it work well and when does it not. PrimeDAO is thinking about implementing Coordinape but I feel like it is developing into a discussion of anecdotal evidence (I am guilt too). Happy for any resources <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/825058392300847185/9cd392d338b36e512f7e94d150a851e5.png](https://cdn.discordapp.com/avatars/825058392300847185/9cd392d338b36e512f7e94d150a851e5.png)
 
@@ -236,9 +187,7 @@ inventandchill
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
 Thomas 03-Jun-22 02:46 AM
-@inventandchill can I jam on this by editing the doc - I have a couple of ideas
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+@inventandchill can I jam on this by editing the doc - I have a couple of ideas <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 (edited)
 
@@ -246,9 +195,7 @@ Thomas 03-Jun-22 02:46 AM
 
 Thomas
 
-[@inventandchill can I jam on this by editing the doc - I have a couple of ideas   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[@inventandchill can I jam on this by editing the doc - I have a couple of ideas   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>inventandchill <img src="https://cdn.discordapp.com/avatars/825058392300847185/9cd392d338b36e512f7e94d150a851e5.png" width=25 height=25></h3>
 
@@ -256,9 +203,6 @@ _03-Jun-22 02:52 AM_:
 
 Hi Thomas! Free to add anything for everybody!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/825058392300847185/9cd392d338b36e512f7e94d150a851e5.png](https://cdn.discordapp.com/avatars/825058392300847185/9cd392d338b36e512f7e94d150a851e5.png)
 
@@ -278,9 +222,6 @@ RawMetrics Raw Metrics - what variables are available without doing math Metric,
 
 [https://lh5.googleusercontent.com/Hvn-xP3ZhUT9lSc8uU67AjV-amM5sLZe0XOcWUk72XvJkstvkcOgpWlENZeGJ4tZQY_PUc2OF5hDpw=w1200-h630-p](https://lh5.googleusercontent.com/Hvn-xP3ZhUT9lSc8uU67AjV-amM5sLZe0XOcWUk72XvJkstvkcOgpWlENZeGJ4tZQY_PUc2OF5hDpw=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -311,9 +252,7 @@ liviade
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
 Thomas 09-Jun-22 03:36 PM
-We should definitely take most of them over
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+We should definitely take most of them over <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 Great Basis
 
@@ -357,21 +296,13 @@ _14-Jun-22 03:32 AM_:
 
 If you need any project management advice, I can recommend @Tam2140 , she's awesome at it!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
 Thomas
 
-[We should definitely take most of them over](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+[We should definitely take most of them over](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
@@ -391,9 +322,6 @@ Thomas 14-Jun-22 04:18 PM
 
 Thanks for the heads up! Will check it!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -401,9 +329,6 @@ _15-Jun-22 09:20 AM_:
 
 Hey everyone, I'm on vacation this week and won't be able to join today too
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
@@ -423,9 +348,6 @@ _17-Jun-22 12:00 AM_:
 
 Hi everyone, this looks cool.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=50 height=50>
-
-2
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
@@ -462,9 +384,7 @@ liviade
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
 Thomas 24-Jun-22 09:27 AM
-No I don't think so
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+No I don't think so <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
@@ -491,9 +411,7 @@ akrtws (TE Academy)
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
 Thomas 27-Jun-22 11:51 AM
-Interesting - tbh I am not surprised despite the title
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+Interesting - tbh I am not surprised despite the title <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 I think the really interesting think if you account how the largest wallet holder across wallets are related
 
@@ -503,9 +421,7 @@ I think the finding will equally centralised (edited)
 
 Thomas
 
-[Interesting - tbh I am not surprised despite the title  I think the really interesting think if you account how the largest wallet holder across wallets are related](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[Interesting - tbh I am not surprised despite the title  I think the really interesting think if you account how the largest wallet holder across wallets are related](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
@@ -531,9 +447,6 @@ _28-Jun-22 01:27 PM_:
 
 OK @Thomas @zhiwei @inventandchill @liviade @rodbot2 let's check in tomorrow for an update on the guild project - see you at 4pm UTC
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
@@ -557,12 +470,7 @@ _29-Jun-22 01:12 PM_:
 
 Hi everyone - in this call we chatted a bit about how to continue with this guild group. Here's a summary: - @Thomas @inventandchill please continue with the **DAO Health project** ! And let us know if you need any support, we'll keep this channel open to sync - for the **Guild**, we'd like to slightly adapt the focus: bi-weekly/monthly meetings, for the **guild members/junior TE's to discuss and address challenges**, program tbd,@zhiwei will take responsibility to host them -> in this new channel: [https://discord.gg/MSzMVmnd](https://discord.gg/MSzMVmnd) (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
-Makes sense? Feel free to reach out if you have any questions!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Makes sense? Feel free to reach out if you have any questions! <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 BTW the talent support mission of the Guild remains unchanged. My goal is to grow the number of trainee positions and grow the number of talents to be part of this guild. Let's make this program most valuable for you, and for others who are eager to learn ⭐
 

@@ -104,13 +104,7 @@ _14-Jun-21 11:49 AM_:
 
 @phacker this channel could slowly start becoming a TE marketplace :)
 
-![https://twemoji.maxcdn.com/2/72x72/1f602.png](https://twemoji.maxcdn.com/2/72x72/1f602.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f62f.png](https://twemoji.maxcdn.com/2/72x72/1f62f.png)
-
-2
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -181,9 +175,6 @@ We help Web3’s top projects design, code and ship.
 
 ![https://www.dorg.tech/imgs/seo/dorg-logo-seo.png](https://www.dorg.tech/imgs/seo/dorg-logo-seo.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-1
 
 <h3>drllau <img src="https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png" width=25 height=25></h3>
 
@@ -219,13 +210,7 @@ Want to gain exposure within #blockchain4good? Apply now to get involved with Gi
 
 Twitter • 06-Aug-21 09:11 AM
 
-![https://twemoji.maxcdn.com/2/72x72/1f60d.png](https://twemoji.maxcdn.com/2/72x72/1f60d.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f446.png](https://twemoji.maxcdn.com/2/72x72/1f446.png)
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -321,13 +306,7 @@ Molecule is on a mission to disrupt the biotech and pharmaceutical world - bring
 
 ![https://moleculeto.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F98176e2f-fc28-4073-a8ae-a9a88108a4cb%2FUntitled_design.png?table=block&id=811e65de-4e3b-40fb-8ef9-1a8041b2852d&spaceId=71f2b65e-b290-4d2f-aea4-b8deb45e4103&width=2050&userId=&cache=v2](https://moleculeto.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F98176e2f-fc28-4073-a8ae-a9a88108a4cb%2FUntitled_design.png?table=block&id=811e65de-4e3b-40fb-8ef9-1a8041b2852d&spaceId=71f2b65e-b290-4d2f-aea4-b8deb45e4103&width=2050&userId=&cache=v2)
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
@@ -352,13 +331,7 @@ Infrastructure for the decentralized world
 
 ![https://raw.githubusercontent.com/dappnode/DAppNode/master/doc/logo-only-square.png](https://raw.githubusercontent.com/dappnode/DAppNode/master/doc/logo-only-square.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f91d.png](https://twemoji.maxcdn.com/2/72x72/1f91d.png)
 
-4
-
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
@@ -372,9 +345,6 @@ Fill out the "Connect with other Gitcoin DAO members and help us create new form
 
 ![https://static.airtable.com/images/oembed/airtable.png](https://static.airtable.com/images/oembed/airtable.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -383,19 +353,13 @@ Hey folks. This isn't so much a job posting as an invitation for collaboration! 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-3
 
 <h3>galactictourist <img src="https://cdn.discordapp.com/avatars/339610741655207938/b54710dc4c655ed21dda66b7e1954bc8.png" width=25 height=25></h3>
 
 _27-Sep-21 09:05 PM_:
 
-[https://www.youtube.com/watch?v=Hs6zU11zftU](https://www.youtube.com/watch?v=Hs6zU11zftU)
 
-[Chris Gitre](https://www.youtube.com/channel/UCrssSAGMLjP406drJLG2hRw)
-
-CreatorVerse Tokenomics
+[CreatorVerse Tokenomics](https://www.youtube.com/watch?v=Hs6zU11zftU)
 
 ![https://i.ytimg.com/vi/Hs6zU11zftU/maxresdefault.jpg](https://i.ytimg.com/vi/Hs6zU11zftU/maxresdefault.jpg)
 
@@ -439,9 +403,6 @@ DoinGud is an NFT ecosystem focused on inspiring creativity and positive social 
 
 [https://workablehr.s3.amazonaws.com/uploads/account/open_graph_logo/434604/social?1632134609636](https://workablehr.s3.amazonaws.com/uploads/account/open_graph_logo/434604/social?1632134609636)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-4
 
 <h3>Theodor <img src="https://cdn.discordapp.com/avatars/770985756700966912/f4352d6760cec044d9cee0962035eff3.png" width=25 height=25></h3>
 
@@ -460,9 +421,6 @@ Muon Network is hiring a remote Marketing Manager with Content Skills. Apply now
 
 ![https://lambda-apis.vercel.app/api/ogImage2/614f3366600be1000459fec1.png](https://lambda-apis.vercel.app/api/ogImage2/614f3366600be1000459fec1.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-3
 
 <h3>Bulletz4Breakfast <img src="https://cdn.discordapp.com/avatars/401724703888375811/155c60e90a2496190ace8d1bdea6e4a9.png" width=25 height=25></h3>
 
@@ -500,9 +458,6 @@ Followers
 
 Twitter
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fc.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fc.png)
-
-1
 
 <h3>knobsDAO <img src="https://cdn.discordapp.com/avatars/394919909454512138/b66916eb105b5ef364edec67d20bb6fb.png" width=25 height=25></h3>
 
@@ -533,9 +488,6 @@ I'll be leading their DAO journey and community.
 
 [Apply before the 31st of October.
 
-![https://twemoji.maxcdn.com/2/72x72/1f4cc.png](https://twemoji.maxcdn.com/2/72x72/1f4cc.png)
-
-]
 
 IoTeX Ambassador Program 2.0 - Applications Are Open
 
@@ -543,9 +495,6 @@ It's powerful to see the IoTeX community grow day after day – community is the
 
 ![https://iotex.io/blog/content/images/2021/10/ambassador-program-2.0.png](https://iotex.io/blog/content/images/2021/10/ambassador-program-2.0.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-1
 
 <h3>David D. | TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
@@ -567,9 +516,6 @@ _08-Nov-21 01:43 PM_:
 
 Looping in @ygg_anderson and the LFT crew so it's on their radar too.
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 <h3>Erdogan <img src="https://cdn.discordapp.com/avatars/180471057524850688/c34141be14db2f4fe65f38ccbcb32c70.png" width=25 height=25></h3>
 
@@ -618,9 +564,6 @@ _12-Nov-21 11:21 AM_:
 
 thanks @Tam2140 will try there!
 
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
-
-1
 
 <h3>markop <img src="https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png" width=25 height=25></h3>
 
@@ -659,9 +602,6 @@ _18-Nov-21 01:49 PM_:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png](https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png)
 
@@ -687,9 +627,6 @@ _28-Nov-21 03:05 AM_:
 
 Volmex Labs is growing and HIRING smart contacts engineers! Apply! [https://angel.co/company/volmex-finance/jobs/1799654-smart-contracts-engineer](https://angel.co/company/volmex-finance/jobs/1799654-smart-contracts-engineer)
 
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
-
-1
 
 <h3>Michael Keating <img src="https://cdn.discordapp.com/avatars/415358390957637642/f3c0ab1bc2145fb3a18e1077be815126.png" width=25 height=25></h3>
 
@@ -697,17 +634,8 @@ _02-Dec-21 02:20 PM_:
 
 Hi TEC friends, I'm launching HERE Mobility, a Web3 protocol to radically expand access to personal electric mobility. If you are familiar with Helium, I take significant inspiration from what they have done in wireless data. In my past life, I founded Scoot, the first electric mobility app, which I sold to Bird two years ago. We are looking for contributors on software engineering, product, and growth. DM me if you are interested in learning more.
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
 
-6
 
-![https://twemoji.maxcdn.com/2/72x72/1f699.png](https://twemoji.maxcdn.com/2/72x72/1f699.png)
-
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1fab4.png](https://twemoji.maxcdn.com/2/72x72/1fab4.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/415358390957637642/f3c0ab1bc2145fb3a18e1077be815126.png](https://cdn.discordapp.com/avatars/415358390957637642/f3c0ab1bc2145fb3a18e1077be815126.png)
 
@@ -797,9 +725,6 @@ _15-Dec-21 03:18 PM_:
 
 @everyoneI've more job openings for projects in the TEC. Please contact me here or Telegram @hanners717 if you're interested. Send your resume and a short message about your experience and why you are interested in this role. I'm looking forward to hearing from you!
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-1
 
 [https://docs.giveth.io/jobs/technicalHiring](https://docs.giveth.io/jobs/technicalHiring)
 
@@ -831,9 +756,6 @@ _17-Dec-21 06:21 PM_:
 
 I'm not sure of specific quantitative studies out there that show the growth of the industry and need for specialists. But as someone directly involved with teams regularly building projects in the Web3 space - I can comfortably say that the demand is definitely high for these type of specialists and as a personal opinion I believe it will continue to grow at a pretty healthy pace.
 
-![https://twemoji.maxcdn.com/2/72x72/1f440.png](https://twemoji.maxcdn.com/2/72x72/1f440.png)
-
-1
 
 <h3>niksteel123 <img src="https://cdn.discordapp.com/avatars/211893298166628352/01d52bf37daa1170fbb4166ce312e651.png" width=25 height=25></h3>
 
@@ -934,9 +856,6 @@ Pozzle Planet is an impact-to-earn social game that enables players and friends 
 
 ![https://static.wixstatic.com/media/404f82_7e8a828d1fbd4fcc919e2552241288e3%7Emv2.png/v1/fit/w_2500,h_1330,al_c/404f82_7e8a828d1fbd4fcc919e2552241288e3%7Emv2.png](https://static.wixstatic.com/media/404f82_7e8a828d1fbd4fcc919e2552241288e3%7Emv2.png/v1/fit/w_2500,h_1330,al_c/404f82_7e8a828d1fbd4fcc919e2552241288e3%7Emv2.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-1
 
 <h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
@@ -1059,9 +978,6 @@ Who are we looking for? We need an experienced Devops Specialist working in Web3
 
 ![https://res.cloudinary.com/recruitee/image/upload/q_auto,w_1920,c_limit/share_image_w6am4m.png](https://res.cloudinary.com/recruitee/image/upload/q_auto,w_1920,c_limit/share_image_w6am4m.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/841574608313516052/c6f990d3e5ab2a065ee7ce072048c2c0.png](https://cdn.discordapp.com/avatars/841574608313516052/c6f990d3e5ab2a065ee7ce072048c2c0.png)
 
@@ -1199,9 +1115,6 @@ We're looking for different background contributors to join our team to build co
 
 Twitter • 03-Mar-22 02:38 AM
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png)
-
-1
 
 <h3>hanners717 <img src="https://cdn.discordapp.com/avatars/841574608313516052/c6f990d3e5ab2a065ee7ce072048c2c0.png" width=25 height=25></h3>
 
@@ -1376,9 +1289,6 @@ _04-Apr-22 09:16 AM_:
 
 Hi guys, i am looking for an experienced Token engineer to assist in modeling and assessing the self sufficiency of the token economy of a client. Please reach out to me if you find yourself suitable for the job. Payment will be discussed over a call.
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-1
 
 <h3>Crypto Love <img src="https://cdn.discordapp.com/avatars/831859905689419868/ee612d8fa5b51c37678ba816dbefe719.png" width=25 height=25></h3>
 

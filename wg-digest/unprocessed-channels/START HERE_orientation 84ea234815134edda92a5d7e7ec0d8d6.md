@@ -28,13 +28,7 @@ _20-Mar-21 07:16 AM_:
 
 Hi @osycross(🦎🦎) . You may have a look at the TEC forum ([https://forum.tecommons.org/c/welcome-to-the-tec/12)](https://forum.tecommons.org/c/welcome-to-the-tec/12)) and join an AMA happening each Wednesday. Find the time for your timezone in the calender: [https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com) Also feel free to join other events in the voice channels (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png)
-
-1
 
 @liviade How about linking the forum and the calender in the #🔮｜verification channel?
 
@@ -71,9 +65,6 @@ Ending our Collective Psychosis Around Public Goods - @thegrifft of @commonsstac
 
 ![https://i.ytimg.com/vi/ofa9QSqQXf8/maxresdefault.jpg](https://i.ytimg.com/vi/ofa9QSqQXf8/maxresdefault.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/746649091672637460/dc6a99993b76d5eab01fa3af8fa57326.png](https://cdn.discordapp.com/avatars/746649091672637460/dc6a99993b76d5eab01fa3af8fa57326.png)
 
@@ -102,13 +93,7 @@ What would the world look like if we stored the economic value of our public goo
 
 ![https://miro.medium.com/max/1200/1*HI8994MgR-4hTiIiTObndA.png](https://miro.medium.com/max/1200/1*HI8994MgR-4hTiIiTObndA.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
 
-4
-
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
-
-2
 
 <h3>Gnomeski 🐙 <img src="https://cdn.discordapp.com/avatars/760308587414814731/9c64b1e821d62bd8e79c15a179378207.png" width=25 height=25></h3>
 
@@ -154,9 +139,6 @@ _29-Mar-21 05:43 AM_:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3fc.png](https://twemoji.maxcdn.com/2/72x72/1f3fc.png)
 
-![https://twemoji.maxcdn.com/2/72x72/2705.png](https://twemoji.maxcdn.com/2/72x72/2705.png)
-
-1
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -164,9 +146,6 @@ _29-Mar-21 05:50 AM_:
 
 !praise @Tam2140 and @liviade for guiding me in my introduction to the TEC.
 
-![https://twemoji.maxcdn.com/2/72x72/2705.png](https://twemoji.maxcdn.com/2/72x72/2705.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/794016892850929674/8ae9c06d8cadbdf14cb50caf05220545.png](https://cdn.discordapp.com/avatars/794016892850929674/8ae9c06d8cadbdf14cb50caf05220545.png)
 
@@ -197,9 +176,6 @@ Hey Paul, welcome to TEC, it's great to have you with us
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f60e.png](https://twemoji.maxcdn.com/2/72x72/1f60e.png)
-
-1
 
 <h3>KZ Flyer <img src="https://cdn.discordapp.com/avatars/433877864849473557/426992a96a4d443fd0931bfe92ff1515.png" width=25 height=25></h3>
 
@@ -225,9 +201,6 @@ We are definitely taking the "Creative Finance" approach
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-1
 
 You have come to the right place!
 
@@ -251,9 +224,6 @@ Please drop requests, insights and thoughts on how to make the onboarding journe
 
 ![https://forum.tecommons.org/uploads/default/original/1X/fe0e39f334f53aae1a4b6236cda3fa20d0975753.png](https://forum.tecommons.org/uploads/default/original/1X/fe0e39f334f53aae1a4b6236cda3fa20d0975753.png)
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
 
@@ -272,9 +242,6 @@ Oh boy, major life decision on day one!
 
 I've spent last night and tonight going through some of the channels and the forum. Trying to sort through what is old and what is new, and going from there. Saw there's some voting to do, so I was going to check those out. Honestly, I am happy to help anywhere I can. I enjoy working through the chaos behind the scenes. I once took over the day to day benefits administration for about 1,100 employees for about 6 months - with no prior experience....that was one of my favorite roles. If its not too complex, doesn't require advanced (or sometimes remedial) education, I'm happy to learn as I work on it. I'm not the most tech savvy, but as a user, I'm decent. The last time I did any sort of coding was back in the 90's, probably in C++, so I would probably do more damage than good in that area. I could definitely test whatever is built though. I used to do UAT and regression testing on some of the banking programs.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Crazy Kay <img src="https://cdn.discordapp.com/avatars/791263406422229013/ad3d5f2b18e2f3bfad6338a4cf78c12f.png" width=25 height=25></h3>
 
@@ -282,9 +249,6 @@ _02-Apr-21 11:41 AM_:
 
 Hello everyone.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
-
-1
 
 <h3>markop <img src="https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png" width=25 height=25></h3>
 
@@ -440,17 +404,8 @@ calendar channel.
 
 [https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44c.png](https://twemoji.maxcdn.com/2/72x72/1f44c.png)
 
-2
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png)
-
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f98b.png](https://twemoji.maxcdn.com/2/72x72/1f98b.png)
-
-1
 Hopefully there's a description of each working group pinned on it's corresponding channel
 
 ![https://cdn.discordapp.com/emojis/821127071496536135.png](https://cdn.discordapp.com/emojis/821127071496536135.png)
@@ -469,9 +424,6 @@ _06-Apr-21 03:22 AM_:
 
 Hi @ddan, reach out to @iviangita, who can help with both.
 
-![https://twemoji.maxcdn.com/2/72x72/2665.png](https://twemoji.maxcdn.com/2/72x72/2665.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png](https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png)
 
@@ -545,9 +497,6 @@ Welcome to the TEC!
 
 ✨ We’re happy you’re here!
 
-![https://twemoji.maxcdn.com/2/72x72/1f308.png](https://twemoji.maxcdn.com/2/72x72/1f308.png)
-
-✨
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64b.png](https://twemoji.maxcdn.com/2/72x72/1f64b.png)
 
@@ -557,9 +506,6 @@ Welcome to the TEC!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f469.png](https://twemoji.maxcdn.com/2/72x72/1f469.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f3fd.png)
-
-‍
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3eb.png](https://twemoji.maxcdn.com/2/72x72/1f3eb.png)
 
@@ -783,9 +729,6 @@ UNicoins challenge is now open for peer reviewing the White Paper - 'UNicoins - 
 
 Reviewers whose suggestions are accepted by the White Paper team will be acknowledged in the final version of the paper. Check out link below! #FutureOfWork #UNicoins #CollaborationToken #TimeToken #Blockchain #DecentralizedSDGs #ReimagineUN #DigitalCooperation #OneUN #DecadeOfAction
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-4
 
 [https://ideas.unite.un.org/unicoins/Page/Home](https://ideas.unite.un.org/unicoins/Page/Home)
 
@@ -827,9 +770,6 @@ _11-May-21 11:48 AM_:
 
 @ygg_anderson @phacker (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png)
-
-3
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -869,15 +809,9 @@ Democratize your open-source software project. A better way for projects to coll
 
 ![https://tokenlog.xyz/icon.png](https://tokenlog.xyz/icon.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-3
 
 For all new joiners, stay tuned to this space for more on how you can get involved in the TEC! Also, please feel free to DM me anytime. --Suga, your onboarding coordinator
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>DecentralizeSDGs <img src="https://cdn.discordapp.com/avatars/760506672975970354/837ae205b0f49d22286cdf0ba11e8ad8.png" width=25 height=25></h3>
 
@@ -930,9 +864,6 @@ TEC YouTube The TEC is proactive to transparency, and so our Working Group sessi
 
 [https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg/videos](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg/videos)
 
-![https://twemoji.maxcdn.com/2/72x72/1f469.png](https://twemoji.maxcdn.com/2/72x72/1f469.png)
-
-‍
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3eb.png](https://twemoji.maxcdn.com/2/72x72/1f3eb.png)
 
@@ -976,13 +907,7 @@ The Token Engineering Commons (TEC) is building a world with safe digital socio-
 
 ![https://cdn-images-1.medium.com/max/1200/1*ukJjlWtzz8CUzq4jupkwBg.jpeg](https://cdn-images-1.medium.com/max/1200/1*ukJjlWtzz8CUzq4jupkwBg.jpeg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f440.png](https://twemoji.maxcdn.com/2/72x72/1f440.png)
 
-3
-
-![https://twemoji.maxcdn.com/2/72x72/1f49c.png](https://twemoji.maxcdn.com/2/72x72/1f49c.png)
-
-3
 
 ![https://cdn.discordapp.com/avatars/760506672975970354/837ae205b0f49d22286cdf0ba11e8ad8.png](https://cdn.discordapp.com/avatars/760506672975970354/837ae205b0f49d22286cdf0ba11e8ad8.png)
 
@@ -1031,21 +956,9 @@ Feel free to join any of our...
 
 ![https://forum.tecommons.org/uploads/default/original/1X/818abcf1391712a13da1304b0391e3f93d16cb9d.png](https://forum.tecommons.org/uploads/default/original/1X/818abcf1391712a13da1304b0391e3f93d16cb9d.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f918.png](https://twemoji.maxcdn.com/2/72x72/1f918.png)
 
-8
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-8
-
-![https://twemoji.maxcdn.com/2/72x72/1f919.png](https://twemoji.maxcdn.com/2/72x72/1f919.png)
-
-3
-
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-3
 
 Original message was deleted.
 
@@ -1104,9 +1017,6 @@ Hi everyone!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3fe.png](https://twemoji.maxcdn.com/2/72x72/1f3fe.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
-
-2
 
 <h3>markop <img src="https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png" width=25 height=25></h3>
 
@@ -1114,13 +1024,7 @@ _16-Jun-21 12:46 PM_:
 
 Everyone, please meet my friend @JohnnyPedala who is working in some cool stuff with bonding curves.
 
-![https://twemoji.maxcdn.com/2/72x72/26a1.png](https://twemoji.maxcdn.com/2/72x72/26a1.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-1
 
 <h3>JohnnyPedala <img src="https://cdn.discordapp.com/avatars/834723648903446528/4a5991955f925f2be92d4da731ac9646.png" width=25 height=25></h3>
 
@@ -1143,9 +1047,6 @@ welcome @JohnnyPedala
 
 ![https://twemoji.maxcdn.com/2/72x72/1f308.png](https://twemoji.maxcdn.com/2/72x72/1f308.png)
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-1
 
 <h3>arrow <img src="https://cdn.discordapp.com/avatars/852198167961272330/5fc44ecb63df1dfb15c6b5c503a83fe5.png" width=25 height=25></h3>
 
@@ -1153,9 +1054,6 @@ _17-Jun-21 11:09 AM_:
 
 Wow, good to know , I got lots of questions @JohnnyPedala
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-1
 
 <h3>Kojak <img src="https://cdn.discordapp.com/avatars/755383991300915290/a58e400056417f1d790deda8e41c5df0.png" width=25 height=25></h3>
 
@@ -1186,17 +1084,8 @@ Hello everyone! There are some great links to get started in the pinned message
 
 of this channel! The TEC calendar, introductory videos and links to our Forum and Medium. Thanks @Suga for putting it all in there!
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
-4
 
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -1207,9 +1096,6 @@ Helllooooooo TEC, especially new joiners!! I want to welcome you all again to th
 
 ![https://cdn.discordapp.com/attachments/821767026321391667/859448340135542825/wishlist.png](https://cdn.discordapp.com/attachments/821767026321391667/859448340135542825/wishlist.png)
 
-![https://twemoji.maxcdn.com/2/72x72/2763.png](https://twemoji.maxcdn.com/2/72x72/2763.png)
-
-3
 
 <h3>st4rgard3n <img src="https://cdn.discordapp.com/avatars/313822952003076108/48eee648c9e0de4662bb84f198e28577.png" width=25 height=25></h3>
 
@@ -1298,13 +1184,7 @@ Hi @New Members! I'm holding an orientation to the TEC this week. Please get in 
 
 12
 
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
 
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f386.png](https://twemoji.maxcdn.com/2/72x72/1f386.png)
-
-1
 
 <h3>joseacabrerav <img src="https://cdn.discordapp.com/avatars/369284552763375617/633994a8a96d8efb39f7e3f43d0585e8.png" width=25 height=25></h3>
 
@@ -1312,9 +1192,6 @@ _12-Jul-21 01:48 PM_:
 
 @Suga YES!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>marcus <img src="https://cdn.discordapp.com/avatars/718574139895447673/170c9db12b444f3d9e10d0dd2226ba64.png" width=25 height=25></h3>
 
@@ -1374,9 +1251,6 @@ This might be being recorded - I'll check!
 
 @storypup No, it's not being recorded but Suga will be running these every few weeks so hopefully next time?
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -1487,9 +1361,6 @@ I have to go! Thanks so much @Suga - super helpful! Really enjoyed it
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png](https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png)
 
@@ -1507,9 +1378,6 @@ _14-Jul-21 12:57 PM_:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png](https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png)
 
@@ -1596,9 +1464,6 @@ _16-Jul-21 03:53 AM_:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f386.png](https://twemoji.maxcdn.com/2/72x72/1f386.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png](https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png)
 
@@ -1658,9 +1523,6 @@ _21-Jul-21 05:22 AM_:
 
 Hi @New Member s! The TEC is at EthCC in Paris this week, so I am sorry for being out of the loop! Normally we have an orientation open to everyone today at 6pm CET in the Community Hall channel, but I don’t think I can make it today. Please come next week! I’m also going to send you some info right now. Thanks for coming!
 
-![https://twemoji.maxcdn.com/2/72x72/1f1eb-1f1f7.png](https://twemoji.maxcdn.com/2/72x72/1f1eb-1f1f7.png)
-
-2
 Hi again @New Member s, and welcome to the TEC!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f38d.png](https://twemoji.maxcdn.com/2/72x72/1f38d.png)
@@ -1669,9 +1531,6 @@ Hi again @New Member s, and welcome to the TEC!
 
 ✨ We’re happy you’re here!
 
-![https://twemoji.maxcdn.com/2/72x72/1f308.png](https://twemoji.maxcdn.com/2/72x72/1f308.png)
-
-✨
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64b.png](https://twemoji.maxcdn.com/2/72x72/1f64b.png)
 
@@ -1681,9 +1540,6 @@ Hi again @New Member s, and welcome to the TEC!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f469.png](https://twemoji.maxcdn.com/2/72x72/1f469.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f3fd.png)
-
-‍
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3eb.png](https://twemoji.maxcdn.com/2/72x72/1f3eb.png)
 
@@ -1763,13 +1619,7 @@ The Token Engineering Commons (TEC) is building a world with safe digital socio-
 
 ![https://cdn-images-1.medium.com/max/1200/1*ukJjlWtzz8CUzq4jupkwBg.jpeg](https://cdn-images-1.medium.com/max/1200/1*ukJjlWtzz8CUzq4jupkwBg.jpeg)
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
 
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
 
@@ -1808,17 +1658,8 @@ _22-Jul-21 11:45 AM_:
 
 Hi I'm new to crypto and wanted to join a DAO to learn a bit more I met Nathan on ethcc
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-1
 
-![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
-
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-1
 
 <h3>Alp <img src="https://cdn.discordapp.com/avatars/841089783324213278/becbeb030b2bbc7ed154054513d0be4e.png" width=25 height=25></h3>
 
@@ -1830,13 +1671,7 @@ Hello everyone, another noob here. Wanted to do a quick introduction to get comf
 
 2
 
-![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
-4
-
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-1
 
 <h3>Kojak <img src="https://cdn.discordapp.com/avatars/755383991300915290/a58e400056417f1d790deda8e41c5df0.png" width=25 height=25></h3>
 
@@ -1856,9 +1691,6 @@ _23-Jul-21 09:06 AM_:
 
 Sure @Kojak , in short, we automated a short supply chain to buy fruits and veggies that regional farmers couldn't sell last minute, turned them into freeze-dried snack, powder and paste, then provided to processors/b2b channels/retail. In the meantime we would donate the inedible parts to upcycling or waste management companies. For example, we would produce olive snacks, and the olive stone we would donate to a company which was producing bio-filament from olive stones, then they would provide us with packages made from the exact bio-filament which was 70% (unfortunately) biodegradable. (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/841089783324213278/becbeb030b2bbc7ed154054513d0be4e.png](https://cdn.discordapp.com/avatars/841089783324213278/becbeb030b2bbc7ed154054513d0be4e.png)
 
@@ -1872,13 +1704,7 @@ _23-Jul-21 09:20 AM_:
 
 With business development I think you'll be made welcome quite quickly. To note, it's quite often a little chaotic seeming, but also quite often a lot of work goes on behind the scenes. Understanding that with coherence is another step, and meetings take place that do bring some coherence, but it is not always documented at the same level. Interesting things like voting and governance come into play, and there are a variety of flavours going on. My interest is whether grassroots can be supported, because that would then be really different from banks, whose preference is only to deal with large transactions. Of course they have huge overheads, and I hope DAOs are seeking ways to minimise overheads, meaning some attention can still be given to grassroots opportunities.
 
-![https://twemoji.maxcdn.com/2/72x72/1f919.png](https://twemoji.maxcdn.com/2/72x72/1f919.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/841089783324213278/becbeb030b2bbc7ed154054513d0be4e.png](https://cdn.discordapp.com/avatars/841089783324213278/becbeb030b2bbc7ed154054513d0be4e.png)
 
@@ -1922,13 +1748,7 @@ Albaydar, a visionary master plan to support constructing World Peace and NewEar
 
 [https://lh5.googleusercontent.com/BedyDJTdj9AezISPDXS1zGa7SMj6dLP0lkNspKK6dVOpsGNiKhgLOHdlqrOOudEjbEJmq4oPdT-rJA=w1200-h630-p](https://lh5.googleusercontent.com/BedyDJTdj9AezISPDXS1zGa7SMj6dLP0lkNspKK6dVOpsGNiKhgLOHdlqrOOudEjbEJmq4oPdT-rJA=w1200-h630-p)
 
-![https://twemoji.maxcdn.com/2/72x72/1f919.png](https://twemoji.maxcdn.com/2/72x72/1f919.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Kojak <img src="https://cdn.discordapp.com/avatars/755383991300915290/a58e400056417f1d790deda8e41c5df0.png" width=25 height=25></h3>
 
@@ -2026,9 +1846,6 @@ Welcome to the TEC!
 
 ✨ We’re happy you’re here!
 
-![https://twemoji.maxcdn.com/2/72x72/1f308.png](https://twemoji.maxcdn.com/2/72x72/1f308.png)
-
-✨
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64b.png](https://twemoji.maxcdn.com/2/72x72/1f64b.png)
 
@@ -2038,9 +1855,6 @@ Welcome to the TEC!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f469.png](https://twemoji.maxcdn.com/2/72x72/1f469.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f3fd.png)
-
-‍
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3eb.png](https://twemoji.maxcdn.com/2/72x72/1f3eb.png)
 
@@ -2126,9 +1940,6 @@ _28-Jul-21 12:07 PM_:
 
 The community call is ON now in the Community Hall Voice Channel!
 
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-1
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -2164,17 +1975,8 @@ _28-Jul-21 12:20 PM_:
 
 ![https://cdn.discordapp.com/attachments/821767026321391667/869977521985298512/image0.jpg](https://cdn.discordapp.com/attachments/821767026321391667/869977521985298512/image0.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
 
-3
 
-![https://twemoji.maxcdn.com/2/72x72/1f331.png](https://twemoji.maxcdn.com/2/72x72/1f331.png)
-
-3
-
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-2
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -2182,9 +1984,6 @@ _28-Jul-21 12:20 PM_:
 
 Thank you @nic !
 
-![https://twemoji.maxcdn.com/2/72x72/263a.png](https://twemoji.maxcdn.com/2/72x72/263a.png)
-
-3
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -2360,9 +2159,6 @@ _29-Jul-21 12:33 AM_:
 
 Suppose this were published in social media, @Suga , would that be okay and helpful for stewards?
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 Also, @Kojak , the above from @Suga is a very comprehensive list of documentation. You can dive in here or there, as the notion takes you, or have a deep dive and comprehensive learning session.
 
@@ -2378,18 +2174,12 @@ _29-Jul-21 02:00 PM_:
 
 That’d be great! Thanks!
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _29-Jul-21 05:07 PM_:
 @Vyvy-vi it’s back
 
-![https://twemoji.maxcdn.com/2/72x72/1f440.png](https://twemoji.maxcdn.com/2/72x72/1f440.png)
-
-^
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -2397,9 +2187,6 @@ _29-Jul-21 05:09 PM_:
 
 smh :/ What is up with these essay writing sites
 
-![https://twemoji.maxcdn.com/2/72x72/1f605.png](https://twemoji.maxcdn.com/2/72x72/1f605.png)
-
-2
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -2432,9 +2219,6 @@ TEC YouTube The TEC is proactive to transparency, and so our Working Group sessi
 
 [https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg/videos](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg/videos)
 
-![https://twemoji.maxcdn.com/2/72x72/1f469.png](https://twemoji.maxcdn.com/2/72x72/1f469.png)
-
-‍
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3eb.png](https://twemoji.maxcdn.com/2/72x72/1f3eb.png)
 
@@ -2483,9 +2267,6 @@ _06-Aug-21 10:18 AM_:
 
 Please see the above post for information to help you navigate joining our community.
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-3
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -2506,9 +2287,6 @@ _07-Aug-21 07:28 AM_:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -2556,9 +2334,6 @@ This article is a deeper technical primer into the system design of the Augmente
 
 ![https://miro.medium.com/max/1200/1*cN7dn5-IGaNBOZHZsM_U0g.png](https://miro.medium.com/max/1200/1*cN7dn5-IGaNBOZHZsM_U0g.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-2
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -2566,9 +2341,6 @@ _11-Aug-21 12:49 PM_:
 
 Hello @New Member s! Here is more info on the TEC, specifically the tools we use:
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-5
 
 TEC Tools TEC Discord: [https://discord.com/channels/810180621930070088/814861743053471784](https://discord.com/channels/810180621930070088/814861743053471784) TEC Zenhub: [https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board) TEC Forum: [http://forum.tecommons.org/](http://forum.tecommons.org/) TEC Medium: [https://medium.com/token-engineering-commons](https://medium.com/token-engineering-commons) TEC YouTube: [https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg/videos](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg/videos) TEC Voting: [https://tokenlog.xyz/CommonsBuild](https://tokenlog.xyz/CommonsBuild) TEC Calendar: [https://www.notion.so/Calendar-be8a6868a6ef4305b7521fa35a2eb9ba](https://www.notion.so/Calendar-be8a6868a6ef4305b7521fa35a2eb9ba)
 
@@ -2689,9 +2461,6 @@ Discord is an all-in-one communication platform and it has voice chat, video cha
 
 ![https://i.ytimg.com/vi/rnYGrq95ezA/maxresdefault.jpg](https://i.ytimg.com/vi/rnYGrq95ezA/maxresdefault.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -2730,9 +2499,6 @@ _15-Aug-21 01:00 AM_:
 
 Thank you. Great dialogue and support makes it easier. You guys do an amazing job, I'm still pinching myself to believe it's happening.
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-2
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -2740,9 +2506,6 @@ _17-Aug-21 11:58 AM_:
 
 Hi @New Member s! Welcome to the post-Hatch TEC!! So glad you're here! We are so excited and hope you are too. Please join us for an orientation/AMA every Wed at 6PM CET. Meanwhile, here is some info to get you started. Please reach out to me, @anna-marie, @natesuits, @liviade, @Vyvy-vi or anyone else you come across if you have any questions!
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fc.png](https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fc.png)
-
-6
 
 ![https://cdn.discordapp.com/emojis/808345769357606955.gif](https://cdn.discordapp.com/emojis/808345769357606955.gif)
 
@@ -2755,9 +2518,6 @@ Welcome to the TEC!
 
 ✨ We’re happy you’re here!
 
-![https://twemoji.maxcdn.com/2/72x72/1f308.png](https://twemoji.maxcdn.com/2/72x72/1f308.png)
-
-✨
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64b.png](https://twemoji.maxcdn.com/2/72x72/1f64b.png)
 
@@ -2767,9 +2527,6 @@ Welcome to the TEC!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f469.png](https://twemoji.maxcdn.com/2/72x72/1f469.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f3fd.png)
-
-‍
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3eb.png](https://twemoji.maxcdn.com/2/72x72/1f3eb.png)
 
@@ -2847,9 +2604,6 @@ The Token Engineering Commons (TEC) is building a world with safe digital socio-
 
 ![https://cdn-images-1.medium.com/max/1200/1*ukJjlWtzz8CUzq4jupkwBg.jpeg](https://cdn-images-1.medium.com/max/1200/1*ukJjlWtzz8CUzq4jupkwBg.jpeg)
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-1
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -2898,9 +2652,6 @@ _25-Aug-21 04:29 AM_:
 
 Hi @New Member! Please join us today in the community hall at 6pm CET for an orientation/AMA!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fb.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fb.png)
-
-5
 
 ![https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png](https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png)
 
@@ -2929,9 +2680,6 @@ Oh no! We don’t.
 
 Alternatively, @SteveWright we could have a different session that suits your schedule for sure!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>imranistan <img src="https://cdn.discordapp.com/avatars/276138386807586817/72bb75d990d88ed42f3fbb4e2942c40a.png" width=25 height=25></h3>
 
@@ -2939,9 +2687,6 @@ _26-Aug-21 11:35 AM_:
 
 Hello everyone!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/276138386807586817/72bb75d990d88ed42f3fbb4e2942c40a.png](https://cdn.discordapp.com/avatars/276138386807586817/72bb75d990d88ed42f3fbb4e2942c40a.png)
 
@@ -2958,9 +2703,6 @@ Hey @imranistan! Welcome
 
 If you need any help settling in, reach out to anyone with a 'orientation coordinator' tab. We also have some useful info in the pinned message.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -2997,9 +2739,6 @@ Want an overview of what’s happening across the TEC? Join our Community Call a
 
 [https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?labels=for%20contributors&repos=306706322,349409011](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?labels=for%2520contributors&repos=306706322,349409011)
 
-![https://twemoji.maxcdn.com/2/72x72/1f469.png](https://twemoji.maxcdn.com/2/72x72/1f469.png)
-
-‍
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3eb.png](https://twemoji.maxcdn.com/2/72x72/1f3eb.png)
 
@@ -3075,9 +2814,6 @@ Hi @GCF and thanks for the message and question! We definitely have ways for you
 
 ![https://cdn.discordapp.com/attachments/821767026321391667/881127952157392926/wishlist.png](https://cdn.discordapp.com/attachments/821767026321391667/881127952157392926/wishlist.png)
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-1
 
 "For contributors" in Zenhub: [https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?labels=for%20contributors&repos=306706322,349409011](https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?labels=for%2520contributors&repos=306706322,349409011)
 
@@ -3105,9 +2841,6 @@ _28-Aug-21 02:29 PM_:
 
 @SteveWright I’m in CET so those times are rather tricky, but I’ll see if someone else in your timezone such as @natesuits could maybe meet with you at one of those times!
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-1
 
 <h3>natesuits <img src="https://cdn.discordapp.com/avatars/417979381332443136/d145fdbe6fea9d40b4a5e729859a2a2f.png" width=25 height=25></h3>
 
@@ -3115,9 +2848,6 @@ _28-Aug-21 02:49 PM_:
 
 @SteveWright I would love to meet up with you on one of those times! Please DM me which time/day you prefer and we will make it happen!
 
-![https://twemoji.maxcdn.com/2/72x72/1f4ab.png](https://twemoji.maxcdn.com/2/72x72/1f4ab.png)
-
-1
 
 (I'm actually in Oakland as well!)
 
@@ -3133,9 +2863,6 @@ _29-Aug-21 01:29 AM_:
 
 I'm just wondering about a navigation map in eg Miro? Some great knowledge assets in TEC, and maybe a large Miro map could help folk navigate to find out what's here?
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-3
 
 ![https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png](https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png)
 
@@ -3152,9 +2879,6 @@ Hi @Suga Thanks for all of the information above. I will follow up on all of thi
 
 (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f4ab.png](https://twemoji.maxcdn.com/2/72x72/1f4ab.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/417979381332443136/d145fdbe6fea9d40b4a5e729859a2a2f.png](https://cdn.discordapp.com/avatars/417979381332443136/d145fdbe6fea9d40b4a5e729859a2a2f.png)
 
@@ -3168,9 +2892,6 @@ _01-Sep-21 10:44 AM_:
 
 Sorry for late reply. School is tough this year so tough to find time for a side hustle. :) Would love to chat. Maybe even a cuppa beverage in person!? I teach at Oakland Tech on Broadway and 42nd and live near the Grand Lake Theatre. After 4 most days is good.
 
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png](https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png)
 
@@ -3208,9 +2929,6 @@ Implementing Ostrom's Principles into the TEC
 
 ![https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ.png](https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>imranistan <img src="https://cdn.discordapp.com/avatars/276138386807586817/72bb75d990d88ed42f3fbb4e2942c40a.png" width=25 height=25></h3>
 
@@ -3269,9 +2987,6 @@ _03-Sep-21 09:17 AM_:
 
 Very well written
 
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/841089783324213278/becbeb030b2bbc7ed154054513d0be4e.png](https://cdn.discordapp.com/avatars/841089783324213278/becbeb030b2bbc7ed154054513d0be4e.png)
 
@@ -3310,9 +3025,6 @@ Hi @Orientation Coordinators! Since the TEC AMA call has been changed to "Welcom
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3fc.png](https://twemoji.maxcdn.com/2/72x72/1f3fc.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png)
-
-3
 
 ![https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png](https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png)
 
@@ -3332,9 +3044,6 @@ _13-Sep-21 10:21 AM_:
 
 I think it's a great idea! thanks for looking into that Ivi!!
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fc.png](https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fc.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png](https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png)
 
@@ -3363,9 +3072,6 @@ Hello @New Members! I am happy to share with you our latest Stewards Wish List! 
 
 Hope to see you soon!
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-2
 
 ![https://cdn.discordapp.com/attachments/821767026321391667/887987606871224360/wishlist_sept_20.png](https://cdn.discordapp.com/attachments/821767026321391667/887987606871224360/wishlist_sept_20.png)
 
@@ -3373,9 +3079,6 @@ Hope to see you soon!
 
 10
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-5
 
 <h3>Gami <img src="https://cdn.discordapp.com/avatars/725532461936935002/c66719eaed65e1ac9b6ffb0661139942.png" width=25 height=25></h3>
 
@@ -3383,9 +3086,6 @@ _16-Sep-21 07:29 AM_:
 
 will spread the word : )
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 <h3>FredBoat♪♪ BOT <img src="https://cdn.discordapp.com/avatars/184405311681986560/7e25f540b31d70360e69fea14dbd865a.png" width=25 height=25></h3>
 
@@ -3413,26 +3113,17 @@ _20-Sep-21 05:13 AM_:
 
 Meanwhile, @New Member, I wanted to share the new TEC Source, which is a resource of all the active and archived documents of the TEC! Everything from manifestos and agendas to working group calendars and recorded meetings. Check it out: [https://app.gitbook.com/@token-engineering-commons/s/tec-source/](https://app.gitbook.com/@token-engineering-commons/s/tec-source/)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-7
 
 <h3>Leen <img src="https://cdn.discordapp.com/avatars/618897639836090398/974691a2ce85eb1d10e2cb6f97cbb22d.png" width=25 height=25></h3>
 
 _20-Sep-21 11:03 AM_:
 Hi! I signed up for the Graviton training starting tomorrow, but I'm a bit lost in where exactly this is gonna take place. Can anybody lead me to the right place?
 
-![https://twemoji.maxcdn.com/2/72x72/2600.png](https://twemoji.maxcdn.com/2/72x72/2600.png)
-
-️
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f3fd.png)
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/618897639836090398/974691a2ce85eb1d10e2cb6f97cbb22d.png](https://cdn.discordapp.com/avatars/618897639836090398/974691a2ce85eb1d10e2cb6f97cbb22d.png)
 
@@ -3458,9 +3149,6 @@ _20-Sep-21 03:45 PM_:
 
 @Leen @G0RD0 Yes! Gravity voice channel! [https://discord.gg/mdVP5bY8](https://discord.gg/mdVP5bY8)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fb.png](https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fb.png)
-
-3
 
 <h3>diganta.eth <img src="https://cdn.discordapp.com/avatars/818874966396239904/49e6ac5702b9a5052119ff65ad6a3f64.png" width=25 height=25></h3>
 
@@ -3499,9 +3187,6 @@ _21-Sep-21 02:14 PM_:
 
 Thank you
 
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png](https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png)
 
@@ -3523,9 +3208,6 @@ I guess AMA helps folk in the know to attend, and Orientation helps noobs. How a
 
 !praise @Suga for her unstinting team support and connectivity across the DAO
 
-![https://twemoji.maxcdn.com/2/72x72/2705.png](https://twemoji.maxcdn.com/2/72x72/2705.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png](https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png)
 
@@ -3541,9 +3223,6 @@ _22-Sep-21 01:54 AM_:
 
 And those great diagrams that TEC produces?
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-2
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -3552,9 +3231,6 @@ Hi @New Member ! Today is orientation day! Please join us in the Community Hall 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-4
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -3568,13 +3244,7 @@ This handbook is meant to help you understand, navigate and contribute to the To
 
 ![https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ.png](https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f917.png](https://twemoji.maxcdn.com/2/72x72/1f917.png)
-
-2
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3582,9 +3252,6 @@ _22-Sep-21 01:01 PM_:
 
 hey @変 tù.úk'z welcome! are you brazilian? :))
 
-![https://twemoji.maxcdn.com/2/72x72/1f308.png](https://twemoji.maxcdn.com/2/72x72/1f308.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -3616,17 +3283,8 @@ _23-Sep-21 07:55 AM_:
 
 I confirm this info :D @変 tù.úk'z
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
 
-2
 
-![https://twemoji.maxcdn.com/2/72x72/1f308.png](https://twemoji.maxcdn.com/2/72x72/1f308.png)
-
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f970.png](https://twemoji.maxcdn.com/2/72x72/1f970.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/869940637594714183/3a19e8e74e29c54ca67342ce050bce03.png](https://cdn.discordapp.com/avatars/869940637594714183/3a19e8e74e29c54ca67342ce050bce03.png)
 
@@ -3640,9 +3298,6 @@ _23-Sep-21 08:17 AM_:
 
 Ah! I am too ❤️ happy to see more Brazil around here, feel free to ask me any questions and I hope you have a great time in the TEC
 
-![https://twemoji.maxcdn.com/2/72x72/1f970.png](https://twemoji.maxcdn.com/2/72x72/1f970.png)
-
-3
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -3770,9 +3425,6 @@ Thank you
 
 will be taking a good look trough
 
-![https://twemoji.maxcdn.com/2/72x72/1f44c.png](https://twemoji.maxcdn.com/2/72x72/1f44c.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png](https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png)
 
@@ -3788,13 +3440,7 @@ _25-Sep-21 01:46 AM_:
 
 I do love a good diagram ... I think I'm drawn most right now to the many different voting mechanisms I see, and that the community has the chance to engage in community development, by indicating preference. Food for thought, definitely ...
 
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/570796304351887405/a_685b2059c1881891144af94a61b5fbe6.gif](https://cdn.discordapp.com/avatars/570796304351887405/a_685b2059c1881891144af94a61b5fbe6.gif)
 
@@ -3811,37 +3457,13 @@ hey @liviade @Gami !!! hey y'all!
 
 yep brazilian too... I'm catching up to Discord right now! Reading all the infos! Wish you a great week!
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
 
-3
 
-![https://twemoji.maxcdn.com/2/72x72/1f499.png](https://twemoji.maxcdn.com/2/72x72/1f499.png)
 
-3
 
-![https://twemoji.maxcdn.com/2/72x72/1f49b.png](https://twemoji.maxcdn.com/2/72x72/1f49b.png)
 
-3
 
-![https://twemoji.maxcdn.com/2/72x72/1f90d.png](https://twemoji.maxcdn.com/2/72x72/1f90d.png)
 
-3
-
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
-
-4
-
-![https://twemoji.maxcdn.com/2/72x72/1f9e1.png](https://twemoji.maxcdn.com/2/72x72/1f9e1.png)
-
-3
-
-![https://twemoji.maxcdn.com/2/72x72/1f49c.png](https://twemoji.maxcdn.com/2/72x72/1f49c.png)
-
-3
-
-![https://twemoji.maxcdn.com/2/72x72/1f5a4.png](https://twemoji.maxcdn.com/2/72x72/1f5a4.png)
-
-3
 
 ![https://cdn.discordapp.com/avatars/570796304351887405/a_685b2059c1881891144af94a61b5fbe6.gif](https://cdn.discordapp.com/avatars/570796304351887405/a_685b2059c1881891144af94a61b5fbe6.gif)
 
@@ -3878,9 +3500,6 @@ Second, I want to share some news about our orientation processes. There is a ne
 
 10
 
-![https://twemoji.maxcdn.com/2/72x72/1f4e2.png](https://twemoji.maxcdn.com/2/72x72/1f4e2.png)
-
-3
 
 <h3>Pradhumna Pancholi <img src="https://cdn.discordapp.com/avatars/327303113243361280/ea6c249738595b0a9ae10de309fb67d9.png" width=25 height=25></h3>
 
@@ -3891,9 +3510,6 @@ Hey everyone
 
 , Just joined this channel as I am exploring more on tokenomics and it's social impacts. To provide some back, I am software developer who is currently going through Secureum Bootcamp (Smart contract security and auditing). I am working on Defipedia and BanklessDAO.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -4225,9 +3841,6 @@ _14-Oct-21 12:27 PM_:
 
 Nice! I hope you enjoy the Gravity Sessions and the server!
 
-![https://twemoji.maxcdn.com/2/72x72/1f60d.png](https://twemoji.maxcdn.com/2/72x72/1f60d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -4248,17 +3861,8 @@ Thank you so much
 
 looking forward to joining the next onboarding call.
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
 
-1
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -4266,9 +3870,6 @@ _19-Oct-21 06:25 AM_:
 
 Welcome @will, @SydneyJason, @ExtraHummus, @ore_eth, @bfa, @Ricardo246, @earth2travis, @CeaBasstard, @Emma_13 to our server! Looking forward to see y'all on our community! We have an Orientation call tomorrow Wednesday at 6PM CET - 9AM PST, you can pass by and say hi, introduce yourself or ask any question you may have! You can take a look also to our calendar to find things you wanna dive in: [https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 [https://tenor.com/view/forest-gump-welcome-group-gif-18109761](https://tenor.com/view/forest-gump-welcome-group-gif-18109761)
 
@@ -4317,9 +3918,6 @@ Queen Elizabeth
 
 ![https://media.tenor.co/images/69c6ac8375f808db32bfad0e29edd5d1/tenor.png](https://media.tenor.co/images/69c6ac8375f808db32bfad0e29edd5d1/tenor.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f602.png](https://twemoji.maxcdn.com/2/72x72/1f602.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -4447,9 +4045,6 @@ _20-Oct-21 03:47 PM_:
 
 Thanks - will look out for that
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-1
 
 <h3>0x0 <img src="https://cdn.discordapp.com/avatars/122859036486926336/a0d34a926c033c810949ad908750c405.png" width=25 height=25></h3>
 
@@ -4542,9 +4137,6 @@ Welcome @Bb_Blocks, @PôpLine, @chopi321, @Hannoshi, @RodriCastillo, @revhappy, 
 
 ![https://media.tenor.co/images/8b1f9604f29945f1d17b3c7c608878f7/tenor.png](https://media.tenor.co/images/8b1f9604f29945f1d17b3c7c608878f7/tenor.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -4590,9 +4182,6 @@ Advancing the field of token engineering in a regenerative way. Stewarding the c
 
 ![https://tec-web.netlify.app/images/Share.jpg](https://tec-web.netlify.app/images/Share.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -4765,9 +4354,6 @@ _30-Oct-21 04:14 PM_:
 
 Hi Gene - I got a lot of ideas listening to your approach.... when i want to get involved is probably where i'm least useful right now = programming...
 
-![https://twemoji.maxcdn.com/2/72x72/1f49c.png](https://twemoji.maxcdn.com/2/72x72/1f49c.png)
-
-2
 
 @gene probably where i am useful is in documentation... even that's a stretch, however i can commit a couple hours a week to doing some documentation, and specifically if that relates back to code that would help get me closer to my goals
 
@@ -4781,9 +4367,6 @@ _30-Oct-21 04:52 PM_:
 
 @satchel | PST mostly the US right now. That sounds interesting, sure.
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/476474330352451584/d5ea4e12c1c2c446befb58cf5a48c3a3.png](https://cdn.discordapp.com/avatars/476474330352451584/d5ea4e12c1c2c446befb58cf5a48c3a3.png)
 
@@ -4797,9 +4380,6 @@ _30-Oct-21 11:40 PM_:
 
 Your opinion is valuable too. A diversity of ideas enriches the community imo (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1fac2.png](https://twemoji.maxcdn.com/2/72x72/1fac2.png)
-
-2
 
 ![https://cdn.discordapp.com/emojis/856236716939018310.gif](https://cdn.discordapp.com/emojis/856236716939018310.gif)
 
@@ -5264,9 +4844,6 @@ _03-Nov-21 10:26 AM_:
 
 ok sure !
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/718702206529962015/a15f7559fe52ea7a6d75fca381c4ddf1.png](https://cdn.discordapp.com/avatars/718702206529962015/a15f7559fe52ea7a6d75fca381c4ddf1.png)
 
@@ -5281,9 +4858,6 @@ if you have any question let me know!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5309,9 +4883,6 @@ ZenHub
 
 Project Management and Software Development with GitHub | ZenHub
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
 
@@ -5333,9 +4904,6 @@ _03-Nov-21 01:47 PM_:
 
 @New Member ! The pinned message in this channel sometimes isn't the most clear to find but have a look at it! There are a handful of useful links in there!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-8
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -5415,9 +4983,6 @@ Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang
 
 ![https://discord.com/assets/652f40427e1f5186ad54836074898279.png](https://discord.com/assets/652f40427e1f5186ad54836074898279.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -5450,9 +5015,6 @@ Yes of course! You can join that call and any other! We are an open community, f
 
 [https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44f.png](https://twemoji.maxcdn.com/2/72x72/1f44f.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -5502,9 +5064,6 @@ Hello all I heard @griff (💜, 💜) speaking at Kernel
 
 side chat and I wanted to get involved and learn. I seen this channel and it seemed like the obvious place to start.
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png)
-
-1
 
 I would like to know more about orientation
 
@@ -5558,9 +5117,6 @@ Hello there! Maybe @JeffEmmett or @liviade can be helpful on this
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png)
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -5600,9 +5156,6 @@ _07-Nov-21 11:13 AM_:
 
 So that’s a “simple” DAO. The main challenge you will have is making sure all the people from the centralized orgs are aligned on the decisions they will make for the shared treasury
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -5674,13 +5227,7 @@ _08-Nov-21 03:23 PM_:
 
 Hi Token Engineering Commons, I'm Michael, a Kernel Fellow in block 4. I organize a weekly session on tokenomics for fellows interested in learning more about a specific token or protocol. In past weeks we have studied Olympus and Klima, Arweave, and Panvala, often with the protocols' founders as guests. I joined the Token Engineering Commons discord to continue learning about token engineering both to benefit what I am doing at Kernel and to help inform my work in local electric mobility, where I am a startup founder.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-3
-
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/415358390957637642/f3c0ab1bc2145fb3a18e1077be815126.png](https://cdn.discordapp.com/avatars/415358390957637642/f3c0ab1bc2145fb3a18e1077be815126.png)
 
@@ -5737,9 +5284,6 @@ We are excited for our first Param Party with @Lauren later this week! So TEC is
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f970.png](https://twemoji.maxcdn.com/2/72x72/1f970.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/415358390957637642/f3c0ab1bc2145fb3a18e1077be815126.png](https://cdn.discordapp.com/avatars/415358390957637642/f3c0ab1bc2145fb3a18e1077be815126.png)
 
@@ -5803,9 +5347,6 @@ _09-Nov-21 07:50 PM_:
 
 Thanks for invite
 
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5817,9 +5358,6 @@ Welcome @deucehearts! Since you are interested on TokenEconomics, have you taken
 
 ![https://cdn.discordapp.com/attachments/821767026321391667/907795359382798366/FDx2wOFUUAIApAz.jpeg](https://cdn.discordapp.com/attachments/821767026321391667/907795359382798366/FDx2wOFUUAIApAz.jpeg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 @pipilu Welcome to the TEC! I am curious to know how Dribble led you here! (edited)
 
@@ -5838,9 +5376,6 @@ Here is the document we will be using:
 
 ![https://hackmd.io/favicon.png](https://hackmd.io/favicon.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-4
 
 ![https://cdn.discordapp.com/embed/avatars/2.png](https://cdn.discordapp.com/embed/avatars/2.png)
 
@@ -5886,9 +5421,6 @@ Google Calendar
 
 With Google's free online calendar, it’s easy to keep track of life’s important events all in one place.
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-3
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
@@ -5922,9 +5454,6 @@ Great you are interested in Token Engineering! This is the registration form for
 
 [https://lh3.googleusercontent.com/vaIb549HGvJnrwTGMMLYo_o7cdd3jr3RdI4a0oAOk1D7lkuMiOCR6wIX59nei_HASHcc9ND3CSU=w1200-h630-p](https://lh3.googleusercontent.com/vaIb549HGvJnrwTGMMLYo_o7cdd3jr3RdI4a0oAOk1D7lkuMiOCR6wIX59nei_HASHcc9ND3CSU=w1200-h630-p)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>russlive215 (🧙🏾, 🧙🏾)︱40ACRES <img src="https://cdn.discordapp.com/avatars/700029358735360000/6dd1fadcbfc1f37b2fffc046576ce6e4.png" width=25 height=25></h3>
 
@@ -5985,9 +5514,6 @@ _11-Nov-21 01:28 PM_:
 
 yes @ProofOfAbility! everything gets uploaded by youtube, this is an effort from transparency wg
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6125,9 +5651,6 @@ _16-Nov-21 04:33 PM_:
 
 Nice, thanks for the thoughtful answer. First of all, i am going to drop our calendar, so you are aware of all the things that are going on right now ([https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com)](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com)). Also, for token design we have the parameters working group and TEC Labs for experimentation. Both are very interesting, just a note: all our calls **are open**, you can jump at any time, and every call have an agenda in case you want to be up to date.
 
-![https://twemoji.maxcdn.com/2/72x72/1f917.png](https://twemoji.maxcdn.com/2/72x72/1f917.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/735842065849647144/3631bc8504b1f790435c5121ed66abb3.png](https://cdn.discordapp.com/avatars/735842065849647144/3631bc8504b1f790435c5121ed66abb3.png)
 
@@ -6141,9 +5664,6 @@ _16-Nov-21 04:34 PM_:
 
 and finally, we have orientation call, if this isn't clear enough, tomorrow wednesday at 6PM CET, on our community hall voice channel :D, let me know if you have any specific question
 
-![https://twemoji.maxcdn.com/2/72x72/1f917.png](https://twemoji.maxcdn.com/2/72x72/1f917.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -6159,9 +5679,6 @@ Welcome!
 
 ![https://media.tenor.co/images/cbff2163326d891021a500ff529dc730/tenor.png](https://media.tenor.co/images/cbff2163326d891021a500ff529dc730/tenor.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fe.png](https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fe.png)
-
-1
 
 **Welcome** @0xRancho, @sidcode, @spitty! Lovely to have you here! I can see how @griff (💜, 💜) inspired you to join our community! During your first week, is there anything that caught your interest? And in case you wanna take a deeper dive, my DMs are open for any question, or you can also join our open session of Orientation, Wednesday, 6PM CET at the Community Hall Voice Channel! Looking forward to hear from you!
 
@@ -6220,9 +5737,6 @@ _17-Nov-21 12:20 AM_:
 
 there's one tomorrow! i'm probably going haha
 
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
-
-1
 
 ![https://cdn.discordapp.com/emojis/856238454076473364.gif](https://cdn.discordapp.com/emojis/856238454076473364.gif)
 
@@ -6233,9 +5747,6 @@ and it seems @barnabé is here
 
 HELLO!!!
 
-![https://twemoji.maxcdn.com/2/72x72/1f60b.png](https://twemoji.maxcdn.com/2/72x72/1f60b.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -6249,9 +5760,6 @@ sidcode 17-Nov-21 02:19 AM
 
 You are doing a fabulous job at engaging the community, @Edu - TEC Steward. :D Yeah, Griff and I were talking for a long time in one of the Kernel sessions about the courage it takes to start a new field of engineering from scratch. Quite inspiring! I am also coming from GitcoinDAO, Complexity Weekend, Active Inference Lab, and MetaGov like most awesome folks here and just started on my Governauts journey yesterday with TEC. I also attended a Param Party where @Zeptimus and @Tam2140 kindly answered my noob questions. Way too many friends and too much overlap in all these worlds, so I applied to be a trusted seed as well! Really grateful to the folks from TEC who agreed to do two events with Gitcoin's Public Goods workstream in a week. The twitter spaces was a blast. We have one more with Griff today at 4pm UTC :)
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-3
 
 <h3>Yashmanso <img src="https://cdn.discordapp.com/avatars/493796432130867211/2694f91889fa1f1a19c7389f6d49874f.png" width=25 height=25></h3>
 
@@ -6272,9 +5780,6 @@ I will see you today at the Orientation call! The easiest way, is exactly what y
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/861513367700111360/a_2192b510966b75661b83deabc917d812.gif](https://cdn.discordapp.com/avatars/861513367700111360/a_2192b510966b75661b83deabc917d812.gif)
 
@@ -6337,9 +5842,6 @@ Event: [https://gitcoin.notion.site/d011ed9f638e4827908f52a1cbad7599?v=efa10c1df
 
 ![https://i.ytimg.com/vi/wd5krPdr7WA/sddefault_live.jpg](https://i.ytimg.com/vi/wd5krPdr7WA/sddefault_live.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
-
-2
 
 <h3>anson parker | utc -4 <img src="https://cdn.discordapp.com/avatars/476474330352451584/d5ea4e12c1c2c446befb58cf5a48c3a3.png" width=25 height=25></h3>
 
@@ -6455,9 +5957,6 @@ _19-Nov-21 01:54 PM_:
 
 ShapeShift Param Party Rep!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/154330652727181322/28e57ff824bb0271f64be8cd9b235315.png](https://cdn.discordapp.com/avatars/154330652727181322/28e57ff824bb0271f64be8cd9b235315.png)
 
@@ -6472,9 +5971,6 @@ Nice to see you here! What caught your interest from the Param Party?
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/618333853316284426/c9e6ad1fc23890794a6e2b1202c29426.png](https://cdn.discordapp.com/avatars/618333853316284426/c9e6ad1fc23890794a6e2b1202c29426.png)
 
@@ -6500,9 +5996,6 @@ _22-Nov-21 08:23 AM_:
 
 Welcome @arbestor.eth, @geekin/wdude, @YetiDrinker, @Nevo0528,  @fepel, @hotl.eth, @mtanev, @Emmanuel Jacobson, @muratgozel, @Jude, @nobuhojimichaan to the Community of the TEC! We would like to invite you to our Orientation Call! **Every Wednesday at 6PM CET at the Community Hall Voice Channel**. We will go through the TEC mission, our vision and objectives as well as how to participate in the community! You can start also on our gitbook: [https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/mission-vision-and-values](https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/mission-vision-and-values). (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-2
 
 [https://tenor.com/view/forest-gump-welcome-group-gif-18109761](https://tenor.com/view/forest-gump-welcome-group-gif-18109761)
 
@@ -6567,9 +6060,6 @@ _22-Nov-21 03:42 PM_:
 
 I really want to dig into the legal and policy considerations of keeping DAOs decentralized. How can we make sure that an organization won't attract regulatory scrutiny? Can we protect the participants from being treated as "partners" in an enterprise by their respective legal jurisdictions? I fear a situation where members of a DAO in the US (as an example) are ordered to pay taxes on all financial activities of the organization instead of just paying their share of income tax for money earned doing work for the DAO.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/315641923333259264/c7e723ea4bd86361fb1852737382ce59.png](https://cdn.discordapp.com/avatars/315641923333259264/c7e723ea4bd86361fb1852737382ce59.png)
 
@@ -6586,9 +6076,6 @@ Hello and welcome @NeoCornelius! This sounds like a good topic to bring up in th
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f3fd.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-1
 
 TEC calendar: [https://calendar.google.com/calendar/u/1?cid=NW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ](https://calendar.google.com/calendar/u/1?cid=NW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
@@ -6610,9 +6097,6 @@ _24-Nov-21 06:38 AM_:
 
 Hello @EurekaJohn! So nice to see you here and thanks @Lauren for connecting us! I would love to have you on today's orientation call! Is at 8PM CET / 12 PM ET, feel free to join at any time! And looking forward to hear more from you!
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-1
 
 @RayKanani! Welcome to the TEC! I want to also invite you to our Orientation call today at 8PM CET / 12 PM ET on the Community Hall Voice channel! Also, we would love to help you or assist you with your research! Let us know if you need anything! You can also take a look at our Gitbook, is a good starting point: [https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/mission-vision-and-values](https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/mission-vision-and-values)
 
@@ -6620,15 +6104,9 @@ Mission, Vision and Values
 
 ![https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ.png?color=%23FD40FE&logo=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MRe_M_mUIIB11A-MQyZ%252Favatar-rectangle-1616086536325.png%3Fgeneration%3D1616086536797603%26alt%3Dmedia&theme=dark](https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ.png?color=%23FD40FE&logo=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MRe_M_mUIIB11A-MQyZ%252Favatar-rectangle-1616086536325.png%3Fgeneration%3D1616086536797603%26alt%3Dmedia&theme=dark)
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-1
 
 @New Member You are invited to join us, to our weekly orientation call! It's an easy going conversation where we will speak about the basics of the TEC and meet other members of the community! **It's in 5 hours (12 PM ET / 6 PM CET)** and it will be hosted on the **Community Voice Channel!**
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-4
 
 [https://tenor.com/view/parksandrec-annperkins-fun-conversation-sarcasm-gif-5970240](https://tenor.com/view/parksandrec-annperkins-fun-conversation-sarcasm-gif-5970240)
 
@@ -6740,9 +6218,6 @@ _24-Nov-21 02:05 PM_:
 
 Great call today. Very informative!
 
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -6781,9 +6256,6 @@ Thanks
 
 ![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f91d.png](https://twemoji.maxcdn.com/2/72x72/1f91d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/762150095163621406/d204ff480d89aba7f5dbaec7972dc9e2.png](https://cdn.discordapp.com/avatars/762150095163621406/d204ff480d89aba7f5dbaec7972dc9e2.png)
 
@@ -6953,9 +6425,6 @@ _30-Nov-21 05:27 PM_:
 
 **Welcome** @trainfarb, @nanashow13, @Terexitarius, @Allusian, @0xbrIronman, @ernnnnnesto, @RayKanani, we are happy to have you in our community! We invite you to join our next **Orientation call,** tomorrow at **6PM CET / 12PM EST**. You can also use the channels "your-guide" above this one to learn more, or join any of our calls, they are open to everyone! You can check them here: [https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/142706973509419008/a_e2fdf05bc516ef17f6644310857a095f.gif](https://cdn.discordapp.com/avatars/142706973509419008/a_e2fdf05bc516ef17f6644310857a095f.gif)
 
@@ -7045,9 +6514,6 @@ _01-Dec-21 10:53 AM_:
 
 @New Member GM everyone! Orientation call starts in an hour! On the Community Hall Voice Channel! Looking forward to connect with y'all! (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -7114,9 +6580,6 @@ This is our Orientation Call deck! @zadok7.eth!
 
 2.67 MB
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 <h3>jonty_harrison <img src="https://cdn.discordapp.com/avatars/776065249572159508/e2a57dd60011786f601166cfe5255da0.png" width=25 height=25></h3>
 
@@ -7174,9 +6637,6 @@ many many thanks
 
 any london-based folks in here?
 
-![https://twemoji.maxcdn.com/2/72x72/1f44b-1f3fc.png](https://twemoji.maxcdn.com/2/72x72/1f44b-1f3fc.png)
-
-2
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -7229,9 +6689,6 @@ _07-Dec-21 11:02 AM_:
 
 2.67 MB
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-3
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -7279,9 +6736,6 @@ _08-Dec-21 11:38 AM_:
 
 @New Member Hello there! We will be hosting the orientation call in 20 minutes at the Community Voice Channel! Hop in at any time! (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f440.png](https://twemoji.maxcdn.com/2/72x72/1f440.png)
-
-3
 
 ![https://cdn.discordapp.com/embed/avatars/2.png](https://cdn.discordapp.com/embed/avatars/2.png)
 
@@ -7313,9 +6767,6 @@ _08-Dec-21 11:50 AM_:
 
 noted! it slipped this week!
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/186187669074739201/b8c3d53d742f68588208f6a639f6bae3.png](https://cdn.discordapp.com/avatars/186187669074739201/b8c3d53d742f68588208f6a639f6bae3.png)
 
@@ -7355,13 +6806,7 @@ _09-Dec-21 10:59 AM_:
 
 looking forward to see you there!
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/828385369812369429/0f5c74ec02851817ca8e55f7ecf0a197.png](https://cdn.discordapp.com/avatars/828385369812369429/0f5c74ec02851817ca8e55f7ecf0a197.png)
 
@@ -7375,9 +6820,6 @@ _09-Dec-21 11:00 AM_:
 
 thank for you joining and having fun earlier!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -7419,9 +6861,6 @@ _11-Dec-21 03:07 PM_:
 
 I love all of this so much ❤️
 
-![https://twemoji.maxcdn.com/2/72x72/1f49c.png](https://twemoji.maxcdn.com/2/72x72/1f49c.png)
-
-1
 
 <h3>zhoujielun <img src="https://cdn.discordapp.com/avatars/890786336653594724/8a4b004fa9b3fd3c1e0b57524efbfcbc.png" width=25 height=25></h3>
 
@@ -7431,9 +6870,6 @@ _11-Dec-21 08:20 PM_:
 
 ![https://media.tenor.co/images/eee7cefb7c9fb82eae95a93144bfb87a/tenor.png](https://media.tenor.co/images/eee7cefb7c9fb82eae95a93144bfb87a/tenor.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f929.png](https://twemoji.maxcdn.com/2/72x72/1f929.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/805159071527075904/6308af5bc78915fcea9659888ccb4f8f.png](https://cdn.discordapp.com/avatars/805159071527075904/6308af5bc78915fcea9659888ccb4f8f.png)
 
@@ -7466,9 +6902,6 @@ What part of the
 
 do you think you'd like to contribute to? My DMs are open anytime if you have questions or would like to talk about it
 
-![https://twemoji.maxcdn.com/2/72x72/263a.png](https://twemoji.maxcdn.com/2/72x72/263a.png)
-
-️
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -7483,9 +6916,6 @@ Thanks for being here
 
 ️ Do any of the working groups look like somewhere you'd like to contribute? Ping or DM me if I can help you find the
 
-![https://twemoji.maxcdn.com/2/72x72/261d.png](https://twemoji.maxcdn.com/2/72x72/261d.png)
-
-️
 
 ![https://twemoji.maxcdn.com/2/72x72/1f609.png](https://twemoji.maxcdn.com/2/72x72/1f609.png)
 
@@ -7562,17 +6992,8 @@ Hello, thanks for asking the question. And for your benevolence! After attending
 
 I wanted to know more about your product before I asked any questions, (and in the short term I'm busy), but seeing as you ask ^^ I understood that a dao can organize its bonding curve, however I have the impression that it is necessary to limit itself to buying / selling. and I do not know if it is a simple complementary tool or if your project is supposed to manage the whole of the offer. my curiosity is to know if the tools also make it possible to manage a currency which does not have its fixed supply, or which is not premine. For some projects, my creativity pushed me to choose that some actions of a protocol allow to have an inflationary action and others to burn. If the tool allows a natively centralized protocol to become fully decentralized a few months later, it's exciting, if the tool is only intended for natively dao projects, that's fine too, but will not cover not my medium term need. (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f929.png](https://twemoji.maxcdn.com/2/72x72/1f929.png)
 
-1
 
-![https://twemoji.maxcdn.com/2/72x72/1f9e0.png](https://twemoji.maxcdn.com/2/72x72/1f9e0.png)
-
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
 
@@ -7616,9 +7037,6 @@ The ABC is a modified token bonding curve that generates continuous funding for 
 
 ![https://static.tildacdn.com/tild3635-6537-4232-b832-623063343331/preview_fb.jpg](https://static.tildacdn.com/tild3635-6537-4232-b832-623063343331/preview_fb.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f60a.png](https://twemoji.maxcdn.com/2/72x72/1f60a.png)
-
-1
 
 And here.
 
@@ -7630,9 +7048,6 @@ This article is a deeper technical primer into the system design of the Augmente
 
 ![https://miro.medium.com/max/1200/1*cN7dn5-IGaNBOZHZsM_U0g.png](https://miro.medium.com/max/1200/1*cN7dn5-IGaNBOZHZsM_U0g.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f917.png](https://twemoji.maxcdn.com/2/72x72/1f917.png)
-
-1
 Welcome to the TEC @Morpheus This is gonna be epic.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f48a.png](https://twemoji.maxcdn.com/2/72x72/1f48a.png)
@@ -7681,9 +7096,6 @@ _13-Dec-21 03:10 PM_:
 
 Big welcome to @brodhisattva! Great to see you here!!
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png)
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/2.png](https://cdn.discordapp.com/embed/avatars/2.png)
 
@@ -7691,9 +7103,6 @@ brodhisattva 13-Dec-21 10:18 PM
 
 Hey thanks! My curiosity finally led me here.
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-1
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -7707,17 +7116,11 @@ _15-Dec-21 11:00 AM_:
 
 @New Member Orientation call starts in one hour! We would love to meet y'all and is a great opportunity to talk about your projects, meet members of our community or to learn how to contribute to the TEC! The call happens on the Community Voice Channel!
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-4
 
 [https://tenor.com/view/forest-gump-welcome-group-gif-18109761](https://tenor.com/view/forest-gump-welcome-group-gif-18109761)
 
 ![https://media.tenor.co/images/4c2b80bb70cd0da0f516534e6a57d107/tenor.png](https://media.tenor.co/images/4c2b80bb70cd0da0f516534e6a57d107/tenor.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f606.png](https://twemoji.maxcdn.com/2/72x72/1f606.png)
-
-1
 
 <h3>jelli-boi <img src="https://cdn.discordapp.com/avatars/615757073224826880/a8f8844c58bb2584852b4f96fd764d18.png" width=25 height=25></h3>
 
@@ -7749,13 +7152,7 @@ _21-Dec-21 08:32 AM_:
 
 **Welcome** @kwiky, @Alex ~, @klaitner, @nintynick, @eranmeir, @ELS24, @aljz, @Rob - Toucan, @Zero Black, @Alex - Regen, @nick=hag10, @siebold_magnolia, @catman, @AndikaRizary, @Walshy, @audieleon, @aguntala, @David Burt, @figured.eth, @meiji163, @Nana Safo, @okiave, @rebecca to our community! We are so thrilled that you found this corner of the Web3 space! Some key dates for making your journey on the TEC easier: **TOMORROW:** Wednesday 22 we will have an Orientation call at the Community Voice Channel, at 6PM CET / 12PM EST. **You can join at any moment!** **TODAY:** Final Param Debate. We have been hosting this debates about Token Economics were you can learn and do live token engineering, and today is the last opportunity to be part of one! Feel free to join if you are interested on learning! It will be held at the Params Voice Channel (or at the Stage if the channel gets full!) at **10AM EST /. 4PM CET.**
 
-![https://twemoji.maxcdn.com/2/72x72/1f389.png](https://twemoji.maxcdn.com/2/72x72/1f389.png)
 
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
-
-1
 
 [https://tenor.com/view/star-wars-baby-yoda-the-mandalorian-welcome-wave-gif-16179355](https://tenor.com/view/star-wars-baby-yoda-the-mandalorian-welcome-wave-gif-16179355)
 
@@ -7929,9 +7326,6 @@ will do gene! Think this will help a lot considering the deluge of information e
 
 1
 
-![https://twemoji.maxcdn.com/2/72x72/1f49c.png](https://twemoji.maxcdn.com/2/72x72/1f49c.png)
-
-1
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -8073,9 +7467,6 @@ _30-Dec-21 10:25 AM_:
 
 aww thank you @gene! I was sick then and the next few weeks look a little nuts but I look forward to joining toward the end of Jan!
 
-![https://twemoji.maxcdn.com/2/72x72/1f49c.png](https://twemoji.maxcdn.com/2/72x72/1f49c.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/403601495653875717/dc920b5e986f560228620a45d5434332.png](https://cdn.discordapp.com/avatars/403601495653875717/dc920b5e986f560228620a45d5434332.png)
 
@@ -8092,9 +7483,6 @@ Looking forward to it, please let me know if I can keep you up to date passively
 
 ️ (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-1
 
 <h3>JPEGbodega <img src="https://cdn.discordapp.com/avatars/900080224803385395/33027d1e27f8d67b83a3d8a47db30ad7.png" width=25 height=25></h3>
 
@@ -8116,9 +7504,6 @@ Hello there! How are you doing!
 
 @New Member Hello everyone! Happy new year! I hope you had a good time during these holidays! As every week, we will be having **Orientation Call, tomorrow: 12PM EST - 6PM CET** at the Community Voice Channel. We look forward to have you, to talk about your projects, or any question! Everyone is welcome at any moment of the call!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-6
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
@@ -8370,9 +7755,6 @@ _17-Jan-22 06:16 PM_:
 
 Hello there. We are an open community, I am not a developer myself, I hold a degree on Arts and Critics, but here I am contributing to this community. So I encourage you to overcome this wall, and think more about, what are your areas of interest and how they could align with our community. On the next orientation call this Wednesday, we can talk about it :D
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png)
-
-4
 
 <h3>Jeremy&TheGospelOfChange <img src="https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png" width=25 height=25></h3>
 
@@ -8388,9 +7770,6 @@ The intention of this Working Group is to nurture, grow and guide the TEC commun
 
 ![https://i.ytimg.com/vi/WYMQMB7bC2s/maxresdefault.jpg](https://i.ytimg.com/vi/WYMQMB7bC2s/maxresdefault.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f917.png](https://twemoji.maxcdn.com/2/72x72/1f917.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png](https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png)
 
@@ -8414,9 +7793,6 @@ _19-Jan-22 10:24 AM_:
 
 @New Member Orientation call will start in an hour and half! Looking forward to welcome you to our community, bring your questions and curiosity. See y'all in a bit in the Community Hall Voice Channel!
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-5
 
 [https://tenor.com/view/forest-gump-welcome-group-gif-18109761](https://tenor.com/view/forest-gump-welcome-group-gif-18109761)
 
@@ -8439,17 +7815,8 @@ what an efficient flow
 
 ![https://twemoji.maxcdn.com/2/72x72/1f497.png](https://twemoji.maxcdn.com/2/72x72/1f497.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
 
-1
 
-![https://twemoji.maxcdn.com/2/72x72/1f929.png](https://twemoji.maxcdn.com/2/72x72/1f929.png)
-
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f46b.png](https://twemoji.maxcdn.com/2/72x72/1f46b.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -8469,9 +7836,6 @@ _20-Jan-22 02:01 PM_:
 
 @New Member Community Call IS NOW in the community Hall voice channel! Join to know more about our Working groups, and to learn about our cultural practice: **PRAISE!** (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/928414362417389608/81dec51ddcfcb548358b4fc108da5e99.png](https://cdn.discordapp.com/avatars/928414362417389608/81dec51ddcfcb548358b4fc108da5e99.png)
 
@@ -8483,11 +7847,8 @@ gerlindgrosse
 
 _21-Jan-22 12:06 PM_:
 
-indeed there is! [https://www.youtube.com/watch?v=AvIBnlXfy0M](https://www.youtube.com/watch?v=AvIBnlXfy0M)
-
-[Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
-
-TEC Orientation (Jan 19)
+indeed there is! 
+[TEC Orientation (Jan 19)](https://www.youtube.com/watch?v=AvIBnlXfy0M)
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
@@ -8529,9 +7890,6 @@ Learn more
 
 ![https://i.ytimg.com/vi/AvIBnlXfy0M/maxresdefault.jpg](https://i.ytimg.com/vi/AvIBnlXfy0M/maxresdefault.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-2
 
 <h3>dawg <img src="https://cdn.discordapp.com/avatars/372372296289091586/606bc2653fc1643dcfe2a2b298c3b4c4.png" width=25 height=25></h3>
 
@@ -8551,9 +7909,6 @@ _24-Jan-22 09:17 PM_:
 
 Hello there! Let's talk, first of all, sorry for the confusion. I will send you a DM to provide support.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>LinasGuru <img src="https://cdn.discordapp.com/avatars/675286485540536369/aab6e8445fc71917eeb4ed32e06ef440.png" width=25 height=25></h3>
 
@@ -8561,9 +7916,6 @@ _27-Jan-22 09:40 AM_:
 
 Hey all, I am taking the first steps in cryptocurrencies and blockchain world. Nevertheless, I am trying to understand where could I start learning token creation mysteries (as non-tech guy - but I am eager to learn coding if needed). In other words, I have a good attitude but do not know where can I get hands-on experience. Is here anyone who could guide me or maybe offer internship in any position related to token creation/DAO?
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/675286485540536369/aab6e8445fc71917eeb4ed32e06ef440.png](https://cdn.discordapp.com/avatars/675286485540536369/aab6e8445fc71917eeb4ed32e06ef440.png)
 
@@ -8624,9 +7976,6 @@ _30-Jan-22 06:29 PM_:
 
 Hey there! Yes, we have weekly orientation call, on Wednesday, 6PM CET / 12PM EST! Join next one!
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/2.png](https://cdn.discordapp.com/embed/avatars/2.png)
 
@@ -8640,9 +7989,6 @@ _31-Jan-22 12:58 AM_:
 
 Thaaaanks!! ❤️
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-1
 
 <h3>Kastormagic <img src="https://cdn.discordapp.com/avatars/555017547682938882/f5508f7aedea3580b0399b4402d90451.png" width=25 height=25></h3>
 
@@ -8650,9 +7996,6 @@ _31-Jan-22 02:57 AM_:
 
 Thanks!
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/514445893118722058/06c9b9cd931987d81f2ce2bd5b25751e.png](https://cdn.discordapp.com/avatars/514445893118722058/06c9b9cd931987d81f2ce2bd5b25751e.png)
 
@@ -8672,17 +8015,11 @@ _02-Feb-22 06:21 AM_:
 
 @New Member Just a quick reminder! We will be having orientation call **TODAY at 6PM CET / 12 PM EST at the Community Hall voice channel**. Join us at any moment of the call! And if you have any question, bring them, we will be more than happy to assist you! (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-5
 
 [https://tenor.com/view/join-us-girl-eyeglasses-gif-16990846](https://tenor.com/view/join-us-girl-eyeglasses-gif-16990846)
 
 ![https://media.tenor.co/images/769fe9c93b68e74f83936aec8f821c7d/tenor.png](https://media.tenor.co/images/769fe9c93b68e74f83936aec8f821c7d/tenor.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-4
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -8776,9 +8113,6 @@ Welcome Lucien
 
 It's so great to have you with us; how do you contribute with Hakka and what might you be interested in here with us?
 
-![https://twemoji.maxcdn.com/2/72x72/263a.png](https://twemoji.maxcdn.com/2/72x72/263a.png)
-
-️
 
 [https://tenor.com/view/welcome-come-in-come-on-in-hello-greetings-gif-14341111](https://tenor.com/view/welcome-come-in-come-on-in-hello-greetings-gif-14341111)
 
@@ -8896,13 +8230,7 @@ _09-Feb-22 09:34 AM_:
 
 @New Member Hello everyone! We will start orientation call in **two hours and a half!** You are welcome to join, if you aren't on time no worries! We make space for everyone on the call. Looking forward to see you all at **6PM CET on the Community Hall voice channel**!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-5
-
-![https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png)
-
-1
 
 [https://tenor.com/view/see-you-soon-bye-see-you-later-yellowstone-paramount-network-gif-17661032](https://tenor.com/view/see-you-soon-bye-see-you-later-yellowstone-paramount-network-gif-17661032)
 
@@ -8944,9 +8272,6 @@ Some key dates for making your journey on the TEC easier:
 
 Wednesday Feb. 16th we will have an Orientation call at the Community Voice Channel, at 6PM CET / 12PM EST. You can join at any moment! (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
-
-8
 
 <h3>estmcmxci <img src="https://cdn.discordapp.com/avatars/566597422663467009/3247a1110dfc3179b3cf8b031410f0aa.png" width=25 height=25></h3>
 
@@ -8954,9 +8279,6 @@ _14-Feb-22 07:14 PM_:
 
 I'll be there
 
-![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -8968,9 +8290,6 @@ _16-Feb-22 11:05 AM_:
 
 ![https://media.tenor.co/images/efa624118ad6a97673b04e551873151a/tenor.png](https://media.tenor.co/images/efa624118ad6a97673b04e551873151a/tenor.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fe.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fe.png)
-
-1
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -9009,9 +8328,6 @@ _16-Feb-22 11:59 AM_:
 
 @BorrowLucid (Christina) [https://discord.gg/Fp36pPby](https://discord.gg/Fp36pPby) (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9091,13 +8407,7 @@ _23-Feb-22 10:01 AM_:
 
 @New Member in two hours we will host the Orientation call, to welcome you and onboard you on our community! We will be at the Community Voice Channel! Looking forward to meet y'all!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fe.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fe.png)
 
-6
-
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-3
 
 [https://tenor.com/view/thumbs-up-sonic-wink-hedgehog-gif-12711169](https://tenor.com/view/thumbs-up-sonic-wink-hedgehog-gif-12711169)
 
@@ -9141,17 +8451,11 @@ _24-Feb-22 01:57 PM_:
 
 @New Member and @Hatcher, Community Call is about to start in a few minutes! Join, share your praise and check on the latest activity of our community! See y'all at the Community Hall Voice Channel!
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-5
 
 [https://tenor.com/view/spongebob-squarepants-plankton-join-me-gif-19618770](https://tenor.com/view/spongebob-squarepants-plankton-join-me-gif-19618770)
 
 ![https://media.tenor.co/images/a0d35c5306cc7e81319279ded8a8990a/tenor.png](https://media.tenor.co/images/a0d35c5306cc7e81319279ded8a8990a/tenor.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f606.png](https://twemoji.maxcdn.com/2/72x72/1f606.png)
-
-1
 
 <h3>DimasPH <img src="https://cdn.discordapp.com/avatars/910760757342375969/d31deca02e434a81ad09d5d3cc74aa50.png" width=25 height=25></h3>
 
@@ -9168,9 +8472,6 @@ _25-Feb-22 01:46 AM_:
 
 Hi everyone
 
-![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -9200,9 +8501,6 @@ Oh, sometimes discord doesn't work properly with that, have you tried choosing t
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
-![https://twemoji.maxcdn.com/2/72x72/2705.png](https://twemoji.maxcdn.com/2/72x72/2705.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/257479465091858432/7c041560acc056c6ab4747f9ab080431.png](https://cdn.discordapp.com/avatars/257479465091858432/7c041560acc056c6ab4747f9ab080431.png)
 
@@ -9249,17 +8547,8 @@ Some key dates for making your journey on the TEC easier:
 
 Tomorrow Wednesday March 2nd we will have an Orientation call at the Community Voice Channel, at 6PM CET / 12PM EST. You can join at any moment!
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
 
-4
 
-![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
-
-5
-
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-2
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9267,9 +8556,6 @@ _02-Mar-22 11:54 AM_:
 
 @New Member @Stewards Orientation Call is about to start in 5 minutes! See you on the Community Hall Voice Channel!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -9295,33 +8581,12 @@ _03-Mar-22 02:02 PM_:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
 
-3
 
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
 
-2
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png)
 
-1
 
-![https://twemoji.maxcdn.com/2/72x72/1f308.png](https://twemoji.maxcdn.com/2/72x72/1f308.png)
-
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f929.png](https://twemoji.maxcdn.com/2/72x72/1f929.png)
-
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f917.png](https://twemoji.maxcdn.com/2/72x72/1f917.png)
-
-2
-
-![https://twemoji.maxcdn.com/2/72x72/26a1.png](https://twemoji.maxcdn.com/2/72x72/26a1.png)
-
-2
 
 <h3>Marinière <img src="https://cdn.discordapp.com/avatars/887760225959047210/a4c0da545ed026d1fa7fb315cac76268.png" width=25 height=25></h3>
 
@@ -9339,19 +8604,13 @@ Marinière
 
 _03-Mar-22 03:56 PM_:
 
-[https://www.youtube.com/watch?v=Hl415k52Oo8](https://www.youtube.com/watch?v=Hl415k52Oo8) Welcome (edited)
 
-[Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
-
-TEC Community Call 72: WG updates, TEA and Gravity!
+[TEC Community Call 72: WG updates, TEA and Gravity!](https://www.youtube.com/watch?v=Hl415k52Oo8)
 
 Timecodes: 00:00 - Praise 15:49 - Agenda 21:43 - Stewards 27:20 - Gravity 30:25 - Soft Gov 35:05 - Communitas 38:53 - 0mega 41:35 - Labs 45:45 - Comms 48:26 - Transparency 50:09 - Legal 51:24 - Rewards 53:54 - TEA 55:12 - Gravity Spotlight Slides: [https://docs.google.com/presentation/d/1FBeK_IYcz7uwfAmC62uXvF4mYEfbNh2xQS5y-9rN8ps/edit#slide=id](https://docs.google.com/presentation/d/1FBeK_IYcz7uwfAmC62uXvF4mYEfbNh2xQS5y-9rN8ps/edit#slide=id)...
 
 ![https://i.ytimg.com/vi/Hl415k52Oo8/maxresdefault.jpg](https://i.ytimg.com/vi/Hl415k52Oo8/maxresdefault.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-4
 
 ![https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png](https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png)
 
@@ -9401,9 +8660,6 @@ Welcome @Pradumna, @gioser🏴, @Gabs, @popkir, thank you so much for joining ou
 
 Hola @ferdelat, @MoisesEDR, @R1btC, @Carlos Valle! Bienvenidos a nuestra comunidad! Gracias por seguirnos hasta aquí desde The Daoist organizado por el equipo liderado por @chuygarcia.eth! Para orientarlos, me encantaría invitarlos a nuestra siguiente llamada de Orientación y Onboarding, que sucede cada **miércoles (incluido hoy) a las 6PM CET** y si es muy pronto, también mañana jueves, tenemos la llamada **Comunitaria, a las 8PM CET!**
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 [https://tenor.com/view/hola-y-bienvenidos-la-cooquette-que-tal-que-onda-saludar-gif-18159848](https://tenor.com/view/hola-y-bienvenidos-la-cooquette-que-tal-que-onda-saludar-gif-18159848)
 
@@ -9425,9 +8681,6 @@ Welcome @adam7506! I am curious to know about the Seed Club post! What is that?
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 Hey there, @PeaceMaker, @paulvvh, @Lilian, @mariusdique, @Yass, @ombudsman, @Joao, @Jet Jetsukda, @Yashvardhan | DaoLens, @Adam Stallard, @chapelinthesky, @Davide | ValueUnbanking, @Terence, @Gintare, @Perspect1ve, @เจบ บ่าซอล. Welcome y'all to the TEC! We are so happy to have you here! We want to share some key dates for making your journey on the TEC easier: NEXT WEEKLY ORIENTATION CALL: **Today Wednesday March 9th** we will have an Orientation call at the Community Voice Channel, at 6PM CET / 12PM EST. NEXT WEEKLY COMMUNITY CALL: **Tomorrow Thursday March 10th** at the Community Voice Channel, at 8PM CET / 2PM EST. You can join at any moment! (edited)
 
@@ -9439,9 +8692,6 @@ I can join the call tomorrow can't today
 
 see you all tomorrow looking forward to tallking to you
 
-![https://twemoji.maxcdn.com/2/72x72/1f917.png](https://twemoji.maxcdn.com/2/72x72/1f917.png)
-
-1
 
 <h3>ItsKennyatta <img src="https://cdn.discordapp.com/avatars/808463838965792831/415e53f33940d59bc6f5ddec918ea0cc.png" width=25 height=25></h3>
 
@@ -9464,9 +8714,6 @@ Hey there! Nice to have you here! Would like to share what is the Seed club?
 
 We host orientation calls every wednesday 6PM CET! Join next session if you can!
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -9496,9 +8743,6 @@ _11-Mar-22 03:28 AM_:
 
 Seed Club is a DAO that helps Web3 communities build and scale
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/808463838965792831/415e53f33940d59bc6f5ddec918ea0cc.png](https://cdn.discordapp.com/avatars/808463838965792831/415e53f33940d59bc6f5ddec918ea0cc.png)
 
@@ -9571,9 +8815,6 @@ Fernanda López 15-Mar-22 12:52 AM
 
 Thank you!!
 
-![https://twemoji.maxcdn.com/2/72x72/2705.png](https://twemoji.maxcdn.com/2/72x72/2705.png)
-
-1
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -9588,9 +8829,6 @@ I see you'd like to become a builder
 
 ️ Let me know if you'd like to schedule a sync so I can introduce you to our community, the Token Engineering Commons
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 You're also more than welcome to attend our weekly onboarding call this Wednesday: the calendar link to the event is in one of my posts above
 
 ![https://twemoji.maxcdn.com/2/72x72/1f446.png](https://twemoji.maxcdn.com/2/72x72/1f446.png)
@@ -9603,9 +8841,6 @@ You're also more than welcome to attend our weekly onboarding call this Wednesda
 
 (Wednesday 6 pm CET / 12 pm EST, on the Community Voice Channel) (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44c.png](https://twemoji.maxcdn.com/2/72x72/1f44c.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png](https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png)
 
@@ -9653,9 +8888,6 @@ If you can't assist to the orientation call, we can schedule a 1-on-1 sync for l
 
 ![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44c.png](https://twemoji.maxcdn.com/2/72x72/1f44c.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9675,9 +8907,6 @@ _16-Mar-22 08:29 AM_:
 
 Welcome @Melody, @CryptoReuMD, @julianki, @The Prophet Margin and @BRMbm! Thanks for joining and filling the survey! We love new members who came from our related communities! We would love to invite you to our next orientation call, today at 6PM CET, at the Community Hall Voice Channel! feel free to drop any question here if you can't assist!
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-1
 
 You can also add the calendar event to yours: [https://calendar.google.com/calendar/r/eventedit/copy/bTliMGlxNGVrc29uYjAzZWY5djJndG5wZTFfMjAyMjAzMTZUMTcwMDAwWiA1bWtlcDFhZDFqODYwazZnN2k3ZnI4cGxxMEBn](https://calendar.google.com/calendar/r/eventedit/copy/bTliMGlxNGVrc29uYjAzZWY5djJndG5wZTFfMjAyMjAzMTZUMTcwMDAwWiA1bWtlcDFhZDFqODYwazZnN2k3ZnI4cGxxMEBn) Also is good to know that our **NEXT WEEKLY COMMUNITY CALL**: Tomorrow Thursday March 17th at 7PM CET!
 
@@ -9735,9 +8964,6 @@ _16-Mar-22 07:55 PM_:
 
 Hey nope, the orientation call is more specific to the TEC community and the intro to TE takes a more academic approach as an initiative of the Token Engineering Academy
 
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
-
-1
 
 For the 360 channel you may want to join the TE server [https://discord.gg/hrX95kBu](https://discord.gg/hrX95kBu)
 
@@ -9877,9 +9103,6 @@ _17-Mar-22 02:01 PM_:
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/255832236555894794/317ec9dc4d448ecf069e2fbe29a7ebbe.png](https://cdn.discordapp.com/avatars/255832236555894794/317ec9dc4d448ecf069e2fbe29a7ebbe.png)
 
@@ -9899,9 +9122,6 @@ I am a Community Steward for [https://tecommons.org/](https://tecommons.org/), C
 
 ![https://d3v0px0pttie1i.cloudfront.net/uploads/user/logo/10665915/opengraph_98747be8.jpg?source=opengraph](https://d3v0px0pttie1i.cloudfront.net/uploads/user/logo/10665915/opengraph_98747be8.jpg?source=opengraph)
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/495173629189947392/953a9ed2187a316c49c6d3feef472b32.png](https://cdn.discordapp.com/avatars/495173629189947392/953a9ed2187a316c49c6d3feef472b32.png)
 
@@ -9916,9 +9136,6 @@ Maybe @Mount Manu that fits your time zone?
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44c-1f3fb.png](https://twemoji.maxcdn.com/2/72x72/1f44c-1f3fb.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/495173629189947392/953a9ed2187a316c49c6d3feef472b32.png](https://cdn.discordapp.com/avatars/495173629189947392/953a9ed2187a316c49c6d3feef472b32.png)
 
@@ -10015,9 +9232,6 @@ The Token Engineering Commons is building the tools for safe digital economies t
 
 [https://yt3.ggpht.com/ytc/AKedOLRKpxTftjda8trsqtcneCsP3y3HYxyuMD345MPo=s900-c-k-c0x00ffffff-no-rj](https://yt3.ggpht.com/ytc/AKedOLRKpxTftjda8trsqtcneCsP3y3HYxyuMD345MPo=s900-c-k-c0x00ffffff-no-rj)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
 
@@ -10033,9 +9247,6 @@ _17-Mar-22 09:00 PM_:
 
 Legendary!! Thank you!!
 
-![https://twemoji.maxcdn.com/2/72x72/1f602.png](https://twemoji.maxcdn.com/2/72x72/1f602.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10070,9 +9281,6 @@ Google Calendar
 
 With Google's free online calendar, it’s easy to keep track of life’s important events all in one place.
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-3
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -10138,9 +9346,6 @@ sure, you can check #📆｜calendars or the built-in discord calendar next time
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/750921605512691863/aa83aadec280f0974e52885907257251.png](https://cdn.discordapp.com/avatars/750921605512691863/aa83aadec280f0974e52885907257251.png)
 
@@ -10154,9 +9359,6 @@ _23-Mar-22 12:15 PM_:
 
 So sorry! yeah, with the timezone adjustments there has been some conflicts. But as @enti said, we will start in 45 minutes!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10164,9 +9366,6 @@ _23-Mar-22 12:57 PM_:
 
 @New Member @Stewards Orientation call starts now! See y'all in the Community Hall Voice Channel, feel free to hop in whenever you want! (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-6
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -10221,9 +9420,6 @@ _24-Mar-22 04:11 PM_:
 
 Done! ❤️
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -10258,13 +9454,7 @@ Google Calendar
 
 With Google's free online calendar, it’s easy to keep track of life’s important events all in one place.
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
 
-4
-
-![https://twemoji.maxcdn.com/2/72x72/2705.png](https://twemoji.maxcdn.com/2/72x72/2705.png)
-
-1
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -10328,9 +9518,6 @@ _31-Mar-22 09:18 AM_:
 
 @New Member and @Stewards: Friendly reminder, that the orientation call will start in 3:45 hours at the Community Hall Voice Channel! Feel free to hop in at any time you feel convenient, bring questions over too!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44c-1f3fc.png](https://twemoji.maxcdn.com/2/72x72/1f44c-1f3fc.png)
-
-2
 
 [https://tenor.com/view/station19-lucas-ripley-itd-be-rude-not-to-join-join-joining-gif-24960317](https://tenor.com/view/station19-lucas-ripley-itd-be-rude-not-to-join-join-joining-gif-24960317)
 
@@ -10343,9 +9530,6 @@ I will do my best to attend the call
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-3
 
 <h3>morphea <img src="https://cdn.discordapp.com/avatars/425960040395046912/1feac6434d11169060cd2e8215c454b8.png" width=25 height=25></h3>
 
@@ -10356,9 +9540,6 @@ Same as !
 
 (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-3
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -10366,9 +9547,6 @@ youcef 31-Mar-22 09:19 AM
 
 Same Here !
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-3
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10392,9 +9570,6 @@ Google Calendar
 
 With Google's free online calendar, it’s easy to keep track of life’s important events all in one place.
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-1
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -10439,9 +9614,6 @@ With Google's free online calendar, it’s easy to keep track of life’s import
 
 2
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-1
 
 <h3>Costa <img src="https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png" width=25 height=25></h3>
 
@@ -10581,9 +9753,6 @@ _06-Apr-22 01:18 PM_:
 
 Thank you for taking care!
 
-![https://twemoji.maxcdn.com/2/72x72/1f338.png](https://twemoji.maxcdn.com/2/72x72/1f338.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png](https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png)
 
@@ -10610,9 +9779,6 @@ _06-Apr-22 04:01 PM_:
 
 Graviton training is a great initiative by #🕊｜gravity and @Juankbell! Looking forward to see you tomorrow on the call!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -10641,9 +9807,6 @@ There is a team called the "Writter's Guild", maybe @Gideonro can point you on t
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f603.png](https://twemoji.maxcdn.com/2/72x72/1f603.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -10659,9 +9822,6 @@ _06-Apr-22 04:07 PM_:
 
 Thank you!
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-1
 
 <h3>Costa <img src="https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png" width=25 height=25></h3>
 
@@ -10676,9 +9836,6 @@ We are happy to invite you to our weekly sync call, happenning today, April 7th,
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3fb.png](https://twemoji.maxcdn.com/2/72x72/1f3fb.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -10970,9 +10127,6 @@ _11-Apr-22 11:05 AM_:
 
 The short story is that I am part of Bankless Consulting, a sub DAO of BanklessDAO. In the team we are always trying to understand the most present needs among our customers and tokenomics design is one of the biggest ones so we started looking for training options in this area Coincidentally this weekend they also came up in a conversation with the Crypto, Culture and Society team (I'm a student in their program)
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/631591155364134912/37480a93271e5c04c654f5b86f4c5f50.png](https://cdn.discordapp.com/avatars/631591155364134912/37480a93271e5c04c654f5b86f4c5f50.png)
 
@@ -11060,9 +10214,6 @@ _12-Apr-22 02:46 PM_:
 
 Sure, please DM me the details and I'll schedule something! (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png](https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png)
 
@@ -11093,13 +10244,7 @@ Imagine all those Nigerian princes I could've helped
 
 ![https://twemoji.maxcdn.com/2/72x72/1f61e.png](https://twemoji.maxcdn.com/2/72x72/1f61e.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f480.png](https://twemoji.maxcdn.com/2/72x72/1f480.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f451.png](https://twemoji.maxcdn.com/2/72x72/1f451.png)
-
-1
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -11146,17 +10291,8 @@ Google Calendar
 
 With Google's free online calendar, it’s easy to keep track of life’s important events all in one place.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-1
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-1
-
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-1
 
 <h3>Costa <img src="https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png" width=25 height=25></h3>
 
@@ -11191,9 +10327,6 @@ Welcome @julesrules to the TEC! So nice to have you heere! I couldn't hep to won
 
 ![https://media.tenor.com/EoBKFUyZ8iQAAAAD/join-us-who-will-join.png?c=VjFfZGlzY29yZA](https://media.tenor.com/EoBKFUyZ8iQAAAAD/join-us-who-will-join.png?c=VjFfZGlzY29yZA)
 
-![https://twemoji.maxcdn.com/2/72x72/270b.png](https://twemoji.maxcdn.com/2/72x72/270b.png)
-
-2
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -11265,9 +10398,6 @@ Costa
 _18-Apr-22 11:03 PM_:
 Thanks for the welcome @Costa - really glad to be back. Also, thanks to @Edu - TEC Steward. for taking the trouble to invite me. Maybe, I should give him some /praise
 
-![https://twemoji.maxcdn.com/2/72x72/1f605.png](https://twemoji.maxcdn.com/2/72x72/1f605.png)
-
-?
 
 Ooh it's a praise bot now huh...
 
@@ -11319,9 +10449,6 @@ See you there!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3fb.png](https://twemoji.maxcdn.com/2/72x72/1f3fb.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f6a4.png](https://twemoji.maxcdn.com/2/72x72/1f6a4.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png](https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png)
 
@@ -11369,9 +10496,6 @@ _21-Apr-22 05:42 AM_:
 
 Hello there! How are you?
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-1
 
 <h3>Rumi <img src="https://cdn.discordapp.com/avatars/392105034453745676/5e373f75d4bb9bd6a3924f325538b5d8.png" width=25 height=25></h3>
 
@@ -11433,9 +10557,6 @@ Yes!
 
 See you there!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Yash | DAOs <img src="https://cdn.discordapp.com/avatars/760179906846916649/13498f19d5900a9b5cbf60ea9ad41f26.png" width=25 height=25></h3>
 
@@ -11449,9 +10570,6 @@ _21-Apr-22 01:07 PM_:
 
 @New Member @Stewards Orientation call just started! Right now on Community Hall VC!
 
-![https://twemoji.maxcdn.com/2/72x72/1f389.png](https://twemoji.maxcdn.com/2/72x72/1f389.png)
-
-2
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -11483,13 +10601,7 @@ The Glossary Page is designed to provide you with more in-depth knowledge of TE 
 
 ![https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ/page/-MVapUg7JYH8VRthHBC7.png?color=%23FD40FE&logo=https%3A%2F%2F89038353-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-MRe_M_mUIIB11A-MQyZ%252Favatar-rectangle-1616086536325.png%3Fgeneration%3D1616086536797603%26alt%3Dmedia&theme=dark](https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ/page/-MVapUg7JYH8VRthHBC7.png?color=%23FD40FE&logo=https%3A%2F%2F89038353-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-MRe_M_mUIIB11A-MQyZ%252Favatar-rectangle-1616086536325.png%3Fgeneration%3D1616086536797603%26alt%3Dmedia&theme=dark)
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
 
-3
-
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/760179906846916649/13498f19d5900a9b5cbf60ea9ad41f26.png](https://cdn.discordapp.com/avatars/760179906846916649/13498f19d5900a9b5cbf60ea9ad41f26.png)
 
@@ -11662,9 +10774,6 @@ _28-Apr-22 07:19 AM_:
 
 @Mount Manu there was a confusion on the calendar, bringing this into your loop to schedule a 1-1
 
-![https://twemoji.maxcdn.com/2/72x72/1f44c-1f3fb.png](https://twemoji.maxcdn.com/2/72x72/1f44c-1f3fb.png)
-
-2
 
 <h3>Costa <img src="https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png" width=25 height=25></h3>
 
@@ -11717,9 +10826,6 @@ Welcome to the TEC 1-1 calendar! We would love to host a call with you to provid
 
 ![https://d3v0px0pttie1i.cloudfront.net/uploads/user/logo/15790458/opengraph_4047db49.png?source=opengraph](https://d3v0px0pttie1i.cloudfront.net/uploads/user/logo/15790458/opengraph_4047db49.png?source=opengraph)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-5
 
 Original message was deleted.
 
@@ -11802,9 +10908,6 @@ It’s there when you feel you need it. Not mandatory at all.
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f3fd.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/807716623937962064/8e878b350d70a484eca6368e81eff41a.png](https://cdn.discordapp.com/avatars/807716623937962064/8e878b350d70a484eca6368e81eff41a.png)
 
@@ -11834,9 +10937,6 @@ TokenEngineering Academy | Token Engineering
 
 About
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-2
 
 <h3>Costa <img src="https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png" width=25 height=25></h3>
 
@@ -11862,9 +10962,6 @@ See you around!
 
 (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -11891,17 +10988,8 @@ Hello!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
 
-1
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f60e.png](https://twemoji.maxcdn.com/2/72x72/1f60e.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png](https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png)
 
@@ -11970,9 +11058,6 @@ Welcome to the TEC!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f60e.png](https://twemoji.maxcdn.com/2/72x72/1f60e.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-2
 
 <h3>Mr Arinze <img src="https://cdn.discordapp.com/avatars/957993253863579658/8569adcbd36c70a7578c017bf5604ea5.png" width=25 height=25></h3>
 
@@ -12036,13 +11121,7 @@ The Token Engineering Commons is building the tools for safe digital economies t
 
 3
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
 
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-3
 
 <h3>Shanzz 🏴 <img src="https://cdn.discordapp.com/avatars/390855841013694464/619b68fb1e8d76e77d5013887300512b.png" width=25 height=25></h3>
 
@@ -12095,13 +11174,7 @@ Now that you found your way to our Discord, the next step is attending our
 
 Feel free to come and join at any time and tell us a bit about yourselves, how you got to know the TEC, what you're working on, what you'd like to do while you're here with us, and we'll help you get started. If you are unable to join the call, let us know and we can arrange a 1 on 1 to fit your schedule. Have a great week! (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-5
-
-![https://twemoji.maxcdn.com/2/72x72/270c.png](https://twemoji.maxcdn.com/2/72x72/270c.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -12133,9 +11206,6 @@ _09-May-22 11:32 AM_:
 
 Thanks, @Costa I'll be there!
 
-![https://twemoji.maxcdn.com/2/72x72/1f609.png](https://twemoji.maxcdn.com/2/72x72/1f609.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/758058087646101564/7ab64aecfd921945dbe0538e9fcbcb69.png](https://cdn.discordapp.com/avatars/758058087646101564/7ab64aecfd921945dbe0538e9fcbcb69.png)
 
@@ -12184,9 +11254,6 @@ You are all invited to come join our
 
 ![https://twemoji.maxcdn.com/2/72x72/1f609.png](https://twemoji.maxcdn.com/2/72x72/1f609.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44f.png](https://twemoji.maxcdn.com/2/72x72/1f44f.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12262,9 +11329,6 @@ Google Calendar
 
 With Google's free online calendar, it’s easy to keep track of life’s important events all in one place.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-3
 
 ![https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png](https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png)
 
@@ -12357,9 +11421,6 @@ _17-May-22 09:27 AM_:
 
 ![https://d3v0px0pttie1i.cloudfront.net/uploads/user/logo/15790458/opengraph_4047db49.png?source=opengraph](https://d3v0px0pttie1i.cloudfront.net/uploads/user/logo/15790458/opengraph_4047db49.png?source=opengraph)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-4
 
 <h3>PlayerError <img src="https://cdn.discordapp.com/avatars/269673679741255681/cddb0b3efbacc055b0420faa3221f214.png" width=25 height=25></h3>
 
@@ -12390,9 +11451,6 @@ We invite you to attend our
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3fb.png](https://twemoji.maxcdn.com/2/72x72/1f3fb.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png](https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png)
 
@@ -12457,9 +11515,6 @@ _19-May-22 12:15 PM_:
 
 @New Member Hello everyone! I hope you are having a great Thursday! in exactly 45 minutes, our orientation call will start! Hop in at any moment if you want to know more about the TEC, our community and what we do! Looking forward to see y'all at the Community Hall Voice Channel! (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-2
 
 [https://tenor.com/view/forest-gump-welcome-group-gif-18109761](https://tenor.com/view/forest-gump-welcome-group-gif-18109761)
 
@@ -12483,9 +11538,6 @@ _19-May-22 01:32 PM_:
 
 [https://medium.com/commonsstack/deep-dive-augmented-bonding-curves-b5ca4fad4436](https://medium.com/commonsstack/deep-dive-augmented-bonding-curves-b5ca4fad4436)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44c-1f3fc.png](https://twemoji.maxcdn.com/2/72x72/1f44c-1f3fc.png)
-
-2
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -12499,9 +11551,6 @@ Curve, Convex, Llamas, Butterflies, Token Reactors, and a Big Bag of Stablecoins
 
 ![https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fef3a0650-3358-4db9-88f0-e92991a1ca98_1399x701.png](https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fef3a0650-3358-4db9-88f0-e92991a1ca98_1399x701.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12570,9 +11619,6 @@ To get to know you better, we invite you all to join our weekly
 
 ![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-2
 
 <h3>kAmpesinx <img src="https://cdn.discordapp.com/avatars/900088206505160746/402a2d1fb82cc33d72da593b292f2f2b.png" width=25 height=25></h3>
 
@@ -12645,9 +11691,6 @@ We invite you to attend our
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3fb.png](https://twemoji.maxcdn.com/2/72x72/1f3fb.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f333.png](https://twemoji.maxcdn.com/2/72x72/1f333.png)
-
-3
 
 <h3>J Everett | Hexterra Labs <img src="https://cdn.discordapp.com/avatars/404757132395675650/7140f2c290ac76c27805bcab333568a4.png" width=25 height=25></h3>
 
@@ -12760,9 +11803,6 @@ _26-May-22 12:47 PM_:
 
 @New Member Orientation call is going to start in 15 minutes! Join us at the #CommunityHall Voice Channel! Looking forward to answer your questions and meet y'all! (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-4
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -12816,9 +11856,6 @@ Tweets
 
 Twitter
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fc.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fc.png)
-
-1
 
 [https://twitter.com/cadcad_org](https://twitter.com/cadcad_org)
 
@@ -13001,9 +12038,6 @@ _26-May-22 07:42 PM_:
 
 Let me try sending you a friend request!
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -13059,9 +12093,6 @@ Tweets
 
 Twitter
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/269673679741255681/cddb0b3efbacc055b0420faa3221f214.png](https://cdn.discordapp.com/avatars/269673679741255681/cddb0b3efbacc055b0420faa3221f214.png)
 
@@ -13241,9 +12272,6 @@ It will be held on
 
 ![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-6
 
 ![https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png](https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png)
 
@@ -13268,9 +12296,6 @@ Thank you Costa for the warm welcome ! I'll try to be here Thursday for the Orie
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png](https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png)
 
@@ -13295,9 +12320,6 @@ Perfect
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44c.png](https://twemoji.maxcdn.com/2/72x72/1f44c.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
-
-1
 
 <h3>Costa <img src="https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png" width=25 height=25></h3>
 
@@ -13353,9 +12375,6 @@ Hi Costa, I'm afraid I won't be able to make tomorrows call, but next week shoul
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-2
 
 <h3>DoubleO <img src="https://cdn.discordapp.com/avatars/908843529692938281/6f18e39a7a0546a00f5661ff35910d54.png" width=25 height=25></h3>
 
@@ -13363,9 +12382,6 @@ _01-Jun-22 09:11 PM_:
 
 Thank you for the information and great communication I will be in the call tomorrow!
 
-![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/478899221379153920/e0aa470a49321fae7feb06b989ea3a5e.png](https://cdn.discordapp.com/avatars/478899221379153920/e0aa470a49321fae7feb06b989ea3a5e.png)
 
@@ -13456,9 +12472,6 @@ Gabriela Valdes 02-Jun-22 12:48 PM
 
 I found it jaja jaaa
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-2
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -13470,9 +12483,6 @@ _02-Jun-22 12:49 PM_:
 
 ![https://media.tenor.com/cg0h-BiFJ5gAAAAD/star-wars-baby-yoda.png](https://media.tenor.com/cg0h-BiFJ5gAAAAD/star-wars-baby-yoda.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-6
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -13492,17 +12502,8 @@ _02-Jun-22 01:53 PM_:
 
 [https://discord.gg/SM29pbcv](https://discord.gg/SM29pbcv) For those who joined the orientation (and everyone else), this is the invitation to the token Academy discord, and @pat.zip (TE Academy) is your POC! (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
 
-1
 
-![https://twemoji.maxcdn.com/2/72x72/1f917.png](https://twemoji.maxcdn.com/2/72x72/1f917.png)
-
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>pat.zip (TE Academy) <img src="https://cdn.discordapp.com/avatars/902543185367142400/3485dc9d4dafd5db7ec18f6ed2979c3f.png" width=25 height=25></h3>
 
@@ -13611,9 +12612,6 @@ Done!
 
 @nic @Edu - TEC Steward. We can also delete all the pinned messages and whip up a new one we wnat to be the pinned one with all the deets newcomers needs.
 
-![https://twemoji.maxcdn.com/2/72x72/1f914.png](https://twemoji.maxcdn.com/2/72x72/1f914.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
 
@@ -13759,9 +12757,6 @@ Pia 06-Jun-22 08:52 AM
 
 thank you - I can't make it this week but I will join a following Orientation Call
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fc.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fc.png)
-
-1
 
 <h3>Finesto <img src="https://cdn.discordapp.com/avatars/550672035811033089/a591f85055771a579103ca41d0fcfddf.png" width=25 height=25></h3>
 
@@ -13769,9 +12764,6 @@ _07-Jun-22 05:13 PM_:
 
 Hey Everyone! Been lurking around this community for a while. I'm a yield fund manager looking to learn and contribute in the commons.
 
-![https://twemoji.maxcdn.com/2/72x72/1f331.png](https://twemoji.maxcdn.com/2/72x72/1f331.png)
-
-1
 
 ![https://cdn.discordapp.com/emojis/882043351287885954.gif](https://cdn.discordapp.com/emojis/882043351287885954.gif)
 
@@ -13789,9 +12781,6 @@ _07-Jun-22 06:26 PM_:
 
 Hello there! Nice to have you around, you are more than welcome to join our Orientation call on Thursday, 7PM CET!
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/550672035811033089/a591f85055771a579103ca41d0fcfddf.png](https://cdn.discordapp.com/avatars/550672035811033089/a591f85055771a579103ca41d0fcfddf.png)
 
@@ -13811,9 +12800,6 @@ Hey @Finesto So glad to have you here! @rex was kind enough to indicate to me he
 
 ![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
 
-![https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png](https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
 
@@ -13852,9 +12838,6 @@ We invite you all to attend our weekly
 
 If you cannot make it, and really want to have a talk with us, let us know and we can arrange a 1 on 1. You can also join the following week's Orientation Call.
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-3
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -13862,9 +12845,6 @@ _09-Jun-22 12:51 PM_:
 
 @New Member Orientation call is about to start in 10 minutes in the Community Voice Hall! Join at any moment you can!
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-3
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -13936,13 +12916,7 @@ Glad to have you here with us! See you around
 
 ![https://cdn.discordapp.com/emojis/835017653306654730.png](https://cdn.discordapp.com/emojis/835017653306654730.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
 
-4
-
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fc.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fc.png)
-
-1
 
 <h3>christianDike <img src="https://cdn.discordapp.com/avatars/843863654293176410/85670418f8c8d42acc38a052a47ee533.png" width=25 height=25></h3>
 
@@ -14001,9 +12975,6 @@ If the timing of the call doesn't suit your schedule and you're interesed on a 1
 
 ![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f6e0.png](https://twemoji.maxcdn.com/2/72x72/1f6e0.png)
-
-2
 
 <h3>Santana22 <img src="https://cdn.discordapp.com/avatars/593885652693549067/cad91f75170613d6bc2022f3a52d27e4.png" width=25 height=25></h3>
 
@@ -14100,9 +13071,6 @@ Hello! and welcome to the TEC! We are happy you are here!
 
 [https://lh4.googleusercontent.com/ToYbVrgtL_WLpl8-RT4Jd6o19NgUzPyu3DS38DTflnEdNO2mtsdIujFVv13AA7T4jmY=w1200-h630-p](https://lh4.googleusercontent.com/ToYbVrgtL_WLpl8-RT4Jd6o19NgUzPyu3DS38DTflnEdNO2mtsdIujFVv13AA7T4jmY=w1200-h630-p)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fe.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fe.png)
-
-2
 
 <h3>boonjue.eth <img src="https://cdn.discordapp.com/avatars/908799381229154314/041a1948b918ecd3ae58b5411222fbba.png" width=25 height=25></h3>
 
@@ -14144,9 +13112,6 @@ _27-Jun-22 04:18 AM_:
 
 Hello there, @pat.zip (TE Academy) may know the source link of this!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/194609871507816448/885d9ce4da97862fc7dfdfa55804bd19.png](https://cdn.discordapp.com/avatars/194609871507816448/885d9ce4da97862fc7dfdfa55804bd19.png)
 
@@ -14160,9 +13125,6 @@ _27-Jun-22 06:59 AM_:
 
 hi @Kalki (Noah M) , follow up email should be out soon with all details, including slides!
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-1
 
 <h3>Costa <img src="https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png" width=25 height=25></h3>
 
@@ -14189,9 +13151,6 @@ If the timing of the call doesn't suit your schedule and you're interesed on a 1
 
 ![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png](https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png)
 

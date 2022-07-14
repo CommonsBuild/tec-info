@@ -12,9 +12,6 @@ After 19-Mar-21 12:00 AM
 
 taxil 13-May-22 01:47 PM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=50 height=50>
-
-1
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -22,23 +19,15 @@ _13-May-22 01:52 PM_:
 
 Right on!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>EFRA <img src="https://cdn.discordapp.com/avatars/769621045489172480/5d0540617e5e5c0d66ec5ba30dd6b612.png" width=25 height=25></h3>
 
 _13-May-22 03:58 PM_:
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/769621045489172480/5d0540617e5e5c0d66ec5ba30dd6b612.png](https://cdn.discordapp.com/avatars/769621045489172480/5d0540617e5e5c0d66ec5ba30dd6b612.png)
 
-EFRA
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+EFRA <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -48,9 +37,7 @@ _14-May-22 04:31 PM_:
 
 <h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
-_15-May-22 10:46 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
+_15-May-22 10:46 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=20 height=20>
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -60,23 +47,12 @@ New article will be coming soon to TEC Medium - can anyone guess what it's going
 
 ![https://cdn.discordapp.com/attachments/974720298228256809/975834201104478248/Transparency_copy.jpg](https://cdn.discordapp.com/attachments/974720298228256809/975834201104478248/Transparency_copy.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
 
-Incandenza
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
+Incandenza <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=20 height=20>
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -96,13 +72,7 @@ _17-May-22 01:46 AM_:
 
 Hi @Gideonro, I used to be a journalist and I've done some creative writing. What's this guild about?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f600.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
 
@@ -128,9 +98,6 @@ _19-May-22 01:18 PM_:
 
 Thanks @jasontphelpsNH and @Gideonro for involving me and the presentation. I would be happy to join one of your meetings to dig deeper!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
@@ -153,17 +120,13 @@ We are actually working to put it on the calendar right now. Tuesday May 24th at
 <h3>Incandenza <img src="https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png" width=25 height=25></h3>
 
 _20-May-22 10:29 AM_:
-Thanks @jasontphelpsNH! That might be too late for me though, I'm in Europe
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Thanks @jasontphelpsNH! That might be too late for me though, I'm in Europe <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
 
 Incandenza
 
-[Thanks @jasontphelpsNH! That might be too late for me though, I'm in Europe](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[Thanks @jasontphelpsNH! That might be too late for me though, I'm in Europe](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -171,9 +134,6 @@ _20-May-22 10:44 AM_:
 
 Yes this is one of the later TEC meetings I've seen. I'll ask the group that meets this week if something else would be better. We'll act on the feedback we get. We are also going to be doing some collaborative writing/editing right here in the channel starting next week. Open to all, and asynch so as many people can join as possible. Cheers!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -212,9 +172,7 @@ Here is the link (and an image for quick review) for our 5/24 meeting Writers Gu
 
 [https://app.clarity.so/tecwriters/pages/91fa6565-8136-46ca-84d4-1ab5e6a8928e](https://app.clarity.so/tecwriters/pages/91fa6565-8136-46ca-84d4-1ab5e6a8928e)
 
-New members are always welcome. Be ready to jump run in though, everyone is included in all the activities.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+New members are always welcome. Be ready to jump run in though, everyone is included in all the activities. <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/974720298228256809/978270603305947156/WG_Agenda_5-24-22.png](https://cdn.discordapp.com/attachments/974720298228256809/978270603305947156/WG_Agenda_5-24-22.png)
 
@@ -237,9 +195,7 @@ The DAO - What is a DAO? A decentralized Autonomous Organization is an internet-
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 _24-May-22 06:04 PM_:
-@Gaian Once everything's all set up and you have the article already to go on your Medium page with the checklist done, let @jasontphelpsNH and me know and I will publish it on TEC Medium and then we can connect with the TEC Twitter crew. @acidlazzer and @chuygarcia.eth - fyi - we have a brand-new article coming in the next day or so that's all about Transparency. It would be great to get your promotional support. It would be nice too if we can talk about ways to get some retweeting going within the community too.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+@Gaian Once everything's all set up and you have the article already to go on your Medium page with the checklist done, let @jasontphelpsNH and me know and I will publish it on TEC Medium and then we can connect with the TEC Twitter crew. @acidlazzer and @chuygarcia.eth - fyi - we have a brand-new article coming in the next day or so that's all about Transparency. It would be great to get your promotional support. It would be nice too if we can talk about ways to get some retweeting going within the community too. <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 (edited)
 
@@ -253,9 +209,6 @@ _24-May-22 09:02 PM_:
 
 Sure!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -329,9 +282,6 @@ _26-May-22 01:51 PM_:
 
 Awesome work guys! Gonna tweet it today or tomorrow ❤️ (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
 
@@ -345,9 +295,6 @@ The Real Crypto Movement
 
 ![https://makeryfiles.s3.eu-central-1.amazonaws.com/wp-content/uploads/2022/04/unnamed.png](https://makeryfiles.s3.eu-central-1.amazonaws.com/wp-content/uploads/2022/04/unnamed.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f516.png" width=50 height=50>
-
-1
 
 getting folks from like-minded communities to contribute, or setting up informal sharing of each others’ work, would be great
 
@@ -375,9 +322,7 @@ _28-May-22 02:30 PM_:
 
 [Token Engineering Commons (@tecmns)](https://twitter.com/tecmns)
 
-"Transparency Within a DAO" The importance of #transparency nowadays is very important in DAOs and the whole ecosystem, check our last medium article to know more about it! ✨
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f50e.png" width=50 height=50>
+"Transparency Within a DAO" The importance of #transparency nowadays is very important in DAOs and the whole ecosystem, check our last medium article to know more about it! ✨ <img src="https://twemoji.maxcdn.com/2/72x72/1f50e.png" width=20 height=20>
 
 [https://t.co/XWQ74BgLSY](https://t.co/XWQ74BgLSY)
 
@@ -387,9 +332,6 @@ _28-May-22 02:30 PM_:
 
 Twitter • 28-May-22 02:28 PM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f942.png" width=50 height=50>
-
-1
 
 <h3>Gaian <img src="https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png" width=25 height=25></h3>
 
@@ -501,17 +443,12 @@ _01-Jun-22 09:45 AM_:
 
 Sure, I can do that one first.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png](https://cdn.discordapp.com/avatars/928678643822112868/8b194bd5ff48bbc4f8fa2d00731700bc.png)
 
 Incandenza
 
-[Thanks @jasontphelpsNH! That might be too late for me though, I'm in Europe](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[Thanks @jasontphelpsNH! That might be too late for me though, I'm in Europe](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -525,9 +462,6 @@ _01-Jun-22 03:23 PM_:
 
 Hi @jasontphelpsNH, consider that I am n utc+2 (cest), any time that falls between 9 a.m. and 7 p.m here. for me should be fine But please base your schedule on your convenience and not mine as I don't know how consistent I will be with my participation. I'll do my best to join a meeting a get to know you though
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
 
@@ -539,17 +473,12 @@ taxil 02-Jun-22 03:38 PM
 
 [Holly Herndon (@hollyherndon)](https://twitter.com/hollyherndon)
 
-.@LILINTERNET coined this term and it captures everything I am excited about at the moment Community networks that generate their own media together under a shared vision, forged in discords and publishing under one voice Here are some examples to check out
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa9c.png" width=50 height=50>
+.@LILINTERNET coined this term and it captures everything I am excited about at the moment Community networks that generate their own media together under a shared vision, forged in discords and publishing under one voice Here are some examples to check out <img src="https://twemoji.maxcdn.com/2/72x72/1fa9c.png" width=20 height=20>
 
 ![https://abs.twimg.com/icons/apple-touch-icon-192x192.png](https://abs.twimg.com/icons/apple-touch-icon-192x192.png)
 
 Twitter • 02-Jun-22 03:30 PM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 sounds familiar
 
@@ -569,9 +498,6 @@ _02-Jun-22 03:42 PM_:
 
 Digital DJs and MCs collaborating across space and time. My wife and I have talked about the parallels to how some genres of music grew up out of intense collaboration and coordination. Making the space bigger so everybody has a shot to step through. Truly a pleasure to explore.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif](https://cdn.discordapp.com/avatars/704131286448734289/a_6f7263445bd3c94a6a1ef8e2b0e6dde0.gif)
 
@@ -591,9 +517,7 @@ _03-Jun-22 01:04 PM_:
 
 let me take a look
 
-done, @taxil
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+done, @taxil <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -644,9 +568,7 @@ taxil
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
 _07-Jun-22 11:38 AM_:
-I will report back our jealousy.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+I will report back our jealousy. <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -654,28 +576,18 @@ _07-Jun-22 04:57 PM_:
 
 Felt pretty good to click publish on my first blog piece in over 5 years. I am tending to the gardens at home again, and I wrote about the 20+ year home gardening journey we've been on where I am currently living. [https://medium.com/@jasonphelpsnh/back-in-the-garden-b4ac93ac93a3](https://medium.com/@jasonphelpsnh/back-in-the-garden-b4ac93ac93a3) (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/263a.png" width=50 height=50>
-
-1
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 _08-Jun-22 10:59 AM_:
-I went ahead and created a "Writers" role with a small icon last night. If anyone would like the icon/color scheme to be different, let me know and I'll make the changes this evening.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=50 height=50>
+I went ahead and created a "Writers" role with a small icon last night. If anyone would like the icon/color scheme to be different, let me know and I'll make the changes this evening. <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
 
 gene
 
-[I went ahead and created a "Writers" role with a small icon last night. If anyone would like the icon/color scheme to be different, let me know and I'll make the changes this evening.](about:blank#)  
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=50 height=50>
+[I went ahead and created a "Writers" role with a small icon last night. If anyone would like the icon/color scheme to be different, let me know and I'll make the changes this evening.](about:blank#)   <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=20 height=20>
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -683,17 +595,12 @@ _08-Jun-22 11:01 AM_:
 
 Neat, thank you!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
 
 gene
 
-[I went ahead and created a "Writers" role with a small icon last night. If anyone would like the icon/color scheme to be different, let me know and I'll make the changes this evening.](about:blank#)  
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=50 height=50>
+[I went ahead and created a "Writers" role with a small icon last night. If anyone would like the icon/color scheme to be different, let me know and I'll make the changes this evening.](about:blank#)   <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=20 height=20>
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -701,13 +608,7 @@ _09-Jun-22 10:37 AM_:
 
 I actually noticed that yesterday and was wondering how that happened!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png](https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png)
 
@@ -722,25 +623,17 @@ jasontphelpsNH
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 _10-Jun-22 04:53 AM_:
-Nice piece Jason! I'm thoroughly envious of your garden and woodlands. Living in the desert has its benefits (no snow
+Nice piece Jason! I'm thoroughly envious of your garden and woodlands. Living in the desert has its benefits (no snow <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
+) and its detriments (few gardens beyond cacti <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
-) and its detriments (few gardens beyond cacti
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
-
-). I hope to have the opportunity to be as brave as you and "go back to the roots" someday. Cheers m8.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f37b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+). I hope to have the opportunity to be as brave as you and "go back to the roots" someday. Cheers m8. <img src="https://twemoji.maxcdn.com/2/72x72/1f37b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
 
 gene
 
-[Nice piece Jason! I'm thoroughly envious of your garden and woodlands. Living in the desert has its benefits (no snow  ) and its detriments (few gardens beyond cacti  ). I hope to have the opportunity to be as brave as you and "go back to the roots" someday. Cheers m8.](about:blank#)  
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f37b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="$5" width=50 height=50>
+[Nice piece Jason! I'm thoroughly envious of your garden and woodlands. Living in the desert has its benefits (no snow  ) and its detriments (few gardens beyond cacti  ). I hope to have the opportunity to be as brave as you and "go back to the roots" someday. Cheers m8.](about:blank#)   <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f37b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -748,22 +641,14 @@ _10-Jun-22 08:00 AM_:
 
 Thank you so much Gene! I've never lived outside New England so I don't really know that difference first hand. I have travelled a bit and have seen how different my home area really is. I always want to get back. Making the garden spaces at home therapeutic in a number of ways. I used to work in Boston during the day, and after the 90 commute I was always so happy to be back home "in the woods". Oddly enough, the major interstate is less than a mile due East. We can hear it, but it is hidden by largely forested land so we aren't bothered by it. It is a good balance to be close to the routes to head pretty much anywhere, but tucked away on a quite wooded street with some peace. If you ever get out my way come chill in the garden with us!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 _10-Jun-22 04:44 PM_:
 Hey @Writer I've got a message to TEC token holders that could use some eyes on it. It's already fairly far down the review process, having gotten feedback from the stewards and a bunch of resulting changes. So, no major directional changes. What I am looking for are areas that seem unclear or could be said with more concision. Could I get some help? @taxil, I'm also wondering whether you would be willing and able to do an editorial pass, on say Wed of next week?
 
-[https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing](https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+[https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing](https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing) <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 Message to TEC Token Holders
 
@@ -777,9 +662,7 @@ Gideonro
 
 [Hey @Writer I've got a message to TEC token holders that could use some eyes on it. It's already fairly far down the review process, having gotten feedback from the stewards and a bunch of resulting changes. So, no major directional changes. What I am looking for are areas that seem unclear or could be said with more concision. Could I get some help? @taxil, I'm also wondering whether you would be willing and able to do an editorial pass, on say Wed of next week?](about:blank#)
 
-[https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing](https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+[https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing](https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing) <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>jasontphelpsNH <img src="https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png" width=25 height=25></h3>
 
@@ -817,9 +700,6 @@ The internet is now highly utilized globally for education, healthcare, business
 
 [https://miro.medium.com/max/1200/0*6CR7Q4-vCupmLN5v](https://miro.medium.com/max/1200/0*6CR7Q4-vCupmLN5v)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-1
 
 <h3>russlive215 (🧙🏾, 🧙🏾)︱40ACRES <img src="https://cdn.discordapp.com/avatars/700029358735360000/6dd1fadcbfc1f37b2fffc046576ce6e4.png" width=25 height=25></h3>
 

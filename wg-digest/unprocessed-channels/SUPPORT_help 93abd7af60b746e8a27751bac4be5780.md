@@ -96,9 +96,6 @@ _28-Mar-21 02:58 AM_:
 
 Seems to be ok now
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>globalyou <img src="https://cdn.discordapp.com/avatars/794016892850929674/8ae9c06d8cadbdf14cb50caf05220545.png" width=25 height=25></h3>
 
@@ -126,9 +123,6 @@ _12-Apr-21 07:42 AM_:
 
 @markop GRANT ME ACCESS TO ALL YO GOOD STUFF
 
-![https://twemoji.maxcdn.com/2/72x72/1f602.png](https://twemoji.maxcdn.com/2/72x72/1f602.png)
-
-1
 
 <h3>markop <img src="https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png" width=25 height=25></h3>
 
@@ -179,9 +173,6 @@ _14-Apr-21 03:16 PM_:
 
 Hi! Where exactly are you looking to put the reference, and what are you referencing in the proposal? My guess is that you want DAO consulting for token engineering? If so, then tecommons.org is a good link.
 
-![https://twemoji.maxcdn.com/2/72x72/1f4af.png](https://twemoji.maxcdn.com/2/72x72/1f4af.png)
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -197,9 +188,6 @@ _15-Apr-21 12:26 PM_:
 
 Can I check pre Community meeting later... with giving praise at the start, are we sharing praise that we haven't already given here or on Telegram? Or summarising all praise to give for the week gone?
 
-![https://twemoji.maxcdn.com/2/72x72/1f914.png](https://twemoji.maxcdn.com/2/72x72/1f914.png)
-
-1
 
 <h3>eli_ <img src="https://cdn.discordapp.com/avatars/512745291313840128/0b350b03b5bf881fc8cb4054509ba186.png" width=25 height=25></h3>
 
@@ -267,9 +255,6 @@ If the terms ‘Tokenlog’ and ‘Quadratic Voting’ got you spooked, fear no 
 
 ![https://forum.tecommons.org/uploads/default/optimized/1X/61af3b926cbba1a98241f373fe59171d3008bde6_2_1024x535.png](https://forum.tecommons.org/uploads/default/optimized/1X/61af3b926cbba1a98241f373fe59171d3008bde6_2_1024x535.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/3.png](https://cdn.discordapp.com/embed/avatars/3.png)
 
@@ -340,13 +325,7 @@ Discover the creators and communities that are #PoweredByAragon.
 
 ![https://assets.website-files.com/5e4c1a3fdf0852a43fec1bc9/5f2a8410e5663302f505289d_poweredby.png](https://assets.website-files.com/5e4c1a3fdf0852a43fec1bc9/5f2a8410e5663302f505289d_poweredby.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/433877864849473557/426992a96a4d443fd0931bfe92ff1515.png](https://cdn.discordapp.com/avatars/433877864849473557/426992a96a4d443fd0931bfe92ff1515.png)
 
@@ -436,9 +415,6 @@ DAOhaus | DAOhaus
 
 Description will go into a meta tag in
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>markop <img src="https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png" width=25 height=25></h3>
 
@@ -479,9 +455,6 @@ Wow! I just glanced through this real quick but this is like the DAO Bible, isn'
 
 Thank you for sharing!!!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Lucas | DefiSafety <img src="https://cdn.discordapp.com/avatars/142474743029694464/8d4ece6d0686d436467690fe3e3736a4.png" width=25 height=25></h3>
 
@@ -741,9 +714,6 @@ _11-Jun-21 01:23 PM_:
 
 welp it won't be there :( I think JeffEmmet made the chart, or had the chart. Not sure (Jess or Kris might know) I fetched a screenshot of it from an AMA call on CommonsStack
 
-![https://twemoji.maxcdn.com/2/72x72/1f440.png](https://twemoji.maxcdn.com/2/72x72/1f440.png)
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -833,9 +803,6 @@ _22-Jun-21 07:38 AM_:
 
 Thanks for notifying, nic! The bots were banned, and apparently all of them were invited by @Deleted User(to be looked more into) :( These bots keep coming
 
-![https://twemoji.maxcdn.com/2/72x72/1f622.png](https://twemoji.maxcdn.com/2/72x72/1f622.png)
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -843,9 +810,6 @@ _22-Jun-21 08:48 AM_:
 
 Hopefully, things will be fine soon (I'm working on the captcha site, just need to tweak it a bit to kick anyone from the server that doesn't fill the captcha on entry)
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
-
-1
 
 <h3>Kojak <img src="https://cdn.discordapp.com/avatars/755383991300915290/a58e400056417f1d790deda8e41c5df0.png" width=25 height=25></h3>
 
@@ -1008,9 +972,6 @@ Bug Report Describe the bug i start everything but the site does not work and th
 
 [https://opengraph.githubassets.com/6578ed145e3823bbd1839209d10d104206522d23d8192320aeedcbdbdcf93297/Vyvy-vi/TEC-Discord-Oauth2/issues/28](https://opengraph.githubassets.com/6578ed145e3823bbd1839209d10d104206522d23d8192320aeedcbdbdcf93297/Vyvy-vi/TEC-Discord-Oauth2/issues/28)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -1037,9 +998,6 @@ there is not an 'onboarding' tag, would contributor role work for that matter? w
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
 
@@ -1058,9 +1016,6 @@ I think it would be helpful for newly joining members to clearly see who's part 
 
 It's fairly easy to set new roles up if you're someone with admin powers.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -1068,9 +1023,6 @@ _06-Aug-21 11:51 AM_:
 
 i just message it on the stewards channel i can create the role but prefer to ask it first
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
 
@@ -1091,9 +1043,6 @@ _06-Aug-21 12:55 PM_:
 
 totally agree, probably its the way I am, I need to be more autonomous
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -1104,9 +1053,6 @@ I made some small changes to the role - (made it plural
 
 and made this pop up on the member list sidebar). I hope that's fine?
 
-![https://twemoji.maxcdn.com/2/72x72/1f60d.png](https://twemoji.maxcdn.com/2/72x72/1f60d.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
 
@@ -1122,9 +1068,6 @@ _06-Aug-21 01:26 PM_:
 
 It's great! Can you give that to @Suga and @nic if you haven't already done that? And maybe yourself?? I get the impression you might be part of the onboarding crew but not sure?
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -1132,13 +1075,7 @@ _06-Aug-21 02:08 PM_:
 
 i would also include @Edu - TEC Steward. @Tam2140 and @liviade
 
-![https://twemoji.maxcdn.com/2/72x72/1f4aa.png](https://twemoji.maxcdn.com/2/72x72/1f4aa.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Suga <img src="https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png" width=25 height=25></h3>
 
@@ -1228,9 +1165,6 @@ Yes! The Praise automatically gets a green check emoji if it has been recorded b
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -1250,9 +1184,6 @@ _26-Aug-21 02:31 AM_:
 
 Emoji reactions don't pull through to the spreadsheet used to quantify praise, so the people assigning value to the praise only see the description, not any reactions to the praise given
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-3
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -1265,9 +1196,6 @@ Help please tech-magicians!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png](https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png)
 
@@ -1285,9 +1213,6 @@ _27-Aug-21 12:02 PM_:
 
 @T Wells ?
 
-![https://twemoji.maxcdn.com/2/72x72/1f447.png](https://twemoji.maxcdn.com/2/72x72/1f447.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png](https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png)
 
@@ -1305,9 +1230,6 @@ _27-Aug-21 03:05 PM_:
 
 That would be great :) I could help out with that
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
 
@@ -1353,9 +1275,6 @@ think this task requires a bot of the type that @Vyvy-vi can do perfectly
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44c.png](https://twemoji.maxcdn.com/2/72x72/1f44c.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
 
@@ -1379,9 +1298,6 @@ _30-Aug-21 08:17 AM_:
 
 We could use airtable's form... But, if we'ed use a google form I think I can still set up an application to manage the data.. Either way works fine (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
 
@@ -1408,9 +1324,6 @@ May I please have the ability to give praise?
 
 ![https://twemoji.maxcdn.com/2/72x72/1f91e.png](https://twemoji.maxcdn.com/2/72x72/1f91e.png)
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
-
-1
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -1425,17 +1338,8 @@ _04-Sep-21 06:44 AM_:
 
 Can someone give @Kojak the ability to give praise?
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
-1
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f600.png](https://twemoji.maxcdn.com/2/72x72/1f600.png)
-
-1
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -1443,13 +1347,7 @@ _09-Sep-21 02:09 PM_:
 
 Can anyone tell me how to see all the members that have the "Orientation Coordinator" role?
 
-![https://twemoji.maxcdn.com/2/72x72/1f50d.png](https://twemoji.maxcdn.com/2/72x72/1f50d.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f50e.png](https://twemoji.maxcdn.com/2/72x72/1f50e.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
 
@@ -1464,9 +1362,6 @@ Server settings > Roles > Orientation Coordinators > Manage Members
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f49c.png](https://twemoji.maxcdn.com/2/72x72/1f49c.png)
-
-1
 
 I took a screenshot of the list of members in case you don't have access to the settings @Tam2140
 
@@ -1496,9 +1391,6 @@ _10-Sep-21 10:46 AM_:
 
 Klima DAO is one possibility for you
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -1530,15 +1422,9 @@ _13-Sep-21 09:13 AM_:
 
 Hey Tam! I figured it out. The app doesn't automatically change wallets. I voted!!!!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png)
-
-1
 
 ![https://cdn.discordapp.com/attachments/810180622165213214/886962783932022804/20210913_061108.jpg](https://cdn.discordapp.com/attachments/810180622165213214/886962783932022804/20210913_061108.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f308.png](https://twemoji.maxcdn.com/2/72x72/1f308.png)
-
-1
 
 Otw MCON! Stay safe in France.
 
@@ -1592,9 +1478,6 @@ _04-Oct-21 01:13 PM_:
 
 Sorry for any confusion!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
@@ -1647,9 +1530,6 @@ What is this issue about? As I was falling down the
 
 [https://opengraph.githubassets.com/7cc619fbfb2186779a46b70be9cbd41eeab7f898238d510b95eaed478abb488e/CommonsBuild/coordination/issues/899](https://opengraph.githubassets.com/7cc619fbfb2186779a46b70be9cbd41eeab7f898238d510b95eaed478abb488e/CommonsBuild/coordination/issues/899)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44f.png](https://twemoji.maxcdn.com/2/72x72/1f44f.png)
-
-3
 
 ![https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png](https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png)
 
@@ -1686,9 +1566,6 @@ I'm not going to lie...I have no idea what I'm doing when I leap into these sort
 
 )
 
-![https://twemoji.maxcdn.com/2/72x72/1fac2.png](https://twemoji.maxcdn.com/2/72x72/1fac2.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png](https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png)
 
@@ -1828,9 +1705,6 @@ _15-Oct-21 01:50 AM_:
 
 Oh that would be great!
 
-![https://twemoji.maxcdn.com/2/72x72/270b.png](https://twemoji.maxcdn.com/2/72x72/270b.png)
-
-1
 
 <h3>SteveWright <img src="https://cdn.discordapp.com/avatars/689889685492990112/8be4e33ef93acea49f6ceb705b6ef4da.png" width=25 height=25></h3>
 
@@ -1862,9 +1736,6 @@ _25-Oct-21 03:40 AM_:
 
 Regarding your second question, the right person to answer may be @griff (💜, 💜)!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -1919,9 +1790,6 @@ _31-Oct-21 06:40 PM_:
 
 Welcome Bianca! A pleasure to have you here! Gravity training is amazing!! You are more than welcome to join our orientation call, on wednesday's at 6PM CET! If you can't make it let me know!
 
-![https://twemoji.maxcdn.com/2/72x72/1f49c.png](https://twemoji.maxcdn.com/2/72x72/1f49c.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -1935,17 +1803,8 @@ _31-Oct-21 06:45 PM_:
 
 Adding @natesuits to the conversation. Nate, also in Oakland, and I met the other day. We are working on setting up a peer tutoring pilot on a test net to see if we can align incentives. Lots of possibility for additions like POAP and "badging" and diplomas etc.
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
 
-1
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png)
-
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -2081,13 +1940,7 @@ _08-Nov-21 03:29 PM_:
 
 Hi TEC, I organize a weekly tokenomics study group as a part of Gitcoin's Kernel Fellowship. Each week we examine one interesting protocol for an hour as a group. Part of the conversation is around a virtual whiteboard with a diagram of the protocol's tokenomics (flow of value, key actors and features) to help illustrate narratives of how the token or protocol works. We would like to make these diagrams very easy to create every week and have some consistency to them. So I was wondering if there is such a thing as a diagraming standard for tokenomics that we could use in our studies. If there is, I figured this community would know about it.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png)
 
-3
-
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/415358390957637642/f3c0ab1bc2145fb3a18e1077be815126.png](https://cdn.discordapp.com/avatars/415358390957637642/f3c0ab1bc2145fb3a18e1077be815126.png)
 
@@ -2123,9 +1976,6 @@ The rapid development of the blockchain ecosystem has given rise to a new engine
 
 [https://miro.medium.com/max/1024/0*2gslcjs6ytyl8Mic](https://miro.medium.com/max/1024/0*2gslcjs6ytyl8Mic)
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
-
-1
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
@@ -2347,9 +2197,6 @@ _13-Dec-21 09:20 AM_:
 
 Hi @lee0007 thanks for registering! All fine, your registration is logged, you'll get the link latest tomorrow.
 
-![https://twemoji.maxcdn.com/2/72x72/1f970.png](https://twemoji.maxcdn.com/2/72x72/1f970.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/788141806289158175/97aa5286d6efe8c32f7b30be1493dc00.png](https://cdn.discordapp.com/avatars/788141806289158175/97aa5286d6efe8c32f7b30be1493dc00.png)
 
@@ -2398,9 +2245,6 @@ Hi @zhoujielun! The approval process for Trusted Seed takes care to ensure that 
 
 ) (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
 
@@ -2630,9 +2474,6 @@ _30-Dec-21 04:30 PM_:
 
 Oh cool, I see it. I was trying to understand that. Thank you!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png)
-
-2
 
 <h3>JVKing <img src="https://cdn.discordapp.com/avatars/883767516516716554/55c12830cd062fad6b0b363b37f1ef91.png" width=25 height=25></h3>
 
@@ -2671,9 +2512,6 @@ hey hey do you mean the tokens for voting on these params? If so, only the membe
 
 ![https://twemoji.maxcdn.com/2/72x72/1f31e.png](https://twemoji.maxcdn.com/2/72x72/1f31e.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44f.png](https://twemoji.maxcdn.com/2/72x72/1f44f.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -2690,9 +2528,6 @@ Thanks nic
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f60a.png](https://twemoji.maxcdn.com/2/72x72/1f60a.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -2825,9 +2660,6 @@ _17-Jan-22 02:56 PM_:
 
 Is a hatch something newbees here should understand, or is it rather something optional to understand here?
 
-![https://twemoji.maxcdn.com/2/72x72/1f440.png](https://twemoji.maxcdn.com/2/72x72/1f440.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/834548116514013206/a0bff6c95bfc23e093941416f9510639.png](https://cdn.discordapp.com/avatars/834548116514013206/a0bff6c95bfc23e093941416f9510639.png)
 
@@ -2841,9 +2673,6 @@ _20-Jan-22 12:13 PM_:
 
 Hey there! It is optional. Hatcher was our a covesting process. We divided our launch of the Token in two steps: The Hatch and the Commons Upgrade. The hatch was also a way to provide support to the TEC while adcquiring TEC tokens in advance.
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -3210,17 +3039,8 @@ Thank you @Tam2140! You've all been very kind and helpful. I received the funds 
 
 ![https://twemoji.maxcdn.com/2/72x72/1f642.png](https://twemoji.maxcdn.com/2/72x72/1f642.png)
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
 
-3
 
-![https://twemoji.maxcdn.com/2/72x72/1f331.png](https://twemoji.maxcdn.com/2/72x72/1f331.png)
-
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png)
-
-1
 
 <h3>Terence <img src="https://cdn.discordapp.com/avatars/819893990006063104/7d02e8b1d24bb4632f5c10e0af9b9392.png" width=25 height=25></h3>
 
@@ -3375,9 +3195,6 @@ CAUTION I was just told a vulnerability in the open sea api is currently being e
 
 I suggest people turn off that option in MetaMask general settings until this is fully understood
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png](https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png)
 
@@ -3501,9 +3318,6 @@ thanks Edu. Solved. As JuanK pointed out, it was that the TEC I had is vested. S
 
 Thanks for the support.
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-1
 
 <h3>ChancellorEgg <img src="https://cdn.discordapp.com/avatars/158294971978350593/0f23ed0ea130c727f74c99c3d97e882b.png" width=25 height=25></h3>
 
@@ -3621,9 +3435,6 @@ Hi @Tam2140 ! I managed to fix the code!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f3fd.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png)
-
-2
 
 ![https://cdn.discordapp.com/embed/avatars/3.png](https://cdn.discordapp.com/embed/avatars/3.png)
 
@@ -3645,9 +3456,6 @@ _16-Mar-22 07:58 AM_:
 
 Hello Sinan! Thanks for sharing. I think the needs/specs is what helps determined the answer to this questions. There is no easy answer for any of both. It depends if the sustainable and ethical way is for the mobile app, or the community around it, or for the developers, etc. So it's a tricky question. I recommend you to join the 360 session of Token Academy, where they will be discussing differennt Token Economics cases.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/3.png](https://cdn.discordapp.com/embed/avatars/3.png)
 
@@ -3739,13 +3547,7 @@ Hey! sorry you couldn't make it in. We did reach the limit, first time ever for 
 
 thankfully we'll have a recording posted to our youtube channel soon www.youtube.com/c/tokenengineering
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
 
-3
-
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png](https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png)
 
@@ -3771,9 +3573,6 @@ It either shows no proposals (even when I change filters to ALL), or no such gar
 
 Got it to work!! nvm!
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-1
 
 Has anyone ever been asked this?
 
@@ -3863,9 +3662,6 @@ Join our Cloud HD Video Meeting
 
 Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as ex...
 
-![https://twemoji.maxcdn.com/2/72x72/1f44c-1f3fb.png](https://twemoji.maxcdn.com/2/72x72/1f44c-1f3fb.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -4175,9 +3971,6 @@ _06-Apr-22 04:02 PM_:
 
 Hello! We currently don't provide advice on a general sense, but feel free to share your idea on the #📝｜job-board category or #💡｜ideas and see if anyone from the community provides advice!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Maxwe11 <img src="https://cdn.discordapp.com/avatars/144927134492786688/078c5e414d364c7514a0e7310922b86a.png" width=25 height=25></h3>
 
@@ -4218,9 +4011,6 @@ Hey @Maxwe11 - looks like you've been taken care of. Happy Praising!
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f3fd.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f919.png](https://twemoji.maxcdn.com/2/72x72/1f919.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/144927134492786688/078c5e414d364c7514a0e7310922b86a.png](https://cdn.discordapp.com/avatars/144927134492786688/078c5e414d364c7514a0e7310922b86a.png)
 
@@ -4241,9 +4031,6 @@ Sorry to have missed this, Maxwell! Let me know if you'd like an onboarding sync
 
 Alternatively, tag me next to any questions you might have and I'll answer them then & there (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f919.png](https://twemoji.maxcdn.com/2/72x72/1f919.png)
-
-1
 
 <h3>magenta <img src="https://cdn.discordapp.com/avatars/696009393992499291/10bb4336ac70018266d402d264f7f1cf.png" width=25 height=25></h3>
 
@@ -4266,9 +4053,6 @@ Hello there, Thanks for sharing. I am ccing @ygg_anderson about this. Have you t
 
 ![https://twemoji.maxcdn.com/2/72x72/1f604.png](https://twemoji.maxcdn.com/2/72x72/1f604.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 <h3>irenioskamoska <img src="https://cdn.discordapp.com/avatars/802300216656003102/91c34be1ab2422faff94781e9eb7d625.png" width=25 height=25></h3>
 
@@ -4329,9 +4113,6 @@ Oh Ok! Sorry about that. Let me know if you need any more clarification on the c
 
 ![https://twemoji.maxcdn.com/2/72x72/1f609.png](https://twemoji.maxcdn.com/2/72x72/1f609.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f60a.png](https://twemoji.maxcdn.com/2/72x72/1f60a.png)
-
-1
 
 <h3>sagitario <img src="https://cdn.discordapp.com/avatars/904408645461225483/91bf6e1c3f067067e9df1181d5d7877b.png" width=25 height=25></h3>
 
@@ -4571,9 +4352,6 @@ _16-May-22 12:39 PM_:
 
 Hi! For this question I'm tagging @Yineisy Mota to see if they can answer to you.
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png](https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png)
 
@@ -4607,15 +4385,9 @@ The voting process to select the finalists has started, our Trusted Seed members
 
 Join our server here if you haven't done it yet
 
-![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
-
-:
 
 [https://discord.gg/Kz997f2BRm](https://discord.gg/Kz997f2BRm)
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
 
@@ -4696,9 +4468,6 @@ _22-May-22 08:32 AM_:
 
 That would be @Zeptimus!
 
-![https://twemoji.maxcdn.com/2/72x72/1f90e.png](https://twemoji.maxcdn.com/2/72x72/1f90e.png)
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -4875,11 +4644,8 @@ Nikola Creatrix
 
 _30-May-22 03:06 PM_:
 
-Hello there! Here is the recording of the first session: [https://www.youtube.com/watch?v=pbQmR06yfkc&ab_channel=TokenEngineeringCommons](https://www.youtube.com/watch?v=pbQmR06yfkc&ab_channel=TokenEngineeringCommons)
-
-[Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
-
-Thrid Graviton Training Module 0: Introduction and contextualizatio...
+Hello there! Here is the recording of the first session: 
+[Thrid Graviton Training Module 0: Introduction and contextualizatio...](https://www.youtube.com/watch?v=pbQmR06yfkc&ab_channel=TokenEngineeringCommons)
 
 Agenda: Inclusive welcome Breakout / icebreaking Expectation settings / Methodology Presentation of the modules of the course Getting to know the people, identifying teams - study groups. Group assignment: Apply the proposed framework (4Ps) for the Study of a case. (any case) Presentations: On the 9th session.
 
@@ -4893,21 +4659,9 @@ Thank you for watching! Hit
 
 ![https://i.ytimg.com/vi/pbQmR06yfkc/maxresdefault.jpg](https://i.ytimg.com/vi/pbQmR06yfkc/maxresdefault.jpg)
 
-![https://twemoji.maxcdn.com/2/72x72/1f49c.png](https://twemoji.maxcdn.com/2/72x72/1f49c.png)
 
-2
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
 
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
-
-2
-
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/881861480591536170/bece0a76e44e3a04a46b38e1d1de4a97.png](https://cdn.discordapp.com/avatars/881861480591536170/bece0a76e44e3a04a46b38e1d1de4a97.png)
 
@@ -4959,9 +4713,6 @@ _01-Jun-22 10:25 AM_:
 
 @pat.zip (TE Academy) is the right person for this!
 
-![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/834878486534553651/8a001777c393d49ec21dbee81f6799b3.png](https://cdn.discordapp.com/avatars/834878486534553651/8a001777c393d49ec21dbee81f6799b3.png)
 
@@ -4983,9 +4734,6 @@ Welcome to Getting Ready to the first comprehensive education & certification pr
 
 ![https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5eec1241-04e2-4799-81cc-f62dda6f1559%2FScreen_Shot_2022-04-07_at_06.45.26.png?table=block&id=9684352a-222f-4e62-b1aa-2523f7b95609&width=2000&userId=&cache=v2](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5eec1241-04e2-4799-81cc-f62dda6f1559%2FScreen_Shot_2022-04-07_at_06.45.26.png?table=block&id=9684352a-222f-4e62-b1aa-2523f7b95609&width=2000&userId=&cache=v2)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -4997,9 +4745,6 @@ FAQ
 
 ![https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ/page/sETbZqwb69RR5Udhi5kA.png?color=%23FD40FE&logo=https%3A%2F%2F89038353-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-MRe_M_mUIIB11A-MQyZ%252Favatar-rectangle-1616086536325.png%3Fgeneration%3D1616086536797603%26alt%3Dmedia&theme=dark](https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ/page/sETbZqwb69RR5Udhi5kA.png?color=%23FD40FE&logo=https%3A%2F%2F89038353-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-MRe_M_mUIIB11A-MQyZ%252Favatar-rectangle-1616086536325.png%3Fgeneration%3D1616086536797603%26alt%3Dmedia&theme=dark)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-1
 
 Original message was deleted.
 
@@ -5087,9 +4832,6 @@ from there you can tab over to the "reason" box, or click within it, and type ou
 
 then hit enter and you have made somebody feel good while rewarding them with some TEC.. =D pretty cool, huh?
 
-![https://twemoji.maxcdn.com/2/72x72/263a.png](https://twemoji.maxcdn.com/2/72x72/263a.png)
-
-️
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
@@ -5110,9 +4852,6 @@ It's sure cool
 
 ![https://twemoji.maxcdn.com/2/72x72/1f60a.png](https://twemoji.maxcdn.com/2/72x72/1f60a.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
-
-1
 
 The problem I was having was actually because I was trying the praise function on the Discord mobile app. Tried everything and it didn't work until I logged on to Discord on my PC. I suppose this means the praise function doesn't work on the mobile app? (edited)
 
@@ -5120,9 +4859,6 @@ And thanks for your reply
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -5130,9 +4866,6 @@ _10-Jun-22 01:10 PM_:
 
 ✅ Praise @sagitario for finding a bug in the mobile praise UI/UX on his first attempt at praise. You are an excellent tester. Doubly well done. =D
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -5159,9 +4892,6 @@ Hey Metaverde, you will lose access to your $TRUST (previously CSTK) but NOT to 
 
 cc: @mafer_cordovas
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -5169,9 +4899,6 @@ _29-Jun-22 12:39 PM_:
 
 THANK YOU!
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-1
 
 ❤️❤️❤️
 

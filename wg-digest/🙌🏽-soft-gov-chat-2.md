@@ -12,13 +12,9 @@ _23-Mar-21 02:01 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda - March 23rd
+Soft Gov Agenda - March 23rd <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-Attendees for Praise: ⭐️WG Manifesto
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
+Attendees for Praise: ⭐️WG Manifesto <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
 Roadmap Intro: What skill would you like to master? SourceCred updates! Community Mapping MVV session
 
@@ -40,9 +36,6 @@ Ethics as Mission and Motivation for the Token Engineering Commons
 
 [https://miro.medium.com/max/1063/0*G-1nJznLbX_r44YO](https://miro.medium.com/max/1063/0*G-1nJznLbX_r44YO)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f98b.png" width=50 height=50>
-
-2
 
 ^^^ This is a nice piece for the MVV
 
@@ -61,9 +54,7 @@ Advancing Token Engineering. Token Engineering Commons has 28 repositories avail
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 _01-Apr-21 04:17 AM_:
-I checked to make sure the Tokenlog site was working as expected, it is.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+I checked to make sure the Tokenlog site was working as expected, it is. <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 The URL name still has TECommons in it (
 
@@ -200,9 +191,7 @@ Probably the single most relevant thing I've ever seen for TEC and what I know a
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 _07-Apr-21 10:04 AM_:
-The latest Soft Gov call is now up on our Youtube channel
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+The latest Soft Gov call is now up on our Youtube channel <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 To those who missed it but wanna know the latest updates, here's the link:
 
@@ -214,25 +203,15 @@ To those who missed it but wanna know the latest updates, here's the link:
 
 W24 Softgov WG: Mission, Vision and Values
 
-Timecodes: 00:00 - MVV model thoughts 22:20 - MVV Breakdown
+Timecodes: 00:00 - MVV model thoughts 22:20 - MVV Breakdown <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+Thank you for watching! Hit <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
-Thank you for watching! Hit
+and subscribe <img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+to support this work <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
-and subscribe
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=50 height=50>
-
-to support this work
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-Join the Community
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+Join the Community <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 on Discord
 
@@ -258,9 +237,7 @@ Lear...
 
 Zeptimus
 
-[The latest Soft Gov call is now up on our Youtube channel  To those who missed it but wanna know the latest updates, here's the link:](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[The latest Soft Gov call is now up on our Youtube channel  To those who missed it but wanna know the latest updates, here's the link:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://www.youtube.com/watch?v=S54OmHlI4q4](https://www.youtube.com/watch?v=S54OmHlI4q4)
 
@@ -271,9 +248,6 @@ Zeptimus
 _08-Apr-21 10:39 AM_:
 thanks so much @Zeptimus! it's so nice to have it available here so easily
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -283,9 +257,6 @@ _08-Apr-21 05:45 PM_:
 
 I'm sorry, I'm a fraud. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=50 height=50>
-
-3
 
 <h3>wslyvh BOT <img src="https://cdn.discordapp.com/avatars/813769754531201044/dd80cbda73d7de4fad2931bc5cf479d6.png" width=25 height=25></h3>
 
@@ -296,9 +267,7 @@ _08-Apr-21 05:52 PM_:
 <h3>markop BOT <img src="https://cdn.discordapp.com/avatars/813769754531201044/a8e2fa24b7db895b863d52ced04908d7.png" width=25 height=25></h3>
 
 _09-Apr-21 01:12 AM_:
-I reported that yestearday I think
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+I reported that yestearday I think <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>wslyvh BOT <img src="https://cdn.discordapp.com/avatars/813769754531201044/dd80cbda73d7de4fad2931bc5cf479d6.png" width=25 height=25></h3>
 
@@ -334,17 +303,11 @@ _10-Apr-21 08:51 AM_:
 
 !praise @Juankbell for the soft gov meme-ing
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 [https://media.discordapp.net/attachments/810180622165213222/830192815417327626/Hulk_GIF-downsized.gif](https://media.discordapp.net/attachments/810180622165213222/830192815417327626/Hulk_GIF-downsized.gif)
 
 ![https://media.discordapp.net/attachments/810180622165213222/830192815417327626/Hulk_GIF-downsized.gif](https://media.discordapp.net/attachments/810180622165213222/830192815417327626/Hulk_GIF-downsized.gif)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/813769754531201044/dd80cbda73d7de4fad2931bc5cf479d6.png](https://cdn.discordapp.com/avatars/813769754531201044/dd80cbda73d7de4fad2931bc5cf479d6.png)
 
@@ -384,9 +347,6 @@ _12-Apr-21 10:01 AM_:
 
 FORK THE VOTE!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -404,9 +364,7 @@ _12-Apr-21 10:39 AM_:
 
 yeah I agree! I think we can still push for new proposals though
 
-@wslyvh let's clear them all?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=50 height=50>
+@wslyvh let's clear them all? <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=20 height=20>
 
 <h3>wslyvh BOT <img src="https://cdn.discordapp.com/avatars/813769754531201044/dd80cbda73d7de4fad2931bc5cf479d6.png" width=25 height=25></h3>
 
@@ -427,9 +385,6 @@ wslyvh
 _12-Apr-21 11:28 AM_:
 I imagine that must be hard especially because of the quadratic distribution and the high balances almost everyone has no? I think it's ok if we clear them and communicate there was a bug.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -447,9 +402,7 @@ Will do so in the next ~2 hrs
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
-JessicaZartler BOT 12-Apr-21 01:49 PM
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50> <img src="$5" width=50 height=50>
+JessicaZartler BOT 12-Apr-21 01:49 PM <img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 (re @geleeroyale_bot: griff
 
@@ -479,9 +432,6 @@ Democratize your open-source software project. A better way for projects to coll
 
 ![https://tokenlog.xyz/icon.png](https://tokenlog.xyz/icon.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-3
 
 Apologies for the hiccups!
 
@@ -491,13 +441,7 @@ _13-Apr-21 01:55 AM_:
 
 !praise to @wslyvh for the quick response
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -507,13 +451,9 @@ _13-Apr-21 01:02 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda - March 30
+Soft Gov Agenda - March 30 <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-Attendees for Praise: ⭐️WG Manifesto
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
+Attendees for Praise: ⭐️WG Manifesto <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
 Roadmap Inro: Soft Gov audit update Onboarding Journey with Suga
 
@@ -526,19 +466,12 @@ Contributor flow - should we use the community call to...
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
 JuankBell BOT 13-Apr-21 01:16 PM
-This is the video i was talking about
+This is the video i was talking about <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
 
-[https://www.youtube.com/watch?v=hx7MLdtsVIM](https://www.youtube.com/watch?v=hx7MLdtsVIM)
+[La entrevista que Maluma le realizó a Sadhguru- Minuto USA](https://www.youtube.com/watch?v=hx7MLdtsVIM)
 
-[Minuto USA](https://www.youtube.com/channel/UCuhgFD-G5EzejqZm-l8XM-Q)
-
-La entrevista que Maluma le realizó a Sadhguru- Minuto USA
-
-Las últimas noticias de los Estados Unidos -The latest US news
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4f2.png" width=50 height=50>
+Las últimas noticias de los Estados Unidos -The latest US news <img src="https://twemoji.maxcdn.com/2/72x72/1f4f2.png" width=20 height=20>
 
 [http://minutousa.com](http://minutousa.com/)
 
@@ -566,9 +499,6 @@ Google Docs - create and edit documents online, for free.
 
 Create a new document and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Docs to edit Word files. Free from Google.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>markop <img src="https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png" width=25 height=25></h3>
 
@@ -629,18 +559,13 @@ Thanks @wslyvh You're an all star
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _14-Apr-21 12:43 PM_:
-ooh! that was it! my heart stoped for a second hehe thanks @wslyvh
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+ooh! that was it! my heart stoped for a second hehe thanks @wslyvh <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 <h3>wslyvh <img src="https://cdn.discordapp.com/avatars/615886828582469635/29d7fea90d277c8ddb90b9e745f96022.png" width=25 height=25></h3>
 
 _14-Apr-21 12:43 PM_:
 Same here! Glad everything is ok
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -846,25 +771,15 @@ _15-Apr-21 06:46 PM_:
 
 [Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
 
-How to create & vote on the TEC Mission Vision Values with Tokenlog!
+How to create & vote on the TEC Mission Vision Values with Tokenlog! <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+Thank you for watching! Hit <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
-Thank you for watching! Hit
+and subscribe <img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+to support this work MUSIC BY @CRYPTOBEATS <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
-and subscribe
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=50 height=50>
-
-to support this work MUSIC BY @CRYPTOBEATS
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-Join the Community
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+Join the Community <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 on Discord
 
@@ -888,9 +803,6 @@ Learn more
 
 ![https://i.ytimg.com/vi/6UxW8Go_S60/maxresdefault.jpg](https://i.ytimg.com/vi/6UxW8Go_S60/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/813769754531201044/78dd7a47fc9e7ea64edb54408534703c.png](https://cdn.discordapp.com/avatars/813769754531201044/78dd7a47fc9e7ea64edb54408534703c.png)
 
@@ -922,13 +834,7 @@ _16-Apr-21 04:24 AM_:
 
 I personally think that TokenLog and TEC and how they interact should be very separate but appreciate each other. I like it more as a tool and just let it be a tool. How anyone uses that tool is up to them.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/615886828582469635/29d7fea90d277c8ddb90b9e745f96022.png](https://cdn.discordapp.com/avatars/615886828582469635/29d7fea90d277c8ddb90b9e745f96022.png)
 
@@ -942,9 +848,6 @@ _16-Apr-21 08:55 AM_:
 
 thanks for clarifying! It's nice to learn more about the tool, it should be fine like this. we can close the issues with the final results next tuesday then.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -985,9 +888,7 @@ freedumbs00
 <h3>wslyvh <img src="https://cdn.discordapp.com/avatars/615886828582469635/29d7fea90d277c8ddb90b9e745f96022.png" width=25 height=25></h3>
 
 _19-Apr-21 04:59 AM_:
-Agreed. Still interesting to get feedback/thoughts on how to improve though
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Agreed. Still interesting to get feedback/thoughts on how to improve though <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
 
@@ -1021,9 +922,7 @@ Hey @Juankbell and everyone, I'm gonna close all the MVV issues now so the new o
 
 wslyvh
 
-[Agreed. Still interesting to get feedback/thoughts on how to improve though](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[Agreed. Still interesting to get feedback/thoughts on how to improve though](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1031,21 +930,14 @@ _20-Apr-21 12:55 PM_:
 
 hey Wesley! Happy to give you the feedbacks we've been collecting - also the Proof of Humanity DAO said they are gonna test token log internally after seeing our use case :) (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 Agenda: [https://docs.google.com/document/d/1R8yLfht6GvGHr8VDvyZ-sVP1s54rPLY4MtXPBOqHtO0/edit#](https://docs.google.com/document/d/1R8yLfht6GvGHr8VDvyZ-sVP1s54rPLY4MtXPBOqHtO0/edit#)
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda - Apr 20th
+Soft Gov Agenda - Apr 20th <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-Attendees for Praise: ⭐️WG Manifesto
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
+Attendees for Praise: ⭐️WG Manifesto <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
 Roadmap Inro: What learning did you have from the MVV process? If you didn’t participate, share something you learned from your week :) MVV Runoff Announcing the top 3 submissions
 
@@ -1075,13 +967,9 @@ _20-Apr-21 03:53 PM_:
 
 [https://forum.tecommons.org/t/mvv-runoff-vote-now/348](https://forum.tecommons.org/t/mvv-runoff-vote-now/348)
 
-MVV Runoff! Vote Now
+MVV Runoff! Vote Now <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f5f3.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f5f3.png" width=50 height=50>
-
-Vote on MVV Now!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f5f3.png" width=50 height=50>
+Vote on MVV Now! <img src="https://twemoji.maxcdn.com/2/72x72/1f5f3.png" width=20 height=20>
 
 The top 3 submissions of the first MVV round were collectively edited and are now available on Tokenlog. @Juankbell submitted the 3 proposals with numbers rather than titles so the writers are anonymous to not influence the votes. Deadline: Tuesday, April 27th during the Soft Gov call at 7pm CET. Every CSTK and IH token ...
 
@@ -1121,9 +1009,6 @@ Total Impact Hours so far Total IH: ,7227.890 Handle,Impact Hours zeptimusq,515.
 
 [https://lh3.googleusercontent.com/Hqgm7o4lHxFfXX9K90TCKPOI9QePNhkZc64yEC4BNqGzIitnFgdwWLhaZtShm-WleGGPYadbUpD14Q=w1200-h630-p](https://lh3.googleusercontent.com/Hqgm7o4lHxFfXX9K90TCKPOI9QePNhkZc64yEC4BNqGzIitnFgdwWLhaZtShm-WleGGPYadbUpD14Q=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/615886828582469635/29d7fea90d277c8ddb90b9e745f96022.png](https://cdn.discordapp.com/avatars/615886828582469635/29d7fea90d277c8ddb90b9e745f96022.png)
 
@@ -1161,25 +1046,17 @@ _27-Apr-21 01:00 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda - Apr 27th
+Soft Gov Agenda - Apr 27th <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-Attendees for Praise: ⭐️WG Manifesto
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
+Attendees for Praise: ⭐️WG Manifesto <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
 Roadmap Inro: MVV final results! VOTE :D
 
 [https://tokenlog.xyz/CommonsBuild/TokenLog-SoftGov](https://tokenlog.xyz/CommonsBuild/TokenLog-SoftGov)
 
-Open discussion Schedule committee call Soft Gov Agenda - Apr 20th
+Open discussion Schedule committee call Soft Gov Agenda - Apr 20th <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-Attendees for Praise: ⭐️WG Manifesto
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
+Attendees for Praise: ⭐️WG Manifesto <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
 Roadmap ...
 
@@ -1188,9 +1065,7 @@ Roadmap ...
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 _27-Apr-21 01:03 PM_:
-I voted, dish me praise
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+I voted, dish me praise <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -1204,9 +1079,7 @@ I voted
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
 _27-Apr-21 01:12 PM_:
-@Si Chen
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+@Si Chen <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 Post the link here!
 
@@ -1268,9 +1141,7 @@ Democratize your open-source software project. A better way for projects to coll
 
 _27-Apr-21 01:55 PM_:
 
-[https://forum.tecommons.org/](https://forum.tecommons.org/)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+[https://forum.tecommons.org/](https://forum.tecommons.org/) <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 Token Engineering Commons
 
@@ -1296,9 +1167,6 @@ _28-Apr-21 06:58 PM_:
 
 Some of the answers are there [https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/](https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/499196313473122313/5c5f398c4e9807f7a29640aedabcb252.png](https://cdn.discordapp.com/avatars/499196313473122313/5c5f398c4e9807f7a29640aedabcb252.png)
 
@@ -1334,9 +1202,6 @@ hey @chuygarcia.eth @natesuits @Vyvy-vi @Zeptimus @Suga @Tam2140 is tomorrow at 
 _29-Apr-21 09:10 AM_:
 I'll be able to join at 3pm EST
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -1390,9 +1255,6 @@ _29-Apr-21 01:15 PM_:
 
 Ok for me.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -1401,9 +1263,7 @@ Hello everyone! Me and @sbilbao are working on a DAO governance framework that w
 
 [https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358](https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358)
 
-We'd appreciate your advice
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+We'd appreciate your advice <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 An organic decision-making mechanism for DAOs
 
@@ -1423,17 +1283,8 @@ MVV Runoff Polishing Session Vision The Token Engineering Commons will support t
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f36c.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3c1.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f941.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1475,9 +1326,7 @@ _01-May-21 07:38 AM_:
 
 [Wesley (@wslyvh)](https://twitter.com/wslyvh)
 
-New Tokenlog update
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f5f3.png" width=50 height=50>
+New Tokenlog update <img src="https://twemoji.maxcdn.com/2/72x72/1f5f3.png" width=20 height=20>
 
 ️ Added basic voting stats for each repo, incl. the raw data for anyone to verify.
 
@@ -1485,9 +1334,6 @@ New Tokenlog update
 
 Twitter • 01-May-21 07:37 AM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
 
@@ -1510,15 +1356,10 @@ wslyvh
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _03-May-21 11:17 AM_:
-amazing!!!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+amazing!!! <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 thanks for sharing!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -1532,9 +1373,6 @@ _03-May-21 03:30 PM_:
 
 @Vyvy-vi It does not - it's currently on Tilda (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -1558,13 +1396,9 @@ _04-May-21 01:00 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda - May 4th
+Soft Gov Agenda - May 4th <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-Attendees for Praise: ⭐️WG Manifesto
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
+Attendees for Praise: ⭐️WG Manifesto <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
 Roadmap Inro: Reflection on decision making SourceCred updates Glossary hack Params Party!
 
@@ -1604,9 +1438,6 @@ Download free case study ebook on the Praise system within the Commons Stack. Le
 
 ![https://f.hubspotusercontent10.net/hubfs/8132714/PDF%20Cover%20banner%20Crop.jpg](https://f.hubspotusercontent10.net/hubfs/8132714/PDF%20Cover%20banner%20Crop.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -1614,9 +1445,6 @@ _08-May-21 11:14 AM_:
 
 [https://discord.gg/xmqmGYUWBY](https://discord.gg/xmqmGYUWBY)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -1706,13 +1534,9 @@ _18-May-21 01:03 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda - May 18th
+Soft Gov Agenda - May 18th <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-Attendees for Praise: mateo, griff, tam, manu, james, zept, katy, santi, nate, eduardo, juan, ⭐️WG Manifesto
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
+Attendees for Praise: mateo, griff, tam, manu, james, zept, katy, santi, nate, eduardo, juan, ⭐️WG Manifesto <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
 Roadmap Inro: Params runoff! Praise data analysis update - collect perspectives and points for the analysis Restoring 100% of IH for paid contribu...
 
@@ -1794,13 +1618,9 @@ _25-May-21 01:05 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda - May 18th
+Soft Gov Agenda - May 18th <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-Attendees: ⭐️WG Manifesto
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
+Attendees: ⭐️WG Manifesto <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
 Roadmap Inro: Praise analysis People’s unique situations. Let’s start our stakeholder profile.
 
@@ -1808,9 +1628,7 @@ Roadmap Inro: Praise analysis People’s unique situations. Let’s start our s
 
 [https://hackmd.io/t3VzO6jwSx-AcKyJiopmrw](https://hackmd.io/t3VzO6jwSx-AcKyJiopmrw)
 
-Soft Gov Agenda - May 18th
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+Soft Gov Agenda - May 18th <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 Attendees for ...
 
@@ -1833,24 +1651,18 @@ Tristan is the Co-Founder and President of the Center for Humane Technology, and
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
 _25-May-21 05:44 PM_:
-@here WHOA! Is TokenLog frozen? Everything's fine! There are so many votes it's taking to long to load, so if you come across this issue reload and go get some lemonade, do some pushups. It should be up and running in around 5 minutes. We're working on a fix already so just hang on and enjoy your 5 minute break
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+@here WHOA! Is TokenLog frozen? Everything's fine! There are so many votes it's taking to long to load, so if you come across this issue reload and go get some lemonade, do some pushups. It should be up and running in around 5 minutes. We're working on a fix already so just hang on and enjoy your 5 minute break <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png](https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png)
 
 chuygarcia.eth
 
-[@here WHOA! Is TokenLog frozen? Everything's fine! There are so many votes it's taking to long to load, so if you come across this issue reload and go get some lemonade, do some pushups. It should be up and running in around 5 minutes. We're working on a fix already so just hang on and enjoy your 5 minute break](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[@here WHOA! Is TokenLog frozen? Everything's fine! There are so many votes it's taking to long to load, so if you come across this issue reload and go get some lemonade, do some pushups. It should be up and running in around 5 minutes. We're working on a fix already so just hang on and enjoy your 5 minute break](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 _25-May-21 05:50 PM_:
-thanks for this.... that's what I was coming here to ask about!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f424.png" width=50 height=50>
+thanks for this.... that's what I was coming here to ask about! <img src="https://twemoji.maxcdn.com/2/72x72/1f424.png" width=20 height=20>
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -1878,20 +1690,13 @@ Frontiers - The Dissensus Protocol: Governing Differences in Online...
 
 Peer-to-peer networks and protocols have inspired new ideas and ideologies about governance, with the aim of using technology to enable horizontal and decentralised decision making at scale. This paper introduces the concept of ‘dissensus’ from political theory to debates about peer governance in online communities. Dissensus describes the emerg...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>JessicaZartler <img src="https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png" width=25 height=25></h3>
 
 _01-Jun-21 12:14 PM_:
-Hey everyone! Hope you all are having a beautiful week
+Hey everyone! Hope you all are having a beautiful week <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-@JeffEmmett @liviade @RenzoD5 and myself are hosting two Governance research & design workshop/knowledge sharing/discussion sessions tomorrow and Thursday. Check out this Tweet for calendar and call links, and feel free to RT and invite any governance thought leaders, community builders and ecosystem weavers that you think would love to explore the space with us
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f52d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
+@JeffEmmett @liviade @RenzoD5 and myself are hosting two Governance research & design workshop/knowledge sharing/discussion sessions tomorrow and Thursday. Check out this Tweet for calendar and call links, and feel free to RT and invite any governance thought leaders, community builders and ecosystem weavers that you think would love to explore the space with us <img src="https://twemoji.maxcdn.com/2/72x72/1f52d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=20 height=20>
 
 [https://twitter.com/commonsstack/status/1399752531484545030](https://twitter.com/commonsstack/status/1399752531484545030)
 
@@ -1899,13 +1704,9 @@ Hey everyone! Hope you all are having a beautiful week
 
 [The Commons Stack 🌱 (@commonsstack)](https://twitter.com/commonsstack)
 
-YOU'RE INVITED: Join two cutting edge #Governance research & design workshops tomorrow & Thursday:
+YOU'RE INVITED: Join two cutting edge #Governance research & design workshops tomorrow & Thursday: <img src="https://twemoji.maxcdn.com/2/72x72/1f52d.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f52d.png" width=50 height=50>
-
-Exploring Polycentric Governance in Web3 Ecosystems
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9eb.png" width=50 height=50>
+Exploring Polycentric Governance in Web3 Ecosystems <img src="https://twemoji.maxcdn.com/2/72x72/1f9eb.png" width=20 height=20>
 
 Cultural Frameworks for DAO Governance Learn why these elements are so important in systems design & share your learnings!
 
@@ -1913,9 +1714,6 @@ Cultural Frameworks for DAO Governance Learn why these elements are so important
 
 Twitter • 01-Jun-21 11:39 AM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1925,9 +1723,7 @@ _01-Jun-21 12:58 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda - Jun 1st
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+Soft Gov Agenda - Jun 1st <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 Attendees: WG Manifesto Roadmap ⭐️⭐️⭐️⭐️⭐️⭐️⭐️LAST CHANCE TO VOTE! ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ Intro question: Temperature check on Ostrom’s principles 1. Clearly defined boundaries 2. Congruence between appropriation and provision (sustainability of resources) 3. Collec...
 
@@ -2005,9 +1801,6 @@ Total Impact Hours so far Total IH: ,9267.060 Handle,Impact Hours,Payment Status
 
 [https://lh3.googleusercontent.com/Hqgm7o4lHxFfXX9K90TCKPOI9QePNhkZc64yEC4BNqGzIitnFgdwWLhaZtShm-WleGGPYadbUpD14Q=w1200-h630-p](https://lh3.googleusercontent.com/Hqgm7o4lHxFfXX9K90TCKPOI9QePNhkZc64yEC4BNqGzIitnFgdwWLhaZtShm-WleGGPYadbUpD14Q=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png" width=50 height=50>
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -2025,19 +1818,13 @@ Hey, from SourceCred so biased, but may be able to offer some ideas. Are these n
 
 _05-Jun-21 08:52 PM_:
 
-Very interesting essay on work culture vs. culture and spirituality. [https://www.youtube.com/watch?v=tkxR1TcG4n4](https://www.youtube.com/watch?v=tkxR1TcG4n4)
-
-[The Take](https://www.youtube.com/channel/UCVjsbqKtxkLt7bal4NWRjJQ)
-
-Spirited Away - Why Work Is Toxic
+Very interesting essay on work culture vs. culture and spirituality. 
+[Spirited Away - Why Work Is Toxic](https://www.youtube.com/watch?v=tkxR1TcG4n4)
 
 Get a full month of MUBI FOR FREE: [https://mubi.com/thetake](https://mubi.com/thetake) (With the support of Creative Europe – MEDIA Programme of the European Union) Hidden in the fantastic otherwordly narrative of Hayao Miyazaki’s Spirited Away is an allegory about society’s toxic obsession with work. The Studio Ghibli classic was released in 2001 and commented on Japan’...
 
 ![https://i.ytimg.com/vi/tkxR1TcG4n4/maxresdefault.jpg](https://i.ytimg.com/vi/tkxR1TcG4n4/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f98b.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png](https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png)
 
@@ -2049,19 +1836,13 @@ phacker
 
 _07-Jun-21 06:49 AM_:
 
-Here it is [https://www.youtube.com/watch?v=uf58WIar1rQ](https://www.youtube.com/watch?v=uf58WIar1rQ)
-
-[Commons Stack](https://www.youtube.com/channel/UCoyHywZn8YMalyx4ZbvQoyw)
-
-Cultural Frameworks for DAO Governance
+Here it is 
+[Cultural Frameworks for DAO Governance](https://www.youtube.com/watch?v=uf58WIar1rQ)
 
 In part two of our governance knowledge sharing sessions in Polycentric Governance, Jeff Emmett, Jessica Zartler, Renzo D'Andrea and Livia Deschermayer of Commons Stack, Block Science, Token Engineering Commons and Change the River, host a sharing and discussion session on The 3 Influential Models, Ostrom's Principles for Governing the Commons a...
 
 ![https://i.ytimg.com/vi/uf58WIar1rQ/sddefault.jpg](https://i.ytimg.com/vi/uf58WIar1rQ/sddefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png](https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png)
 
@@ -2121,9 +1902,7 @@ _08-Jun-21 01:02 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda - Jun 1st
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+Soft Gov Agenda - Jun 1st <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 Attendees: WG Manifesto Roadmap Celeste proposal approval
 
@@ -2140,9 +1919,7 @@ Aragon network agreement
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 _08-Jun-21 02:01 PM_:
-I have to jump off the call but don't want to interrupt the sourcecred flow!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
+I have to jump off the call but don't want to interrupt the sourcecred flow! <img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=20 height=20>
 
 you all!
 
@@ -2164,9 +1941,6 @@ _09-Jun-21 09:02 PM_:
 
 @liviade - I saw in the medium post you need help with SourceCred. What can I do to help out?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/26a1.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -2174,9 +1948,6 @@ _10-Jun-21 11:05 AM_:
 
 Hey @KZ Flyer thanks for reaching out!! we had a session on Tuesday to deploy the DAO that will distribute cred. We picked all the people that will have reputation there for now, but maybe @mateodaza would like some help?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -2206,9 +1977,7 @@ _15-Jun-21 01:03 PM_:
 
 Ostrom’s Principles and the TEC
 
-Soft Gov Agenda - Jun 15th
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+Soft Gov Agenda - Jun 15th <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 Attendees: WG Manifesto Roadmap Intro: Praise analysis - Possible Categories: Paid contributors deduction Restitute 100% of governance power through infinite vesting Restitute an x percentage of governance power and compensation Categories What categories ...
 
@@ -2241,9 +2010,7 @@ liviade
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
 _15-Jun-21 03:05 PM_:
-I see! Cheers for explaining
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+I see! Cheers for explaining <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -2319,9 +2086,6 @@ _22-Jun-21 06:17 AM_:
 
 c!ban @Deleted User for being a scam spammer bot
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>Carl-bot BOT <img src="https://cdn.discordapp.com/avatars/235148962103951360/ed3dac3b6e7a851df781632a4295fcb9.png" width=25 height=25></h3>
 
@@ -2345,9 +2109,7 @@ I hope to see everyone in the Soft gov + Praise Analysis call today [https://for
 
 Pre-Hatch Impact Hours Distribution Analysis
 
-Impact Hour Intervention - Tokenlog voting session Tomorrow, June 22nd at 7pm CET - 1pm EST, we’ll have a session to share the praise analysis results, chat about proposals and decision making and open space to listen to each other.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e2.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=50 height=50>
+Impact Hour Intervention - Tokenlog voting session Tomorrow, June 22nd at 7pm CET - 1pm EST, we’ll have a session to share the praise analysis results, chat about proposals and decision making and open space to listen to each other. <img src="https://twemoji.maxcdn.com/2/72x72/1f4e2.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=20 height=20>
 
 Call agenda ⭐ @ygg_anderson and the Labs team will present the praise analysis tools and findings, includi...
 
@@ -2404,17 +2166,12 @@ Soft Gov Agenda - Praise Analysis Jun 22nd Attendees: Labs team - praise analysi
 <h3>JessicaZartler <img src="https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png" width=25 height=25></h3>
 
 _22-Jun-21 01:04 PM_:
-See Livia's Post on the Forum for more about this session: Impact Hour Intervention - Tokenlog voting session Today, June 22nd at 7pm CET - 1pm EST, we’ll have a session to share the praise analysis results, chat about proposals and decision making and open space to listen to each other.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e2.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=50 height=50>
+See Livia's Post on the Forum for more about this session: Impact Hour Intervention - Tokenlog voting session Today, June 22nd at 7pm CET - 1pm EST, we’ll have a session to share the praise analysis results, chat about proposals and decision making and open space to listen to each other. <img src="https://twemoji.maxcdn.com/2/72x72/1f4e2.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=20 height=20>
 
 Call agenda ⭐ @ygg_anderson and the Labs team will present the praise analysis tools and findings, including this awesome Praise Analysis Dashboard! ⭐ We’ll go over the decision making process and share the problem set. ⭐ Everyone who wants to share their opinion on possible solutions will have 1.5 min ⭐ If we have extra time, we’ll start hacking on proposals. (Bottom of Forum Post
 
 [https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/49)](https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/49))
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 @liviade we are recording??
 
@@ -2424,9 +2181,6 @@ _22-Jun-21 01:06 PM_:
 
 I believe so, @Zeptimus you got it?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -2434,23 +2188,11 @@ _22-Jun-21 01:07 PM_:
 
 yea
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f320.png" width=50 height=50>
-
-1
 
 pawa is also here just in case
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f919.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>JessicaZartler <img src="https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png" width=25 height=25></h3>
 
@@ -2469,13 +2211,7 @@ JessicaZartler
 _22-Jun-21 01:26 PM_:
 do you mind moving this to the notes doc? so people can address it there too if they want
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -2499,21 +2235,12 @@ Likes
 
 Twitter • 17-May-21 10:36 AM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62e.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
-
-1
 
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
@@ -2548,21 +2275,13 @@ also don' burn people's already accrued impact hours - but if they don't claim i
 <h3>JessicaZartler <img src="https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png" width=25 height=25></h3>
 
 _22-Jun-21 02:11 PM_:
-Thank you so much! Sadly, I have to jump to another research meeting
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+Thank you so much! Sadly, I have to jump to another research meeting <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 Will watch the rest of the recording (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 Open to working with a few folks on a proposal together
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 <h3>JeffEmmett <img src="https://cdn.discordapp.com/avatars/379773201405706260/ef3f53d5871426014623b8af291e195d.png" width=25 height=25></h3>
 
@@ -2570,9 +2289,6 @@ _22-Jun-21 02:11 PM_:
 
 Unfortunately have to jump to another conflicting call - thanks to all for the AMAZING hard work and constructive conversations on this important topic!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -2598,9 +2314,6 @@ _22-Jun-21 03:02 PM_:
 
 Thank you everyone! I continue to learn a lot.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f338.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png](https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png)
 
@@ -2623,9 +2336,7 @@ liviade
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _23-Jun-21 04:56 AM_:
-I do not know, how much of it is now a technical matter; @sem(🌸,🐝) mentioned yesterday, that there are things that just cannot be done anymore because well hard-coded in smart contracts and state machine. However, I believe it's been a crucial oversight (although pointed out very early on in Working Group 0
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+I do not know, how much of it is now a technical matter; @sem(🌸,🐝) mentioned yesterday, that there are things that just cannot be done anymore because well hard-coded in smart contracts and state machine. However, I believe it's been a crucial oversight (although pointed out very early on in Working Group 0 <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 Sept 2020), that will potentially cause Trusted Seed/Association as a gate to be able to govern the public goods (and Token Engineering community is only carrying out the work - which I don't agree as I see
 
@@ -2633,9 +2344,6 @@ Sept 2020), that will potentially cause Trusted Seed/Association as a gate to be
 
 work as "intellectual investment". So this being able to make decisions in this commons is not dependent on one's intellectual investment; but monetary investment and association with a certain organization; which leads to a pyramid structure. A condition that isn't related at all to the health of Token Engineering Public Goods. What I have been proposing on numerous occasions is to have the #1 project that TEC funds is how to overcome that initial design trade-off that has been made (as explained in the link and forum). That would require documenting the drawbacks created by the design choices (as it has been started with praise analysis), gather these insights, and based on collective analysis from mutliple perspectives (e.g. solely adhering to Ostrom's Principles, isn't aligned with TE Principles - we know all models are wrong, or plain out dangerous if taken out of context).
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-2
 
 I also think it is a stron indicator, if people who used to work in CommonsStack did not see this problem, until they started "working as TEs"
 
@@ -2653,9 +2361,7 @@ Or we keep the prevailing narrative: which is TEC nurtures TE, i.e. it is fundin
 
 solsista
 
-[I do not know, how much of it is now a technical matter; @sem(🌸,🐝) mentioned yesterday, that there are things that just cannot be done anymore because well hard-coded in smart contracts and state machine. However, I believe it's been a crucial oversight (although pointed out very early on in Working Group 0  Sept 2020), that will potentially cause Trusted Seed/Association as a gate to be able to govern the public goods (and Token Engineering community is only carrying out the work - which I don't agree as I see *the whole transdicsiplinary* work as "intellectual investment". So this being able to make decisions in this commons is not dependent on one's intellectual investment; but monetary investment and association with a certain organization; which leads to a pyramid structure. A condition that isn't related at all to the health of Token Engineering Public Goods. What I have been proposing on numerous occasions is to have the #1 project that TEC funds is how to overcome that initial design trade-off that has been made (as explained in the link and forum). That would require documenting the drawbacks created by the design choices (as it has been started with praise analysis), gather these insights, and based on collective analysis from mutliple perspectives (e.g. solely adhering to Ostrom's Principles, isn't aligned with TE Principles - we know all models are wrong, or plain out dangerous if taken out of context).](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+[I do not know, how much of it is now a technical matter; @sem(🌸,🐝) mentioned yesterday, that there are things that just cannot be done anymore because well hard-coded in smart contracts and state machine. However, I believe it's been a crucial oversight (although pointed out very early on in Working Group 0  Sept 2020), that will potentially cause Trusted Seed/Association as a gate to be able to govern the public goods (and Token Engineering community is only carrying out the work - which I don't agree as I see *the whole transdicsiplinary* work as "intellectual investment". So this being able to make decisions in this commons is not dependent on one's intellectual investment; but monetary investment and association with a certain organization; which leads to a pyramid structure. A condition that isn't related at all to the health of Token Engineering Public Goods. What I have been proposing on numerous occasions is to have the #1 project that TEC funds is how to overcome that initial design trade-off that has been made (as explained in the link and forum). That would require documenting the drawbacks created by the design choices (as it has been started with praise analysis), gather these insights, and based on collective analysis from mutliple perspectives (e.g. solely adhering to Ostrom's Principles, isn't aligned with TE Principles - we know all models are wrong, or plain out dangerous if taken out of context).](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>sem(🌸,🐝) <img src="https://cdn.discordapp.com/avatars/676517295643820032/bfcde0fd88f9b8e9c184906a5080c128.png" width=25 height=25></h3>
 
@@ -2701,11 +2407,8 @@ Hello @liviade @Zeptimus -- is/will the recording be posted?
 
 _23-Jun-21 01:59 PM_:
 
-here it is! [https://www.youtube.com/watch?v=IskGuXITko8](https://www.youtube.com/watch?v=IskGuXITko8)
-
-[Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
-
-W35 Softgov WG: Praise analysis and possible solutions
+here it is! 
+[W35 Softgov WG: Praise analysis and possible solutions](https://www.youtube.com/watch?v=IskGuXITko8)
 
 TheSoftgov Working Group researches and applies best practices for governance, social collaboration and contribution rewards while implementing Ostrom’s 8 principles for governing the commons in its foundation. We gather every Tuesday at 7pm CET. Steward: Liviade Timecodes: 00:00 - Agenda 07:01 - YGG intervetion Dashboard 21:48 - Octoupus an...
 
@@ -2714,9 +2417,7 @@ TheSoftgov Working Group researches and applies best practices for governance, s
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 _23-Jun-21 01:59 PM_:
-you are faster than me livi
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50>
+you are faster than me livi <img src="https://twemoji.maxcdn.com/2/72x72/1f60b.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=20 height=20>
 
 <h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
@@ -2724,9 +2425,6 @@ _23-Jun-21 03:22 PM_:
 
 Hello friends! I do not know the name of the person who asked about the alternative metrics for looking at decentralization, here is what I have on that:
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 [https://youtu.be/MlGoYXk5x8o](https://youtu.be/MlGoYXk5x8o)
 
@@ -2738,24 +2436,12 @@ Comparing the decentralization/distribution of Impact Hours to other relevant cr
 
 ![https://i.ytimg.com/vi/MlGoYXk5x8o/maxresdefault.jpg](https://i.ytimg.com/vi/MlGoYXk5x8o/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 I wasn't very well-prepared to discuss it yesterday. Sorry about that.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/263a.png" width=50 height=50>
 
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 I was following the methods in this paper: [https://arxiv.org/pdf/2101.10699.pdf](https://arxiv.org/pdf/2101.10699.pdf)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 <h3>sem(🌸,🐝) <img src="https://cdn.discordapp.com/avatars/676517295643820032/bfcde0fd88f9b8e9c184906a5080c128.png" width=25 height=25></h3>
 
@@ -2769,9 +2455,6 @@ When the best intervention is to not intervine Praise Analysis Dashboard 1. Does
 
 [https://opengraph.githubassets.com/869561c4460e75947a8a7667e48c68d050c9d65e1954a27b51f83cf89ddb7bac/CommonsBuild/TokenLog-SoftGov/issues/18](https://opengraph.githubassets.com/869561c4460e75947a8a7667e48c68d050c9d65e1954a27b51f83cf89ddb7bac/CommonsBuild/TokenLog-SoftGov/issues/18)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png](https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png)
 
@@ -2785,9 +2468,6 @@ _24-Jun-21 06:05 AM_:
 
 @Suga asked for this on the call
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -2806,23 +2486,17 @@ Tuesday, 7pm CET
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
 _29-Jun-21 12:58 PM_:
-Hey folks. Just a pre-warning that my internet is terrible and keeps cutting in and out. So, you might find me non-responsive. It ain't personal
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
+Hey folks. Just a pre-warning that my internet is terrible and keeps cutting in and out. So, you might find me non-responsive. It ain't personal <img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png](https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png)
 
 anna-marie
 
-[Hey folks. Just a pre-warning that my internet is terrible and keeps cutting in and out. So, you might find me non-responsive. It ain't personal](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
+[Hey folks. Just a pre-warning that my internet is terrible and keeps cutting in and out. So, you might find me non-responsive. It ain't personal](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
-_29-Jun-21 01:00 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+_29-Jun-21 01:00 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 thanks for letting us know Anna-Marie!
 
@@ -2837,38 +2511,25 @@ Soft Gov Agenda - Jun 29th Attendees: Intro: 1. Does this proposal address that 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 _29-Jun-21 01:08 PM_:
-@Zeptimus you're celebrating being eaten first!!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+@Zeptimus you're celebrating being eaten first!! <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
-_29-Jun-21 01:09 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60b.png" width=50 height=50>
+_29-Jun-21 01:09 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60b.png" width=20 height=20>
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 _29-Jun-21 01:09 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f37d.png" width=50 height=50>
-
-️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f356.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f356.png" width=20 height=20>
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
-_29-Jun-21 01:29 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+_29-Jun-21 01:29 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 <h3>JessicaZartler <img src="https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png" width=25 height=25></h3>
 
 _29-Jun-21 02:09 PM_:
-Thank you everyone for the discussion - I have to jump for another call - check out "Sharing is Caring" proposal
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+Thank you everyone for the discussion - I have to jump for another call - check out "Sharing is Caring" proposal <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 [https://github.com/CommonsBuild/IH-intervention/issues/4](https://github.com/CommonsBuild/IH-intervention/issues/4)
 
@@ -2880,9 +2541,6 @@ Praise Analysis Dashboard 1. Does this proposal address that some categories may
 
 [https://opengraph.githubassets.com/711b0bbaa105b5169cd886b94d308e55040f97698d61abad736d1e86bc2c8f44/CommonsBuild/IH-intervention/issues/4](https://opengraph.githubassets.com/711b0bbaa105b5169cd886b94d308e55040f97698d61abad736d1e86bc2c8f44/CommonsBuild/IH-intervention/issues/4)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-2
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -2896,9 +2554,6 @@ Extend Voting Impact hours is a huge deal for everyone in this economy. Some inc
 
 [https://opengraph.githubassets.com/ab621179814238c769243f394173ea5315cf1c5ac6c36a17a4027bdb187cad20/CommonsBuild/IH-intervention/issues/7](https://opengraph.githubassets.com/ab621179814238c769243f394173ea5315cf1c5ac6c36a17a4027bdb187cad20/CommonsBuild/IH-intervention/issues/7)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -2933,9 +2588,7 @@ While I appreciate this initiative and would otherwise vote for it, I don't thin
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
 JessicaZartler BOT 01-Jul-21 08:52 AM
-Thank you @ygg_anderson @suga
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+Thank you @ygg_anderson @suga <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 I agree and would propose we might need to handle the extension proposal in a separate discussion, remove it, extend voting by a day or two to allow those who voted for it to use their votes for proposals - what do you all think? @liviade
 
@@ -3008,15 +2661,11 @@ Thanks Letty for your thoughts here, definitely! It is very hard in this nascent
 
 [https://www.youtube.com/watch?v=ZIWskNogafg](https://www.youtube.com/watch?v=ZIWskNogafg)
 
-- we are creating a larger working research group with TE academy called the Governauts if you are interested in governance research. No one is an expert and we are exploring in this new space and it is definitely challenging to address this incongruence as you mention but we are learning together and very much appreciate your input
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
+- we are creating a larger working research group with TE academy called the Governauts if you are interested in governance research. No one is an expert and we are exploring in this new space and it is definitely challenging to address this incongruence as you mention but we are learning together and very much appreciate your input <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=20 height=20>
 
 (re @geleeroyale_bot: Letty There's a clash and incongruence between stated values/agreements and the voting/tools to inform and enforce those. Quadratic voting (as expected by academic literature) is a tool to maximize decision efficiency around common resource allocation. It's not and can't be a mechanism to signal preferences around alternative uses or categories.)
 
-[Commons Stack](https://www.youtube.com/channel/UCoyHywZn8YMalyx4ZbvQoyw)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f52d.png" width=50 height=50>
+[Commons Stack](https://www.youtube.com/channel/UCoyHywZn8YMalyx4ZbvQoyw) <img src="https://twemoji.maxcdn.com/2/72x72/1f52d.png" width=20 height=20>
 
 Exploring Polycentric Governance in Web3 Ecosystems Workshop
 
@@ -3024,9 +2673,6 @@ In part one of two workshops, Jeff Emmett, Jessica Zartler, Renzo D'Andrea and L
 
 ![https://i.ytimg.com/vi/ZIWskNogafg/sddefault.jpg](https://i.ytimg.com/vi/ZIWskNogafg/sddefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -3034,9 +2680,6 @@ JessicaZartler BOT 01-Jul-21 03:09 PM
 
 Also would be interesting to see how many individuals voted for each proposal - and add no change vs. change results as well to look at that signal. Interesting to note that 7 individuals voted for #1 and 11 individuals voted for #5. It would be interesting to run a one person one vote process and analyze those results. I like Tamara's idea of using Tokenlog as 1P1V as the whale factor is obviously going to sway the voting - i.e. those stakeholders who have the most praise - the center of the debate - have a larger influence, which is the whole center of the debate in everyone having more equal voice. 1P1V is the way to weigh everyone's voices equally. I don't think we can think about a one and done decision process, but think of this as a signal collection process, that we then integrate. In regards to the run off, my understanding was that this was sense making, then we would look at the voices and integrate into new proposals - i.e. 900 votes signalled they wanted to restore IHs to paid contributors in three similar proposals. This should be figured into the runoff, integrated into a proposal. All that being said, I think we can do it in a time frame that still works for the hatch, but would like to dig further into discussions around the decision space, and doing it in a way that honors the voices of those who cast their votes, and those voices being integrated into runoff proposals - as equal.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
-
-1
 
 <h3>NorthQuotient BOT <img src="https://cdn.discordapp.com/avatars/813769754531201044/c421c86ea8cbc0484fd35e84313a9e38.png" width=25 height=25></h3>
 
@@ -3053,9 +2696,7 @@ Human societies engage in a number of games which use tokens as a means to alloc
 <h3>JessicaZartler <img src="https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png" width=25 height=25></h3>
 
 _01-Jul-21 09:40 PM_:
-@NorthQuotient awesome! Thank you for sharing this paper, looks very interesting! Yes, it will be in September - do you also have Telegram? And I can note your handle down to inform when we have more info on registration - also feel free to DM me your email
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+@NorthQuotient awesome! Thank you for sharing this paper, looks very interesting! Yes, it will be in September - do you also have Telegram? And I can note your handle down to inform when we have more info on registration - also feel free to DM me your email <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -3075,15 +2716,10 @@ _02-Jul-21 10:41 AM_:
 
 Here is a list of token engineers that I presented to boost in praise this quant session: ygg Anderson Andrew Shinichi Raul Martinez Vasily Sumanov Angela Kreitenweis Michael Zargham Jeff Emmett Danilo Bernardinelli Jonathan Gabler Benjamin Scholtz Luke Duncan Trent McConaghey Tannr Allard Ataberk Casur Chris Seifert Cyprien (vntrp) (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>Kojak BOT <img src="https://cdn.discordapp.com/avatars/813769754531201044/d2cfae2cb268ebca0d567ff2b16b2677.png" width=25 height=25></h3>
 
-_02-Jul-21 10:57 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+_02-Jul-21 10:57 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -3103,12 +2739,7 @@ _02-Jul-21 01:22 PM_:
 
 Would like to mention Sebnem Rusitschka, Billy Rennekamp, Anish Mohammed, Michal Monit, Shermin Voshmgir, Kris Paruch, Markus B Koch, Ben Livshits, Shruti Appiah, Jamsheed Shorish, Cassidy Daly, Jamie Burke, Nina-Luisa Siedler, Wassim Alsindi, Dimitri De Jonghe, Paul Kohlhaas, Jason Teutsch here! (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
-Miss a lot of praise for their contributions to TE.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50>
+Miss a lot of praise for their contributions to TE. <img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=20 height=20>
 
 (edited)
 
@@ -3172,9 +2803,6 @@ _04-Jul-21 03:44 AM_:
 
 Mettodo and I will be re-starting the TE Book Club today at UTC+3 Sun, 4 Jul 2021, if anyone is interested in joining. We'll be starting with the first half of Ch 1 of Ostrom's Governing the Commons and logistics of this round. We'll be at the DAO Book Club Discord. [https://discord.com/channels/810180621930070088/810180622165213218/861046719956516874](https://discord.com/channels/810180621930070088/810180622165213218/861046719956516874) (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png](https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png)
 
@@ -3189,9 +2817,7 @@ vikram
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _05-Jul-21 09:58 AM_:
-that's amazing @vikram
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
+that's amazing @vikram <img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=20 height=20>
 
 love the initiative!
 
@@ -3275,13 +2901,8 @@ Soft Gov Agenda - Jul 6th Attendees: mount manu, Anna-Marie, juank, tam, livia, 
 
 _06-Jul-21 01:27 PM_:
 
-Polycentric Governance in Web3 Ecosystems - The Decision Space & Voting Space Workshop Recording: [https://www.youtube.com/watch?v=ZIWskNogafg](https://www.youtube.com/watch?v=ZIWskNogafg)
-
-[Commons Stack](https://www.youtube.com/channel/UCoyHywZn8YMalyx4ZbvQoyw)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f52d.png" width=50 height=50>
-
-Exploring Polycentric Governance in Web3 Ecosystems Workshop
+Polycentric Governance in Web3 Ecosystems - The Decision Space & Voting Space Workshop Recording: 
+[Exploring Polycentric Governance in Web3 Ecosystems Workshop](https://www.youtube.com/watch?v=ZIWskNogafg)
 
 In part one of two workshops, Jeff Emmett, Jessica Zartler, Renzo D'Andrea and Livia Deschermayer of Commons Stack, Block Science, Token Engineering Commons and Change the River, share two frames for governance research and design: The Decision Space & The Voting Space. In these knowledge sharing and interactive sessions, they discuss the import...
 
@@ -3357,13 +2978,9 @@ _07-Jul-21 02:55 AM_:
 
 Created a fully augmented dataset and a proposal to go along with it. I think this distribution looks a lot better than the original. [https://github.com/CommonsBuild/IH-intervention/issues/15](https://github.com/CommonsBuild/IH-intervention/issues/15)
 
-![https://cdn.discordapp.com/attachments/810180622634844205/862225410124414976/unknown.png](https://cdn.discordapp.com/attachments/810180622634844205/862225410124414976/unknown.png)
+![https://cdn.discordapp.com/attachments/810180622634844205/862225410124414976/unknown.png](https://cdn.discordapp.com/attachments/810180622634844205/862225410124414976/unknown.png) <img src="https://twemoji.maxcdn.com/2/72x72/1f332.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f332.png" width=50 height=50>
-
-The Best Intervention: Composite Augmentation
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f332.png" width=50 height=50>
+The Best Intervention: Composite Augmentation <img src="https://twemoji.maxcdn.com/2/72x72/1f332.png" width=20 height=20>
 
 · Issue #15 · Com...
 
@@ -3371,34 +2988,21 @@ Repository for This Proposal 1. Does this proposal address that some categories 
 
 [https://opengraph.githubassets.com/03ab20935494b3b1a459f98a490d5137440e85e11bbd06bc9e340fbf3c5576aa/CommonsBuild/IH-intervention/issues/15](https://opengraph.githubassets.com/03ab20935494b3b1a459f98a490d5137440e85e11bbd06bc9e340fbf3c5576aa/CommonsBuild/IH-intervention/issues/15)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50>
-
-2
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
 _07-Jul-21 10:36 AM_:
-^^ Can be considered an implementation reference for
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
+^^ Can be considered an implementation reference for <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=20 height=20>
 
 praisemageddon
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png](https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png)
 
 ygg_anderson
 
-[^^ Can be considered an implementation reference for  praisemageddon](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
+[^^ Can be considered an implementation reference for  praisemageddon](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3468,9 +3072,7 @@ Can we use this? [https://twitter.com/votewithtally?s=11](https://twitter.com/vo
 
 Tally (@voteWithTally)
 
-Governance vibes
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f5f3.png" width=50 height=50>
+Governance vibes <img src="https://twemoji.maxcdn.com/2/72x72/1f5f3.png" width=20 height=20>
 
 Join the community:
 
@@ -3502,13 +3104,9 @@ _09-Jul-21 11:27 AM_:
 
 _09-Jul-21 11:40 AM_:
 
-[https://github.com/CommonsBuild/IH-intervention/issues/15](https://github.com/CommonsBuild/IH-intervention/issues/15)
+[https://github.com/CommonsBuild/IH-intervention/issues/15](https://github.com/CommonsBuild/IH-intervention/issues/15) <img src="https://twemoji.maxcdn.com/2/72x72/1f332.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f332.png" width=50 height=50>
-
-The Best Intervention: Composite Augmentation
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f332.png" width=50 height=50>
+The Best Intervention: Composite Augmentation <img src="https://twemoji.maxcdn.com/2/72x72/1f332.png" width=20 height=20>
 
 · Issue #15 · Com...
 
@@ -3561,9 +3159,7 @@ I could see your IH on the Praise Quantification sheet
 
 [https://docs.google.com/spreadsheets/d/1qvmwwlUHnQWYc2JQRoE1Qo_IKx6a4CI9ehWIMvkiqFc/edit?pli=1#gid=1582481479](https://docs.google.com/spreadsheets/d/1qvmwwlUHnQWYc2JQRoE1Qo_IKx6a4CI9ehWIMvkiqFc/edit?pli=1#gid=1582481479)
 
-not sure why this isn't part of the IH Distribution Analysis
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+not sure why this isn't part of the IH Distribution Analysis <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 <h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
@@ -3619,15 +3215,9 @@ _11-Jul-21 04:29 PM_:
 
 This is awesome!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 Is this the word_cloud module?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -3651,9 +3241,6 @@ Unpaid Bonus Factor = A person's % of hours deducted out of the total hours they
 
 cause originally the deduction you proposed was 33% (framed as a 50% bonus
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
-
-)
 
 but now a lot of people will be getting a fraction of that
 
@@ -3721,25 +3308,13 @@ Most discord praise dished by-
 
 ![https://cdn.discordapp.com/attachments/810180622634844205/864123325390651412/Most_Praise_Given_by.png](https://cdn.discordapp.com/attachments/810180622634844205/864123325390651412/Most_Praise_Given_by.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-2
 
 Most discord praise received by-
 
 ![https://cdn.discordapp.com/attachments/810180622634844205/864123422077747200/Most_Praised_recieved_by.png](https://cdn.discordapp.com/attachments/810180622634844205/864123422077747200/Most_Praised_recieved_by.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-2
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -3850,9 +3425,7 @@ What can be the different ways to do that? Single token for each utility? (but t
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _14-Jul-21 08:26 AM_:
-Summary of IH intervention and how we are moving forward
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+Summary of IH intervention and how we are moving forward <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 [https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/88?u=liviade](https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/88?u=liviade)
 
@@ -3894,18 +3467,12 @@ Oh nice!!
 
 !praise @metaverde for dropping into the Praise Audit, recording it and dropping the video here all cleaned up!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
 _14-Jul-21 09:32 PM_:
 You are most welcome. If I don't have a conflicting meeting I am always down to record. Also, I can create an alt to do so if needed. I have multiple devices.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f409.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3918,19 +3485,11 @@ maybe @Vyvy-vi has ideas?
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 _15-Jul-21 03:51 PM_:
-I don't know much about ENS
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+I don't know much about ENS <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 (I can try and help)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -3968,9 +3527,7 @@ nice! I'll check this out, thanks!!
 
 Vyvy-vi
 
-[I don't know much about ENS  (I can try and help)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+[I don't know much about ENS  (I can try and help)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4041,9 +3598,7 @@ Hey @Mount Manu @mheuer (Michael) I would like to connect you both! Manu, Michae
 <h3>mheuer (Michael) <img src="https://cdn.discordapp.com/avatars/429611433685417986/a7d2816e62fb6d618fb49e769533ad5c.png" width=25 height=25></h3>
 
 _27-Jul-21 04:13 PM_:
-Hi @Mount Manu
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=50 height=50>
+Hi @Mount Manu <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=20 height=20>
 
 . Great to connect with you! I am working on a project called ArborVote (
 
@@ -4065,9 +3620,7 @@ Thanks @liviade! Pleasure meeting you @mheuer (Michael)! I majored in rhetoric a
 
 mheuer (Michael)
 
-[Hi @Mount Manu  . Great to connect with you! I am working on a project called ArborVote (](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=50 height=50>
+[Hi @Mount Manu  . Great to connect with you! I am working on a project called ArborVote (](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=20 height=20>
 
 [https://arborvote.github.io/ArborVote-docs/](https://arborvote.github.io/ArborVote-docs/)
 
@@ -4097,9 +3650,6 @@ That would be really great!
 
 Yesterday, I created a discord server that is pretty empty so far
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
-
-:
 
 [https://discord.gg/dmdNHV5f](https://discord.gg/dmdNHV5f)
 
@@ -4115,9 +3665,7 @@ _27-Jul-21 04:22 PM_:
 
 Wow, having a rhetorician on board would definitely be a huge plus!
 
-We should have meeting, when you have time.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+We should have meeting, when you have time. <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 The basic idea is to have a decentralized copycat of www.kialo.com ([https://www.kialo.com/should-humans-act-to-fight-climate-change-4540)](https://www.kialo.com/should-humans-act-to-fight-climate-change-4540)) that can be plugged into any DAO or DApp. (edited)
 
@@ -4131,9 +3679,7 @@ There are different ways to confront climate change. Should we fight it, prepare
 
 mheuer (Michael)
 
-[We should have meeting, when you have time.](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[We should have meeting, when you have time.](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>Mount Manu <img src="https://cdn.discordapp.com/avatars/480128711941685289/5574b10c078cce8f404d26d08c2b3cdb.png" width=25 height=25></h3>
 
@@ -4144,9 +3690,7 @@ Short on money but long on time, brother! We can meet later today, tomorrow, or 
 <h3>mheuer (Michael) <img src="https://cdn.discordapp.com/avatars/429611433685417986/a7d2816e62fb6d618fb49e769533ad5c.png" width=25 height=25></h3>
 
 _27-Jul-21 04:29 PM_:
-I am from Germany (UTC+2) and just finished my Ph.D. in theoretical/computational chemistry a couple of weeks ago - so also short on money and long on time
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+I am from Germany (UTC+2) and just finished my Ph.D. in theoretical/computational chemistry a couple of weeks ago - so also short on money and long on time <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -4170,9 +3714,6 @@ GitLab Values
 
 Learn more about how we live our values at GitLab
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 again worth reading
 
@@ -4198,21 +3739,13 @@ Hey folks. If you have the time, I'd love for you to read through my forum post 
 
 DAOs: A Good Fit for All
 
-Thank you! You’re my first TEC forum response
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=50 height=50>
+Thank you! You’re my first TEC forum response <img src="https://twemoji.maxcdn.com/2/72x72/1f483.png" width=20 height=20>
 
 I really appreciate your reflections, that you’re furthering this conversation, and will ponder on your perspective.
 
 ![https://forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png](https://forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4230,9 +3763,6 @@ A Framework for Participatory Decision Making
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-1
 
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
@@ -4282,9 +3812,6 @@ _09-Aug-21 10:48 AM_:
 
 oh i remember, you have to select the gardens role to have access to the commons text channel
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -4405,42 +3932,27 @@ That's really helpful to know, thank you. Sounds fascinating. Looking forward to
 _23-Aug-21 12:24 PM_:
 @New Member I'm in the process of kicking-off a small team to access the TEC Agreements in our handbook and see if they need updating. This could be a great first task. Let me know if you'd like to join. I'm intending to get a first meet set up this week
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png](https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png)
 
 anna-marie
 
-[@New Member I'm in the process of kicking-off a small team to access the TEC Agreements in our handbook and see if they need updating. This could be a great first task. Let me know if you'd like to join. I'm intending to get a first meet set up this week](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[@New Member I'm in the process of kicking-off a small team to access the TEC Agreements in our handbook and see if they need updating. This could be a great first task. Let me know if you'd like to join. I'm intending to get a first meet set up this week](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
 _23-Aug-21 12:27 PM_:
-You can count me in.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f918.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3ff.png" width=50 height=50>
+You can count me in. <img src="https://twemoji.maxcdn.com/2/72x72/1f918.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3ff.png" width=20 height=20>
 
 I have meetings scattered throughout the week I can assist in real time if we meet outside them but can also assist offline as well if it's needed.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png](https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png)
 
 anna-marie
 
-[@New Member I'm in the process of kicking-off a small team to access the TEC Agreements in our handbook and see if they need updating. This could be a great first task. Let me know if you'd like to join. I'm intending to get a first meet set up this week](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[@New Member I'm in the process of kicking-off a small team to access the TEC Agreements in our handbook and see if they need updating. This could be a great first task. Let me know if you'd like to join. I'm intending to get a first meet set up this week](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>storypup <img src="https://cdn.discordapp.com/avatars/110852901919801344/32b1c4735f9d6def5db762aa49e192dd.png" width=25 height=25></h3>
 
@@ -4448,34 +3960,24 @@ _23-Aug-21 04:03 PM_:
 
 I would absolutely be interested. Just a heads up.. my time is fairly limited at the moment but I’ll be taking an extended vacation from work soon.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png](https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png)
 
 anna-marie
 
-[@New Member I'm in the process of kicking-off a small team to access the TEC Agreements in our handbook and see if they need updating. This could be a great first task. Let me know if you'd like to join. I'm intending to get a first meet set up this week](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[@New Member I'm in the process of kicking-off a small team to access the TEC Agreements in our handbook and see if they need updating. This could be a great first task. Let me know if you'd like to join. I'm intending to get a first meet set up this week](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>thiago.rossi <img src="https://cdn.discordapp.com/avatars/815645395191070730/9b9aaebb8329651e34aad47a1d017bf8.png" width=25 height=25></h3>
 
 _23-Aug-21 04:28 PM_:
 I'd love to participate. Just ping me in advance because I've already got some meetings this week.. praise @anna-marie for this iniciative
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png](https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png)
 
 anna-marie
 
-[@New Member I'm in the process of kicking-off a small team to access the TEC Agreements in our handbook and see if they need updating. This could be a great first task. Let me know if you'd like to join. I'm intending to get a first meet set up this week](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[@New Member I'm in the process of kicking-off a small team to access the TEC Agreements in our handbook and see if they need updating. This could be a great first task. Let me know if you'd like to join. I'm intending to get a first meet set up this week](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -4483,9 +3985,6 @@ _24-Aug-21 02:46 AM_:
 
 How many are there, please, @anna-marie ? And is there a timeline for the task? I'm asking because I also need to work with my African colleagues, and have a bad habit of trying to do too many things ... (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -4493,13 +3992,7 @@ _24-Aug-21 02:54 AM_:
 
 Hey @innov8tor3 @storypup @ALOYSIOUS @thiago.rossi Thank you! I'll add you to a group DM later so we can talk through timelines and process for this (both async options and setting up a kick-off call later this week for whoever's available at that time).
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -4552,9 +4045,6 @@ Can someone tell me how long this meeting goes? I'll probably have to hop off at
 _24-Aug-21 02:08 PM_:
 I have to leave. Thank you @liviade for creating space to look at these proposals all together today. The community feedback was very insightful to making the proposals stronger. Thank you everyone that came tonight!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4575,13 +4065,7 @@ liviade
 _25-Aug-21 11:43 AM_:
 We're still organising our first meeting so it won't be done this week. Since many of the team members are navigating the TEC for the first time, I'm thinking this will still take us a couple of weeks so end of next week might be pushing it. Let me share an update once we've met - hopefully we'll have a better idea then of the scope of this and everyone's availability
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4589,9 +4073,6 @@ _25-Aug-21 11:48 AM_:
 
 okay, sounds good, most of the foundation is already there, so I think the flow will happen once everyone is onboard. I'm looking forward to hearing everyone's inputs. :) Would be great to have the call added to the calendar once you have a time set too
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -4602,17 +4083,13 @@ liviade
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
 _26-Aug-21 02:32 AM_:
-You asked for this call to be added to the calendar but I don't know how to do that and not sure I'd have permission to? We're meeting at 3pm CET tomorrow, Friday, if you'd like to add it?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+You asked for this call to be added to the calendar but I don't know how to do that and not sure I'd have permission to? We're meeting at 3pm CET tomorrow, Friday, if you'd like to add it? <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png](https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png)
 
 anna-marie
 
-[You asked for this call to be added to the calendar but I don't know how to do that and not sure I'd have permission to? We're meeting at 3pm CET tomorrow, Friday, if you'd like to add it?](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+[You asked for this call to be added to the calendar but I don't know how to do that and not sure I'd have permission to? We're meeting at 3pm CET tomorrow, Friday, if you'd like to add it?](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -4632,9 +4109,6 @@ _26-Aug-21 03:05 PM_:
 
 Thank you! Done
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png" width=50 height=50>
-
-1
 
 <h3>anna-marie <img src="https://cdn.discordapp.com/avatars/772107197240311848/07f8e619ff93a97d96873d268ed66897.png" width=25 height=25></h3>
 
@@ -4645,9 +4119,7 @@ A non urgent thought: reading through The Cultural Build page of the handbook ([
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
 _31-Aug-21 07:34 AM_:
-Hello Soft-govers ... looking for feedback There is a part of the TEC Agreements that I'm going over I was hoping to get some
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+Hello Soft-govers ... looking for feedback There is a part of the TEC Agreements that I'm going over I was hoping to get some <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 's on. I know zilch about what I have circled...I read this and went okay tollgate fees can come back if something is installed...what happens if it isn't?
 
@@ -4674,9 +4146,7 @@ Tuesday, 7pm CET
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _31-Aug-21 01:31 PM_:
-@griff (💜, 💜) I like your hand-heart profile pic
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+@griff (💜, 💜) I like your hand-heart profile pic <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 (shows up on the proposal discussions)
 
@@ -4700,9 +4170,7 @@ _31-Aug-21 01:54 PM_:
 
 Pre-Hatch Impact Hours Distribution Analysis
 
-Great points and important considerations, thanks for the post @durgadas!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+Great points and important considerations, thanks for the post @durgadas! <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 I am about a quarter way through Punished By Rewards, and what I have taken away thus far on Alfie’s view on incentives is that: A. they work (as evidenced through the study of token economies), but B. they give a lot of power to the people setting the incentives, wh...
 
@@ -4711,17 +4179,13 @@ I am about a quarter way through Punished By Rewards, and what I have taken away
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _02-Sep-21 01:54 PM_:
-Hey softgov folks, would someone from the wg be willing to do a "fireside chat" regarding softgov progress with rewarding contributions using praise to the stacks foundation community? @griff (💜, 💜) @Tam2140 @Suga @Juankbell come to mind! This is in the idea stage and the scheduling pressure is not meant to be high - low key one-off in the fall? The invitation is coming from the governance wg/emerging governance lab initiative
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Hey softgov folks, would someone from the wg be willing to do a "fireside chat" regarding softgov progress with rewarding contributions using praise to the stacks foundation community? @griff (💜, 💜) @Tam2140 @Suga @Juankbell come to mind! This is in the idea stage and the scheduling pressure is not meant to be high - low key one-off in the fall? The invitation is coming from the governance wg/emerging governance lab initiative <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png](https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png)
 
 ryeder (they/them)
 
-[Hey softgov folks, would someone from the wg be willing to do a "fireside chat" regarding softgov progress with rewarding contributions using praise to the stacks foundation community? @griff (💜, 💜) @Tam2140 @Suga @Juankbell come to mind! This is in the idea stage and the scheduling pressure is not meant to be high - low key one-off in the fall? The invitation is coming from the governance wg/emerging governance lab initiative](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[Hey softgov folks, would someone from the wg be willing to do a "fireside chat" regarding softgov progress with rewarding contributions using praise to the stacks foundation community? @griff (💜, 💜) @Tam2140 @Suga @Juankbell come to mind! This is in the idea stage and the scheduling pressure is not meant to be high - low key one-off in the fall? The invitation is coming from the governance wg/emerging governance lab initiative](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4729,24 +4193,17 @@ _03-Sep-21 02:04 PM_:
 
 hey @ryeder (they/them) this is awesome, very aligned with the governauts panel on reward systems, I sent you a DM :) (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png](https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png)
 
 ryeder (they/them)
 
-[@griff (💜, 💜) I like your hand-heart profile pic  (shows up on the proposal discussions)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[@griff (💜, 💜) I like your hand-heart profile pic  (shows up on the proposal discussions)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
 _04-Sep-21 01:24 PM_:
-Thx
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+Thx <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 I cant remember who asked... but this is a great example of a vote that would benefit from ranked choice voting: [https://forum.giveth.io/t/reallocate-all-eth-in-giveth-dac-on-trace-for-reg-rewards/102/2](https://forum.giveth.io/t/reallocate-all-eth-in-giveth-dac-on-trace-for-reg-rewards/102/2)
 
@@ -4761,34 +4218,20 @@ You can choose multiple choices… was that intended? Off-Topic This is a great 
 _06-Sep-21 10:42 AM_:
 Hey @liviade The super star contributors that have been working on the TEC agreements are @ZER8🧠 @innov8tor3 @thiago.rossi @ALOYSIOUS @storypup @Mettodo and @Zeptimus
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 <h3>ZER8🧠 <img src="https://cdn.discordapp.com/avatars/373871853019594752/0ab76041380ae397aaecd68017b9aaf1.png" width=25 height=25></h3>
 
 _06-Sep-21 11:24 AM_:
-Ah @anna-marie you are too kind
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Ah @anna-marie you are too kind <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _06-Sep-21 04:12 PM_:
 
-[https://www.youtube.com/watch?v=HXbsVbFAczg](https://www.youtube.com/watch?v=HXbsVbFAczg)
 
-[TED](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug)
-
-How to build a company where the best ideas win - Ray Dalio
+[How to build a company where the best ideas win - Ray Dalio](https://www.youtube.com/watch?v=HXbsVbFAczg)
 
 What if you knew what your coworkers really thought about you and what they were really like? Ray Dalio makes the business case for using radical transparency and algorithmic decision-making to create an idea meritocracy where people can speak up and say what they really think -- even calling out the boss is fair game. Learn more about how these...
 
@@ -4816,9 +4259,7 @@ I was kind of saying the same thing yesterday to @Edu - TEC Steward. , and my un
 
 ALOYSIOUS
 
-[Hello Soft-govers ... looking for feedback There is a part of the TEC Agreements that I'm going over I was hoping to get some  's on. I know zilch about what I have circled...I read this and went okay tollgate fees can come back if something is installed...what happens if it isn't?](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+[Hello Soft-govers ... looking for feedback There is a part of the TEC Agreements that I'm going over I was hoping to get some  's on. I know zilch about what I have circled...I read this and went okay tollgate fees can come back if something is installed...what happens if it isn't?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 Does the answer to that need to live in this document or is this question irrelevant?
 
@@ -4900,9 +4341,6 @@ _14-Sep-21 02:02 PM_:
 
 Good call @ZER8🧠
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png](https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png)
 
@@ -4913,9 +4351,7 @@ metaverde
 <h3>ZER8🧠 <img src="https://cdn.discordapp.com/avatars/373871853019594752/0ab76041380ae397aaecd68017b9aaf1.png" width=25 height=25></h3>
 
 _14-Sep-21 02:04 PM_:
-I joined a lot of calls here
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+I joined a lot of calls here <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
@@ -4923,9 +4359,6 @@ _14-Sep-21 02:18 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844205/887401826570354710/01Qcsr1ImPmuV5Lum_2.png](https://cdn.discordapp.com/attachments/810180622634844205/887401826570354710/01Qcsr1ImPmuV5Lum_2.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png" width=50 height=50>
-
-1
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -5028,9 +4461,6 @@ A couple questions that come up while listening to the negative feedback: 1. Doe
 _21-Sep-21 01:24 PM_:
 @liviade I forgot to add my ideas about pace and slowing down to my share if you don't mind adding them to the notes later
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f607.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5070,21 +4500,13 @@ _22-Sep-21 05:00 AM_:
 
 ![https://pbs.twimg.com/profile_images/1414342475896999936/2qENlEL4_bigger.jpg](https://pbs.twimg.com/profile_images/1414342475896999936/2qENlEL4_bigger.jpg)
 
-[Institut Ostrom Catalunya (@InstitutOstrom)](https://twitter.com/InstitutOstrom)
+[Institut Ostrom Catalunya (@InstitutOstrom)](https://twitter.com/InstitutOstrom) <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50>
+#OstromDay <img src="https://twemoji.maxcdn.com/2/72x72/1f5a5.png" width=20 height=20>
 
-#OstromDay
+️ Online summit <img src="https://twemoji.maxcdn.com/2/72x72/1f5d3.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f5a5.png" width=50 height=50>
-
-️ Online summit
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f5d3.png" width=50 height=50>
-
-️ September 23rd
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f553.png" width=50 height=50>
+️ September 23rd <img src="https://twemoji.maxcdn.com/2/72x72/1f553.png" width=20 height=20>
 
 10:00-14:00 (ET) / 16:00-20:00 (CEST) Join some of the most prominent scholars across borders to discuss Ostrom's contributions to today's most pressing challenges!
 
@@ -5094,16 +4516,11 @@ _22-Sep-21 05:00 AM_:
 
 Twitter • 07-Sep-21 04:06 AM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png" width=50 height=50>
-
-2
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _22-Sep-21 01:06 PM_:
-maybe slowing down is important to get the right people in the room to make the decisions
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+maybe slowing down is important to get the right people in the room to make the decisions <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png](https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png)
 
@@ -5131,9 +4548,6 @@ _23-Sep-21 01:53 PM_:
 
 @liviade yeah! I think its really important to focus on voting rituals to improve Voting participation. I'll send you some ideas I have!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5147,9 +4561,6 @@ _23-Sep-21 03:19 PM_:
 
 I've cleaned up most of the suggested edits in the glossary and added a few edits/comments myself, but had a few general questions about the glossary
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 “More Info” vs “Deep Dive” “More Info” indicates a link to a source external to TEC while “Deep Dive” links are to the TEC forum posts. Do we want to keep this distinction or is it okay to have all the additional links be “More Info”? Abbreviations (DAO & DeFi) I typically use the non-abbreviated form the first time the term is used. Do we prefer DAO (decentralized autonomous organization) or Decentralized Autonomous Organization (DAO)?
 
@@ -5183,15 +4594,10 @@ Ideas on creating Voting Rituals So, the intention of these ideas are to create 
 
 [https://lh4.googleusercontent.com/n70Xd1ZDv8IQIz4l5wepw1aGr0rXUPBLNLhwDYQDshz-9PGt9m3jX0dBtafJO1ikwJAlyXNojIlDSg=w1200-h630-p](https://lh4.googleusercontent.com/n70Xd1ZDv8IQIz4l5wepw1aGr0rXUPBLNLhwDYQDshz-9PGt9m3jX0dBtafJO1ikwJAlyXNojIlDSg=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f918.png" width=50 height=50>
-
-2
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
-_27-Sep-21 10:11 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6a8.png" width=50 height=50>
+_27-Sep-21 10:11 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f6a8.png" width=20 height=20>
 
 Last hours to vote on the 75% Giveback proposal
 
@@ -5201,9 +4607,7 @@ Last hours to vote on the 75% Giveback proposal
 
 liviade
 
-[ Last hours to vote on the 75% Giveback proposal](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6a8.png" width=50 height=50>
+[ Last hours to vote on the 75% Giveback proposal](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f6a8.png" width=20 height=20>
 
 [https://snapshot.org/#/tecommons.eth/proposal/Qmcbkz5vL9XW1LqhvoKQqLeP8wfToHkTQZjMYvuXxozB5j](https://snapshot.org/#/tecommons.eth/proposal/Qmcbkz5vL9XW1LqhvoKQqLeP8wfToHkTQZjMYvuXxozB5j)
 
@@ -5281,9 +4685,6 @@ _27-Sep-21 01:50 PM_:
 
 yep, making one as well. You can always ask suggestions for topics too
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5303,9 +4704,6 @@ _27-Sep-21 03:26 PM_:
 
 as of this moment, no i am not. just getting the details. i probably don't have time to prepare an agenda for tomorrow for an org i am still beginning to understand with my current workload. with orgs i know better i can do it in my sleep, lol.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -5316,25 +4714,17 @@ liviade
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _27-Sep-21 04:09 PM_:
-I wonder if it would help to continue to work on what we were doing last week by:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f539.png" width=50 height=50>
+I wonder if it would help to continue to work on what we were doing last week by: <img src="https://twemoji.maxcdn.com/2/72x72/1f539.png" width=20 height=20>
 
 spending some time
 
 **empathising**
 
-with the user types who are having those problems that were listed last call by making an empathy map and example user journeys. This helps us discover where they're experiencing problems and how frustrating it is
+with the user types who are having those problems that were listed last call by making an empathy map and example user journeys. This helps us discover where they're experiencing problems and how frustrating it is <img src="https://twemoji.maxcdn.com/2/72x72/1f539.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f539.png" width=50 height=50>
+Then we can find the areas/functionality/features causing those problems at this time <img src="https://twemoji.maxcdn.com/2/72x72/1f539.png" width=20 height=20>
 
-Then we can find the areas/functionality/features causing those problems at this time
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f539.png" width=50 height=50>
-
-Then we can start thinking of how we can improve those functionalities by turning the problem statement to "How could we.."
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f539.png" width=50 height=50>
+Then we can start thinking of how we can improve those functionalities by turning the problem statement to "How could we.." <img src="https://twemoji.maxcdn.com/2/72x72/1f539.png" width=20 height=20>
 
 From the "How could we.." statements, generate ideas on how to solve the problems (edited)
 
@@ -5342,13 +4732,7 @@ empathy map I talked about above^
 
 ![https://cdn.discordapp.com/attachments/810180622634844205/892141432054378557/Empathy_Map_Canvas.png](https://cdn.discordapp.com/attachments/810180622634844205/892141432054378557/Empathy_Map_Canvas.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -5366,9 +4750,7 @@ Thanks for the feedback!
 
 nic
 
-[I wonder if it would help to continue to work on what we were doing last week by:  spending some time **empathising** with the user types who are having those problems that were listed last call by making an empathy map and example user journeys. This helps us discover where they're experiencing problems and how frustrating it is  Then we can find the areas/functionality/features causing those problems at this time  Then we can start thinking of how we can improve those functionalities by turning the problem statement to "How could we.."  From the "How could we.." statements, generate ideas on how to solve the problems  (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f539.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f539.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f539.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f539.png" width=50 height=50> <img src="$5" width=50 height=50>
+[I wonder if it would help to continue to work on what we were doing last week by:  spending some time **empathising** with the user types who are having those problems that were listed last call by making an empathy map and example user journeys. This helps us discover where they're experiencing problems and how frustrating it is  Then we can find the areas/functionality/features causing those problems at this time  Then we can start thinking of how we can improve those functionalities by turning the problem statement to "How could we.."  From the "How could we.." statements, generate ideas on how to solve the problems  (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f539.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f539.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f539.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f539.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5474,13 +4856,7 @@ _04-Oct-21 02:28 AM_:
 
 We are actually needing a lot of help with Illustrations/diagrams. Perhaps @liviade could advise you on the specific needs (particularly to our decision-making process) we have!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/0.png](https://cdn.discordapp.com/embed/avatars/0.png)
 
@@ -5517,16 +4893,12 @@ spoiler... Mitch is coming to costa rica TONIGHT!
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _05-Oct-21 01:45 PM_:
-i'm so into what y'all are doing with this doc and getting things figured out with decision making . . . and i'm also wary of TEC re-inventing the wheel. like, can we find collaborators to help facilitate decision making processes that don't have a high level of context and are just there to guide us through the decision obstacle course? i'm not ready yet but i know that my DAO will be a facilitators guild and i'm really excited about it
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
+i'm so into what y'all are doing with this doc and getting things figured out with decision making . . . and i'm also wary of TEC re-inventing the wheel. like, can we find collaborators to help facilitate decision making processes that don't have a high level of context and are just there to guide us through the decision obstacle course? i'm not ready yet but i know that my DAO will be a facilitators guild and i'm really excited about it <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=20 height=20>
 
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
 _05-Oct-21 01:59 PM_:
-I'm jumping out of the call to help on Gravity!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+I'm jumping out of the call to help on Gravity! <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -5546,9 +4918,6 @@ _07-Oct-21 02:22 PM_:
 
 @liviade maybe there can be an announcement about how praise works now if it's different? not sure what i'm asking since i missed what griff said
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5562,13 +4931,7 @@ _07-Oct-21 02:23 PM_:
 
 !praise @ALOYSIOUS for connecting the communities i love being a part of shoutout to Stacks, ShineDAO, TEC, and SourceCred
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1fac2.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -5582,9 +4945,6 @@ _07-Oct-21 02:23 PM_:
 
 I think i figured it out. I def have thoughts about it, lol
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -5618,9 +4978,6 @@ liberatingstructures.com
 
 This is a great soft governance tool to use in meeting places. We do some of these things already but adding some intelligence, insight and structure to our meetings would be a great thing, I think
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -5688,9 +5045,6 @@ _12-Oct-21 01:15 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844205/897532903389540352/photo_2021-05-09_02-20-29.jpg](https://cdn.discordapp.com/attachments/810180622634844205/897532903389540352/photo_2021-05-09_02-20-29.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 [https://www.success.com/sharma-the-8-forms-of-wealth/](https://www.success.com/sharma-the-8-forms-of-wealth/)
 
@@ -5703,9 +5057,7 @@ Editor’s note: This is the fifth in the series of Robin Sharma blog posts for 
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
 _12-Oct-21 01:32 PM_:
-Some of the transformational actions we are trying to have in place to manage conflict
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Some of the transformational actions we are trying to have in place to manage conflict <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234](https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234)
 
@@ -5715,9 +5067,6 @@ Guidelines for identifying the scale of conflicts and graduated sanctions in the
 
 ![https://forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png](https://forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -5877,9 +5226,6 @@ yeah!
 
 i misunderstood i though you were suggesting an extra step thats why i said its unecessary, but no in my opinion this is important so people know what they really voting for
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -5919,9 +5265,6 @@ _26-Oct-21 10:48 AM_:
 
 Hey all! Just FYI that @Vyvy-vi and I are testing out the new call announcement bot today and will be doing a test run with the Comms and SoftGov weekly calls today.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png](https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png)
 
@@ -5965,13 +5308,7 @@ Every week on Tuesday UTC
 
 📝 Edit - Created by Tam2140
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=50 height=50>
-
-1
 
 <h3>sesh BOT <img src="https://cdn.discordapp.com/avatars/616754792965865495/f1935ce8c4308521474149eeb8a51888.png" width=25 height=25></h3>
 
@@ -5984,9 +5321,7 @@ It will end at <t:1635271200:t> (<t:1635271200:R>) **[Event Details](https://dis
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _26-Oct-21 01:04 PM_:
-I love when @Juankbell shares fables
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+I love when @Juankbell shares fables <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 (edited)
 
@@ -6001,9 +5336,7 @@ _26-Oct-21 01:30 PM_:
 
 [https://forum.tecommons.org/t/transparency-audit-report-a-new-approach/673](https://forum.tecommons.org/t/transparency-audit-report-a-new-approach/673)
 
-we could colaborate and make it better
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50>
+we could colaborate and make it better <img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=20 height=20>
 
 Transparency Audit Report - A New Approach
 
@@ -6041,13 +5374,7 @@ Every week on Tuesday UTC
 
 📝 Edit - Created by Tam2140
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -6117,9 +5444,6 @@ _01-Nov-21 12:42 PM_:
 
 hi Graial! welcome and thanks for joining us in this work, really appreciate it!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 the people who have done most quants are @Zeptimus @Edu - TEC Steward. @Juankbell @natesuits @griff (💜, 💜) and myself
 
@@ -6143,9 +5467,6 @@ Crypto Cities
 
 ![http://vitalik.ca/images/icon.png](http://vitalik.ca/images/icon.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-1
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -6203,13 +5524,7 @@ Attendees (0)
 
 ✅ RSVP - 📝 Edit - Created by Tam2140
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -6261,20 +5576,12 @@ Attendees (0)
 
 ✅ RSVP - 📝 Edit - Created by Tam2140
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=50 height=50>
-
-1
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _09-Nov-21 02:02 PM_:
-I'm so sad i missed today's meeting due to time zone confusion
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=50 height=50>
+I'm so sad i missed today's meeting due to time zone confusion <img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=20 height=20>
 
 <h3>Cesar <img src="https://cdn.discordapp.com/avatars/548965307817918479/698360cb4d1e6632558297faa8bdaf09.png" width=25 height=25></h3>
 
@@ -6282,9 +5589,6 @@ _09-Nov-21 11:13 PM_:
 
 Hello everyone! Just want to introduce myself. I've been down the DAO rabbit hole for the last month or and really like what you are building. One of my objectives is use DAOs to get people more politically engaged so they can organize at the local and state level. A little bit about myself: I'm a co-founder of a nonprofit, Move Nevada Forward, that uses sociocratic (S3) governance. Our vision is to create a human-centered economy for all Nevadans. We stemmed from the Andrew Yang campaign so I'm a huge advocate for UBI, Open Primaries + Ranked-Choice Voting, etc. A lot of the principles S3 holds are similar to how you guys run things which I really like. On top of that I have 9 years of experience as a production supervisor so I've been fascinated by the concept of governance for a bit. That's kinda why I'm interested in this group (plus others lol) I will be at the TEC orientation tomorrow and next week's weekly call. Super happy to help in any way I can as I learn more. Cheers!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/548965307817918479/698360cb4d1e6632558297faa8bdaf09.png](https://cdn.discordapp.com/avatars/548965307817918479/698360cb4d1e6632558297faa8bdaf09.png)
 
@@ -6297,9 +5601,6 @@ Cesar
 _10-Nov-21 12:16 PM_:
 Welcome!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/548965307817918479/698360cb4d1e6632558297faa8bdaf09.png](https://cdn.discordapp.com/avatars/548965307817918479/698360cb4d1e6632558297faa8bdaf09.png)
 
@@ -6313,9 +5614,6 @@ _10-Nov-21 09:00 PM_:
 
 That’s awesome @Cesar it will be great to have your expertise in our discussions ✨ welcome!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -6380,9 +5678,7 @@ innov8tor3
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 _13-Nov-21 08:11 AM_:
-Nov 22 5pm CET we could also do some catch up async
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+Nov 22 5pm CET we could also do some catch up async <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/548965307817918479/698360cb4d1e6632558297faa8bdaf09.png](https://cdn.discordapp.com/avatars/548965307817918479/698360cb4d1e6632558297faa8bdaf09.png)
 
@@ -6396,21 +5692,13 @@ _14-Nov-21 02:05 AM_:
 
 Thanks for asking! My project involves 5 or 6 Africans needing access to power and the web. Solar panels are the obvious answer, there are several web options where I need to learn more. Once a solution like this is in place, our project leaders can begin to generate local value, and indeed even start paying back investment funds, on a trickle feed basis. So the plan is that everyone benefits. We have specified the SDG monitoring and reporting needed, and there's a process to find and encourage corporate CSR schemes to donate, on a 50 household basis to give real impact for the investment sum. To summarise, this is good for everyone, will take some hard work, but some of the early spade work has been done. I gather the difficulty is in fostering good final mile relationships, and that is the thing I have done with those local African project leaders. They know what is expected of them, and are willing to work with folk in the cloud who want to give back. What I get out of that is primarily personal satisfaction, doing something for others that is worth doing. I'm both willing and able to give back, just hampered a little by lack of personal resources. But I'm a decent networker and team player, and hoping to use those skills to compensate. Hence my interest in DAOs. TEC I see as a leading example, although I've only looked at 4 or 5 so far, and there's at least 130, probably more. I also energised a FB community for two and a bit years, always wanting to get to a collaborative next step, but that community wasn't quite so conducive to collaboration. This was rather odd, given its strong Systems Thinking connection with complicated and complex processes. So DAOs are a next step for me, and with huge potential for reinventing employment altogether. Employment 2.0, which we can also describe as collaborative employment, not hierarchical employment. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
 
 Zeptimus
 
-[Nov 22 5pm CET we could also do some catch up async](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[Nov 22 5pm CET we could also do some catch up async](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -6418,9 +5706,6 @@ _14-Nov-21 02:19 AM_:
 
 In my diary! I'll show up and see where we go from there.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f90e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/548965307817918479/698360cb4d1e6632558297faa8bdaf09.png](https://cdn.discordapp.com/avatars/548965307817918479/698360cb4d1e6632558297faa8bdaf09.png)
 
@@ -6446,9 +5731,6 @@ _14-Nov-21 04:57 PM_:
 
 That's awesome! My idea is to create the Final-Five Voting DAO. Its mission is to pass FFV in the US by supporting grassroots efforts. The DAO will provide training and resources to local volunteers who participate in these efforts. I'm very interested in using the Commons Stack, along with other tools, since it's aligned with how I want to grow this community. Currently most of the money that is spend on campaigns or nonprofits go to bureaucrats, overhead, paid media, consultants and all types of crooks. The FFV DAO will give donors the opportunity to invest money for a cause they believe in and have a say where that money is spent. At the same, the people who phonebank, canvass, table, give out flyers and do the groundwork will be compensated and have a seat at the table. This will be ideal for young people who have the time and passion but too often aren't compensated fairly. Another objective of the DAO is to become a platform where we train community organizers so they can make an impact in their local elections beyond this policy. The idea is to train so they use our template to organize for other causes. Right now there are several efforts in the US to pass FFV, including Nevada, California, Florida, South Carolina and many others. The problem is that everyone is working in silos. The FFV DAO will allow us to share resources and use our collective intelligence to pass these ballot initiatives much faster. This will also allow others states to learn from us and speed up the process altogether. If the FFV DAO is successful in passing some of these ballot initiatives it will legitimize DAOs and help to mainstream them even further. Everyone in the US can sense that our country is spiraling out of control and we need to make some changes to our current system.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e2.png" width=50 height=50>
-
-1
 
 <h3>sesh BOT <img src="https://cdn.discordapp.com/avatars/616754792965865495/f1935ce8c4308521474149eeb8a51888.png" width=25 height=25></h3>
 
@@ -6473,9 +5755,7 @@ _16-Nov-21 01:10 PM_:
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _16-Nov-21 01:18 PM_:
-this question is a direct correlation to enneagram types
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
+this question is a direct correlation to enneagram types <img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=20 height=20>
 
 i love it - hmu if you like talking about enneagram, Thanks! ✨
 
@@ -6489,9 +5769,6 @@ The Yoga of Action - The Philosophy of the Bhagavadgita - Chapter 8
 
 Chapter
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -6500,17 +5777,12 @@ I'm nervous about it but I started this doc to educate about multisig and to doc
 
 [https://www.notion.so/Multisig-Explained-80590046a0164ae590da8430b6a408d5](https://www.notion.so/80590046a0164ae590da8430b6a408d5)
 
-It's open for editing too, but perhaps we could use it realtime sometime? I'm still drafting it
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+It's open for editing too, but perhaps we could use it realtime sometime? I'm still drafting it <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 Multisig: Explained
 
 Background
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f512.png" width=50 height=50>
-
-1
 
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
@@ -6574,13 +5846,7 @@ Every week on Tuesday UTC
 
 📝 Edit - Created by Tam2140
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/548965307817918479/698360cb4d1e6632558297faa8bdaf09.png](https://cdn.discordapp.com/avatars/548965307817918479/698360cb4d1e6632558297faa8bdaf09.png)
 
@@ -6606,9 +5872,6 @@ _17-Nov-21 05:57 AM_:
 
 Hey Cesar, I love to follow what you are doing. Trying to learn how DAO is being applied in many aspects of society.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -6628,9 +5891,6 @@ _22-Nov-21 07:05 PM_:
 
 I like where your head is at. Definitely a good idea to incentivise people to spread the word.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png](https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png)
 
@@ -6644,9 +5904,6 @@ _22-Nov-21 07:08 PM_:
 
 I would definitely love to at some point. For now I don't want to share it publicly because I don't think it's ready. maybe it's the perfectionist in me or the fact I know how little I know so don't want to embarrass myself lol But if anyone really wants to see I wouldn't mind sharing it in a more private setting.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fc.png" width=50 height=50>
-
-1
 
 <h3>sesh BOT <img src="https://cdn.discordapp.com/avatars/616754792965865495/f1935ce8c4308521474149eeb8a51888.png" width=25 height=25></h3>
 
@@ -6680,9 +5937,6 @@ Implementing Ostrom's Principles into the TEC
 
 ![https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ.png?color=%23FD40FE&logo=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MRe_M_mUIIB11A-MQyZ%252Favatar-rectangle-1616086536325.png%3Fgeneration%3D1616086536797603%26alt%3Dmedia&theme=dark](https://app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ.png?color=%23FD40FE&logo=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MRe_M_mUIIB11A-MQyZ%252Favatar-rectangle-1616086536325.png%3Fgeneration%3D1616086536797603%26alt%3Dmedia&theme=dark)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>Cesar <img src="https://cdn.discordapp.com/avatars/548965307817918479/698360cb4d1e6632558297faa8bdaf09.png" width=25 height=25></h3>
 
@@ -6701,15 +5955,10 @@ What is an OKR? Definition and Examples
 <h3>logonaut.eth <img src="https://cdn.discordapp.com/avatars/371363241512927232/6db4f0c706bd82172502c35559c105a2.png" width=25 height=25></h3>
 
 _23-Nov-21 02:01 PM_:
-Apologies for the mic troubles, but thanks very much for all the thoughtful insights shared, everyone. I still have a lot to delve into exploring Ostrim's work and of course I'm quite new to TEC, but I still very much appreciate today's exercises. The latter one, in particular, can be great for helping to educate newcomers like me about Ostrim's principles and how they underpin the culture of TEC and relate to its day-to-day operations and long-term mission, vision, and goals
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
+Apologies for the mic troubles, but thanks very much for all the thoughtful insights shared, everyone. I still have a lot to delve into exploring Ostrim's work and of course I'm quite new to TEC, but I still very much appreciate today's exercises. The latter one, in particular, can be great for helping to educate newcomers like me about Ostrim's principles and how they underpin the culture of TEC and relate to its day-to-day operations and long-term mission, vision, and goals <img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=20 height=20>
 
 Cheers!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/548965307817918479/698360cb4d1e6632558297faa8bdaf09.png](https://cdn.discordapp.com/avatars/548965307817918479/698360cb4d1e6632558297faa8bdaf09.png)
 
@@ -6723,13 +5972,7 @@ _25-Nov-21 03:07 AM_:
 
 Maybe you can take some comfort from Socrates? He said basically that no one knows everything. A latter day version is "all of us know more than any of us". What is important to be among friends who you know already know this, and where those friends accept that we are all always incomplete. Does this help?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49e.png" width=50 height=50>
 
-4
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -6758,9 +6001,7 @@ measuring health - sleep / am i getting it? does not matter where i put it, is i
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _30-Nov-21 01:22 PM_:
-Need to leave early for town hall at Sourcecred. thank you everyone
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+Need to leave early for town hall at Sourcecred. thank you everyone <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 From *Somatic Psychotherapy Toolbox* by Manuela Mischke-Reeds
 
@@ -6772,9 +6013,6 @@ From *Somatic Psychotherapy Toolbox* by Manuela Mischke-Reeds
 
 ![https://cdn.discordapp.com/attachments/810180622634844205/915307747464056882/wk4.jpeg](https://cdn.discordapp.com/attachments/810180622634844205/915307747464056882/wk4.jpeg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 - Interested in param party.... byyeeee
 
@@ -6796,9 +6034,6 @@ _30-Nov-21 01:31 PM_:
 
 Gotta scoot now, town hall... thank you for the check ins everyone.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -6829,9 +6064,7 @@ mitch (🍔, 🍔)
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
 _02-Dec-21 10:53 AM_:
-@liviade what's the best way to get
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+@liviade what's the best way to get <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 on this?
 
@@ -6841,9 +6074,7 @@ or did you simply want to do it during your regular softgov call?
 
 mitch (🍔, 🍔)
 
-[@liviade what's the best way to get  on this?](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+[@liviade what's the best way to get  on this?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -6853,9 +6084,6 @@ ops, this fell off my radar, thanks for pming :)
 
 Today we'll have a soft gov focused param party in the time of our usual meeting! COME IT WILL BE FUN
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -6871,9 +6099,7 @@ Design a Commons and propose it to the TEC community.
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
-_07-Dec-21 01:13 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4cc.png" width=50 height=50>
+_07-Dec-21 01:13 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f4cc.png" width=20 height=20>
 
 I believe when we redistribute power the power dynamics still exist they have just been shifted.
 
@@ -6889,9 +6115,6 @@ I was amazed about how aligned this is with TEC
 
 ![https://cdn.discordapp.com/attachments/810180622634844205/917843514455375902/trauma_informed_approach.jpg](https://cdn.discordapp.com/attachments/810180622634844205/917843514455375902/trauma_informed_approach.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 The final section is less seen by my reckoning
 
@@ -6907,9 +6130,6 @@ What is the overall Commons Configuration strategy? We tried to make a proposal 
 
 [https://opengraph.githubassets.com/4360e7f981cab5a1b3dbcc078329a54c72a4248f4503aaaa7d201bb0dc475d8d/CommonsBuild/commons-config-proposals/issues/110](https://opengraph.githubassets.com/4360e7f981cab5a1b3dbcc078329a54c72a4248f4503aaaa7d201bb0dc475d8d/CommonsBuild/commons-config-proposals/issues/110)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 <h3>natesuits <img src="https://cdn.discordapp.com/avatars/417979381332443136/d145fdbe6fea9d40b4a5e729859a2a2f.png" width=25 height=25></h3>
 
@@ -6923,9 +6143,6 @@ Sheet1 Proposal Title (Fork of),Module #1,Module #2,Module 3,Module 4 Token Free
 
 [https://lh5.googleusercontent.com/xGeg0Y3P61blpfbliut80cQ7YUDFbCFVY_HK7b39PF0smSEUPE9zDwlZy3LQKi0tSAXjkEvFyuaNZQ=w1200-h630-p](https://lh5.googleusercontent.com/xGeg0Y3P61blpfbliut80cQ7YUDFbCFVY_HK7b39PF0smSEUPE9zDwlZy3LQKi0tSAXjkEvFyuaNZQ=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-2
 
 ^Still working on getting it.
 
@@ -6976,9 +6193,7 @@ natesuits
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 _15-Dec-21 08:33 AM_:
-Holy
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4a9.png" width=50 height=50>
+Holy <img src="https://twemoji.maxcdn.com/2/72x72/1f4a9.png" width=20 height=20>
 
 !!! This is tremendous.
 
@@ -7012,9 +6227,6 @@ _15-Dec-21 12:12 PM_:
 
 Building on @natesuits sheet, I've started adding in some explanatory categories that might be helpful to give a "at a glance" summary of each set of params. The categories are relative the whole set of proposals.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 [https://docs.google.com/spreadsheets/d/1MWc-g6chVFOwQhl_oKrKU1Kv742lVzONQwQBPwjHgiE/edit#gid=0](https://docs.google.com/spreadsheets/d/1MWc-g6chVFOwQhl_oKrKU1Kv742lVzONQwQBPwjHgiE/edit#gid=0)
 
@@ -7024,9 +6236,6 @@ Sheet1 Proposal Title,Module #1 TOKEN FREEZE & TOKEN THAW,Module #2 AUGMENTED BO
 
 [https://lh6.googleusercontent.com/Y0w42IZX3eX-rUtaTl7cd_FNcPk1gp3-0zzEa-rAhTareOL0aTmPL2ZoEGl-vaLi9qaQlWqvIEkU6w=w1200-h630-p](https://lh6.googleusercontent.com/Y0w42IZX3eX-rUtaTl7cd_FNcPk1gp3-0zzEa-rAhTareOL0aTmPL2ZoEGl-vaLi9qaQlWqvIEkU6w=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 It's ugly in a spreadsheet but I was going for something like this...
 
@@ -7105,15 +6314,10 @@ Zeptimus
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
 _24-Dec-21 12:25 PM_:
-will make it like that
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+will make it like that <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 10%, 20%, 30% and 40% of tokens being sold to the BC
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
@@ -7128,9 +6332,7 @@ i've been testing numbers to the bonding curve and I think now that instead of m
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
 _27-Dec-21 11:32 AM_:
-Another good criteria is how much WxDAI is needed to mint the same amount of hatchers tokens, i will be sending the information here
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Another good criteria is how much WxDAI is needed to mint the same amount of hatchers tokens, i will be sending the information here <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 - For 4.20 public open In this proposal, entering 10 million WxDAI into the bonding curve, 422676 new TEC will be minted (that is almost 1/5 of total hatcher's tokens - Meaning that in this scenario, newcomers will have approximately 21% of the hatcher's governance). With these conditions, the price of the token will rise 77%, making it 53.94 WxDAI per TEC. This can make it attractive to hatchers to sell (assuming the vesting period is over), and if 50% of the hatchers sell their tokens (1 million TEC) the price of the token will drop to 0.06 WxDAI. (Lower than the initial price of hatchers and the bonding curve) To mint an approximation of hatcher's TEC Tokens, 10.000.000.000 WxDAI will be needed. (edited)
 - For Mathmematics V4 simulation In this proposal, entering 10 million WxDAI into the bonding curve, 1225393 new TEC will be minted (that is almost 6/10 of total hatcher's tokens - Meaning that in this scenario, newcomers will have approximately 61% of the hatcher's governance). With these conditions, the price of the token will rise 79%, making it 19.83 WxDAI per TEC. This can make it attractive to hatchers to sell (assuming the vesting period is over), and if 50% of the hatchers sell their tokens (1 million TEC) the price of the token will drop to 2.81 WxDAI. (Higher than the initial price of both Hatchers and the Bonding curve) To mint an approximation of hatcher's TEC Tokens, 40.000.000 WxDAI will be needed. (edited)
@@ -7205,9 +6407,7 @@ Thanks Chuy and Max! Bullet Points 4 & 5 are a little more complex and would be 
 <h3>natesuits <img src="https://cdn.discordapp.com/avatars/417979381332443136/d145fdbe6fea9d40b4a5e729859a2a2f.png" width=25 height=25></h3>
 
 _04-Jan-22 02:38 PM_:
-And I will respond to it now, since...Education!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f643.png" width=50 height=50>
+And I will respond to it now, since...Education! <img src="https://twemoji.maxcdn.com/2/72x72/1f643.png" width=20 height=20>
 
 Point 4: "Buy $x.xxM FROM the ABC" is a phrase that could work. The term send is being used to acknowledge the fact that most of the BUYS of TEC will more than likely be done on secondary markets and not through the ABC itself. ABC volume will more than likely come from arbitrage.
 
@@ -7246,9 +6446,7 @@ any blocks?
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _04-Jan-22 06:25 PM_:
-@natesuits I think it's ready now - I got a little obsessed and spent a few hours there
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+@natesuits I think it's ready now - I got a little obsessed and spent a few hours there <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 hope its looking better
 
@@ -7367,17 +6565,13 @@ How can newcomers participate in voting?
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _11-Jan-22 02:01 PM_:
-Thank you that was so great
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
+Thank you that was so great <img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
 nic
 
-[Thank you that was so great](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
+[Thank you that was so great](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -7397,9 +6591,6 @@ _12-Jan-22 09:10 AM_:
 
 newcomers can provide feedback and criticism on the current proposals! Unfortunately voting on the Commons Upgrade is limited to Hatchers (TECH holders)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
@@ -7413,9 +6604,6 @@ _12-Jan-22 09:48 AM_:
 
 It's awesome to watch and us non-hatchers appreciate the care and attention going into each of the debates. Also, it provides great context.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png" width=50 height=50>
-
-2
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -7451,9 +6639,6 @@ Token Engineering Commons (TEC) - Gnosis Chain - BlockScout
 
 Token Engineering Commons, balances, and analytics on the (Gnosis)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -7493,9 +6678,6 @@ _01-Feb-22 02:33 PM_:
 
 [https://discord.gg/PxdhwEFD?event=937291668519006228](https://discord.gg/PxdhwEFD?event=937291668519006228) This is a great talk I think everyone would enjoy on Thursday in SourceCred
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png](https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png)
 
@@ -7529,16 +6711,11 @@ Tue 8th Mar 2022, 6pm – Fri 18th Mar 2022, 8pm Berlin (UTC +01:00)
 
 ![https://autopia.s3.amazonaws.com/2022/02/07/17/46/35/ca2352e3-2f28-4f6d-966d-041f03615835/ddf_dandelion_low.jpg?11ae7469ad5cadd00a65024ee6841f62678dfd3d](https://autopia.s3.amazonaws.com/2022/02/07/17/46/35/ca2352e3-2f28-4f6d-966d-041f03615835/ddf_dandelion_low.jpg?11ae7469ad5cadd00a65024ee6841f62678dfd3d)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-2
 
 <h3>renegaderegen <img src="https://cdn.discordapp.com/avatars/714704957785243670/82df381074fa48bc0ed4eae73fc6622c.png" width=25 height=25></h3>
 
 _12-Feb-22 04:10 PM_:
-hi folks~ I'm new to the TEC server
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=50 height=50>
+hi folks~ I'm new to the TEC server <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=20 height=20>
 
 I'm on the ground at ETHDenver. My group is BUIDLing a resource that analyzes the relationship of on-chain governance to contributor sentiment. wondering if anyone from this working group happens to be present at ETHDenver?
 
@@ -7546,9 +6723,7 @@ I'm on the ground at ETHDenver. My group is BUIDLing a resource that analyzes th
 
 renegaderegen
 
-[hi folks~ I'm new to the TEC server  I'm on the ground at ETHDenver. My group is BUIDLing a resource that analyzes the relationship of on-chain governance to contributor sentiment. wondering if anyone from this working group happens to be present at ETHDenver?](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=50 height=50>
+[hi folks~ I'm new to the TEC server  I'm on the ground at ETHDenver. My group is BUIDLing a resource that analyzes the relationship of on-chain governance to contributor sentiment. wondering if anyone from this working group happens to be present at ETHDenver?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -7556,9 +6731,6 @@ _14-Feb-22 04:56 PM_:
 
 hey @renegaderegen I just landed in Denver, would love to chat :). Let's coordinate on dms
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png](https://cdn.discordapp.com/avatars/721535403479269538/4b2d90b8370e0e937ad0ebf2a8760175.png)
 
@@ -7706,13 +6878,7 @@ What's the difference between consensus and consent? What's the difference betwe
 
 ![https://www.sociocracyforall.org/wp-content/uploads/2021/11/Consent-vs.-consensus-Featured-Image.jpg](https://www.sociocracyforall.org/wp-content/uploads/2021/11/Consent-vs.-consensus-Featured-Image.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>Gaian <img src="https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png" width=25 height=25></h3>
 
@@ -7726,9 +6892,6 @@ _22-Feb-22 01:58 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844205/945756505246949417/tec5.jpeg](https://cdn.discordapp.com/attachments/810180622634844205/945756505246949417/tec5.jpeg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3a8.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -7742,9 +6905,6 @@ _22-Feb-22 01:59 PM_:
 
 @kyle @bustavo
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -7766,9 +6926,7 @@ Edu - TEC Steward.
 
 <h3>Mattia <img src="https://cdn.discordapp.com/avatars/690837051377188915/3971d0f9b184b7ade830d3021af520dc.png" width=25 height=25></h3>
 
-_22-Feb-22 02:03 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+_22-Feb-22 02:03 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -7805,9 +6963,7 @@ Can this be meaningful if wounded normies participate in it_
 <h3>bends <img src="https://cdn.discordapp.com/avatars/805467270762856490/a8cb02682bdcc263545a6fe1cf21de89.png" width=25 height=25></h3>
 
 _24-Feb-22 02:32 PM_:
-@Edu - TEC Steward.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+@Edu - TEC Steward. <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>DecentralizeSDGs <img src="https://cdn.discordapp.com/avatars/760506672975970354/837ae205b0f49d22286cdf0ba11e8ad8.png" width=25 height=25></h3>
 
@@ -7821,9 +6977,6 @@ Open source platform for BPMN workflow and DMN decision automation. Download now
 
 ![https://camunda.com/wp-content/uploads/2020/07/camunda-logo-social-update.jpg](https://camunda.com/wp-content/uploads/2020/07/camunda-logo-social-update.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>Laurence Ion - VitaDAO steward <img src="https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png" width=25 height=25></h3>
 
@@ -7859,9 +7012,6 @@ _08-Mar-22 02:51 PM_:
 
 Thinking about @teresacd's comment on entering, 1Hive is close to getting the MVP of Quests (some sort of bounty board arbitrated by Celeste), maybe that's something worth having in mind to integrate that into the onboarding process and give like X $TEC/WXDAI for easy tasks like recording calls or idk whatever needed and/or that we want to enforce to get people started? @Tam2140 @liviade idk who else may be interested in this
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
 
@@ -7915,9 +7065,6 @@ _08-Mar-22 04:11 PM_:
 
 I think it's a really interesting approach and having more basic engagement opportunities is something we've been talking about in Communitas, and it's something I was exploring in the doc I just sent out on that front. I do agree with Livia though that we need to be *super* careful about what stuff like this does to intrinsic motivation and the overall sense of community.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -7927,17 +7074,8 @@ This is something I just came across (again lol), I think is related to some ext
 
 "The Need to Win When an archer is shooting for nothing He has all his skill. If he shoots for a brass buckle He is already nervous. If he shoots for a prize of gold He goes blind Or sees two targets – He is out of his mind. His skill has not changed, But the prize Divides him. He cares, He thinks more of winning Than of shooting – And the need to win Drains him of power."
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f497.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/262f.png" width=50 height=50>
-
-1
 
 i believe that's from the Zhuangzi
 
@@ -7959,9 +7097,6 @@ _08-Mar-22 05:48 PM_:
 
 Yes, maybe the communitas WG is more appropiate, I'm not sure
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/898943373812039721/3c93386357b7e26e619ed291dd7fa7cd.png](https://cdn.discordapp.com/avatars/898943373812039721/3c93386357b7e26e619ed291dd7fa7cd.png)
 
@@ -7975,9 +7110,6 @@ _10-Mar-22 01:33 PM_:
 
 maybe this is something that can be integrated to the weekly updates [https://forum.tecommons.org/t/tec-wgs-weekly-update-feb-28-mar-7/923](https://forum.tecommons.org/t/tec-wgs-weekly-update-feb-28-mar-7/923)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 @Mount Manu has been working on them (edited)
 
@@ -7987,9 +7119,6 @@ _10-Mar-22 03:51 PM_:
 
 In a comment, @stef ask how Holacracy was different from ideas in the "The TEC and Its People" doc. It'd been a while since I'd dug into Holacracy, so this morning I sat in on a call with them. Here are my notes. I think there are a lot of places where it might align with TEC philosophy, actually: [https://docs.google.com/document/d/1gCgFqHjhZhDgptlSTdzBo8laQ4q-P14zIzBUowDSgIo/edit?usp=sharing](https://docs.google.com/document/d/1gCgFqHjhZhDgptlSTdzBo8laQ4q-P14zIzBUowDSgIo/edit?usp=sharing) cc: @liviade and @Tam2140 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png" width=50 height=50>
-
-1
 
 Original message was deleted.
 
@@ -8023,9 +7152,6 @@ _15-Mar-22 01:51 PM_:
 
 @liviade I can, although they still need to be worked on. There are still some questions around the use of pamphlets. Others have suggested we simply make graphics (which we already have) and memes to support it. But we can definitely discuss it.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8051,13 +7177,7 @@ Why does a DAO need a constitution? For the same reason a state does. To establi
 
 ![https://blog.kleros.io/content/images/2021/10/How-to-Write-your-DAO-Constitution.png](https://blog.kleros.io/content/images/2021/10/How-to-Write-your-DAO-Constitution.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c-1f3fb.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-2
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -8071,9 +7191,6 @@ Questions below from this page: [https://forum.tecommons.org/t/conviction-voting
 
 [https://lh5.googleusercontent.com/dofnQeohp3rSMNguAvkiYPz0gwH1vJOmARytayD9tuXm9ufCF_Z-8gv1WeJJ0GsNjEHlwLnxAGQYsw=w1200-h630-p](https://lh5.googleusercontent.com/dofnQeohp3rSMNguAvkiYPz0gwH1vJOmARytayD9tuXm9ufCF_Z-8gv1WeJJ0GsNjEHlwLnxAGQYsw=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -8111,9 +7228,6 @@ Soft Gov Agenda - March 22nd Attendees: Intro: Soft Gov Agenda - March 15th Atte
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-4
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8121,9 +7235,6 @@ _23-Mar-22 02:26 PM_:
 
 hey soft gov crew! We are looking at a time change for our weekly meetings - from tuesday at 7pm CET to wednesday at 7pm CET. Is this a blocker fom anyone or does it work? @natesuits @Jeremy&TheGospelOfChange @bends @teresacd @Zeptimus @enti @Edu - TEC Steward. @chuygarcia.eth (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f919.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -8168,9 +7279,7 @@ thanks! it's fine, just wanted to confirm
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
 _29-Mar-22 01:27 PM_:
-Media has been around for milenias
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Media has been around for milenias <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/810180622634844205/958417034490835005/640px-An_Illustration_of_The_Allegory_of_the_Cave_from_Platos_Republic.jpeg](https://cdn.discordapp.com/attachments/810180622634844205/958417034490835005/640px-An_Illustration_of_The_Allegory_of_the_Cave_from_Platos_Republic.jpeg)
 
@@ -8209,9 +7318,7 @@ Ah! Don't have a great connection today.
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
 _06-Apr-22 01:29 PM_:
-screenshot from skimming the book
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+screenshot from skimming the book <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/810180622634844205/961316815177416724/Captura_de_Pantalla_2022-04-06_a_las_12.28.33_p._m..png](https://cdn.discordapp.com/attachments/810180622634844205/961316815177416724/Captura_de_Pantalla_2022-04-06_a_las_12.28.33_p._m..png)
 
@@ -8238,9 +7345,7 @@ Summary This proposal seeks to improve the VDP-19, defining the processes to on-
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _08-Apr-22 10:08 AM_:
-Hi @Shardul! sorry I didn't see your message before. I'm happy you made it here
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+Hi @Shardul! sorry I didn't see your message before. I'm happy you made it here <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 Soft gov has been implementing and maintaining Elinor Ostrom's principles in the TEC culture. Maybe this board will help you have an understanding. the bottom stickers under each principle are ways the TEC has implemented them
 
@@ -8269,9 +7374,7 @@ Laurence Ion - VitaDAO steward
 <h3>Laurence Ion - VitaDAO steward <img src="https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png" width=25 height=25></h3>
 
 _12-Apr-22 06:41 AM_:
-Kindly following up
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Kindly following up <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png](https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png)
 
@@ -8291,13 +7394,7 @@ Community Stewards WG Manifesto Table of Contents Members 2 Stewards and Working
 
 [https://lh5.googleusercontent.com/hBKMc_onrcHFab745J9zKUKSD9tnfkPRnz1DRhwKOV96_BO0OaZW7Ev94ozgMs5SqwNQUqdHFcOLAg=w1200-h630-p](https://lh5.googleusercontent.com/hBKMc_onrcHFab745J9zKUKSD9tnfkPRnz1DRhwKOV96_BO0OaZW7Ev94ozgMs5SqwNQUqdHFcOLAg=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png](https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png)
 
@@ -8315,9 +7412,6 @@ that's interesting - I think the main difference from what I'm reading there is 
 
 also, we have community stewards that aren't stewards of a working group - they are just stewarding the community in their particular way that is also valuable. We also have working group leads that are not community stewards. Separating this two roles was important for our organization and understanding of responsibilities
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png" width=50 height=50>
-
-1
 
 @Laurence Ion - VitaDAO steward thanks for sharing this with us, happy to continue learning about your process
 
@@ -8337,9 +7431,6 @@ _13-Apr-22 11:55 AM_:
 
 Yeah I think my biggest qualm was that since stewards nominate and elect themselves it creates a closed loop of community leaders that doesn't gather community input. Right now I can say we have a good batch of stewards with integrity and good intentions but it's easy to see how this system can devolve into an exclusive club that is vulnerable to personal politics and favouritism. I agree that an open nomination is risky but at least have the community stamp the approval of a new steward
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
-
-1
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -8384,9 +7475,7 @@ the suggestion was the opposite of a hard metric - I think what is interesting i
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _14-Apr-22 11:31 AM_:
-Hey Soft Govers
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
+Hey Soft Govers <img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=20 height=20>
 
 following up from our meeting yesterday, we have a few streams of cultural aspects to focus on: 1- Race and gender: Livia, @Edu - TEC Steward. @chuygarcia.eth 2- Religion/ancient forms of knowledge: @chuygarcia.eth 3- Psychology/mental health: @Juankbell @natesuits @boonjue.eth - also tagging @BiancaGadelha 4- Personal development - @enti @natesuits @bear100 - also tagging @durgadas and @Mount Manu 5 - Open source culture and documentation - @Vyvy-vi @Zeptimus There is so much to be explored in each one of those topics - Can we have proposals or action items for the next soft gov call so we can trace a roadmap and have multiple initiatives and work streams? (edited)
 
@@ -8436,9 +7525,7 @@ it'll probably use Celeste as an arbitrator, not sure about that though
 
 liviade
 
-[Hey Soft Govers   following up from our meeting yesterday, we have a few streams of cultural aspects to focus on: 1- Race and gender: Livia, @Edu - TEC Steward. @chuygarcia.eth 2- Religion/ancient forms of knowledge: @chuygarcia.eth 3- Psychology/mental health: @Juankbell @natesuits @boonjue.eth - also tagging @BiancaGadelha 4- Personal development - @enti @natesuits @bear100 - also tagging @durgadas and @Mount Manu 5 - Open source culture and documentation - @Vyvy-vi @Zeptimus There is so much to be explored in each one of those topics - Can we have proposals or action items for the next soft gov call so we can trace a roadmap and have multiple initiatives and work streams?  (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
+[Hey Soft Govers   following up from our meeting yesterday, we have a few streams of cultural aspects to focus on: 1- Race and gender: Livia, @Edu - TEC Steward. @chuygarcia.eth 2- Religion/ancient forms of knowledge: @chuygarcia.eth 3- Psychology/mental health: @Juankbell @natesuits @boonjue.eth - also tagging @BiancaGadelha 4- Personal development - @enti @natesuits @bear100 - also tagging @durgadas and @Mount Manu 5 - Open source culture and documentation - @Vyvy-vi @Zeptimus There is so much to be explored in each one of those topics - Can we have proposals or action items for the next soft gov call so we can trace a roadmap and have multiple initiatives and work streams?  (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=20 height=20>
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -8459,9 +7546,7 @@ Thank *
 
 **you**
 
-*
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91f.png" width=50 height=50>
+* <img src="https://twemoji.maxcdn.com/2/72x72/1f91f.png" width=20 height=20>
 
 -- looking into this. Btw, is there a better channel or forum to discuss this? (edited)
 
@@ -8471,9 +7556,7 @@ I have similar worries, about opening up conflicts in "public"
 
 Laurence Ion - VitaDAO steward
 
-[Thank * **you** *  -- looking into this. Btw, is there a better channel or forum to discuss this?  (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91f.png" width=50 height=50>
+[Thank * **you** *  -- looking into this. Btw, is there a better channel or forum to discuss this?  (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f91f.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8485,9 +7568,7 @@ I would say the stewards chat also makes sense (edited)
 
 liviade
 
-[Hey Soft Govers   following up from our meeting yesterday, we have a few streams of cultural aspects to focus on: 1- Race and gender: Livia, @Edu - TEC Steward. @chuygarcia.eth 2- Religion/ancient forms of knowledge: @chuygarcia.eth 3- Psychology/mental health: @Juankbell @natesuits @boonjue.eth - also tagging @BiancaGadelha 4- Personal development - @enti @natesuits @bear100 - also tagging @durgadas and @Mount Manu 5 - Open source culture and documentation - @Vyvy-vi @Zeptimus There is so much to be explored in each one of those topics - Can we have proposals or action items for the next soft gov call so we can trace a roadmap and have multiple initiatives and work streams?  (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
+[Hey Soft Govers   following up from our meeting yesterday, we have a few streams of cultural aspects to focus on: 1- Race and gender: Livia, @Edu - TEC Steward. @chuygarcia.eth 2- Religion/ancient forms of knowledge: @chuygarcia.eth 3- Psychology/mental health: @Juankbell @natesuits @boonjue.eth - also tagging @BiancaGadelha 4- Personal development - @enti @natesuits @bear100 - also tagging @durgadas and @Mount Manu 5 - Open source culture and documentation - @Vyvy-vi @Zeptimus There is so much to be explored in each one of those topics - Can we have proposals or action items for the next soft gov call so we can trace a roadmap and have multiple initiatives and work streams?  (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=20 height=20>
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -8519,21 +7600,12 @@ Soft Gov Agenda - April 13th Attendees: nate, chuy, juank, zep, edu, boonjue, In
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 it goes until may 15th
 
 they might be a little hard to make full sense off - but I would love to help organize ideas there
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
@@ -8541,9 +7613,6 @@ _14-Apr-22 07:05 PM_:
 
 Hey @liviade , Thank you for pointing this out ! Many of them are very interesting points, super helpful. Based on our discussions in previous Stewards call and this, I would try to create an info dump (will contact with @bear100 as well !). Then, we can start structuring our discussions. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
 
@@ -8554,25 +7623,18 @@ Mert Ozd
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _15-Apr-22 04:49 PM_:
-amazing! thank you!! I tried to start a spread sheet for it but it didn't feel so easy
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f648.png" width=50 height=50>
+amazing! thank you!! I tried to start a spread sheet for it but it didn't feel so easy <img src="https://twemoji.maxcdn.com/2/72x72/1f648.png" width=20 height=20>
 
 [https://docs.google.com/spreadsheets/d/1jzqNsHj4MtYoEcraZgHEBe9eqdMYyWhOeD7ztXdEtRE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1jzqNsHj4MtYoEcraZgHEBe9eqdMYyWhOeD7ztXdEtRE/edit?usp=sharing)
 
 don't know if this is useful at all - feel free to suggest any other approach
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
 liviade
 
-[amazing! thank you!! I tried to start a spread sheet for it but it didn't feel so easy](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f648.png" width=50 height=50>
+[amazing! thank you!! I tried to start a spread sheet for it but it didn't feel so easy](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f648.png" width=20 height=20>
 
 [https://docs.google.com/spreadsheets/d/1jzqNsHj4MtYoEcraZgHEBe9eqdMYyWhOeD7ztXdEtRE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1jzqNsHj4MtYoEcraZgHEBe9eqdMYyWhOeD7ztXdEtRE/edit?usp=sharing)
 
@@ -8590,9 +7652,7 @@ Possible Revenue Streams Service DAOs token stakes, revenue cuts Wg’s that bec
 
 [https://lh5.googleusercontent.com/UQyqB8X3YpyXFIVXi1IvcdrfsrbYeEtQX--EjDuvpOS4ZOYd9BcP_QukEbKlffNdliRKgjzQM_mzRQ=w1200-h630-p](https://lh5.googleusercontent.com/UQyqB8X3YpyXFIVXi1IvcdrfsrbYeEtQX--EjDuvpOS4ZOYd9BcP_QukEbKlffNdliRKgjzQM_mzRQ=w1200-h630-p)
 
-But I think eventually it will be better to have it in a spreadsheet like that
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+But I think eventually it will be better to have it in a spreadsheet like that <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8616,9 +7676,7 @@ _18-Apr-22 11:24 AM_:
 
 liviade
 
-[Hey Soft Govers   following up from our meeting yesterday, we have a few streams of cultural aspects to focus on: 1- Race and gender: Livia, @Edu - TEC Steward. @chuygarcia.eth 2- Religion/ancient forms of knowledge: @chuygarcia.eth 3- Psychology/mental health: @Juankbell @natesuits @boonjue.eth - also tagging @BiancaGadelha 4- Personal development - @enti @natesuits @bear100 - also tagging @durgadas and @Mount Manu 5 - Open source culture and documentation - @Vyvy-vi @Zeptimus There is so much to be explored in each one of those topics - Can we have proposals or action items for the next soft gov call so we can trace a roadmap and have multiple initiatives and work streams?  (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
+[Hey Soft Govers   following up from our meeting yesterday, we have a few streams of cultural aspects to focus on: 1- Race and gender: Livia, @Edu - TEC Steward. @chuygarcia.eth 2- Religion/ancient forms of knowledge: @chuygarcia.eth 3- Psychology/mental health: @Juankbell @natesuits @boonjue.eth - also tagging @BiancaGadelha 4- Personal development - @enti @natesuits @bear100 - also tagging @durgadas and @Mount Manu 5 - Open source culture and documentation - @Vyvy-vi @Zeptimus There is so much to be explored in each one of those topics - Can we have proposals or action items for the next soft gov call so we can trace a roadmap and have multiple initiatives and work streams?  (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8654,9 +7712,6 @@ _18-Apr-22 12:54 PM_:
 
 I am trying to make a document about how all this works and can be applied as a practical philosophy in the DAO space. My home life is a bit fluid at the moment, so this is mostly why I haven't finished it, but I have made some progress recently in talks with the folks in Omega.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -8668,9 +7723,7 @@ Interesting video: [https://youtu.be/mJuVUnouo6E](https://youtu.be/mJuVUnouo6E)
 
 liviade
 
-[Hey Soft Govers   following up from our meeting yesterday, we have a few streams of cultural aspects to focus on: 1- Race and gender: Livia, @Edu - TEC Steward. @chuygarcia.eth 2- Religion/ancient forms of knowledge: @chuygarcia.eth 3- Psychology/mental health: @Juankbell @natesuits @boonjue.eth - also tagging @BiancaGadelha 4- Personal development - @enti @natesuits @bear100 - also tagging @durgadas and @Mount Manu 5 - Open source culture and documentation - @Vyvy-vi @Zeptimus There is so much to be explored in each one of those topics - Can we have proposals or action items for the next soft gov call so we can trace a roadmap and have multiple initiatives and work streams?  (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
+[Hey Soft Govers   following up from our meeting yesterday, we have a few streams of cultural aspects to focus on: 1- Race and gender: Livia, @Edu - TEC Steward. @chuygarcia.eth 2- Religion/ancient forms of knowledge: @chuygarcia.eth 3- Psychology/mental health: @Juankbell @natesuits @boonjue.eth - also tagging @BiancaGadelha 4- Personal development - @enti @natesuits @bear100 - also tagging @durgadas and @Mount Manu 5 - Open source culture and documentation - @Vyvy-vi @Zeptimus There is so much to be explored in each one of those topics - Can we have proposals or action items for the next soft gov call so we can trace a roadmap and have multiple initiatives and work streams?  (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=20 height=20>
 
 <h3>boonjue.eth <img src="https://cdn.discordapp.com/avatars/908799381229154314/041a1948b918ecd3ae58b5411222fbba.png" width=25 height=25></h3>
 
@@ -8716,9 +7769,6 @@ not necessarily a formal one, but just a way to approach the topic
 
 also @Mert Ozd and @bear100 it would be great to hear updates on the financial wg formation too. @Gideonro is also very interested in participating
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -8732,9 +7782,6 @@ _20-Apr-22 12:50 PM_:
 
 Yes, of course!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8762,9 +7809,6 @@ _25-Apr-22 05:44 PM_:
 
 [https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991](https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991) @bends @Gideonro @Edu - TEC Steward. @Vyvy-vi
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-4
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -8776,16 +7820,11 @@ Discord Developer Portal — API Docs for Bots and Developers
 
 Integrate your service with Discord — whether it's a bot or a game or whatever your wildest imagination can come up with.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
 _26-Apr-22 04:14 PM_:
-Hey everyone! This is something I wrote about what we briefly discussed last week on upping the async engagement, I’d appreciate any feedback
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Hey everyone! This is something I wrote about what we briefly discussed last week on upping the async engagement, I’d appreciate any feedback <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://hackmd.io/@lPFQ61eAQAap3vUN520DPw/SkR2rg04q](https://hackmd.io/@lPFQ61eAQAap3vUN520DPw/SkR2rg04q)
 
@@ -8793,9 +7832,6 @@ Async Management - HackMD
 
 # Async Management Getting things done without time constrains ## The issue There are more than 10
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -8809,9 +7845,6 @@ In this post, we provide details about how this tool was developed, how it shoul
 
 ![https://images.mirror-media.xyz/publication-images/RcOWdFtCN_1AdGW4i1gSH.png?height=1500&width=3000](https://images.mirror-media.xyz/publication-images/RcOWdFtCN_1AdGW4i1gSH.png?height=1500&width=3000)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
 
@@ -8827,9 +7860,6 @@ _27-Apr-22 11:21 AM_:
 
 thanks Enti! I read that. it's great
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -8849,13 +7879,7 @@ _27-Apr-22 01:49 PM_:
 
 Liberating Structures - 1. 1-2-4-All
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-1
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -8927,9 +7951,6 @@ Doodle
 
 Doodle is the simplest way to schedule meetings with clients, colleagues, or friends. Find the best time for one-to-ones and team meetings with our user-friendly calendar tool. Get started today!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-3
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8981,9 +8002,6 @@ Clarity — The simplest workspace for decentralized teams
 
 Connect your wallet, share token-gated documents, coordinate projects and proposals, track tasks, trade notes, and build your own personal Wikipedia—in a familiar all-in-one workspace.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9001,9 +8019,7 @@ _04-May-22 08:12 AM_:
 
 liviade
 
-[Hey Soft Govers   following up from our meeting yesterday, we have a few streams of cultural aspects to focus on: 1- Race and gender: Livia, @Edu - TEC Steward. @chuygarcia.eth 2- Religion/ancient forms of knowledge: @chuygarcia.eth 3- Psychology/mental health: @Juankbell @natesuits @boonjue.eth - also tagging @BiancaGadelha 4- Personal development - @enti @natesuits @bear100 - also tagging @durgadas and @Mount Manu 5 - Open source culture and documentation - @Vyvy-vi @Zeptimus There is so much to be explored in each one of those topics - Can we have proposals or action items for the next soft gov call so we can trace a roadmap and have multiple initiatives and work streams?  (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
+[Hey Soft Govers   following up from our meeting yesterday, we have a few streams of cultural aspects to focus on: 1- Race and gender: Livia, @Edu - TEC Steward. @chuygarcia.eth 2- Religion/ancient forms of knowledge: @chuygarcia.eth 3- Psychology/mental health: @Juankbell @natesuits @boonjue.eth - also tagging @BiancaGadelha 4- Personal development - @enti @natesuits @bear100 - also tagging @durgadas and @Mount Manu 5 - Open source culture and documentation - @Vyvy-vi @Zeptimus There is so much to be explored in each one of those topics - Can we have proposals or action items for the next soft gov call so we can trace a roadmap and have multiple initiatives and work streams?  (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9047,9 +8063,6 @@ _04-May-22 06:30 PM_:
 
 ✅ Praise @gene for speaking to the importance of counter culture. Thank you for always keeping it real, I appreciate your authenticity, honesty, critique and due dilligence.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
-
-1
 
 <h3>Paul in Albuquerque <img src="https://cdn.discordapp.com/avatars/776254157086130246/efa89e60e846cba7a936f6c1155792dc.png" width=25 height=25></h3>
 
@@ -9163,9 +8176,6 @@ yeah, there is nothing yet, hehe sorry for the confusion. What I meant is the pr
 
 ![https://cdn.discordapp.com/attachments/810180622634844205/973362924359913482/Screen_Shot_2022-05-09_at_8.16.34_PM.png](https://cdn.discordapp.com/attachments/810180622634844205/973362924359913482/Screen_Shot_2022-05-09_at_8.16.34_PM.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 is there any of those topics you feel interested in getting involved with?
 
@@ -9215,13 +8225,7 @@ I think that AIESEC has a really good leadership development model, leave this h
 
 LDM — .
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -9235,9 +8239,6 @@ _18-May-22 02:04 PM_:
 
 I just hosted Playtime at sourcecred so our hostest with the mostest could take a break. I'm reading through the working group notes. Such a bummer this meeting is at the same time that I do some bonding and movement with my team mates. I think about cloning myself at least once a week just because of this overlap. I'm really liking the counter culture aspect being spoken to. I haven't been able to add any assets to the soft gov clarity thing. Who is amped about working on counter culture? ✨️ who can I link up with?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -9291,13 +8292,7 @@ _30-May-22 05:49 PM_:
 
 Hey everyone! this week @nic is going to share an exercise in soft gov as a first step towards our collaboration with Omega! (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
@@ -9305,9 +8300,6 @@ _31-May-22 05:55 AM_:
 
 Exciting !
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -9321,9 +8313,6 @@ Created with FigJam
 
 [https://www.figma.com/file/YYL5Y8eEnFOR1M4AhIfKr9/thumbnail?ver=thumbnails/41ccb315-aaec-4115-97d9-03f0b611649f](https://www.figma.com/file/YYL5Y8eEnFOR1M4AhIfKr9/thumbnail?ver=thumbnails/41ccb315-aaec-4115-97d9-03f0b611649f)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9337,9 +8326,6 @@ Created with Figma
 
 [https://www.figma.com/file/rx0IrFeV0X1t5gI4wAkXb0/thumbnail?ver=thumbnails/7f8cf43c-fbaf-4b14-896c-4e1dda46ae44](https://www.figma.com/file/rx0IrFeV0X1t5gI4wAkXb0/thumbnail?ver=thumbnails/7f8cf43c-fbaf-4b14-896c-4e1dda46ae44)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -9347,9 +8333,6 @@ _01-Jun-22 01:54 PM_:
 
 In terms of applying what we learned today, you could look at what energises people(incentives), and why they're directing energy towards the TEC (motivation), and how they direct energy towards TEC (actions/contributions)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 <h3>Laurence Ion - VitaDAO steward <img src="https://cdn.discordapp.com/avatars/142055291817558017/ac81b962802bc33a48eab3fe1ec50241.png" width=25 height=25></h3>
 
@@ -9386,9 +8369,7 @@ hope to see you all soon
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 _08-Jun-22 12:54 PM_:
-FOMOing !
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
+FOMOing ! <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9396,9 +8377,6 @@ _08-Jun-22 01:00 PM_:
 
 @nic @durgadas @solsista @Juankbell @Lauren @bends @Mert Ozd if you guys have bandwith would love to see y'all on the soft gov call that's about to start
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f494.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -9409,9 +8387,7 @@ Edu - TEC Steward.
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 _08-Jun-22 01:01 PM_:
-I would love to come but it conflict with another call
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
+I would love to come but it conflict with another call <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
@@ -9437,9 +8413,6 @@ _08-Jun-22 01:39 PM_:
 
 I am currently in another meeting! But will check out the file later!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
-
-1
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -9521,9 +8494,6 @@ _22-Jun-22 01:01 PM_:
 
 @liviade joining in a sec!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png" width=50 height=50>
-
-1
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 

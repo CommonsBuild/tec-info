@@ -44,9 +44,7 @@ _19-Mar-21 11:07 AM_:
 
 <h3>lanski BOT <img src="https://cdn.discordapp.com/avatars/813790898772901900/32989e5c83573c161563e48988fc044d.png" width=25 height=25></h3>
 
-_19-Mar-21 11:07 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+_19-Mar-21 11:07 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 <h3>24nico <img src="https://cdn.discordapp.com/avatars/135957433095815169/b22ca8f63186e161df768cfb311e0138.png" width=25 height=25></h3>
 
@@ -72,13 +70,7 @@ _19-Mar-21 11:41 AM_:
 
 !praise @griff (💜, 💜) for helping guide the lab through the TEC hatch contracts and it's history! Also praise @tonga @24nico @lanski @baartch @maghaali @johann @phacker @ygg_anderson @BK ! For being lab champions!!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-2
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -198,9 +190,6 @@ A new tool that blends your everyday work apps into one. It's the all-in-one wor
 
 ![https://www.notion.so/images/meta/default.png](https://www.notion.so/images/meta/default.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>blairv <img src="https://cdn.discordapp.com/avatars/484862180370677761/b430b9edbb6602da725c07f9e6b3d517.png" width=25 height=25></h3>
 
@@ -250,20 +239,13 @@ Using Systems Engineering and cadCAD to Manage Difficult Trade-Offs
 
 ![https://miro.medium.com/max/733/1*ggslmCFllGha0qzLPFpOSg.png](https://miro.medium.com/max/733/1*ggslmCFllGha0qzLPFpOSg.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50>
-
-1
 
 <h3>JessicaZartler <img src="https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png" width=25 height=25></h3>
 
 _09-Apr-21 10:37 AM_:
-Hey guys, sadly I won't make the Bootcamp today
+Hey guys, sadly I won't make the Bootcamp today <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
-
-totally forgot we have Commons Stack sprint retro every other Friday at Noon - so I will be joining you every other Friday.. For accountabilibuddies: I went over sections 1 & 2 of the course and installed the Jupyter notebook for cadCADedu and ran the practice scripts.. couldn't see the data visulization so will have to figure out why (I will ask you YGG in our sync next week).. otherwise, great! Over the weekend will dive into Section 3 Python crash course... I did the robot & marbles tutorial some months ago.. have fun today everyone and see you next Friday!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
+totally forgot we have Commons Stack sprint retro every other Friday at Noon - so I will be joining you every other Friday.. For accountabilibuddies: I went over sections 1 & 2 of the course and installed the Jupyter notebook for cadCADedu and ran the practice scripts.. couldn't see the data visulization so will have to figure out why (I will ask you YGG in our sync next week).. otherwise, great! Over the weekend will dive into Section 3 Python crash course... I did the robot & marbles tutorial some months ago.. have fun today everyone and see you next Friday! <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=20 height=20>
 
 *Sharing again this link for those who missed it last week/above: cadCAD Onboarding TL;DR
 
@@ -275,20 +257,12 @@ And since last week I updated/restructured the Block Science Medium - it's a tre
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50>
-
-1
 
 <h3>blairv <img src="https://cdn.discordapp.com/avatars/484862180370677761/b430b9edbb6602da725c07f9e6b3d517.png" width=25 height=25></h3>
 
 _09-Apr-21 11:59 AM_:
-Good morning bootcamp cadets!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4ef.png" width=50 height=50>
+Good morning bootcamp cadets! <img src="https://twemoji.maxcdn.com/2/72x72/1f4ef.png" width=20 height=20>
 
 Housekeeping notes: * I added an attendance section to the Notion document at
 
@@ -302,13 +276,7 @@ A new tool that blends your everyday work apps into one. It's the all-in-one wor
 
 ![https://www.notion.so/images/meta/default.png](https://www.notion.so/images/meta/default.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3ba.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 <h3>blairv <img src="https://cdn.discordapp.com/avatars/484862180370677761/b430b9edbb6602da725c07f9e6b3d517.png" width=25 height=25></h3>
 
@@ -322,9 +290,6 @@ _09-Apr-21 01:07 PM_:
 
 Thanks everyone! For next week, I'll try to round up and expert to distill the high level parts of cadCAD from module 4 and we will plan on working through module 5.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-3
 
 <h3>maghaali <img src="https://cdn.discordapp.com/avatars/768695037835083826/f9219f1ed8376cd97ea8b097e47025db.png" width=25 height=25></h3>
 
@@ -344,9 +309,6 @@ Python is an interpreted, high-level, general-purpose programming language that 
 
 ![https://pluralsight2.imgix.net/paths/images/python-7be70baaac.png](https://pluralsight2.imgix.net/paths/images/python-7be70baaac.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50>
-
-3
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -358,9 +320,6 @@ Python Discord - Resources
 
 We're a large, friendly community focused around the Python programming language. Our community is open to those who wish to learn the language, as well as those looking to help others.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>Vasily Sumanov BOT <img src="https://cdn.discordapp.com/avatars/813790898772901900/19c5a4a7017ddf2f349bed4cfba5f142.png" width=25 height=25></h3>
 
@@ -384,9 +343,7 @@ Hi guys! Not sure am I using the right channel for the question, but I'd be than
 
 JessicaZartler
 
-[Hey guys, sadly I won't make the Bootcamp today  totally forgot we have Commons Stack sprint retro every other Friday at Noon - so I will be joining you every other Friday.. For accountabilibuddies: I went over sections 1 & 2 of the course and installed the Jupyter notebook for cadCADedu and ran the practice scripts.. couldn't see the data visulization so will have to figure out why (I will ask you YGG in our sync next week).. otherwise, great! Over the weekend will dive into Section 3 Python crash course... I did the robot & marbles tutorial some months ago.. have fun today everyone and see you next Friday!  *Sharing again this link for those who missed it last week/above: cadCAD Onboarding TL;DR](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
+[Hey guys, sadly I won't make the Bootcamp today  totally forgot we have Commons Stack sprint retro every other Friday at Noon - so I will be joining you every other Friday.. For accountabilibuddies: I went over sections 1 & 2 of the course and installed the Jupyter notebook for cadCADedu and ran the practice scripts.. couldn't see the data visulization so will have to figure out why (I will ask you YGG in our sync next week).. otherwise, great! Over the weekend will dive into Section 3 Python crash course... I did the robot & marbles tutorial some months ago.. have fun today everyone and see you next Friday!  *Sharing again this link for those who missed it last week/above: cadCAD Onboarding TL;DR](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=20 height=20>
 
 [https://www.notion.so/cadCAD-Onboarding-TL-DR-e0da826e676344ee94d71d39d65d4fc2](https://www.notion.so/cadCAD-Onboarding-TL-DR-e0da826e676344ee94d71d39d65d4fc2)
 
@@ -399,13 +356,9 @@ And since last week I updated/restructured the Block Science Medium - it's a tre
 <h3>JessicaZartler <img src="https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png" width=25 height=25></h3>
 
 _12-Apr-21 08:51 PM_:
-Okay! For cadCAD bootcampers: Thanks to @ygg_anderson figured out why the data visualizations weren't showing.. Anyone who has Windows that is having this same problem where the visualizations don't show here is what you need to do: 1) Go to your windows search bar and type in "Anaconda prompt" to access the command line 2) copy paste this code: conda install -c conda-forge jupyter_nbextensions_configurator 3) once that runs, enter: conda install -c conda-forge/label/cf202003 jupyterlab-plotly-extension 4) Go back to your Jupyter cadCADedu page and click "kernel" "restart and rerun all" and it should work
+Okay! For cadCAD bootcampers: Thanks to @ygg_anderson figured out why the data visualizations weren't showing.. Anyone who has Windows that is having this same problem where the visualizations don't show here is what you need to do: 1) Go to your windows search bar and type in "Anaconda prompt" to access the command line 2) copy paste this code: conda install -c conda-forge jupyter_nbextensions_configurator 3) once that runs, enter: conda install -c conda-forge/label/cf202003 jupyterlab-plotly-extension 4) Go back to your Jupyter cadCADedu page and click "kernel" "restart and rerun all" and it should work <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
-
-Apparently you have to enable your Jupyter to see the plotly extension.. or something like that.. Good luck! You can ask Friday if you have anymore questions - hope this helps someone
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+Apparently you have to enable your Jupyter to see the plotly extension.. or something like that.. Good luck! You can ask Friday if you have anymore questions - hope this helps someone <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 Yay! Now I can see da purty pictures.. (edited)
 
@@ -432,9 +385,7 @@ For fun - we're gonna do a learning event with this next year for Valentine's Da
 <h3>Lauren <img src="https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png" width=25 height=25></h3>
 
 _16-Apr-21 12:22 PM_:
-where's the miro board link?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+where's the miro board link? <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -464,11 +415,8 @@ a small simulation of small fireflies
 
 _16-Apr-21 12:27 PM_:
 
-Firefly sync and other similar effects. [https://www.youtube.com/watch?v=t-_VPRCtiUg](https://www.youtube.com/watch?v=t-_VPRCtiUg)
-
-[Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
-
-The Secret of Synchronization
+Firefly sync and other similar effects. 
+[The Secret of Synchronization](https://www.youtube.com/watch?v=t-_VPRCtiUg)
 
 How does order spontaneously arise out of chaos? This video is sponsored by Kiwico — go to [https://www.kiwico.com/Veritasium50](https://www.kiwico.com/Veritasium50) for 50% off your first month of any crate. An enormous thanks to Prof. Steven Strogatz — this video would not have been possible without him. Much of the script-writing was inspired and informed by his wonderful book Sy...
 
@@ -498,13 +446,7 @@ The browser-based platform to Design, Prototype & Handoff game systems.
 
 ![https://machinations.io/wp-content/uploads/2020/09/cover-with-tagline-for-preview@2x.png](https://machinations.io/wp-content/uploads/2020/09/cover-with-tagline-for-preview@2x.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50>
-
-1
 
 <h3>baartch <img src="https://cdn.discordapp.com/avatars/711810969755451414/5d53f1fe2190fde0e04bf37eab2adc59.png" width=25 height=25></h3>
 
@@ -583,22 +525,15 @@ Scalable, secure, cross-device and enterprise-ready team collaboration whiteboar
 <h3>blairv <img src="https://cdn.discordapp.com/avatars/484862180370677761/b430b9edbb6602da725c07f9e6b3d517.png" width=25 height=25></h3>
 
 _06-May-21 12:02 PM_:
-Hey #🔬｜labs
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50>
+Hey #🔬｜labs <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=20 height=20>
 
 Danilo from cadCAD edu accepted our invite to attend tomorrow's study group. Get hyped! Bring a friend!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-2
 
 <h3>Lauren <img src="https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png" width=25 height=25></h3>
 
 _07-May-21 01:24 PM_:
-Hey friends, I never used screencast before, but a bit after the lab started today (featuring @danlessa
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50>
+Hey friends, I never used screencast before, but a bit after the lab started today (featuring @danlessa <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=20 height=20>
 
 ) I decided to try it out so that anyone who missed the session could still get in on it! So apologies for starting late, but I got most of it!
 
@@ -612,13 +547,7 @@ Shared from Screencast.com
 
 ![https://content.screencast.com/users/LaurenBajin/folders/Capture/media/1e2b411e-688c-409d-b55a-03b37f9e4b65/FirstFrame.jpg](https://content.screencast.com/users/LaurenBajin/folders/Capture/media/1e2b411e-688c-409d-b55a-03b37f9e4b65/FirstFrame.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50>
 
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -646,9 +575,7 @@ Contribute to CommonsBuild/praise-quantification development by creating an acco
 
 Lauren
 
-[Hey friends, I never used screencast before, but a bit after the lab started today (featuring @danlessa  ) I decided to try it out so that anyone who missed the session could still get in on it! So apologies for starting late, but I got most of it!](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50>
+[Hey friends, I never used screencast before, but a bit after the lab started today (featuring @danlessa  ) I decided to try it out so that anyone who missed the session could still get in on it! So apologies for starting late, but I got most of it!](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=20 height=20>
 
 [https://www.screencast.com/t/jLd8mGyr8i1T](https://www.screencast.com/t/jLd8mGyr8i1T)
 
@@ -658,9 +585,6 @@ _16-May-21 03:05 PM_:
 
 !praise @Lauren for sharing Labs SourceCred session. I intended to join but couldn't make it at that time
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 <h3>JessicaZartler <img src="https://cdn.discordapp.com/avatars/734527275630067746/f22afc0e56286dfc9b99181251f9be5b.png" width=25 height=25></h3>
 
@@ -736,9 +660,6 @@ _20-May-21 02:58 PM_:
 
 Thanks much friend!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
-
-2
 
 <h3>Juankbell <img src="https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png" width=25 height=25></h3>
 
@@ -750,9 +671,7 @@ Gravity Wg Call notes
 
 Thursday 20 may 2021 Intro questions. How often do you like to experience change or enjoy going out of your comfort zone? I love change, sometimes Specific relation to change. Big changes are more difficult than small changes. I didn't know how to relate to a place, a job. Changing jobs, mov...
 
-[https://lh5.googleusercontent.com/tSsc4btG-l4pFo7isv-Ql2z0ixFopDK-qXd0mKNaEFv5FR17637vGxqOhAEVXoH3H2f_HTsT-QW09w=w1200-h630-p](https://lh5.googleusercontent.com/tSsc4btG-l4pFo7isv-Ql2z0ixFopDK-qXd0mKNaEFv5FR17637vGxqOhAEVXoH3H2f_HTsT-QW09w=w1200-h630-p)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f603.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+[https://lh5.googleusercontent.com/tSsc4btG-l4pFo7isv-Ql2z0ixFopDK-qXd0mKNaEFv5FR17637vGxqOhAEVXoH3H2f_HTsT-QW09w=w1200-h630-p](https://lh5.googleusercontent.com/tSsc4btG-l4pFo7isv-Ql2z0ixFopDK-qXd0mKNaEFv5FR17637vGxqOhAEVXoH3H2f_HTsT-QW09w=w1200-h630-p) <img src="https://twemoji.maxcdn.com/2/72x72/1f603.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -760,9 +679,6 @@ _23-May-21 12:48 PM_:
 
 hey @ygg_anderson @sem(🌸,🐝) @JessicaZartler I won't be able to join the session today, but wanted to share 2 points we discussed in soft gov that could be interesting. 1. How would the results look if we played with the percentage of IH that went to paid contributors. Right now we have 15%. We could look into 30, 40 and 50 for example. 2. Is there a way to map the double praises just to look at them grouped? (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -780,9 +696,7 @@ _24-May-21 12:50 AM_:
 
 Lauren
 
-[Hey friends, I never used screencast before, but a bit after the lab started today (featuring @danlessa  ) I decided to try it out so that anyone who missed the session could still get in on it! So apologies for starting late, but I got most of it!](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50>
+[Hey friends, I never used screencast before, but a bit after the lab started today (featuring @danlessa  ) I decided to try it out so that anyone who missed the session could still get in on it! So apologies for starting late, but I got most of it!](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=20 height=20>
 
 [https://www.screencast.com/t/jLd8mGyr8i1T](https://www.screencast.com/t/jLd8mGyr8i1T)
 
@@ -813,9 +727,6 @@ Outlining the above topics here:
 
 ![https://hackmd.io/favicon.png](https://hackmd.io/favicon.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png" width=50 height=50>
-
-2
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -851,9 +762,6 @@ _26-May-21 03:50 PM_:
 
 very interesting to look in more depth as well. Maybe we can have enough results to make a few decisions before the Hatch, and continue to look at it for longer after to continue improving the system even for when we have the Commons active :)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 Happy to support however I can, had to jump earlier today but it's great to see the progress being made and the care with everything
 
@@ -873,44 +781,25 @@ And Omega - standards setting and education - @solsista labs WG, what do you thi
 
 ![https://media.tenor.co/images/ded596fcfabe6a8040a0f4a11635eb92/tenor.png](https://media.tenor.co/images/ded596fcfabe6a8040a0f4a11635eb92/tenor.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f57a.png" width=50 height=50>
-
-1
 
 From today ^^ @🐙 octopus is Oscar, @JessicaZartler and @akrtws (TE Academy) are Darryl and Kevin ahhaha (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f41d.png" width=50 height=50>
-
-6
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _27-May-21 11:33 AM_:
-Hey Labs peeps! Has anyone been working on a cool model or learned anything exciting in cadCAD recently? I'm looking for someone to show off their model off in the monthly cadCAD community call next wednesday
+Hey Labs peeps! Has anyone been working on a cool model or learned anything exciting in cadCAD recently? I'm looking for someone to show off their model off in the monthly cadCAD community call next wednesday <img src="https://twemoji.maxcdn.com/2/72x72/1f4c8.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c8.png" width=50 height=50>
-
-For the group that recently wrapped up the boot camp, the capstone models would be perfect content! (@blairv @Lauren @DecentralizeSDGs @Letty @johann @mateodaza ) If you'd be interested, plz reach out
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+For the group that recently wrapped up the boot camp, the capstone models would be perfect content! (@blairv @Lauren @DecentralizeSDGs @Letty @johann @mateodaza ) If you'd be interested, plz reach out <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 Last month I presented a model that simulated the size of my monstera house plant... needless to say the bar is low on complexity
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f966.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png](https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png)
 
@@ -928,9 +817,7 @@ yesss!!!!!!!
 
 phacker
 
-[Hey Labs peeps! Has anyone been working on a cool model or learned anything exciting in cadCAD recently? I'm looking for someone to show off their model off in the monthly cadCAD community call next wednesday  For the group that recently wrapped up the boot camp, the capstone models would be perfect content! (@blairv @Lauren @DecentralizeSDGs @Letty @johann @mateodaza ) If you'd be interested, plz reach out](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c8.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+[Hey Labs peeps! Has anyone been working on a cool model or learned anything exciting in cadCAD recently? I'm looking for someone to show off their model off in the monthly cadCAD community call next wednesday  For the group that recently wrapped up the boot camp, the capstone models would be perfect content! (@blairv @Lauren @DecentralizeSDGs @Letty @johann @mateodaza ) If you'd be interested, plz reach out](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f4c8.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -968,9 +855,6 @@ Just applied to @oceanprotocol DAO grants round 6 to build out tokenspice2 into 
 
 Twitter • 31-May-21 08:01 PM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -979,13 +863,9 @@ Hey Labs peeps! Just wanted to quickly shill the cadCAD community call happening
 
 [https://discord.gg/hp7NWgRc)](https://discord.gg/hp7NWgRc))
 
-. A few of our very own Python
+. A few of our very own Python <img src="https://twemoji.maxcdn.com/2/72x72/1f9d9.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9d9.png" width=50 height=50>
-
-‍♂️wizards @ygg_anderson and @sem(🌸,🐝) will be showing off some analysis on the mathematical specs of Bancor bonding curves! Should be a good time, come check it out
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+‍♂️wizards @ygg_anderson and @sem(🌸,🐝) will be showing off some analysis on the mathematical specs of Bancor bonding curves! Should be a good time, come check it out <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 (edited)
 
@@ -995,9 +875,6 @@ Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang
 
 ![https://discord.com/assets/652f40427e1f5186ad54836074898279.png](https://discord.com/assets/652f40427e1f5186ad54836074898279.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-2
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -1021,9 +898,7 @@ _03-Jun-21 06:54 PM_:
 
 _03-Jun-21 08:49 PM_:
 
-[https://forum.tecommons.org/t/labs-working-group/410](https://forum.tecommons.org/t/labs-working-group/410)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f52c.png" width=50 height=50>
+[https://forum.tecommons.org/t/labs-working-group/410](https://forum.tecommons.org/t/labs-working-group/410) <img src="https://twemoji.maxcdn.com/2/72x72/1f52c.png" width=20 height=20>
 
 Labs Working Group
 
@@ -1048,13 +923,9 @@ ygg_anderson
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _04-Jun-21 05:48 AM_:
-we haven't discussed timing for the next iteration of cadCAD working groups, but I would vote for earlier in the day / week
+we haven't discussed timing for the next iteration of cadCAD working groups, but I would vote for earlier in the day / week <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
-
-630pm friday's is tough for us in euro
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+630pm friday's is tough for us in euro <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
@@ -1087,9 +958,7 @@ First Labs Synch Friday June 4th 2021 Ygg, chuy,
 <h3>Craig <img src="https://cdn.discordapp.com/avatars/655144629481635841/67b40701b6568cef805b1a099eaa2614.png" width=25 height=25></h3>
 
 _04-Jun-21 12:37 PM_:
-@ygg_anderson here is an example of the kind of applications i work on. grad work actually in snow hydrology (snowmelt runoff/snowpack metamorphism/energy balance modeling) but cut my teeth developing flow and water temperature models for grand canyon. lots and lots of field work
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+@ygg_anderson here is an example of the kind of applications i work on. grad work actually in snow hydrology (snowmelt runoff/snowpack metamorphism/energy balance modeling) but cut my teeth developing flow and water temperature models for grand canyon. lots and lots of field work <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 alas, that was a few decades ago. some nice visualizations in here. happy to share other resources.
 
@@ -1097,21 +966,13 @@ alas, that was a few decades ago. some nice visualizations in here. happy to sha
 
 CVTEMP
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6a3.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f499.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/655144629481635841/67b40701b6568cef805b1a099eaa2614.png](https://cdn.discordapp.com/avatars/655144629481635841/67b40701b6568cef805b1a099eaa2614.png)
 
 Craig
 
-[@ygg_anderson here is an example of the kind of applications i work on. grad work actually in snow hydrology (snowmelt runoff/snowpack metamorphism/energy balance modeling) but cut my teeth developing flow and water temperature models for grand canyon. lots and lots of field work  alas, that was a few decades ago. some nice visualizations in here. happy to share other resources.](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+[@ygg_anderson here is an example of the kind of applications i work on. grad work actually in snow hydrology (snowmelt runoff/snowpack metamorphism/energy balance modeling) but cut my teeth developing flow and water temperature models for grand canyon. lots and lots of field work  alas, that was a few decades ago. some nice visualizations in here. happy to share other resources.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 [https://oceanview.pfeg.noaa.gov/CVTEMP/](https://oceanview.pfeg.noaa.gov/CVTEMP/)
 
@@ -1135,9 +996,6 @@ The Discord Bot that tracks voice channel presence - longtailfinancial/alexandra
 
 [https://opengraph.githubassets.com/14defb2b41bf348675ac3ac38b791379f6db0cb7a757bae2654ce0d3ea89f016/longtailfinancial/alexandra](https://opengraph.githubassets.com/14defb2b41bf348675ac3ac38b791379f6db0cb7a757bae2654ce0d3ea89f016/longtailfinancial/alexandra)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>maghaali <img src="https://cdn.discordapp.com/avatars/768695037835083826/f9219f1ed8376cd97ea8b097e47025db.png" width=25 height=25></h3>
 
@@ -1145,9 +1003,6 @@ _06-Jun-21 05:06 PM_:
 
 [https://bondingcurve.herokuapp.com/app](https://bondingcurve.herokuapp.com/app)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2665.png" width=50 height=50>
-
-1
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -1186,9 +1041,7 @@ Meeting video:
 
 **1. Which WGs will stand-up first and who's in them?**
 
-Based on some feedback in the meeting about overlap in the initial list of WGs (thanks @ygg_anderson!), and to hopefully avoid chaos off the bat, the original list has collapsed down into 2 initial WGs: 1. Conceptual Ecosystem Mapping 2. MVP development Both groups (especially #1) can quickly evolve into more as we identify focus areas over the next one or two meetings. For example, from WG#1 could spawn a cadCAD Modeling WG as soon as the conceptual components are ready! As for participants, anyone is welcome to join any WG! Calls will continue to be held in this channel for now so just jump on in
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Based on some feedback in the meeting about overlap in the initial list of WGs (thanks @ygg_anderson!), and to hopefully avoid chaos off the bat, the original list has collapsed down into 2 initial WGs: 1. Conceptual Ecosystem Mapping 2. MVP development Both groups (especially #1) can quickly evolve into more as we identify focus areas over the next one or two meetings. For example, from WG#1 could spawn a cadCAD Modeling WG as soon as the conceptual components are ready! As for participants, anyone is welcome to join any WG! Calls will continue to be held in this channel for now so just jump on in <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 **2. Next scheduled meetings**
 
@@ -1206,9 +1059,6 @@ _09-Jun-21 09:29 AM_:
 
 Thanks @phacker. I would like to kick-off a working group of client/partner/tender acquisition. Which working group would that be, marketplace design?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -1216,45 +1066,29 @@ _09-Jun-21 09:57 AM_:
 
 yess - think marketplace design is a perfect WG idea. Was expecting that to be one of the first to spin out from Conceptual Mapping WG so would be awesome if you got the ball rolling!
 
-And for everyone else too - The Conceptual Mapping WG is meant to be a catch-all working group in the very near-term as themes / topics solidify, but if you feel like one is already concrete enough, please feel free to jump in and start coordinating
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+And for everyone else too - The Conceptual Mapping WG is meant to be a catch-all working group in the very near-term as themes / topics solidify, but if you feel like one is already concrete enough, please feel free to jump in and start coordinating <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>PhilKK <img src="https://cdn.discordapp.com/avatars/570900249833635840/74c009ea6cda823461d04ddc850746da.png" width=25 height=25></h3>
 
 _09-Jun-21 05:06 PM_:
 sounds great @phacker looking forward to Friday, I hope I can make it to the NFT work shop - otherwise 18:00. Thanks for organizing
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _10-Jun-21 11:36 AM_:
-For anyone who missed the kick-off meeting, we've now got the Recording uploaded to youtube
+For anyone who missed the kick-off meeting, we've now got the Recording uploaded to youtube <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
 
-[https://www.youtube.com/watch?v=DwEbpwgeWVg](https://www.youtube.com/watch?v=DwEbpwgeWVg)
-
-[Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
-
-TE Services (LT-TE) Working Groups Kick Off
+[TE Services (LT-TE) Working Groups Kick Off](https://www.youtube.com/watch?v=DwEbpwgeWVg)
 
 TEC Services Kickoff 1. State-of-the-project update - [https://www.notion.so/WG-Ecosystem-mapping-573376778d604c00b3e3a5a2b22c0128#116a87ae665c419fae2b36be9b8b499b](https://www.notion.so/573376778d604c00b3e3a5a2b22c0128) 2. Near-term prioritization - Which working groups should we s...
 
 ![https://i.ytimg.com/vi/DwEbpwgeWVg/maxresdefault.jpg](https://i.ytimg.com/vi/DwEbpwgeWVg/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
-
-3
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -1284,9 +1118,6 @@ Linktree. Make your link do more.
 
 [https://d1fdloi71mui9q.cloudfront.net/z1yPOWoQnCZ1XyjauQ8Q_UNU8nQz8OpIoW7y1](https://d1fdloi71mui9q.cloudfront.net/z1yPOWoQnCZ1XyjauQ8Q_UNU8nQz8OpIoW7y1)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f35e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/emojis/835527259359936522.png](https://cdn.discordapp.com/emojis/835527259359936522.png)
 
@@ -1295,17 +1126,13 @@ Linktree. Make your link do more.
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _10-Jun-21 03:06 PM_:
-A quick reminder for the two meetings tomorrow: - MVP working group @ 1430 - 1600 CET - Conceptual Ecosystem Mapping @ 1800 CET If you're interested in kicking off a WG of your own, definitely make it to the second meeting as we're planning a deep brainstorm sesh on topics like Service Marketplace Design, DAO mechanics, cadCAD modeling, and Organizational Partnerships
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+A quick reminder for the two meetings tomorrow: - MVP working group @ 1430 - 1600 CET - Conceptual Ecosystem Mapping @ 1800 CET If you're interested in kicking off a WG of your own, definitely make it to the second meeting as we're planning a deep brainstorm sesh on topics like Service Marketplace Design, DAO mechanics, cadCAD modeling, and Organizational Partnerships <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png](https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png)
 
 phacker
 
-[A quick reminder for the two meetings tomorrow: - MVP working group @ 1430 - 1600 CET - Conceptual Ecosystem Mapping @ 1800 CET If you're interested in kicking off a WG of your own, definitely make it to the second meeting as we're planning a deep brainstorm sesh on topics like Service Marketplace Design, DAO mechanics, cadCAD modeling, and Organizational Partnerships](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+[A quick reminder for the two meetings tomorrow: - MVP working group @ 1430 - 1600 CET - Conceptual Ecosystem Mapping @ 1800 CET If you're interested in kicking off a WG of your own, definitely make it to the second meeting as we're planning a deep brainstorm sesh on topics like Service Marketplace Design, DAO mechanics, cadCAD modeling, and Organizational Partnerships](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 <h3>ejlsh-dt <img src="https://cdn.discordapp.com/avatars/829003069449961503/c4d3de7268aaee2eb82860b43c400e50.png" width=25 height=25></h3>
 
@@ -1316,9 +1143,6 @@ I am out tomorrow afternoon so won't be around, however if anyone starts a WG on
 
 to join - it's a topic I'm really interested in picking up
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -1335,9 +1159,7 @@ A new tool that blends your everyday work apps into one. It's the all-in-one wor
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _11-Jun-21 10:20 AM_:
-MVP WG - awesome meeting
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f942.png" width=50 height=50>
+MVP WG - awesome meeting <img src="https://twemoji.maxcdn.com/2/72x72/1f942.png" width=20 height=20>
 
 here's the links / next steps we discussed: - Miro board:
 
@@ -1351,13 +1173,9 @@ Next meeting will be again on
 
 **Friday @ 1500 CET**
 
-. Please do some a-sync work on the stakeholder profiles & interaction matrix before next week, and if you happen to get sucked down the IAMM or Skill Forest rabbit holes, that certainly wouldn't be time wasted
+. Please do some a-sync work on the stakeholder profiles & interaction matrix before next week, and if you happen to get sucked down the IAMM or Skill Forest rabbit holes, that certainly wouldn't be time wasted <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
-
-coordination / discussion on discord is encouraged too
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+coordination / discussion on discord is encouraged too <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 Sign up - Miro - Online Whiteboard for Visual Collaboration
 
@@ -1371,9 +1189,6 @@ A new tool that blends your everyday work apps into one. It's the all-in-one wor
 
 ![https://www.notion.so/images/meta/default.png](https://www.notion.so/images/meta/default.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
@@ -1383,18 +1198,14 @@ A new tool that blends your everyday work apps into one. It's the all-in-one wor
 
 phacker
 
-[For anyone who missed the kick-off meeting, we've now got the Recording uploaded to youtube](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+[For anyone who missed the kick-off meeting, we've now got the Recording uploaded to youtube](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 [https://www.youtube.com/watch?v=DwEbpwgeWVg](https://www.youtube.com/watch?v=DwEbpwgeWVg)
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _11-Jun-21 01:21 PM_:
-@sem(🌸,🐝) here's that recording, enjoy
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+@sem(🌸,🐝) here's that recording, enjoy <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -1406,9 +1217,7 @@ For praise analysis, to run the force directed graph in outputs/fdg python3 -m h
 
 phacker
 
-[A quick reminder for the two meetings tomorrow: - MVP working group @ 1430 - 1600 CET - Conceptual Ecosystem Mapping @ 1800 CET If you're interested in kicking off a WG of your own, definitely make it to the second meeting as we're planning a deep brainstorm sesh on topics like Service Marketplace Design, DAO mechanics, cadCAD modeling, and Organizational Partnerships](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+[A quick reminder for the two meetings tomorrow: - MVP working group @ 1430 - 1600 CET - Conceptual Ecosystem Mapping @ 1800 CET If you're interested in kicking off a WG of your own, definitely make it to the second meeting as we're planning a deep brainstorm sesh on topics like Service Marketplace Design, DAO mechanics, cadCAD modeling, and Organizational Partnerships](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -1425,24 +1234,18 @@ metaverde
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _14-Jun-21 06:05 PM_:
-These were both one-time meetings last week, but we’ll have another MVP WG meeting on Friday this week 1500 CET. It will be on the community calendar soon
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+These were both one-time meetings last week, but we’ll have another MVP WG meeting on Friday this week 1500 CET. It will be on the community calendar soon <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png](https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png)
 
 phacker
 
-[These were both one-time meetings last week, but we’ll have another MVP WG meeting on Friday this week 1500 CET. It will be on the community calendar soon](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[These were both one-time meetings last week, but we’ll have another MVP WG meeting on Friday this week 1500 CET. It will be on the community calendar soon](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
 _14-Jun-21 06:06 PM_:
-Yeah... I was super-unclear... that's the one.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Yeah... I was super-unclear... that's the one. <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png](https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png)
 
@@ -1463,24 +1266,17 @@ let me catch up haha
 _16-Jun-21 08:31 AM_:
 Hey guys, we will meet tomorrow 10 pm CET in the labs channel to discuss topics relevant to the TE services market place. @phacker and I are looking forward to seeing you there.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-3
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _16-Jun-21 05:41 PM_:
-@ygg_anderson FYI ^ since you mentioned wanting to join
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+@ygg_anderson FYI ^ since you mentioned wanting to join <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png](https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png)
 
 phacker
 
-[MVP WG - awesome meeting  here's the links / next steps we discussed: - Miro board:](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f942.png" width=50 height=50>
+[MVP WG - awesome meeting  here's the links / next steps we discussed: - Miro board:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f942.png" width=20 height=20>
 
 [https://miro.com/welcomeonboard/bWxOQmU4M1RQOUluOFR1YVlKbEpuMncyVk5HaU5KNVowcmJ2QUZSd3c4TFB2bHlmZ1hRSEJ6Zm9ZS0JjaDBjanwzMDc0NDU3MzU0NTc3MDc4ODQ3](https://miro.com/welcomeonboard/bWxOQmU4M1RQOUluOFR1YVlKbEpuMncyVk5HaU5KNVowcmJ2QUZSd3c4TFB2bHlmZ1hRSEJ6Zm9ZS0JjaDBjanwzMDc0NDU3MzU0NTc3MDc4ODQ3)
 
@@ -1492,26 +1288,17 @@ Next meeting will be again on
 
 **Friday @ 1500 CET**
 
-. Please do some a-sync work on the stakeholder profiles & interaction matrix before next week, and if you happen to get sucked down the IAMM or Skill Forest rabbit holes, that certainly wouldn't be time wasted
+. Please do some a-sync work on the stakeholder profiles & interaction matrix before next week, and if you happen to get sucked down the IAMM or Skill Forest rabbit holes, that certainly wouldn't be time wasted <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
-
-coordination / discussion on discord is encouraged too
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+coordination / discussion on discord is encouraged too <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _17-Jun-21 04:01 PM_:
-Quick reminder for the Value Flows MVP meeting tomorrow - please have a chance to chip in on the stakeholders in the Miro board and, if you have extra time, look into the IAMM tech
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Quick reminder for the Value Flows MVP meeting tomorrow - please have a chance to chip in on the stakeholders in the Miro board and, if you have extra time, look into the IAMM tech <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 (tagging those who attended last week @freedumbs00 @liviade @PhilKK @nathalia @akrtws (TE Academy))
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 [https://www.notion.so/Services-marketplace-design-633e88e53ea94734abe743069dedbc75](https://www.notion.so/633e88e53ea94734abe743069dedbc75)
 
@@ -1525,9 +1312,7 @@ A new tool that blends your everyday work apps into one. It's the all-in-one wor
 
 phacker
 
-[Quick reminder for the Value Flows MVP meeting tomorrow - please have a chance to chip in on the stakeholders in the Miro board and, if you have extra time, look into the IAMM tech  (tagging those who attended last week @freedumbs00 @liviade @PhilKK @nathalia @akrtws (TE Academy))](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[Quick reminder for the Value Flows MVP meeting tomorrow - please have a chance to chip in on the stakeholders in the Miro board and, if you have extra time, look into the IAMM tech  (tagging those who attended last week @freedumbs00 @liviade @PhilKK @nathalia @akrtws (TE Academy))](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
@@ -1593,31 +1378,18 @@ Hack MD [https://hackmd.io/xToPTTCUT6OzhEH9rzxFGw](https://hackmd.io/xToPTTCUT6O
 
 There is a Miro board I am hunting down with some sketches.. not much but will track it down!
 
-1st session recording [https://www.youtube.com/watch?v=qsGXqyaR94o&feature=youtu.be](https://www.youtube.com/watch?v=qsGXqyaR94o&feature=youtu.be)
+1st session recording 
+[skills forest 2021 01 28](https://www.youtube.com/watch?v=qsGXqyaR94o&feature=youtu.be)
 
-[Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
+Master Zargham disseminates his benevolent vision of the skills forest to his army of web3 aeons. A summoning has begun. <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-skills forest 2021 01 28
+Thank you for watching! Hit <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
-Master Zargham disseminates his benevolent vision of the skills forest to his army of web3 aeons. A summoning has begun.
+and subscribe <img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+to support this work <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
-Thank you for watching! Hit
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-and subscribe
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=50 height=50>
-
-to support this work
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-Join the Community
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+Join the Community <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 on Discord
 
@@ -1635,9 +1407,6 @@ Join the conversation
 
 ![https://i.ytimg.com/vi/qsGXqyaR94o/maxresdefault.jpg](https://i.ytimg.com/vi/qsGXqyaR94o/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 Tanner - the founder of IAMM was working on this with us @liviade
 
@@ -1661,9 +1430,6 @@ _18-Jun-21 09:41 AM_:
 
 Example dropped in the group of coding skill sets [https://www.w3.org/community/talent-signal/wiki/Referring_skills_requirements_to_competency_definitions](https://www.w3.org/community/talent-signal/wiki/Referring_skills_requirements_to_competency_definitions)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 (I should put this library somewhere... oy)
 
@@ -1683,9 +1449,7 @@ Skills and Levels, Online Whiteboard for Visual Collaboration
 
 ![https://cdn.loom.com/sessions/thumbnails/public/c6bf59a8da604824abe44a663457adf2-with-play.gif](https://cdn.loom.com/sessions/thumbnails/public/c6bf59a8da604824abe44a663457adf2-with-play.gif)
 
-Yes - that Tanner @kadmelia - he's a genius
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+Yes - that Tanner @kadmelia - he's a genius <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 Skill discovery game from Metagame [https://forum.metagame.wtf/t/rfc-skill-discovery-discord-mini-game/607](https://forum.metagame.wtf/t/rfc-skill-discovery-discord-mini-game/607)
 
@@ -1705,11 +1469,8 @@ A Discord bot that helps you discover skills and interests among people in your 
 
 [https://opengraph.githubassets.com/ef4e671f634ff6d109230112cb512d8aa9845f68c41a5126e992c7efa8bd9439/MetaFam/skill-bot](https://opengraph.githubassets.com/ef4e671f634ff6d109230112cb512d8aa9845f68c41a5126e992c7efa8bd9439/MetaFam/skill-bot)
 
-[https://www.youtube.com/watch?v=sl1LpdPdgtU](https://www.youtube.com/watch?v=sl1LpdPdgtU)
 
-[Sad Birds Gaming](https://www.youtube.com/channel/UCpV5xOAT_EvfCcehL-W3s-Q)
-
-Deep Work Skill System Presentation with Andrej
+[Deep Work Skill System Presentation with Andrej](https://www.youtube.com/watch?v=sl1LpdPdgtU)
 
 Proof of Expertise: Decentralizing Intellectual Legitimacy Narrator: Andrej A gathering assembled on google hangouts to discuss decentralized skill systems and introduce the process deepwork has applied and observed. We do an introductory review of the problem of expert vs collaborator and did a quick intro of players and perspectives. We est...
 
@@ -1771,9 +1532,6 @@ _18-Jun-21 10:05 AM_:
 
 Had to jump thanks guys!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3c3-200d-2642.png" width=50 height=50>
-
-1
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -1787,16 +1545,11 @@ _18-Jun-21 10:14 AM_:
 
 Monday June 21 6:30pm CEST? @eli_ ?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>eli_ <img src="https://cdn.discordapp.com/avatars/512745291313840128/0b350b03b5bf881fc8cb4054509ba186.png" width=25 height=25></h3>
 
 _18-Jun-21 10:19 AM_:
-Sounds good
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
+Sounds good <img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=20 height=20>
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -1864,9 +1617,6 @@ Universal Python Library for TE Models We need to start maintaining a token engi
 
 ![https://forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png](https://forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
-
-1
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -1902,9 +1652,6 @@ _20-Jun-21 02:40 PM_:
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 <h3>maghaali <img src="https://cdn.discordapp.com/avatars/768695037835083826/f9219f1ed8376cd97ea8b097e47025db.png" width=25 height=25></h3>
 
@@ -1912,9 +1659,6 @@ _20-Jun-21 05:47 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844200/856289065753641000/newplot.png](https://cdn.discordapp.com/attachments/810180622634844200/856289065753641000/newplot.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -1928,27 +1672,19 @@ After
 
 ![https://cdn.discordapp.com/attachments/810180622634844200/856304028160884746/unknown.png](https://cdn.discordapp.com/attachments/810180622634844200/856304028160884746/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-1
 
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
 _21-Jun-21 03:48 PM_:
 Thanks @phacker @eli_ and @nathalia for the valuable sessions today! This is a praise
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60e.png" width=50 height=50>
-
-1
 
 Let's continue: - 2nd session hacking on value flows scenarios: Thursday 7pm CEST ? - 2nd call with Tannr: July 5th?
 
 <h3>nathalia <img src="https://cdn.discordapp.com/avatars/421698230087319558/6803e0f8a9aadb701dc8aeb1071f9bc2.png" width=25 height=25></h3>
 
 _21-Jun-21 04:00 PM_:
-thank you Angela
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50>
+thank you Angela <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=20 height=20>
 
 on July 5th I'll be catching a flight, but happy to watch a recording later.
 
@@ -1973,15 +1709,10 @@ akrtws (TE Academy)
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _21-Jun-21 04:44 PM_:
-FYI @PhilKK @liviade @freedumbs00 on these meeting plans since y’all have been chipping in on this ‘value flows MVP’ topic!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+FYI @PhilKK @liviade @freedumbs00 on these meeting plans since y’all have been chipping in on this ‘value flows MVP’ topic! <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 I will add the Thursday sesh to the TE calendar too
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -1989,17 +1720,8 @@ _21-Jun-21 05:01 PM_:
 
 Epic UBI Dashboard made by @maghaali [https://praisedistributions.herokuapp.com/app](https://praisedistributions.herokuapp.com/app)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/26a1.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png](https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png)
 
@@ -2012,15 +1734,10 @@ ygg_anderson
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _21-Jun-21 05:18 PM_:
-very cool! more TE model legos
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=50 height=50>
+very cool! more TE model legos <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -2028,20 +1745,13 @@ _22-Jun-21 09:23 AM_:
 
 FYI #Labs peeps - for anyone still interested in the TE-Services project, that conversation has moved to #🤝｜te-services see you there!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fc.png" width=50 height=50>
-
-1
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _24-Jun-21 08:27 AM_:
-Hey @ygg_anderson @sem(🌸,🐝) @JeffEmmett wanted to touch bases regarding the Bonding Curves meeting planned later - Tl;DR from my side, I think it’s an important topic to dive into but I personally haven’t had enough time to mull it over, so maybe we aren’t quite ready yet to meet. From my perspective, i see the upcoming hatch and prospect of actual value flows from TE services/education kicking off in the coming months (
+Hey @ygg_anderson @sem(🌸,🐝) @JeffEmmett wanted to touch bases regarding the Bonding Curves meeting planned later - Tl;DR from my side, I think it’s an important topic to dive into but I personally haven’t had enough time to mull it over, so maybe we aren’t quite ready yet to meet. From my perspective, i see the upcoming hatch and prospect of actual value flows from TE services/education kicking off in the coming months ( <img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50>
-
-) as a perfect opportunity to develop a cadCAD model of the TE ecosystem + neighboring DAOs that would even add value beyond the TEC! And, I think this could be a really awesome initiative for the #Labs WG to run with! @ygg_anderson , curious about your thoughts there and I would love to chip in as well That said, a brainstorm around bonding curves & modeling DAO2DAO relationships would definitely come up in said workstream.. so, maybe this evening is the perfect time to kick things off? Or if you 3 already have plans for the discussion then by all means we can keep the time
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+) as a perfect opportunity to develop a cadCAD model of the TE ecosystem + neighboring DAOs that would even add value beyond the TEC! And, I think this could be a really awesome initiative for the #Labs WG to run with! @ygg_anderson , curious about your thoughts there and I would love to chip in as well That said, a brainstorm around bonding curves & modeling DAO2DAO relationships would definitely come up in said workstream.. so, maybe this evening is the perfect time to kick things off? Or if you 3 already have plans for the discussion then by all means we can keep the time <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 lmk what you think!
 
@@ -2049,9 +1759,7 @@ lmk what you think!
 
 phacker
 
-[Hey @ygg_anderson @sem(🌸,🐝) @JeffEmmett wanted to touch bases regarding the Bonding Curves meeting planned later - Tl;DR from my side, I think it’s an important topic to dive into but I personally haven’t had enough time to mull it over, so maybe we aren’t quite ready yet to meet. From my perspective, i see the upcoming hatch and prospect of actual value flows from TE services/education kicking off in the coming months () as a perfect opportunity to develop a cadCAD model of the TE ecosystem + neighboring DAOs that would even add value beyond the TEC! And, I think this could be a really awesome initiative for the #Labs WG to run with! @ygg_anderson , curious about your thoughts there and I would love to chip in as well That said, a brainstorm around bonding curves & modeling DAO2DAO relationships would definitely come up in said workstream.. so, maybe this evening is the perfect time to kick things off? Or if you 3 already have plans for the discussion then by all means we can keep the time  lmk what you think!](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[Hey @ygg_anderson @sem(🌸,🐝) @JeffEmmett wanted to touch bases regarding the Bonding Curves meeting planned later - Tl;DR from my side, I think it’s an important topic to dive into but I personally haven’t had enough time to mull it over, so maybe we aren’t quite ready yet to meet. From my perspective, i see the upcoming hatch and prospect of actual value flows from TE services/education kicking off in the coming months () as a perfect opportunity to develop a cadCAD model of the TE ecosystem + neighboring DAOs that would even add value beyond the TEC! And, I think this could be a really awesome initiative for the #Labs WG to run with! @ygg_anderson , curious about your thoughts there and I would love to chip in as well That said, a brainstorm around bonding curves & modeling DAO2DAO relationships would definitely come up in said workstream.. so, maybe this evening is the perfect time to kick things off? Or if you 3 already have plans for the discussion then by all means we can keep the time  lmk what you think!](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>sem(🌸,🐝) <img src="https://cdn.discordapp.com/avatars/676517295643820032/bfcde0fd88f9b8e9c184906a5080c128.png" width=25 height=25></h3>
 
@@ -2069,16 +1777,12 @@ I need to slide out to another meeting.
 
 phacker
 
-[Hey @ygg_anderson @sem(🌸,🐝) @JeffEmmett wanted to touch bases regarding the Bonding Curves meeting planned later - Tl;DR from my side, I think it’s an important topic to dive into but I personally haven’t had enough time to mull it over, so maybe we aren’t quite ready yet to meet. From my perspective, i see the upcoming hatch and prospect of actual value flows from TE services/education kicking off in the coming months () as a perfect opportunity to develop a cadCAD model of the TE ecosystem + neighboring DAOs that would even add value beyond the TEC! And, I think this could be a really awesome initiative for the #Labs WG to run with! @ygg_anderson , curious about your thoughts there and I would love to chip in as well That said, a brainstorm around bonding curves & modeling DAO2DAO relationships would definitely come up in said workstream.. so, maybe this evening is the perfect time to kick things off? Or if you 3 already have plans for the discussion then by all means we can keep the time  lmk what you think!](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[Hey @ygg_anderson @sem(🌸,🐝) @JeffEmmett wanted to touch bases regarding the Bonding Curves meeting planned later - Tl;DR from my side, I think it’s an important topic to dive into but I personally haven’t had enough time to mull it over, so maybe we aren’t quite ready yet to meet. From my perspective, i see the upcoming hatch and prospect of actual value flows from TE services/education kicking off in the coming months () as a perfect opportunity to develop a cadCAD model of the TE ecosystem + neighboring DAOs that would even add value beyond the TEC! And, I think this could be a really awesome initiative for the #Labs WG to run with! @ygg_anderson , curious about your thoughts there and I would love to chip in as well That said, a brainstorm around bonding curves & modeling DAO2DAO relationships would definitely come up in said workstream.. so, maybe this evening is the perfect time to kick things off? Or if you 3 already have plans for the discussion then by all means we can keep the time  lmk what you think!](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>JeffEmmett <img src="https://cdn.discordapp.com/avatars/379773201405706260/ef3f53d5871426014623b8af291e195d.png" width=25 height=25></h3>
 
 _24-Jun-21 02:02 PM_:
-I am game to meet for an initial informal discussion! I haven't had time to prepare anything, but happy to discuss some of the points that have come up and figure out some next steps forward
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+I am game to meet for an initial informal discussion! I haven't had time to prepare anything, but happy to discuss some of the points that have come up and figure out some next steps forward <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -2126,12 +1830,7 @@ A new tool that blends your everyday work apps into one. It's the all-in-one wor
 
 ![https://www.notion.so/images/meta/default.png](https://www.notion.so/images/meta/default.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
-oh! and since the conclusion seemed to be "kick off a work stream in #🔬｜labs focused on Bonding Curves" let's add it to the agenda for the next weekly Labs call where there's space! @ygg_anderson
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+oh! and since the conclusion seemed to be "kick off a work stream in #🔬｜labs focused on Bonding Curves" let's add it to the agenda for the next weekly Labs call where there's space! @ygg_anderson <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -2203,9 +1902,6 @@ A Technical Introduction to Bonding Curves, for beginners - TokenEngineeringComm
 
 [https://opengraph.githubassets.com/3e90cb18d167544f889414718797f6ba0ef40aac3780764f00254dce83784f86/TokenEngineeringCommunity/intro-to-bonding-curves](https://opengraph.githubassets.com/3e90cb18d167544f889414718797f6ba0ef40aac3780764f00254dce83784f86/TokenEngineeringCommunity/intro-to-bonding-curves)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>vikram <img src="https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png" width=25 height=25></h3>
 
@@ -2273,9 +1969,6 @@ _01-Jul-21 03:47 AM_:
 
 Hi @vikram Twitter and Discourse (aka forum.tecommons.org) are the two platforms where we use currently do a weekly, bulk manual Praise to incentivize and reward engagement. SourceCred should take over for Discourse in the not too distant future. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png" width=50 height=50>
-
-2
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -2333,22 +2026,14 @@ The DAOist
 
 ![https://static-cdn.jtvnw.net/jtv_user_pictures/cc091663-82f1-4fbe-8974-bc52d20937a6-profile_image-300x300.png](https://static-cdn.jtvnw.net/jtv_user_pictures/cc091663-82f1-4fbe-8974-bc52d20937a6-profile_image-300x300.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _26-Jul-21 01:29 PM_:
-Hey Labs peeps! Has anyone been working on a cool model or learned anything exciting in cadCAD recently? I'm looking for someone to show in the monthly cadCAD Community Call next wednesday 11am PST
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c8.png" width=50 height=50>
+Hey Labs peeps! Has anyone been working on a cool model or learned anything exciting in cadCAD recently? I'm looking for someone to show in the monthly cadCAD Community Call next wednesday 11am PST <img src="https://twemoji.maxcdn.com/2/72x72/1f4c8.png" width=20 height=20>
 
 dm me if you'd be interested!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c8.png" width=50 height=50>
-
-1
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -2359,9 +2044,7 @@ _29-Jul-21 02:19 PM_:
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _30-Jul-21 10:34 AM_:
-Hello, me again! just dropping an FYI that cadCAD study sessions are starting up again next Tuesday @ 1700 CET. Excited to get a group together again, hope everyone interested can make it! Even planning to use the #🔬｜labs voice channel to meet, so you won't have to go very far
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60e.png" width=50 height=50>
+Hello, me again! just dropping an FYI that cadCAD study sessions are starting up again next Tuesday @ 1700 CET. Excited to get a group together again, hope everyone interested can make it! Even planning to use the #🔬｜labs voice channel to meet, so you won't have to go very far <img src="https://twemoji.maxcdn.com/2/72x72/1f60e.png" width=20 height=20>
 
 More deets in this message:
 
@@ -2371,9 +2054,7 @@ More deets in this message:
 
 phacker
 
-[Hello, me again! just dropping an FYI that cadCAD study sessions are starting up again next Tuesday @ 1700 CET. Excited to get a group together again, hope everyone interested can make it! Even planning to use the #🔬｜labs voice channel to meet, so you won't have to go very far  More deets in this message:](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60e.png" width=50 height=50>
+[Hello, me again! just dropping an FYI that cadCAD study sessions are starting up again next Tuesday @ 1700 CET. Excited to get a group together again, hope everyone interested can make it! Even planning to use the #🔬｜labs voice channel to meet, so you won't have to go very far  More deets in this message:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f60e.png" width=20 height=20>
 
 [https://discord.com/channels/701149241107808327/771811616072794192/870672845099900939](https://discord.com/channels/701149241107808327/771811616072794192/870672845099900939)
 
@@ -2426,14 +2107,10 @@ vikram
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _04-Aug-21 07:35 AM_:
-definitely no skill requirements (I'm a beginner myself), just plan the time and let people know so they can join you! I can help you get it up on the right community calendars, and we should try and stay in-sync on resources / content if you do! so keep me posted
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+definitely no skill requirements (I'm a beginner myself), just plan the time and let people know so they can join you! I can help you get it up on the right community calendars, and we should try and stay in-sync on resources / content if you do! so keep me posted <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 (edited)
-. And speaking of cadCAD
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60f.png" width=50 height=50>
+. And speaking of cadCAD <img src="https://twemoji.maxcdn.com/2/72x72/1f60f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f60f.png" width=20 height=20>
 
 there are some awesome topics on the schedule for the
 
@@ -2473,9 +2150,7 @@ yup I've done the beginner and hacks courses
 
 phacker
 
-[definitely no skill requirements (I'm a beginner myself), just plan the time and let people know so they can join you! I can help you get it up on the right community calendars, and we should try and stay in-sync on resources / content if you do! so keep me posted   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+[definitely no skill requirements (I'm a beginner myself), just plan the time and let people know so they can join you! I can help you get it up on the right community calendars, and we should try and stay in-sync on resources / content if you do! so keep me posted   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 <h3>vikram <img src="https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png" width=25 height=25></h3>
 
@@ -2487,9 +2162,7 @@ ok cool! Will start with an arbitrary time atm until more ppl in this time zone 
 
 phacker
 
-[definitely no skill requirements (I'm a beginner myself), just plan the time and let people know so they can join you! I can help you get it up on the right community calendars, and we should try and stay in-sync on resources / content if you do! so keep me posted   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+[definitely no skill requirements (I'm a beginner myself), just plan the time and let people know so they can join you! I can help you get it up on the right community calendars, and we should try and stay in-sync on resources / content if you do! so keep me posted   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 <h3>vikram <img src="https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png" width=25 height=25></h3>
 
@@ -2509,17 +2182,12 @@ _05-Aug-21 06:38 AM_:
 
 [https://forum.tecommons.org/t/cadcad-education-working-groups/433](https://forum.tecommons.org/t/cadcad-education-working-groups/433)
 
-cadCAD education working groups!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
+cadCAD education working groups! <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=20 height=20>
 
 cadCAD Education Study Group Proposal Information Proposal Description: An accurate and detailed description of what you are proposing This is a proposal for funding the coordination of weekly cadCAD study sessions for the TEC community lead by Peter (@heater) and Blair (@BlairV) to help guide the community of new and aspiring Token Engineer...
 
 ![https://forum.tecommons.org/uploads/default/optimized/1X/8dff87a0ff204ea15e4ec062ad000eb32167ee62_2_1024x782.jpeg](https://forum.tecommons.org/uploads/default/optimized/1X/8dff87a0ff204ea15e4ec062ad000eb32167ee62_2_1024x782.jpeg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png" width=50 height=50>
-
-1
 
 Check out this proposal, we mentioned a bunch of the available content in there!
 
@@ -2539,11 +2207,8 @@ Proposal Inverter HAckmd: [https://hackmd.io/34vxVwJsTS-xgfYWSorxgg?both](https:
 
 _06-Aug-21 12:47 PM_:
 
-[https://www.youtube.com/watch?v=LEKwQxO4EZU](https://www.youtube.com/watch?v=LEKwQxO4EZU)
 
-[Amaze Lab](https://www.youtube.com/channel/UCKXEESjIEsKmGzws3fDKwFA)
-
-Why army ants get trapped in ‘death circles’
+[Why army ants get trapped in ‘death circles’](https://www.youtube.com/watch?v=LEKwQxO4EZU)
 
 Army ants are blind and use pheromones to follow trails of other ants, but if a trail loops they get locked running in an endless circle.
 
@@ -2561,9 +2226,6 @@ _08-Aug-21 06:02 AM_:
 
 cool! had a look at this and I think I'll start with an hour a week to do a temperature check for interest in this time zone. If there is interest then will follow the outline in the proposal so there is consistency.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/3.png](https://cdn.discordapp.com/embed/avatars/3.png)
 
@@ -2581,9 +2243,6 @@ cadCAD Study Group Series 2
 
 Hello!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>vikram <img src="https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png" width=25 height=25></h3>
 
@@ -2591,9 +2250,6 @@ _10-Aug-21 07:16 PM_:
 
 doing a kick-off cadCAD study group APAC edition as an extension to @phacker 's group. These are the time zones that will cover it. Los Angeles, USA Tue, 10 Aug 2021 at 7:30 p.m. PDT Melbourne, Australia Wed, 11 Aug 2021 at 12:30 p.m. AEST Singapore, Singapore Wed, 11 Aug 2021 at 10:30 a.m. SGT Bengaluru, India Wed, 11 Aug 2021 at 8:00 a.m. IST Corresponding UTC Wed, 11 Aug 2021 at 02:30 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4a5.png" width=50 height=50>
-
-2
 
 [https://calendar.google.com/event?action=TEMPLATE&tmeid=MzU3Nm10ZWVzZWU2Mm1pZGNjbTQ1MzFoNmYgY2xheW1pbmcuc3BhY2VAbQ&tmsrc=clayming.space%40gmail.com](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzU3Nm10ZWVzZWU2Mm1pZGNjbTQ1MzFoNmYgY2xheW1pbmcuc3BhY2VAbQ&tmsrc=clayming.space%2540gmail.com) (edited)
 
@@ -2619,9 +2275,6 @@ dipa 12-Aug-21 08:38 AM
 
 Thank you @phacker for the response. Yes, I will join next week. I ve just finished the beginner cadCad course.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/3.png](https://cdn.discordapp.com/embed/avatars/3.png)
 
@@ -2644,9 +2297,7 @@ hey everyone we'll be having our first kick off for cadCAD study group APAC tomo
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _17-Aug-21 03:04 AM_:
-And for anyone looking to join the earlier session (Tuesdays 5pm CET) I’ll be traveling so I can’t make it this week. But the session can certainly still happen! Just jump in the voice channel and start hacking
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50>
+And for anyone looking to join the earlier session (Tuesdays 5pm CET) I’ll be traveling so I can’t make it this week. But the session can certainly still happen! Just jump in the voice channel and start hacking <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=20 height=20>
 
 <h3>vikram <img src="https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png" width=25 height=25></h3>
 
@@ -2708,17 +2359,11 @@ _24-Aug-21 11:08 AM_:
 
 [https://github.com/austintgriffith/scaffold-eth](https://github.com/austintgriffith/scaffold-eth)
 
-GitHub - austintgriffith/scaffold-eth:
+GitHub - austintgriffith/scaffold-eth: <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+forkable Ethereum dev stac... <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
-forkable Ethereum dev stac...
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
-
-forkable Ethereum dev stack focused on fast product iterations - GitHub - austintgriffith/scaffold-eth:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+forkable Ethereum dev stack focused on fast product iterations - GitHub - austintgriffith/scaffold-eth: <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 forkable Ethereum dev stack focused on fast product iterations
 
@@ -2728,21 +2373,12 @@ forkable Ethereum dev stack focused on fast product iterations
 
 _24-Aug-21 11:17 AM_:
 
-@David D. - TEC [https://www.youtube.com/watch?v=l5YfBArovsU&t=4058s](https://www.youtube.com/watch?v=l5YfBArovsU&t=4058s)
+@David D. - TEC 
+[cadCAD Community Call #13: cadCAD Technical Specification & Julia I... <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>](https://www.youtube.com/watch?v=l5YfBArovsU&t=4058s)
 
-[cadCAD](https://www.youtube.com/channel/UCQ6UUADq9AczXv0RmzpgBHw)
+Thank you for watching! Hit <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
-cadCAD Community Call #13: cadCAD Technical Specification & Julia I...
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-Thank you for watching! Hit
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-and subscribe
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=50 height=50>
+and subscribe <img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=20 height=20>
 
 to support this work Community call #13 was hosted by Peter Hacker from the cadCAD community. We heard from Michael Zargham and Emanuel Lima on updates to the cadCAD Technical Specifications doc and a Julia implementation of cadCAD that improves model performance. 00:00 - intros 00:15 - Generaliz...
 
@@ -2786,15 +2422,11 @@ PrimeDAO Contributors guide [https://docs.primedao.io/primedao/call-for-contribu
 
 Contributor Guide
 
-Earn Rewards and Co-ownership by contributing to PrimeDAO
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91d.png" width=50 height=50>
+Earn Rewards and Co-ownership by contributing to PrimeDAO <img src="https://twemoji.maxcdn.com/2/72x72/1f91d.png" width=20 height=20>
 
 ![https://app.gitbook.com/share/space/thumbnail/-MH0VrbEUlD_Vg90Gx8g.png](https://app.gitbook.com/share/space/thumbnail/-MH0VrbEUlD_Vg90Gx8g.png)
 
-PrimeDAO Proposal Template
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50>
+PrimeDAO Proposal Template <img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=20 height=20>
 
 This is a template proposal with guidelines on key aspects you might want to include when writing your proposal. Keep in mind it’s ok to bend or break guidelines — if your proposal doesn’t fit this template, don’t feel the need to follow the template. Write down your proposal using this templa...
 
@@ -2802,9 +2434,7 @@ This is a template proposal with guidelines on key aspects you might want to inc
 
 TEC Lab proposal to PrimeDAO for Proposal Inverter modelling and standard specification [https://docs.google.com/document/d/135ZH2AByCU7cmXbG501Cu4Xl8LgMcJiHpb_-XzhNlzY/edit?usp=sharing](https://docs.google.com/document/d/135ZH2AByCU7cmXbG501Cu4Xl8LgMcJiHpb_-XzhNlzY/edit?usp=sharing)
 
-Proposal Inverter - PrimeDAO Proposal
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50>
+Proposal Inverter - PrimeDAO Proposal <img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=20 height=20>
 
 This is a template proposal with guidelines on key aspects you might want to include when writing your proposal. Keep in mind it’s ok to bend or break guidelines — if your proposal doesn’t fit this template, don’t feel the need to follow the template. Write down your proposal using this templa...
 
@@ -2816,9 +2446,7 @@ _27-Aug-21 12:24 PM_:
 
 PrimeDAO Tokenomics [https://docs.primedao.io/primedao/tokenomics/prime-utility](https://docs.primedao.io/primedao/tokenomics/prime-utility)
 
-PRIME token
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50>
+PRIME token <img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=20 height=20>
 
 PRIME functions as a utility and reward token in Prime, alternatively referred to as a work token.
 
@@ -2839,9 +2467,7 @@ TEC Lab for the Fall There are two primary initiatives running through the TEC l
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _31-Aug-21 09:01 AM_:
-Hey folks, I won’t be able to join the cadCAD study session again today since I’m traveling, but obviously feel free to still meet! Think @PhilKK may be holding down the fort. Happy peer-learning
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+Hey folks, I won’t be able to join the cadCAD study session again today since I’m traveling, but obviously feel free to still meet! Think @PhilKK may be holding down the fort. Happy peer-learning <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 <h3>vikram <img src="https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png" width=25 height=25></h3>
 
@@ -2899,9 +2525,6 @@ Zoom is the leader in modern enterprise video communications, with an easy, reli
 
 Hi everyone, for the labs today we are starting on rewards research. For the first 30 minutes we will be attending the above panel which is incredibly relevant!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -2922,9 +2545,7 @@ ygg_anderson
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
 Thomas 11-Sep-21 04:26 AM
-Hey all, I read over all the things mentioned yesterday again during the labs session and attempted to synthesize them into one research manifest. It wasn’t quite able to get there in the end imo. I nevertheless left my attempt in the research manifest maybe it helps otherhs
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Hey all, I read over all the things mentioned yesterday again during the labs session and attempted to synthesize them into one research manifest. It wasn’t quite able to get there in the end imo. I nevertheless left my attempt in the research manifest maybe it helps otherhs <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 @Nuggan I think you took the right approach with consulting the Lit. first. Let me know if I can help
 
@@ -2932,9 +2553,7 @@ Hey all, I read over all the things mentioned yesterday again during the labs se
 
 Thomas
 
-[Hey all, I read over all the things mentioned yesterday again during the labs session and attempted to synthesize them into one research manifest. It wasn’t quite able to get there in the end imo. I nevertheless left my attempt in the research manifest maybe it helps otherhs  @Nuggan I think you took the right approach with consulting the Lit. first. Let me know if I can help](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[Hey all, I read over all the things mentioned yesterday again during the labs session and attempted to synthesize them into one research manifest. It wasn’t quite able to get there in the end imo. I nevertheless left my attempt in the research manifest maybe it helps otherhs  @Nuggan I think you took the right approach with consulting the Lit. first. Let me know if I can help](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -2946,17 +2565,12 @@ I've hacked together an overview of Coordinape. I put a link on the research man
 
 TEC Labs: Coordinape Overview
 
-Coordinape: An overview
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f98d.png" width=50 height=50>
+Coordinape: An overview <img src="https://twemoji.maxcdn.com/2/72x72/1f91d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f98d.png" width=20 height=20>
 
 According to the Gitcoin/Bankless “DAO Report”, Coordinape is establishing itself as one of the primary DAO-native reward allocation systems (replacing grants/salaries), and is being actively used in day-to-day payments by teams like Yearn, GitcoinDAO or mStable. ...
 
 [https://lh3.googleusercontent.com/p0abDF5oGRFt_Tu7OZCO8OcGKO9WT2evEnfMxBht43DNf7PZIQoG38OCbHwCEpTURNSd-cO3forsSA=w1200-h630-p](https://lh3.googleusercontent.com/p0abDF5oGRFt_Tu7OZCO8OcGKO9WT2evEnfMxBht43DNf7PZIQoG38OCbHwCEpTURNSd-cO3forsSA=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-2
 
 Feel free to add/comment stuff!
 
@@ -3049,9 +2663,7 @@ Nuggan
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 _15-Sep-21 07:43 AM_:
-@Stewards
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50> <img src="$5" width=50 height=50>
+@Stewards <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -3087,9 +2699,7 @@ The Coordinape process of letting circle members nominate new members looks cool
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
-_15-Sep-21 08:17 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+_15-Sep-21 08:17 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 That can be done, I think... Maybe we can let anyone with the <WG-group-name> role, run a command to add people to the WG? (somewhat similar to praise?) ex- !invite @user#discriminator <WG-channel-name> And this command adds the role for that WG to the user mentioned. (edited)
 
@@ -3117,9 +2727,6 @@ _15-Sep-21 11:40 AM_:
 
 Ok I just got an answer. Seems like the team themselves aren't integrating sourcecred, but a DAO is using sourcecred data as input to determine how many GIVE tokens each member gets. I'll look into it and update the report
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png](https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png)
 
@@ -3142,9 +2749,7 @@ Nuggan
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
 Thomas 16-Sep-21 04:08 PM
-Thanks for the praise! I think the summary of the actual session goes to ygg. I just tried to reconcile the research interest
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+Thanks for the praise! I think the summary of the actual session goes to ygg. I just tried to reconcile the research interest <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 But excellent work in the Coordinape report!
 
@@ -3200,9 +2805,6 @@ Against overuse of the Gini coefficient
 
 ![http://vitalik.ca/images/icon.png](http://vitalik.ca/images/icon.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 He also gave other metrics that might yield more information.
 
@@ -3212,15 +2814,9 @@ With the EtherScan data, it looks to me like it would be fairly straightforward 
 
 My context-ignorang primate-eyeballs analysis of that image says that there's a minimum blue to make it.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
-
-2
 
 Anyway, this is my attempt at rambling towards a research question for the next few weeks.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
@@ -3246,9 +2842,6 @@ _17-Sep-21 01:02 PM_:
 
 wow i find all the cool meetings! that was great yall ive been talking about coordinape at sourcecred i think it pairs well with what we are trying to create. I dont think its competition so much as i think its just another tool in the deck
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png](https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png)
 
@@ -3262,9 +2855,6 @@ _17-Sep-21 02:47 PM_:
 
 Yes! I definitely think that the there is no reason to think in terms of competition when there is such a big design space opening up
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
@@ -3291,9 +2881,7 @@ Hey! So cadCAD wouldn’t help with the data visualization (it is more on the da
 
 [https://holoviews.org/)](https://holoviews.org/))
 
-but that’s not really my expertise
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+but that’s not really my expertise <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 maybe one of the friendly data scientists here can chime in ?
 
@@ -3309,9 +2897,7 @@ phacker
 
 [https://holoviews.org/)](https://holoviews.org/))
 
-but that’s not really my expertise
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+but that’s not really my expertise <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 maybe one of the friendly data scientists here can chime in ?
 
@@ -3327,9 +2913,6 @@ _23-Sep-21 05:46 AM_:
 
 This is definitely in the right channel to find them! Anyone around the #🔬｜labs space interested / available to help our @ALOYSIOUS with some data visualization?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>Gami <img src="https://cdn.discordapp.com/avatars/725532461936935002/c66719eaed65e1ac9b6ffb0661139942.png" width=25 height=25></h3>
 
@@ -3349,9 +2932,6 @@ _23-Sep-21 12:48 PM_:
 
 the calls are on Fridays 9AM PST, and you may also find the agenda topics in the pinned messages
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/725532461936935002/c66719eaed65e1ac9b6ffb0661139942.png](https://cdn.discordapp.com/avatars/725532461936935002/c66719eaed65e1ac9b6ffb0661139942.png)
 
@@ -3394,22 +2974,15 @@ Gami
 <h3>Ata <img src="https://cdn.discordapp.com/avatars/720204738997649429/f03ad25e921f76f73fd8cc399e0f57f4.png" width=25 height=25></h3>
 
 _23-Sep-21 08:33 PM_:
-I’ll be there
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+I’ll be there <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
 Thomas 24-Sep-21 01:32 AM
-Hey all, I can't make it tonight for Labs sync and good to see the PrimeGang here
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+Hey all, I can't make it tonight for Labs sync and good to see the PrimeGang here <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 If the session is being recorded, I'd definitely give it a re-watch. It sounds there is exciting things happening (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f90d.png" width=50 height=50>
-
-1
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -3423,9 +2996,6 @@ Note: The Optimism team has long been in search of a solution on how to sustaina
 
 ![https://miro.medium.com/max/700/0*eJqfXcpZpo_WsDUN.jpg](https://miro.medium.com/max/700/0*eJqfXcpZpo_WsDUN.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>Ata <img src="https://cdn.discordapp.com/avatars/720204738997649429/f03ad25e921f76f73fd8cc399e0f57f4.png" width=25 height=25></h3>
 
@@ -3433,9 +3003,7 @@ _24-Sep-21 12:15 PM_:
 
 [https://docs.google.com/document/d/135ZH2AByCU7cmXbG501Cu4Xl8LgMcJiHpb_-XzhNlzY/edit](https://docs.google.com/document/d/135ZH2AByCU7cmXbG501Cu4Xl8LgMcJiHpb_-XzhNlzY/edit)
 
-Proposal Inverter - PrimeDAO Proposal
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50>
+Proposal Inverter - PrimeDAO Proposal <img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=20 height=20>
 
 This is a template proposal with guidelines on key aspects you might want to include when writing your proposal. Keep in mind it’s ok to bend or break guidelines — if your proposal doesn’t fit this template, don’t feel the need to follow the template. Write down your proposal using this templa...
 
@@ -3453,9 +3021,6 @@ PrimeDAO to Develop and Dogfood D2D
 
 ![https://miro.medium.com/max/1153/1*03MKibMFhZN8G1TwAxG4jQ.png](https://miro.medium.com/max/1153/1*03MKibMFhZN8G1TwAxG4jQ.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -3489,9 +3054,6 @@ _24-Sep-21 01:00 PM_:
 
 [https://discord.gg/DN4WpnWpfb](https://discord.gg/DN4WpnWpfb)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2600.png" width=50 height=50>
-
-2
 
 <h3>niksteel123 <img src="https://cdn.discordapp.com/avatars/211893298166628352/01d52bf37daa1170fbb4166ce312e651.png" width=25 height=25></h3>
 
@@ -3507,9 +3069,6 @@ Please invite me to longtail financial discord server.
 
 I am very intrigued. Heard you talk about it on the community call .
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 Thanks!
 
@@ -3525,9 +3084,6 @@ _30-Sep-21 04:32 PM_:
 
 [https://discord.gg/m5kdEsPsht](https://discord.gg/m5kdEsPsht)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9e1.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/211893298166628352/01d52bf37daa1170fbb4166ce312e651.png](https://cdn.discordapp.com/avatars/211893298166628352/01d52bf37daa1170fbb4166ce312e651.png)
 
@@ -3554,20 +3110,14 @@ Hi everyone, I've had a bit of an emergency come up and I won't be able to host 
 <h3>MS <img src="https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png" width=25 height=25></h3>
 
 _01-Oct-21 05:52 PM_:
-I was looking forward to hop into the labs today, but had conflicting meetings (getting my calendar in order
+I was looking forward to hop into the labs today, but had conflicting meetings (getting my calendar in order <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
-
-) - looking forward to next week. Everyone has been super awesome and welcoming this week
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+) - looking forward to next week. Everyone has been super awesome and welcoming this week <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
 _05-Oct-21 11:45 AM_:
-Hey all - We’ve got a pretty juicy topic this month for the cadCAD community call… Reinforcement learning combined with cadCAD agents
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62e.png" width=50 height=50>
+Hey all - We’ve got a pretty juicy topic this month for the cadCAD community call… Reinforcement learning combined with cadCAD agents <img src="https://twemoji.maxcdn.com/2/72x72/1f62e.png" width=20 height=20>
 
 thought that this group would find it interesting! You can join us in the #cadcad-CommunityCall voice channel tomorrow (wed) @ 2pm EST
 
@@ -3579,13 +3129,9 @@ thought that this group would find it interesting! You can join us in the #cadca
 
 [cadCAD (@cadcad_org)](https://twitter.com/cadcad_org)
 
-Reinforcement Learning combined with cadCAD simulations... sound cool? Join this month’s cadCAD Community Call to hear from Daniel Diez of @BloXmove on his work creating intelligent agents in cadCAD When?
+Reinforcement Learning combined with cadCAD simulations... sound cool? Join this month’s cadCAD Community Call to hear from Daniel Diez of @BloXmove on his work creating intelligent agents in cadCAD When? <img src="https://twemoji.maxcdn.com/2/72x72/1f4c5.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c5.png" width=50 height=50>
-
-Wed, Oct 6th @ 2pm EST Where?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f5fa.png" width=50 height=50>
+Wed, Oct 6th @ 2pm EST Where? <img src="https://twemoji.maxcdn.com/2/72x72/1f5fa.png" width=20 height=20>
 
 ️cadCAD Discord!
 
@@ -3620,9 +3166,6 @@ TEC Praise Quantification
 _21-Oct-21 04:19 PM_:
 Thank you for doing solidity learning sessions! Very excited
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -3651,17 +3194,13 @@ Simple Scraper bot for researching on medium. Contribute to CommonsBuild/labs-me
 <h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
 _24-Oct-21 12:06 PM_:
-Greetings, just curious if anybody knows of any attempts to date around tokenizing public transport &/or mobility? Many thanks
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+Greetings, just curious if anybody knows of any attempts to date around tokenizing public transport &/or mobility? Many thanks <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
 _25-Oct-21 06:39 PM_:
 
-We need to update the Discord link in the Labs working group post on the Forum. [https://forum.tecommons.org/t/labs-working-group/410](https://forum.tecommons.org/t/labs-working-group/410)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f52c.png" width=50 height=50>
+We need to update the Discord link in the Labs working group post on the Forum. [https://forum.tecommons.org/t/labs-working-group/410](https://forum.tecommons.org/t/labs-working-group/410) <img src="https://twemoji.maxcdn.com/2/72x72/1f52c.png" width=20 height=20>
 
 Labs Working Group
 
@@ -3689,9 +3228,7 @@ Hey Labs peeps - The TE Academy has tons of awesome programs running the next fe
 
 ![https://pbs.twimg.com/profile_images/1133711944857325568/KVQkeK5__bigger.png](https://pbs.twimg.com/profile_images/1133711944857325568/KVQkeK5__bigger.png)
 
-[#TokenEngineering (@tokengineering)](https://twitter.com/tokengineering)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9f5.png" width=50 height=50>
+[#TokenEngineering (@tokengineering)](https://twitter.com/tokengineering) <img src="https://twemoji.maxcdn.com/2/72x72/1f9f5.png" width=20 height=20>
 
 A thread on our PACKED list of #OpenScience programs and workshops with deadlines this week! You won't want to miss them!
 
@@ -3714,9 +3251,7 @@ CryptoZombies Lesson 1/ Soon to be a TEC lab!
 <h3>akrtws (TE Academy) <img src="https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png" width=25 height=25></h3>
 
 _28-Oct-21 10:02 AM_:
-@everyone FINAL PRESENTATIONS will start in 1 hour from now!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
+@everyone FINAL PRESENTATIONS will start in 1 hour from now! <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
 [https://twitter.com/tokengineering/status/1453045692512051202](https://twitter.com/tokengineering/status/1453045692512051202)
 
@@ -3724,9 +3259,7 @@ _28-Oct-21 10:02 AM_:
 
 [#TokenEngineering (@tokengineering)](https://twitter.com/tokengineering)
 
-OMNIPool Research Program - Final Presentations After a 3 month research program covering the @hydra_dx OMINPool AMM and Engineering Design Process pioneered by @Block_Science ,7 teams will present findings
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c5.png" width=50 height=50>
+OMNIPool Research Program - Final Presentations After a 3 month research program covering the @hydra_dx OMINPool AMM and Engineering Design Process pioneered by @Block_Science ,7 teams will present findings <img src="https://twemoji.maxcdn.com/2/72x72/1f4c5.png" width=20 height=20>
 
 add the event and join us Thursday @ 3pm UTC
 
@@ -3754,9 +3287,6 @@ _29-Oct-21 12:35 PM_:
 
 [https://discord.gg/E7CeyQmngE](https://discord.gg/E7CeyQmngE)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 Office Hours Tues/Thurs 12:00PST
 
@@ -3766,9 +3296,6 @@ cadCAD Edu
 
 ![https://lwfiles.mycourse.app/cadcadedu-public/56c30c6c318943f1fe262e97abee37ed.png](https://lwfiles.mycourse.app/cadcadedu-public/56c30c6c318943f1fe262e97abee37ed.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 [https://courses.consensys.net/users/sign_in](https://courses.consensys.net/users/sign_in)
 
@@ -3796,9 +3323,6 @@ _29-Oct-21 12:41 PM_:
 
 DM me for credentials
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>BK <img src="https://cdn.discordapp.com/avatars/708865402943438929/39b0b449fa6ee3b5535304f31e9cc9c0.png" width=25 height=25></h3>
 
@@ -3812,13 +3336,7 @@ Open-source version of ConsenSys Academy&#39;s Blockchain Developer Bootcamp - G
 
 [https://opengraph.githubassets.com/0177792437af146f7b5abed7f36a1e3171075d120cf4f0dbda467575e2180408/ConsenSys-Academy/Blockchain-Developer-Bootcamp](https://opengraph.githubassets.com/0177792437af146f7b5abed7f36a1e3171075d120cf4f0dbda467575e2180408/ConsenSys-Academy/Blockchain-Developer-Bootcamp)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -3833,15 +3351,10 @@ Project Management and Software Development with GitHub - ZenHub
 <h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
 _29-Oct-21 02:16 PM_:
-Ok well my curriculum seems defined for the next couple years
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
+Ok well my curriculum seems defined for the next couple years <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=20 height=20>
 
 But seriously thanks for these resources! what a list
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
-
-1
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -3849,9 +3362,6 @@ _30-Oct-21 02:51 PM_:
 
 Yeah, amazing!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50>
-
-1
 
 <h3>phacker <img src="https://cdn.discordapp.com/avatars/765317807952494634/a29fb330106d63ec6107dc05e76a0fc9.png" width=25 height=25></h3>
 
@@ -3863,13 +3373,9 @@ Hey all! If you're curious to learn more about how cadCAD can be used in practic
 
 [cadCAD (@cadcad_org)](https://twitter.com/cadcad_org)
 
-Join our cadCAD Community call tomorrow to meet and hear from three community members - qwerte, trang_nv, witwiki - on their journey using cadCAD and personal modeling use cases When?
+Join our cadCAD Community call tomorrow to meet and hear from three community members - qwerte, trang_nv, witwiki - on their journey using cadCAD and personal modeling use cases When? <img src="https://twemoji.maxcdn.com/2/72x72/1f4c5.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c5.png" width=50 height=50>
-
-Wed, Nov 3rd @ 9am UTC Where?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f5fa.png" width=50 height=50>
+Wed, Nov 3rd @ 9am UTC Where? <img src="https://twemoji.maxcdn.com/2/72x72/1f5fa.png" width=20 height=20>
 
 ️ cadCAD Discord
 
@@ -3882,9 +3388,7 @@ Twitter • 02-Nov-21 05:58 AM
 <h3>vikram <img src="https://cdn.discordapp.com/avatars/312779550230708225/956ac04ca6c6370a2e750d246f89610c.png" width=25 height=25></h3>
 
 _04-Nov-21 10:01 PM_:
-If you're interested in working on building an open-source operating system for space exploration with a holistic & diverse approach, considering joining the spacing guild and contributing to the ⌚
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2604.png" width=50 height=50>
+If you're interested in working on building an open-source operating system for space exploration with a holistic & diverse approach, considering joining the spacing guild and contributing to the ⌚ <img src="https://twemoji.maxcdn.com/2/72x72/2604.png" width=20 height=20>
 
 ️ protocol - the first foundation lego block for a united federation.
 
@@ -3894,9 +3398,7 @@ If you're interested in working on building an open-source operating system for 
 
 [Clayming Space (@ClaymingSpace)](https://twitter.com/ClaymingSpace)
 
-Did a presentation on what @ClaymingSpace is working on at the @cadcad_org community call abt the ⌚
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2604.png" width=50 height=50>
+Did a presentation on what @ClaymingSpace is working on at the @cadcad_org community call abt the ⌚ <img src="https://twemoji.maxcdn.com/2/72x72/2604.png" width=20 height=20>
 
 ️ protocol. If you're interested in contributing to this OS project consider joining the guild by dropping into our discord.
 
@@ -3908,9 +3410,6 @@ Did a presentation on what @ClaymingSpace is working on at the @cadcad_org commu
 
 Twitter • 04-Nov-21 06:49 PM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f47e.png" width=50 height=50>
-
-2
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -3953,16 +3452,11 @@ ygg_anderson
 _12-Nov-21 01:03 AM_:
 Feel better soon, @ygg_anderson!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f927.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
 _12-Nov-21 11:19 AM_:
-Hey everyone, I'm still under the weather and have decided to take this whole week off as sick leave to recover. So again, no lab today. Starting next week @metaverde will be starting a series on Solidity development! Looking forward, I'll be sure to tune in
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Hey everyone, I'm still under the weather and have decided to take this whole week off as sick leave to recover. So again, no lab today. Starting next week @metaverde will be starting a series on Solidity development! Looking forward, I'll be sure to tune in <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
@@ -4003,9 +3497,7 @@ excellent. I'll do my best to make time to join.
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
 _19-Nov-21 11:38 AM_:
-Thanks @David D. - TEC and @Yashmanso ! Feeling better! Unfortunately I can't make it to the cryptozombies today because I'm in the rewards research block at this time
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
+Thanks @David D. - TEC and @Yashmanso ! Feeling better! Unfortunately I can't make it to the cryptozombies today because I'm in the rewards research block at this time <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 cryptozombies is going to be so fun and educational!
 
@@ -4025,9 +3517,7 @@ CryptoZombies is The Most Popular, Interactive Solidity Tutorial That Will Help 
 
 ygg_anderson
 
-[Thanks @David D. - TEC and @Yashmanso ! Feeling better! Unfortunately I can't make it to the cryptozombies today because I'm in the rewards research block at this time  cryptozombies is going to be so fun and educational!](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
+[Thanks @David D. - TEC and @Yashmanso ! Feeling better! Unfortunately I can't make it to the cryptozombies today because I'm in the rewards research block at this time  cryptozombies is going to be so fun and educational!](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4035,9 +3525,6 @@ _19-Nov-21 12:59 PM_:
 
 Thank you for the opportunity!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/4.png](https://cdn.discordapp.com/embed/avatars/4.png)
 
@@ -4054,9 +3541,7 @@ Dylan
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _20-Nov-21 09:34 AM_:
-I can help with the Longtail financial part of your question
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
+I can help with the Longtail financial part of your question <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=20 height=20>
 
 the calls happen mostly in the Longtail Financial server, though I think recently they started experimenting with using twitter spaces. I highly recommend joining the server to stay up to date on where the calls will be happening. A longtailor usually posts reminders in the general chat. The office hour calls are on Tuesday and Thursday at 9pmCET.
 
@@ -4066,9 +3551,7 @@ the calls happen mostly in the Longtail Financial server, though I think recentl
 
 nic
 
-[I can help with the Longtail financial part of your question  the calls happen mostly in the Longtail Financial server, though I think recently they started experimenting with using twitter spaces. I highly recommend joining the server to stay up to date on where the calls will be happening. A longtailor usually posts reminders in the general chat. The office hour calls are on Tuesday and Thursday at 9pmCET.](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
+[I can help with the Longtail financial part of your question  the calls happen mostly in the Longtail Financial server, though I think recently they started experimenting with using twitter spaces. I highly recommend joining the server to stay up to date on where the calls will be happening. A longtailor usually posts reminders in the general chat. The office hour calls are on Tuesday and Thursday at 9pmCET.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=20 height=20>
 
 [https://discord.gg/D47b54Yj](https://discord.gg/D47b54Yj)
 
@@ -4120,13 +3603,7 @@ _23-Nov-21 09:28 AM_:
 
 YGG said through February? We'll be doing more than just CryptoZombies. We'll be deploying a coin using Remix soon, for example.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4145,19 +3622,14 @@ CryptoZombies is The Most Popular, Interactive Solidity Tutorial That Will Help 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _26-Nov-21 12:42 PM_:
-@ryeder (they/them) cryptozombies is happening now
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+@ryeder (they/them) cryptozombies is happening now <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
 _26-Nov-21 01:02 PM_:
 
-[https://www.youtube.com/watch?v=2nhXBAXHUT4&list=PLOrdl19FvoiO0zJmewwVkG8Jg-bJlABod&index=19&t=5s](https://www.youtube.com/watch?v=2nhXBAXHUT4&list=PLOrdl19FvoiO0zJmewwVkG8Jg-bJlABod&index=19&t=5s)
 
-[Billy From the Blockchain](https://www.youtube.com/channel/UCG7xOPskU9HsAJs5ywImd1Q)
-
-coin demo via Remix - Deploy and verify contract for starters
+[coin demo via Remix - Deploy and verify contract for starters](https://www.youtube.com/watch?v=2nhXBAXHUT4&list=PLOrdl19FvoiO0zJmewwVkG8Jg-bJlABod&index=19&t=5s)
 
 Learn how to make an ERC 20 Token and deploy using remix I feel like it's the next step after crypto zombies
 
@@ -4167,15 +3639,11 @@ Learn how to make an ERC 20 Token and deploy using remix I feel like it's the ne
 
 nic
 
-[@ryeder (they/them) cryptozombies is happening now](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+[@ryeder (they/them) cryptozombies is happening now](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
-_26-Nov-21 01:03 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=50 height=50>
+_26-Nov-21 01:03 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f62d.png" width=20 height=20>
 
 I'm also in Governauts at the same time
 
@@ -4183,11 +3651,8 @@ I'm also in Governauts at the same time
 
 _26-Nov-21 01:03 PM_:
 
-[https://www.youtube.com/watch?v=hXYEVVkybA8&list=PLOrdl19FvoiO0zJmewwVkG8Jg-bJlABod&index=18&t=30s](https://www.youtube.com/watch?v=hXYEVVkybA8&list=PLOrdl19FvoiO0zJmewwVkG8Jg-bJlABod&index=18&t=30s)
 
-[Billy From the Blockchain](https://www.youtube.com/channel/UCG7xOPskU9HsAJs5ywImd1Q)
-
-Deploying a Coin to test net via VS Code and Hardhat
+[Deploying a Coin to test net via VS Code and Hardhat](https://www.youtube.com/watch?v=hXYEVVkybA8&list=PLOrdl19FvoiO0zJmewwVkG8Jg-bJlABod&index=18&t=30s)
 
 VS Code: [https://code.visualstudio.com/download](https://code.visualstudio.com/download) Node JS: [https://nodejs.org/en/](https://nodejs.org/en/) Getting NPM Setup: [https://docs.npmjs.com/downloading-and-installing-node-js-and-npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) How to install yarn (similar to NPM) *done after NPM setup : [https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable) Hardhat: [https://hardhat.org/](https://hardhat.org/)
 
@@ -4200,17 +3665,12 @@ I'm moving the lab back an hour starting next week.
 _26-Nov-21 01:04 PM_:
 If this happens again in 2022 I want to prioritize it on my calendar
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f5d3.png" width=50 height=50>
-
-️
 
 ![https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png](https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png)
 
 ryeder (they/them)
 
-[If this happens again in 2022 I want to prioritize it on my calendar ️](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f5d3.png" width=50 height=50>
+[If this happens again in 2022 I want to prioritize it on my calendar ️](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f5d3.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4218,9 +3678,6 @@ _27-Nov-21 12:31 PM_:
 
 Honestly, just start CryptoZombies and if you run into any blockers dm me and I'll help you out.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fc.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png](https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png)
 
@@ -4240,15 +3697,11 @@ billyjitsu 28-Nov-21 03:11 PM
 
 [https://github.com/scaffold-eth/scaffold-eth-challenges](https://github.com/scaffold-eth/scaffold-eth-challenges)
 
-GitHub - scaffold-eth/scaffold-eth-challenges: Scaffold-Eth
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+GitHub - scaffold-eth/scaffold-eth-challenges: Scaffold-Eth <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 Chall...
 
-Scaffold-Eth
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+Scaffold-Eth <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 Challenges repository. Contribute to scaffold-eth/scaffold-eth-challenges development by creating an account on GitHub.
 
@@ -4269,9 +3722,7 @@ Node Version Manager - POSIX-compliant bash script to manage multiple active nod
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
 _28-Nov-21 04:17 PM_:
-@Nuggan @billyjitsu Searching it now, kind of want to get started on coding.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
+@Nuggan @billyjitsu Searching it now, kind of want to get started on coding. <img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=20 height=20>
 
 How it always goes.
 
@@ -4281,9 +3732,7 @@ How it always goes.
 
 metaverde
 
-[@Nuggan @billyjitsu Searching it now, kind of want to get started on coding.  How it always goes.](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
+[@Nuggan @billyjitsu Searching it now, kind of want to get started on coding.  How it always goes.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/731709354461364274/a_2195338a9ff0f9891570bf68a76365dd.gif](https://cdn.discordapp.com/avatars/731709354461364274/a_2195338a9ff0f9891570bf68a76365dd.gif)
 
@@ -4297,9 +3746,6 @@ _28-Nov-21 04:24 PM_:
 
 sudo apt-get install libsecret-1-dev fixed me up. Aha! Excellent intel. I think after we rip through a couple of CryptoZombies we'll do your Hardhat deployment then Austin's challenges. I should be good to go with them by then. This is so exciting @billyjitsu @David D. - TEC was so supportive my first few CryptoZombies. It really meant a lot. I'm going to go !praise him now. @Nuggan just super-helpful finding the challenges. You all are really top drawer.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 I can yarn add all now I'm thinking.
 
@@ -4316,13 +3762,7 @@ So much fun. This is the reminder that we're on Lesson 2 of CryptoZombies this F
 _03-Dec-21 10:17 AM_:
 Lab starts at the top of the hour. We'll be going through CryptoZombies lesson 2. After this and next week we can start on Austin Griffith's Scaffold-Eth challenges.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2665.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-2
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -4344,9 +3784,6 @@ _03-Dec-21 04:22 PM_:
 
 I think @BK#7471 was there
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4372,15 +3809,10 @@ I will appreciate if someone could help me
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
-_06-Dec-21 12:03 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/26a0.png" width=50 height=50>
+_06-Dec-21 12:03 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/26a0.png" width=20 height=20>
 
 ️ ANNOUNCEMENT
 
-<img src="https://twemoji.maxcdn.com/2/72x72/26a0.png" width=50 height=50>
-
-️
 
 [https://tenor.com/view/attention-everyone-alert-attention-listen-up-listen-to-me-gif-15663538](https://tenor.com/view/attention-everyone-alert-attention-listen-up-listen-to-me-gif-15663538)
 
@@ -4390,15 +3822,10 @@ This Friday, instead of our regular call, we will be hosting a Labs-specific PAR
 
 We will go through the commons configuration dashboard together, play around with the specs and hopefully end up submitting some brand new proposals.
 
-Feel free to join as Friday, 18:00 CET / 12:00 EST
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50>
+Feel free to join as Friday, 18:00 CET / 12:00 EST <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
 
 Have a great week everybody!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4412,9 +3839,6 @@ _08-Dec-21 12:55 PM_:
 
 Hey @Monoma23 I'm in a similar place as you: I know some C++, learning Solidity now, and I want to learn Javascript!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>osycross(🦎🦎) <img src="https://cdn.discordapp.com/avatars/746649091672637460/dc6a99993b76d5eab01fa3af8fa57326.png" width=25 height=25></h3>
 
@@ -4442,16 +3866,11 @@ _08-Dec-21 01:03 PM_:
 
 Thanks, good luck to you @Monoma23! Will share my progress here.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>Monoma23 <img src="https://cdn.discordapp.com/avatars/897131023995916319/0c261f961683bb4c6b99283f64563aed.png" width=25 height=25></h3>
 
 _08-Dec-21 05:40 PM_:
-@metaverde hey ! I want to join you the next session
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+@metaverde hey ! I want to join you the next session <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 Can you just tell me about the headlines of the courses that you did previously so I can do some researches before the next session
 
@@ -4462,9 +3881,7 @@ Here's a link to my roughout of Lesson 1.
 
 [https://forum.1hive.org/t/cryptozombies-lesson-1-soon-to-be-a-tec-lab/4581?u=metaverde](https://forum.1hive.org/t/cryptozombies-lesson-1-soon-to-be-a-tec-lab/4581?u=metaverde)
 
-This week is a params party. Next week we'll be looking at one of the Scaffold-Eth challenges. This is a learning labs series, not a course.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+This week is a params party. Next week we'll be looking at one of the Scaffold-Eth challenges. This is a learning labs series, not a course. <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 CryptoZombies Lesson 1/ Soon to be a TEC lab!
 
@@ -4480,16 +3897,12 @@ metaverde
 
 [https://forum.1hive.org/t/cryptozombies-lesson-1-soon-to-be-a-tec-lab/4581?u=metaverde](https://forum.1hive.org/t/cryptozombies-lesson-1-soon-to-be-a-tec-lab/4581?u=metaverde)
 
-This week is a params party. Next week we'll be looking at one of the Scaffold-Eth challenges. This is a learning labs series, not a course.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+This week is a params party. Next week we'll be looking at one of the Scaffold-Eth challenges. This is a learning labs series, not a course. <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>Monoma23 <img src="https://cdn.discordapp.com/avatars/897131023995916319/0c261f961683bb4c6b99283f64563aed.png" width=25 height=25></h3>
 
 _09-Dec-21 03:32 AM_:
-Thanks mate
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Thanks mate <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4532,9 +3945,7 @@ What is the overall Commons Configuration strategy? Targeting stability and a co
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 _13-Dec-21 05:51 PM_:
-apologies for the bother, but could anyone recommend a basic linux enivornment resource? I'm currently, as in the last 12 hours, trying to get up and moving on three different projects, cadcad bootcamp, ethspeedrun, and near certification, and having different issues with each. really hurtin my street cred out here
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="$5" width=50 height=50>
+apologies for the bother, but could anyone recommend a basic linux enivornment resource? I'm currently, as in the last 12 hours, trying to get up and moving on three different projects, cadcad bootcamp, ethspeedrun, and near certification, and having different issues with each. really hurtin my street cred out here <img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 <h3>BK <img src="https://cdn.discordapp.com/avatars/708865402943438929/39b0b449fa6ee3b5535304f31e9cc9c0.png" width=25 height=25></h3>
 
@@ -4547,9 +3958,7 @@ But for that you would need fish shell, what shell do you use?
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 _13-Dec-21 06:58 PM_:
-i've been using bash on some efforts, but im using a windows box with wsl, so its a mish-mash of sandbox doom
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f974.png" width=50 height=50>
+i've been using bash on some efforts, but im using a windows box with wsl, so its a mish-mash of sandbox doom <img src="https://twemoji.maxcdn.com/2/72x72/1f974.png" width=20 height=20>
 
 powershell etc
 
@@ -4557,9 +3966,7 @@ powershell etc
 
 metaverde
 
-[Lab starts at the top of the hour. We'll be going through CryptoZombies lesson 2. After this and next week we can start on Austin Griffith's Scaffold-Eth challenges.](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50>
+[Lab starts at the top of the hour. We'll be going through CryptoZombies lesson 2. After this and next week we can start on Austin Griffith's Scaffold-Eth challenges.](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=20 height=20>
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -4567,13 +3974,9 @@ _13-Dec-21 07:00 PM_:
 
 Do you know if the other learning program on ethereum's page like Ethernaut or Questbook are still functional, or useful? (edited)
 
-Questbook is all mobile typing, and Ethernaut is contract execution/security. Kinda want to learn some security stuff sooner rather than later, but all the paid courses are pretty outrageous spensive.
+Questbook is all mobile typing, and Ethernaut is contract execution/security. Kinda want to learn some security stuff sooner rather than later, but all the paid courses are pretty outrageous spensive. <img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
-
-I played with Ethernaut for at least a couple hours, and for Questbook maybe half that. Working through the browser term on Ethernaut was neat, typing Solidity into my phone, not so much.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+I played with Ethernaut for at least a couple hours, and for Questbook maybe half that. Working through the browser term on Ethernaut was neat, typing Solidity into my phone, not so much. <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 (edited)
 
@@ -4586,17 +3989,13 @@ BK
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 _13-Dec-21 07:04 PM_:
-Thanks a bunch @BK had never heard of fish shell, gonna try it now
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50>
+Thanks a bunch @BK had never heard of fish shell, gonna try it now <img src="https://twemoji.maxcdn.com/2/72x72/1f44a.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
 
 gene
 
-[apologies for the bother, but could anyone recommend a basic linux enivornment resource? I'm currently, as in the last 12 hours, trying to get up and moving on three different projects, cadcad bootcamp, ethspeedrun, and near certification, and having different issues with each. really hurtin my street cred out here](about:blank#)    
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="$5" width=50 height=50>
+[apologies for the bother, but could anyone recommend a basic linux enivornment resource? I'm currently, as in the last 12 hours, trying to get up and moving on three different projects, cadcad bootcamp, ethspeedrun, and near certification, and having different issues with each. really hurtin my street cred out here](about:blank#)     <img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4610,9 +4009,7 @@ Idk Questbook. I wouldn't mess with coding on a phone.
 
 gene
 
-[apologies for the bother, but could anyone recommend a basic linux enivornment resource? I'm currently, as in the last 12 hours, trying to get up and moving on three different projects, cadcad bootcamp, ethspeedrun, and near certification, and having different issues with each. really hurtin my street cred out here](about:blank#)    
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="$5" width=50 height=50>
+[apologies for the bother, but could anyone recommend a basic linux enivornment resource? I'm currently, as in the last 12 hours, trying to get up and moving on three different projects, cadcad bootcamp, ethspeedrun, and near certification, and having different issues with each. really hurtin my street cred out here](about:blank#)     <img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f644.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4628,13 +4025,7 @@ Solidity can be defined as a high-level programming language for executing smart
 
 ![https://i2.wp.com/www.dunebook.com/wp-content/uploads/2020/04/7-Best-Solidity-IDE.png?fit=719%2C404&ssl=1](https://i2.wp.com/www.dunebook.com/wp-content/uploads/2020/04/7-Best-Solidity-IDE.png?fit=719%2C404&ssl=1)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/261d.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60c.png" width=50 height=50>
-
-1
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -4658,9 +4049,7 @@ _14-Dec-21 09:09 AM_:
 
 This one is a bit like ethernaut.
 
-If I remember right the ethernaut challenges suddenly started requiring big amounts of test eth
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+If I remember right the ethernaut challenges suddenly started requiring big amounts of test eth <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4679,9 +4068,6 @@ Is there any lessons today
 _17-Dec-21 10:44 PM_:
 No. I had to ... Work. So I could pay bills.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>Monoma23 <img src="https://cdn.discordapp.com/avatars/897131023995916319/0c261f961683bb4c6b99283f64563aed.png" width=25 height=25></h3>
 
@@ -4691,9 +4077,7 @@ right mate .
 
 good luck on your work
 
-just let me know if there is any upcoming lessons or any useful things so I can work too and pay the bills hahaha
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+just let me know if there is any upcoming lessons or any useful things so I can work too and pay the bills hahaha <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4701,9 +4085,6 @@ _20-Dec-21 11:46 AM_:
 
 This Friday we're on. I'll be muddling about in a Scaffold-Eth challenge.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -4717,9 +4098,6 @@ The comprehensive educational resource on blockchain development with the most u
 
 ![https://static.alchemyapi.io/images/assets/w3u-banner-3.png](https://static.alchemyapi.io/images/assets/w3u-banner-3.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4733,33 +4111,22 @@ _24-Dec-21 10:32 AM_:
 
 [https://github.com/scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) Scroll down to the *Create your first NFT* link. [https://github.com/scaffold-eth/scaffold-eth/tree/simple-nft-example](https://github.com/scaffold-eth/scaffold-eth/tree/simple-nft-example)
 
-GitHub - scaffold-eth/scaffold-eth:
+GitHub - scaffold-eth/scaffold-eth: <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+forkable Ethereum dev stack f... <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
-forkable Ethereum dev stack f...
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
-
-forkable Ethereum dev stack focused on fast product iterations - GitHub - scaffold-eth/scaffold-eth:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+forkable Ethereum dev stack focused on fast product iterations - GitHub - scaffold-eth/scaffold-eth: <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 forkable Ethereum dev stack focused on fast product iterations
 
 [https://repository-images.githubusercontent.com/259354262/b4cf0600-ad99-11eb-9c65-8d56e5148da3](https://repository-images.githubusercontent.com/259354262/b4cf0600-ad99-11eb-9c65-8d56e5148da3)
 
-GitHub - scaffold-eth/scaffold-eth at simple-nft-example
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+GitHub - scaffold-eth/scaffold-eth at simple-nft-example <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 forkable Ethereum dev stack focused on fast product iterations - GitHub - scaffold-eth/scaffold-eth at simple-nft-example
 
 [https://repository-images.githubusercontent.com/259354262/b4cf0600-ad99-11eb-9c65-8d56e5148da3](https://repository-images.githubusercontent.com/259354262/b4cf0600-ad99-11eb-9c65-8d56e5148da3)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4769,9 +4136,6 @@ This is the default screen for the Scaffold-Eth starting point when you clone fr
 
 ![https://cdn.discordapp.com/attachments/810180622634844200/923974601380352030/ascaf.png](https://cdn.discordapp.com/attachments/810180622634844200/923974601380352030/ascaf.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4779,9 +4143,6 @@ _31-Dec-21 10:05 AM_:
 
 I won't be in the lab this morning as I'm working overtime this week. Next week let's mess with Scaffold-Eth and talk about a team for the EthDenver hackathon.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png](https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png)
 
@@ -4792,9 +4153,7 @@ metaverde
 <h3>Monoma23 <img src="https://cdn.discordapp.com/avatars/897131023995916319/0c261f961683bb4c6b99283f64563aed.png" width=25 height=25></h3>
 
 _03-Jan-22 01:36 PM_:
-looking forward for it mate
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+looking forward for it mate <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4802,15 +4161,11 @@ _07-Jan-22 01:45 AM_:
 
 [https://github.com/scaffold-eth/scaffold-eth-challenges](https://github.com/scaffold-eth/scaffold-eth-challenges) This is the latest iteration of the Scaffold-Eth challenges. I haven't completed any, but I've been messing around with Scaf-Eth the last few weeks. Tomorrow I can help people get set up to run the Simple NFT Example, found here: [https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-0-simple-nft](https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-0-simple-nft) It will help if people try to get it set up ahead, so you know what your issues are and we can troubleshoot together. We'll be promoting the Solidity learning labs through 1Hive TV. I was hoping to have a hackathon team for EthDenver.
 
-GitHub - scaffold-eth/scaffold-eth-challenges: Scaffold-Eth
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+GitHub - scaffold-eth/scaffold-eth-challenges: Scaffold-Eth <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 Chall...
 
-Scaffold-Eth
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+Scaffold-Eth <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 Challenges repository. Contribute to scaffold-eth/scaffold-eth-challenges development by creating an account on GitHub.
 
@@ -4818,17 +4173,12 @@ Challenges repository. Contribute to scaffold-eth/scaffold-eth-challenges develo
 
 GitHub - scaffold-eth/scaffold-eth-challenges at challenge-0-simple...
 
-Scaffold-Eth
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+Scaffold-Eth <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 Challenges repository. Contribute to scaffold-eth/scaffold-eth-challenges development by creating an account on GitHub.
 
 [https://opengraph.githubassets.com/3b6bb05fc8743c92409faa220df8723fefba09dfcf0f56c4ff01be656afdcdc6/scaffold-eth/scaffold-eth-challenges](https://opengraph.githubassets.com/3b6bb05fc8743c92409faa220df8723fefba09dfcf0f56c4ff01be656afdcdc6/scaffold-eth/scaffold-eth-challenges)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4878,9 +4228,6 @@ _07-Jan-22 06:43 PM_:
 
 @SweptbackCat I almost forgot... nor do I have his address... but it is customary to send Vitalik a Zebra NFT on bowtie Friday. If I get that far I'll share an address.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4890,9 +4237,7 @@ _07-Jan-22 08:07 PM_:
 
 Ethereum App
 
-Web site created using
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+Web site created using <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 scaffold-eth
 
@@ -4909,9 +4254,6 @@ Challenge 0 deployed on Rinkeby. Oh My Gosh!!!!
 _07-Jan-22 10:52 PM_:
 Woo !
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4940,13 +4282,9 @@ I think I have the mvp on what's required for the staking app challenge 1!
 <h3>pat.zip (TE Academy) <img src="https://cdn.discordapp.com/avatars/902543185367142400/3485dc9d4dafd5db7ec18f6ed2979c3f.png" width=25 height=25></h3>
 
 _11-Jan-22 08:38 AM_:
-hey everyone! Big thank you to our partners and everyone who participated in the RAI workshop - Modeling the Money God
+hey everyone! Big thank you to our partners and everyone who participated in the RAI workshop - Modeling the Money God <img src="https://twemoji.maxcdn.com/2/72x72/1f5ff.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f5ff.png" width=50 height=50>
-
-Wrap up article and full playlist are available now
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=50 height=50>
+Wrap up article and full playlist are available now <img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=20 height=20>
 
 [https://twitter.com/tokengineering/status/1480892464567357440](https://twitter.com/tokengineering/status/1480892464567357440)
 
@@ -4958,13 +4296,9 @@ At the end of last year, we partnered with @danilolessa @block
 
 *science @BT @guifel*
 
-and @reflexerfinance to bring to life the RAI workshop - Modeling the Money God. Check out the wrap up article & #OpenScience recordings
+and @reflexerfinance to bring to life the RAI workshop - Modeling the Money God. Check out the wrap up article & #OpenScience recordings <img src="https://twemoji.maxcdn.com/2/72x72/1f4da.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4da.png" width=50 height=50>
-
-[https://t.co/zx5VsJHpuf](https://t.co/zx5VsJHpuf)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4fa.png" width=50 height=50>
+[https://t.co/zx5VsJHpuf](https://t.co/zx5VsJHpuf) <img src="https://twemoji.maxcdn.com/2/72x72/1f4fa.png" width=20 height=20>
 
 [https://t.co/F09CFDjOG7](https://t.co/F09CFDjOG7)
 
@@ -4981,9 +4315,7 @@ _11-Jan-22 01:53 PM_:
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
 _12-Jan-22 09:59 AM_:
-I don't think I'll make it on thursday, but friday works
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+I don't think I'll make it on thursday, but friday works <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -4993,9 +4325,7 @@ _12-Jan-22 06:44 PM_:
 
 Ethereum App
 
-Web site created using
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+Web site created using <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 scaffold-eth
 
@@ -5013,9 +4343,7 @@ _14-Jan-22 11:06 AM_:
 
 Speed Run Ethereum
 
-Created using
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+Created using <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 scaffold-eth
 
@@ -5025,15 +4353,11 @@ _14-Jan-22 11:22 AM_:
 
 [https://github.com/scaffold-eth/scaffold-eth-challenges](https://github.com/scaffold-eth/scaffold-eth-challenges)
 
-GitHub - scaffold-eth/scaffold-eth-challenges: Scaffold-Eth
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+GitHub - scaffold-eth/scaffold-eth-challenges: Scaffold-Eth <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 Chall...
 
-Scaffold-Eth
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+Scaffold-Eth <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 Challenges repository. Contribute to scaffold-eth/scaffold-eth-challenges development by creating an account on GitHub.
 
@@ -5055,11 +4379,8 @@ metaverde
 
 _14-Jan-22 12:33 PM_:
 
-Ya i found this interview he did really a really good job of unpacking the different elements of NFTs [https://www.youtube.com/watch?v=i_VsgT5gfMc](https://www.youtube.com/watch?v=i_VsgT5gfMc)
-
-[Coffeezilla](https://www.youtube.com/channel/UCFQMnBA3CS502aghlcr0_aw)
-
-Right Clicking All The NFTs
+Ya i found this interview he did really a really good job of unpacking the different elements of NFTs 
+[Right Clicking All The NFTs](https://www.youtube.com/watch?v=i_VsgT5gfMc)
 
 This will anger all the ape holders Follow Geoffrey at
 
@@ -5071,9 +4392,7 @@ Follow Coffeezilla: ► Twitter:
 
 ► Instagram:
 
-[https://www.instagram.com/coffeebreak_yt/](https://www.instagram.com/coffeebreak_yt/)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3b6.png" width=50 height=50>
+[https://www.instagram.com/coffeebreak_yt/](https://www.instagram.com/coffeebreak_yt/) <img src="https://twemoji.maxcdn.com/2/72x72/1f3b6.png" width=20 height=20>
 
 Music:
 
@@ -5087,9 +4406,6 @@ Credits: 3D Artist: Ed Leszczynski
 
 ![https://i.ytimg.com/vi/i_VsgT5gfMc/maxresdefault.jpg](https://i.ytimg.com/vi/i_VsgT5gfMc/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -5123,9 +4439,6 @@ In the previous scaffold-eth challenge, we have created a Staker dApp. In this c
 
 ![https://miro.medium.com/max/1200/1*ljbOnrficYfUEVimfM2Jrw.png](https://miro.medium.com/max/1200/1*ljbOnrficYfUEVimfM2Jrw.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -5142,9 +4455,7 @@ Thank you for letting me know!
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
 _21-Jan-22 11:48 AM_:
-I wasn't ably to buy tokens from my contract address... But I redeployed, so I think I forgot to resend them from the localhost addy.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50>
+I wasn't ably to buy tokens from my contract address... But I redeployed, so I think I forgot to resend them from the localhost addy. <img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=20 height=20>
 
 Yaaaasssss!
 
@@ -5176,9 +4487,7 @@ _21-Jan-22 01:21 PM_:
 
 haha glad to hear you are making progress
 
-Challenge 1 requires me to actually think!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f915.png" width=50 height=50>
+Challenge 1 requires me to actually think! <img src="https://twemoji.maxcdn.com/2/72x72/1f915.png" width=20 height=20>
 
 I shouldve suspected after the first one was so nicely prepared and packaged like that haha (edited)
 
@@ -5198,16 +4507,12 @@ You too!
 
 graial
 
-[Challenge 1 requires me to actually think!  I shouldve suspected after the first one was so nicely prepared and packaged like that haha  (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f915.png" width=50 height=50>
+[Challenge 1 requires me to actually think!  I shouldve suspected after the first one was so nicely prepared and packaged like that haha  (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f915.png" width=20 height=20>
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
 _21-Jan-22 02:34 PM_:
-Challenge 0 is just to get us happy with Scaffold-Eth.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Challenge 0 is just to get us happy with Scaffold-Eth. <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 I did challenge 1 using a lot of modifiers to keep withdrawals to after deadline had passed and to prevent early execution and suchlike.
 
@@ -5259,15 +4564,10 @@ _24-Jan-22 08:46 PM_:
 
 Vendomatic
 
-Created using
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+Created using <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 the mighty mighty Scaffold-Eth
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9b8-200d-2640.png" width=50 height=50>
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -5277,9 +4577,7 @@ Uggg. Messed it all up before... forgot to change my address. [https://raspy-mar
 
 Vendomatic
 
-Web site created using
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+Web site created using <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 scaffold-eth
 
@@ -5289,15 +4587,11 @@ _28-Jan-22 11:12 AM_:
 
 [https://github.com/scaffold-eth/scaffold-eth-challenges](https://github.com/scaffold-eth/scaffold-eth-challenges)
 
-GitHub - scaffold-eth/scaffold-eth-challenges: Scaffold-Eth
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+GitHub - scaffold-eth/scaffold-eth-challenges: Scaffold-Eth <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 Chall...
 
-Scaffold-Eth
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+Scaffold-Eth <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 Challenges repository. Contribute to scaffold-eth/scaffold-eth-challenges development by creating an account on GitHub.
 
@@ -5359,15 +4653,11 @@ _11-Feb-22 11:19 AM_:
 
 [https://github.com/scaffold-eth/scaffold-eth-challenges](https://github.com/scaffold-eth/scaffold-eth-challenges)
 
-GitHub - scaffold-eth/scaffold-eth-challenges: Scaffold-Eth
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+GitHub - scaffold-eth/scaffold-eth-challenges: Scaffold-Eth <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 Chall...
 
-Scaffold-Eth
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+Scaffold-Eth <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 Challenges repository. Contribute to scaffold-eth/scaffold-eth-challenges development by creating an account on GitHub.
 
@@ -5407,21 +4697,12 @@ _11-Feb-22 01:20 PM_:
 
 _11-Feb-22 02:27 PM_:
 
-[https://www.youtube.com/watch?v=uFN9a3-zEGI&list=PLXAMIZb_fed5OaByfLnilGXhBI8K4U1Ik&index=60](https://www.youtube.com/watch?v=uFN9a3-zEGI&list=PLXAMIZb_fed5OaByfLnilGXhBI8K4U1Ik&index=60)
 
-[UCLA modeling class](https://www.youtube.com/channel/UCJj16pQYwvXxfUJGQ_BMXeA)
-
-17.5 Routes to Chaos in Discrete Logistic Function
+[17.5 Routes to Chaos in Discrete Logistic Function](https://www.youtube.com/watch?v=uFN9a3-zEGI&list=PLXAMIZb_fed5OaByfLnilGXhBI8K4U1Ik&index=60)
 
 ![https://i.ytimg.com/vi/uFN9a3-zEGI/maxresdefault.jpg](https://i.ytimg.com/vi/uFN9a3-zEGI/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f300.png" width=50 height=50>
-
-1
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -5429,22 +4710,15 @@ _11-Feb-22 02:55 PM_:
 
 ![https://cdn.discordapp.com/attachments/810180622634844200/941784549283745833/managing_complex_change.jpg](https://cdn.discordapp.com/attachments/810180622634844200/941784549283745833/managing_complex_change.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 If we can quantify this, we might be able to formulate adequate responses to what end results (blinking red lights) we are seeing
 
 <h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
 _11-Feb-22 10:06 PM_:
-Always a good time chatting @metaverde, here's my bike trip story if you are interested in reading up more
+Always a good time chatting @metaverde, here's my bike trip story if you are interested in reading up more <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9f8.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f6b4.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9f8.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f6b4.png" width=50 height=50>
-
-‍♂️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa82.png" width=50 height=50>
+‍♂️ <img src="https://twemoji.maxcdn.com/2/72x72/1fa82.png" width=20 height=20>
 
 [https://www.sunetrike.com/solar-impulse/my-pedal-powered-journey/](https://www.sunetrike.com/solar-impulse/my-pedal-powered-journey/)
 
@@ -5464,9 +4738,7 @@ In a salute to the 1000 solution milestone of the Solar Impulse Foundation, This
 
 _11-Feb-22 11:14 PM_:
 
-[https://github.com/scaffold-eth/scaffold-eth/pull/679](https://github.com/scaffold-eth/scaffold-eth/pull/679)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50>
+[https://github.com/scaffold-eth/scaffold-eth/pull/679](https://github.com/scaffold-eth/scaffold-eth/pull/679) <img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=20 height=20>
 
 I hope I did it all correctly.
 
@@ -5476,13 +4748,7 @@ I had to take a few assets off the artwork.json to get the files to all load, bu
 
 [https://opengraph.githubassets.com/fac17727ebef13558fd72890538a9f2549bdd6f3b5664043b854a603b79b4bdf/scaffold-eth/scaffold-eth/pull/679](https://opengraph.githubassets.com/fac17727ebef13558fd72890538a9f2549bdd6f3b5664043b854a603b79b4bdf/scaffold-eth/scaffold-eth/pull/679)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91f.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50>
-
-2
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -5492,9 +4758,6 @@ _14-Feb-22 01:24 PM_:
 
 Ermagoodness!!!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/263a.png" width=50 height=50>
-
-️
 
 I plan to be in the labs tomorrow working on the DEX, challenge-3.
 
@@ -5507,9 +4770,7 @@ awww snap!
 <h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
 _18-Feb-22 11:48 AM_:
-crap, I just remembered that i broke my headphones this week and didnt replace em yet. Gonna miss out this weeks sesh
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f615.png" width=50 height=50>
+crap, I just remembered that i broke my headphones this week and didnt replace em yet. Gonna miss out this weeks sesh <img src="https://twemoji.maxcdn.com/2/72x72/1f615.png" width=20 height=20>
 
 . Have fun tho!
 
@@ -5521,9 +4782,7 @@ _18-Feb-22 11:50 AM_:
 
 GitHub - metaverde/scaffold-eth-challenges at stakerfinal
 
-Scaffold-Eth
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=50 height=50>
+Scaffold-Eth <img src="https://twemoji.maxcdn.com/2/72x72/1f3d7.png" width=20 height=20>
 
 Challenges repository. Contribute to metaverde/scaffold-eth-challenges development by creating an account on GitHub.
 
@@ -5567,9 +4826,7 @@ Best error message ever! hahaha
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
-_26-Feb-22 03:43 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
+_26-Feb-22 03:43 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=20 height=20>
 
 Thank you.
 
@@ -5579,9 +4836,6 @@ _03-Mar-22 02:45 PM_:
 
 is there a suggested prereq python level for the bot army lab series?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -5593,9 +4847,6 @@ Summoning a Discord Bot Army - TEC Lab Series
 
 Program Overview
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -5603,9 +4854,6 @@ _04-Mar-22 11:22 AM_:
 
 @enti @Juankbell ^ the page currently on screen, please fill out participant section
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-3
 
 @EFRA ^
 
@@ -5658,9 +4906,7 @@ maybe we should pin this
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 _04-Mar-22 12:03 PM_:
-Damn, I got the timing wrong!!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
+Damn, I got the timing wrong!! <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 Original message was deleted.
 
@@ -5673,9 +4919,7 @@ Pinned a message.
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _04-Mar-22 12:05 PM_:
-I'm so excited for the rest of this course thank you
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
+I'm so excited for the rest of this course thank you <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=20 height=20>
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -5698,9 +4942,7 @@ We would be using JS, since the most stable Python library for discord(discord.p
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _04-Mar-22 12:24 PM_:
-hey @Vyvy-vi
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+hey @Vyvy-vi <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 @Theodor is also experienced in bots and said they may have some experiences to share
 
@@ -5722,9 +4964,6 @@ This guide will teach you everything you need to know about building a Discord b
 
 ![https://content.public.files.stdlib.com/shared/static/social/opengraph-discord-guide.png](https://content.public.files.stdlib.com/shared/static/social/opengraph-discord-guide.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-3
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -5806,9 +5045,6 @@ _11-Mar-22 11:59 AM_:
 
 @ygg_anderson can I share the notion doc in the working group updates? if someone were to follow async, could they add themselves to the participants? (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -5822,9 +5058,6 @@ Agenda
 
 ![https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6cccfd5d-38ce-4b86-8fac-b62b6820bacb%2FUntitled.png?table=block&id=ccf8d3d0-6c5e-4b43-ac82-bf990aa45441&width=2000&userId=&cache=v2](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6cccfd5d-38ce-4b86-8fac-b62b6820bacb%2FUntitled.png?table=block&id=ccf8d3d0-6c5e-4b43-ac82-bf990aa45441&width=2000&userId=&cache=v2)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -5832,9 +5065,6 @@ _18-Mar-22 10:00 AM_:
 
 Hi everyone, unfortunately, no lab today. @Vyvy-vi is on holidays. I was going to take over for today but I got quite sick last night and will need to rest today. Let's pickup next week and please feel free to continue building bots async! See you next week. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f37b.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png](https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png)
 
@@ -5848,9 +5078,6 @@ _18-Mar-22 10:16 AM_:
 
 get well soon!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -5858,9 +5085,6 @@ _18-Mar-22 11:00 AM_:
 
 @Ratio13 i see you on the labs channel check ygg's message ^
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -5868,9 +5092,6 @@ _18-Mar-22 11:01 AM_:
 
 To provide some support and context, I'll be doing a "Working Hours" kind-of session tomorrow (<t:1647702000:F>). I would be adding some features to the PraiseBot and the onboardingBot, while trying to give you some context about how to do certain things
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
 
@@ -5967,13 +5188,9 @@ There has only been one ‘working’ session (the other was just intro) and you
 
 [https://www.notion.so/Session-2-b1e803f0a30440cda02b616f219c696a](https://www.notion.so/Session-2-b1e803f0a30440cda02b616f219c696a)
 
-in order to catch up
+in order to catch up <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
-
-we were supposed to have another one last Friday but facilitator was ill so you can totally catch up and with the link above and once finished join us on Friday for the next session
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+we were supposed to have another one last Friday but facilitator was ill so you can totally catch up and with the link above and once finished join us on Friday for the next session <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 Session #2
 
@@ -5981,9 +5198,6 @@ Agenda
 
 ![https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6cccfd5d-38ce-4b86-8fac-b62b6820bacb%2FUntitled.png?table=block&id=ccf8d3d0-6c5e-4b43-ac82-bf990aa45441&width=2000&userId=&cache=v2](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6cccfd5d-38ce-4b86-8fac-b62b6820bacb%2FUntitled.png?table=block&id=ccf8d3d0-6c5e-4b43-ac82-bf990aa45441&width=2000&userId=&cache=v2)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png](https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png)
 
@@ -5993,13 +5207,9 @@ nic
 
 [https://www.notion.so/Session-2-b1e803f0a30440cda02b616f219c696a](https://www.notion.so/Session-2-b1e803f0a30440cda02b616f219c696a)
 
-in order to catch up
+in order to catch up <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
-
-we were supposed to have another one last Friday but facilitator was ill so you can totally catch up and with the link above and once finished join us on Friday for the next session
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+we were supposed to have another one last Friday but facilitator was ill so you can totally catch up and with the link above and once finished join us on Friday for the next session <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 <h3>Sha <img src="https://cdn.discordapp.com/avatars/923588346696052737/53fc02ac8a164cd9c04718096c03c2cb.png" width=25 height=25></h3>
 
@@ -6016,9 +5226,7 @@ Sha
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
 _22-Mar-22 07:40 AM_:
-Yes
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+Yes <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/923588346696052737/53fc02ac8a164cd9c04718096c03c2cb.png](https://cdn.discordapp.com/avatars/923588346696052737/53fc02ac8a164cd9c04718096c03c2cb.png)
 
@@ -6032,9 +5240,6 @@ _22-Mar-22 07:40 AM_:
 
 [https://discord.com/events/810180621930070088/954387850206543892](https://discord.com/events/810180621930070088/954387850206543892)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
 
@@ -6064,9 +5269,6 @@ _25-Mar-22 11:06 AM_:
 
 Hey, I'm in another call today. Was it possible to record today's session?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
@@ -6108,9 +5310,7 @@ Step-by-step tutorial for beginners showing you how to import data from Discord 
 
 _29-Mar-22 01:26 PM_:
 
-@Vyvy-vi can you confirm me the LABS call this next week is @ 11 AM EST / 5 PM CET ?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+@Vyvy-vi can you confirm me the LABS call this next week is @ 11 AM EST / 5 PM CET ? <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -6118,9 +5318,6 @@ _29-Mar-22 01:28 PM_:
 
 It's at - <t:1648825200:F>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 <h3>natesuits <img src="https://cdn.discordapp.com/avatars/417979381332443136/d145fdbe6fea9d40b4a5e729859a2a2f.png" width=25 height=25></h3>
 
@@ -6229,9 +5426,6 @@ bear100
 _08-Apr-22 11:02 AM_:
 hahaha yeah no worries! Thank you for replying quickly
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -6267,17 +5461,11 @@ Hey Labs crew! I thought y'all might be interested in the topic for today's cadC
 
 [cadCAD (@cadcad_org)](https://twitter.com/cadcad_org)
 
-Ever thought about combining cadCAD with reinforcement learning agents?
+Ever thought about combining cadCAD with reinforcement learning agents? <img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f92f.png" width=50 height=50>
+@semoticai has done just that and even open sourced their tool! We'll hear all about it in today's community call: <img src="https://twemoji.maxcdn.com/2/72x72/1f4c5.png" width=20 height=20>
 
-@semoticai has done just that and even open sourced their tool! We'll hear all about it in today's community call:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c5.png" width=50 height=50>
-
-Join us @ 1800 UTC
-
-<img src="https://twemoji.maxcdn.com/2/72x72/260e.png" width=50 height=50>
+Join us @ 1800 UTC <img src="https://twemoji.maxcdn.com/2/72x72/260e.png" width=20 height=20>
 
 ️ In the cadCAD Discord server
 
@@ -6298,9 +5486,7 @@ There is going to be a TEC Labs: after session call today (30 mins from now) - [
 <h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
 _21-Apr-22 01:42 AM_:
-Heyy
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Heyy <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 We have just been notified of this error on the website
 
@@ -6426,9 +5612,6 @@ LettuceMeet - Easy Group Scheduling
 
 The easiest way to schedule group meetings.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=50 height=50>
-
-1
 
 <h3>ygg_anderson <img src="https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png" width=25 height=25></h3>
 
@@ -6452,17 +5635,12 @@ _22-Apr-22 08:40 PM_:
 
 Hey @Vyvy-vi we ended up having a real cool jam session where we made a subgraph for tec token. It was fun.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-2
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 _22-Apr-22 11:36 PM_:
 
-oh, that's really cool
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f643.png" width=50 height=50>
+oh, that's really cool <img src="https://twemoji.maxcdn.com/2/72x72/1f643.png" width=20 height=20>
 
 maybe we can query that subgraph in one of the sessions and make the bot reflect the state of TEC tokens
 
@@ -6470,9 +5648,7 @@ maybe we can query that subgraph in one of the sessions and make the bot reflect
 
 Vyvy-vi
 
-[ maybe we can query that subgraph in one of the sessions and make the bot reflect the state of TEC tokens](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f643.png" width=50 height=50>
+[ maybe we can query that subgraph in one of the sessions and make the bot reflect the state of TEC tokens](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f643.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -6516,9 +5692,6 @@ _29-Apr-22 03:51 PM_:
 
 yes, slash commands can work in threads, provided the user has permissions to use application commands in the thread / parent channel. The access can be restricted in code by checking the interaction.channel property
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -6535,9 +5708,6 @@ You'd want to extract all the channel IDs and compare the interaction.channel.id
 
 const guildChannel = await interaction.channel.fetch(interaction.channel.id) if (!guildChannel) { // thread }
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f929.png" width=50 height=50>
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -6545,9 +5715,6 @@ _30-Apr-22 10:56 AM_:
 
 @labs-notifications We're having a labs working hours / extras session! Feel free to pop in, I'd be working on praise-bot or onboarding-bot.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
 
@@ -6569,9 +5736,7 @@ _05-May-22 08:02 AM_:
 
 test
 
-praise should work in threads
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+praise should work in threads <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 (edited)
 
@@ -6579,9 +5744,7 @@ praise should work in threads
 
 Vyvy-vi
 
-[praise should work in threads   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+[praise should work in threads   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 <h3>nic <img src="https://cdn.discordapp.com/avatars/667979309457080340/da94bccf3766d1cd08c8d5efa23eb4c0.png" width=25 height=25></h3>
 
@@ -6648,9 +5811,7 @@ yes I can do that once I get going. It's not an actual plan yet, just an idea at
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 _11-May-22 11:02 AM_:
-apologies all, I'm making my way back upwards on this channel, but am just going to ask real quick for the sake of saving a day or two of deep diving down every topic above..
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+apologies all, I'm making my way back upwards on this channel, but am just going to ask real quick for the sake of saving a day or two of deep diving down every topic above.. <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 do we have any efforts focused on hardware as of yet? I've been feeling a personal compulsion towards ingesting info on SBC's for the purpose of nodes and some personal projects (like a carberry type e85/flexfuel system in response to US gas prices) but haven't heard much along these lines from anywhere short of 1 thread on 1hive..
 
@@ -6658,11 +5819,8 @@ do we have any efforts focused on hardware as of yet? I've been feeling a person
 
 _13-May-22 06:27 AM_:
 
-Wow, this podcast episode is showing itself to be SUPER prescient retrospectively. [https://www.youtube.com/watch?v=V16U4J65xkM](https://www.youtube.com/watch?v=V16U4J65xkM)
-
-[Crypto Critics' Corner](https://www.youtube.com/channel/UCfPQrqsmYFFRK0NKLEr27Bg)
-
-Terra, Luna, and Algorithmic Stablecoins - Episode 71
+Wow, this podcast episode is showing itself to be SUPER prescient retrospectively. 
+[Terra, Luna, and Algorithmic Stablecoins - Episode 71](https://www.youtube.com/watch?v=V16U4J65xkM)
 
 In this episode Bennett Tomlin and Cas Piancey discuss the algorithmic stablecoin Terra and the corresponding governance token Luna. Along with some of the antics of chief front man Do Kwon. Read more: [https://cryptocriticscorner.com/2022/05/04/episode-71---terra-luna-and-algorithmic-stablecoins/(opens](https://cryptocriticscorner.com/2022/05/04/episode-71---terra-luna-and-algorithmic-stablecoins/(opens) in a new tab) Update on this story: h...
 
@@ -6690,9 +5848,6 @@ _20-May-22 11:05 AM_:
 
 Im going to be 15 mins late unfortunately
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -6732,13 +5887,7 @@ _24-May-22 01:08 PM_:
 
 Hi all labmates! The weekly Friday labs are going on hiatus. We are taking time to reconsider the structure of the labs and to recruit additional contributors that would like to help shape the vision of the labs going into the future.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/26a1.png" width=50 height=50>
-
-2
 
 <h3>ffstrauf - UTC +11 <img src="https://cdn.discordapp.com/avatars/275681329155407873/fdb09a592b48ed7019680d6f8a8c8f36.png" width=25 height=25></h3>
 
@@ -6746,9 +5895,6 @@ _24-May-22 07:27 PM_:
 
 Hey folks, Flo from Tokenomics DAO here. I just had a chat with @liviade to discuss modes of collaboration. We'll have an open discussion on ETH2.0 on Friday. If you're interested, check it out here: [https://discord.gg/KGGrZ9YnPw?event=977314044551757874](https://discord.gg/KGGrZ9YnPw?event=977314044551757874)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/275681329155407873/fdb09a592b48ed7019680d6f8a8c8f36.png](https://cdn.discordapp.com/avatars/275681329155407873/fdb09a592b48ed7019680d6f8a8c8f36.png)
 
@@ -6770,9 +5916,6 @@ _13-Jun-22 10:33 AM_:
 
 Hi @Vyvy-vi I remember I've seen a proposal to run a Machinations study group at TEC Labs. Is this this valid? One of the TEA host would be interested to run/support the study group - who should he best talk to?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png](https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png)
 
@@ -6792,9 +5935,6 @@ _15-Jun-22 02:08 PM_:
 
 I havn't seen the proposal. If someone can point to it that would help. Labs working group is paused due to low participation. Currently looking for collaborators to work on a re-structuring. Meanwhile we are looking at collaborating with Sampo WG to create financial modelling for TEC.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png](https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png)
 

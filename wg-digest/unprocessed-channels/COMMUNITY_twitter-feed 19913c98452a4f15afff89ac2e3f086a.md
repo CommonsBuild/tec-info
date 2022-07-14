@@ -36,9 +36,6 @@ Do you want to learn some #tokenengineering this week? Try to join one of our Pa
 
 If you thought Params Parties were great, wait till you join the Params Debates
 
-![https://twemoji.maxcdn.com/2/72x72/1f5e3.png](https://twemoji.maxcdn.com/2/72x72/1f5e3.png)
-
-️
 
 ![https://twemoji.maxcdn.com/2/72x72/1f4c6.png](https://twemoji.maxcdn.com/2/72x72/1f4c6.png)
 
@@ -342,13 +339,7 @@ _30-Nov-21 08:10 AM_:
 
 La semana pasada, algunos miembros de la comunidad se reunieron en Barranquilla para presentar proyectos de bienes públicos en Ethereum, haciendo énfasis en Token Engineering Commons.
 
-![https://twemoji.maxcdn.com/2/72x72/1f469.png](https://twemoji.maxcdn.com/2/72x72/1f469.png)
 
-‍
-
-![https://twemoji.maxcdn.com/2/72x72/1f469.png](https://twemoji.maxcdn.com/2/72x72/1f469.png)
-
-‍
 
 ![https://twemoji.maxcdn.com/2/72x72/1f466.png](https://twemoji.maxcdn.com/2/72x72/1f466.png)
 
@@ -576,13 +567,7 @@ _02-Dec-21 02:00 PM_:
 
 Today we'll be going over Chapter 6 of the book Nonviolent Communication by M. Rosenberg. Expressing with honesty & receiving with empathy help to foster coordination & understanding between humans.
 
-![https://twemoji.maxcdn.com/2/72x72/1f469.png](https://twemoji.maxcdn.com/2/72x72/1f469.png)
 
-‍
-
-![https://twemoji.maxcdn.com/2/72x72/1f469.png](https://twemoji.maxcdn.com/2/72x72/1f469.png)
-
-‍
 
 ![https://twemoji.maxcdn.com/2/72x72/1f466.png](https://twemoji.maxcdn.com/2/72x72/1f466.png)
 
@@ -772,9 +757,6 @@ Everyone is welcome
 
 ![https://twemoji.maxcdn.com/2/72x72/1f308.png](https://twemoji.maxcdn.com/2/72x72/1f308.png)
 
-![https://twemoji.maxcdn.com/2/72x72/260e.png](https://twemoji.maxcdn.com/2/72x72/260e.png)
-
-️
 
 [https://t.co/6mjUfCrc0o](https://t.co/6mjUfCrc0o)
 
@@ -1100,9 +1082,6 @@ Everyone is welcome
 
 ![https://twemoji.maxcdn.com/2/72x72/1f308.png](https://twemoji.maxcdn.com/2/72x72/1f308.png)
 
-![https://twemoji.maxcdn.com/2/72x72/260e.png](https://twemoji.maxcdn.com/2/72x72/260e.png)
-
-️
 
 [https://t.co/6mjUfCIMRW](https://t.co/6mjUfCIMRW)
 
@@ -1848,9 +1827,6 @@ _10-Jan-22 10:30 AM_:
 
 In 30 minutes the TEC will have a BIG Param Debate! Don't miss the launch and configuration of the first ever #CollaborativeEconomics design
 
-![https://twemoji.maxcdn.com/2/72x72/2600.png](https://twemoji.maxcdn.com/2/72x72/2600.png)
-
-️
 
 ![https://twemoji.maxcdn.com/2/72x72/1f33b.png](https://twemoji.maxcdn.com/2/72x72/1f33b.png)
 
@@ -2000,9 +1976,6 @@ Everyone is welcome
 
 ![https://twemoji.maxcdn.com/2/72x72/1f308.png](https://twemoji.maxcdn.com/2/72x72/1f308.png)
 
-![https://twemoji.maxcdn.com/2/72x72/260e.png](https://twemoji.maxcdn.com/2/72x72/260e.png)
-
-️
 
 [https://t.co/6mjUfCIMRW](https://t.co/6mjUfCIMRW)
 
@@ -2152,9 +2125,6 @@ _13-Jan-22 03:07 AM_:
 
 At long last this day is here!
 
-![https://twemoji.maxcdn.com/2/72x72/1f3f5.png](https://twemoji.maxcdn.com/2/72x72/1f3f5.png)
-
-️
 
 ![https://twemoji.maxcdn.com/2/72x72/1f389.png](https://twemoji.maxcdn.com/2/72x72/1f389.png)
 
@@ -2428,9 +2398,6 @@ We’re excited to bring you the first Working Group Weekly Update of the year! 
 
 these summaries are how you can stay updated on what our working groups have been up to
 
-![https://twemoji.maxcdn.com/2/72x72/1f440.png](https://twemoji.maxcdn.com/2/72x72/1f440.png)
-
-:
 
 [https://t.co/f3Xl0ObjzP](https://t.co/f3Xl0ObjzP)
 
@@ -2964,9 +2931,6 @@ Submit proposals and vote on YOUR economy
 
 ![https://twemoji.maxcdn.com/2/72x72/1f469.png](https://twemoji.maxcdn.com/2/72x72/1f469.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f3fd.png)
-
-‍
 
 ![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
 
@@ -4830,9 +4794,6 @@ Don't miss our next Community Call!
 
 Meet the community, discover how to contribute and take a look to the weekly updates!
 
-![https://twemoji.maxcdn.com/2/72x72/1f440.png](https://twemoji.maxcdn.com/2/72x72/1f440.png)
-
-➡
 
 [https://t.co/Pmiyem827O](https://t.co/Pmiyem827O)
 
@@ -5094,9 +5055,6 @@ Read more
 
 Vote here
 
-![https://twemoji.maxcdn.com/2/72x72/1f5f3.png](https://twemoji.maxcdn.com/2/72x72/1f5f3.png)
-
-️
 
 [https://t.co/l7kTGaUtNQ](https://t.co/l7kTGaUtNQ)
 
@@ -5304,9 +5262,6 @@ Don't miss our next Community Call!
 
 Meet the community, discover how to contribute and take a look to the weekly updates!
 
-![https://twemoji.maxcdn.com/2/72x72/1f440.png](https://twemoji.maxcdn.com/2/72x72/1f440.png)
-
-➡
 
 [https://t.co/PmiyempCZm](https://t.co/PmiyempCZm)
 
@@ -5388,9 +5343,6 @@ Hey! Did you know that calls in the TEC are being recorded for transparency purp
 
 That's right! You can always jump on our YouTube channel and catch up with any TEC calls
 
-![https://twemoji.maxcdn.com/2/72x72/1f601.png](https://twemoji.maxcdn.com/2/72x72/1f601.png)
-
-➡
 
 [https://t.co/vsSb5UDnzB](https://t.co/vsSb5UDnzB)
 
@@ -5666,9 +5618,6 @@ Don't miss our next Community Call!
 
 Meet the community, discover how to contribute and take a look to the weekly updates!
 
-![https://twemoji.maxcdn.com/2/72x72/1f440.png](https://twemoji.maxcdn.com/2/72x72/1f440.png)
-
-➡
 
 [https://t.co/Pmiyem827O](https://t.co/Pmiyem827O)
 
@@ -6104,9 +6053,6 @@ Day to day, our community keeps looking for ways to advance token engineering. H
 
 ![https://twemoji.maxcdn.com/2/72x72/1fac2.png](https://twemoji.maxcdn.com/2/72x72/1fac2.png)
 
-![https://twemoji.maxcdn.com/2/72x72/2600.png](https://twemoji.maxcdn.com/2/72x72/2600.png)
-
-️
 
 ![https://twemoji.maxcdn.com/2/72x72/1f36f.png](https://twemoji.maxcdn.com/2/72x72/1f36f.png)
 
@@ -7474,9 +7420,6 @@ Have you visited our #Garden? Use your $TEC to vote for your favorite proposals
 
 Join the TEC governance by signing the covenant and voting!
 
-![https://twemoji.maxcdn.com/2/72x72/1f4aa.png](https://twemoji.maxcdn.com/2/72x72/1f4aa.png)
-
-➡
 
 ![https://twemoji.maxcdn.com/2/72x72/1f33b.png](https://twemoji.maxcdn.com/2/72x72/1f33b.png)
 
@@ -8030,9 +7973,6 @@ The only way to navigate through diversity and complexity is simply … a conver
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3fb.png](https://twemoji.maxcdn.com/2/72x72/1f3fb.png)
 
-![https://twemoji.maxcdn.com/2/72x72/2600.png](https://twemoji.maxcdn.com/2/72x72/2600.png)
-
-️
 
 ![https://abs.twimg.com/icons/apple-touch-icon-192x192.png](https://abs.twimg.com/icons/apple-touch-icon-192x192.png)
 
@@ -9230,9 +9170,7 @@ _18-May-22 02:13 PM_:
 
 [Token Engineering Commons (@tecmns)](https://twitter.com/tecmns)
 
-#PrimeDeals is live!! Congrats @PrimeDAO_ for launching the next stage of #D2D collaboration
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50> 
+#PrimeDeals is live!! Congrats @PrimeDAO_ for launching the next stage of #D2D collaboration <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=20 height=20> 
 
 [https://t.co/37BM7l5ga2](https://t.co/37BM7l5ga2)
 
@@ -9354,9 +9292,6 @@ _19-May-22 04:02 PM_:
 
 Simon de la Rouviere @simondlr has been in crypto since the early days. The TEC's economic engine wouldn't be possible without Simon, since he invented Bonding Curves
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-⬇
 
 ![https://twemoji.maxcdn.com/2/72x72/1f9f5.png](https://twemoji.maxcdn.com/2/72x72/1f9f5.png)
 
@@ -9530,9 +9465,6 @@ _23-May-22 12:22 PM_:
 
 Graviton Training starts tomorrow! A 10-session course that deep dives into tools and skills to prevent and manage conflict amongst DAO contributors and also in your day-to-day! Join the TEC discord server for more information in the Gravity Channel
 
-![https://twemoji.maxcdn.com/2/72x72/1f54a.png](https://twemoji.maxcdn.com/2/72x72/1f54a.png)
-
-️
 
 [https://t.co/qRLrzN1p1P](https://t.co/qRLrzN1p1P)
 
@@ -9572,9 +9504,6 @@ Now you can donate to the TEC in @Givethio! If you want to support #TokenEnginee
 
 The funds collected by this project will be allocated by TEC Token holders to advance token engineering
 
-![https://twemoji.maxcdn.com/2/72x72/1f916.png](https://twemoji.maxcdn.com/2/72x72/1f916.png)
-
-➡
 
 [https://t.co/VQcVV4qRmk](https://t.co/VQcVV4qRmk)
 
@@ -9922,9 +9851,6 @@ _30-May-22 02:33 PM_:
 
 Third Graviton Training started last week! ✨ You can´t miss tomorrow´s session "Decolonization, Complexity, and unified thinking" by @durgadas, we have POAPs for you!
 
-![https://twemoji.maxcdn.com/2/72x72/1f54a.png](https://twemoji.maxcdn.com/2/72x72/1f54a.png)
-
-️
 
 ![https://twemoji.maxcdn.com/2/72x72/1f50e.png](https://twemoji.maxcdn.com/2/72x72/1f50e.png)
 
@@ -9952,9 +9878,6 @@ _31-May-22 09:01 AM_:
 
 Third Graviton Training started last week! ✨ You can´t miss tomorrow´s session "Decolonization, Complexity, and unified thinking" by @durgadas, we have POAPs for you!
 
-![https://twemoji.maxcdn.com/2/72x72/1f54a.png](https://twemoji.maxcdn.com/2/72x72/1f54a.png)
-
-️
 
 ![https://twemoji.maxcdn.com/2/72x72/1f50e.png](https://twemoji.maxcdn.com/2/72x72/1f50e.png)
 
@@ -10000,9 +9923,6 @@ _31-May-22 12:15 PM_:
 
 Are you part of the TE360 study groups yet?
 
-![https://twemoji.maxcdn.com/2/72x72/1f914.png](https://twemoji.maxcdn.com/2/72x72/1f914.png)
-
-⬇
 
 ![https://pbs.twimg.com/tweet_video_thumb/FUChQJuXwAAKr6u.jpg](https://pbs.twimg.com/tweet_video_thumb/FUChQJuXwAAKr6u.jpg)
 
@@ -10150,13 +10070,7 @@ Powered by TweetShift.com • 01-Jun-22 03:25 PM
 
 [ETHBarcelona (@eth_barcelona)](https://twitter.com/eth_barcelona)
 
-![https://twemoji.maxcdn.com/2/72x72/2600.png](https://twemoji.maxcdn.com/2/72x72/2600.png)
 
-️
-
-![https://twemoji.maxcdn.com/2/72x72/1f469.png](https://twemoji.maxcdn.com/2/72x72/1f469.png)
-
-‍
 
 ![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
 
@@ -10248,13 +10162,7 @@ _02-Jun-22 03:16 PM_:
 
 [ETHBarcelona (@eth_barcelona)](https://twitter.com/eth_barcelona)
 
-![https://twemoji.maxcdn.com/2/72x72/2600.png](https://twemoji.maxcdn.com/2/72x72/2600.png)
 
-️
-
-![https://twemoji.maxcdn.com/2/72x72/1f469.png](https://twemoji.maxcdn.com/2/72x72/1f469.png)
-
-‍
 
 ![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
 
@@ -10878,9 +10786,6 @@ Activate your SourceCred account to receive rewards for contributions on GitHub 
 
 Powered by TweetShift.com • 11-Jun-22 09:02 AM
 
-![https://twemoji.maxcdn.com/2/72x72/2764.png](https://twemoji.maxcdn.com/2/72x72/2764.png)
-
-1
 
 <h3>Token Engineering Commons • TweetShift BOT <img src="https://cdn.discordapp.com/avatars/913442964255174756/abebf7e44b3b3cbc4702bf07d5ef56df.png" width=25 height=25></h3>
 
@@ -11528,9 +11433,6 @@ Powered by TweetShift.com • 23-Jun-22 09:00 AM
 
 [https://t.co/QThflNnLn0](https://t.co/QThflNnLn0)
 
-![https://twemoji.maxcdn.com/2/72x72/1f9f5.png](https://twemoji.maxcdn.com/2/72x72/1f9f5.png)
-
-⬇
 
 [https://t.co/nYNmN2rVI8](https://t.co/nYNmN2rVI8)
 

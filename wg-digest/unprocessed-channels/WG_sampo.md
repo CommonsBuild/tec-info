@@ -13,9 +13,7 @@ After 19-Mar-21 12:00 AM
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 _29-Apr-22 06:42 PM_:
-"Sampo" is the Finnish mythic "Horn of Plenty." It symbolizes this working group's purpose: mission-driven, community-owned and governed capital to advance the field of token engineering. We focus on financial management, income generation, and the economic development that builds demand for the TEC token. Here is the story, and note the failures that Ilmarinen initially faces in his early attempts to create this everlasting treasury of wealth: subjugation, aggression, ill-temper, and destruction. Yeah, kind of like our current financial system.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+"Sampo" is the Finnish mythic "Horn of Plenty." It symbolizes this working group's purpose: mission-driven, community-owned and governed capital to advance the field of token engineering. We focus on financial management, income generation, and the economic development that builds demand for the TEC token. Here is the story, and note the failures that Ilmarinen initially faces in his early attempts to create this everlasting treasury of wealth: subjugation, aggression, ill-temper, and destruction. Yeah, kind of like our current financial system. <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 In the end, he creates the Sampo, a magical machine that produces an endless supply of grain, salt and gold. In terms of Maslow's Hierarchy of Needs: basic security and sustenance is the grain, belonging and esteem is the salt which improves the taste of the basics, and self-actualization is the gold of a meaningful, soulful life. Am I overreaching? Yeah, maybe! But if you want to learn more about the myth, here you go:
 
@@ -31,29 +29,11 @@ Ilmarinen , the Eternal Hammerer, blacksmith and inventor in the Kalevala, is a 
 
 ![https://upload.wikimedia.org/wikipedia/commons/d/d4/Robert_Stigell_Ilmarinen_1888.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d4/Robert_Stigell_Ilmarinen_1888.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-6
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
-6
 
-<img src="https://twemoji.maxcdn.com/2/72x72/26a1.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9c2.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1fa99.png" width=50 height=50>
-
-1
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -69,33 +49,15 @@ Sheet1 Low Effort Arbitrage I make some small transactions, other bots get some 
 
 I just made over $500 Arbitraging our ABC... AMA
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-3
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f90f.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
 
@@ -111,9 +73,6 @@ _03-May-22 12:55 PM_:
 
 ![https://media.tenor.com/3xoRK7hFE3gAAAAD/patrick-star-spongebob-squarepants.png](https://media.tenor.com/3xoRK7hFE3gAAAAD/patrick-star-spongebob-squarepants.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
-
-1
 
 I need to understand this better. Will come back to it later today. It'd be interesting to add a column looking at the impact on tribute funding too.
 
@@ -150,19 +109,10 @@ from Organizational Building Blocks for Blockchain Governance: A Survey of 241 B
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 I am down for data analysis task
 
-<img src="https://twemoji.maxcdn.com/2/72x72/270c.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
@@ -170,9 +120,6 @@ _03-May-22 04:49 PM_:
 
 i'd be down to work with someone on the data analysis task
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -180,9 +127,6 @@ _03-May-22 04:50 PM_:
 
 Down to analyze as well
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -210,9 +154,6 @@ TEC AUDIT REPORT 0001 - HackMD
 
 # TEC AUDIT REPORT 0001 TRANSPARENCY WG **Period:** January 01 - March 31 of 2022 **Presented:** T
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
@@ -358,9 +299,6 @@ Anak 03-May-22 06:11 PM
 
 I get in touch with @rex regarding data analysis task and we come to conclusion that It is best to find a member who know inner working of current token mechanism. I know @genealso interested in working on this, but we didn't get a chance to chat with him yet. Hope he sees the message and DM one of us. We still look for white paper. can anyone send us this please? Thank you in advance
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -374,9 +312,6 @@ _03-May-22 07:42 PM_:
 
 I think we should use clarity, right?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -394,9 +329,6 @@ _04-May-22 02:35 PM_:
 
 @Anak @rex and @gene - so glad that you're up for diving into the analysis work. Give me a little bit to figure out how we structure that and I'll get back to you with a process for plugging in. OK?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
 
@@ -410,13 +342,7 @@ _04-May-22 02:46 PM_:
 
 We chit chatted for a few minutes yesterday and gave ourselves the task of getting a copy of each working groups budget/ledger, categorizing the spending, and quantifying the rate of burn per category. Rex also suggested looking at Open Collective's UI to get an idea of how they demonstrate how spending works there and possibly being able to fork and adapt their work to our needs. But it was late yesterday for those two being in London and Florida, so I don't think anyone has made any progress yet and we'll defer to you for next steps. =)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/26a1.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
 
@@ -430,15 +356,10 @@ _04-May-22 02:51 PM_:
 
 I love that you all are diving in, and don't want to disrupt the momentum. Just need a bit to set up how we run efforts like this in the WG. You all can be a pilot for how we do this more generally.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
-_04-May-22 02:55 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+_04-May-22 02:55 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -446,9 +367,6 @@ Anak 04-May-22 02:56 PM
 
 I have a paper to finish up today and tmr. so I will be able to start working on it at all on Friday.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -460,9 +378,6 @@ Clarity — The simplest workspace for decentralized teams
 
 Connect your wallet, share token-gated documents, coordinate projects and proposals, track tasks, trade notes, and build your own personal Wikipedia—in a familiar all-in-one workspace.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-2
 
 In it, you'll see just one note, which is a "manifesto" for this work team. This mimics the process we have for setting up working groups in the TEC and I think it's a good discipline to keep things grounded in the mission, vision, and values. Here's a link to that document: [https://app.clarity.so/Sampo/notes/9901e407-f404-4d60-abfc-61ba3f03a17b](https://app.clarity.so/Sampo/notes/9901e407-f404-4d60-abfc-61ba3f03a17b)
 
@@ -470,9 +385,6 @@ Clarity — The simplest workspace for decentralized teams
 
 Connect your wallet, share token-gated documents, coordinate projects and proposals, track tasks, trade notes, and build your own personal Wikipedia—in a familiar all-in-one workspace.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 As a next step, can one of you use Doodle to find a time to meet so we can get this team spun up and working in ways that align w/ the working group and the TEC? Include me, too. Just put the invite here in Sampo's channel: [https://doodle.com/dashboard](https://doodle.com/dashboard)
 
@@ -524,13 +436,7 @@ Balance Sheet Balance Sheet 2022 (xDAI),***Assets = Liabilities + Equity Feb 28t
 
 3
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50>
-
-1
 
 Original message was deleted.
 
@@ -539,13 +445,7 @@ Original message was deleted.
 _05-May-22 04:13 PM_:
 Also I’d love to join you guys on that call
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
 
@@ -575,13 +475,7 @@ _05-May-22 05:13 PM_:
 
 Yes, that’s some of the questions I had myself too while doing this. I have a background in business but not specifically in accounting so I think there are some specifics that would be good to get advise on, specially for the balance sheet as I had a hard time figuring out how the different assets/liabilities/equity would look like for wgs. To what you are saying I think that could be right but maybe as part of the balance sheet instead? For the income statement I would leave it for direct income wgs could have based on sales of some service/product
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -593,13 +487,7 @@ Doodle
 
 Doodle is the simplest way to schedule meetings with clients, colleagues, or friends. Find the best time for one-to-ones and team meetings with our user-friendly calendar tool. Get started today!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
 
@@ -617,9 +505,6 @@ _06-May-22 01:18 PM_:
 
 Thanks for organizing us, @gene
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
@@ -695,13 +580,7 @@ Anak 08-May-22 03:16 PM
 
 I plan to do this. the things that dune can't do is budget categorization. (I believe you have to do it manually in sql to make it look nice which defeat the purposed of automation)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
 
@@ -719,9 +598,6 @@ highly recommend. Its friendly for data analyst team because we don't need to do
 
 can you help me verify this budget category?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 do you happen to know who are treasury manager, coordination manager, and operation manager? its better I talk to them directly.
 
@@ -733,9 +609,6 @@ Token-based compensation, a new and powerful form of incentive alignment, introd
 
 ![https://miro.medium.com/max/1060/1*n6GUYODFDepALN5sD9kW6Q.jpeg](https://miro.medium.com/max/1060/1*n6GUYODFDepALN5sD9kW6Q.jpeg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -769,9 +642,6 @@ Variable costs are not recurring per project because projects change a lot every
 
 I need to go now but ill continue with the conversation in a few hours
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
 
@@ -841,9 +711,6 @@ Overview Inspiration ,Purpose Direction ,Roadmap (Mission, Vision, Values, Objec
 
 [https://lh4.googleusercontent.com/5UV3I80_7VFpD3dLeS7yU3FBl9dpkqVgB--vnBOvDx-cnziSgAT9axByV3YzQSDzY_3fg-a-eXBgTQ=w1200-h630-p](https://lh4.googleusercontent.com/5UV3I80_7VFpD3dLeS7yU3FBl9dpkqVgB--vnBOvDx-cnziSgAT9axByV3YzQSDzY_3fg-a-eXBgTQ=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 Also in this doc I created a forecast comparing its actual spending vs budgeted. I think you mentioned something about budgeting in a prior message so maybe this could also help towards that
 
@@ -883,13 +750,7 @@ _09-May-22 12:51 AM_:
 
 @gene @bear100 @Zeptimus -- we have a time for the first Sampo Analyst call. Tuesday at 11:00 AM ESt. @rex, sorry you are the only one who indicated you can't make that time. Hopefully, something opens up for you. This meeting is open to anyone interested in helping the TEC to analyze our financial information. We will meet in the Sampo voice channel.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
 
@@ -921,9 +782,6 @@ _09-May-22 03:55 AM_:
 
 I'll try making it, but I'm at work at that time
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -943,17 +801,8 @@ Inspired by a conversation w @owocki on prioritising @GitcoinDAO 's budgets. Put
 
 Twitter • 09-May-22 12:39 AM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 seemed relevant
 
@@ -975,13 +824,7 @@ Clarity — The simplest workspace for decentralized teams
 
 Connect your wallet, share token-gated documents, coordinate projects and proposals, track tasks, trade notes, and build your own personal Wikipedia—in a familiar all-in-one workspace.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -989,9 +832,6 @@ _09-May-22 05:18 PM_:
 
 @Sampo can you hear me?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f442.png" width=50 height=50>
-
-4
 
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
@@ -999,9 +839,6 @@ _09-May-22 05:22 PM_:
 
 I will be there !! @Gideonro
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
 
@@ -1014,9 +851,6 @@ Gideonro
 _09-May-22 05:33 PM_:
 loud and clear
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>casale.eth <img src="https://cdn.discordapp.com/avatars/159125298384863233/9e9193209460bcb47935b4d8c2cfa5aa.png" width=25 height=25></h3>
 
@@ -1049,12 +883,7 @@ Gideonro
 _10-May-22 01:10 AM_:
 I did, yes
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
-So there's a new WG in town?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+So there's a new WG in town? <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 Where can I read about it?
 
@@ -1062,9 +891,7 @@ Where can I read about it?
 
 markop
 
-[I did, yes](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[I did, yes](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -1082,9 +909,7 @@ Connect your wallet, share token-gated documents, coordinate projects and propos
 
 TEC WGs Weekly Update: May 2 - 9
 
-Monday, May 9th, 2022 Hello
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=50 height=50>
+Monday, May 9th, 2022 Hello <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=20 height=20>
 
 ! These are the Working Group (WG) Weekly Updates for the week of May 2 - 9. Within this post you’ll find what’s been happening lately in and around our many calendar calls. If you feel like you’re missing out, join us in real time during any of our many syncs or check out our YouTube channel archive for hundreds of ...
 
@@ -1094,9 +919,7 @@ Monday, May 9th, 2022 Hello
 
 markop
 
-[I did, yes](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[I did, yes](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -1105,9 +928,7 @@ First of all, those graphics are awesome! I love those, @markop And thanks to Ge
 
 [https://discord.com/channels/810180621930070088/969685567455498310/969730503450173470](https://discord.com/channels/810180621930070088/969685567455498310/969730503450173470)
 
-Let me know if you have any questions.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Let me know if you have any questions. <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -1121,9 +942,6 @@ _10-May-22 11:35 AM_:
 
 right click on the music symbol in the voice channel and you can slide the volume bar down (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
@@ -1131,9 +949,6 @@ _10-May-22 04:52 PM_:
 
 It makes sense to understand the problem domain before we take harsh action
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=50 height=50>
-
-1
 
 mic's broken on this PC*
 
@@ -1163,9 +978,6 @@ _11-May-22 12:37 PM_:
 
 Man, I wish I could tell what they even do. It looks interesting but I'm getting kind of sick of web3 orgs feeling like web2 is so passé that they don't even need a website that explains who/what they are. Can you tell?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
 
@@ -1179,9 +991,6 @@ _11-May-22 01:06 PM_:
 
 Yeah, I'll have to give you that, I'm not even sure myself
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -1191,9 +1000,6 @@ just wanna share the following because I think it is important to understand the
 
 ![https://cdn.discordapp.com/attachments/969685567455498310/974051146983424110/unknown.png](https://cdn.discordapp.com/attachments/969685567455498310/974051146983424110/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -1219,9 +1025,6 @@ Anak 11-May-22 07:02 PM
 
 I changed my profile name to @Anak now. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -1240,21 +1043,9 @@ Sampo Strategy Last Update: May 13, 2022 Purpose of this Document There are two 
 
 [https://lh4.googleusercontent.com/sJjapfJ6OAAifwC2QAohwchYDqeud94ys2FaPcELr0xqfYzsXAZXwbOv3UgofKgmids04JLx31388g=w1200-h630-p](https://lh4.googleusercontent.com/sJjapfJ6OAAifwC2QAohwchYDqeud94ys2FaPcELr0xqfYzsXAZXwbOv3UgofKgmids04JLx31388g=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
 
 Original message was deleted.
 
@@ -1293,17 +1084,12 @@ Gideonro
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
 _14-May-22 10:44 PM_:
-This is great Gideon! It is a great overview of what Sampo is looking to achieve. I think having these 3 phases will provide a lot of clarity and focus between the members of the wg towards generating and achieving very specific objectives within each phase
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+This is great Gideon! It is a great overview of what Sampo is looking to achieve. I think having these 3 phases will provide a lot of clarity and focus between the members of the wg towards generating and achieving very specific objectives within each phase <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -1316,9 +1102,6 @@ _16-May-22 12:38 PM_:
 _16-May-22 11:59 PM_:
 Agenda for tomorrow's Sampo call. Be there or be "
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f533.png" width=50 height=50>
-
-"
 
 [https://app.clarity.so/Sampo/pages/d57ffb3e-9042-43ce-9342-4859084888bc](https://app.clarity.so/Sampo/pages/d57ffb3e-9042-43ce-9342-4859084888bc)
 
@@ -1326,21 +1109,13 @@ Clarity — The simplest workspace for decentralized teams
 
 Connect your wallet, share token-gated documents, coordinate projects and proposals, track tasks, trade notes, and build your own personal Wikipedia—in a familiar all-in-one workspace.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
 
 bear100
 
-[This is great Gideon! It is a great overview of what Sampo is looking to achieve. I think having these 3 phases will provide a lot of clarity and focus between the members of the wg towards generating and achieving very specific objectives within each phase](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+[This is great Gideon! It is a great overview of what Sampo is looking to achieve. I think having these 3 phases will provide a lot of clarity and focus between the members of the wg towards generating and achieving very specific objectives within each phase](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -1348,9 +1123,6 @@ _17-May-22 10:24 AM_:
 
 Thanks for your good comment about milestones.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -1376,13 +1148,7 @@ Clarity — The simplest workspace for decentralized teams
 
 Connect your wallet, share token-gated documents, coordinate projects and proposals, track tasks, trade notes, and build your own personal Wikipedia—in a familiar all-in-one workspace.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>casale.eth <img src="https://cdn.discordapp.com/avatars/159125298384863233/9e9193209460bcb47935b4d8c2cfa5aa.png" width=25 height=25></h3>
 
@@ -1396,17 +1162,8 @@ Advancing the field of token engineering in a regenerative way. Stewarding the c
 
 ![https://tec-web.netlify.app/images/Share.jpg](https://tec-web.netlify.app/images/Share.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/159125298384863233/9e9193209460bcb47935b4d8c2cfa5aa.png](https://cdn.discordapp.com/avatars/159125298384863233/9e9193209460bcb47935b4d8c2cfa5aa.png)
 
@@ -1419,24 +1176,18 @@ casale.eth
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 _19-May-22 04:31 PM_:
-Looks great, @casale.eth! Thanks so much!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Looks great, @casale.eth! Thanks so much! <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
 
 Gideonro
 
-[Looks great, @casale.eth! Thanks so much!](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[Looks great, @casale.eth! Thanks so much!](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>casale.eth <img src="https://cdn.discordapp.com/avatars/159125298384863233/9e9193209460bcb47935b4d8c2cfa5aa.png" width=25 height=25></h3>
 
 _19-May-22 07:11 PM_:
-Np
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Np <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
@@ -1448,16 +1199,11 @@ Clarity — The simplest workspace for decentralized teams
 
 Connect your wallet, share token-gated documents, coordinate projects and proposals, track tasks, trade notes, and build your own personal Wikipedia—in a familiar all-in-one workspace.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
 _21-May-22 10:39 AM_:
-Please do provide feedback and more questions, as we've started to already do the data discovery process
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Please do provide feedback and more questions, as we've started to already do the data discovery process <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 (edited)
 
@@ -1475,9 +1221,6 @@ _21-May-22 05:56 PM_:
 
 This is great @rex , gives a clear plan and goals for the project. Im thinking we could turn it into an actual project within clarity instead of just as a note. I can do that.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -1491,40 +1234,22 @@ WGs Overview Funding Round 1,Project Funding,Spent ,Balance,% of Funds Used Lega
 
 [https://lh4.googleusercontent.com/EfBDmKkAg0JPR3bYUMns0mCx-r4EfA6da06ZYJHTRioXZCvhIeXEjDG8CrD-9tnAjFLjp8DfdeD67Q=w1200-h630-p](https://lh4.googleusercontent.com/EfBDmKkAg0JPR3bYUMns0mCx-r4EfA6da06ZYJHTRioXZCvhIeXEjDG8CrD-9tnAjFLjp8DfdeD67Q=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
 _23-May-22 11:26 PM_:
-New youtube thumbnails for the Sampo WG!
+New youtube thumbnails for the Sampo WG! <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
 
-[https://www.youtube.com/watch?v=gl1eOVtEz0o&list=PLusWL9gf0FIRGvGZFyRD05pOZcduvY8g4](https://www.youtube.com/watch?v=gl1eOVtEz0o&list=PLusWL9gf0FIRGvGZFyRD05pOZcduvY8g4)
+[W4 Sampo WG: Strategy Updates, Analysts Updates, Slowing Spending &... <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>](https://www.youtube.com/watch?v=gl1eOVtEz0o&list=PLusWL9gf0FIRGvGZFyRD05pOZcduvY8g4)
 
-[Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
+Thank you for watching! Hit <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
-W4 Sampo WG: Strategy Updates, Analysts Updates, Slowing Spending &...
+and subscribe <img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+to support this work <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
-Thank you for watching! Hit
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-and subscribe
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=50 height=50>
-
-to support this work
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-Join the Community
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+Join the Community <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 on Discord
 
@@ -1548,9 +1273,6 @@ Learn more
 
 ![https://i.ytimg.com/vi/gl1eOVtEz0o/maxresdefault.jpg](https://i.ytimg.com/vi/gl1eOVtEz0o/maxresdefault.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
 
@@ -1578,9 +1300,6 @@ _24-May-22 04:46 AM_:
 
 I'll try recreating your exact table on dune later today too (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png](https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png)
 
@@ -1593,9 +1312,6 @@ rex
 _24-May-22 12:22 PM_:
 That would be awesome
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -1633,17 +1349,12 @@ _24-May-22 12:59 PM_:
 
 this is awesome - need to digest this a bit between now and the call today. great job
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
 
 bear100
 
-[That would be awesome](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+[That would be awesome](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
@@ -1693,13 +1404,9 @@ _24-May-22 03:14 PM_:
 
 [Token Engineering Commons (@tecmns)](https://twitter.com/tecmns)
 
-Hey! We have a new working group focused on financial management, income generation & the economic development that builds demand for the TEC token!
+Hey! We have a new working group focused on financial management, income generation & the economic development that builds demand for the TEC token! <img src="https://twemoji.maxcdn.com/2/72x72/1f9d0.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9d0.png" width=50 height=50>
-
-Everyone is welcome, join us every tuesday at 10 PM CET / 4 PM EST ⏰ Check out the last updates!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+Everyone is welcome, join us every tuesday at 10 PM CET / 4 PM EST ⏰ Check out the last updates! <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 [https://t.co/bYTgVORHKC](https://t.co/bYTgVORHKC)
 
@@ -1707,9 +1414,6 @@ Everyone is welcome, join us every tuesday at 10 PM CET / 4 PM EST ⏰ Check out
 
 Twitter • 24-May-22 03:00 PM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png](https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png)
 
@@ -1737,9 +1441,6 @@ I've requested access to your sheet, I believe we can trend that out and see whe
 
 here's that same table as balance @bear100 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 I'll clean out the tokens to be just out and show ya that again
 
@@ -1827,9 +1528,6 @@ Provide as much information as possible about your idea. This post grew from the
 
 ![https://forum.tecommons.org/uploads/default/original/1X/626e4e8684d7e4d352332f257d5ebe84fca3e3f9.png](https://forum.tecommons.org/uploads/default/original/1X/626e4e8684d7e4d352332f257d5ebe84fca3e3f9.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -1869,9 +1567,6 @@ _31-May-22 05:06 PM_:
 
 @natesuits
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -1891,9 +1586,6 @@ _01-Jun-22 03:20 PM_:
 
 ✅ Praise @Zeptimus, @Crypto Zach, @kristofer, @griff (💜, 💜), @natesuits, @rex, @Yass, @bear100 for attending the Sampo weekly meeting and providing input on the Sampo Season 1 funding proposal
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -1917,13 +1609,7 @@ _05-Jun-22 03:41 PM_:
 
 A little thought experiment, but one I mean quite literally. "What would be required for Sampo and TEC at large, to earn its first dollar/s of income today? Like literally before the end of the day. Is it possible? Why or why not? How would we do it? etc etc This is an attempt at, and experiment in, rapid triage response.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
@@ -1931,9 +1617,6 @@ _06-Jun-22 12:51 PM_:
 
 Lively conversation on the Sampo funding proposal on the forum. I just replied the following to @akrtws (TE Academy): I will amend the proposal, @akrtws. I’m adding treasury management to tomorrow’s Sampo call. What I’m thinking right now is having a part-time treasury coordination lead to drive this effort. This will add to the proposal costs, but it’s clear there’s energy here and it will more than pay for itself. The first step will be figuring out how we modify the parameters on conviction voting to free up enough funds from the common pool to generate meaningful yield. From there, it will be more about risk-reward policies and the actual management of the fund. Nailing these details will be the purpose of this part of the call. I will mention this in the Sampo channel. If anyone is interested, please connect there. I also recommend you attend tomorrow’s call if you can. cc: @Zeptimus, @gene, @Mert Ozd, @natesuits, @kristofer (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
 
@@ -1950,9 +1633,7 @@ It's an interesting question, @gene. I'll be interested to see if others have id
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
 _06-Jun-22 03:29 PM_:
-Thanks @Gideonro for the kind response. I'm also particularly interested to hear what ideas others might have. I suspect that there are some serious gems right below the surface here just waiting to be unearthed. @kristofer mentioned now is the time for "controversial ideas" and I still agree. I'm drafting a forum post for a safe space to speak about controversial/"dumb"/moonshot ideas because I think there exists potential for people to remain quiet despite the fact that they may have a wonderful idea but are either afraid, or not sufficiently encouraged to share it. We need to mitigate that fear, and encourage that confidence. Ideas don't even have to be complete. Indeed the beginnings of the best ideas rarely, if ever, are. Just an inkling or a glimmer of suspicion could lead us to the abundance we seek. That just might be the Sampo machine reimagined, redesigned, re-divined.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="$5" width=50 height=50>
+Thanks @Gideonro for the kind response. I'm also particularly interested to hear what ideas others might have. I suspect that there are some serious gems right below the surface here just waiting to be unearthed. @kristofer mentioned now is the time for "controversial ideas" and I still agree. I'm drafting a forum post for a safe space to speak about controversial/"dumb"/moonshot ideas because I think there exists potential for people to remain quiet despite the fact that they may have a wonderful idea but are either afraid, or not sufficiently encouraged to share it. We need to mitigate that fear, and encourage that confidence. Ideas don't even have to be complete. Indeed the beginnings of the best ideas rarely, if ever, are. Just an inkling or a glimmer of suspicion could lead us to the abundance we seek. That just might be the Sampo machine reimagined, redesigned, re-divined. <img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
@@ -1992,9 +1673,6 @@ A balanced scorecard is a strategic planning framework that companies use to ass
 
 ![https://cdn.corporatefinanceinstitute.com/assets/balanced-scorecard1-1024x534.png](https://cdn.corporatefinanceinstitute.com/assets/balanced-scorecard1-1024x534.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 It might make sense to look at the Sanpo group in a larger effort of the Balanced Scorecard- Sanpo being the Financial side
 
@@ -2020,9 +1698,7 @@ yes, that's an interesting frame. Sampo is actually a mix of finance, business a
 
 gene
 
-[Thanks @Gideonro for the kind response. I'm also particularly interested to hear what ideas others might have. I suspect that there are some serious gems right below the surface here just waiting to be unearthed. @kristofer mentioned now is the time for "controversial ideas" and I still agree. I'm drafting a forum post for a safe space to speak about controversial/"dumb"/moonshot ideas because I think there exists potential for people to remain quiet despite the fact that they may have a wonderful idea but are either afraid, or not sufficiently encouraged to share it. We need to mitigate that fear, and encourage that confidence. Ideas don't even have to be complete. Indeed the beginnings of the best ideas rarely, if ever, are. Just an inkling or a glimmer of suspicion could lead us to the abundance we seek. That just might be the Sampo machine reimagined, redesigned, re-divined.](about:blank#)     
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="$5" width=50 height=50>
+[Thanks @Gideonro for the kind response. I'm also particularly interested to hear what ideas others might have. I suspect that there are some serious gems right below the surface here just waiting to be unearthed. @kristofer mentioned now is the time for "controversial ideas" and I still agree. I'm drafting a forum post for a safe space to speak about controversial/"dumb"/moonshot ideas because I think there exists potential for people to remain quiet despite the fact that they may have a wonderful idea but are either afraid, or not sufficiently encouraged to share it. We need to mitigate that fear, and encourage that confidence. Ideas don't even have to be complete. Indeed the beginnings of the best ideas rarely, if ever, are. Just an inkling or a glimmer of suspicion could lead us to the abundance we seek. That just might be the Sampo machine reimagined, redesigned, re-divined.](about:blank#)      <img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f913.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
@@ -2032,17 +1708,8 @@ _07-Jun-22 06:20 AM_:
 
 TE Consilience Library is a gem in disguise...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9d1-200d-1f393.png" width=50 height=50>
-
-1
 
 <h3>rex <img src="https://cdn.discordapp.com/avatars/807036672302383115/bfe35d0bf8745e6a941d7e6d7602a704.png" width=25 height=25></h3>
 
@@ -2065,9 +1732,7 @@ For small amounts honeyswap was routing via the giv LP
 <h3>Gideonro <img src="https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png" width=25 height=25></h3>
 
 _07-Jun-22 11:36 AM_:
-hey @Sampo here's the agenda for today's call. Sadly, my internet provider has warned of outages today, so I may be hosting from my phone. Bear with me.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+hey @Sampo here's the agenda for today's call. Sadly, my internet provider has warned of outages today, so I may be hosting from my phone. Bear with me. <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 [https://app.clarity.so/Sampo/pages/d57ffb3e-9042-43ce-9342-4859084888bc](https://app.clarity.so/Sampo/pages/d57ffb3e-9042-43ce-9342-4859084888bc)
 
@@ -2117,9 +1782,6 @@ _07-Jun-22 04:37 PM_:
 
 Goodwork on the dashboard @bear100 and @rex. That data can be piped into the proposal inverter. You should discuss with the PI backend team.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9be.png" width=50 height=50>
-
-3
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -2175,9 +1837,6 @@ _08-Jun-22 01:55 AM_:
 
 Right. The problem with that is Dune v1 is single-chain per query
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -2199,9 +1858,6 @@ DeFi made simple.
 
 ![https://yearn.finance/share.png](https://yearn.finance/share.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
@@ -2305,9 +1961,6 @@ _09-Jun-22 03:22 PM_:
 
 Just set up an event for the call mentioned in the Community Call. Anyone in the Sampo team is warmly invited to join! [https://discord.com/events/810180621930070088/984537524649197689](https://discord.com/events/810180621930070088/984537524649197689)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -2360,9 +2013,7 @@ Here's the agenda for tomorrow's Sampo call:
 
 [https://app.clarity.so/Sampo/pages/d57ffb3e-9042-43ce-9342-4859084888bc](https://app.clarity.so/Sampo/pages/d57ffb3e-9042-43ce-9342-4859084888bc)
 
-Primary focus: getting ourselves organized to take on a bunch of important work! ❤️‍
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
+Primary focus: getting ourselves organized to take on a bunch of important work! ❤️‍ <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=20 height=20>
 
 Clarity — The DAO Contribution Platform
 
@@ -2376,9 +2027,7 @@ Gideonro
 
 [https://app.clarity.so/Sampo/pages/d57ffb3e-9042-43ce-9342-4859084888bc](https://app.clarity.so/Sampo/pages/d57ffb3e-9042-43ce-9342-4859084888bc)
 
-Primary focus: getting ourselves organized to take on a bunch of important work! ❤️‍
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
+Primary focus: getting ourselves organized to take on a bunch of important work! ❤️‍ <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=20 height=20>
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -2460,9 +2109,6 @@ _16-Jun-22 12:19 PM_:
 
 Hey everyone, so I'm about to start testing a few token gating tools so we can have a more direct way to talk to token holders as well as probably offer some other things down the road - I was going to wait till the next Sampo meeting but I think we can perfectly have this discussion async for the most part
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
 
@@ -2526,9 +2172,6 @@ Clarity — The DAO Contribution Platform
 
 Clarity is the most advanced DAO contribution platform. Share task boards & docs, manage access with tokens, receive bounty payouts, and build your contributor reputation.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -2542,9 +2185,6 @@ _16-Jun-22 05:52 PM_:
 
 [https://discord.com/events/810180621930070088/987095495673511967](https://discord.com/events/810180621930070088/987095495673511967)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png](https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png)
 
@@ -2572,9 +2212,6 @@ _20-Jun-22 09:02 AM_:
 
 Here's an interesting thread on treasury patterns in DAOs at Gnosis/Zodiac - might be interesting for TEC as well: [https://discord.gg/vZ8jEWj3](https://discord.gg/vZ8jEWj3)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png](https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png)
 
@@ -2632,9 +2269,6 @@ If she can at least give you a name I could follow up with would be more than go
 
 Maybe it’s better if we reach out after knowing what things we may want to gate vs not?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -2648,9 +2282,6 @@ Soft Gov Agenda - June 22nd Attendees: Intro: Gardens governance feedback Gated 
 
 [https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p](https://lh5.googleusercontent.com/EizUaliBmoayQbHn_SO3JsYlcTE1pbLo62mjKLigFrY948PJOcIa7babDSN89CoqyMduc5ynmjWH-g=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-2
 
 @enti @ygg_anderson @bear100
 
@@ -2660,13 +2291,7 @@ _22-Jun-22 07:41 PM_:
 
 ✅ Praise @rex for many, many hours of work building out a unified treasury chart that shows all of the various funds held in the commons pool, LaserTag multisig and working groups. This was a huge lift and it's now integrated into the Dune dashboard. A valuable contribution to the transparency of the TEC and understanding our true financial state
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2764-200d-1f525.png" width=50 height=50>
-
-1
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
@@ -2674,18 +2299,12 @@ _23-Jun-22 01:05 PM_:
 
 ✅ Praise @enti for helping Bear and I think through the organizational structure and workflows of Sampo
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4a1.png" width=50 height=50>
-
-2
 
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
 _23-Jun-22 09:21 PM_:
 ✅ Praise @rex for the amazing work on creating the unified trasury chart that looks amazing on the Dune dashboard now and serves its purpose of providing the community a better graphical overview of the different multisigs in the TEC
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50>
-
-2
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -2693,9 +2312,6 @@ _28-Jun-22 05:01 PM_:
 
 @Tam2140 really would like to help if I might be useful in any capacity
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png" width=50 height=50>
-
-1
 
 <h3>Gaian <img src="https://cdn.discordapp.com/avatars/898291568321105953/b4f7f082ea0f577897188cd1e24c6abf.png" width=25 height=25></h3>
 
@@ -2703,9 +2319,6 @@ _28-Jun-22 05:04 PM_:
 
 I second that. I'm super inspired by the direction this is going because it sits in the middle of a Venn diagram of so many needs both within the TEC and within the larger Web3 space. I'd love to help however I can.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png" width=50 height=50>
-
-1
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -2731,9 +2344,6 @@ _29-Jun-22 07:17 PM_:
 
 ✅ Praise @Zeptimus, @mitch (🍔, 🍔), @gene, @Crypto Zach, @natesuits, @enti, @chuygarcia.eth, @Tam2140, @rex, @bear100, @[Shahin], @Gaian for attending the June 28 Sampo weekly meeting
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ✅ Praise @Zeptimus, @enti, @bear100, @Gaian for attending the June 29 Sampo treasury management call
 
@@ -2883,9 +2493,6 @@ _05-Jul-22 05:21 PM_:
 
 That worked - I tried again and I’m in! Thanks so much!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png](https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png)
 

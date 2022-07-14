@@ -66,9 +66,6 @@ Oooooh! Nice
 
 I'll add you to the repo and assign you to the issue. Is that ok?
 
-![https://twemoji.maxcdn.com/2/72x72/1f44c.png](https://twemoji.maxcdn.com/2/72x72/1f44c.png)
-
-2
 
 <h3>pab🐝🐙 <img src="https://cdn.discordapp.com/avatars/135294406499631105/acf9eb17ea21508960cda3f3eee38ddc.png" width=25 height=25></h3>
 
@@ -81,13 +78,7 @@ hey guys, the Hatch Outreach Discord Voice Channel invite link on the google cal
 
 ![https://cdn.discordapp.com/attachments/810180622165213216/864575746004484106/unknown.png](https://cdn.discordapp.com/attachments/810180622165213216/864575746004484106/unknown.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png)
 
-2
-
-![https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png)
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -117,9 +108,6 @@ _14-Jul-21 12:37 AM_:
 
 These things aren’t criticism. They are really just suggestions to fill needs that might not be met. 1. More analysis.. of everything. Individual functions, past decisions, the system as a whole, more perspective of how it can be utilized. Even if it takes slowing down progress and duration of voting before proposals are accepted. 2. A new working group for future-proofing. They could be tasked with very specific well audited goals like finding loopholes, exploits, anything that can be used to hold the entire project at ransom. (They would obviously need to be very diligent about communicating their work, and have a great understanding of features and public goods.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
 
@@ -154,9 +142,6 @@ _14-Jul-21 12:27 PM_:
 
 I edited the channel names a bit to make this more readable (essentialy the emojis and the characters/alphabets fused together on some screen sizes, leading to this looking weird). Thanks to @metaverde for sharing that seperating by ｜ looks neat
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -197,9 +182,6 @@ Hi @ryeder (they/them) There is a weekly Orientation (i.e., welcome to TEC for n
 
 ![https://twemoji.maxcdn.com/2/72x72/1f3fd.png](https://twemoji.maxcdn.com/2/72x72/1f3fd.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-2
 
 <h3>LBS <img src="https://cdn.discordapp.com/avatars/633708951447535616/fa32450586a44254683a9734116bdeca.png" width=25 height=25></h3>
 
@@ -254,15 +236,9 @@ Would something like this improve notification settings within this server?
 
 ![https://cdn.discordapp.com/attachments/810180622165213216/902342687385083904/IMG_0467.png](https://cdn.discordapp.com/attachments/810180622165213216/902342687385083904/IMG_0467.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 With this we’d also be able to see which news people care more about being updated on
 
-![https://twemoji.maxcdn.com/2/72x72/2795.png](https://twemoji.maxcdn.com/2/72x72/2795.png)
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -271,9 +247,6 @@ Yes, it could We could set that up
 
 ![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-3
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -440,9 +413,6 @@ _14-Dec-21 01:08 AM_:
 
 This is great feedback! youu are right, it's not clear what is the action to take @Vyvy-vi, is it possible to add a line that serves as a explainer?
 
-![https://twemoji.maxcdn.com/2/72x72/1f973.png](https://twemoji.maxcdn.com/2/72x72/1f973.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -456,9 +426,6 @@ _14-Dec-21 02:03 AM_:
 
 yes!
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -472,9 +439,6 @@ _14-Dec-21 10:45 PM_:
 
 maybe Labs as well as omega part lol.Really nice！thank for sharing.
 
-![https://twemoji.maxcdn.com/2/72x72/1f338.png](https://twemoji.maxcdn.com/2/72x72/1f338.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
@@ -498,13 +462,7 @@ What is this issue about? Give as much detail as you can. This. Also this is a p
 
 [https://opengraph.githubassets.com/7cef3e942245e51058a714cbd94b33bb90b7cbfe2210a7c6ddac34d0315a98dc/CommonsBuild/coordination/issues/1163](https://opengraph.githubassets.com/7cef3e942245e51058a714cbd94b33bb90b7cbfe2210a7c6ddac34d0315a98dc/CommonsBuild/coordination/issues/1163)
 
-![https://twemoji.maxcdn.com/2/72x72/1f525.png](https://twemoji.maxcdn.com/2/72x72/1f525.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f3b8.png](https://twemoji.maxcdn.com/2/72x72/1f3b8.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
 
@@ -526,13 +484,7 @@ _17-Dec-21 06:16 PM_:
 
 Absolutely agree with everyone @Gideonro @Tam2140 @nic @Vyvy-vi @Edu - TEC Steward. and I think the brainstorming conversations will help out a lot. The model we were thinking of will utilize the template we were checking out on Miro @Tam2140 - the idea is to have the phases/milestones and then the TEC perspective, Member perspective, Deliverables/Artifacts, and then Action items. I think the action items will be important because it will help us consider the different things we want to tackle next, to make sure we keep an eye on the process as something that is always improving.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
 
-1
-
-![https://twemoji.maxcdn.com/2/72x72/1f49a.png](https://twemoji.maxcdn.com/2/72x72/1f49a.png)
-
-2
 
 <h3>Ratio13 <img src="https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png" width=25 height=25></h3>
 
@@ -554,9 +506,6 @@ _23-Apr-22 01:21 PM_:
 
 Thanks Ratio! I am ccing @Vyvy-vi to ask his feedback on this.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -591,9 +540,6 @@ we could roll that into the announcement made by the bot
 
 , but not in the discord events list
 
-![https://twemoji.maxcdn.com/2/72x72/1f44c.png](https://twemoji.maxcdn.com/2/72x72/1f44c.png)
-
-2
 
 ![https://cdn.discordapp.com/avatars/802300216656003102/91c34be1ab2422faff94781e9eb7d625.png](https://cdn.discordapp.com/avatars/802300216656003102/91c34be1ab2422faff94781e9eb7d625.png)
 
@@ -607,9 +553,6 @@ _25-Apr-22 11:01 AM_:
 
 The Apollo bot offers that for Google calendar not iOS.
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png](https://cdn.discordapp.com/avatars/862387697619173376/64bbbaeefe2e4e03458fd320abf8df35.png)
 

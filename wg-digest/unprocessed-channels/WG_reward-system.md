@@ -18,9 +18,7 @@ Do you guys think is a good time to schedule the committee call to decide the to
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
-_12-Apr-21 12:13 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62e.png" width=50 height=50>
+_12-Apr-21 12:13 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f62e.png" width=20 height=20>
 
 We're looking into Sourcecred
 
@@ -30,9 +28,6 @@ _12-Apr-21 03:00 PM_:
 
 Yes, we can talk about it tomorrow in the SofGov meeting.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/26a1.png" width=50 height=50>
-
-1
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -50,9 +45,6 @@ instance ready and up to date - also latest distribution was made ⭐
 
 Because of the repo name update now the instance link is [https://commonsbuild.github.io/tec-sourcecred/#/explorer](https://commonsbuild.github.io/tec-sourcecred/#/explorer)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 I noticed some new users received zero TCRED because I didn't enabled them - will do that for next distribution (edited)
 
@@ -65,9 +57,7 @@ its been a while we talked about this, but any chance we have updates on sourcec
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
 _14-Apr-21 09:57 AM_:
-sourcecred/initiatives: Loads manually added contributions. Still in alpha. Is the latest, I still haven't checked how that works but seems ideal for praise
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+sourcecred/initiatives: Loads manually added contributions. Still in alpha. Is the latest, I still haven't checked how that works but seems ideal for praise <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 (edited)
 
@@ -90,9 +80,7 @@ let's pick a date for the committee meeting @santigs @mateodaza ? what about nex
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
 _22-Apr-21 12:41 PM_:
-sounds good for me
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+sounds good for me <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -184,9 +172,6 @@ oleeee
 
 you made it happen!!!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -217,9 +202,7 @@ no problem
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
 _18-May-21 12:32 PM_:
-Hey guys! I'lll try my hardest to join today's call but I'm actually very busy and distracted as I'm moving out
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f974.png" width=50 height=50>
+Hey guys! I'lll try my hardest to join today's call but I'm actually very busy and distracted as I'm moving out <img src="https://twemoji.maxcdn.com/2/72x72/1f974.png" width=20 height=20>
 
 - Awesome that we are at this stage! Please add me in if you schedule a call for the distribution (edited)
 
@@ -278,9 +261,7 @@ does tomorrow at 5pm CET works for you guys? @mateodaza @santigs @Vyvy-vi
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 _19-May-21 03:14 PM_:
-works for me
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+works for me <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 <h3>santigs <img src="https://cdn.discordapp.com/avatars/434632218246381569/ecb10317edc17d2e273d2404cc6f6a52.png" width=25 height=25></h3>
 
@@ -291,9 +272,7 @@ works for me too
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
 _19-May-21 03:18 PM_:
-I don't think so, these days I'll be really off
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
+I don't think so, these days I'll be really off <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 can it work async if you give me a summary of the decisions?
 
@@ -327,9 +306,6 @@ _20-May-21 11:41 AM_:
 
 sorry for connection issues. tentative plan sounds good. small wxDai (or other) distribution next mon or tues, aligned with a forum post. just need list w/ address - amt. csv or txt fine.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -408,18 +384,13 @@ _24-May-21 06:35 PM_:
 
 none, we have to set up one ourselves - I remember we discussing it with @santigs if we should use a multisig or plain address
 
-I'll try my best to join the call tomorrow and we talk about this - But I'm really struggling
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=50 height=50>
+I'll try my best to join the call tomorrow and we talk about this - But I'm really struggling <img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _24-May-21 10:05 PM_:
 Hey @mateodaza sorry to hear that! Hope everything is coming into place for you
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f33b.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png](https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png)
 
@@ -437,9 +408,7 @@ Oooo!! I thought we would be able to do it tomorrow. Ok, so might be good to hav
 
 mateodaza
 
-[I'll try my best to join the call tomorrow and we talk about this - But I'm really struggling](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=50 height=50>
+[I'll try my best to join the call tomorrow and we talk about this - But I'm really struggling](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -617,9 +586,6 @@ sure!
 
 we could also create rules so the voting can be based on it, i feel its important we have strong conviction everytime we vote yes
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png](https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png)
 
@@ -635,9 +601,7 @@ yeah I assume we can choose the parameters of the DAO. Most of the decisions wil
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
-_01-Jun-21 11:27 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+_01-Jun-21 11:27 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -650,9 +614,7 @@ is tomorrow morning EST possible for you?
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
 _03-Jun-21 01:21 PM_:
-good for me
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+good for me <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -737,9 +699,7 @@ mateodaza
 <h3>Craig <img src="https://cdn.discordapp.com/avatars/655144629481635841/67b40701b6568cef805b1a099eaa2614.png" width=25 height=25></h3>
 
 _09-Jun-21 01:51 PM_:
-very cool. sorry to have missed sync. still keen to help test. here's my TEC IHT minting address. no worries if not
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+very cool. sorry to have missed sync. still keen to help test. here's my TEC IHT minting address. no worries if not <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://blockscout.com/xdai/mainnet/address/0x536c7E8F18D09d04697E0d2624b44bBA575388c2/transactions](https://blockscout.com/xdai/mainnet/address/0x536c7E8F18D09d04697E0d2624b44bBA575388c2/transactions)
 
@@ -759,9 +719,7 @@ _11-Jun-21 08:00 AM_:
 
 [https://discord.com/channels/810180621930070088/810180622634844200/850900602455851028](https://discord.com/channels/810180621930070088/810180622634844200/850900602455851028)
 
-<--
-
-<img src="https://twemoji.maxcdn.com/2/72x72/26a1.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
+<-- <img src="https://twemoji.maxcdn.com/2/72x72/26a1.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -797,9 +755,7 @@ First Test From around Oct, 2020 until Jun 5, 2021 Total (TCRED) distributed,18,
 
 [https://lh4.googleusercontent.com/B-MX8rPVaQbSGezcXrKdMhkODVaCh1B9AQnJQDf2xA73-I18iUsV5Hdhopo15HKC4-v0SzQtVmqyMA=w1200-h630-p](https://lh4.googleusercontent.com/B-MX8rPVaQbSGezcXrKdMhkODVaCh1B9AQnJQDf2xA73-I18iUsV5Hdhopo15HKC4-v0SzQtVmqyMA=w1200-h630-p)
 
-I'd like to see how we can automate the building of this spreadsheet, maybe Santiago knows @santigs ? After we send the funds to everyone's wallet, I'd have to do a 'burn' of the distributed tokens for each identity, this process is manual. And that's it
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+I'd like to see how we can automate the building of this spreadsheet, maybe Santiago knows @santigs ? After we send the funds to everyone's wallet, I'd have to do a 'burn' of the distributed tokens for each identity, this process is manual. And that's it <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 (edited)
 
@@ -809,9 +765,7 @@ Transactions App is ready to use on our DAO, last friday the voting passed
 
 mateodaza
 
-[I'd like to see how we can automate the building of this spreadsheet, maybe Santiago knows @santigs ? After we send the funds to everyone's wallet, I'd have to do a 'burn' of the distributed tokens for each identity, this process is manual. And that's it   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[I'd like to see how we can automate the building of this spreadsheet, maybe Santiago knows @santigs ? After we send the funds to everyone's wallet, I'd have to do a 'burn' of the distributed tokens for each identity, this process is manual. And that's it   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -823,9 +777,7 @@ hey @KZ Flyer do you have experience with this?
 
 mateodaza
 
-[I'd like to see how we can automate the building of this spreadsheet, maybe Santiago knows @santigs ? After we send the funds to everyone's wallet, I'd have to do a 'burn' of the distributed tokens for each identity, this process is manual. And that's it   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[I'd like to see how we can automate the building of this spreadsheet, maybe Santiago knows @santigs ? After we send the funds to everyone's wallet, I'd have to do a 'burn' of the distributed tokens for each identity, this process is manual. And that's it   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -847,9 +799,7 @@ Yes! They just automated their pollen. [https://github.com/1Hive/pollen](https:/
 
 1Hive/pollen
 
-1Hive's Sourcecred Instance
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f41d.png" width=50 height=50>
+1Hive's Sourcecred Instance <img src="https://twemoji.maxcdn.com/2/72x72/1f41d.png" width=20 height=20>
 
 . Contribute to 1Hive/pollen development by creating an account on GitHub.
 
@@ -942,9 +892,7 @@ TESTEC!get_praise
 <h3>TestBot (AKA Praise Scraper?) BOT <img src="https://cdn.discordapp.com/avatars/842457699019259914/beae215bf0bbcf4ed965b1023d03c374.png" width=25 height=25></h3>
 
 _19-Jun-21 10:57 AM_:
-Fetching all Praise from
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4b8.png" width=50 height=50>
+Fetching all Praise from <img src="https://twemoji.maxcdn.com/2/72x72/1f4b8.png" width=20 height=20>
 
 - sourcecred...
 
@@ -958,9 +906,7 @@ hey team! how are we doing for the first distribution? @mateodaza @santigs @Vyvy
 
 TestBot (AKA Praise Scraper?)
 
-[Fetching all Praise from -sourcecred...](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4b8.png" width=50 height=50>
+[Fetching all Praise from -sourcecred...](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f4b8.png" width=20 height=20>
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -1005,15 +951,10 @@ liviade
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
 _21-Jun-21 12:41 PM_:
-We need to add the xDAI to the DAO and set all the addresses to our spreadsheet and then make the payment with the 'transactions' app (and also burn in the sourcecred) - I'm really busy with some Giveth stuff tomorrow so I propose we hack on it on Wednesday if everyone has the time maybe? I could do it alone but for transparency it could be cool to do it together
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+We need to add the xDAI to the DAO and set all the addresses to our spreadsheet and then make the payment with the 'transactions' app (and also burn in the sourcecred) - I'm really busy with some Giveth stuff tomorrow so I propose we hack on it on Wednesday if everyone has the time maybe? I could do it alone but for transparency it could be cool to do it together <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>santigs <img src="https://cdn.discordapp.com/avatars/434632218246381569/ecb10317edc17d2e273d2404cc6f6a52.png" width=25 height=25></h3>
 
@@ -1027,9 +968,7 @@ But can vote the dao distribution
 
 mateodaza
 
-[We need to add the xDAI to the DAO and set all the addresses to our spreadsheet and then make the payment with the 'transactions' app (and also burn in the sourcecred) - I'm really busy with some Giveth stuff tomorrow so I propose we hack on it on Wednesday if everyone has the time maybe? I could do it alone but for transparency it could be cool to do it together   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[We need to add the xDAI to the DAO and set all the addresses to our spreadsheet and then make the payment with the 'transactions' app (and also burn in the sourcecred) - I'm really busy with some Giveth stuff tomorrow so I propose we hack on it on Wednesday if everyone has the time maybe? I could do it alone but for transparency it could be cool to do it together   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1151,16 +1090,11 @@ _01-Jul-21 11:26 AM_:
 
 hey @santigs @Zeptimus @natesuits @anna-marie @chuygarcia.eth @escanor.eth we have a vote to pass :D
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e5.png" width=50 height=50>
-
-1
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
 _01-Jul-21 11:26 AM_:
-Hey guys!! We made our first sourcecred test drop
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+Hey guys!! We made our first sourcecred test drop <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 [https://aragon.1hive.org/#/tecdrops/0x62a2dfe97cbc3a3d4885f7222e6fe078131c77ad/vote/2/](https://aragon.1hive.org/#/tecdrops/0x62a2dfe97cbc3a3d4885f7222e6fe078131c77ad/vote/2/)
 
@@ -1179,9 +1113,7 @@ liviade
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
 _01-Jul-21 11:36 AM_:
-please please please don't let this vote die, setting >50 addresses in there was really something
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+please please please don't let this vote die, setting >50 addresses in there was really something <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
@@ -1205,9 +1137,7 @@ voted too
 
 mateodaza
 
-[please please please don't let this vote die, setting >50 addresses in there was really something](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+[please please please don't let this vote die, setting >50 addresses in there was really something](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>sem(🌸,🐝) <img src="https://cdn.discordapp.com/avatars/676517295643820032/bfcde0fd88f9b8e9c184906a5080c128.png" width=25 height=25></h3>
 
@@ -1261,28 +1191,17 @@ _01-Jul-21 03:16 PM_:
 
 I believe those repos didn’t exist when it was configured or something weird happened there, I need to check… thanks for pointing this out, I’ll totally fix this. Luckily this was a test drop!!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
 _05-Jul-21 10:40 AM_:
-The proposal for our test distribution was successfully enacted
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+The proposal for our test distribution was successfully enacted <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 (edited)
 
 Thanks to everyone who voted
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
-
-3
 
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
@@ -1290,17 +1209,13 @@ _15-Jul-21 12:14 PM_:
 
 looks like 1hive's pollen is forking sourcecred and implementing hernando's more automatic toys
 
-i think it might be worth taking a look @mateodaza this might save us a bunch of issues in the initial distributions
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+i think it might be worth taking a look @mateodaza this might save us a bunch of issues in the initial distributions <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png](https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png)
 
 chuygarcia.eth
 
-[i think it might be worth taking a look @mateodaza this might save us a bunch of issues in the initial distributions](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+[i think it might be worth taking a look @mateodaza this might save us a bunch of issues in the initial distributions](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -1308,9 +1223,7 @@ _15-Jul-21 12:16 PM_:
 
 Ohh have a repo for that I can check?
 
-Sounds great
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
+Sounds great <img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=20 height=20>
 
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
@@ -1320,25 +1233,18 @@ _15-Jul-21 12:17 PM_:
 
 1Hive/pollen
 
-1Hive's Sourcecred Instance
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f41d.png" width=50 height=50>
+1Hive's Sourcecred Instance <img src="https://twemoji.maxcdn.com/2/72x72/1f41d.png" width=20 height=20>
 
 . Contribute to 1Hive/pollen development by creating an account on GitHub.
 
 [https://opengraph.githubassets.com/bbd1d30a2cad96c19220b9fd59969ef52cd36f202bb7efc5f2b3f861b9c2e70d/1Hive/pollen](https://opengraph.githubassets.com/bbd1d30a2cad96c19220b9fd59969ef52cd36f202bb7efc5f2b3f861b9c2e70d/1Hive/pollen)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 and this is the onboarding bot that hernando put together: [https://github.com/1Hive/pollen-bot](https://github.com/1Hive/pollen-bot)
 
 1Hive/pollen-bot
 
-A discord bot to support Pollen duties
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3f5.png" width=50 height=50>
+A discord bot to support Pollen duties <img src="https://twemoji.maxcdn.com/2/72x72/1f3f5.png" width=20 height=20>
 
 . Contribute to 1Hive/pollen-bot development by creating an account on GitHub.
 
@@ -1352,16 +1258,11 @@ A script to fetch and upload cred data every 6 hours - 1Hive/pollen-cred-fetcher
 
 [https://opengraph.githubassets.com/3cb2640b941376afaab0f935f782a4503c54cda329000207bcda7a4a80f4795e/1Hive/pollen-cred-fetcher](https://opengraph.githubassets.com/3cb2640b941376afaab0f935f782a4503c54cda329000207bcda7a4a80f4795e/1Hive/pollen-cred-fetcher)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
 _04-Aug-21 12:24 PM_:
-@mateodaza @liviade The last pollen funding proposal got challenged on celeste! I think this case and the discussion around it is gonna be great input for our own implementation
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+@mateodaza @liviade The last pollen funding proposal got challenged on celeste! I think this case and the discussion around it is gonna be great input for our own implementation <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://forum.1hive.org/t/pollen-distribution-period-starting-july-20th/4168?u=chuygarcia92](https://forum.1hive.org/t/pollen-distribution-period-starting-july-20th/4168?u=chuygarcia92)
 
@@ -1375,9 +1276,7 @@ Pollen Distribution period starting July 20 proposal link: Honey Pot Proposal In
 
 chuygarcia.eth
 
-[@mateodaza @liviade The last pollen funding proposal got challenged on celeste! I think this case and the discussion around it is gonna be great input for our own implementation](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[@mateodaza @liviade The last pollen funding proposal got challenged on celeste! I think this case and the discussion around it is gonna be great input for our own implementation](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://forum.1hive.org/t/pollen-distribution-period-starting-july-20th/4168?u=chuygarcia92](https://forum.1hive.org/t/pollen-distribution-period-starting-july-20th/4168?u=chuygarcia92)
 
@@ -1391,9 +1290,7 @@ that's fascinating! thanks for sharing Chuy
 
 chuygarcia.eth
 
-[@mateodaza @liviade The last pollen funding proposal got challenged on celeste! I think this case and the discussion around it is gonna be great input for our own implementation](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[@mateodaza @liviade The last pollen funding proposal got challenged on celeste! I think this case and the discussion around it is gonna be great input for our own implementation](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://forum.1hive.org/t/pollen-distribution-period-starting-july-20th/4168?u=chuygarcia92](https://forum.1hive.org/t/pollen-distribution-period-starting-july-20th/4168?u=chuygarcia92)
 
@@ -1421,9 +1318,7 @@ SourceCred recognizes it’s guilty of not spending a lot of time with 1Hive lat
 
 chuygarcia.eth
 
-[@mateodaza @liviade The last pollen funding proposal got challenged on celeste! I think this case and the discussion around it is gonna be great input for our own implementation](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[@mateodaza @liviade The last pollen funding proposal got challenged on celeste! I think this case and the discussion around it is gonna be great input for our own implementation](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://forum.1hive.org/t/pollen-distribution-period-starting-july-20th/4168?u=chuygarcia92](https://forum.1hive.org/t/pollen-distribution-period-starting-july-20th/4168?u=chuygarcia92)
 
@@ -1485,9 +1380,7 @@ _24-Aug-21 11:58 AM_:
 
 hey everyone, can we have a chat today after sot gov to discuss next steps for sourcecred? @mateodaza (edited)
 
-also @Vyvy-vi I know you're unavailable now - just have a quick question about the bot to collect addresses, what was the status of it? Feel free to answer when you have the time
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+also @Vyvy-vi I know you're unavailable now - just have a quick question about the bot to collect addresses, what was the status of it? Feel free to answer when you have the time <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 would be great to have you there too @ryeder (they/them)
 
@@ -1499,13 +1392,9 @@ _24-Aug-21 12:02 PM_:
 
 Hey! It sorta works (but you won't have a UI to view them) I'm wondering, if it would be of value to fork 1hive's pollen-bee implementation, which automatically enters people to sourcecred, after they send a command [https://github.com/1Hive/pollen-bot](https://github.com/1Hive/pollen-bot) (edited)
 
-GitHub - 1Hive/pollen-bot: A discord bot to support Pollen duties
+GitHub - 1Hive/pollen-bot: A discord bot to support Pollen duties <img src="https://twemoji.maxcdn.com/2/72x72/1f3f5.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3f5.png" width=50 height=50>
-
-A discord bot to support Pollen duties
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3f5.png" width=50 height=50>
+A discord bot to support Pollen duties <img src="https://twemoji.maxcdn.com/2/72x72/1f3f5.png" width=20 height=20>
 
 . Contribute to 1Hive/pollen-bot development by creating an account on GitHub.
 
@@ -1610,9 +1499,7 @@ mateodaza
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _24-Aug-21 12:11 PM_:
-that would be great
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+that would be great <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -1623,9 +1510,7 @@ liviade
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _24-Aug-21 12:45 PM_:
-Great! I was planning on it
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+Great! I was planning on it <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -1650,9 +1535,7 @@ mateodaza
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _24-Aug-21 12:48 PM_:
-He's pretty busy with a new job and will probably send you to hernando
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+He's pretty busy with a new job and will probably send you to hernando <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 (edited)
 Here's the flow C&P from h
@@ -1665,17 +1548,11 @@ If you wanted the fully automated process and cred information for users, you'd 
 
 >
 
-Seems kind of overwhelming, but I think it's easy to set up. Feel free to ping me if you need help with that
+Seems kind of overwhelming, but I think it's easy to set up. Feel free to ping me if you need help with that <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+GitHub - 1Hive/pollen-bot: A discord bot to support Pollen duties <img src="https://twemoji.maxcdn.com/2/72x72/1f3f5.png" width=20 height=20>
 
-GitHub - 1Hive/pollen-bot: A discord bot to support Pollen duties
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3f5.png" width=50 height=50>
-
-A discord bot to support Pollen duties
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3f5.png" width=50 height=50>
+A discord bot to support Pollen duties <img src="https://twemoji.maxcdn.com/2/72x72/1f3f5.png" width=20 height=20>
 
 . Contribute to 1Hive/pollen-bot development by creating an account on GitHub.
 
@@ -1699,9 +1576,7 @@ I've been asking him questions in his DMs and may be able to answer questions in
 
 ryeder (they/them)
 
-[He's pretty busy with a new job and will probably send you to hernando   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50>
+[He's pretty busy with a new job and will probably send you to hernando   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=20 height=20>
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -1712,15 +1587,10 @@ Gotcha!
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _24-Aug-21 12:51 PM_:
-Y'all are sniffing down the trail I'm been cautiously staking out
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+Y'all are sniffing down the trail I'm been cautiously staking out <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 So glad to meet on it!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fc.png" width=50 height=50>
-
-2
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -1774,9 +1644,6 @@ This is an example ExternalPlugin to show 3rd-party developers how to create one
 
 ![https://static.observableusercontent.com/thumbnail/4f1de02e513bb2e9c9f34d8fad49a3b8fc3e09a50c20a32761b612e7f4d2f50a.jpg](https://static.observableusercontent.com/thumbnail/4f1de02e513bb2e9c9f34d8fad49a3b8fc3e09a50c20a32761b612e7f4d2f50a.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png](https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png)
 
@@ -1797,13 +1664,9 @@ _14-Sep-21 10:16 AM_:
 
 [https://miro.com/app/board/o9J_lyTkWjY=/](https://miro.com/app/board/o9J_lyTkWjY=/)
 
-This is a separate track from the more long term work done by the Governauts Reward System Research group. The findings from that work might be implemented in future versions of the process.
+This is a separate track from the more long term work done by the Governauts Reward System Research group. The findings from that work might be implemented in future versions of the process. <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50>
-
-Thursday 16 September, 16:00 CET (Invite is in the TEC calendar as well, please invite anyone I didn't have the email address to)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d8.png" width=50 height=50>
+Thursday 16 September, 16:00 CET (Invite is in the TEC calendar as well, please invite anyone I didn't have the email address to) <img src="https://twemoji.maxcdn.com/2/72x72/1f3d8.png" width=20 height=20>
 
 We meet in the TEC - Community Hall
 
@@ -1818,13 +1681,9 @@ Rewards System Process
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _14-Sep-21 10:17 AM_:
-thanks so much for organizing this call @kristofer
+thanks so much for organizing this call @kristofer <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-@johann this is call i mentioned
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=50 height=50>
+@johann this is call i mentioned <img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -1834,13 +1693,9 @@ kristofer
 
 [https://miro.com/app/board/o9J_lyTkWjY=/](https://miro.com/app/board/o9J_lyTkWjY=/)
 
-This is a separate track from the more long term work done by the Governauts Reward System Research group. The findings from that work might be implemented in future versions of the process.
+This is a separate track from the more long term work done by the Governauts Reward System Research group. The findings from that work might be implemented in future versions of the process. <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50>
-
-Thursday 16 September, 16:00 CET (Invite is in the TEC calendar as well, please invite anyone I didn't have the email address to)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d8.png" width=50 height=50>
+Thursday 16 September, 16:00 CET (Invite is in the TEC calendar as well, please invite anyone I didn't have the email address to) <img src="https://twemoji.maxcdn.com/2/72x72/1f3d8.png" width=20 height=20>
 
 We meet in the TEC - Community Hall
 
@@ -1853,30 +1708,19 @@ We meet in the TEC - Community Hall
 _14-Sep-21 12:32 PM_:
 I’ll be there! @hannahjojo @Lauren maybe you’re interested from the Giveth team
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png](https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png)
 
 mateodaza
 
-[I’ll be there! @hannahjojo @Lauren maybe you’re interested from the Giveth team](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
+[I’ll be there! @hannahjojo @Lauren maybe you’re interested from the Giveth team](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=20 height=20>
 
 <h3>Lauren <img src="https://cdn.discordapp.com/avatars/492394339532800020/0764c3dbda1e43828f4d2db9b8213c85.png" width=25 height=25></h3>
 
 _14-Sep-21 12:34 PM_:
 thanks for the ping Mateo!! I'll be there
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -1886,13 +1730,9 @@ kristofer
 
 [https://miro.com/app/board/o9J_lyTkWjY=/](https://miro.com/app/board/o9J_lyTkWjY=/)
 
-This is a separate track from the more long term work done by the Governauts Reward System Research group. The findings from that work might be implemented in future versions of the process.
+This is a separate track from the more long term work done by the Governauts Reward System Research group. The findings from that work might be implemented in future versions of the process. <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50>
-
-Thursday 16 September, 16:00 CET (Invite is in the TEC calendar as well, please invite anyone I didn't have the email address to)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d8.png" width=50 height=50>
+Thursday 16 September, 16:00 CET (Invite is in the TEC calendar as well, please invite anyone I didn't have the email address to) <img src="https://twemoji.maxcdn.com/2/72x72/1f3d8.png" width=20 height=20>
 
 We meet in the TEC - Community Hall
 
@@ -1903,9 +1743,7 @@ We meet in the TEC - Community Hall
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 _14-Sep-21 01:54 PM_:
-There is a conflcit in my schedule so I will not be able to join tomorrow but look forward to what will come out of it.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50>
+There is a conflcit in my schedule so I will not be able to join tomorrow but look forward to what will come out of it. <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -1927,9 +1765,6 @@ _15-Sep-21 07:06 AM_:
 
 yes this looks like something that would work
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2030,18 +1865,14 @@ I do like this idea, partially because I think 'Praise X for being an awesome pe
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 _16-Sep-21 03:53 PM_:
-Maybe we could all agree on giving a 1% of the quantifier's scale to such praises? (i.e. 0.1 on a 10-point scale) Or remove these from the quant as suggested above
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+Maybe we could all agree on giving a 1% of the quantifier's scale to such praises? (i.e. 0.1 on a 10-point scale) Or remove these from the quant as suggested above <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 (edited)
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _17-Sep-21 09:42 AM_:
-I compiled a doc with three future praise ideas that have been floating around: 1. Group praises 2. URLs connect many praise to one contribution 3. Praise reactions I think it can be good to maintain a list of more longterm ideas that doesn't get put in the backlog initially. Or, we'll put them on the backlog. We'll see.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f600.png" width=50 height=50>
+I compiled a doc with three future praise ideas that have been floating around: 1. Group praises 2. URLs connect many praise to one contribution 3. Praise reactions I think it can be good to maintain a list of more longterm ideas that doesn't get put in the backlog initially. Or, we'll put them on the backlog. We'll see. <img src="https://twemoji.maxcdn.com/2/72x72/1f600.png" width=20 height=20>
 
 Either way, if you sit on future praise ideas, please add or comment.
 
@@ -2051,17 +1882,12 @@ Either way, if you sit on future praise ideas, please add or comment.
 
 Praise ideas – beyond v1
 
-Praise ideas – beyond v1.0 Group praises !praise #
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e1.png" width=50 height=50>
+Praise ideas – beyond v1.0 Group praises !praise # <img src="https://twemoji.maxcdn.com/2/72x72/1f4e1.png" width=20 height=20>
 
 ｜comms for the successful launch of xxx Sometimes you don't want to praise an individual but a whole team. Also, as the community grows, it becomes more difficult to keep track of who does what. Being able to praise workgroups could solve th...
 
 [https://lh3.googleusercontent.com/OvzG7maNaYQYCWivanXEaf8Re-9BiNaftuoISXoBficU3hp7v-uofSdoygPUpau8S15h8rae8ouHjw=w1200-h630-p](https://lh3.googleusercontent.com/OvzG7maNaYQYCWivanXEaf8Re-9BiNaftuoISXoBficU3hp7v-uofSdoygPUpau8S15h8rae8ouHjw=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2098,9 +1924,7 @@ kristofer
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
 _20-Sep-21 03:20 PM_:
-I had no arguments at all
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+I had no arguments at all <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 I just said it because I had seen that the metafactory team had planned to do it but backtracked. But if it seems doable we can definitely try!
 
@@ -2160,15 +1984,11 @@ And if the quant process becomes more asynchronous we would need to define those
 
 Nuggan
 
-[I had no arguments at all  I just said it because I had seen that the metafactory team had planned to do it but backtracked. But if it seems doable we can definitely try!](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+[I had no arguments at all  I just said it because I had seen that the metafactory team had planned to do it but backtracked. But if it seems doable we can definitely try!](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_20-Sep-21 04:06 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
+_20-Sep-21 04:06 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=20 height=20>
 
 Had a good talk with @hz today and gained some more insight into SourceCred plugins etc. Some takeaways: - Building a plugin does not seem too difficult using the ExternalPlugin tools - SourceCred already does something like 85% similar to praise using the included Discord bot and one channel configured for the purpose -
 
@@ -2196,9 +2016,7 @@ I think a good pattern for this might be something like *Helpful *More Helpful *
 
 kristofer
 
-[ Had a good talk with @hz today and gained some more insight into SourceCred plugins etc. Some takeaways: - Building a plugin does not seem too difficult using the ExternalPlugin tools - SourceCred already does something like 85% similar to praise using the included Discord bot and one channel configured for the purpose - *props* they call it. No manual quant though, number of reactions determine praise/props weight. - SC also is planning or at least have been planning to build a separate tool called *The Creditor* with the purpose of tracking contributions outside of what can be more easily measured - "care work", "planning that conference", etc. I'll check and find out how far they have come with the Creditor.](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
+[ Had a good talk with @hz today and gained some more insight into SourceCred plugins etc. Some takeaways: - Building a plugin does not seem too difficult using the ExternalPlugin tools - SourceCred already does something like 85% similar to praise using the included Discord bot and one channel configured for the purpose - *props* they call it. No manual quant though, number of reactions determine praise/props weight. - SC also is planning or at least have been planning to build a separate tool called *The Creditor* with the purpose of tracking contributions outside of what can be more easily measured - "care work", "planning that conference", etc. I'll check and find out how far they have come with the Creditor.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=20 height=20>
 
 <h3>hz <img src="https://cdn.discordapp.com/avatars/318552163649454081/a7495c44681943eaea928c5e0194b1cb.png" width=25 height=25></h3>
 
@@ -2206,9 +2024,6 @@ _20-Sep-21 04:11 PM_:
 
 I have also mentioned our call to the sourcecred community and I’ve got the interest of both someone in ecosystems and a core dev and they love to help and everything i know this is doubled but i wanted to keep this here too
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -2354,16 +2169,11 @@ _21-Sep-21 07:51 AM_:
 
 Let's hope the current position doesn't change for the short to midterm then.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _21-Sep-21 08:17 PM_:
-In case ya'll haven't seen this, apparently it takes info from excel sheets and creates a live visual from it. from a friend here's an example: thought it could be cool to experiment with praise... if i get a chance i'll try it out myself if i can
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
+In case ya'll haven't seen this, apparently it takes info from excel sheets and creates a live visual from it. from a friend here's an example: thought it could be cool to experiment with praise... if i get a chance i'll try it out myself if i can <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=20 height=20>
 
 [https://gephi.org/](https://gephi.org/)
 
@@ -2373,9 +2183,6 @@ Gephi - The Open Graph Viz Platform
 
 Gephi - The Open Graph Viz Platform
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-3
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -2395,9 +2202,6 @@ _23-Sep-21 04:35 AM_:
 
 hmm, but I guess either should be straightforward.. (*Idk what Alexandra is made in, however most programming languages do have implementations for making HTTP requests.) I think looking into making the API method might allow us to extend the backend to integrate with multiple platforms without any issues.... (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2408,15 +2212,11 @@ Reminder for the Reward System call today at 16:00 CET in Community Hall. **Agen
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _23-Sep-21 09:58 AM_:
-The short term goal for the Reward System project is to make sure the TEC can do a praise quantification and rewards distribution close to the commons upgrade. Mid term goal is to develop Praise into a standalone open source system to be used by any community.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f477.png" width=50 height=50>
+The short term goal for the Reward System project is to make sure the TEC can do a praise quantification and rewards distribution close to the commons upgrade. Mid term goal is to develop Praise into a standalone open source system to be used by any community. <img src="https://twemoji.maxcdn.com/2/72x72/1f477.png" width=20 height=20>
 
 ‍♀️ Project docs, meeting notes, agendas:
 
-[https://www.notion.so/fmckl/Rewards-WG-1ad0a25f3e9a4782a25679eb94ef71dc](https://www.notion.so/Rewards-WG-1ad0a25f3e9a4782a25679eb94ef71dc)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6e3.png" width=50 height=50>
+[https://www.notion.so/fmckl/Rewards-WG-1ad0a25f3e9a4782a25679eb94ef71dc](https://www.notion.so/Rewards-WG-1ad0a25f3e9a4782a25679eb94ef71dc) <img src="https://twemoji.maxcdn.com/2/72x72/1f6e3.png" width=20 height=20>
 
 ZenHub roadmap and issue board:
 
@@ -2428,9 +2228,7 @@ ZenHub roadmap and issue board:
 
 (edited)
 
-Rewards WG
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=50 height=50>
+Rewards WG <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=20 height=20>
 
 Documents
 
@@ -2445,9 +2243,7 @@ Praise / Rewards System
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _23-Sep-21 03:55 PM_:
-i see TEC is still writing all participants in meetings by hand in praise and just want to drop the meeting bot that we have at sourcecred that i believe could be adapted to automate that for you
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+i see TEC is still writing all participants in meetings by hand in praise and just want to drop the meeting bot that we have at sourcecred that i believe could be adapted to automate that for you <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 looking forward to future reward systems discussion!
 
@@ -2462,9 +2258,7 @@ Contribute to blueridger/MeetingAttendanceDiscordBot development by creating an 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 _23-Sep-21 04:39 PM_:
-That's interesting
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+That's interesting <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 We've been discussing integrating Alexandra into the praise workflow -
 
@@ -2482,9 +2276,7 @@ The Discord Bot App that tracks voice channel presence - GitHub - longtailfinanc
 
 Vyvy-vi
 
-[That's interesting  We've been discussing integrating Alexandra into the praise workflow -](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+[That's interesting  We've been discussing integrating Alexandra into the praise workflow -](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 [https://github.com/longtailfinancial/alexandra](https://github.com/longtailfinancial/alexandra)
 
@@ -2514,9 +2306,6 @@ _24-Sep-21 02:02 AM_:
 
 Yes, definitely! The process description you and me produce together with the *Rules of Praise and Quantification* should provide enough material to do a good advice process. A summary post in the advise process section of the forum linking to both docs when those are done? And together with that schedule an open Q&A session?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2524,13 +2313,7 @@ _24-Sep-21 02:17 AM_:
 
 When we communicate about the work being done here, let's emphasise that this is not about replacing the current process with a new one, not even about doing a major redesign. It is about refining the current process – making it easier to administer and more transparent – allowing the community to take part in deciding how we value different kind of contributions.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f50d.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2544,9 +2327,6 @@ _24-Sep-21 06:51 AM_:
 
 One thing to consider, maybe not for the MVP version but for coming versions, is how do we manage the user registry in the best way? We discussed bots for onboarding users, asking them about eth adressess etc. But, a user/member registry is a common need for the TEC as a whole, for more apps than praise. A central user registry would benefit all projects. MetaGame, BoardRoom (and SourceCred?) have begun tinkering with Ceramic/IDX, has someone had a look at what they offer? (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -2560,15 +2340,10 @@ _24-Sep-21 07:00 AM_:
 
 I think 1Hive has close ties to the brightID project, maybe something in that direction? I think a good web3 DID system is definitely something to have on the plan for the future (but maybe for the MVP that would be a bit rushed)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-3
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
-_24-Sep-21 10:28 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+_24-Sep-21 10:28 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 Even though 1hive does have brightid as a verification mechanism, their central registry is built by the the ledger in the sourcecred bot, I think. The other thing that they use for keeping track of people is their wallet addresses, which I think they get from token-holder/platform snapshots or the brightid signup on a faucet, but that only contains data limited to - them being human, and them having a valid address. (edited)
 
@@ -2598,9 +2373,6 @@ Question: has someone built a twitter plug-in for sourcecred or is this the indi
 
 Who runs the reward system meetings? I think that makes them the Steward? I'm definitely interested in helping organize/co-facilitate mtgs upcoming. I have a lot of experience facilitating and am an active member/treasurer/instance maintainer/experimenter at Sourcecred. FYI I will be offline this Thurs-Sat in case someone tries to follow up and wonders where I went
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png](https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png)
 
@@ -2614,17 +2386,12 @@ _27-Sep-21 05:34 AM_:
 
 Not as far as I know. We need to look into how we can get one online.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png](https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png)
 
 ryeder (they/them)
 
-[Who runs the reward system meetings? I think that makes them the Steward? I'm definitely interested in helping organize/co-facilitate mtgs upcoming. I have a lot of experience facilitating and am an active member/treasurer/instance maintainer/experimenter at Sourcecred. FYI I will be offline this Thurs-Sat in case someone tries to follow up and wonders where I went](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[Who runs the reward system meetings? I think that makes them the Steward? I'm definitely interested in helping organize/co-facilitate mtgs upcoming. I have a lot of experience facilitating and am an active member/treasurer/instance maintainer/experimenter at Sourcecred. FYI I will be offline this Thurs-Sat in case someone tries to follow up and wonders where I went](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2641,9 +2408,7 @@ mitch (🍔, 🍔)
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _27-Sep-21 11:46 AM_:
-I agree! thankfully we'll be running the TE Academy reward system research group too and we can bring this to the eyes of many people
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+I agree! thankfully we'll be running the TE Academy reward system research group too and we can bring this to the eyes of many people <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -2743,13 +2508,9 @@ _27-Sep-21 03:24 PM_:
 
 SourceCred Committee Proposal
 
-Proposal Title
+Proposal Title <img src="https://twemoji.maxcdn.com/2/72x72/1f4b8.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4b8.png" width=50 height=50>
-
-SourceCred Committee
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4b8.png" width=50 height=50>
+SourceCred Committee <img src="https://twemoji.maxcdn.com/2/72x72/1f4b8.png" width=20 height=20>
 
 Proposal Information Proposal Description: What is an accurate and detailed description of what you are proposing? The creation of a committee to be responsible for SourceCred decisions like: Which tokens are going to be distributed: Once the Commons is fully upgraded post Hatch we can make this dec...
 
@@ -2761,13 +2522,7 @@ _27-Sep-21 03:34 PM_:
 
 @liviade @kristofer sorry for bad internet! I have to jet in a hurry unfortunately, I will review this doc and sync when my connection is better
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3c3-200d-2642.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -2775,9 +2530,6 @@ _28-Sep-21 03:48 AM_:
 
 I need to reschedule the next Reward System sync unfortunately. Would it be possible to just push it forward one day and meet this Fri 16-17 CET? @mitch (🍔, 🍔) @Nuggan @rdfbbx @liviade @mateodaza @Vyvy-vi
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-3
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -2801,13 +2553,9 @@ Works for me too
 
 kristofer
 
-[The short term goal for the Reward System project is to make sure the TEC can do a praise quantification and rewards distribution close to the commons upgrade. Mid term goal is to develop Praise into a standalone open source system to be used by any community. ‍♀️ Project docs, meeting notes, agendas:](about:blank#)
+[The short term goal for the Reward System project is to make sure the TEC can do a praise quantification and rewards distribution close to the commons upgrade. Mid term goal is to develop Praise into a standalone open source system to be used by any community. ‍♀️ Project docs, meeting notes, agendas:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f477.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f477.png" width=50 height=50>
-
-[https://www.notion.so/fmckl/Rewards-WG-1ad0a25f3e9a4782a25679eb94ef71dc](https://www.notion.so/Rewards-WG-1ad0a25f3e9a4782a25679eb94ef71dc)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6e3.png" width=50 height=50>
+[https://www.notion.so/fmckl/Rewards-WG-1ad0a25f3e9a4782a25679eb94ef71dc](https://www.notion.so/Rewards-WG-1ad0a25f3e9a4782a25679eb94ef71dc) <img src="https://twemoji.maxcdn.com/2/72x72/1f6e3.png" width=20 height=20>
 
 ZenHub roadmap and issue board:
 
@@ -2825,9 +2573,6 @@ _28-Sep-21 04:54 AM_:
 
 (maybe it would be a good idea to pin this post?)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 Original message was deleted.
 
@@ -2910,29 +2655,20 @@ _28-Sep-21 03:13 PM_:
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _29-Sep-21 01:56 AM_:
-@kristofer any chance the mtg would change slots? asking for a friend
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+@kristofer any chance the mtg would change slots? asking for a friend <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png](https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png)
 
 ryeder (they/them)
 
-[@kristofer any chance the mtg would change slots? asking for a friend](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+[@kristofer any chance the mtg would change slots? asking for a friend](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_29-Sep-21 05:05 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+_29-Sep-21 05:05 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 The meeting time is a compromise already and will likely not be changed. Good time for EU, ok time for US east coast, livable for US west coast early birds.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
@@ -2996,9 +2732,6 @@ _01-Oct-21 07:03 AM_:
 
 Hi all! We meet today at 16:00 CET in the community hall to do status updates and review of the past week. Hopefully we can mark a few issues as DONE and maybe even squeeze in some planning for coming week(s). Agenda, status updates: - Reward System process – from here to first quant after Commons Upgrade @mitch (🍔, 🍔) - Rules of Praise and Quantification @liviade - Choice of backend architecture @rdfbbx @Nuggan - Choice of frontend architecture @kristofer@Striker SourceCred - Params and configuration @mateodaza - Bots (Twitter and meeting attendance) @Vyvy-vi - Wireframes @kristofer See you later!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-3
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3024,9 +2757,6 @@ This is a pinned post in the stacks server
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/893517113766055936/unknown.png](https://cdn.discordapp.com/attachments/831192353812381715/893517113766055936/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 Original message was deleted.
 
@@ -3054,9 +2784,6 @@ _01-Oct-21 04:09 PM_:
 
 Thanks! I've been poking around the resources already! For anyone who doesn't know, I'm LB and -while I'm not a coder- I have a lot of experience with the fundamentals of the SourceCred technology as well as a lot of ideas around what the User Experience of the product could look like. If I can support the implementation of reward systems that increase the experience of emotions like gratitude, connection, and celebration within community; I'd be happy to help!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -3082,9 +2809,6 @@ Rewards System Process The purpose of this system is to create a way to record, 
 
 3
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50>
-
-1
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -3154,13 +2878,7 @@ _05-Oct-21 06:39 AM_:
 
 Hey all! TEC Sprint #19 has begun. The Rewards System project will sync with that schedule. For us, this is Rewards System Sprint #2. From this point each sprint will be two weeks. My idea is to have the MVP done by the end of sprint #4, that is in six weeks. Is that doable? @Striker @rdfbbx @Nuggan @mitch (🍔, 🍔) @liviade @Vyvy-vi @mateodaza
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/26a1.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -3213,9 +2931,7 @@ kristofer
 <h3>rdfbbx <img src="https://cdn.discordapp.com/avatars/342966331441938442/c2e3d3cd0b66980887cc383f5ee69937.png" width=25 height=25></h3>
 
 _05-Oct-21 07:01 AM_:
-I can join the call. But, I can chat only
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f648.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
+I can join the call. But, I can chat only <img src="https://twemoji.maxcdn.com/2/72x72/1f648.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -3237,9 +2953,6 @@ _05-Oct-21 08:00 AM_:
 
 Cool, let's do tonight with @rdfbbx on chat.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f919.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -3255,9 +2968,6 @@ _05-Oct-21 11:05 AM_:
 
 yeah, I'm available too
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -3271,9 +2981,6 @@ _05-Oct-21 01:15 PM_:
 
 Can I come to the sourcecred one if it works with my schedule? i'd love to stay current with how y'all are thinking about this integration and offer anything i can from my experience dogfooding the product
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -3339,21 +3046,15 @@ hey @innov8tor3 I would also say that joining our next meeting is the best way t
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_06-Oct-21 02:14 PM_:
+_06-Oct-21 02:14 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50>
-
-Welcome to the weekly developer sync tomorrow at 16:00 CET!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f485.png" width=50 height=50>
+Welcome to the weekly developer sync tomorrow at 16:00 CET! <img src="https://twemoji.maxcdn.com/2/72x72/1f485.png" width=20 height=20>
 
 Room: The Community Hall. We are halfway into this second sprint and will use maybe half the meeting for a weekly standup. The remaining time I would like to focus on identifying issues for the different workstreams to put on the ZenHub board.
 
 **Agenda**
 
-What did you do the last few days? What will you do in the days ahead? Anything blocking your progress? Reward System process – from here to first quant post Commons Upgrade @mitch (🍔, 🍔) Rules of Praise and Quantification @liviade Praise backend @rdfbbx @Nuggan Praise frontend @Striker SourceCred bots and config @Vyvy-vi @mateodaza
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+What did you do the last few days? What will you do in the days ahead? Anything blocking your progress? Reward System process – from here to first quant post Commons Upgrade @mitch (🍔, 🍔) Rules of Praise and Quantification @liviade Praise backend @rdfbbx @Nuggan Praise frontend @Striker SourceCred bots and config @Vyvy-vi @mateodaza <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3401,13 +3102,7 @@ let's do a quick emoji vote :)
 
 **Do you think emojis should be allowed when we dish praise?**
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44e.png" width=50 height=50>
-
-4
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -3453,15 +3148,10 @@ _07-Oct-21 01:40 PM_:
 
 I like this idea -- people can include emojis if it fits their style, but then the quantifiers couldn't be influenced by them?.
 
-Also, perhaps in the process there's a way for quantifiers to choose whether they see original names or silly pseudonyms like "aardvark"? (My original name is a silly pseudonym
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f419.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/263a.png" width=50 height=50>
+Also, perhaps in the process there's a way for quantifiers to choose whether they see original names or silly pseudonyms like "aardvark"? (My original name is a silly pseudonym <img src="https://twemoji.maxcdn.com/2/72x72/1f419.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/263a.png" width=20 height=20>
 
 ️ so I don't have much investment in the issue.) Then we would have experience with both ways and a potential place for data analysis?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 On the code level it would just be a True/False flag that could spit out the preferred version..
 
@@ -3469,9 +3159,7 @@ On the code level it would just be a True/False flag that could spit out the pre
 
 🐙 octopus
 
-[Also, perhaps in the process there's a way for quantifiers to choose whether they see original names or silly pseudonyms like "aardvark"? (My original name is a silly pseudonym ️ so I don't have much investment in the issue.) Then we would have experience with both ways and a potential place for data analysis?](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f419.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/263a.png" width=50 height=50>
+[Also, perhaps in the process there's a way for quantifiers to choose whether they see original names or silly pseudonyms like "aardvark"? (My original name is a silly pseudonym ️ so I don't have much investment in the issue.) Then we would have experience with both ways and a potential place for data analysis?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f419.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/263a.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -3487,9 +3175,6 @@ _07-Oct-21 01:46 PM_:
 
 Sure, I'm being silly. Yes, random pseudonyms -- I would become "yak" or something.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
-
-1
 
 I am usually pro-anonymity, but I see how that could clash with either individual or cultural expectations.
 
@@ -3512,9 +3197,6 @@ I could be fun for sure to experiment with random names
 _07-Oct-21 02:26 PM_:
 I just learned today about some upgrades we're working on at sourcecred that are super valid especially as we move into integrations here at TEC: 1. Salaried integration - add special distributions to people that act as salary 2. Exclusions parameter on the "recent" policy - can add people to an exclusions list who are salaried - still participates on the "balanced" policy to receive cred - cultural / social integration: if props and didathings are instituted, props are for everyone, but salaried folks don't use didathing
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -3537,9 +3219,7 @@ Nuggan
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
 _08-Oct-21 01:14 AM_:
-+1. The difference between not allowing emojis in dishing praise versus not including them in the quantification process is subtle but important. I would not be in favor of prohibiting people from using emojis in their Praise. Emojis are part of our cultural expression here.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f938.png" width=50 height=50>
++1. The difference between not allowing emojis in dishing praise versus not including them in the quantification process is subtle but important. I would not be in favor of prohibiting people from using emojis in their Praise. Emojis are part of our cultural expression here. <img src="https://twemoji.maxcdn.com/2/72x72/1f938.png" width=20 height=20>
 
 ‍♀️ If the current system has a technical challenge to represent emojis in the quant process then we can filter them out. Eventually a technical solution may be found to show them - even if we all agree it’s not a priority for the MVP.
 
@@ -3547,9 +3227,7 @@ _08-Oct-21 01:14 AM_:
 
 ryeder (they/them)
 
-[I just learned today about some upgrades we're working on at sourcecred that are super valid especially as we move into integrations here at TEC: 1. Salaried integration - add special distributions to people that act as salary 2. Exclusions parameter on the "recent" policy - can add people to an exclusions list who are salaried - still participates on the "balanced" policy to receive cred - cultural / social integration: if props and didathings are instituted, props are for everyone, but salaried folks don't use didathing](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+[I just learned today about some upgrades we're working on at sourcecred that are super valid especially as we move into integrations here at TEC: 1. Salaried integration - add special distributions to people that act as salary 2. Exclusions parameter on the "recent" policy - can add people to an exclusions list who are salaried - still participates on the "balanced" policy to receive cred - cultural / social integration: if props and didathings are instituted, props are for everyone, but salaried folks don't use didathing](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 <h3>Tam2140 <img src="https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png" width=25 height=25></h3>
 
@@ -3557,9 +3235,6 @@ _08-Oct-21 01:15 AM_:
 
 Great to have this level insight on the sourcered features to come!! Thanks for bringing this here!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png](https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png)
 
@@ -3573,9 +3248,6 @@ _08-Oct-21 03:23 AM_:
 
 Yeah and just to clarify they are already built! (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -3585,9 +3257,6 @@ _08-Oct-21 05:22 AM_:
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/895964357966581790/Praise___Rewards_System_-_TEC_Reward_System_Process.jpeg](https://cdn.discordapp.com/attachments/831192353812381715/895964357966581790/Praise___Rewards_System_-_TEC_Reward_System_Process.jpeg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png](https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png)
 
@@ -3605,9 +3274,7 @@ We could make this an option for the new praise system. For the first quant we n
 
 Tam2140
 
-[+1. The difference between not allowing emojis in dishing praise versus not including them in the quantification process is subtle but important. I would not be in favor of prohibiting people from using emojis in their Praise. Emojis are part of our cultural expression here. ‍♀️ If the current system has a technical challenge to represent emojis in the quant process then we can filter them out. Eventually a technical solution may be found to show them - even if we all agree it’s not a priority for the MVP.](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f938.png" width=50 height=50>
+[+1. The difference between not allowing emojis in dishing praise versus not including them in the quantification process is subtle but important. I would not be in favor of prohibiting people from using emojis in their Praise. Emojis are part of our cultural expression here. ‍♀️ If the current system has a technical challenge to represent emojis in the quant process then we can filter them out. Eventually a technical solution may be found to show them - even if we all agree it’s not a priority for the MVP.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f938.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -3615,15 +3282,10 @@ _08-Oct-21 05:34 AM_:
 
 I do believe we are talking about two kinds of emojis here? 1. Emojis in the praise text 2. Emoji reactions to sent praise Current plan for new praise system is: 1. Emojis in the praise text: No action, no filtering, praise included in the praise text is just part of the text 2. Emoji reactions to sent praise: Not tracked How does this sound?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_08-Oct-21 07:34 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9d9.png" width=50 height=50>
+_08-Oct-21 07:34 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f9d9.png" width=20 height=20>
 
 ‍♀️Who is a google sheets wizard? We need someone to hack the sheets for step 3 and 4 of the rewards system process. Both the SourceCred system and Praise system will export data to be audited by human eyes in step 3 and re-calculated into a token distribution in step 4. (edited)
 
@@ -3655,13 +3317,7 @@ _08-Oct-21 07:45 AM_:
 
 It can easily be added later. But @mitch (🍔, 🍔) made good argument yesterday about the random nature of those reactions. Community members will mostly likely not read through the whole list to +1 what they are touched by. Instead they will stumble over the praise feed more by accident and most likely only react to the first few items visible on the screen. Does that mean that the signal is useless, no. But it is definitely quite noisy. (my free interpretation of what mitch actually said)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png" width=50 height=50>
 
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/261d.png" width=50 height=50>
-
-2
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -3669,9 +3325,6 @@ _08-Oct-21 11:40 AM_:
 
 yes to clarify there's no way to stop people from putting emojis onto praise but it shouldn't be shown when we send the data to quantifiers for the exact reason Kristofer outlines
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -3729,9 +3382,6 @@ _10-Oct-21 10:30 AM_:
 
 I'm making a suggesttion we change the term Rewards DAO committee to simply Reward Board I heard @liviade say it in a meeting last week and I'm a sucker for rhymes. It's way easier to say and type
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -3740,13 +3390,9 @@ Hey everyone! Can you take a gander at this proposed Roadmap and make suggestion
 
 [https://docs.google.com/document/d/1jkRg3fhF-7ZiYklc1zR9pkt69FqBAWWKc3GaYjdFTaQ/edit?usp=sharing](https://docs.google.com/document/d/1jkRg3fhF-7ZiYklc1zR9pkt69FqBAWWKc3GaYjdFTaQ/edit?usp=sharing)
 
-I see two distinct paths that split off - One is the governance process - choosing the
+I see two distinct paths that split off - One is the governance process - choosing the <img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=50 height=50>
-
-**Reward Board**
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=50 height=50>
+**Reward Board** <img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=20 height=20>
 
 , setting parameters and running it by the community the other is the development process, design, front-end, back-end. Which can run concurrently with the governance track, they merge at the end when we're ready for testing the app and preparing for first quant.
 
@@ -3776,13 +3422,9 @@ mitch (🍔, 🍔)
 
 [https://docs.google.com/document/d/1jkRg3fhF-7ZiYklc1zR9pkt69FqBAWWKc3GaYjdFTaQ/edit?usp=sharing](https://docs.google.com/document/d/1jkRg3fhF-7ZiYklc1zR9pkt69FqBAWWKc3GaYjdFTaQ/edit?usp=sharing)
 
-I see two distinct paths that split off - One is the governance process - choosing the
+I see two distinct paths that split off - One is the governance process - choosing the <img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=50 height=50>
-
-**Reward Board**
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=50 height=50>
+**Reward Board** <img src="https://twemoji.maxcdn.com/2/72x72/1f31f.png" width=20 height=20>
 
 , setting parameters and running it by the community the other is the development process, design, front-end, back-end. Which can run concurrently with the governance track, they merge at the end when we're ready for testing the app and preparing for first quant.
 
@@ -3825,9 +3467,7 @@ kristofer
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _11-Oct-21 09:13 AM_:
-yeah, I think it's reasonable for the committee to decide this. My only concern with randomly generated pseudonyms is the small chance we have to actually get a name that already exists in the community as an option
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+yeah, I think it's reasonable for the committee to decide this. My only concern with randomly generated pseudonyms is the small chance we have to actually get a name that already exists in the community as an option <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -3865,9 +3505,6 @@ _11-Oct-21 09:21 AM_:
 
 just to clarify - the committee and the quantifiers are different roles. So the quantifiers will be rotative community members who will offer a value to the praise written by someone else. I think the rotative and volunteering aspect of this role gives enough signal from the community with not much room for gamification. I like when the reactions to praises are spontaneous and not a form of capitalization
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
@@ -3885,9 +3522,7 @@ _11-Oct-21 09:23 AM_:
 
 liviade
 
-[yeah, I think it's reasonable for the committee to decide this. My only concern with randomly generated pseudonyms is the small chance we have to actually get a name that already exists in the community as an option](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+[yeah, I think it's reasonable for the committee to decide this. My only concern with randomly generated pseudonyms is the small chance we have to actually get a name that already exists in the community as an option](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -3921,9 +3556,6 @@ _11-Oct-21 09:27 AM_:
 
 I imagine this process could be done through Discord/Telegram in future versions. Something like this: You type: /praise opt-in Message from bot: You have opted in to become a member of the quantifier pool. You will be notified when your application has been approved
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -3961,9 +3593,6 @@ _11-Oct-21 09:30 AM_:
 
 But for now, Admin (= Reward Board Member) go to web interface, click "Add user to pool". Not as cool, but works.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -4029,9 +3658,6 @@ _11-Oct-21 09:33 AM_:
 
 sounds so much fun haha we should make a party for that
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f379.png" width=50 height=50>
-
-1
 
 and a shared doc where everyone throws ideas
 
@@ -4049,9 +3675,6 @@ It would be fun to have animals in other languages
 
 that's all I can think about now.. is animal names
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f984.png" width=50 height=50>
-
-1
 
 sorry guys rewards system has been fun
 
@@ -4065,9 +3688,6 @@ Viking names
 
 Viking name generator for male and female characters. 1000's of combinations are possible, you're bound to find one you like.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f37b.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4081,9 +3701,6 @@ _11-Oct-21 02:40 PM_:
 
 there is a panel happening in the sourcecred server now about legitimacy if anyone is interested to join [https://discord.gg/eeaMp5DSvK](https://discord.gg/eeaMp5DSvK)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -4094,9 +3711,7 @@ Here is the doc for Quantifier Pseudonyms if anyone is feeling inspired! I may o
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
 _12-Oct-21 11:14 PM_:
-Where is the cheeseburger
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f354.png" width=50 height=50>
+Where is the cheeseburger <img src="https://twemoji.maxcdn.com/2/72x72/1f354.png" width=20 height=20>
 
 ??
 
@@ -4121,19 +3736,11 @@ I added adjectives and a tab that randomises combinations. Who wouldn't want to 
 
 Sad Cactus Modern Oyster Howling Reindeer Swift Shiba Rapid Wolf Noisy Gazelle Wailing Hawk Happy Frog Wailing Taco Long Salmon
 
-Consider me Wailing Taco from now on!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f32e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3a4.png" width=50 height=50>
+Consider me Wailing Taco from now on! <img src="https://twemoji.maxcdn.com/2/72x72/1f32e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3a4.png" width=20 height=20>
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
 
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -4143,9 +3750,7 @@ kristofer
 
 Sad Cactus Modern Oyster Howling Reindeer Swift Shiba Rapid Wolf Noisy Gazelle Wailing Hawk Happy Frog Wailing Taco Long Salmon
 
-Consider me Wailing Taco from now on!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f32e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3a4.png" width=50 height=50>
+Consider me Wailing Taco from now on! <img src="https://twemoji.maxcdn.com/2/72x72/1f32e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3a4.png" width=20 height=20>
 
 (edited)
 
@@ -4167,9 +3772,6 @@ Reproducible, sharable, open, interactive computing environments.
 
 ![https://mybinder.org/static/images/logo_social.png](https://mybinder.org/static/images/logo_social.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4185,13 +3787,9 @@ Praise / Rewards System
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_14-Oct-21 08:06 AM_:
+_14-Oct-21 08:06 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50>
-
-Welcome to the weekly Rewards System dev sync today at 16:00 CET in the Community Hall!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3a4.png" width=50 height=50>
+Welcome to the weekly Rewards System dev sync today at 16:00 CET in the Community Hall! <img src="https://twemoji.maxcdn.com/2/72x72/1f3a4.png" width=20 height=20>
 
 On the agenda: Theme of meeting: Weekly standup.
 
@@ -4203,9 +3801,7 @@ On the agenda: Theme of meeting: Weekly standup.
 
 kristofer
 
-[ Welcome to the weekly Rewards System dev sync today at 16:00 CET in the Community Hall!  On the agenda: Theme of meeting: Weekly standup. **What did you do the last few days? What will you do in the days ahead? Anything blocking your progress?** - Reward System process – from here to first quant post Commons Upgrade @mitch (🍔, 🍔) - Rewards Committee – preparing for the first quant @mateodaza - Rules of Praise and Quantification @liviade - Praise backend @rdfbbx @Nuggan - Praise frontend @casale.eth @kristofer - SourceCred bots @Vyvy-vi  (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3a4.png" width=50 height=50>
+[ Welcome to the weekly Rewards System dev sync today at 16:00 CET in the Community Hall!  On the agenda: Theme of meeting: Weekly standup. **What did you do the last few days? What will you do in the days ahead? Anything blocking your progress?** - Reward System process – from here to first quant post Commons Upgrade @mitch (🍔, 🍔) - Rewards Committee – preparing for the first quant @mateodaza - Rules of Praise and Quantification @liviade - Praise backend @rdfbbx @Nuggan - Praise frontend @casale.eth @kristofer - SourceCred bots @Vyvy-vi  (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3a4.png" width=20 height=20>
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -4231,9 +3827,6 @@ _14-Oct-21 11:06 AM_:
 
 Enjoyed the call!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png](https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png)
 
@@ -4244,9 +3837,7 @@ MS
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _14-Oct-21 11:43 AM_:
-thanks for joining!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
+thanks for joining! <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -4263,17 +3854,12 @@ kristofer
 _14-Oct-21 05:05 PM_:
 I'm still fairly green in python (1-2 years) but love to do data analysis in my day to day stuff between py and SQL. I would love to follow along on this project if it picks up steam, or any of the other python/data analysis things happening
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png](https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png)
 
 MS
 
-[I'm still fairly green in python (1-2 years) but love to do data analysis in my day to day stuff between py and SQL. I would love to follow along on this project if it picks up steam, or any of the other python/data analysis things happening](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[I'm still fairly green in python (1-2 years) but love to do data analysis in my day to day stuff between py and SQL. I would love to follow along on this project if it picks up steam, or any of the other python/data analysis things happening](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4281,9 +3867,6 @@ _15-Oct-21 09:37 AM_:
 
 amazing! Maybe @ygg_anderson can help guiding you here :)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4326,9 +3909,7 @@ liviade
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
 _15-Oct-21 08:11 PM_:
-We currently have our instance unpegged as it was once redeemable $1USDC =
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
+We currently have our instance unpegged as it was once redeemable $1USDC = <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=20 height=20>
 
 1 Grain And at the present, this is not the case. There was a lot of governance around the following redemption proposal we collectively agreed upon (core body presenting financial pivot) we ended creating mutual aid in our community because of these happenings. I think the key metrics are how much is allotted to be paid out each week / funding period or however you configure it and then what your token is at peg-wise.
 
@@ -4360,9 +3941,7 @@ in relative terms that is 24-36% of the buy-in amount we will be proposing (edit
 
 ALOYSIOUS
 
-[We currently have our instance unpegged as it was once redeemable $1USDC = 1 Grain And at the present, this is not the case. There was a lot of governance around the following redemption proposal we collectively agreed upon (core body presenting financial pivot) we ended creating mutual aid in our community because of these happenings. I think the key metrics are how much is allotted to be paid out each week / funding period or however you configure it and then what your token is at peg-wise.](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=50 height=50>
+[We currently have our instance unpegged as it was once redeemable $1USDC = 1 Grain And at the present, this is not the case. There was a lot of governance around the following redemption proposal we collectively agreed upon (core body presenting financial pivot) we ended creating mutual aid in our community because of these happenings. I think the key metrics are how much is allotted to be paid out each week / funding period or however you configure it and then what your token is at peg-wise.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f33e.png" width=20 height=20>
 
 [https://discourse.sourcecred.io/t/proposed-change-to-grain-redemption/1192](https://discourse.sourcecred.io/t/proposed-change-to-grain-redemption/1192)
 
@@ -4412,9 +3991,7 @@ liviade
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
-_19-Oct-21 11:47 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+_19-Oct-21 11:47 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 so even if we double this amount to ~10 wxDAI, which still isn't great we end up with 15k per period... then for the 6 month period (12 quants) we arrive at 180k that's 72% of the buy-in request for TEC and 11.4% of hatch funds
 
@@ -4448,9 +4025,6 @@ _19-Oct-21 12:43 PM_:
 
 one further afterthought is that since we can acquire 6 months worth of TEC upfront we will benefit from any price increases of the token. We'll be holding a fix amount of TEC, but rewards are denominated in wxDAI, yet disbursed in TEC. so if at launch we have 90k wxDAI worth of TEC in the rewards system and the value of TEC doubles we'll have effectively 180k wxDAI worth of Rewards to use.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -4484,9 +4058,6 @@ The new praise frontend is slowly taking shape.
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/900126956765462548/unknown.png](https://cdn.discordapp.com/attachments/831192353812381715/900126956765462548/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-4
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -4506,9 +4077,6 @@ _20-Oct-21 12:59 PM_:
 
 yeah we will, but in the forum post you shared they were talking about turning grain into a Sourcecred token, so I just wondered if that would affect the ability projects have to choose any token for grain
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png](https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png)
 
@@ -4532,13 +4100,9 @@ Hey @mateodaza What would be involved in this? I.e. time and energy wise? Sounds
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_21-Oct-21 08:41 AM_:
+_21-Oct-21 08:41 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50>
-
-Welcome to the weekly Rewards System dev sync today at 16:00 CET in the Community Hall!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3a4.png" width=50 height=50>
+Welcome to the weekly Rewards System dev sync today at 16:00 CET in the Community Hall! <img src="https://twemoji.maxcdn.com/2/72x72/1f3a4.png" width=20 height=20>
 
 On the agenda: Theme of meeting: Weekly standup. What did you do the last few days? What will you do in the days ahead? Anything blocking your progress? Ongoing: - Rewards Committee – preparing for the first quant @mateodaza - Praise backend @rdfbbx @Nuggan - Praise frontend @casale.eth @kristofer - SourceCred bots @Vyvy-vi Upcoming: - Validation, distribution and analysis - Dry run / dress rehearsal Paused / finished - Reward System process – from here to first quant post Commons Upgrade - Rules of Praise and Quantification (edited)
 
@@ -4562,9 +4126,6 @@ _21-Oct-21 08:58 AM_:
 
 I suggest also having @ALOYSIOUS and @ygg_anderson in the committee so we have sourcecred and data analysis represented :)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png](https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png)
 
@@ -4585,9 +4146,6 @@ kudos to @mitch (🍔, 🍔) for this superb summary  (edited)
 _21-Oct-21 10:16 AM_:
 I'm in for the new rewards committee
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50>
-
-4
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4601,13 +4159,7 @@ Rewards Committee To Do List Recruit members - 5 people? Describe how the commit
 
 [https://lh4.googleusercontent.com/x7OcVOpVmCpsgdkAFUu_OOMXwEeu-Arr0phUqHePID91_5N4r_-20sfQTtYGt7kFk6yuQwL5C9O3tw=w1200-h630-p](https://lh4.googleusercontent.com/x7OcVOpVmCpsgdkAFUu_OOMXwEeu-Arr0phUqHePID91_5N4r_-20sfQTtYGt7kFk6yuQwL5C9O3tw=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f918.png" width=50 height=50>
-
-1
 
 <h3>trangnv <img src="https://cdn.discordapp.com/avatars/756512973870203011/c9182f7eb03a2d2af6cccaba35717984.png" width=25 height=25></h3>
 
@@ -4639,9 +4191,6 @@ _26-Oct-21 09:09 AM_:
 
 Hi @kristofer, I'm an aspiring token engineer, had some works with cadCAD and developing/contributing in tokenSPICE development.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/emojis/835409757183279134.png](https://cdn.discordapp.com/emojis/835409757183279134.png)
 
@@ -4659,9 +4208,6 @@ _26-Oct-21 10:21 AM_:
 
 that's awesome. I think you would love to contribute with the data analysis part
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/emojis/835409756839477289.png](https://cdn.discordapp.com/emojis/835409756839477289.png)
 
@@ -4715,13 +4261,7 @@ _27-Oct-21 06:10 AM_:
 
 Yes, It seems like an evening CET time will allow for more participants! Let's do a poll, I see two possible options. Vote 1️⃣ for Mondays, 20:00 CET or 2️⃣ for Wednesdays, 20:00 CET. Or vote for both if it doesn't matter. @rdfbbx @ALOYSIOUS @Nuggan @MS @mitch (🍔, 🍔) @liviade @Vyvy-vi @mateodaza @ygg_anderson @ryeder (they/them) (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/31-20e3.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/32-20e3.png" width=50 height=50>
-
-5
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -4732,9 +4272,7 @@ kristofer
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _27-Oct-21 08:04 AM_:
-In light of
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=50 height=50>
+In light of <img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=20 height=20>
 
 , I propose we postpone this weeks sync until next week on the new time. What do you think about that? Reason: @mateodaza is on vacay, current time does not work for @rdfbbx and @Vyvy-vi, new work streams are just getting started (Rewards Committee, Distribution/Analysis, SourceCred bots), etc.
 
@@ -4747,17 +4285,13 @@ kristofer
 <h3>trangnv <img src="https://cdn.discordapp.com/avatars/756512973870203011/c9182f7eb03a2d2af6cccaba35717984.png" width=25 height=25></h3>
 
 _27-Oct-21 08:11 AM_:
-20:00 CET is too late for me (1am)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
+20:00 CET is too late for me (1am) <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/756512973870203011/c9182f7eb03a2d2af6cccaba35717984.png](https://cdn.discordapp.com/avatars/756512973870203011/c9182f7eb03a2d2af6cccaba35717984.png)
 
 trangnv
 
-[20:00 CET is too late for me (1am)](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50>
+[20:00 CET is too late for me (1am)](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4781,9 +4315,7 @@ I'm planning to start waking earlier on the days we do reward systems meetings. 
 
 kristofer
 
-[In light of , I propose we postpone this weeks sync until next week on the new time. What do you think about that? Reason: @mateodaza is on vacay, current time does not work for @rdfbbx and @Vyvy-vi, new work streams are just getting started (Rewards Committee, Distribution/Analysis, SourceCred bots), etc.](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=50 height=50>
+[In light of , I propose we postpone this weeks sync until next week on the new time. What do you think about that? Reason: @mateodaza is on vacay, current time does not work for @rdfbbx and @Vyvy-vi, new work streams are just getting started (Rewards Committee, Distribution/Analysis, SourceCred bots), etc.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4791,9 +4323,6 @@ _27-Oct-21 05:06 PM_:
 
 sounds good to me
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -4803,15 +4332,10 @@ kristofer
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_28-Oct-21 03:53 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50>
+_28-Oct-21 03:53 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
 
 Ok, we have a new meeting time for the weekly sync! Wednesday at 20:00 CET came out as the clear winner. No meeting this week, see you all next Wednesday.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4819,25 +4343,18 @@ _28-Oct-21 08:47 AM_:
 
 For those of you involved in the Rewards Committee work, here is an epic connecting all the issues: [https://github.com/CommonsBuild/coordination/issues/1049](https://github.com/CommonsBuild/coordination/issues/1049)
 
-Rewards Committee · Issue #1049 · CommonsBuild/coordination
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50>
+Rewards Committee · Issue #1049 · CommonsBuild/coordination <img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=20 height=20>
 
 What is this issue about? Give as much detail as you can. The Rewards Committee is responsible for: Manage the SourceCred and Praise params Inform community about params Do advice process or vot...
 
 [https://opengraph.githubassets.com/b69669e65de3c906f9189c5221ca1e571c1d2337e29396f6926929061a3da88f/CommonsBuild/coordination/issues/1049](https://opengraph.githubassets.com/b69669e65de3c906f9189c5221ca1e571c1d2337e29396f6926929061a3da88f/CommonsBuild/coordination/issues/1049)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
 kristofer
 
-[  Ok, we have a new meeting time for the weekly sync! Wednesday at 20:00 CET came out as the clear winner. No meeting this week, see you all next Wednesday.](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50>
+[  Ok, we have a new meeting time for the weekly sync! Wednesday at 20:00 CET came out as the clear winner. No meeting this week, see you all next Wednesday.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -4853,9 +4370,7 @@ We will export data from Praise and SourceCred to calculate the final token dist
 
 Praise and SourceCred output data
 
-PRAISE ID,DATE,TO,FROM,REASON,SERVER,CHANNEL,QUANT 1,QUANT 2,QUANT 3,AVG QUANT,DUPLICATE ID,DISMISSED,CORRECTION ADD,CORRECTION SUB,FINAL QUANT,CORRECTION COMMENT 1001,Aug-01-2021,pab
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f41d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f419.png" width=50 height=50>
+PRAISE ID,DATE,TO,FROM,REASON,SERVER,CHANNEL,QUANT 1,QUANT 2,QUANT 3,AVG QUANT,DUPLICATE ID,DISMISSED,CORRECTION ADD,CORRECTION SUB,FINAL QUANT,CORRECTION COMMENT 1001,Aug-01-2021,pab <img src="https://twemoji.maxcdn.com/2/72x72/1f41d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f419.png" width=20 height=20>
 
 #6151,Mount Manu#3530,for devoting 20 minutes to going through our Commons configuration dashboard and provid...
 
@@ -4876,9 +4391,7 @@ rdfbbx
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _31-Oct-21 05:06 PM_:
-Then I expect there would be more columns.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Then I expect there would be more columns. <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 Or, we might export all individual quants as one column, QUANT: "10,5,144,48". And whoever wants to parse the individual score can split the string into numbers. But.. there is the issue of readability also. I expect the final manual changes to be made in this sheet, the CORRECTION ADD / SUB columns. Those making manual corrections need to be able to easily see the individual quants made. (edited)
 
@@ -4886,9 +4399,7 @@ Or, we might export all individual quants as one column, QUANT: "10,5,144,48". A
 
 kristofer
 
-[Then I expect there would be more columns.  Or, we might export all individual quants as one column, QUANT: "10,5,144,48". And whoever wants to parse the individual score can split the string into numbers. But.. there is the issue of readability also. I expect the final manual changes to be made in this sheet, the CORRECTION ADD / SUB columns. Those making manual corrections need to be able to easily see the individual quants made.  (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[Then I expect there would be more columns.  Or, we might export all individual quants as one column, QUANT: "10,5,144,48". And whoever wants to parse the individual score can split the string into numbers. But.. there is the issue of readability also. I expect the final manual changes to be made in this sheet, the CORRECTION ADD / SUB columns. Those making manual corrections need to be able to easily see the individual quants made.  (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4948,9 +4459,6 @@ _01-Nov-21 11:06 AM_:
 
 Ah, great. That is of course the ideal situation, us not having to do any post processing of the distribution SC produces. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
@@ -4964,22 +4472,14 @@ _01-Nov-21 06:04 PM_:
 
 last day to support TE Academy + Governauts Reward System's proposal on Gnosis! [https://discord.com/channels/810180621930070088/810180622165213219/904829885296558121](https://discord.com/channels/810180621930070088/810180622165213219/904829885296558121)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _02-Nov-21 04:02 PM_:
-⏰ Hi all! Welcome to the Rewards System dev sync on the new day and time!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50>
+⏰ Hi all! Welcome to the Rewards System dev sync on the new day and time! <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
 
 Wednesday, 20:00 CET in the Community Hall! Bulk of the agenda consists of status updates / weekly standup for all workstreams. Would you like to add discussion topics, comment on this msg. AGENDA – What did you do the last few days? What will you do in the days ahead? Anything blocking your progress? Work streams: - Praise backend @rdfbbx @Nuggan - Praise frontend @kristofer @graial @hruday - SourceCred bots @Vyvy-vi - Rewards Committee – preparing for the first quant @liviade @mateodaza - Allocation, distribution and analysis @MS @Nuggan
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -4987,9 +4487,6 @@ _03-Nov-21 07:27 AM_:
 
 Hi all! The meeting tracker bot for SourceCred will most likely require meeting facilitator to start the tracking before each meeting. Is that a reasonable requirement? Starting the tracking means interacting with the bot, givining it a command like /attendance #🏓｜community-hall 60 minutes or similar.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -4999,16 +4496,8 @@ Hi everyone, moving forward with the committee, I would like to nominate a few p
 
 I suggest @mateodaza , @kristofer , @mitch (🍔, 🍔) , @chuygarcia.eth , @Vyvy-vi , @ALOYSIOUS , @Nuggan , @liviade , @ryeder (they/them) @ygg_anderson (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-6
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fc.png" width=50 height=50>
-
-2
-If you're not in this list and would like to be a part of it feel free to self nominate
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+If you're not in this list and would like to be a part of it feel free to self nominate <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 The criteria's I'm thinking is to have a group with comprehensive expertise: technical, cultural, data driven and sourcecred
 
@@ -5038,9 +4527,6 @@ we are finishing our meeting right now
 
 new time for west coast birds like you :)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f635-200d-1f4ab.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -5051,9 +4537,7 @@ liviade
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _03-Nov-21 04:01 PM_:
-I love it! I can technically make this time
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
+I love it! I can technically make this time <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=20 height=20>
 
 I think I was confused by the "omega" channel... unless the mtg is elsewhere?
 
@@ -5075,9 +4559,6 @@ _03-Nov-21 05:08 PM_:
 
 Oof today and yesterday threw me off so much!!! I'm trying to calibrate myself but it seems many of the things I could make before I'm now finding myself double booked with time changes. Do we have a name for this phenomenon yet? DAO international calendar kerfuffle? That's too wordy but I'm here for the meme suggestions.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png](https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png)
 
@@ -5091,16 +4572,11 @@ _03-Nov-21 05:40 PM_:
 
 You are in a DAOfuffle?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
-
-2
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _03-Nov-21 06:51 PM_:
-We managed to cover a lot of stuff on the dev sync today!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50>
+We managed to cover a lot of stuff on the dev sync today! <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=20 height=20>
 
 Two super interesting new threads emerged with great rabbit hole / scope creep potential: 1. Once SC and Praise is running, onboarding a new member as a Rewards recipient means having to make up to seven different verifications of user accounts - Telegram, Discord x 2, Discourse, GitHub, Twitter, Ethereum. We have to investigate how to make this process smooth. Is some kind of decentralised centralised registry an option? - Action: Invite to separate idea session (Kristofer) - Action: Contact Metagame about myMeta (Kristofer) 2. What if praise can be used as a signal, as a data source to verify users? As Vyvy_vi describes it: "
 
@@ -5126,13 +4602,7 @@ Meme cred: @Vyvy-vi
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/905593950667153408/5sv6vy.png](https://cdn.discordapp.com/attachments/831192353812381715/905593950667153408/5sv6vy.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/564974398176755712/aafac8df7c5d23ccf557350b84d9f71d.png](https://cdn.discordapp.com/avatars/564974398176755712/aafac8df7c5d23ccf557350b84d9f71d.png)
 
@@ -5150,9 +4620,7 @@ Oh that's funny, I like it.
 
 kristofer
 
-[We managed to cover a lot of stuff on the dev sync today!  Two super interesting new threads emerged with great rabbit hole / scope creep potential: 1. Once SC and Praise is running, onboarding a new member as a Rewards recipient means having to make up to seven different verifications of user accounts - Telegram, Discord x 2, Discourse, GitHub, Twitter, Ethereum. We have to investigate how to make this process smooth. Is some kind of decentralised centralised registry an option? - Action: Invite to separate idea session (Kristofer) - Action: Contact Metagame about myMeta (Kristofer) 2. What if praise can be used as a signal, as a data source to verify users? As Vyvy_vi describes it: "*Praise being something that can be used as a proof of being an actual person that's value aligned?*" By being praised, you build a trail over time, a really strong signal about your strengths and contributions. What do we use this signal for? All notes here:](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50>
+[We managed to cover a lot of stuff on the dev sync today!  Two super interesting new threads emerged with great rabbit hole / scope creep potential: 1. Once SC and Praise is running, onboarding a new member as a Rewards recipient means having to make up to seven different verifications of user accounts - Telegram, Discord x 2, Discourse, GitHub, Twitter, Ethereum. We have to investigate how to make this process smooth. Is some kind of decentralised centralised registry an option? - Action: Invite to separate idea session (Kristofer) - Action: Contact Metagame about myMeta (Kristofer) 2. What if praise can be used as a signal, as a data source to verify users? As Vyvy_vi describes it: "*Praise being something that can be used as a proof of being an actual person that's value aligned?*" By being praised, you build a trail over time, a really strong signal about your strengths and contributions. What do we use this signal for? All notes here:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=20 height=20>
 
 [https://docs.google.com/document/d/1VGOHRiX6fg55zgCE361ja86UIPVZzl3ldcNOJGlbTsQ/edit#](https://docs.google.com/document/d/1VGOHRiX6fg55zgCE361ja86UIPVZzl3ldcNOJGlbTsQ/edit#)
 
@@ -5164,15 +4632,10 @@ _03-Nov-21 07:38 PM_:
 
 1. Once SC and Praise is running, onboarding a new member as a Rewards recipient means having to make up to seven different verifications of user accounts - Telegram, Discord x 2, Discourse, GitHub, Twitter, Ethereum. We have to investigate how to make this process smooth. some kind of decentralised centralised registry an option?
 
-- Action: Invite to separate idea session (Kristofer) - @kristofer The ShineDAO community has onboarding that walks a user through all the user identity input and wallet linking etc in order for an individual to connect to the community Tooling. perhaps something of this nature would be helpful for registering a users info for various bits of web3 tooling we wish to use. I'm seeing so much overlap personally inputting my own data various ways for various DAOs all using the same bits and bobbles. This feels like commonsstack content energy to me
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+- Action: Invite to separate idea session (Kristofer) - @kristofer The ShineDAO community has onboarding that walks a user through all the user identity input and wallet linking etc in order for an individual to connect to the community Tooling. perhaps something of this nature would be helpful for registering a users info for various bits of web3 tooling we wish to use. I'm seeing so much overlap personally inputting my own data various ways for various DAOs all using the same bits and bobbles. This feels like commonsstack content energy to me <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 . cc @0xRock (mention of ShineDAO) (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png](https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png)
 
@@ -5180,9 +4643,7 @@ ALOYSIOUS
 
 1. Once SC and Praise is running, onboarding a new member as a Rewards recipient means having to make up to seven different verifications of user accounts - Telegram, Discord x 2, Discourse, GitHub, Twitter, Ethereum. We have to investigate how to make this process smooth. some kind of decentralised centralised registry an option?
 
-- Action: Invite to separate idea session (Kristofer) - @kristofer The ShineDAO community has onboarding that walks a user through all the user identity input and wallet linking etc in order for an individual to connect to the community Tooling. perhaps something of this nature would be helpful for registering a users info for various bits of web3 tooling we wish to use. I'm seeing so much overlap personally inputting my own data various ways for various DAOs all using the same bits and bobbles. This feels like commonsstack content energy to me
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+- Action: Invite to separate idea session (Kristofer) - @kristofer The ShineDAO community has onboarding that walks a user through all the user identity input and wallet linking etc in order for an individual to connect to the community Tooling. perhaps something of this nature would be helpful for registering a users info for various bits of web3 tooling we wish to use. I'm seeing so much overlap personally inputting my own data various ways for various DAOs all using the same bits and bobbles. This feels like commonsstack content energy to me <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 . cc @0xRock (mention of ShineDAO) (edited)
 
@@ -5212,9 +4673,6 @@ _04-Nov-21 02:19 PM_:
 
 We're working on a grant rn at sourcecred to use ceramic for self-serve identities
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3b5.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png](https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png)
 
@@ -5240,17 +4698,12 @@ _04-Nov-21 11:25 PM_:
 
 No, we write our grants privately as of now and they aren't proposed they're just sent, lol. It's being written for a StacksGrant. We talk publicly about what we're up to in our dev meetings though.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
 kristofer
 
-[We managed to cover a lot of stuff on the dev sync today!  Two super interesting new threads emerged with great rabbit hole / scope creep potential: 1. Once SC and Praise is running, onboarding a new member as a Rewards recipient means having to make up to seven different verifications of user accounts - Telegram, Discord x 2, Discourse, GitHub, Twitter, Ethereum. We have to investigate how to make this process smooth. Is some kind of decentralised centralised registry an option? - Action: Invite to separate idea session (Kristofer) - Action: Contact Metagame about myMeta (Kristofer) 2. What if praise can be used as a signal, as a data source to verify users? As Vyvy_vi describes it: "*Praise being something that can be used as a proof of being an actual person that's value aligned?*" By being praised, you build a trail over time, a really strong signal about your strengths and contributions. What do we use this signal for? All notes here:](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50>
+[We managed to cover a lot of stuff on the dev sync today!  Two super interesting new threads emerged with great rabbit hole / scope creep potential: 1. Once SC and Praise is running, onboarding a new member as a Rewards recipient means having to make up to seven different verifications of user accounts - Telegram, Discord x 2, Discourse, GitHub, Twitter, Ethereum. We have to investigate how to make this process smooth. Is some kind of decentralised centralised registry an option? - Action: Invite to separate idea session (Kristofer) - Action: Contact Metagame about myMeta (Kristofer) 2. What if praise can be used as a signal, as a data source to verify users? As Vyvy_vi describes it: "*Praise being something that can be used as a proof of being an actual person that's value aligned?*" By being praised, you build a trail over time, a really strong signal about your strengths and contributions. What do we use this signal for? All notes here:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=20 height=20>
 
 [https://docs.google.com/document/d/1VGOHRiX6fg55zgCE361ja86UIPVZzl3ldcNOJGlbTsQ/edit#](https://docs.google.com/document/d/1VGOHRiX6fg55zgCE361ja86UIPVZzl3ldcNOJGlbTsQ/edit#)
 
@@ -5271,23 +4724,12 @@ liviade
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _04-Nov-21 11:40 PM_:
-I'm very interested in this committee and I'll be available to join starting next week, unless I get confused with time zones again, but otherwise I'm so in!! Parts I'm particularly interested in: - Treasury - Sourcecred parameters / instance maintenance - Conversations / discussions about creating healthy culture using rewards systems - Collectively analysing data Happy to be working with y'all!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
+I'm very interested in this committee and I'll be available to join starting next week, unless I get confused with time zones again, but otherwise I'm so in!! Parts I'm particularly interested in: - Treasury - Sourcecred parameters / instance maintenance - Conversations / discussions about creating healthy culture using rewards systems - Collectively analysing data Happy to be working with y'all! <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=20 height=20>
 
 Truly looking forward to getting to know folks better
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f984.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png](https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png)
 
@@ -5310,9 +4752,7 @@ kristofer
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _05-Nov-21 01:59 PM_:
-They are
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+They are <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5340,13 +4780,7 @@ _08-Nov-21 08:47 AM_:
 
 Yes I'm back now :)) Excited to help
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5434,9 +4868,6 @@ _09-Nov-21 03:21 AM_:
 
 Let's do it, we can reserve the second half of the meeting to that topic.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -5477,17 +4908,13 @@ ryeder (they/them)
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _09-Nov-21 10:12 AM_:
-we'll use the scheduled time - just pinging you in case you haven't seen the last messaged
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+we'll use the scheduled time - just pinging you in case you haven't seen the last messaged <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
 liviade
 
-[we'll use the scheduled time - just pinging you in case you haven't seen the last messaged](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+[we'll use the scheduled time - just pinging you in case you haven't seen the last messaged](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -5498,13 +4925,9 @@ Thank you! Helpful
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _09-Nov-21 03:56 PM_:
-⏰ Hi all! Don't miss this weeks Rewards System dev sync!
+⏰ Hi all! Don't miss this weeks Rewards System dev sync! <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50>
-
-Wednesday, 20:00 CET in the Community Hall In addition to status updates for all work streams, this meeting we will go into depth about the Rewards Committee. The first half of the meeting will be reserved for status updates and any short discussions around those updates. Last 30 mins we reserve for Rewards Committee talk. AGENDA – What did you do the last few days? What will you do in the days ahead? Anything blocking your progress? First 30 mins: - SourceCred bots @Vyvy-vi - Praise backend @rdfbbx @Nuggan - Praise frontend @kristofer @graial @hruday - Allocation, distribution and analysis @MS @Nuggan @🐙 octopus - Identity management @kristofer Second half of meeting: - Rewards Committee @liviade @mateodaza Welcome!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f485.png" width=50 height=50>
+Wednesday, 20:00 CET in the Community Hall In addition to status updates for all work streams, this meeting we will go into depth about the Rewards Committee. The first half of the meeting will be reserved for status updates and any short discussions around those updates. Last 30 mins we reserve for Rewards Committee talk. AGENDA – What did you do the last few days? What will you do in the days ahead? Anything blocking your progress? First 30 mins: - SourceCred bots @Vyvy-vi - Praise backend @rdfbbx @Nuggan - Praise frontend @kristofer @graial @hruday - Allocation, distribution and analysis @MS @Nuggan @🐙 octopus - Identity management @kristofer Second half of meeting: - Rewards Committee @liviade @mateodaza Welcome! <img src="https://twemoji.maxcdn.com/2/72x72/1f485.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5534,9 +4957,6 @@ Reward Board: We're such a good mix!
 
 For the onboarding bot.... a TEC/sourcecred logo combo (the inside empty for someone to add the TEC logo
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60d.png" width=50 height=50>
-
-)
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/908083026813153410/Screen_Shot_2021-11-10_at_11.56.48_AM.png](https://cdn.discordapp.com/attachments/831192353812381715/908083026813153410/Screen_Shot_2021-11-10_at_11.56.48_AM.png)
 
@@ -5552,9 +4972,6 @@ Tuxedo Winnie The Pooh
 
 ![https://i.imgflip.com/5tpbqo.jpg](https://i.imgflip.com/5tpbqo.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f935-1f3fc.png" width=50 height=50>
-
-2
 
 <h3>David D. - TEC <img src="https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png" width=25 height=25></h3>
 
@@ -5563,17 +4980,12 @@ I can help with tweets about the Rewards
 
 ~~Committee.~~
 
-Board
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Board <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 (edited)
 
 I can tweet about the team creation as the meeting agenda requested. I will bounce the draft off Livia and Chuy before posting. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -5585,9 +4997,6 @@ That Would Be Great
 
 ![https://i.imgflip.com/5tph33.jpg](https://i.imgflip.com/5tph33.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
-
-2
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -5599,24 +5008,17 @@ annoyed bird
 
 ![https://i.imgflip.com/5tpyaz.jpg](https://i.imgflip.com/5tpyaz.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
-
-7
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _11-Nov-21 02:40 PM_:
-@liviade and reward board folks.... we have a meeting bot already that works with sourcecred.... please let's consider this option
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+@liviade and reward board folks.... we have a meeting bot already that works with sourcecred.... please let's consider this option <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png](https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png)
 
 ryeder (they/them)
 
-[@liviade and reward board folks.... we have a meeting bot already that works with sourcecred.... please let's consider this option](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[@liviade and reward board folks.... we have a meeting bot already that works with sourcecred.... please let's consider this option](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -5624,9 +5026,6 @@ _11-Nov-21 02:46 PM_:
 
 is there anything blocking us from using this already @kristofer ?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -5660,9 +5059,6 @@ SourceCred requires community members to react to the posted messages for the gr
 
 Also, we wanted automate the tracking based on the TEC calendar. Tracking starts and stops based on those calendar events.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -5714,9 +5110,6 @@ _11-Nov-21 03:56 PM_:
 
 @Thena [https://calendly.com/thenaseer](https://calendly.com/thenaseer) Also available through text support live hours and text channels
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -5724,17 +5117,8 @@ _11-Nov-21 10:08 PM_:
 
 hey guys! I'll be out of the loop and on vacay until the 19th, I may or may not check Discord.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3c4-200d-2642.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f57a.png" width=50 height=50>
-
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
@@ -5745,9 +5129,7 @@ mitch (🍔, 🍔)
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _11-Nov-21 10:25 PM_:
-Enjoy your well deserved vacay
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
+Enjoy your well deserved vacay <img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=20 height=20>
 
 Really interesting overview of reward tools with a small mention to praise [https://twitter.com/aragonproject/status/1458859191838334981?s=21](https://twitter.com/aragonproject/status/1458859191838334981?s=21)
 
@@ -5763,9 +5145,6 @@ An overview of incentive mechanisms & DAO tooling: [https://t.co/o0BK1Pdq9C](htt
 
 Twitter • 11-Nov-21 01:08 PM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-2
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -5790,9 +5169,7 @@ DAO Contribution Management
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _16-Nov-21 05:16 PM_:
-⏰ Hi all! Wednesday is soon upon us which means … Rewards System dev sync!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50>
+⏰ Hi all! Wednesday is soon upon us which means … Rewards System dev sync! <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
 
 Wednesday, 20:00 CET in the Community Hall We have a pair of hot topics related to the Rewards Committee this time so let's plan the meeting similarly as last week. We start with relatively short status updates and reserve the second half for Rewards Committee discussion.
 
@@ -5804,25 +5181,15 @@ What did you do the last few days? What will you do in the days ahead? Anything 
 
 @liviade @mateodaza Welcome! ✨ (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_16-Nov-21 05:38 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f336.png" width=50 height=50>
+_16-Nov-21 05:38 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f336.png" width=20 height=20>
 
 ️ Hot topic #1: Rewards Committee? Reward Board? Shouldn't Rewards just be a full WG? A lot speaks for that. A WG becomes a part of the visible structure of the TEC. It will be seen in the weekly updates, it will have to do transparency reporting, it will have a Steward, etc. Let's talk about it.
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/910297791086100560/5ufkhb.png](https://cdn.discordapp.com/attachments/831192353812381715/910297791086100560/5ufkhb.png)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
-
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f336.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f336.png" width=20 height=20>
 
 ️ Hot topic #2: We are approaching 6000 praise items since last quant. Either we make the first quant post upgrade a mega thing or we break up first quant into a few smaller chunks. The first chunk then could be like just 500 praise items and also serve as trial run. Anyone opposing this?
 
@@ -5846,9 +5213,7 @@ _17-Nov-21 01:25 PM_:
 
 hey @PhilKK I think you're looking for the TE Academy, Governauts group group right?
 
-I'll send you the invite inbox if you haven't find you're way there yet
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+I'll send you the invite inbox if you haven't find you're way there yet <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -5894,9 +5259,7 @@ Book a call with me:
 
 @mateodaza if you're down to pair maybe there's a time here?
 
-also anyone who wants to pair, have a virtual coffee
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2615.png" width=50 height=50>
+also anyone who wants to pair, have a virtual coffee <img src="https://twemoji.maxcdn.com/2/72x72/2615.png" width=20 height=20>
 
 , etc.
 
@@ -5916,13 +5279,7 @@ _18-Nov-21 08:50 AM_:
 
 Thank you everyone for being so awesome around the questions we had yesterday on the call. The support helps me understand and get up to speed significantly faster :). (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91d.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f918-1f3fc.png" width=50 height=50>
-
-1
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -5936,9 +5293,6 @@ How to match a DAO's goals with the right incentive mechanisms to achieve them..
 
 ![https://blog.aragon.org/content/images/2021/11/incentive.png](https://blog.aragon.org/content/images/2021/11/incentive.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 Nice overview... @liviade worth mentioning to Governauts too
 
@@ -5972,33 +5326,22 @@ _18-Nov-21 05:19 PM_:
 
 Here is the link to the Notion doc for the Rewards WG: [https://fmckl.notion.site/Rewards-WG-1ad0a25f3e9a4782a25679eb94ef71dc](https://www.notion.so/Rewards-WG-1ad0a25f3e9a4782a25679eb94ef71dc) I'll write a slightly longer post tomorrow when I have sorted through notes from the meeting etc. Some highlights: - Liviade takes Steward role unless someone opposes - I'll be WG lead - Two new workstreams identified: - **Rewards WG Startup** - **Preparations for first quant** (edited)
 
-Rewards WG
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=50 height=50>
+Rewards WG <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=20 height=20>
 
 Documents
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-3
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_23-Nov-21 03:44 PM_:
+_23-Nov-21 03:44 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f305.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f305.png" width=50 height=50>
-
-Hi all! Wednesday is the day after this day. Not only that, Wednesday means … Rewards WG Weekly Sync!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50>
+Hi all! Wednesday is the day after this day. Not only that, Wednesday means … Rewards WG Weekly Sync! <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
 
 Wednesday, 20:00 CET in the Community Hall Last week we added two new work streams!
 
 - Rewards WG Startup - First quant, preparations and execution
 
-Let's start the meeting with a round of status updates and then bring up any topics that needs discussion. STATUS UPDATES What did you do the last few days? What will you do in the days ahead? Anything blocking your progress? - Rewards WG Startup @liviade - First quant, preparations and execution - SourceCred meeting tracker bot @Vyvy-vi - SourceCred pollen bot @hz - Praise backend @rdfbbx - Praise frontend @kristofer @graial @Nebs - Allocation, distribution and analysis @MS @Nuggan @🐙 octopus DISCUSSION ITEMS - Division of work, WG startup? - First quant (including trial run), who takes lead? Want to add something to the agenda? Please write in the channel.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f42d.png" width=50 height=50>
+Let's start the meeting with a round of status updates and then bring up any topics that needs discussion. STATUS UPDATES What did you do the last few days? What will you do in the days ahead? Anything blocking your progress? - Rewards WG Startup @liviade - First quant, preparations and execution - SourceCred meeting tracker bot @Vyvy-vi - SourceCred pollen bot @hz - Praise backend @rdfbbx - Praise frontend @kristofer @graial @Nebs - Allocation, distribution and analysis @MS @Nuggan @🐙 octopus DISCUSSION ITEMS - Division of work, WG startup? - First quant (including trial run), who takes lead? Want to add something to the agenda? Please write in the channel. <img src="https://twemoji.maxcdn.com/2/72x72/1f42d.png" width=20 height=20>
 
 (edited)
 
@@ -6009,13 +5352,9 @@ _23-Nov-21 03:59 PM_:
 
 [https://www.notion.so/fmckl/Reward-Board-WG-1ad0a25f3e9a4782a25679eb94ef71dc](https://www.notion.so/Rewards-WG-1ad0a25f3e9a4782a25679eb94ef71dc)
 
-Some high priority items are: Rewards WG Startup: - Write WG manifesto with accompanying forum post - Write WG Roadmap First quant: - Finalise SourceCred parameters - Recruit quantifiers - Describe the quantifier role in a forum post
+Some high priority items are: Rewards WG Startup: - Write WG manifesto with accompanying forum post - Write WG Roadmap First quant: - Finalise SourceCred parameters - Recruit quantifiers - Describe the quantifier role in a forum post <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-Reward Board WG
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=50 height=50>
+Reward Board WG <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=20 height=20>
 
 Documents
 
@@ -6076,17 +5415,13 @@ Rewards Working Group Manifesto Redesigning the TEC Reward System Weekly meeting
 <h3>MS <img src="https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png" width=25 height=25></h3>
 
 _24-Nov-21 02:28 PM_:
-@liviade I added my name - let me know if I need anymore detail or should anything else
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+@liviade I added my name - let me know if I need anymore detail or should anything else <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png](https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png)
 
 MS
 
-[@liviade I added my name - let me know if I need anymore detail or should anything else](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[@liviade I added my name - let me know if I need anymore detail or should anything else](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -6105,9 +5440,7 @@ liviade
 <h3>MS <img src="https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png" width=25 height=25></h3>
 
 _24-Nov-21 02:45 PM_:
-Straight to Notion - I can remove from Notion and add to Doc. Didn't mean to break protocol if I did
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=50 height=50>
+Straight to Notion - I can remove from Notion and add to Doc. Didn't mean to break protocol if I did <img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=20 height=20>
 
 lol
 
@@ -6115,9 +5448,7 @@ lol
 
 MS
 
-[Straight to Notion - I can remove from Notion and add to Doc. Didn't mean to break protocol if I did  lol](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=50 height=50>
+[Straight to Notion - I can remove from Notion and add to Doc. Didn't mean to break protocol if I did  lol](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -6125,9 +5456,6 @@ _24-Nov-21 02:45 PM_:
 
 oh no! my bad to have 2 confusing places :) thanks a lot
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50>
-
-1
 
 its fine to just have it on notion
 
@@ -6137,9 +5465,6 @@ _24-Nov-21 02:57 PM_:
 
 Yes: @ praise giver is a role that can predicate receiving cred for meeting contributions (this is built in to the sourcecred product) Question: is this needed? does identities activation do this for us already? *I think we could still address this*
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 My experience: whether someone's identity is activated or not, their activity on discord is recorded by the bot. This is what I'm referring to. It feels cleaner to have this cred recognized only after receiving a weighted role, such as praise giver or new member or... ? whatever they choose. (edited)
 
@@ -6183,9 +5508,7 @@ _25-Nov-21 03:42 AM_:
 
 Find both docs on the WG page at: [https://www.notion.so/fmckl/Reward-Board-WG-1ad0a25f3e9a4782a25679eb94ef71dc](https://www.notion.so/Rewards-WG-1ad0a25f3e9a4782a25679eb94ef71dc)
 
-Reward Board WG
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=50 height=50>
+Reward Board WG <img src="https://twemoji.maxcdn.com/2/72x72/1f4dd.png" width=20 height=20>
 
 Documents
 
@@ -6195,9 +5518,6 @@ _25-Nov-21 06:34 AM_:
 
 I'm thinking before we make the open call for Quantifiers we should confirm how we can manage them, I think a simple discord role would suffice. This would be helpful for tagging all quantifiers to complete time sensitive actions (like completing quants) and we could still keep it in the reward system channel so information remains consolidated. @Vyvy-vi can we make that magic happen?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -6321,9 +5641,7 @@ we used this before to send grain
 
 _25-Nov-21 11:16 AM_:
 
-also it doesnt say reward board
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+also it doesnt say reward board <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
@@ -6395,15 +5713,9 @@ _25-Nov-21 02:00 PM_:
 
 My hopes are that the analysis/distribution jupyter notebook can compile the distribution data in a format that the DAO understands. This file would include: – Praise rewards after quant group adjustments and reward board adjustments – SourceCred grain turned into a TEC distribution – Rewards for the board – Rewards for Quantifiers
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 File format will most likely be very simple: – eth address – TEC token amount
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>durgadas <img src="https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png" width=25 height=25></h3>
 
@@ -6459,13 +5771,7 @@ I think we should consider such perspectives when creating our rewards system
 
 The point here is not to create technical debt on TOP of cultural debt. We are inside the "cultural build" here, so we must consider that if we forget something technical created on top of a cultural assumption, a lack of care, or just through unintentional ignorance, then we might have to refactor tech to deal what we forgot to address. Both @Juankbell and myself have, despite looking at the Gravity work for some time, realized that we have cultural debt of our own, and broken or ignorant or denialist methods for dealing with things. "Technical debt (also known as tech debt or code debt) describes what results when development teams take actions to expedite the delivery of a piece of functionality or a project which later needs to be refactored. In other words, it’s the result of prioritizing speedy delivery over perfect code."
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6a7.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -6619,9 +5925,7 @@ mhm okay good
 
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
-_26-Nov-21 07:55 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4cc.png" width=50 height=50>
+_26-Nov-21 07:55 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f4cc.png" width=20 height=20>
 
 the thought spiral from research groups... A method I'm pondering in regards to praise or gratitude practices...a weekly rotation where each member gets a new person in the community to praise each week. How it could possibly be automated: A bot that holds profiles for each community member maybe this looks like a photo, their working projects, the projects/daos etc. Then you can find the person you're praising in working threads or server maybe? These thoughts are in response to the natural habit of preferences developing when people gather and how inequalities can emerge from these habits habits if not accounted for. Same people praising the same people....
 
@@ -6653,9 +5957,6 @@ _29-Nov-21 06:26 AM_:
 
 Would this be a correct summary of the process? 1. Reward data from Praise and SourceCred is merged in the Analysis/Distribution dashboard. 2. The data is reviewed and changes can be made. This step is performed by the Reward Board members asynchronously or in a group call. 3. Someone from the board creates a DAO proposal for the distribution once review is finished. 4. Reward Board members vote on proposal to release funds.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
 
 ps. All steps above could in theory be performed during one post quantification reward board call.
 
@@ -6673,9 +5974,6 @@ _29-Nov-21 06:31 AM_:
 
 Love the ideas of Rich and Enspiral! Once the new rewards system is up and running it would be cool to do some experiments along these lines.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2b50.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -6683,9 +5981,6 @@ _29-Nov-21 08:45 AM_:
 
 Oyé Oyé! This is a first call for anyone who would like to be on the first draft of Quantifiers - we'll be creating, testing and piloting the process of quantification and streamlining resources to onboard more Quantifiers ahead of the first quant - please reply to this comment if you want a piece of the action
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
@@ -6695,9 +5990,7 @@ mitch (🍔, 🍔)
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
-_29-Nov-21 09:55 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+_29-Nov-21 09:55 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 oye oye
 
@@ -6713,9 +6006,6 @@ _30-Nov-21 08:23 AM_:
 
 I like the combination of async and sync processes. Have a review window of 5 days (Mon-Fri) and include a call somewhere in there to hash out any issues that can't be resolved async, at the end of those 5 days the quant review should be done and executed on the DAO
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 Do you think the current vote duration of 24 hours on the DAO will pose any challenges?
 
@@ -6727,21 +6017,9 @@ _30-Nov-21 08:57 AM_:
 
 ![https://media.discordapp.net/attachments/900497538329747466/915224473530163200/Image_2021-11-30_at_1.55.05_pm.jpg](https://media.discordapp.net/attachments/900497538329747466/915224473530163200/Image_2021-11-30_at_1.55.05_pm.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f48e.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -6757,9 +6035,6 @@ Rewards Working Group Manifesto Redesigning the TEC Reward System Weekly meeting
 
 [https://lh3.googleusercontent.com/4Uc6hlAq_DPr6CQSVv31lPnG7nBOrFZ8l8uUDzVTShB43QXNkGVraKCSWAHYOn_9__FEHU7J8qTtrw=w1200-h630-p](https://lh3.googleusercontent.com/4Uc6hlAq_DPr6CQSVv31lPnG7nBOrFZ8l8uUDzVTShB43QXNkGVraKCSWAHYOn_9__FEHU7J8qTtrw=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -6770,9 +6045,7 @@ liviade
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
 _30-Nov-21 12:47 PM_:
-reviewed! looks
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
+reviewed! looks <img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=20 height=20>
 
 I left jus a few comments
 
@@ -6785,17 +6058,13 @@ I have left the Governauts Telegram, as I didn't feel my perspective was wanted 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _30-Nov-21 01:39 PM_:
-Hi all!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50>
+Hi all! <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
 
 Tomorrow Wednesday means
 
 **Rewards WG Weekly Sync**
 
-at 20:00 CET.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50>
+at 20:00 CET. <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=20 height=20>
 
 **NEW MEETING ROOM!**
 
@@ -6803,17 +6072,12 @@ See you in the reward-system voice channel ✨
 
 **MEETING TOPICS**
 
-Do you have something you would like to bring up? Post it here, DM me or add it to the agenda directly.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4d1.png" width=50 height=50>
+Do you have something you would like to bring up? Post it here, DM me or add it to the agenda directly. <img src="https://twemoji.maxcdn.com/2/72x72/1f4d1.png" width=20 height=20>
 
 [https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/915310999576387584/m3Nr7nxCf8HR3Lzn1HhyuUAAAAASUVORK5CYII.png](https://cdn.discordapp.com/attachments/831192353812381715/915310999576387584/m3Nr7nxCf8HR3Lzn1HhyuUAAAAASUVORK5CYII.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fc.png" width=50 height=50>
-
-1
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -6821,9 +6085,6 @@ _30-Nov-21 03:43 PM_:
 
 Going through the steps of an "ideal quant" in the analysis group we noticed that the way it is planned now, there are two groups of people involved in the process who have the chance to do direct modifications to the data: First the quants when they get together to review after the async phase, and then again the reward board when it reviews the proposal made by the quants. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 Are we sure we want to keep it that way? While discussing, we thought that maybe it could be a good idea if the reward board only has the power to ratify the received quantification, or send it back to re-quantify if they find issues. It would add a level of transparency and "separation of powers" to the system.
 
@@ -6833,17 +6094,12 @@ It somehow defeats the point of the whole process of random/anonymous praise if 
 
 How does the community feel about this? Maybe we could take some time in the call tomorrow to discuss it?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
 mitch (🍔, 🍔)
 
-[reviewed! looks  I left jus a few comments](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
+[reviewed! looks  I left jus a few comments](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -6859,9 +6115,6 @@ How do we get a fancy flyer and reminder like this for Rewards WG? And we should
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/915520669217865758/unknown.png](https://cdn.discordapp.com/attachments/831192353812381715/915520669217865758/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -6871,9 +6124,6 @@ This is what we have on the Agenda for todays meeting. Anything else? Ping me so
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/915609934954127360/unknown.png](https://cdn.discordapp.com/attachments/831192353812381715/915609934954127360/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -6883,23 +6133,11 @@ _01-Dec-21 12:26 PM_:
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/915655121218732042/Praise_flow_for_Batch_1_-_Count_of_Praise.png](https://cdn.discordapp.com/attachments/831192353812381715/915655121218732042/Praise_flow_for_Batch_1_-_Count_of_Praise.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-3
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-4
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-2
 
 I think something like this would be a super important part of our analysis section.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fc.png" width=50 height=50>
-
-1
 
 Bringing awareness to the praisers as well, and not only to the praised. We can also see possible collusion scenarios
 
@@ -6950,9 +6188,7 @@ mitch (🍔, 🍔)
 <h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
 _02-Dec-21 05:51 AM_:
-yes plz
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64b.png" width=50 height=50>
+yes plz <img src="https://twemoji.maxcdn.com/2/72x72/1f64b.png" width=20 height=20>
 
 ‍♂️
 
@@ -6981,9 +6217,7 @@ mitch (🍔, 🍔)
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _02-Dec-21 10:58 AM_:
-Period naming, similar to ZenHub/GitHub sprints. There is no reason not to allow for a name. Some community calls a period "June 2021", another wants to sync with sprint schedule and call it "Praise period #13". Duplicate praise counts as 0 when avg score is calculated, simple as that. It works even if you and me as quantifiers mark different combinations of a group of praise as duplicates. Does that make sense?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Period naming, similar to ZenHub/GitHub sprints. There is no reason not to allow for a name. Some community calls a period "June 2021", another wants to sync with sprint schedule and call it "Praise period #13". Duplicate praise counts as 0 when avg score is calculated, simple as that. It works even if you and me as quantifiers mark different combinations of a group of praise as duplicates. Does that make sense? <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 (edited)
 
@@ -6999,15 +6233,10 @@ _02-Dec-21 01:20 PM_:
 
 Def would throw an error as that would create an endless duplication loop, a duplication vortex / black hole, which is not allowed. Thanks for highlighting this, we haven't exactly mapped out those rules yet. I imagine there are a number of edge cases and not really edge cases.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f573.png" width=50 height=50>
-
-2
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_03-Dec-21 05:45 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4fc.png" width=50 height=50>
+_03-Dec-21 05:45 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f4fc.png" width=20 height=20>
 
 For those of you who couldn't join, here are the video from the latest WG meeting!
 
@@ -7015,25 +6244,15 @@ For those of you who couldn't join, here are the video from the latest WG meetin
 
 [Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
 
-W12 Reward System: Quant preparations and execution, sourcred, allo...
+W12 Reward System: Quant preparations and execution, sourcred, allo... <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+Thank you for watching! Hit <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
-Thank you for watching! Hit
+and subscribe <img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+to support this work <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
-and subscribe
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f6a9.png" width=50 height=50>
-
-to support this work
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-Join the Community
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+Join the Community <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 on Discord
 
@@ -7073,9 +6292,6 @@ You may not know that Protocol Labs is a supporter of an open-source governance 
 
 ![https://research.protocol.ai/images/pl_research_card.png](https://research.protocol.ai/images/pl_research_card.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -7083,18 +6299,12 @@ _03-Dec-21 11:00 AM_:
 
 I'm super-interested in this. Hopefully I'll be able to catch up soon.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-1
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
 _07-Dec-21 12:51 AM_:
 I'm a bit behind btw team. Sourcecred is in a last week crunch before a month long break and I'm doing a lot of the assisting in our emergent governance needs around ratifying our winter break airdrop proposal in addition to partnership and PR stuff I'm holding in our relationship with Stacks. Will be much more freed up beginning next week
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-3
 
 <h3>Clayton - UMA <img src="https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png" width=25 height=25></h3>
 
@@ -7154,35 +6364,20 @@ _08-Dec-21 08:20 AM_:
 
 SourceCred is a standalone product/organization has already been developed, we're implementing it into our reward system - you can learn more on sourcred.io
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_08-Dec-21 08:54 AM_:
+_08-Dec-21 08:54 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f347.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f347.png" width=50 height=50>
+Hello Wednesday! Welcome to the Rewards WG weekly sync at 20:00 CET. <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
-Hello Wednesday! Welcome to the Rewards WG weekly sync at 20:00 CET.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
-
-Meeting room: reward-system voice channel On the agenda Status updates all work streams: - What did you do the last few days? - What will you do in the days ahead? - Anything blocking your progress? Rewards WG Startup @liviade First quant, preparations and execution @mitch (🍔, 🍔) SourceCred meeting tracker bot @Vyvy-vi SourceCred pollen bot @hz @mateodaza Praise backend @rdfbbx @kristofer Praise frontend @Nebs Allocation, distribution and analysis @Nuggan @MS @🐙 octopus Discussion: - WG funding proposal? - Delay the trial quant
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f611.png" width=50 height=50>
+Meeting room: reward-system voice channel On the agenda Status updates all work streams: - What did you do the last few days? - What will you do in the days ahead? - Anything blocking your progress? Rewards WG Startup @liviade First quant, preparations and execution @mitch (🍔, 🍔) SourceCred meeting tracker bot @Vyvy-vi SourceCred pollen bot @hz @mateodaza Praise backend @rdfbbx @kristofer Praise frontend @Nebs Allocation, distribution and analysis @Nuggan @MS @🐙 octopus Discussion: - WG funding proposal? - Delay the trial quant <img src="https://twemoji.maxcdn.com/2/72x72/1f611.png" width=20 height=20>
 
 More discussion topics? Comment this message.
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/918138453512839188/TEC_Community_Call_Updates.png](https://cdn.discordapp.com/attachments/831192353812381715/918138453512839188/TEC_Community_Call_Updates.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f308.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png](https://cdn.discordapp.com/avatars/386752977177673728/8de737995780e30c1f0b6d6ef2652cca.png)
 
@@ -7198,13 +6393,7 @@ curious to what kind of problems you had with coordinape
 
 hey @ALOYSIOUS would you like to present the results of your survey in today's session?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -7224,9 +6413,6 @@ _08-Dec-21 12:08 PM_:
 
 Hey y’all @ryeder (they/them) is sick in bed atm
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -7254,9 +6440,6 @@ _08-Dec-21 03:08 PM_:
 
 ![https://media.tenor.co/images/837bc97650e1a5e9c6a3a47032deaa37/tenor.png](https://media.tenor.co/images/837bc97650e1a5e9c6a3a47032deaa37/tenor.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -7282,9 +6465,6 @@ Form Responses 1 Timestamp,How Long have you been exposed to / participating in 
 
 [https://lh5.googleusercontent.com/Un7VL-0WmEcIPZys0CsDM3exY0bR7KltCc-uEx_Up-0MRNt_rRHOn7zmcRzAEpzFmyDU9_a0TusIPg=w1200-h630-p](https://lh5.googleusercontent.com/Un7VL-0WmEcIPZys0CsDM3exY0bR7KltCc-uEx_Up-0MRNt_rRHOn7zmcRzAEpzFmyDU9_a0TusIPg=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
@@ -7332,9 +6512,6 @@ _09-Dec-21 08:06 AM_:
 
 this is very cool!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60e.png" width=50 height=50>
-
-1
 
 Impressive amount of data collected
 
@@ -7347,9 +6524,7 @@ Clayton - UMA
 <h3>ALOYSIOUS <img src="https://cdn.discordapp.com/avatars/778446953004007475/66df964f1e36116bca7844247c896564.png" width=25 height=25></h3>
 
 _09-Dec-21 01:05 PM_:
-Thank you
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=50 height=50>
+Thank you <img src="https://twemoji.maxcdn.com/2/72x72/1f60a.png" width=20 height=20>
 
 I think so too!
 
@@ -7361,9 +6536,6 @@ I talked about praise at the DAO Rewards System Assemblage yesterday! See the re
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/919383950252703794/unknown.png](https://cdn.discordapp.com/attachments/831192353812381715/919383950252703794/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -7385,9 +6557,6 @@ _13-Dec-21 04:03 PM_:
 
 is there a way to see the # of praise that a wg receives based on its members/most active contributors?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9e0.png" width=50 height=50>
-
-1
 
 <h3>gene <img src="https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.png" width=25 height=25></h3>
 
@@ -7429,15 +6598,11 @@ Bleep, here are the notes from last weeks wg meet: [https://fmckl.notion.site/No
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_15-Dec-21 10:23 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f3d6.png" width=50 height=50>
+_15-Dec-21 10:23 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f3d6.png" width=20 height=20>
 
 ️ Hi everyone! Welcome to the Rewards WG weekly sync at 20:00 CET. The main item on the agenda today is the R.A.D.D. Demo by @Nuggan. The Rewards Analytics and Distribution Dashboard. You have discussion items? Add to the agenda doc:
 
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates all work streams:
 
@@ -7449,13 +6614,7 @@ Meeting room: reward-system voice channel Status updates all work streams:
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/920697661881982997/TEC_Community_Call_Updates.png](https://cdn.discordapp.com/attachments/831192353812381715/920697661881982997/TEC_Community_Call_Updates.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f919.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
@@ -7469,17 +6628,8 @@ Contribute to CommonsBuild/praise_RewardAnalysis development by creating an acco
 
 [https://opengraph.githubassets.com/a89e40fc2685e6b23f0fc141ae5d9895fe0f44d9be53a1168160f4b7e086720a/CommonsBuild/praise_RewardAnalysis](https://opengraph.githubassets.com/a89e40fc2685e6b23f0fc141ae5d9895fe0f44d9be53a1168160f4b7e086720a/CommonsBuild/praise_RewardAnalysis)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f485.png" width=50 height=50>
-
-1
 
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
@@ -7493,9 +6643,6 @@ Taking a closer look at some Design Strategies
 
 ![https://miro.medium.com/max/1136/1*EQwglPhtKBEO2iqy7xxNEg.png](https://miro.medium.com/max/1136/1*EQwglPhtKBEO2iqy7xxNEg.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -7503,33 +6650,20 @@ _16-Dec-21 01:45 AM_:
 
 !praise @chuygarcia.eth for writing and pitching an excellent Commons Config Proposal - Montaña Rusa: The Communist Roller-Coaster
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/emojis/835016327542210560.png](https://cdn.discordapp.com/emojis/835016327542210560.png)
 
 1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f1e8-1f1f3.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_16-Dec-21 03:36 AM_:
+_16-Dec-21 03:36 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="$5" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="$5" width=50 height=50>
-
-Oyez, Oyez! A praise dev announcement!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="$5" width=50 height=50>
+Oyez, Oyez! A praise dev announcement! <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 The Praise backend will make a pivot and move to new platform. The frontend will remain the same. We will start over with the backend development using the following tech stack: Node/Express/TypeScript/MongoDB The reasons are many: - Working with Java and Spring has made the project dependent on one person. That is not a good situation. We could find other Java developers but that takes time and we also have a community of developers alredy in the TEC, CS and General Magic. All those devs mostly prefer and know JS/TS/Python/Solidity. - I would like Praise to become as decentralised as possible in future versions. Making the switch from SQL to storing JSON docs in MongoDB will make that much easier. Many decentralised solutions - IPFS/Ceramic/Textile etc - offer the ability to store JSON documents but don't support anything looking like a relational database. - Building the backend and frontend using the same language will allow us to reuse code between layers - interfaces etc. - The final distribution can be made simpler and smaller with less dependencies and require less knowledge from a community that would like to use Praise. I wish I would have known and seen all this before we started but I didn't. That would have saved us a lot of time and effort. This is a realisation that has built up gradually and now seems like the right time to make a decision. @Nebs will be laying down the foundation for the new backend in the coming days. Then we will have some work to do catching up with the roadmap on the new platform. I expect us to be able to move forward quite quickly, the work that has been put into the Java backend has definitely not been in vain, we will be taking all insights to the new platform - data model, business logic/rules, etc. Will this affect the delivery date for the MVP version we need to do the trial quant? I don't know yet but hope to have a better sense of that within a week.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-2
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -7537,27 +6671,16 @@ _16-Dec-21 12:23 PM_:
 
 I hate to say it but ... I told you so... (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
-
-1
 
 @kristofer how can we empower you to onboard some amazing back-end devs to get this backend up and running?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
 kristofer
 
-[    Oyez, Oyez! A praise dev announcement!     The Praise backend will make a pivot and move to new platform. The frontend will remain the same. We will start over with the backend development using the following tech stack: Node/Express/TypeScript/MongoDB The reasons are many: - Working with Java and Spring has made the project dependent on one person. That is not a good situation. We could find other Java developers but that takes time and we also have a community of developers alredy in the TEC, CS and General Magic. All those devs mostly prefer and know JS/TS/Python/Solidity. - I would like Praise to become as decentralised as possible in future versions. Making the switch from SQL to storing JSON docs in MongoDB will make that much easier. Many decentralised solutions - IPFS/Ceramic/Textile etc - offer the ability to store JSON documents but don't support anything looking like a relational database. - Building the backend and frontend using the same language will allow us to reuse code between layers - interfaces etc. - The final distribution can be made simpler and smaller with less dependencies and require less knowledge from a community that would like to use Praise. I wish I would have known and seen all this before we started but I didn't. That would have saved us a lot of time and effort. This is a realisation that has built up gradually and now seems like the right time to make a decision. @Nebs will be laying down the foundation for the new backend in the coming days. Then we will have some work to do catching up with the roadmap on the new platform. I expect us to be able to move forward quite quickly, the work that has been put into the Java backend has definitely not been in vain, we will be taking all insights to the new platform - data model, business logic/rules, etc. Will this affect the delivery date for the MVP version we need to do the trial quant? I don't know yet but hope to have a better sense of that within a week.](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> 
+[    Oyez, Oyez! A praise dev announcement!     The Praise backend will make a pivot and move to new platform. The frontend will remain the same. We will start over with the backend development using the following tech stack: Node/Express/TypeScript/MongoDB The reasons are many: - Working with Java and Spring has made the project dependent on one person. That is not a good situation. We could find other Java developers but that takes time and we also have a community of developers alredy in the TEC, CS and General Magic. All those devs mostly prefer and know JS/TS/Python/Solidity. - I would like Praise to become as decentralised as possible in future versions. Making the switch from SQL to storing JSON docs in MongoDB will make that much easier. Many decentralised solutions - IPFS/Ceramic/Textile etc - offer the ability to store JSON documents but don't support anything looking like a relational database. - Building the backend and frontend using the same language will allow us to reuse code between layers - interfaces etc. - The final distribution can be made simpler and smaller with less dependencies and require less knowledge from a community that would like to use Praise. I wish I would have known and seen all this before we started but I didn't. That would have saved us a lot of time and effort. This is a realisation that has built up gradually and now seems like the right time to make a decision. @Nebs will be laying down the foundation for the new backend in the coming days. Then we will have some work to do catching up with the roadmap on the new platform. I expect us to be able to move forward quite quickly, the work that has been put into the Java backend has definitely not been in vain, we will be taking all insights to the new platform - data model, business logic/rules, etc. Will this affect the delivery date for the MVP version we need to do the trial quant? I don't know yet but hope to have a better sense of that within a week.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=20 height=20> 
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -7565,13 +6688,7 @@ _16-Dec-21 02:44 PM_:
 
 thanks for the updates Kristofer, great rationale on the reason for pivoting. It seems like you already have people in mind to help out? +1 to Mitch's question on how we could help
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -7579,9 +6696,6 @@ _16-Dec-21 04:47 PM_:
 
 @MS @Nuggan and anyone else interested... there is this really cool tool that is worth checking out... @catman and @FrazierFraz can talk more about it...
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9be.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
 
@@ -7595,17 +6709,12 @@ _16-Dec-21 04:49 PM_:
 
 Thanks @griff (💜, 💜) ! Yes we just completed our MVP of the Labs Platform, a tool that makes running cadCAD models in the cloud easy and we are looking for users who are interested in kicking the tires for us. You can DM me if you'd like to learn more.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
 kristofer
 
-[    Oyez, Oyez! A praise dev announcement!     The Praise backend will make a pivot and move to new platform. The frontend will remain the same. We will start over with the backend development using the following tech stack: Node/Express/TypeScript/MongoDB The reasons are many: - Working with Java and Spring has made the project dependent on one person. That is not a good situation. We could find other Java developers but that takes time and we also have a community of developers alredy in the TEC, CS and General Magic. All those devs mostly prefer and know JS/TS/Python/Solidity. - I would like Praise to become as decentralised as possible in future versions. Making the switch from SQL to storing JSON docs in MongoDB will make that much easier. Many decentralised solutions - IPFS/Ceramic/Textile etc - offer the ability to store JSON documents but don't support anything looking like a relational database. - Building the backend and frontend using the same language will allow us to reuse code between layers - interfaces etc. - The final distribution can be made simpler and smaller with less dependencies and require less knowledge from a community that would like to use Praise. I wish I would have known and seen all this before we started but I didn't. That would have saved us a lot of time and effort. This is a realisation that has built up gradually and now seems like the right time to make a decision. @Nebs will be laying down the foundation for the new backend in the coming days. Then we will have some work to do catching up with the roadmap on the new platform. I expect us to be able to move forward quite quickly, the work that has been put into the Java backend has definitely not been in vain, we will be taking all insights to the new platform - data model, business logic/rules, etc. Will this affect the delivery date for the MVP version we need to do the trial quant? I don't know yet but hope to have a better sense of that within a week.](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> 
+[    Oyez, Oyez! A praise dev announcement!     The Praise backend will make a pivot and move to new platform. The frontend will remain the same. We will start over with the backend development using the following tech stack: Node/Express/TypeScript/MongoDB The reasons are many: - Working with Java and Spring has made the project dependent on one person. That is not a good situation. We could find other Java developers but that takes time and we also have a community of developers alredy in the TEC, CS and General Magic. All those devs mostly prefer and know JS/TS/Python/Solidity. - I would like Praise to become as decentralised as possible in future versions. Making the switch from SQL to storing JSON docs in MongoDB will make that much easier. Many decentralised solutions - IPFS/Ceramic/Textile etc - offer the ability to store JSON documents but don't support anything looking like a relational database. - Building the backend and frontend using the same language will allow us to reuse code between layers - interfaces etc. - The final distribution can be made simpler and smaller with less dependencies and require less knowledge from a community that would like to use Praise. I wish I would have known and seen all this before we started but I didn't. That would have saved us a lot of time and effort. This is a realisation that has built up gradually and now seems like the right time to make a decision. @Nebs will be laying down the foundation for the new backend in the coming days. Then we will have some work to do catching up with the roadmap on the new platform. I expect us to be able to move forward quite quickly, the work that has been put into the Java backend has definitely not been in vain, we will be taking all insights to the new platform - data model, business logic/rules, etc. Will this affect the delivery date for the MVP version we need to do the trial quant? I don't know yet but hope to have a better sense of that within a week.](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4e3.png" width=20 height=20> 
 
 <h3>MS <img src="https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png" width=25 height=25></h3>
 
@@ -7613,9 +6722,6 @@ _16-Dec-21 06:34 PM_:
 
 Same as the other comments here - let me know if there is anything I can help with :).
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
 
@@ -7629,9 +6735,6 @@ _16-Dec-21 06:34 PM_:
 
 I am always a fan of cool tools and am very interested in learning more!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-6
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
@@ -7642,23 +6745,17 @@ mitch (🍔, 🍔)
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _17-Dec-21 01:58 AM_:
-Thanks! Let me get back to you about that in a few days when I know more.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Thanks! Let me get back to you about that in a few days when I know more. <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 @Nebs is doing the initial platform setup, @casale.eth has offered to help out and I can easier contribute to the codebase on the new stack as well. Maybe we are good when it comes to resources.
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_22-Dec-21 08:52 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f936.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f385.png" width=50 height=50>
+_22-Dec-21 08:52 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f936.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f385.png" width=20 height=20>
 
 Hi all! Welcome to the last Rewards WG weekly sync of this year! We begin at 20:00 CET. The agenda is a little bit thinner today than usual, mostly because of the fact that many works streams now almost are done. The next big step is the trial quant. Let's revisit the roadmap and do some planning: - Trial quant date - SourceCred parameters work session - First quant analysis And, I'd like to propose we use the month of November as trial quant data month. This means we can start preparing both SC and praise data for quant whenever. You have discussion items? Add to the agenda doc:
 
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates all work streams: - Rewards WG Startup ✅ Done - First quant, preparations and execution @mitch (🍔, 🍔) ✅ Mostly done for now - SourceCred meeting tracker bot @Vyvy-vi - SourceCred pollen bot @hz @mateodaza - Praise backend/frontend @Nebs @kristofer - Allocation, distribution and analysis @Nuggan @MS @🐙 octopus ✅ Mostly done for now
 
@@ -7670,67 +6767,40 @@ Table of contents
 
 kristofer
 
-[ Hi all! Welcome to the last Rewards WG weekly sync of this year! We begin at 20:00 CET. The agenda is a little bit thinner today than usual, mostly because of the fact that many works streams now almost are done. The next big step is the trial quant. Let's revisit the roadmap and do some planning: - Trial quant date - SourceCred parameters work session - First quant analysis And, I'd like to propose we use the month of November as trial quant data month. This means we can start preparing both SC and praise data for quant whenever. You have discussion items? Add to the agenda doc:](about:blank#)
+[ Hi all! Welcome to the last Rewards WG weekly sync of this year! We begin at 20:00 CET. The agenda is a little bit thinner today than usual, mostly because of the fact that many works streams now almost are done. The next big step is the trial quant. Let's revisit the roadmap and do some planning: - Trial quant date - SourceCred parameters work session - First quant analysis And, I'd like to propose we use the month of November as trial quant data month. This means we can start preparing both SC and praise data for quant whenever. You have discussion items? Add to the agenda doc:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f936.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f385.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f936.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f385.png" width=50 height=50>
-
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates all work streams: - Rewards WG Startup ✅ Done - First quant, preparations and execution @mitch (🍔, 🍔) ✅ Mostly done for now - SourceCred meeting tracker bot @Vyvy-vi - SourceCred pollen bot @hz @mateodaza - Praise backend/frontend @Nebs @kristofer - Allocation, distribution and analysis @Nuggan @MS @🐙 octopus ✅ Mostly done for now
 
 <h3>MS <img src="https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png" width=25 height=25></h3>
 
 _22-Dec-21 09:38 AM_:
-Hey team! I won't be on the rewards call today - launching 3 apps this week
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f922.png" width=50 height=50>
+Hey team! I won't be on the rewards call today - launching 3 apps this week <img src="https://twemoji.maxcdn.com/2/72x72/1f972.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f922.png" width=20 height=20>
 
 . I will miss you all, and can't wait to check out the recap!! I'm always a message away if anyone needs anything
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f4aa.png" width=50 height=50>
 
-3
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
 kristofer
 
-[ Hi all! Welcome to the last Rewards WG weekly sync of this year! We begin at 20:00 CET. The agenda is a little bit thinner today than usual, mostly because of the fact that many works streams now almost are done. The next big step is the trial quant. Let's revisit the roadmap and do some planning: - Trial quant date - SourceCred parameters work session - First quant analysis And, I'd like to propose we use the month of November as trial quant data month. This means we can start preparing both SC and praise data for quant whenever. You have discussion items? Add to the agenda doc:](about:blank#)
+[ Hi all! Welcome to the last Rewards WG weekly sync of this year! We begin at 20:00 CET. The agenda is a little bit thinner today than usual, mostly because of the fact that many works streams now almost are done. The next big step is the trial quant. Let's revisit the roadmap and do some planning: - Trial quant date - SourceCred parameters work session - First quant analysis And, I'd like to propose we use the month of November as trial quant data month. This means we can start preparing both SC and praise data for quant whenever. You have discussion items? Add to the agenda doc:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f936.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f385.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f936.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f385.png" width=50 height=50>
-
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates all work streams: - Rewards WG Startup ✅ Done - First quant, preparations and execution @mitch (🍔, 🍔) ✅ Mostly done for now - SourceCred meeting tracker bot @Vyvy-vi - SourceCred pollen bot @hz @mateodaza - Praise backend/frontend @Nebs @kristofer - Allocation, distribution and analysis @Nuggan @MS @🐙 octopus ✅ Mostly done for now
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
 _22-Dec-21 12:44 PM_:
-I'll try my best to join as well, Giveth launch has me
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f480.png" width=50 height=50>
+I'll try my best to join as well, Giveth launch has me <img src="https://twemoji.maxcdn.com/2/72x72/1f480.png" width=20 height=20>
 
 Love you all
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png" width=50 height=50>
 
-2
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
-
-2
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -7746,71 +6816,42 @@ So am thinking about benefits for being part of Akorn DAO and started thinking a
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_29-Dec-21 10:00 AM_:
+_29-Dec-21 10:00 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f384.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f384.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f384.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f384.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f384.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f384.png" width=50 height=50>
+Rewards System WG meeting cancelled today because of <img src="https://twemoji.maxcdn.com/2/72x72/1f384.png" width=20 height=20>
 
-Rewards System WG meeting cancelled today because of
+and <img src="https://twemoji.maxcdn.com/2/72x72/1f936.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f384.png" width=50 height=50>
+and <img src="https://twemoji.maxcdn.com/2/72x72/1f37e.png" width=20 height=20>
 
-and
+and <img src="https://twemoji.maxcdn.com/2/72x72/1f386.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f936.png" width=50 height=50>
-
-and
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f37e.png" width=50 height=50>
-
-and
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f386.png" width=50 height=50>
-
-See you next week!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f384.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f384.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f384.png" width=50 height=50>
+See you next week! <img src="https://twemoji.maxcdn.com/2/72x72/1f384.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f384.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f384.png" width=20 height=20>
 
 ps. The new praise backend is coming along nicely!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-3
 
 <h3>Daré <img src="https://cdn.discordapp.com/avatars/285159600683089920/253c18f08aef4c6dbcc91d7652053468.png" width=25 height=25></h3>
 
 _29-Dec-21 12:45 PM_:
 GM TEC fam. I am new around here and wanted to introduce myself. I am based out of Denver metro, and my background is in engineering. I am looking forward to meeting some of you and getting more involved. Happy Holidays!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f37e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=50 height=50>
-
-3
 
 <h3>mafer_cordovas <img src="https://cdn.discordapp.com/avatars/837780387988111412/d0634dcb15e6afaf05f164da1e0dd1eb.png" width=25 height=25></h3>
 
 _03-Jan-22 12:14 PM_:
-GM @everyone! I am recruiting members of the Trusted Seed for tomorrow's Praise Quant Party
+GM @everyone! I am recruiting members of the Trusted Seed for tomorrow's Praise Quant Party <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
+At the Praise Quant Party, we review all the praise dished at the Commons Stack & TEC. If you guys want to participate or come to hang out to review the process with us, we will be more than happy to host you <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
-At the Praise Quant Party, we review all the praise dished at the Commons Stack & TEC. If you guys want to participate or come to hang out to review the process with us, we will be more than happy to host you
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
-
-DM for the invite link
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4e5.png" width=50 height=50>
+DM for the invite link <img src="https://twemoji.maxcdn.com/2/72x72/1f4e5.png" width=20 height=20>
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_05-Jan-22 10:18 AM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f386.png" width=50 height=50>
+_05-Jan-22 10:18 AM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f386.png" width=20 height=20>
 
 Happy new Rewards year! Today we do the first Rewards WG weekly meeting at 20:00 CET. Theme for today:
 
@@ -7818,17 +6859,12 @@ Happy new Rewards year! Today we do the first Rewards WG weekly meeting at 20:00
 
 The new praise system is not done. But we have something to show. Also let's set dates for trial quant! You have discussion items? Add to the agenda doc:
 
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates all work streams: - First quant, preparations and execution @mitch (🍔, 🍔) ✅ Mostly done for now - SourceCred meeting tracker bot @Vyvy-vi - SourceCred pollen bot @hz @mateodaza - Praise backend/frontend @Nebs @kristofer - Allocation, distribution and analysis @Nuggan @MS @🐙 octopus ✅ Mostly done for now (edited)
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/928306557698068480/unknown.png](https://cdn.discordapp.com/attachments/831192353812381715/928306557698068480/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-5
 
 <h3>🐙 octopus <img src="https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png" width=25 height=25></h3>
 
@@ -7836,21 +6872,14 @@ _05-Jan-22 11:45 AM_:
 
 That's beautiful.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c-1f3fd.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
 kristofer
 
-[ Happy new Rewards year! Today we do the first Rewards WG weekly meeting at 20:00 CET. Theme for today: **DEMO TIME!** The new praise system is not done. But we have something to show. Also let's set dates for trial quant! You have discussion items? Add to the agenda doc:](about:blank#)
+[ Happy new Rewards year! Today we do the first Rewards WG weekly meeting at 20:00 CET. Theme for today: **DEMO TIME!** The new praise system is not done. But we have something to show. Also let's set dates for trial quant! You have discussion items? Add to the agenda doc:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f386.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f386.png" width=50 height=50>
-
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates all work streams: - First quant, preparations and execution @mitch (🍔, 🍔) ✅ Mostly done for now - SourceCred meeting tracker bot @Vyvy-vi - SourceCred pollen bot @hz @mateodaza - Praise backend/frontend @Nebs @kristofer - Allocation, distribution and analysis @Nuggan @MS @🐙 octopus ✅ Mostly done for now  (edited)
 
@@ -7859,21 +6888,14 @@ Meeting room: reward-system voice channel Status updates all work streams: - Fir
 _05-Jan-22 03:07 PM_:
 I can't wait to watch the recording for today's meeting! I missed all of you
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f626.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f49c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
 kristofer
 
-[ Happy new Rewards year! Today we do the first Rewards WG weekly meeting at 20:00 CET. Theme for today: **DEMO TIME!** The new praise system is not done. But we have something to show. Also let's set dates for trial quant! You have discussion items? Add to the agenda doc:](about:blank#)
+[ Happy new Rewards year! Today we do the first Rewards WG weekly meeting at 20:00 CET. Theme for today: **DEMO TIME!** The new praise system is not done. But we have something to show. Also let's set dates for trial quant! You have discussion items? Add to the agenda doc:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f386.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f386.png" width=50 height=50>
-
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates all work streams: - First quant, preparations and execution @mitch (🍔, 🍔) ✅ Mostly done for now - SourceCred meeting tracker bot @Vyvy-vi - SourceCred pollen bot @hz @mateodaza - Praise backend/frontend @Nebs @kristofer - Allocation, distribution and analysis @Nuggan @MS @🐙 octopus ✅ Mostly done for now  (edited)
 
@@ -7882,18 +6904,12 @@ Meeting room: reward-system voice channel Status updates all work streams: - Fir
 _05-Jan-22 05:11 PM_:
 Guys I’m so so sorry I couldn’t join today. I’ve been a bit sick. Next week I won’t miss it
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f91e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fc.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 <h3>MS <img src="https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png" width=25 height=25></h3>
 
 _06-Jan-22 09:48 AM_:
 It's very awesome to be able to catch the recordings when we can't attend the meeting. I appreciate the care and work that goes on behind the scenes to make this happen. ❤️
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -7901,17 +6917,8 @@ _06-Jan-22 01:47 PM_:
 
 !praise @Zeptimus for recording all our reward system calls and uploading them so promptly to youtube!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -7919,15 +6926,10 @@ _11-Jan-22 06:49 AM_:
 
 !praise @acidlazzer @alantv @Craig @phacker @liviade @mitch (🍔, 🍔) @Nebs @Nuggan @osycross(🦎🦎) @Tam2140 @Vyvy-vi @Zeptimus @kristofer for joining the Rewards WG meeting last week.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_12-Jan-22 01:45 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f465.png" width=50 height=50>
+_12-Jan-22 01:45 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f465.png" width=20 height=20>
 
 Hi all! We have the Rewards WG meeting coming up in just about 20 mins. Work have progressed on the new praise system, now you can try it out! Go to
 
@@ -7935,23 +6937,13 @@ Hi all! We have the Rewards WG meeting coming up in just about 20 mins. Work hav
 
 and login with MetaMask. DM me the eth address you logged in with and I'll add you to the quantifier pool. You have discussion items? Add to the agenda doc:
 
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates all work streams: - First quant, preparations and execution @mitch (
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f354.png" width=50 height=50>
-
-,
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f354.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f354.png" width=20 height=20>
 
 ) ✅ Mostly done for now - SourceCred meeting tracker bot @Vyvy-vi - SourceCred pollen bot @hz @mateodaza - Praise backend/frontend @Nebs @kristofer - Allocation, distribution and analysis @Nuggan @MS @🐙 octopus ✅ Mostly done for now
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-4
 
 ps. don't click on "My praise", just realised there is a bug ..
 
@@ -7977,17 +6969,12 @@ And a more clear link from period page to quant page:
 
 I assigned quantifiers for period 3 as well. Any help identifying more UI issues is appreciated. Post what you find as issues in the frontend repo at
 
-[https://github.com/CommonsBuild/praise_frontend/issues/new](https://github.com/CommonsBuild/praise_frontend/issues/new)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+[https://github.com/CommonsBuild/praise_frontend/issues/new](https://github.com/CommonsBuild/praise_frontend/issues/new) <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 Thanks! Test system is at:
 
 [http://68.183.14.23:3000](http://68.183.14.23:3000/)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-3
 
 <h3>MS <img src="https://cdn.discordapp.com/avatars/692367215621701695/36ea8ee5e95b4fbad9ee4975b0ba21be.png" width=25 height=25></h3>
 
@@ -7995,33 +6982,21 @@ _12-Jan-22 05:55 PM_:
 
 This is so awesome
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
 kristofer
 
-[ Hi all! We have the Rewards WG meeting coming up in just about 20 mins. Work have progressed on the new praise system, now you can try it out! Go to](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f465.png" width=50 height=50>
+[ Hi all! We have the Rewards WG meeting coming up in just about 20 mins. Work have progressed on the new praise system, now you can try it out! Go to](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f465.png" width=20 height=20>
 
 [http://68.183.14.23:3000](http://68.183.14.23:3000/)
 
 and login with MetaMask. DM me the eth address you logged in with and I'll add you to the quantifier pool. You have discussion items? Add to the agenda doc:
 
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates all work streams: - First quant, preparations and execution @mitch (
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f354.png" width=50 height=50>
-
-,
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f354.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f354.png" width=20 height=20>
 
 ) ✅ Mostly done for now - SourceCred meeting tracker bot @Vyvy-vi - SourceCred pollen bot @hz @mateodaza - Praise backend/frontend @Nebs @kristofer - Allocation, distribution and analysis @Nuggan @MS @🐙 octopus ✅ Mostly done for now
 
@@ -8031,9 +7006,6 @@ _13-Jan-22 01:42 AM_:
 
 Tremendous! Really looking foward to getting started quantifying in here!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/emojis/913105956617982074.png](https://cdn.discordapp.com/emojis/913105956617982074.png)
 
@@ -8045,9 +7017,7 @@ kristofer
 
 [I assigned quantifiers for period 3 as well. Any help identifying more UI issues is appreciated. Post what you find as issues in the frontend repo at](about:blank#)
 
-[https://github.com/CommonsBuild/praise_frontend/issues/new](https://github.com/CommonsBuild/praise_frontend/issues/new)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+[https://github.com/CommonsBuild/praise_frontend/issues/new](https://github.com/CommonsBuild/praise_frontend/issues/new) <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 Thanks! Test system is at:
 
@@ -8064,9 +7034,6 @@ This is really awesome. Nice job.
 _13-Jan-22 03:44 PM_:
 Hi friends, hi @kristofer, I'm "back online" from a long health-related hiatus and I won't be able to return to Wednesday meetings! It's possible I could still check in, consult, or work to network between us and sourcecred and/or stacks advocates and our gov lab initiative with @hz, @Harold, and @Juliet Ӿ LexyLab, but I can't go to regular meetings at our current time. Miss y'all, so proud of all your progress!! Congratulations on the Trial Quantification!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-3
 
 <h3>Letty <img src="https://cdn.discordapp.com/avatars/770813150672846868/741c1631eca0dfb9ef3ebb85376ae2f0.png" width=25 height=25></h3>
 
@@ -8076,9 +7043,6 @@ Hello #💸｜reward-system mavericks! I see you've been doing great work around
 
 !praise @kristofer for stewarding the backend configuration on this new praise system (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 As a heads up and for future quantification and quantifiers, in #🎑｜omega we're used to dish praise within the channel, so when pulling the csv data that group text should also be scanned - thanks!
 
@@ -8094,38 +7058,25 @@ _19-Jan-22 09:44 AM_:
 
 Thanks. All praise will be handled irrespective of channel.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _19-Jan-22 09:53 AM_:
-Hi all! It's Wednesday and time for Rewards WG meeting at 20:00 CET.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Hi all! It's Wednesday and time for Rewards WG meeting at 20:00 CET. <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Themes:
 
-**Tomorrow we start the trial quant!**
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50>
+**Tomorrow we start the trial quant!** <img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=20 height=20>
 
 and
 
-**Let's look at the new praise bot**
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50>
+**Let's look at the new praise bot** <img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=20 height=20>
 
 Agenda: – @Vyvy-vi demos the praise bot – Prep talk / pep talk about the trial quant – @liviade: if there is extra time we can talk about categories for the [post quant] analysis You have discussion items? Add to the agenda doc:
 
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f42d.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f42d.png" width=50 height=50>
-
-Welcome!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9c0.png" width=50 height=50>
+Welcome! <img src="https://twemoji.maxcdn.com/2/72x72/1f9c0.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/933373672230621184/TEC_Community_Call_Updates.png](https://cdn.discordapp.com/attachments/831192353812381715/933373672230621184/TEC_Community_Call_Updates.png)
 
@@ -8133,25 +7084,16 @@ Welcome!
 
 kristofer
 
-[ Hi all! We have the Rewards WG meeting coming up in just about 20 mins. Work have progressed on the new praise system, now you can try it out! Go to](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f465.png" width=50 height=50>
+[ Hi all! We have the Rewards WG meeting coming up in just about 20 mins. Work have progressed on the new praise system, now you can try it out! Go to](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f465.png" width=20 height=20>
 
 [http://68.183.14.23:3000](http://68.183.14.23:3000/)
 
 and login with MetaMask. DM me the eth address you logged in with and I'll add you to the quantifier pool. You have discussion items? Add to the agenda doc:
 
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates all work streams: - First quant, preparations and execution @mitch (
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f354.png" width=50 height=50>
-
-,
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f354.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f354.png" width=20 height=20>
 
 ) ✅ Mostly done for now - SourceCred meeting tracker bot @Vyvy-vi - SourceCred pollen bot @hz @mateodaza - Praise backend/frontend @Nebs @kristofer - Allocation, distribution and analysis @Nuggan @MS @🐙 octopus ✅ Mostly done for now
 
@@ -8175,9 +7117,6 @@ I found out the reason behind all the "for hosting param party/debate" praises f
 
 Those are praises compiled by Transparency from our community calls
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>chuygarcia.eth <img src="https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png" width=25 height=25></h3>
 
@@ -8229,9 +7168,6 @@ _25-Jan-22 11:20 PM_:
 
 We should meet up and decide on the new ones with everyone on the board! This time we’ll be adding discord as well I think
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png](https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png)
 
@@ -8247,9 +7183,6 @@ but I remember last time we talked about this we were waiting for something? can
 
 so should we schedule for tomorrow?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 if everything is clear
 
@@ -8265,19 +7198,13 @@ _26-Jan-22 10:30 AM_:
 
 We need to configure the sourcecred automation before we can fully use it. That doesn't stop us from setting the params though so yes, let's schedule a params session!
 
-Hi all! It's Wednesday and time for Rewards WG meeting at 20:00 CET.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Hi all! It's Wednesday and time for Rewards WG meeting at 20:00 CET. <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Agenda: – Demo of the new praise bot that is now up and running! @Vyvy-vi – Schedule sourcecred params session – Status updates ... You have discussion items? Add to the agenda doc:
 
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f441.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f441.png" width=50 height=50>
-
-Welcome!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f442.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fb.png" width=50 height=50>
+Welcome! <img src="https://twemoji.maxcdn.com/2/72x72/1f442.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fb.png" width=20 height=20>
 
 (edited)
 
@@ -8299,9 +7226,6 @@ Praise Quant Tweak Sessions Attendees: Note taker: (the note taker is responsibl
 
 [https://lh3.googleusercontent.com/i0ofiQkVGzjr8SyVmwWTiqqamLs0jhUxKN0yjrSMjEoc61YoNaBijrku8j5nZL-NyKHzRdvtrpjDfw=w1200-h630-p](https://lh3.googleusercontent.com/i0ofiQkVGzjr8SyVmwWTiqqamLs0jhUxKN0yjrSMjEoc61YoNaBijrku8j5nZL-NyKHzRdvtrpjDfw=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8334,9 +7258,7 @@ Oh @liviade I think I didn't tag enough people, but let's use yours
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _27-Jan-22 01:00 PM_:
-oh, you did one too? sorry i didnt see
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50>
+oh, you did one too? sorry i didnt see <img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=20 height=20>
 
 where is it?
 
@@ -8367,9 +7289,6 @@ ok haha
 _27-Jan-22 01:02 PM_:
 Yours is cooler
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f609.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50>
-
-1
 
 <h3>metaverde <img src="https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png" width=25 height=25></h3>
 
@@ -8405,9 +7324,6 @@ _31-Jan-22 08:38 AM_:
 
 we have one unanimous time slot so far! Thursday before the community call - I hope this works for you @kristofer @Zeptimus @MS
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f919.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -8427,9 +7343,6 @@ _01-Feb-22 08:50 AM_:
 
 thanks! I added to the calendar
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -8446,9 +7359,7 @@ Is that 7pm CET right?
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _02-Feb-22 10:11 AM_:
-Hi all! Welcome to the weekly Rewards WG meeting today at 20:00 CET / 2PM EST.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Hi all! Welcome to the weekly Rewards WG meeting today at 20:00 CET / 2PM EST. <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates: - Praise bot
 
@@ -8480,13 +7391,9 @@ On hold: - SourceCred meeting tracker bot
 
 More items for the agenda? Add to the agenda doc:
 
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
-
-W E L C O M E
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+W E L C O M E <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 (edited)
 
@@ -8510,9 +7417,6 @@ _03-Feb-22 08:15 AM_:
 
 It looks like the reward board DAO is missing the transactions App for aragon - I'll be working on installing it and will eventually need to pass a vote - This will allow use to send out rewards via a CSV file and eliminate the technical overhead of having to continuously work with EVM-crispr
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-5
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -8560,9 +7464,6 @@ _03-Feb-22 02:07 PM_:
 
 @Vyvy-vi can't seem to tag the role @Reward Board Members
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -8587,15 +7488,10 @@ Disaster Girl
 
 ![https://i.imgflip.com/63zi00.jpg](https://i.imgflip.com/63zi00.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
-
-4
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_09-Feb-22 01:39 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f927.png" width=50 height=50>
+_09-Feb-22 01:39 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f927.png" width=20 height=20>
 
 Hi all! I won't make it to the Rewards System WG meeting today, sorry for the late notice! (have to take care of cranky kids who got the cold and wont sleep). Would someone like to step in and run the meeting?
 
@@ -8603,16 +7499,12 @@ Hi all! I won't make it to the Rewards System WG meeting today, sorry for the la
 
 kristofer
 
-[ Hi all! I won't make it to the Rewards System WG meeting today, sorry for the late notice! (have to take care of cranky kids who got the cold and wont sleep). Would someone like to step in and run the meeting?](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f927.png" width=50 height=50>
+[ Hi all! I won't make it to the Rewards System WG meeting today, sorry for the late notice! (have to take care of cranky kids who got the cold and wont sleep). Would someone like to step in and run the meeting?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f927.png" width=20 height=20>
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _09-Feb-22 02:26 PM_:
-Oh! I hope they feel better soon
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50>
+Oh! I hope they feel better soon <img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=20 height=20>
 
 We had a short sync because many people that could give updates weren't here. I added notes to the github issues - but here is a short summary: @Nuggan is almost closing the review of praise issue. @Juankbell praise was being captured, the issue was with the emojis in the bot. there was one praise from acidlazer that weren't captured, Nuggan will look more into it but it sounds like none of this problems will happen with the new bot @Vyvy-vi created @Zeptimus will host the call for quantifiers to give feedback tomorrow after the community call @mateodaza how is the progress with the sourcecred params? The action item from last call was to get more input from sourcecred folks to solve the questions, and have another meeting this week. Are we still meeting tomorrow? Is there anything we can help with? @kristofer do we have a date for the new test quant? the one we'll do internally?
 
@@ -8620,9 +7512,7 @@ We had a short sync because many people that could give updates weren't here. I 
 
 liviade
 
-[Oh! I hope they feel better soon  We had a short sync because many people that could give updates weren't here. I added notes to the github issues - but here is a short summary: @Nuggan is almost closing the review of praise issue. @Juankbell praise was being captured, the issue was with the emojis in the bot. there was one praise from acidlazer that weren't captured, Nuggan will look more into it but it sounds like none of this problems will happen with the new bot @Vyvy-vi created @Zeptimus will host the call for quantifiers to give feedback tomorrow after the community call @mateodaza how is the progress with the sourcecred params? The action item from last call was to get more input from sourcecred folks to solve the questions, and have another meeting this week. Are we still meeting tomorrow? Is there anything we can help with? @kristofer do we have a date for the new test quant? the one we'll do internally?](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=50 height=50>
+[Oh! I hope they feel better soon  We had a short sync because many people that could give updates weren't here. I added notes to the github issues - but here is a short summary: @Nuggan is almost closing the review of praise issue. @Juankbell praise was being captured, the issue was with the emojis in the bot. there was one praise from acidlazer that weren't captured, Nuggan will look more into it but it sounds like none of this problems will happen with the new bot @Vyvy-vi created @Zeptimus will host the call for quantifiers to give feedback tomorrow after the community call @mateodaza how is the progress with the sourcecred params? The action item from last call was to get more input from sourcecred folks to solve the questions, and have another meeting this week. Are we still meeting tomorrow? Is there anything we can help with? @kristofer do we have a date for the new test quant? the one we'll do internally?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f917.png" width=20 height=20>
 
 <h3>mateodaza <img src="https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png" width=25 height=25></h3>
 
@@ -8645,9 +7535,7 @@ sounds like @hz was willing to help, can you contact him? Maybe it's better to h
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _16-Feb-22 01:20 PM_:
-Hi! Welcome to the weekly Rewards WG meeting today at 20:00 CET / 2PM EST.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Hi! Welcome to the weekly Rewards WG meeting today at 20:00 CET / 2PM EST. <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Theme:
 
@@ -8655,13 +7543,9 @@ Meeting room: reward-system voice channel Theme:
 
 Status updates: - Praise frontend / backend updates @kristofer @Nebs - Praise bot @Vyvy-vi - First quant, preparations and execution @mitch (🍔, 🍔) - SourceCred pollen bot @hz @mateodaza On hold: - Praise revision @Nuggan @MS - SourceCred meeting tracker bot @Vyvy-vi - R.A.A.D - Rewards Allocation Analysis & Distribution@Nuggan @MS @🐙 octopus More items for the agenda? Add to the agenda doc:
 
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50>
-
-W E L C O M E
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50>
+W E L C O M E <img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=20 height=20>
 
 (edited)
 
@@ -8671,17 +7555,11 @@ W E L C O M E
 
 kristofer
 
-[Hi! Welcome to the weekly Rewards WG meeting today at 20:00 CET / 2PM EST.  Meeting room: reward-system voice channel Theme: **Is it time to plane for the first real quant?!** Status updates: - Praise frontend / backend updates @kristofer @Nebs - Praise bot @Vyvy-vi - First quant, preparations and execution @mitch (🍔, 🍔) - SourceCred pollen bot @hz @mateodaza On hold: - Praise revision @Nuggan @MS - SourceCred meeting tracker bot @Vyvy-vi - R.A.A.D - Rewards Allocation Analysis & Distribution@Nuggan @MS @🐙 octopus More items for the agenda? Add to the agenda doc:](about:blank#)
+[Hi! Welcome to the weekly Rewards WG meeting today at 20:00 CET / 2PM EST.  Meeting room: reward-system voice channel Theme: **Is it time to plane for the first real quant?!** Status updates: - Praise frontend / backend updates @kristofer @Nebs - Praise bot @Vyvy-vi - First quant, preparations and execution @mitch (🍔, 🍔) - SourceCred pollen bot @hz @mateodaza On hold: - Praise revision @Nuggan @MS - SourceCred meeting tracker bot @Vyvy-vi - R.A.A.D - Rewards Allocation Analysis & Distribution@Nuggan @MS @🐙 octopus More items for the agenda? Add to the agenda doc:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=20 height=20>
 
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50>
-
-W E L C O M E
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=50 height=50>
+W E L C O M E <img src="https://twemoji.maxcdn.com/2/72x72/1f916.png" width=20 height=20>
 
 (edited)
 
@@ -8691,9 +7569,6 @@ _16-Feb-22 04:17 PM_:
 
 sorry guys I didnt make this one - ETHDenver madness! I am here to coordinate async
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 <h3>bends <img src="https://cdn.discordapp.com/avatars/805467270762856490/a8cb02682bdcc263545a6fe1cf21de89.png" width=25 height=25></h3>
 
@@ -8721,21 +7596,14 @@ All praise data is accessible in the spreadsheet the current bot uses. [https://
 
 Discord Praise Bot Sheet
 
-Sheet1 TO,FROM,REASON,SERVER,DATE,CHANNEL Kris#8703,rdfbbx#6437,for successful google api magic
+Sheet1 TO,FROM,REASON,SERVER,DATE,CHANNEL Kris#8703,rdfbbx#6437,for successful google api magic <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
-
-,Token Engineering Commons,Jan-27-2021,general rdfbbx#6437,Kris#8703,for his long late nights staying up debugging and waiting for responses from me
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+,Token Engineering Commons,Jan-27-2021,general rdfbbx#6437,Kris#8703,for his long late nights staying up debugging and waiting for responses from me <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 ,Token Engineering Commons,Jan-27-2021,genera...
 
 [https://lh3.googleusercontent.com/aKfnfTLli0zV4S4ZwoW9zm5_HZlpWLFPINwYkzjZVXz8I7uSZTDk3HWQPUo4BfMHjvwFm_drlTiibQ=w1200-h630-p](https://lh3.googleusercontent.com/aKfnfTLli0zV4S4ZwoW9zm5_HZlpWLFPINwYkzjZVXz8I7uSZTDk3HWQPUo4BfMHjvwFm_drlTiibQ=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fb.png" width=50 height=50>
-
-1
 
 <h3>osycross(🦎🦎) <img src="https://cdn.discordapp.com/avatars/746649091672637460/dc6a99993b76d5eab01fa3af8fa57326.png" width=25 height=25></h3>
 
@@ -8764,9 +7632,7 @@ Developing a bot/system for tracking Twitter activity is on our todo-list. Work 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _23-Feb-22 10:20 AM_:
-Hi! Welcome to the weekly Rewards WG meeting today at 20:00 CET / 2PM EST.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Hi! Welcome to the weekly Rewards WG meeting today at 20:00 CET / 2PM EST. <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel
 
@@ -8796,9 +7662,6 @@ Context Hey everyone! We have finally finished with @hernandoagf a report on Sou
 
 ![https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/2X/c/ce389c10246584ccb795578e7333d9cbf0e0daed.png](https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/2X/c/ce389c10246584ccb795578e7333d9cbf0e0daed.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -8820,13 +7683,9 @@ _23-Feb-22 05:44 PM_:
 
 ![https://pbs.twimg.com/profile_images/1133711944857325568/KVQkeK5__400x400.png](https://pbs.twimg.com/profile_images/1133711944857325568/KVQkeK5__400x400.png)
 
-[#TokenEngineering (@tokengineering)](https://twitter.com/tokengineering)
+[#TokenEngineering (@tokengineering)](https://twitter.com/tokengineering) <img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f680.png" width=50 height=50>
-
-Don't miss the DAO Rewards Systems Final Presentation on February 24th!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c5.png" width=50 height=50>
+Don't miss the DAO Rewards Systems Final Presentation on February 24th! <img src="https://twemoji.maxcdn.com/2/72x72/1f4c5.png" width=20 height=20>
 
 Mark your calendars!:
 
@@ -8840,9 +7699,6 @@ Mark your calendars!:
 
 Twitter • 22-Feb-22 09:09 PM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50>
-
-1
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -8850,9 +7706,6 @@ _24-Feb-22 09:25 AM_:
 
 @kristofer @liviade asked @s_ben from SourceCred and he's down to discuss SC params
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
-
-2
 
 everyone interested please fill your availability here [https://lettucemeet.com/l/ZXo97](https://lettucemeet.com/l/ZXo97)
 
@@ -8902,9 +7755,6 @@ _24-Feb-22 08:14 PM_:
 
 I filled in as many as I could definitively find. Still missing ~50% though. Were all the users in the TEC discord, or were some from other discords?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
 
@@ -8918,9 +7768,6 @@ _24-Feb-22 10:28 PM_:
 
 added avail. excited to dig into SC params with ya!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png](https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png)
 
@@ -9018,13 +7865,7 @@ great, thanks!
 
 so if everyone is fine with that i scheduled it for this Monday @ 8PM UTC
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4c6.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-2
 
 @mateodaza @s_ben
 
@@ -9040,9 +7881,6 @@ _25-Feb-22 05:31 PM_:
 
 can you make a google calendar invite?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f919.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
 
@@ -9056,9 +7894,6 @@ _25-Feb-22 05:34 PM_:
 
 Works for me too
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
@@ -9124,9 +7959,6 @@ _25-Feb-22 06:14 PM_:
 
 that would be nice, thanks!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
 
@@ -9140,9 +7972,6 @@ _25-Feb-22 06:39 PM_:
 
 It has been added. Have the Reward-Systems channel as the location.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -9162,13 +7991,7 @@ _26-Feb-22 04:18 PM_:
 
 List is filled out! Note there is one user who has been deleted, I put a comment on the table
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f389.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9be.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -9216,9 +8039,6 @@ i don't know if this has been discussed before but talking again about the moder
 
 just so everyone knows what is accepted and what's not so that moderators and such can also act in accordance and prepare for those situations
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 maybe just a point of discussion for the next call
 
@@ -9237,9 +8057,7 @@ mitch (🍔, 🍔)
 <h3>Nuggan <img src="https://cdn.discordapp.com/avatars/714915268329078894/ad7a1114be28156238c6ccca368d16a5.png" width=25 height=25></h3>
 
 _01-Mar-22 03:07 PM_:
-There are some changes that need to be made, I'll see if I can push them tomorrow and share
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+There are some changes that need to be made, I'll see if I can push them tomorrow and share <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
@@ -9256,21 +8074,13 @@ And we also need to change the export output format somewhat.
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _02-Mar-22 07:21 AM_:
-A few weeks back when the Praise database was emptied, it was hacked.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
+A few weeks back when the Praise database was emptied, it was hacked. <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=20 height=20>
 
 Found this message in the DB:
 
 All your data is a backed up. You must pay 0.02 BTC to 17jHiu7FGUX8xcotaxBnxnNZRTqU86kr8b 48 hours for recover it. After 48 hours expiration we will leaked and exposed all your data. In case of refusal to pay, we will contact the General Data Protection Regulation, GDPR and notify them that you store user data in an open form and is not safe. Under the rules of the law, you face a heavy fine or arrest and your base dump will be dropped from our server! You can buy bitcoin here, does not take much time to buy https://localbitcoins.com or https://buy.moonpay.io/ After paying write to me in the mail with your DB IP: recmydb+1lsgt@onionmail.org and you will receive a link to download your database dump.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f923.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -9288,9 +8098,7 @@ Sorry i couldn't join, is there a recording of it?
 
 kristofer
 
-[A few weeks back when the Praise database was emptied, it was hacked.  Found this message in the DB:](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
+[A few weeks back when the Praise database was emptied, it was hacked.  Found this message in the DB:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=20 height=20>
 
 All your data is a backed up. You must pay 0.02 BTC to 17jHiu7FGUX8xcotaxBnxnNZRTqU86kr8b 48 hours for recover it. After 48 hours expiration we will leaked and exposed all your data. In case of refusal to pay, we will contact the General Data Protection Regulation, GDPR and notify them that you store user data in an open form and is not safe. Under the rules of the law, you face a heavy fine or arrest and your base dump will be dropped from our server! You can buy bitcoin here, does not take much time to buy https://localbitcoins.com or https://buy.moonpay.io/ After paying write to me in the mail with your DB IP: recmydb+1lsgt@onionmail.org and you will receive a link to download your database dump.
 
@@ -9300,21 +8108,13 @@ _02-Mar-22 09:48 AM_:
 
 Hahaha wow, little did they know that we are all about transparency
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f606.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
 kristofer
 
-[A few weeks back when the Praise database was emptied, it was hacked.  Found this message in the DB:](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=50 height=50>
+[A few weeks back when the Praise database was emptied, it was hacked.  Found this message in the DB:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f602.png" width=20 height=20>
 
 All your data is a backed up. You must pay 0.02 BTC to 17jHiu7FGUX8xcotaxBnxnNZRTqU86kr8b 48 hours for recover it. After 48 hours expiration we will leaked and exposed all your data. In case of refusal to pay, we will contact the General Data Protection Regulation, GDPR and notify them that you store user data in an open form and is not safe. Under the rules of the law, you face a heavy fine or arrest and your base dump will be dropped from our server! You can buy bitcoin here, does not take much time to buy https://localbitcoins.com or https://buy.moonpay.io/ After paying write to me in the mail with your DB IP: recmydb+1lsgt@onionmail.org and you will receive a link to download your database dump.
 
@@ -9339,9 +8139,7 @@ I don't believe there is.
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _02-Mar-22 01:59 PM_:
-Sorry for the last minute reminder about meeting starting in like 2 minutes. Welcome all to the Rewards WG Weekly meeting!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Sorry for the last minute reminder about meeting starting in like 2 minutes. Welcome all to the Rewards WG Weekly meeting! <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel On the agenda: - First quant - The second SC Params session Status updates: - Praise frontend / backend updates @kristofer @Nebs @mattyjee - Praise bot @Vyvy-vi - First quant, preparations and execution @mitch (🍔, 🍔) - SourceCred pollen bot @hz @mateodaza On hold: - Praise revision @Nuggan @MS - SourceCred meeting tracker bot @Vyvy-vi - R.A.A.D - Rewards Allocation Analysis & Distribution@Nuggan @MS @🐙 octopus More items for the agenda? Add to the agenda doc:
 
@@ -9388,9 +8186,7 @@ Okay, so I'll wait for the second round! Thanks.
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _09-Mar-22 11:03 AM_:
-Welcome all to the Rewards WG Weekly meeting today at 20:00 CET.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Welcome all to the Rewards WG Weekly meeting today at 20:00 CET. <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel
 
@@ -9498,13 +8294,7 @@ Soo, the new config for the sourcecred instance is up! These are the main change
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/951231649880895588/unknown.png](https://cdn.discordapp.com/attachments/831192353812381715/951231649880895588/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png](https://cdn.discordapp.com/avatars/692168538181599232/5bb4158c7b7e6ebbb24d163e59150384.png)
 
@@ -9534,9 +8324,6 @@ _10-Mar-22 03:17 AM_:
 
 Let's sync up with metadreamer to learn status of metacred.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -9553,18 +8340,14 @@ liviade
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
 _13-Mar-22 03:00 AM_:
-Hi Liviade
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=50 height=50>
+Hi Liviade <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=20 height=20>
 
 Nice to be here. How do you register for Praise and Sourcecred? From my experience, I get praise by being in discord and sourcecred by being on github.
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
 _14-Mar-22 10:54 AM_:
-@kristofer
-
-<img src="https://twemoji.maxcdn.com/2/72x72/261d.png" width=50 height=50>
+@kristofer <img src="https://twemoji.maxcdn.com/2/72x72/261d.png" width=20 height=20>
 
 ️ do you know?
 
@@ -9572,9 +8355,7 @@ _14-Mar-22 10:54 AM_:
 
 Adam Stallard
 
-[@kristofer ️ do you know?](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/261d.png" width=50 height=50>
+[@kristofer ️ do you know?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/261d.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -9591,9 +8372,7 @@ kristofer
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _14-Mar-22 02:28 PM_:
-So, no interaction between SC and Praise when it comes to Identities and proofs. Long term dream would be a centralised decentralised Identity management solution both SC and Praise can tap into. Perhaps running on Ceramic
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+So, no interaction between SC and Praise when it comes to Identities and proofs. Long term dream would be a centralised decentralised Identity management solution both SC and Praise can tap into. Perhaps running on Ceramic <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 (edited)
 
@@ -9601,9 +8380,7 @@ So, no interaction between SC and Praise when it comes to Identities and proofs.
 
 kristofer
 
-[So, no interaction between SC and Praise when it comes to Identities and proofs. Long term dream would be a centralised decentralised Identity management solution both SC and Praise can tap into. Perhaps running on Ceramic   (edited)](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+[So, no interaction between SC and Praise when it comes to Identities and proofs. Long term dream would be a centralised decentralised Identity management solution both SC and Praise can tap into. Perhaps running on Ceramic   (edited)](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -9611,9 +8388,6 @@ _14-Mar-22 02:32 PM_:
 
 In the short term I think we would be super happy to achieve something like this: - Praise and SC exports data - We merge that data and calculate rewards - We end up with a list of eth addresses and amounts - Run that list through BrightId - Only distribute TEC tokens to BrightId verified users on that list - Mint a separate reputation token to those users as well - Use that rep token for quadratic voting @liviade @griff (💜, 💜) would that cover our need in the short term? (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -9671,9 +8445,6 @@ _15-Mar-22 06:12 AM_:
 
 I think it would still be good to have that data for analysis purposes, and maybe folks could "redeem" their score once they are activated. But i don't know how that looks technically
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -9687,9 +8458,6 @@ _15-Mar-22 07:18 AM_:
 
 For SourceCred: Adding the ability to verify BrightId using the onboarding bot is in theory doable. It is not super easy though and it is unclear what the verification would be used for. If we want cred and grain to be calculated only for verified users that would require a significant change to the core SC codebase. For Praise: We want it to be possible to praise anyone, even people outside of the community. So, verifying praise receivers is not an option. Verifying the senders could be done. But then again, the purpose needs to be clear. If we just want to mint the TEC REP token for voting, the method I proposed will work well and be fairly simple.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png](https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png)
 
@@ -9797,9 +8565,6 @@ _15-Mar-22 11:13 AM_:
 
 afaik it's for quadratic voting
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>Adam Stallard <img src="https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png" width=25 height=25></h3>
 
@@ -9831,9 +8596,6 @@ yeah, it's on snapshot. The reason why I don't think it's a good idea to add the
 
 also because we want the rep to be tied with the rewards score, which I think gives the message that if you are receiving both TEC and rep tokens is because you can engage in governance
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -9970,9 +8732,6 @@ _15-Mar-22 11:52 AM_:
 
 wouldn't it be possible for this to happen at the activation phase, but not to interfere in the data gathering?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png](https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png)
 
@@ -9998,9 +8757,6 @@ _15-Mar-22 11:52 AM_:
 
 correct - but you can still receive praise and grain nonetheless
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -10050,9 +8806,6 @@ _15-Mar-22 11:56 AM_:
 
 Ok, then let's make the decision based on which is a better user flow. You're welcome to try out BrightID discord bot [https://github.com/ShenaniganDApp/brightid-discord-bot](https://github.com/ShenaniganDApp/brightid-discord-bot) to see that flow. You can get an idea of how the "linking" on a web page flow looks here [https://idchain.one/begin](https://idchain.one/begin) . The first option would need a mapping of discord ids to eth addresses, the second one collects eth addresses on the page.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png" width=50 height=50>
-
-1
 
 The first option "just works" with no additional help from the BrightID integration team. For the second option, we'd need to register TEC as an "app" in BrightID, but we're happy to do that.
 
@@ -10068,17 +8821,8 @@ _15-Mar-22 12:05 PM_:
 
 thanks so much for your help Adam! our working group has a sync tomorrow so we can discuss all this and find the best approach
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-1
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f60e.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -10120,16 +8864,11 @@ About integrating BrightID with the onboarding bot... I think that process can d
 
 We should maybe discuss more about this (esp. with some input from communitas)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _16-Mar-22 09:11 AM_:
-It is Wednesday again, welcome all to the Rewards WG Weekly meeting! ⏰ Time: 20:00 CET
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+It is Wednesday again, welcome all to the Rewards WG Weekly meeting! ⏰ Time: 20:00 CET <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel On the agenda: Status updates -
 
@@ -10231,9 +8970,6 @@ _16-Mar-22 03:26 PM_:
 
 it would definitely not be a boundary for server entry - the only barrier would be to receive TEC tokens in the reward distribution
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
 
@@ -10272,9 +9008,7 @@ adding the verification link to the TEC general onboarding bot would be great (e
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 _16-Mar-22 04:03 PM_:
-Oh, alright. I think we could certainly add it the onboarding bot
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
+Oh, alright. I think we could certainly add it the onboarding bot <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=20 height=20>
 
 - though, that might add more steps for people that change their wallets
 
@@ -10394,9 +9128,6 @@ _16-Mar-22 04:11 PM_:
 
 Isn’t that the same(?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
@@ -10556,9 +9287,6 @@ the only difference would be for new members. up until the hatch we had a proces
 
 I think we should have a forum post about this @Vyvy-vi you're right. We were just investigating if it was even possible at first
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -10622,9 +9350,6 @@ very timely question @solsista ! Kristofer and I had a similar thought yesterday
 
 hope you can join!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 [https://calendar.google.com/event?action=TEMPLATE&tmeid=NzExNW42ajdtNnZza3RnNHNrY2F1cWpnZjYgY19oOXZjbHFzNHRxcTVzdmRzZjNmMWxlc3NsNEBn&tmsrc=c_h9vclqs4tqq5svdsf3f1lessl4%40group.calendar.google.com](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzExNW42ajdtNnZza3RnNHNrY2F1cWpnZjYgY19oOXZjbHFzNHRxcTVzdmRzZjNmMWxlc3NsNEBn&tmsrc=c_h9vclqs4tqq5svdsf3f1lessl4%2540group.calendar.google.com)
 
@@ -10638,13 +9363,7 @@ _17-Mar-22 12:27 PM_:
 
 It might be interesting to "tax" working groups so that working group requests also fund the reward system
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4a1.png" width=50 height=50>
-
-1
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -10667,9 +9386,7 @@ griff (💜, 💜)
 <h3>solsista <img src="https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png" width=25 height=25></h3>
 
 _17-Mar-22 12:52 PM_:
-taxman!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=50 height=50>
+taxman! <img src="https://twemoji.maxcdn.com/2/72x72/1f61b.png" width=20 height=20>
 
 but actually it would be good to learn how working groups could get analysis of their praise data - for that I would definitely pay taxes!
 
@@ -10786,31 +9503,16 @@ Contribute to CommonsBuild/tec-rewards-rounds development by creating an account
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _18-Mar-22 05:14 AM_:
-Hi everyone! The new praise bot will be a two part command. To interact with the praise bot you will type /praise. Then you add another command to send/give/dish the actual praise. Historically, we have been talking about "dishing" praise. It has a nice ring to it but for non english native speakers such as me, it is a bit unclear what "dish" actually means. "Sending" praise is clear and unambiguous but perhaps a bit.. formal? "Giving" praise. Also clear but less formal. I give you my praise. What will it be? Let's do a poll: 1️⃣ /praise dish 2️⃣ /praise send 3️⃣ /praise give --
+Hi everyone! The new praise bot will be a two part command. To interact with the praise bot you will type /praise. Then you add another command to send/give/dish the actual praise. Historically, we have been talking about "dishing" praise. It has a nice ring to it but for non english native speakers such as me, it is a bit unclear what "dish" actually means. "Sending" praise is clear and unambiguous but perhaps a bit.. formal? "Giving" praise. Also clear but less formal. I give you my praise. What will it be? Let's do a poll: 1️⃣ /praise dish 2️⃣ /praise send 3️⃣ /praise give -- <img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=50 height=50>
+- ---- <img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=20 height=20>
 
-- ----
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=50 height=50>
-
-- ----
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=50 height=50>
+- ---- <img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=20 height=20>
 
 (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/31-20e3.png" width=50 height=50>
 
-4
 
-<img src="https://twemoji.maxcdn.com/2/72x72/32-20e3.png" width=50 height=50>
-
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/33-20e3.png" width=50 height=50>
-
-2
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -10818,9 +9520,6 @@ _18-Mar-22 10:26 AM_:
 
 guys I need help - I'm losing my mind cat-herding quantifiers
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50>
-
-1
 
 Is it possible to put some priority on implementing a solution for replacing quantifiers? I would favour the quick solution of giving the admin the ability to directly swap out quantifiers during an active quant - transitioning to a better solution when we have the bandwidth and a concrete spec @kristofer @mattyjee (edited)
 
@@ -10906,9 +9605,6 @@ _18-Mar-22 02:46 PM_:
 
 I am not sure, I’m currently just an outsider interested in praise throwing ideas lol but thought if we’re going to do it and can do it so others can also implement that easily would be a nice feature though I don’t want to mess with whatever is already planned (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-2
 
 Specially now that I’ve seen quite a few discussions around reputation
 
@@ -10946,9 +9642,6 @@ _21-Mar-22 04:27 PM_:
 
 hey @kristofer @liviade @mitch (🍔, 🍔), the Community Specialist at GnosisDAO is looking at potentially implementing a reward system and they seem to be pretty sold on Praise. They're planning to have a meeting tomorrow at 6pm PST, would be great if any of you could join
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
 
@@ -11038,9 +9731,6 @@ _21-Mar-22 05:41 PM_:
 
 Sure, just asked them to coordinate another time. The conversation is public at the gc-validator channel if you want to get involved. [https://discord.gg/fcQSTXVT](https://discord.gg/fcQSTXVT)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fd.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png](https://cdn.discordapp.com/avatars/367747285842657290/6d502473aa856966c6be088c70b6503e.png)
 
@@ -11066,9 +9756,7 @@ _21-Mar-22 05:45 PM_:
 
 I really liked your suggestion to create a page like this for the TEC [https://idchain.one/begin/](https://idchain.one/begin/)
 
-I don't see us using the rep for anything else, but in case we need it could be nice to have everything separate from snapshot -- we had some challenges creating strategies for snapshot before
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=50 height=50>
+I don't see us using the rep for anything else, but in case we need it could be nice to have everything separate from snapshot -- we had some challenges creating strategies for snapshot before <img src="https://twemoji.maxcdn.com/2/72x72/1f62c.png" width=20 height=20>
 
 . it feels clean with the idchain page, and then crossing databases to see who is verified before minting the tokens in each round -- what do you think?
 
@@ -11084,9 +9772,6 @@ _21-Mar-22 07:51 PM_:
 
 I'd definitely be willing to contribute if we decide it makes sense. I think getting a few more DAOs using praise and starting to generate revenue to fund it's R&D would be an amazing step forward.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -11109,9 +9794,7 @@ mattyjee
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _22-Mar-22 12:42 PM_:
-+ 1!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
++ 1! <img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png](https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png)
 
@@ -11125,15 +9808,9 @@ _22-Mar-22 02:19 PM_:
 
 I fully support this idea! However, we should finish the MVP and have a solid, functioning Reward System before going on off tangents. Developer Bandwidth is so, so precious and we should focus to finish our first working product with all the bells and whistles.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 Giveth is going to throw down some fat stacks for a Reward System implementation (jeez we need to find a name for this thing)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
@@ -11171,9 +9848,6 @@ _22-Mar-22 09:48 PM_:
 
 just got off the call, they referenced Avado's Praise system (which seems to be the old version?) as a simpler one and they are down to implement it one at first to get the ball rolling and maybe update later. The scope for their reward system is smaller so seems like it shouldn't be much of an issue. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png](https://cdn.discordapp.com/avatars/884439603401089054/f7caa4c2273457926768c7d30f3896d7.png)
 
@@ -11187,16 +9861,11 @@ _23-Mar-22 09:05 AM_:
 
 not sure if its a proposal inverter since its being developed by one org instead of a joint collaboration. It could work though! Hopefully we're out in the world building reward systems for other DAOs before the PI is finished. I would love to see us negotiating contracts to build them piecemeal in other DAOs. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _23-Mar-22 02:24 PM_:
-Welcome all to the Rewards WG Weekly meeting today in ca 30 mins! ⏰ Time: 20:00 CET
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Welcome all to the Rewards WG Weekly meeting today in ca 30 mins! ⏰ Time: 20:00 CET <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel On the agenda: ### Status updates -
 
@@ -11270,9 +9939,6 @@ _23-Mar-22 04:03 PM_:
 
 maybe that can be looked into and replicated?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
-
-1
 
 though i believe they only store the cred data and it's only converted to HNY when you onboard, so if 1 cred = $1 when you made the contribution but 1 cred = $0.5 when you onboarded you'd be getting your rewards based on $0.5 per cred, not sure tho (edited)
 
@@ -11322,9 +9988,6 @@ kristofer, livi or mitch may answer that better but afaik the payments are going
 
 perhaps this one [https://github.com/bh2smith/safe-airdrop](https://github.com/bh2smith/safe-airdrop)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
 
@@ -11380,9 +10043,6 @@ _23-Mar-22 04:43 PM_:
 
 @kristofer Praise Quant 3 is finished! Round is closed and data has been exported locally
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -11390,9 +10050,6 @@ _23-Mar-22 04:44 PM_:
 
 i'm leaning towards rolling over $ tbh, though afaik we haven't had any issues so far with rolling over points on 1Hive (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2795.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -11402,9 +10059,6 @@ look at all these superstars
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/956292295559368804/unknown.png](https://cdn.discordapp.com/attachments/831192353812381715/956292295559368804/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-5
 
 ![https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png](https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png)
 
@@ -11470,9 +10124,6 @@ right now we're quantifying a month's worth of praise every week, I'm just talki
 
 after that it will be bi-weekly so much easier to keep track of
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
@@ -11491,9 +10142,7 @@ ah ok - that makes sense
 _25-Mar-22 03:28 AM_:
 We have retired the dev server and moved praise system to the right domain. When it is time to quant, redirect your attention to
 
-[https://praise.tecommons.org/](https://praise.tecommons.org/)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f448.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
+[https://praise.tecommons.org/](https://praise.tecommons.org/) <img src="https://twemoji.maxcdn.com/2/72x72/1f448.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
 Praise
 
@@ -11541,9 +10190,6 @@ _28-Mar-22 04:14 AM_:
 
 Hi, sorry if I am jumping in! I participated in 2 quants already and also assigned to the current quant. I thought that in order to enrich the learning process of quantifiers, theres have to be some kind of feedback. I know that there are quant tweaks, but it is not possible for every one to attend (as it is for me). If the line is not to go into mechanism design with incentive and such, and relay on the cultural community and social code, a viable thing will be an automated feedback, where a quantifier can review the results of quantifications of praises she reviewed, see the other quantifications done by other quantifier for the same praises. The access can be via the praise dashboard. Is there something like that on the road map? Another thing that can help, in cases where quantifiers got certain habits, like range of quants, and values of certain praises, is to use some clustering. A very cool mechanism that can do this is the Correlated Agreement mechanism, although it aims at certain incentive settings perhaps it could be altered to fit the current settings. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-2
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -11563,13 +10209,9 @@ THE QUANTIFIER ROLE The purpose of this role is to perform regular manual quanti
 
 ![https://forum.tecommons.org/uploads/default/original/1X/dd59ab67599a472e7a70e067fd64243e4f181d5c.png](https://forum.tecommons.org/uploads/default/original/1X/dd59ab67599a472e7a70e067fd64243e4f181d5c.png)
 
-Rules of Praise and Quantification
+Rules of Praise and Quantification <img src="https://twemoji.maxcdn.com/2/72x72/1f46f.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46f.png" width=50 height=50>
-
-Who can praise? Anyone who wishes to do so. This person should contact a Steward directly to request praise powers. Praise powers can be retrieved in case of malicious action - see the Community Covenant for reference.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49b.png" width=50 height=50>
+Who can praise? Anyone who wishes to do so. This person should contact a Steward directly to request praise powers. Praise powers can be retrieved in case of malicious action - see the Community Covenant for reference. <img src="https://twemoji.maxcdn.com/2/72x72/1f49b.png" width=20 height=20>
 
 What do we praise? Praise is a great signal to inform quality. The way each one of us judges what has quality is very sub...
 
@@ -11581,13 +10223,7 @@ _28-Mar-22 03:37 PM_:
 
 @kristofer @mattyjee can we swap out @Gideonro for @bear100 for the current quant? (Quant 4) Gideon reached out and said he is ill and bear100 just finished reading the onboarding documentation and is up for the task!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>bends <img src="https://cdn.discordapp.com/avatars/805467270762856490/a8cb02682bdcc263545a6fe1cf21de89.png" width=25 height=25></h3>
 
@@ -11646,9 +10282,7 @@ done
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _30-Mar-22 09:39 AM_:
-Welcome all to the Rewards WG Weekly meeting today. ⏰ Time: 20:00 CET
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Welcome all to the Rewards WG Weekly meeting today. ⏰ Time: 20:00 CET <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel
 
@@ -11684,9 +10318,7 @@ On the agenda: ### Status updates -
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
-_30-Mar-22 02:44 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+_30-Mar-22 02:44 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 something like Quadratic Praise?
 
@@ -11696,13 +10328,7 @@ _30-Mar-22 04:03 PM_:
 
 some thoughts for praise onboarding for quantifiers and praisers - suggest people attend a quant review call once before quantifying - quick guide on how to be more specific when praising. i.e avoid referring to big tasks like "all the work", separate different actions into different praises (don't praise one person for multiple things in the same command) try to be detailed about why you are showing gratitude to a particular task. - when quantifying - pay attention to what actions you value the most, share thoughts in the post quant sessions. - educate on duplicate praise - Tiers — praises should be aligned with our MVV. how to identify when something is unrelated to the TEC? - Educate about dismissing praise (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -11712,13 +10338,7 @@ New version of praise is online! The /forward command allows you to give praise 
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/959029994204577832/unknown.png](https://cdn.discordapp.com/attachments/831192353812381715/959029994204577832/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f-1f3fb.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -11741,9 +10361,7 @@ liviade
 <h3>iviangita <img src="https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png" width=25 height=25></h3>
 
 _31-Mar-22 11:42 AM_:
-Tagging @freshelle too, she's the one dishing Twitter and forum engagement praise now
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Tagging @freshelle too, she's the one dishing Twitter and forum engagement praise now <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -11757,9 +10375,6 @@ _31-Mar-22 03:30 PM_:
 
 Great, @Mount Manu you have permissions to /forward now. @iviangita @freshelle activate your accounts first using /activate and let me know which eth address you used. (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4aa-1f3fb.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -11785,9 +10400,7 @@ _01-Apr-22 12:45 AM_:
 
 Hey guys, we're planning to tweet some updates about the rewards system WG hard work, and we want to show a sneak peek of the RAD Dashboard! (edited)
 
-if you guys could provide me with some nice screenshot of it, that would be nice
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+if you guys could provide me with some nice screenshot of it, that would be nice <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
@@ -11839,31 +10452,22 @@ _01-Apr-22 05:18 PM_:
 
 There isn't a command as of yet for becoming a quantifier. You could reach out to a praise admin and request them to make you a quantifier.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/769621045489172480/5d0540617e5e5c0d66ec5ba30dd6b612.png](https://cdn.discordapp.com/avatars/769621045489172480/5d0540617e5e5c0d66ec5ba30dd6b612.png)
 
 EFRA
 
-[if you guys could provide me with some nice screenshot of it, that would be nice](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[if you guys could provide me with some nice screenshot of it, that would be nice](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _05-Apr-22 08:42 AM_:
-@Nuggan
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=50 height=50>
+@Nuggan <img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f446.png" width=20 height=20>
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _06-Apr-22 10:17 AM_:
-Welcome all to the Rewards WG Weekly meeting today. ⏰ Time: 20:00 CET
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Welcome all to the Rewards WG Weekly meeting today. ⏰ Time: 20:00 CET <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates: -
 
@@ -11891,13 +10495,9 @@ Meeting room: reward-system voice channel Status updates: -
 
 (Nuggan, Chuy, Zeptimus) Do you have more items for the agenda? Add to the agenda doc:
 
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f328.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f328.png" width=50 height=50>
-
-WELCOME
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+WELCOME <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/961268387273637889/TEC_Community_Call_Updates.png](https://cdn.discordapp.com/attachments/831192353812381715/961268387273637889/TEC_Community_Call_Updates.png)
 
@@ -11944,17 +10544,12 @@ enti
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _12-Apr-22 02:48 PM_:
-These are both two good features! Adding them to the list
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=50 height=50>
+These are both two good features! Adding them to the list <img src="https://twemoji.maxcdn.com/2/72x72/1f605.png" width=20 height=20>
 
 Potential new commands:
 
 /quantify apply /quantify pause "two weeks" /quantify quit
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>bends <img src="https://cdn.discordapp.com/avatars/805467270762856490/a8cb02682bdcc263545a6fe1cf21de89.png" width=25 height=25></h3>
 
@@ -11989,25 +10584,17 @@ Contribute to CommonsBuild/tec-rewards development by creating an account on Git
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _13-Apr-22 12:05 PM_:
-Welcome all to the Rewards WG Weekly meeting today. ⏰ Time: 20:00 CET
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Welcome all to the Rewards WG Weekly meeting today. ⏰ Time: 20:00 CET <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates: - RAD Dashboard (Nuggan, Zhiwei) - Streamlined dashboard - Praise (Vyvy-vi, Mattyjee, Nebs, Kristofer) - SourceCred -
 
-**No more SC organisation**
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f631.png" width=50 height=50>
+**No more SC organisation** <img src="https://twemoji.maxcdn.com/2/72x72/1f631.png" width=20 height=20>
 
 - Quantifications (Mitch) - Round 6 - Round 7 - Reward board (Kristofer) - First payout? - Share proposal for funds allocation with community - Onboarding / education (Liviade, Vyvy-vi, Edu??) - Communication / analysis / transparency (Nuggan, Chuy, Zeptimus) Do you have more items for the agenda? Add to the agenda doc:
 
-[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
+[https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13) <img src="https://twemoji.maxcdn.com/2/72x72/1f328.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f328.png" width=50 height=50>
-
-WELCOME
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=50 height=50>
+WELCOME <img src="https://twemoji.maxcdn.com/2/72x72/1f31e.png" width=20 height=20>
 
 (edited)
 
@@ -12061,20 +10648,12 @@ _19-Apr-22 11:48 AM_:
 
 Hello @CMD Burrito, @Huxwell, @trangnv, @bitsikka, @daojoiner, @patogit - Akik Takat, @Juliet Ӿ LexyLab, @divine, @QZ, @Yashmanso, @Fobey, @Amrik, @peyton, @Edgar Arellano, @AnaTech, @James - Aptos Labs, @mercedesrodsim, @joseacabrerav, @Vitor Marthendal, @solarmkd, @vicente.eth, @D8N1, @notsure1, @SteveWright, @giulioquarta, @barnabé, @Gary Latta, @gruad, @Lucas - DefiSafety, @Austin, @glocalvr, @Tarun Gupta - Coinshift, @sukanshi.eth - Coinshift, @irenioskamoska, @Lisa JY Tan, @Julio Holon, @Ata, @Deepcryptodive - GoodGhosting, @stephenreid321, @gijsspoor, @Peter (porobov.eth) 🤖 , @eli_, @Rudi, @BenoîtK, @METADREAMER 🐙, @isysoares, @justkassie, @Miles. If you are named here, is because we couldn't send you a private message to let you know that **we are about to send out TEC tokens that you have earned!**. In order to be able to receive it you need to connect your Discord handle with your Ethereum address. This can be done by activating your account on our Discord server. **1. Go to TEC Praise channel “#praise” 2. Type “/activate” 3. Follow the prompt to the Praise Dashboard and then sign the message with your web wallet to complete the activation! ✅** 4. If you have any question or problem, drop it here!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
 
-2
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
 _20-Apr-22 01:19 PM_:
-Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members ⏰ Time: 20:00 CET
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members ⏰ Time: 20:00 CET <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel
 
@@ -12112,9 +10691,7 @@ Meeting room: reward-system voice channel
 
 [https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
 
-See you soon!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=50 height=50>
+See you soon! <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=20 height=20>
 
 (edited)
 
@@ -12130,9 +10707,6 @@ _20-Apr-22 02:36 PM_:
 
 ![https://hackmd.io/images/media/HackMD-og.jpg](https://hackmd.io/images/media/HackMD-og.jpg)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-2
 
 draft for the forum post on quantifier disagreements. comments welcome!
 
@@ -12148,9 +10722,6 @@ _20-Apr-22 11:49 PM_:
 
 hi thanks for the reminder! just like to double check it is authenticity...too many discord hacks these days
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/378444088900321301/119809992e285d06993c0b3580bbc1a5.png](https://cdn.discordapp.com/avatars/378444088900321301/119809992e285d06993c0b3580bbc1a5.png)
 
@@ -12163,9 +10734,6 @@ Lin
 _21-Apr-22 05:01 AM_:
 @mitch (🍔, 🍔) can help confirming this
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/378444088900321301/119809992e285d06993c0b3580bbc1a5.png](https://cdn.discordapp.com/avatars/378444088900321301/119809992e285d06993c0b3580bbc1a5.png)
 
@@ -12185,9 +10753,6 @@ Acknowledge community contributions, build a culture of giving and gratitude.
 
 ![https://praise.tecommons.org/Share.png](https://praise.tecommons.org/Share.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>bear100 <img src="https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png" width=25 height=25></h3>
 
@@ -12213,9 +10778,6 @@ _22-Apr-22 12:38 PM_:
 
 just gave you the role
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>boonjue.eth <img src="https://cdn.discordapp.com/avatars/908799381229154314/041a1948b918ecd3ae58b5411222fbba.png" width=25 height=25></h3>
 
@@ -12241,9 +10803,6 @@ _22-Apr-22 03:46 PM_:
 
 What's the best way for quantifiers who don't have time to participate in the calls to know whether they're doing alright with their quantifications? If we're making mistakes, will we get some sort of feedback to let us know?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png](https://cdn.discordapp.com/avatars/343470788491476992/4ee572be9bb18b06c9292a97a2016cee.png)
 
@@ -12259,9 +10818,6 @@ _22-Apr-22 07:41 PM_:
 
 And if there is any feedback you would like to give, or anything you thought was interesting about the quantification please share here async, the more info we have the better
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/908799381229154314/041a1948b918ecd3ae58b5411222fbba.png](https://cdn.discordapp.com/avatars/908799381229154314/041a1948b918ecd3ae58b5411222fbba.png)
 
@@ -12293,13 +10849,9 @@ _24-Apr-22 12:07 PM_:
 
 Hey everyone! Following @zhiwei 's great analysis post I've taken the liberty to propose a revision of the Rules of Praise article on the forum - [https://forum.tecommons.org/t/rules-of-praise-and-quantification/667](https://forum.tecommons.org/t/rules-of-praise-and-quantification/667) Based on what we've learnt from the past few months of heavy quantification I think we can start educating the community on how to dish praise better. Let's start with a great base article and then we can start directing eyes towards it and distill some key concepts that we can send to @Praise Givers Looking for some more input on this first draft: [https://docs.google.com/document/d/1Ut_eAz8Z8AP1e-e27OhfdzSnqwvNHwi6dw_bmVU11NI/edit?usp=sharing](https://docs.google.com/document/d/1Ut_eAz8Z8AP1e-e27OhfdzSnqwvNHwi6dw_bmVU11NI/edit?usp=sharing) @liviade @Zeptimus @Nuggan @zhiwei @Gideonro @Maxwe11 @bear100 @PhilH @innov8tor3 - perhaps of interest to you
 
-Rules of Praise and Quantification
+Rules of Praise and Quantification <img src="https://twemoji.maxcdn.com/2/72x72/1f46f.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46f.png" width=50 height=50>
-
-Who can praise? Anyone who wishes to do so. This person should contact a Steward directly to request praise powers. Praise powers can be retrieved in case of malicious action - see the Community Covenant for reference.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49b.png" width=50 height=50>
+Who can praise? Anyone who wishes to do so. This person should contact a Steward directly to request praise powers. Praise powers can be retrieved in case of malicious action - see the Community Covenant for reference. <img src="https://twemoji.maxcdn.com/2/72x72/1f49b.png" width=20 height=20>
 
 What do we praise? Praise is a great signal to inform quality. The way each one of us judges what has quality is very sub...
 
@@ -12307,9 +10859,7 @@ What do we praise? Praise is a great signal to inform quality. The way each one 
 
 updated rules of praise
 
-###### tags: TEC (Rename doc to Rules and Guidelines of Praise) ##
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46f.png" width=50 height=50>
+###### tags: TEC (Rename doc to Rules and Guidelines of Praise) ## <img src="https://twemoji.maxcdn.com/2/72x72/1f46f.png" width=20 height=20>
 
 Who can praise? Anyone who wishes to do so. This person should contact a Steward directly to request praise powers. Praise powers can be retrieved in case of malicious action - see the [Community Covenant](
 
@@ -12319,13 +10869,7 @@ Who can praise? Anyone who wishes to do so. This person should contact a Steward
 
 [https://lh4.googleusercontent.com/EczuNa62-MAnWJRKbEARUjLYEiH3jKOCtzLfeq5S49Ii6E-yWqLVnY0zg7I3qwFib8uwEKN2BmDuXA=w1200-h630-p](https://lh4.googleusercontent.com/EczuNa62-MAnWJRKbEARUjLYEiH3jKOCtzLfeq5S49Ii6E-yWqLVnY0zg7I3qwFib8uwEKN2BmDuXA=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
 
-1
-
-<img src="https://twemoji.maxcdn.com/2/72x72/2714.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
@@ -12346,9 +10890,7 @@ tks so much! im taking care of it this week!
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _27-Apr-22 09:36 AM_:
-Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members ⏰ Time: 20:00 CET
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members ⏰ Time: 20:00 CET <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates - Praise (Vyvy-vi, Mattyjee, Nebs, Kristofer) - Demo new bot features /whoami, /help. - SourceCred (Mateo, Kristofer) - RAD Dashboard (Nuggan, Zhiwei) - Quantifications (Mitch) - Round 8 - Round 9 - Reward board (Kristofer) - Forum post out - Onboarding / education (Liviade, Vyvy-vi, Edu??) - Communication / analysis / transparency (Nuggan, Chuy, Zeptimus) Do you have more items for the agenda? Add to the agenda doc:
 
@@ -12368,9 +10910,7 @@ See you!
 
 kristofer
 
-[Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members ⏰ Time: 20:00 CET  Meeting room: reward-system voice channel Status updates - Praise (Vyvy-vi, Mattyjee, Nebs, Kristofer) - Demo new bot features /whoami, /help. - SourceCred (Mateo, Kristofer) - RAD Dashboard (Nuggan, Zhiwei) - Quantifications (Mitch) - Round 8 - Round 9 - Reward board (Kristofer) - Forum post out - Onboarding / education (Liviade, Vyvy-vi, Edu??) - Communication / analysis / transparency (Nuggan, Chuy, Zeptimus) Do you have more items for the agenda? Add to the agenda doc:](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+[Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members ⏰ Time: 20:00 CET  Meeting room: reward-system voice channel Status updates - Praise (Vyvy-vi, Mattyjee, Nebs, Kristofer) - Demo new bot features /whoami, /help. - SourceCred (Mateo, Kristofer) - RAD Dashboard (Nuggan, Zhiwei) - Quantifications (Mitch) - Round 8 - Round 9 - Reward board (Kristofer) - Forum post out - Onboarding / education (Liviade, Vyvy-vi, Edu??) - Communication / analysis / transparency (Nuggan, Chuy, Zeptimus) Do you have more items for the agenda? Add to the agenda doc:](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 [https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
 
@@ -12387,16 +10927,11 @@ See you!
 _27-Apr-22 11:43 AM_:
 I see the notion is not update yet but @chuygarcia.eth wants a moment to share about the tutorial storyboard
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f3fd.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _27-Apr-22 04:21 PM_:
-something really really great to have on the quant dashboard is a "flagging" option. maybe it's not so hard to do?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=50 height=50>
+something really really great to have on the quant dashboard is a "flagging" option. maybe it's not so hard to do? <img src="https://twemoji.maxcdn.com/2/72x72/1f601.png" width=20 height=20>
 
 There are some wrong praises that most people won't dismiss, it would be nice as a transparency feature to flag and add a note to them (edited)
 
@@ -12449,9 +10984,6 @@ innov8tor3
 _28-Apr-22 05:27 AM_:
 Hello innovator, this message was only for those folks who never connected their wallet to the praise system, I believe you have done it, therefore you didn't receive this notification
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png](https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png)
 
@@ -12465,9 +10997,6 @@ _28-Apr-22 10:55 AM_:
 
 forum contributions have been tracked by sourcecred
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 but twitter isn't being tracked now
 
@@ -12495,9 +11024,6 @@ _02-May-22 09:44 AM_:
 
 I implemented a strike system for quantifier attendance, I have been keeping track of quantifiers who have not quantified or partially quantified and I believe we should set some process for repercussions. It's important to keep an active quantifier pool so that we can have reliable and complete quants. System is as follows: total no show = 1 not quantified but notified an admin = 0.5 partial completion (>5% and <95% completion) = 0.5 2 strikes = removal from pool with notice full quantification removes 1 strike If you didn't quantify then the strike carries forward (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-3
 
 WDYT?
 
@@ -12530,15 +11056,10 @@ it goes to our list of graduated sanctions @Juankbell
 <h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
 _03-May-22 12:58 PM_:
-Hey team! Sorry for not attend the last call, tomorrow we want to share some advances of the upcoming reward systems video! Showing to you the script and storyboard so you can give us some feedback
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Hey team! Sorry for not attend the last call, tomorrow we want to share some advances of the upcoming reward systems video! Showing to you the script and storyboard so you can give us some feedback <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 @johnjonas @alantv @chuygarcia.eth (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>ryeder (they/them) <img src="https://cdn.discordapp.com/avatars/760638567562477649/b53f3ade4fad9b46ab53a9834cdf30b0.png" width=25 height=25></h3>
 
@@ -12578,9 +11099,7 @@ Reward Systems Storyboard
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _04-May-22 02:01 PM_:
-Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members ⏰ Time: 20:00 CET
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members ⏰ Time: 20:00 CET <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates - Praise (Vyvy-vi, Mattyjee, Nebs, Kristofer) - SourceCred (Mateo, Kristofer) - RAD Dashboard (Nuggan, Zhiwei) - Quantifications (Mitch) - Reward board (Kristofer) - Onboarding / education (Liviade, Vyvy-vi, Edu??) - Communication / analysis / transparency (Nuggan, Chuy, Zeptimus) Do you have more items for the agenda? Add to the agenda doc:
 
@@ -12607,9 +11126,7 @@ acidlazzer
 <h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
 _04-May-22 02:59 PM_:
-Here are the docs if you want to make some comments
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+Here are the docs if you want to make some comments <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png](https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png)
 
@@ -12629,9 +11146,6 @@ _08-May-22 06:45 PM_:
 
 FYI to all I will be on half-vacation this week (Monday-Friday)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f378.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -12654,9 +11168,7 @@ thanks for the feedback! 1. The actual calculated value of the duplicates will b
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _11-May-22 01:25 PM_:
-Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members ⏰ Time: 20:00 CET
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members ⏰ Time: 20:00 CET <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates: - Communication / analysis / transparency @Nuggan @chuygarcia.eth @Zeptimus @acidlazzer -
 
@@ -12666,9 +11178,7 @@ Meeting room: reward-system voice channel Status updates: - Communication / anal
 
 [https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
 
-See you!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+See you! <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/973999419080974396/unknown.png](https://cdn.discordapp.com/attachments/831192353812381715/973999419080974396/unknown.png)
 
@@ -12684,9 +11194,6 @@ _11-May-22 04:25 PM_:
 
 okay nevermind sorry i misunderstood 1 - that is a bug. I'll make a ticket to address in the next release.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -12694,9 +11201,6 @@ _13-May-22 12:47 AM_:
 
 First Rewards Round Payout is done! This is huge guys!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9e1.png" width=50 height=50>
-
-4
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
@@ -12763,9 +11267,7 @@ I proposed no cumulative tracking as of now. Instead we treat each period separa
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _18-May-22 01:38 PM_:
-Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members ⏰ Time: 20:00 CET
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members ⏰ Time: 20:00 CET <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates: -
 
@@ -12799,17 +11301,12 @@ Do you have more items for the agenda? Add to the agenda doc:
 
 [https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
 
-See you!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+See you! <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 (edited)
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/976539247614001203/unknown.png](https://cdn.discordapp.com/attachments/831192353812381715/976539247614001203/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
@@ -12821,13 +11318,9 @@ _20-May-22 05:20 PM_:
 
 [Token Engineering Commons (@tecmns)](https://twitter.com/tecmns)
 
-The Rewards System working group has been on fire! Have you seen our Praise Dashboard lately?
+The Rewards System working group has been on fire! Have you seen our Praise Dashboard lately? <img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f440.png" width=50 height=50>
-
-This helps us quantify all the contributions of our community members, check the last updates at our youtube channel!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4f9.png" width=50 height=50>
+This helps us quantify all the contributions of our community members, check the last updates at our youtube channel! <img src="https://twemoji.maxcdn.com/2/72x72/1f4f9.png" width=20 height=20>
 
 [https://t.co/yM3ZoRFdjK](https://t.co/yM3ZoRFdjK)
 
@@ -12853,9 +11346,6 @@ _23-May-22 09:50 AM_:
 
 Currently we are catching up praise periods 1-10 distributing once a week. Once we have worked through the backlog, token distributions will be in sync with the quant schedule - bi-weekly.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
-
-1
 
 <h3>johnjonas <img src="https://cdn.discordapp.com/avatars/719350263777067108/03df8411f2c42a2fd306e74ad7df4fc2.png" width=25 height=25></h3>
 
@@ -12872,9 +11362,7 @@ REWARD SYSTEMS By TEC EXT. ROBOT WORLD - SUNSET "DAY 1" (we show this with a cal
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
 _25-May-22 01:09 PM_:
-could use more votes here
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+could use more votes here <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 [https://forum.gnosis.io/t/gip-48-should-gnosisdao-implement-the-praise-reward-system-around-the-gnosis-chain-validator-program/5101](https://forum.gnosis.io/t/gip-48-should-gnosisdao-implement-the-praise-reward-system-around-the-gnosis-chain-validator-program/5101)
 
@@ -12884,24 +11372,17 @@ GIP-48: Should GnosisDAO implement the Praise reward system around the Gnosis Ch
 
 ![https://forum.gnosis.io/uploads/default/original/2X/3/3e78f052745b18311790f1e903ed16b79d5caffe.png](https://forum.gnosis.io/uploads/default/original/2X/3/3e78f052745b18311790f1e903ed16b79d5caffe.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-2
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _25-May-22 01:48 PM_:
-Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members ⏰ Time: 20:00 CET
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=50 height=50>
+Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members ⏰ Time: 20:00 CET <img src="https://twemoji.maxcdn.com/2/72x72/1f46b.png" width=20 height=20>
 
 Meeting room: reward-system voice channel Status updates: - Quantifications @mitch (🍔, 🍔) - Reward board @kristofer - RAD Dashboard @Nuggan @zhiwei - Praise @Vyvy-vi @mattyjee @Nebs @VitorNunes @pKrepe @kristofer - Communication / analysis / transparency @Nuggan @chuygarcia.eth @Zeptimus @acidlazzer Paused: - Onboarding / education - SourceCred Do you have more items for the agenda? Add to the agenda doc:
 
 [https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
 
-See you!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50>
+See you! <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f331.png" width=20 height=20>
 
 (edited)
 
@@ -12915,9 +11396,6 @@ _25-May-22 01:59 PM_:
 
 Hi. Just in case this comes up in your call today, here is a short description of what we want to experiment with for Sampo working group, and what I've mentioned to @mitch (🍔, 🍔), @Vyvy-vi, and @liviade (her idea about using the channel, actually) : * Sampo team members do Praise in Sampo channel * Praise quantification happens normally * Sampo has a bit of supplementary funds in our budget. Once a month, we pull the channel-specific data into a spreadsheet (or some other mechanism) and allocate those funds based on Praise feedback to boost the effects of the Praise. * We run this as a test for 3 months to see if it actually works and come back to Rewards w/ our findings.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2705.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -12925,9 +11403,6 @@ _25-May-22 02:00 PM_:
 
 I added to the our agenda too ✨
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
-
-1
 
 <h3>enti <img src="https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png" width=25 height=25></h3>
 
@@ -12947,9 +11422,6 @@ _31-May-22 01:21 PM_:
 
 hey it was in soft gov because the metrics are not all related to the reward system
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 Original message was deleted.
 
@@ -12971,16 +11443,8 @@ _01-Jun-22 01:59 PM_:
 
 sure, I got it
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 Welcome all to the Rewards WG Weekly meeting today. @Reward Board Members Time: NOW Meeting room: reward-system voice channel Status updates: - Quantifications @mitch (
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f354.png" width=50 height=50>
-
-,
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f354.png" width=50 height=50>
+ <img src="https://twemoji.maxcdn.com/2/72x72/1f354.png" width=20 height=20>
 
 ) - Reward board @kristofer - RAD Dashboard @Nuggan @zhiwei - Praise @Vyvy-vi @mattyjee @Nebs @VitorNunes @pKrepe @kristofer - Communication / analysis / transparency @Nuggan @chuygarcia.eth @Zeptimus @acidlazzer Paused: - Onboarding / education - SourceCred Do you have more items for the agenda? Add to the agenda doc:
 
@@ -13058,9 +11522,7 @@ _04-Jun-22 06:26 PM_:
 
 - same praise giver, same praise verbatim and the same week = dismiss - same praise giver, same/similar praise verbatim and different weeks = quantify - different praise giver, same contribution praised and the same week = duplicate - different praise giver, same contribution praised and different week = quantify
 
-that's a nice summary @Mettodo made on the forum
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50>
+that's a nice summary @Mettodo made on the forum <img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=20 height=20>
 
 [https://forum.tecommons.org/t/quantifier-onboarding/825/2](https://forum.tecommons.org/t/quantifier-onboarding/825/2)
 
@@ -13082,9 +11544,6 @@ _04-Jun-22 09:05 PM_:
 
 Thank you! Mitch’s message on here linked from that forum was helpful in understanding what happens to duplicates!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -13104,9 +11563,6 @@ _06-Jun-22 05:00 PM_:
 
 haha so inspiring right?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f33a.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -13130,9 +11586,6 @@ _06-Jun-22 05:05 PM_:
 
 deploying the fix as we speak!
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f525.png" width=50 height=50>
-
-1
 
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
@@ -13155,9 +11608,7 @@ thanks for the quick reply :))
 <h3>TEC Praise Bot BOT <img src="https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png" width=25 height=25></h3>
 
 _06-Jun-22 05:07 PM_:
-✅ Praise @mattyjee for being so on top of praise bugs.
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f41e.png" width=50 height=50>
+✅ Praise @mattyjee for being so on top of praise bugs. <img src="https://twemoji.maxcdn.com/2/72x72/1f41e.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png](https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png)
 
@@ -13171,17 +11622,12 @@ _06-Jun-22 05:20 PM_:
 
 okay should be resolved! (edited)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png](https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png)
 
 griff (💜, 💜)
 
-[could use more votes here](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[could use more votes here](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 [https://forum.gnosis.io/t/gip-48-should-gnosisdao-implement-the-praise-reward-system-around-the-gnosis-chain-validator-program/5101](https://forum.gnosis.io/t/gip-48-should-gnosisdao-implement-the-praise-reward-system-around-the-gnosis-chain-validator-program/5101)
 
@@ -13199,9 +11645,6 @@ _06-Jun-22 10:44 PM_:
 
 Perhaps we could announce this in the "Announcements" channel to increase visibility?
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 ![https://cdn.discordapp.com/avatars/908799381229154314/041a1948b918ecd3ae58b5411222fbba.png](https://cdn.discordapp.com/avatars/908799381229154314/041a1948b918ecd3ae58b5411222fbba.png)
 
@@ -13232,9 +11675,7 @@ Table of contents
 <h3>liviade <img src="https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png" width=25 height=25></h3>
 
 _08-Jun-22 01:57 PM_:
-I can't join today
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f63f.png" width=50 height=50>
+I can't join today <img src="https://twemoji.maxcdn.com/2/72x72/1f63f.png" width=20 height=20>
 
 will watch the recording, have a great session everyone!
 
@@ -13250,9 +11691,6 @@ _08-Jun-22 10:29 PM_:
 
 We have quorum and it appears very likely to pass
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -13264,9 +11702,7 @@ I noticed a weird bug this am while making the report for the last round - the s
 
 I did some investiagting and I noticed on the 15th no praise was dished, and praise that was dished on the 14th was captured in the last round.. perhaps it is related?
 
-oh and also the TOP 10 praise in the report is showing the praise as nan. Seems to be a pretty critical bug. ‼️
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f9ef.png" width=50 height=50>
+oh and also the TOP 10 praise in the report is showing the praise as nan. Seems to be a pretty critical bug. ‼️ <img src="https://twemoji.maxcdn.com/2/72x72/1f9ef.png" width=20 height=20>
 
 (edited)
 
@@ -13318,9 +11754,6 @@ _09-Jun-22 05:41 PM_:
 
 Hmm. Definitely some funky business going on here. Hope to find time during the weekend to investigate.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -13380,9 +11813,7 @@ _14-Jun-22 01:20 PM_:
 
 [Token Engineering Commons (@tecmns)](https://twitter.com/tecmns)
 
-Did you know about our #Rewards System? @givepraise is based the community's recognition of contributions, empowering a culture of giving and gratitude
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9f5.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=50 height=50> <img src="$5" width=50 height=50>
+Did you know about our #Rewards System? @givepraise is based the community's recognition of contributions, empowering a culture of giving and gratitude <img src="https://twemoji.maxcdn.com/2/72x72/1f970.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64c.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f9f5.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f447.png" width=50 height=50> <img src="$5" width=20 height=20>
 
 ![https://pbs.twimg.com/media/FVOpmK8XoAALDDE.png](https://pbs.twimg.com/media/FVOpmK8XoAALDDE.png)
 
@@ -13390,9 +11821,6 @@ Did you know about our #Rewards System? @givepraise is based the community's rec
 
 Twitter • 14-Jun-22 01:12 PM
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 <h3>innov8tor3 <img src="https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png" width=25 height=25></h3>
 
@@ -13406,9 +11834,6 @@ Knowledge of what the brain is doing during the experience of gratitude provides
 
 ![https://cdn1.neurohacker.com/bERiW6hQURNHdEQLETtBVwBE.png](https://cdn1.neurohacker.com/bERiW6hQURNHdEQLETtBVwBE.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f49a.png" width=50 height=50>
-
-3
 
 ![https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png](https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png)
 
@@ -13424,17 +11849,13 @@ Yep. there will be a fix out shortly.
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
-_15-Jun-22 01:36 PM_:
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+_15-Jun-22 01:36 PM_: <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 Hey folks! Welcome to the Rewards WG Weekly meeting today! @Reward Board Members Time: 20:00 CET Meeting room: reward-system voice channel Status updates: - Communication / analysis / transparency @chuygarcia.eth @acidlazzer - The Praise animation - Character design updates - Quantifications @mitch (🍔, 🍔) - Reward board @kristofer - RAD Dashboard @Nuggan @zhiwei - Praise @kristofer Do you have more items for the agenda? Add to the agenda doc:
 
 [https://fmckl.notion.site/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13](https://www.notion.so/Notes-Weekly-WG-meeting-0f47c33928344142ba388d6c0f57ff13)
 
-See you!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50>
+See you! <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f64f.png" width=20 height=20>
 
 (edited)
 
@@ -13443,9 +11864,6 @@ See you!
 _15-Jun-22 01:40 PM_:
 @kristofer hey kris :), thanks. We will need maybe 5 minutes to present the character design updates and show you guys a little video
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/1f44f.png" width=50 height=50>
-
-1
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -13459,9 +11877,6 @@ Where can I get more context if I don’t understand the praise? Often you might
 
 [https://lh6.googleusercontent.com/4DRrszsgBZK8rj6upCqE-xL7fh22UW-r3xnIEIhmBPyhbuROpglUtv1VjO39gB5ZqXXD_yIueG8bzg=w1200-h630-p](https://lh6.googleusercontent.com/4DRrszsgBZK8rj6upCqE-xL7fh22UW-r3xnIEIhmBPyhbuROpglUtv1VjO39gB5ZqXXD_yIueG8bzg=w1200-h630-p)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44d.png" width=50 height=50>
-
-2
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -13471,9 +11886,6 @@ Praise have been updated to a new version adding a bunch of new features and fix
 
 ![https://cdn.discordapp.com/attachments/831192353812381715/988819349240434709/unknown.png](https://cdn.discordapp.com/attachments/831192353812381715/988819349240434709/unknown.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f973.png" width=50 height=50>
-
-1
 
 ![https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png](https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png)
 
@@ -13511,9 +11923,6 @@ Table of contents
 
 ![https://fmckl.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F02917e7c-503b-41e7-8d7a-4e74acc2600b%2FUntitled.png?table=block&id=d5cf23c9-7b7d-4608-98f0-9dcfa36f9556&width=2000&userId=&cache=v2](https://fmckl.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F02917e7c-503b-41e7-8d7a-4e74acc2600b%2FUntitled.png?table=block&id=d5cf23c9-7b7d-4608-98f0-9dcfa36f9556&width=2000&userId=&cache=v2)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f4af.png" width=50 height=50>
-
-1
 
 <h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
@@ -13538,21 +11947,15 @@ acidlazzer
 <h3>Edu - TEC Steward. <img src="https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png" width=25 height=25></h3>
 
 _24-Jun-22 07:41 AM_:
-Probably this have received a lot of feedback already, but It would be nice if when the word Praise, some color is added, as in, it's something important. I'd also use a different typo and bend it better with the background
+Probably this have received a lot of feedback already, but It would be nice if when the word Praise, some color is added, as in, it's something important. I'd also use a different typo and bend it better with the background <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
-
-@mitch (🍔, 🍔) and RS WG, can we tweak to avoid the bot saying pollen?
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+@mitch (🍔, 🍔) and RS WG, can we tweak to avoid the bot saying pollen? <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png](https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png)
 
 Edu - TEC Steward.
 
-[@mitch (🍔, 🍔) and RS WG, can we tweak to avoid the bot saying pollen?](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[@mitch (🍔, 🍔) and RS WG, can we tweak to avoid the bot saying pollen?](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -13577,9 +11980,7 @@ you know, making people verify and proof ownership of services, but with the wro
 <h3>Mert Ozd <img src="https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png" width=25 height=25></h3>
 
 _25-Jun-22 04:01 AM_:
-Hey
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=50 height=50>
+Hey <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=20 height=20>
 
 , I have a question that I would love to discuss. So our reward system has been developing fastly in last couple of months with quantification periods, bot developments and more ! However, even though we have improved the system a lot, the reward system requires lots of manual labor. I am wondering how is the discussions regarding automization of that process going on ? ( I am not regular in wg so sorry if these are already being discussed) I believe our reward system may benefit a lot from Natural language processing models in making automized quantification. We have lots of quantifiers that can make labeling job to feed AI. What do you guys think ? @mitch (🍔, 🍔) @kristofer @ygg_anderson
 
@@ -13587,24 +11988,18 @@ Hey
 
 Edu - TEC Steward.
 
-[@mitch (🍔, 🍔) and RS WG, can we tweak to avoid the bot saying pollen?](about:blank#) 
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=50 height=50>
+[@mitch (🍔, 🍔) and RS WG, can we tweak to avoid the bot saying pollen?](about:blank#)  <img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" width=20 height=20>
 
 <h3>Vyvy-vi <img src="https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png" width=25 height=25></h3>
 
 _25-Jun-22 08:09 AM_:
-I think I opened a Pr some time ago to remove those terms
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=50 height=50>
+I think I opened a Pr some time ago to remove those terms <img src="https://twemoji.maxcdn.com/2/72x72/1f914.png" width=20 height=20>
 
 ![https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png](https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png)
 
 Mert Ozd
 
-[Hey , I have a question that I would love to discuss. So our reward system has been developing fastly in last couple of months with quantification periods, bot developments and more ! However, even though we have improved the system a lot, the reward system requires lots of manual labor. I am wondering how is the discussions regarding automization of that process going on ? ( I am not regular in wg so sorry if these are already being discussed) I believe our reward system may benefit a lot from Natural language processing models in making automized quantification. We have lots of quantifiers that can make labeling job to feed AI. What do you guys think ? @mitch (🍔, 🍔) @kristofer @ygg_anderson](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=50 height=50>
+[Hey , I have a question that I would love to discuss. So our reward system has been developing fastly in last couple of months with quantification periods, bot developments and more ! However, even though we have improved the system a lot, the reward system requires lots of manual labor. I am wondering how is the discussions regarding automization of that process going on ? ( I am not regular in wg so sorry if these are already being discussed) I believe our reward system may benefit a lot from Natural language processing models in making automized quantification. We have lots of quantifiers that can make labeling job to feed AI. What do you guys think ? @mitch (🍔, 🍔) @kristofer @ygg_anderson](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width=20 height=20>
 
 <h3>mitch (🍔, 🍔) <img src="https://cdn.discordapp.com/avatars/288019500132073472/f2a7e7eb583ccb9397f85406a3962ec3.png" width=25 height=25></h3>
 
@@ -13624,18 +12019,12 @@ _26-Jun-22 01:30 PM_:
 
 Yes @Mert Ozd, we believe the praise items being quantified by humans being super important. - The praise feed provides a rich source of information about what goes on in the community. Quantifiers effectively get paid to learn more about the community. Knowing and appreciating what your peers do is an effective way to build community. - No current AI would be able to asses the importance of a contribution based on the words in the praise items alone. Added context is often needed - having read other praise, having read a forum post referring to the contribution in question etc.
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2764.png" width=50 height=50>
-
-1
 
 <h3>acidlazzer <img src="https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png" width=25 height=25></h3>
 
 _29-Jun-22 12:44 PM_:
 @mitch (🍔, 🍔) @kristofer Hi :), there is no animatic update today, sorry
 
-<img src="https://twemoji.maxcdn.com/2/72x72/1f61e.png" width=50 height=50> <img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -13648,9 +12037,7 @@ Welcome all to the Rewards WG Weekly meeting today! @Reward Board Members Time: 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
 _01-Jul-22 05:15 AM_:
-Vacation notice!
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f603.png" width=50 height=50>
+Vacation notice! <img src="https://twemoji.maxcdn.com/2/72x72/1f603.png" width=20 height=20>
 
 I'll be gone for the two coming weeks. Could someone take on hosting the Rewards WG sessions? @liviade @mitch (🍔, 🍔) @Zeptimus? Someone else of the @Reward Board Members?
 
@@ -13658,9 +12045,7 @@ I'll be gone for the two coming weeks. Could someone take on hosting the Rewards
 
 kristofer
 
-[Vacation notice!  I'll be gone for the two coming weeks. Could someone take on hosting the Rewards WG sessions? @liviade @mitch (🍔, 🍔) @Zeptimus? Someone else of the @Reward Board Members?](about:blank#)
-
-<img src="https://twemoji.maxcdn.com/2/72x72/1f603.png" width=50 height=50>
+[Vacation notice!  I'll be gone for the two coming weeks. Could someone take on hosting the Rewards WG sessions? @liviade @mitch (🍔, 🍔) @Zeptimus? Someone else of the @Reward Board Members?](about:blank#) <img src="https://twemoji.maxcdn.com/2/72x72/1f603.png" width=20 height=20>
 
 <h3>Zeptimus <img src="https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png" width=25 height=25></h3>
 
@@ -13694,8 +12079,5 @@ Context Hey everyone! We have finally finished with @hernandoagf a report on Sou
 
 ![https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/2X/c/ce389c10246584ccb795578e7333d9cbf0e0daed.png](https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/2X/c/ce389c10246584ccb795578e7333d9cbf0e0daed.png)
 
-<img src="https://twemoji.maxcdn.com/2/72x72/2728.png" width=50 height=50>
-
-1
 
 Exported 1,334 message(s)

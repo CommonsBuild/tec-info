@@ -234,9 +234,6 @@ _08-Dec-21 01:54 AM_:
 
 Here's another example that was handled awkwardly and requires additional manual parsing/processing [https://discord.com/channels/810180621930070088/810180622336262195/912741555624874074](https://discord.com/channels/810180621930070088/810180622336262195/912741555624874074) rows 13090 to 13093 on the master sheet
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
-
-2
 
 <h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
@@ -244,9 +241,6 @@ _08-Dec-21 02:09 AM_:
 
 Then rows 13203 to 13218 appear to have been entered incorrectly, then deleted from the discord channel and not re-entered by the user. but the entries are still logged in the google sheet.
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
-
-2
 
 <h3>graial <img src="https://cdn.discordapp.com/avatars/876056250654269460/36e04ba669c77fb6873a8a862f6928f1.png" width=25 height=25></h3>
 
@@ -254,9 +248,6 @@ _08-Dec-21 03:32 AM_:
 
 Another example where several (but not all) of the recipients were properly stripped from the input, however the remaining commas tricked the bot into thinking that a reason had been provided. Therefore allowing the message to pass [https://discord.com/channels/810180621930070088/810180622336262195/914024589066108948](https://discord.com/channels/810180621930070088/810180622336262195/914024589066108948) rows 132528 13539
 
-![https://twemoji.maxcdn.com/2/72x72/2728.png](https://twemoji.maxcdn.com/2/72x72/2728.png)
-
-1
 
 <h3>kristofer <img src="https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png" width=25 height=25></h3>
 
@@ -399,9 +390,6 @@ _13-Dec-21 08:51 AM_:
 
 Hello there! So sorry for that, we are updating links and this was slipped through
 
-![https://twemoji.maxcdn.com/2/72x72/1f44b.png](https://twemoji.maxcdn.com/2/72x72/1f44b.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/659505162439753739/84e926ee3a2d1ffa74ba0156ecac0caf.png](https://cdn.discordapp.com/avatars/659505162439753739/84e926ee3a2d1ffa74ba0156ecac0caf.png)
 
@@ -437,9 +425,6 @@ Table of content: Advice Process Peer to Peer Advice Working Group Advice Commun
 
 ![https://forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png](https://forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f44d.png](https://twemoji.maxcdn.com/2/72x72/1f44d.png)
-
-5
 
 <h3>griff (💜, 💜) <img src="https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png" width=25 height=25></h3>
 
@@ -518,9 +503,6 @@ I'll take a look
 
 Maybe something broke when the recent changes were made
 
-![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
 
@@ -542,9 +524,6 @@ _25-Mar-22 03:36 PM_:
 
 It has been fixed! (edited)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-1
 
 ![https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png](https://cdn.discordapp.com/avatars/558192816308617227/af64b80c32205d256106f8da7e88a3ce.png)
 
@@ -589,9 +568,6 @@ Thank you so much for sharing this. We will check and update it accordingly
 
 ![https://twemoji.maxcdn.com/2/72x72/1f64f.png](https://twemoji.maxcdn.com/2/72x72/1f64f.png)
 
-![https://twemoji.maxcdn.com/2/72x72/1f64c.png](https://twemoji.maxcdn.com/2/72x72/1f64c.png)
-
-1
 
 ![https://cdn.discordapp.com/embed/avatars/1.png](https://cdn.discordapp.com/embed/avatars/1.png)
 
@@ -678,8 +654,5 @@ Whaaaaat?
 
 ok checking this
 
-![https://twemoji.maxcdn.com/2/72x72/1f680.png](https://twemoji.maxcdn.com/2/72x72/1f680.png)
-
-1
 
 Exported 61 message(s)

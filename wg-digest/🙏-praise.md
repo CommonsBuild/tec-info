@@ -1533,11 +1533,8 @@ _02-Apr-21 03:49 AM_:
 
 !praise @griff @Tam2140 @JessicaZartler @Juankbell @liviade @mitch @santigs @sem 🐝 @Zeptimus @chuygarcia92 @eduardovegap @mateodaza @natesuits @paulo_ @Letty @sbilbao for joining the TEC Weekly Sync
 
-[https://www.youtube.com/watch?v=WG5j9aC8mWg](https://www.youtube.com/watch?v=WG5j9aC8mWg)
 
-[Token Engineering Commons](https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg)
-
-TEC Community Call 26: MVV and WG Updates
+[TEC Community Call 26: MVV and WG Updates](https://www.youtube.com/watch?v=WG5j9aC8mWg)
 
 Timecodes: 00:00 - Praise time! 18:10 - Agenda 20:37 - Stewards 22:25 - Legal 23:45 - Gravity 25:06 - Hatcher outreach 21:59 - Soft Gov 31:42 - Transparency 32:39 - 0mega 33:42 - Comms 39:25 - Params 43:18 - Common Swarm 53:53 - MVV
 Thank you for watching! Hit
