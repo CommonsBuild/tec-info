@@ -1,5 +1,7 @@
 # &#128330;-tec-gravity discord digest <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h3>
 
+## >> NOW IN OWN REPOSITORY [GRAVITY DAO INFO](https://github.com/ddan4/Gravity-DAO-INFO) <<
+
 ## TOC
 
 - [Main Links](#main-links)
